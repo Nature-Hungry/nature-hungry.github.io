@@ -1,0 +1,67 @@
+{% comment %}
+  _includes/grid.html
+  -------------------
+  Renders a 2x2 content grid. Each cell takes an image, a button, and a caption.
+
+  Parameters:
+    img1, img2, img3, img4         – image paths
+    alt1, alt2, alt3, alt4         – image alt text
+    href1, href2, href3, href4     – button link URLs
+    label1, label2, label3, label4 – button labels
+    text1, text2, text3, text4     – caption text below the button
+
+  Usage:
+    {% include grid.html
+      img1="assets/images/photos/whazzat.jpg"      alt1="Photo index"
+      href1="/photoindex/"                          label1="Photo index"
+      text1="Don't know what you found? Try using our photo index!"
+
+      img2="assets/images/photos/concept.jpg"      alt2="Concepts"
+      href2="/concepts/"                            label2="Concepts"
+      text2="Ecosystems, feeding methods, tides, and more."
+
+      img3="assets/images/photos/redlist.jpg"      alt3="Singapore Red List"
+      href3="/redlist/"                             label3="The Singapore Red List"
+      text3="Lifeforms considered threatened in the Singaporean context."
+
+      img4="assets/images/photos/fornatureguides.jpg" alt4="For Nature Guides"
+      href4="/forguides/"                              label4="For Nature Guides"
+      text4="Tips and stories for guiding on the shores!"
+    %}
+{% endcomment %}
+
+<div class="content-grid">
+
+  <div class="content-grid__cell">
+    {% if include.img1 %}
+    <img src="{{ include.img1 | relative_url }}" alt="{{ include.alt1 }}" class="content-grid__img">
+    {% endif %}
+    <a href="{{ include.href1 | relative_url }}" class="btn">{{ include.label1 }}</a>
+    {% if include.text1 %}<p class="content-grid__caption">{{ include.text1 }}</p>{% endif %}
+  </div>
+
+  <div class="content-grid__cell">
+    {% if include.img2 %}
+    <img src="{{ include.img2 | relative_url }}" alt="{{ include.alt2 }}" class="content-grid__img">
+    {% endif %}
+    <a href="{{ include.href2 | relative_url }}" class="btn">{{ include.label2 }}</a>
+    {% if include.text2 %}<p class="content-grid__caption">{{ include.text2 }}</p>{% endif %}
+  </div>
+
+  <div class="content-grid__cell">
+    {% if include.img3 %}
+    <img src="{{ include.img3 | relative_url }}" alt="{{ include.alt3 }}" class="content-grid__img">
+    {% endif %}
+    <a href="{{ include.href3 | relative_url }}" class="btn">{{ include.label3 }}</a>
+    {% if include.text3 %}<p class="content-grid__caption">{{ include.text3 }}</p>{% endif %}
+  </div>
+
+  <div class="content-grid__cell">
+    {% if include.img4 %}
+    <img src="{{ include.img4 | relative_url }}" alt="{{ include.alt4 }}" class="content-grid__img">
+    {% endif %}
+    <a href="{{ include.href4 | relative_url }}" class="btn">{{ include.label4 }}</a>
+    {% if include.text4 %}<p class="content-grid__caption">{{ include.text4 }}</p>{% endif %}
+  </div>
+
+</div>

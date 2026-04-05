@@ -1,18 +1,8 @@
 ---
 # _layouts/page.html
-# Used by: all standard content pages (species fact sheets, about, links,
-#          glossary entries, concept pages, forguides, checklist, etc.)
-#
-# Layout mirrors the original two-column structure:
-#   left  (~75%) – main content
-#   right (~25%) – optional sidebar (related links, photo thumbs, taxonomy)
-#
-# To show a sidebar, set in the page's front matter:
-#   sidebar: true
-#
-# To show a species header block, set:
-#   species_image: /assets/images/animals/foo.jpg
-#   species_image_alt: "Common name (Scientific name)"
+# Used by: all standard content pages
+# To show a per-page sidebar: sidebar: true
+# To show a species hero: species_image: /assets/images/animals/foo.jpg
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -22,7 +12,6 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
   <title>{{ page.title }} | Wild Fact Sheets</title>
-
   {% if page.description %}
   <meta name="description" content="{{ page.description }}">
   {% endif %}
@@ -33,149 +22,144 @@
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 </head>
 <body>
-<div class="site-wrapper">
 
-  <!-- ── Header ─────────────────────────────────────────────────────────── -->
-  <header class="site-header">
-    <div class="site-header__inner">
+  <!-- ── Fixed left sidebar ─────────────────────────────────────────────── -->
+  <aside class="site-sidebar" aria-label="Site navigation">
 
-      <a class="site-logo" href="{{ '/' | relative_url }}">
-        <img
-          src="{{ '/assets/images/wildfactsheet3.gif' | relative_url }}"
-          alt="Wild Fact Sheets"
-          width="180"
-          height="57">
-      </a>
+    <a class="site-sidebar__title" href="{{ '/' | relative_url }}">wildsingapore</a>
+    <span class="site-sidebar__sub">wild shores of singapore</span>
 
-      <div class="site-tagline">
-        <a class="site-tagline__main" href="https://www.wildsingapore.com/">wildsingapore</a>
-        <span class="site-tagline__sub">wild shores of singapore</span>
-      </div>
+    <hr class="site-sidebar__divider">
 
-      <nav class="site-header__links" aria-label="Site links">
-        <a href="https://www.wildsingapore.com/">wildsingapore homepage</a><br>
-        <a href="https://www.wildsingapore.com/places/">info for visitors</a> to our wild shores<br>
-        <a href="{{ '/' | relative_url }}">wildfactsheets homepage</a><br>
-        <a href="https://wildshores.blogspot.com/">wild shores of singapore blog</a>
+    <div>
+      <p class="site-sidebar__heading">Navigate</p>
+      <nav aria-label="Sidebar navigation">
+        <a href="{{ '/links/'      | relative_url }}" class="btn">links</a>
+        <a href="{{ '/references/' | relative_url }}" class="btn">references</a>
+        <a href="{{ '/about/'      | relative_url }}" class="btn">about</a>
+        <a href="mailto:hello@wildsingapore.com"      class="btn">email Ria</a>
       </nav>
-
     </div>
-  </header>
 
-  <!-- ── Primary navigation bar ──────────────────────────────────────────── -->
-  <nav class="site-nav" aria-label="Main navigation">
-    <ul>
-      <li><a href="{{ '/animals/'  | relative_url }}">all animals</a></li>
-      <li><a href="{{ '/plants/'   | relative_url }}">all plants</a></li>
-      <li><a href="{{ '/concepts/' | relative_url }}">concepts</a></li>
-      <li><a href="{{ '/glossary/' | relative_url }}">glossary</a></li>
-      <li><a href="{{ '/search/'   | relative_url }}">search</a></li>
-    </ul>
-  </nav>
-
-  <!-- ── Page body ───────────────────────────────────────────────────────── -->
-  <main id="main-content"
-        class="page-content{% if page.sidebar %} page-content--with-sidebar{% endif %}">
-
-    <!-- Left column: main article content -->
-    <article class="page-article">
-
-      <!-- Optional species hero image (fact-sheet pages) -->
-      {% if page.species_image %}
-      <div class="species-header">
-        <img
-          src="{{ page.species_image | relative_url }}"
-          alt="{{ page.species_image_alt | default: page.title }}">
-        <div class="species-header__meta">
-          <h1>{{ page.title }}</h1>
-          {% if page.scientific_name %}
-          <p class="species-header__sci"><em>{{ page.scientific_name }}</em></p>
-          {% endif %}
-          {% if page.family %}
-          <p class="species-header__family text-small">Family {{ page.family }}</p>
-          {% endif %}
-        </div>
-      </div>
-      {% else %}
-      <!-- Regular page title -->
-      <h1>{{ page.title }}</h1>
-      {% endif %}
-
-      <!-- Main Markdown/HTML content -->
-      {{ content }}
-
-    </article>
-
-    <!-- Right column: optional sidebar -->
-    {% if page.sidebar %}
-    <aside class="page-sidebar">
-
-      <!-- Back-navigation breadcrumb -->
-      {% if page.parent_label and page.parent_url %}
-      <nav class="sidebar-back" aria-label="Back navigation">
-        <a href="{{ page.parent_url | relative_url }}">&larr; {{ page.parent_label }}</a>
-      </nav>
-      {% endif %}
-
-      <!-- Taxonomy / classification box (species pages) -->
-      {% if page.taxonomy %}
-      <section class="sidebar-box">
-        <h3>Classification</h3>
-        <dl class="taxonomy-list">
-          {% for item in page.taxonomy %}
-          <dt>{{ item.rank }}</dt>
-          <dd>{{ item.name }}</dd>
-          {% endfor %}
-        </dl>
-      </section>
-      {% endif %}
-
-      <!-- Related links box -->
-      {% if page.related %}
-      <section class="sidebar-box">
-        <h3>Related pages</h3>
-        <ul class="sidebar-links">
-          {% for link in page.related %}
-          <li><a href="{{ link.url | relative_url }}">{{ link.title }}</a></li>
-          {% endfor %}
-        </ul>
-      </section>
-      {% endif %}
-
-      <!-- Any free-form sidebar content written in the page's Markdown
-           under a `sidebar_content` front-matter key -->
-      {% if page.sidebar_content %}
-      <section class="sidebar-box">
-        {{ page.sidebar_content | markdownify }}
-      </section>
-      {% endif %}
-
-    </aside>
-    {% endif %}
-
-  </main>
-
-  <!-- ── Footer ─────────────────────────────────────────────────────────── -->
-  <footer class="site-footer">
-    <nav class="site-footer__nav" aria-label="Footer navigation">
-      <a href="{{ '/links/'      | relative_url }}">links</a>
-      |
-      <a href="{{ '/references/' | relative_url }}">references</a>
-      |
-      <a href="{{ '/about/'      | relative_url }}">about</a>
-      |
-      <a href="mailto:hello@wildsingapore.com">email Ria</a>
-    </nav>
-    <p class="site-footer__tagline">
+    <p class="site-sidebar__tagline">
       Spot errors? Have a question? Want to share your sightings?
       <a href="mailto:hello@wildsingapore.com">email Ria</a>
       &mdash; I'll be glad to hear from you!
     </p>
-    <p class="site-footer__copy">
+
+    <p class="site-sidebar__copy">
       wildfactsheets website &copy; ria tan 2008
     </p>
-  </footer>
 
-</div><!-- .site-wrapper -->
+  </aside>
+
+  <!-- ── Main content ───────────────────────────────────────────────────── -->
+  <div class="site-wrapper">
+
+    <header class="site-header">
+      <div class="site-header__inner">
+        <a class="site-logo" href="{{ '/' | relative_url }}">
+          <img
+            src="{{ '/assets/images/wildfactsheet3.gif' | relative_url }}"
+            alt="Wild Fact Sheets"
+            width="180"
+            height="57">
+        </a>
+        <div class="site-tagline">
+          <a class="site-tagline__main" href="https://www.wildsingapore.com/">wildsingapore</a>
+          <span class="site-tagline__sub">wild shores of singapore</span>
+        </div>
+        <nav class="site-header__links" aria-label="Site links">
+          <a href="https://www.wildsingapore.com/">wildsingapore homepage</a><br>
+          <a href="https://www.wildsingapore.com/places/">info for visitors</a> to our wild shores<br>
+          <a href="{{ '/' | relative_url }}">wildfactsheets homepage</a><br>
+          <a href="https://wildshores.blogspot.com/">wild shores of singapore blog</a>
+        </nav>
+      </div>
+    </header>
+
+    <nav class="site-nav" aria-label="Main navigation">
+      <ul>
+        <li><a href="{{ '/animals/'  | relative_url }}">all animals</a></li>
+        <li><a href="{{ '/plants/'   | relative_url }}">all plants</a></li>
+        <li><a href="{{ '/concepts/' | relative_url }}">concepts</a></li>
+        <li><a href="{{ '/glossary/' | relative_url }}">glossary</a></li>
+        <li><a href="{{ '/search/'   | relative_url }}">search</a></li>
+      </ul>
+    </nav>
+
+    <main id="main-content"
+          class="page-content{% if page.sidebar %} page-content--with-sidebar{% endif %}">
+
+      <article class="page-article">
+
+        {% if page.species_image %}
+        <div class="species-header">
+          <img
+            src="{{ page.species_image | relative_url }}"
+            alt="{{ page.species_image_alt | default: page.title }}">
+          <div class="species-header__meta">
+            <h1>{{ page.title }}</h1>
+            {% if page.scientific_name %}
+            <p class="species-header__sci"><em>{{ page.scientific_name }}</em></p>
+            {% endif %}
+            {% if page.family %}
+            <p class="species-header__family text-small">Family {{ page.family }}</p>
+            {% endif %}
+          </div>
+        </div>
+        {% else %}
+        <h1>{{ page.title }}</h1>
+        {% endif %}
+
+        {{ content }}
+
+      </article>
+
+      {% if page.sidebar %}
+      <aside class="page-sidebar">
+
+        {% if page.parent_label and page.parent_url %}
+        <nav class="sidebar-back" aria-label="Back navigation">
+          <a href="{{ page.parent_url | relative_url }}">&larr; {{ page.parent_label }}</a>
+        </nav>
+        {% endif %}
+
+        {% if page.taxonomy %}
+        <section class="sidebar-box">
+          <h3>Classification</h3>
+          <dl class="taxonomy-list">
+            {% for item in page.taxonomy %}
+            <dt>{{ item.rank }}</dt>
+            <dd>{{ item.name }}</dd>
+            {% endfor %}
+          </dl>
+        </section>
+        {% endif %}
+
+        {% if page.related %}
+        <section class="sidebar-box">
+          <h3>Related pages</h3>
+          <ul class="sidebar-links">
+            {% for link in page.related %}
+            <li><a href="{{ link.url | relative_url }}">{{ link.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </section>
+        {% endif %}
+
+        {% if page.sidebar_content %}
+        <section class="sidebar-box">
+          {{ page.sidebar_content | markdownify }}
+        </section>
+        {% endif %}
+
+      </aside>
+      {% endif %}
+
+    </main>
+
+  </div><!-- .site-wrapper -->
+
 </body>
 </html>

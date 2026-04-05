@@ -1,11 +1,6 @@
 ---
 # _layouts/home.html
 # Used by: index.md (the wildfactsheets homepage)
-#
-# Reproduces the original 3×2 photo-grid of section entry points,
-# the Pulau Semakau checklist link, and the two utility links below it.
-# All section data is driven by the `home_sections` list in _config.yml
-# (or can be overridden in the page's own front matter).
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -15,7 +10,6 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
   <title>{{ page.title | default: "Wild Fact Sheets" }}</title>
-
   {% if page.description %}
   <meta name="description" content="{{ page.description }}">
   {% endif %}
@@ -26,159 +20,156 @@
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 </head>
 <body>
-<div class="site-wrapper">
 
-  <!-- ── Header ─────────────────────────────────────────────────────────── -->
-  <header class="site-header">
-    <div class="site-header__inner">
+  <!-- ── Fixed left sidebar ─────────────────────────────────────────────── -->
+  <aside class="site-sidebar" aria-label="Site navigation">
 
-      <a class="site-logo" href="{{ '/' | relative_url }}">
-        <img
-          src="{{ '/assets/images/wildfactsheet3.gif' | relative_url }}"
-          alt="Wild Fact Sheets"
-          width="180"
-          height="57">
-      </a>
+    <!-- Site identity -->
 
-      <div class="site-tagline">
-        <a class="site-tagline__main" href="https://www.wildsingapore.com/">wildsingapore</a>
-        <span class="site-tagline__sub">wild shores of singapore</span>
-      </div>
+    <hr class="site-sidebar__divider">
 
-      <nav class="site-header__links" aria-label="Site links">
-        <a href="https://www.wildsingapore.com/">wildsingapore homepage</a><br>
-        <a href="https://www.wildsingapore.com/places/">info for visitors</a> to our wild shores<br>
-        <a href="{{ '/' | relative_url }}">wildfactsheets homepage</a><br>
-        <a href="https://wildshores.blogspot.com/">wild shores of singapore blog</a>
+    <!-- Navigation links -->
+    <div>
+      <p class="site-sidebar__heading">Navigate</p>
+      <nav aria-label="Sidebar navigation">
+        <a href="https://www.wildsingapore.com/" class="btn">Wildsingapore</a>
+        <a href="https://www.wildsingapore.com/places/" class="btn">Info for Visitors</a>
+        <a href="https://wildshores.blogspot.com/" class="btn">Wild Shores Blog</a>
+        <a href="{{ '/animals/'  | relative_url }}" class="btn">All Animals</a>
+        <a href="{{ '/plants/'   | relative_url }}" class="btn">All Plants</a>
+        <a href="{{ '/concepts/' | relative_url }}" class="btn">Concepts</a>
+        <a href="{{ '/search/'   | relative_url }}" class="btn">Search</a>
+        <a href="{{ '/about/'      | relative_url }}">About</a>
+        <a href="{{ '/glossary/' | relative_url }}">Glossary</a>
+        <a href="{{ '/links/'      | relative_url }}">Links</a>
+        <a href="{{ '/references/' | relative_url }}">References</a>
       </nav>
-
-    </div>
-  </header>
-
-  <!-- ── Primary navigation bar ──────────────────────────────────────────── -->
-  <nav class="site-nav" aria-label="Main navigation">
-    <ul>
-      <li><a href="{{ '/animals/'  | relative_url }}">all animals</a></li>
-      <li><a href="{{ '/plants/'   | relative_url }}">all plants</a></li>
-      <li><a href="{{ '/concepts/' | relative_url }}">concepts</a></li>
-      <li><a href="{{ '/glossary/' | relative_url }}">glossary</a></li>
-      <li><a href="{{ '/search/'   | relative_url }}">search</a></li>
-    </ul>
-  </nav>
-
-  <!-- ── Homepage body ───────────────────────────────────────────────────── -->
-  <main class="page-content home-content" id="main-content">
-
-    <!-- 3×2 photo grid of section entry points -->
-    <div class="photo-grid">
-
-      <div class="photo-grid__item">
-        <a href="{{ '/animals/' | relative_url }}">
-          <img src="{{ '/assets/images/animal.jpg' | relative_url }}"
-               alt="Animals" width="144" height="145">
-        </a>
-        <p class="caption"><a href="{{ '/animals/' | relative_url }}"><strong>animals</strong></a></p>
-      </div>
-
-      <div class="photo-grid__item">
-        <a href="{{ '/plants/' | relative_url }}">
-          <img src="{{ '/assets/images/plant.jpg' | relative_url }}"
-               alt="Plants" width="144" height="145">
-        </a>
-        <p class="caption"><a href="{{ '/plants/' | relative_url }}"><strong>plants</strong></a></p>
-      </div>
-
-      <div class="photo-grid__item">
-        <a href="{{ '/photoindex/' | relative_url }}">
-          <img src="{{ '/assets/images/whazzat.jpg' | relative_url }}"
-               alt="Photo index" width="144" height="145">
-        </a>
-        <p class="caption">
-          don't know the name?<br>
-          Try the <a href="{{ '/photoindex/' | relative_url }}"><strong>photo index</strong></a>
-        </p>
-      </div>
-
-      <div class="photo-grid__item">
-        <a href="{{ '/concepts/' | relative_url }}">
-          <img src="{{ '/assets/images/concept.jpg' | relative_url }}"
-               alt="Concepts" width="144" height="145">
-        </a>
-        <p class="caption">
-          <strong>some <a href="{{ '/concepts/' | relative_url }}">concepts</a> explained</strong><br>
-          ecosystems, feeding methods<br>
-          what causes the tides, etc
-        </p>
-      </div>
-
-      <div class="photo-grid__item">
-        <a href="{{ '/redlist/' | relative_url }}">
-          <img src="{{ '/assets/images/redlist.jpg' | relative_url }}"
-               alt="Singapore red list" width="144" height="146">
-        </a>
-        <p class="caption">
-          <a href="{{ '/redlist/' | relative_url }}"><strong>the Singapore red list</strong></a><br>
-          threatened lifeforms
-        </p>
-      </div>
-
-      <div class="photo-grid__item">
-        <a href="{{ '/forguides/' | relative_url }}">
-          <img src="{{ '/assets/images/fornatureguides.jpg' | relative_url }}"
-               alt="For nature guides" width="144" height="146">
-        </a>
-        <p class="caption">
-          <a href="{{ '/forguides/' | relative_url }}"><strong>for nature guides</strong></a><br>
-          tips and stories for<br>
-          guiding on the shores
-        </p>
-      </div>
-
-    </div><!-- .photo-grid -->
-
-    <!-- Below-grid links (original site had these centred beneath the table) -->
-    <div class="home-links">
-      <p>
-        <strong>Pulau Semakau <a href="{{ '/checklist/' | relative_url }}">Checklist</a></strong>
-      </p>
-      <p>
-        <a href="https://www.wildsingapore.com/places/">info for visitors to our wild shores</a>
-      </p>
-      <p>
-        <strong><a href="{{ '/about/' | relative_url }}">about this site</a></strong>
-      </p>
     </div>
 
-    <!-- Any additional Markdown content from index.md flows in here -->
-    {% if content and content != "" %}
-    <div class="home-extra">
-      {{ content }}
-    </div>
-    {% endif %}
-
-  </main>
-
-  <!-- ── Footer ─────────────────────────────────────────────────────────── -->
-  <footer class="site-footer">
-    <nav class="site-footer__nav" aria-label="Footer navigation">
-      <a href="{{ '/links/'      | relative_url }}">links</a>
-      |
-      <a href="{{ '/references/' | relative_url }}">references</a>
-      |
-      <a href="{{ '/about/'      | relative_url }}">about</a>
-      |
-      <a href="mailto:hello@wildsingapore.com">email Ria</a>
-    </nav>
-    <p class="site-footer__tagline">
+    <!-- Feedback -->
+    <p class="site-sidebar__tagline">
       Spot errors? Have a question? Want to share your sightings?
       <a href="mailto:hello@wildsingapore.com">email Ria</a>
       &mdash; I'll be glad to hear from you!
     </p>
-    <p class="site-footer__copy">
+
+    <!-- Copyright (pinned to bottom via margin-top: auto on .site-sidebar__copy) -->
+    <p class="site-sidebar__copy">
       wildfactsheets website &copy; ria tan 2008
     </p>
-  </footer>
 
-</div><!-- .site-wrapper -->
+  </aside>
+
+  <!-- ── Main content ───────────────────────────────────────────────────── -->
+  <div class="site-wrapper">
+
+    <header class="site-header">
+      <div class="site-header__inner">
+        <a class="site-logo" href="{{ '/' | relative_url }}">
+          <img
+            src="{{ '/assets/images/wildfactsheet3.gif' | relative_url }}"
+            alt="Wild Fact Sheets"
+            width="180"
+            height="57">
+        </a>
+        <div class="site-tagline">
+          <a class="site-tagline__main" href="https://www.wildsingapore.com/">wildsingapore</a>
+          <span class="site-tagline__sub">wild shores of singapore</span>
+        </div>
+        <nav class="site-header__links" aria-label="Site links">
+          <a href="https://www.wildsingapore.com/">wildsingapore homepage</a><br>
+          <a href="https://www.wildsingapore.com/places/">info for visitors</a> to our wild shores<br>
+          <a href="{{ '/' | relative_url }}">wildfactsheets homepage</a><br>
+          <a href="https://wildshores.blogspot.com/">wild shores of singapore blog</a>
+        </nav>
+      </div>
+    </header>
+
+    <nav class="site-nav" aria-label="Main navigation">
+      <ul>
+        <li><a href="{{ '/animals/'  | relative_url }}">all animals</a></li>
+        <li><a href="{{ '/plants/'   | relative_url }}">all plants</a></li>
+        <li><a href="{{ '/concepts/' | relative_url }}">concepts</a></li>
+        <li><a href="{{ '/glossary/' | relative_url }}">glossary</a></li>
+        <li><a href="{{ '/search/'   | relative_url }}">search</a></li>
+      </ul>
+    </nav>
+
+    <main class="page-content home-content" id="main-content">
+
+      <div class="photo-grid">
+
+        <div class="photo-grid__item">
+          <a href="{{ '/animals/' | relative_url }}">
+            <img src="{{ '/assets/images/animal.jpg' | relative_url }}" alt="Animals" width="144" height="145">
+          </a>
+          <p class="caption"><a href="{{ '/animals/' | relative_url }}"><strong>animals</strong></a></p>
+        </div>
+
+        <div class="photo-grid__item">
+          <a href="{{ '/plants/' | relative_url }}">
+            <img src="{{ '/assets/images/plant.jpg' | relative_url }}" alt="Plants" width="144" height="145">
+          </a>
+          <p class="caption"><a href="{{ '/plants/' | relative_url }}"><strong>plants</strong></a></p>
+        </div>
+
+        <div class="photo-grid__item">
+          <a href="{{ '/photoindex/' | relative_url }}">
+            <img src="{{ '/assets/images/whazzat.jpg' | relative_url }}" alt="Photo index" width="144" height="145">
+          </a>
+          <p class="caption">
+            don't know the name?<br>
+            Try the <a href="{{ '/photoindex/' | relative_url }}"><strong>photo index</strong></a>
+          </p>
+        </div>
+
+        <div class="photo-grid__item">
+          <a href="{{ '/concepts/' | relative_url }}">
+            <img src="{{ '/assets/images/concept.jpg' | relative_url }}" alt="Concepts" width="144" height="145">
+          </a>
+          <p class="caption">
+            <strong>some <a href="{{ '/concepts/' | relative_url }}">concepts</a> explained</strong><br>
+            ecosystems, feeding methods<br>
+            what causes the tides, etc
+          </p>
+        </div>
+
+        <div class="photo-grid__item">
+          <a href="{{ '/redlist/' | relative_url }}">
+            <img src="{{ '/assets/images/redlist.jpg' | relative_url }}" alt="Singapore red list" width="144" height="146">
+          </a>
+          <p class="caption">
+            <a href="{{ '/redlist/' | relative_url }}"><strong>the Singapore red list</strong></a><br>
+            threatened lifeforms
+          </p>
+        </div>
+
+        <div class="photo-grid__item">
+          <a href="{{ '/forguides/' | relative_url }}">
+            <img src="{{ '/assets/images/fornatureguides.jpg' | relative_url }}" alt="For nature guides" width="144" height="146">
+          </a>
+          <p class="caption">
+            <a href="{{ '/forguides/' | relative_url }}"><strong>for nature guides</strong></a><br>
+            tips and stories for<br>
+            guiding on the shores
+          </p>
+        </div>
+
+      </div><!-- .photo-grid -->
+
+      <div class="home-links">
+        <p><strong>Pulau Semakau <a href="{{ '/checklist/' | relative_url }}">Checklist</a></strong></p>
+        <p><a href="https://www.wildsingapore.com/places/">info for visitors to our wild shores</a></p>
+        <p><strong><a href="{{ '/about/' | relative_url }}">about this site</a></strong></p>
+      </div>
+
+      {% if content and content != "" %}
+      <div class="home-extra">{{ content }}</div>
+      {% endif %}
+
+    </main>
+
+  </div><!-- .site-wrapper -->
+
 </body>
 </html>

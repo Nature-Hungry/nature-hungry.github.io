@@ -33,6 +33,7 @@
   --color-link:          #0066CC;
   --color-link-visited:  #666666;
   --color-link-hover:    #CC0033;
+  --color-btn:           #EF8354;
 
   /* Typography */
   --font-display: 'Lexend', 'Segoe UI', Arial, sans-serif;
@@ -47,7 +48,7 @@
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 html {
-  font-size: 16px;
+  font-size: 24px;
   scroll-behavior: smooth;
   -webkit-text-size-adjust: 100%;
 }
@@ -199,46 +200,154 @@ body {
  *     <p class="site-footer__copy">wildfactsheets website &copy; ria tan 2008</p>
  *   </footer>
  * ─────────────────────────────────────────────────────────────────────── */
-.site-footer {
-  font-size: 0.8rem;
+/* ── Hyde-style fixed left sidebar ──────────────────────────────────────────
+ *
+ * Sidebar is fixed to the left edge, 20vw wide.
+ * .wrap pushes all page content to the right by the same amount.
+ * ─────────────────────────────────────────────────────────────────────────── */
+:root {
+  --sidebar-width: 20vw;
 }
 
-.site-footer__nav {
+/* All page content sits to the right of the fixed sidebar */
+.site-wrapper {
+  margin-left: var(--sidebar-width);
+}
+
+/* ── Fixed left sidebar ──────────────────────────────────────────────────── */
+.site-sidebar {
+  position:         fixed;
+  top:              0;
+  left:             0;
+  bottom:           0;
+  width:            var(--sidebar-width);
   background-color: var(--color-nav);
-  padding:          0.35rem 1rem;
-  max-width:        var(--max-width);
-  margin:           0 auto;
-  text-align:       right;
+  overflow-y:       auto;
+  display:          flex;
+  flex-direction:   column;
+  padding:          2rem 1.25rem;
+  gap:              1.5rem;
+  z-index:          100;
 }
 
-.site-footer__nav a {
+/* Sidebar site title */
+.site-sidebar__title {
+  font-family:     var(--font-display);
+  font-size:       1.25rem;
+  font-weight:     700;
   color:           #FFFFFF;
   text-decoration: none;
-  margin-left:     0.5rem;
+  line-height:     1.2;
+  display:         block;
+  margin-bottom:   0.25rem;
 }
 
-.site-footer__nav a:hover { text-decoration: underline; }
+.site-sidebar__title:visited { color: #FFFFFF; }
+.site-sidebar__title:hover   { color: rgba(255,255,255,0.8); text-decoration: none; }
 
-.site-footer__tagline,
-.site-footer__copy {
-  font-family: var(--font-body);
-  max-width:   var(--max-width);
-  margin:      0 auto;
-  padding:     0.25rem 1rem;
+/* Sidebar subtitle */
+.site-sidebar__sub {
+  font-family: var(--font-display);
+  font-size:   0.78rem;
+  color:       rgba(255,255,255,0.65);
+  display:     block;
+  margin-bottom: 0.5rem;
 }
 
-.site-footer__tagline {
-  color:            var(--color-text);
-  background-color: var(--color-surface);
+/* Divider between title area and nav */
+.site-sidebar__divider {
+  border: none;
+  border-top: 1px solid rgba(255,255,255,0.2);
+  margin: 0;
 }
 
-.site-footer__copy {
-  color:            var(--color-text-muted);
-  background-color: var(--color-surface);
-  font-size:        0.75rem;
+/* Section heading inside sidebar */
+.site-sidebar__heading {
+  font-family:    var(--font-body);
+  font-size:      0.68rem;
+  font-weight:    700;
+  color:          rgba(255,255,255,0.5);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin:         0 0 0.5rem;
 }
 
-.site-footer__copy a { color: var(--color-link); }
+/* Nav buttons stacked vertically */
+.site-sidebar nav {
+  display:        flex;
+  flex-direction: column;
+  gap:            0.35rem;
+}
+
+/* Sidebar .btn: full-width, white outlined on navy */
+.site-sidebar .btn {
+  width:            100%;
+  font-size:        0.78rem;
+  padding:          0.35rem 0.75rem;
+  background-color: transparent;
+  color:            #FFFFFF;
+  border:           1.5px solid rgba(255,255,255,0.45);
+  justify-content:  flex-start;
+}
+
+.site-sidebar .btn:visited { color: #FFFFFF; }
+
+.site-sidebar .btn:hover,
+.site-sidebar .btn:focus {
+  background-color: rgba(255,255,255,0.15);
+  border-color:     #FFFFFF;
+  color:            #FFFFFF;
+  text-decoration:  none;
+}
+
+/* Feedback tagline */
+.site-sidebar__tagline {
+  font-size:   0.75rem;
+  line-height: 1.55;
+  color:       rgba(255,255,255,0.55);
+  margin:      0;
+}
+
+.site-sidebar__tagline a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: underline;
+}
+
+.site-sidebar__tagline a:hover { color: #FFFFFF; }
+
+/* Copyright line, pinned to bottom */
+.site-sidebar__copy {
+  font-size:  0.68rem;
+  color:      rgba(255,255,255,0.35);
+  margin-top: auto;
+}
+
+/* ── Page content area ───────────────────────────────────────────────────── */
+.page-content {
+  max-width: var(--max-width);
+  margin:    0 auto;
+  padding:   var(--gap) 2rem 3rem;
+}
+
+/* ── Responsive: sidebar collapses to top bar on small screens ───────────── */
+@media (max-width: 700px) {
+  :root { --sidebar-width: 0px; }
+
+  .site-wrapper { margin-left: 0; }
+
+  .site-sidebar {
+    position: relative;
+    width:    100%;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding:  1rem;
+    gap:      0.75rem;
+  }
+
+  .site-sidebar__copy { margin-top: 0; }
+
+  .page-content { padding: 1rem; }
+}
 
 /* ── Headings (Helvetica Neue) ───────────────────────────────────────────── */
 h1, h2, h3, h4, h5, h6 {
@@ -399,6 +508,31 @@ li { margin-bottom: 0.2rem; }
 .mt-0         { margin-top: 0; }
 .mb-0         { margin-bottom: 0; }
 
+/* ── Button ──────────────────────────────────────────────────────────────── */
+.btn {
+  display:          inline-flex;
+  align-items:      center;
+  justify-content:  center;
+  padding:          0.1rem 1rem;
+  font-family:      var(--font-display);   /* Lexend */
+  font-size:        1rem;
+  font-weight:      700;
+  color:            #FFFFFF;
+  background-color: var(--color-btn);      /* #EF8354 */
+  border:           none;
+  border-radius:    12px;
+  text-decoration:  none;
+  cursor:           pointer;
+  transition:       background-color 0.15s, opacity 0.15s;
+  white-space:      nowrap;
+}
+
+.btn:visited               { color: #FFFFFF; }
+.btn:hover, .btn:focus     { background-color: #d9693d; color: #FFFFFF;
+                              text-decoration: none; opacity: 1; }
+.btn:active                { background-color: #c45c32; }
+.btn:focus                 { outline: 3px solid #EF835480; outline-offset: 2px; }
+
 /* ── Responsive ──────────────────────────────────────────────────────────── */
 @media (max-width: 640px) {
   .site-header__inner { flex-wrap: wrap; }
@@ -408,4 +542,190 @@ li { margin-bottom: 0.2rem; }
   h2                  { font-size: 1.15rem; }
   .species-header img { width: 100%; }
   .site-footer__nav   { text-align: left; }
+}
+
+/* ── Header utility links (top-right quick-nav) ─────────────────────────── */
+.site-header__links {
+  font-family: var(--font-body);
+  font-size:   0.78rem;
+  line-height: 1.8;
+  margin-left: auto;         /* push to far right of flex row */
+  text-align:  right;
+}
+
+.site-header__links a              { color: var(--color-link); }
+.site-header__links a:first-child  { color: var(--color-primary); font-weight: 600; }
+.site-header__links a:hover        { color: var(--color-link-hover); }
+
+@media (max-width: 640px) {
+  .site-header__links { display: none; }  /* hide on small screens */
+}
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   HOME LAYOUT  (_layouts/home.html)
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* Below-grid centred links (Checklist / info for visitors / about) */
+.home-links {
+  text-align:  center;
+  margin:      1.25rem 0 0;
+  font-family: var(--font-body);
+  font-size:   0.9375rem;
+}
+
+.home-links p { margin-bottom: 0.4rem; }
+
+/* Any extra Markdown content appended beneath the grid */
+.home-extra {
+  margin-top:  2rem;
+  border-top:  1px solid var(--color-border);
+  padding-top: 1rem;
+}
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PAGE LAYOUT  (_layouts/page.html)
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* Two-column wrapper when sidebar is present */
+.page-content--with-sidebar {
+  display:               grid;
+  grid-template-columns: 1fr 220px;
+  gap:                   2rem;
+  align-items:           start;
+}
+
+/* Single-column article (no sidebar) */
+.page-article {
+  min-width: 0;   /* prevents grid blowout */
+}
+
+/* ── Sidebar ──────────────────────────────────────────────────────────────── */
+.page-sidebar {
+  font-size: 0.85rem;
+}
+
+/* Back-navigation link */
+.sidebar-back {
+  margin-bottom: 1rem;
+}
+
+.sidebar-back a {
+  color:           var(--color-nav);
+  font-weight:     600;
+  text-decoration: none;
+  font-size:       0.82rem;
+}
+
+.sidebar-back a:hover { color: var(--color-primary); }
+
+/* Individual sidebar card */
+.sidebar-box {
+  background-color: var(--color-surface);
+  border:           1px solid var(--color-border);
+  border-top:       3px solid var(--color-section-head);
+  padding:          0.75rem;
+  margin-bottom:    1rem;
+}
+
+.sidebar-box h3 {
+  font-size:     0.85rem;
+  font-weight:   700;
+  color:         var(--color-section-head);
+  margin-top:    0;
+  margin-bottom: 0.5rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+/* Taxonomy definition list */
+.taxonomy-list {
+  display:               grid;
+  grid-template-columns: auto 1fr;
+  column-gap:            0.5rem;
+  row-gap:               0.15rem;
+  margin: 0;
+}
+
+.taxonomy-list dt {
+  font-weight: 600;
+  color:       var(--color-text-muted);
+}
+
+.taxonomy-list dd { margin: 0; }
+
+/* Related-links list */
+.sidebar-links {
+  list-style:   none;
+  padding-left: 0;
+  margin:       0;
+}
+
+.sidebar-links li { border-bottom: 1px solid var(--color-border); }
+.sidebar-links li:last-child { border-bottom: none; }
+
+.sidebar-links a {
+  display:         block;
+  padding:         0.25rem 0;
+  color:           var(--color-link);
+  text-decoration: none;
+}
+
+.sidebar-links a:hover { color: var(--color-link-hover); text-decoration: underline; }
+
+/* ── Species header meta text ─────────────────────────────────────────────── */
+.species-header__sci {
+  font-size:     1rem;
+  color:         var(--color-text-muted);
+  margin-bottom: 0.2rem;
+}
+
+.species-header__family {
+  margin-bottom: 0.75rem;
+}
+
+/* ── Responsive: collapse sidebar below tablet ────────────────────────────── */
+@media (max-width: 700px) {
+  .page-content--with-sidebar {
+    grid-template-columns: 1fr;
+  }
+
+  .page-sidebar {
+    border-top: 2px solid var(--color-border);
+    padding-top: 1rem;
+  }
+}
+
+/* ── Content grid (_includes/grid.html) ─────────────────────────────────── */
+.content-grid {
+  display:               grid;
+  grid-template-columns: 1fr 1fr;
+  gap:                   1.5rem;
+  margin:                1.5rem 0;
+}
+
+.content-grid__cell {
+  display:        flex;
+  flex-direction: column;
+  align-items:    flex-start;
+  gap:            0.65rem;
+}
+
+.content-grid__img {
+  width:         auto;
+  height:        auto;
+  object-fit:    cover;
+  border:        0px solid var(--color-border);
+  border-radius: 4px;
+  display:       block;
+}
+
+.content-grid__caption {
+  font-size:   0.875rem;
+  line-height: 1.55;
+  color:       var(--color-text);
+  margin:      0;
+}
+
+@media (max-width: 560px) {
+  .content-grid { grid-template-columns: 1fr; }
 }
