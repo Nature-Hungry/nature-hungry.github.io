@@ -4,69 +4,28 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "index, plants, seagrass, seaweed, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../Templates/wildfactsheet3.gif)](index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
+# Plants on This Site  
+don't know the name of the plant? Try the [photo index of lifeforms](photoindex.md)   
 
-[![](../Templates/fornatureguides.gif)](forguides/index.html)
+# Intertidal and Marine Plants
 
-[all animals](animals.htm)
-| [all plants](plants.htm)
-| [concepts](concepts/index.html)
-| [glossary](glossary/index.html)
-| [search](search.htm)
+![](assets/images/photos/plant.jpg)  
+All marine  **[seaweeds](plants/seaweed/seaweedindex.md)**
 
-**Plants
-on this site**  
-don't know the name of the plant? Try the [photo
-index of lifeforms](photoindex.htm)   
-
----
-
-**Intertidal and marine
-plants**   
-  
-
-![](photos/plant.jpg)  
-all
-marine  **[seaweeds](plants/seaweed/seaweedindex.htm)**
-
-![](photos/seagrass.jpg)  
-all
-marine  **[seagrasses](plants/seagrass/seagrassindex.htm)**
+![](assets/images/photos/seagrass.jpg)  
+All marine  **[seagrasses](plants/seagrass/seagrassindex.md)**
 
 ![](photos/mangroves.jpg)  
-**[mangroves
-and coastal](plants/plantindex.htm)**   
-trees and plants
+**[mangroves and coastal](plants/plantindex.md)** trees and plants
 
 [www.**flickr**.com](http://www.flickr.com)  
 
 FREE photos from [wildsingapore](http://www.flickr.com/photos/54527470@N00).
 Make your own badge [here](http://www.flickr.com/badge.gne).
 
-photo
-index of   
-plants on this site
+Photo Index of Plants on This Site
 
-[mangroves
-and coastal plants](plants/plantfi.htm) [all seagrasses](plants/seagrass/seagrassfi.htm)   
-  
-[all seaweeds](plants/seaweed/seaweedfi.htm)
-
-[links](links.htm)
-| [references](references.htm)
-| [about](about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008
+[mangroves and coastal plants](plants/plantfi.md)
+| [all seagrasses](plants/seagrass/seagrassfi.md)
+| [all seaweeds](plants/seaweed/seaweedfi.md)
