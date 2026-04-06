@@ -4,35 +4,12 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../wildfactsheet3.gif)](wildfactsheet3.gif)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
+# Acknowledgements
+
+The photos would not have been possible without FINDING the subjects in the first place. The keen eyes and extrasensory perception of a unique bunch of hunter-seekers made many of these finds possible. Among them are many members of the [wildfilms team](http://wildfilms.blogspot.com/), [beachfleas](http://www.wildsingapore.com/beachfleas/about.md), and [teamseagrass](http://teamseagrass.blogspot.com/).  
   
-[wildfactsheets homepage](index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](animals.htm)
-| [all plants](plants.htm)
-| [concepts](concepts/index.html)
-| [glossary](glossary/index.html)
-| [search](search.htm)
-
-**Acknowledgements**
-
----
-
-The photos would
-not have been possible without FINDING the subjects in the first place.
-The keen eyes and extrasensory perception of a unique bunch of hunter-seekers
-made many of these finds possible. Among them are many members of
-the [wildfilms team](http://wildfilms.blogspot.com/) and
-[beachfleas](http://www.wildsingapore.com/beachfleas/about.htm)
-and [teamseagrass](http://teamseagrass.blogspot.com/).  
-  
-It is not possible to list every person who found every special thing,
-but I would especially like to thank these intrepid hunters:
+It is not possible to list every person who found every special thing, but I would especially like to thank these intrepid hunters:
 
 - Toh Chay
   Hoon: the Supreme Seeker for Astounding Finds Big and Small (especially
@@ -51,11 +28,7 @@ but I would especially like to thank these intrepid hunters:
   Who takes the best photos of our marine life, especially the tiny
   ones.
 
-The website
-has been improved tremendously by the many contributions of photos,
-video clips, sightings and stories by many people, each acknowledged
-accordingly on the relevant pages. But I would like to especially
-thank the following for their prolific contributions.
+The website has been improved tremendously by the many contributions of photos, video clips, sightings and stories by many people, each acknowledged accordingly on the relevant pages. But I would like to especially thank the following for their prolific contributions.
 
 - [Andy
   Dinesh](http://sgbeachbum.blogspot.com/)
@@ -79,12 +52,7 @@ thank the following for their prolific contributions.
   [facebook](http://www.facebook.com/pages/Singapore-Reef-Watch/109257872458947)
 - Rene on [facebook](http://www.facebook.com/pages/Naturely-Curious/133291903397183)
 
-This website
-would not have been possible without the patient help of scientists,
-experts and naturalists who took the time to identify and explain
-things to me so I could put them up on the website. Many others
-also gave much encouragement. Any errors or omissions, however,
-remain entirely mine.  
+This website would not have been possible without the patient help of scientists, experts and naturalists who took the time to identify and explain things to me so I could put them up on the website. Many others also gave much encouragement. Any errors or omissions, however, remain entirely mine.  
   
 Among them I would especially like to thank:
 
@@ -130,11 +98,7 @@ Among them I would especially like to thank:
 - Yang Shufen
 - Zeehan Jaafar
 
-The trips would
-not have been possible without the able and friendly support of
-the many boat operators that we have disturbed in the wee hours
-of the morning. The following in particular made it possible for
-us to explore some spectacular shores
+The trips would not have been possible without the able and friendly support of the many boat operators that we have disturbed in the wee hours of the morning. The following in particular made it possible for us to explore some spectacular shores
 
 - Mr Chua of
   Ubin
@@ -147,12 +111,7 @@ us to explore some spectacular shores
 - Alex and
   the crew of Summit Marine
 
-Many of the
-trips were made with [TeamSeagrass](http://teamseagrass.blogspot.com/)
-which is funded and supported by [NParks'
-National Biodiversity Centre](http://www.nbrcnparks.org/index.asp) with the companionable and invaluable
-support of Lim Wei Ling, Yang Shufen, Siti Maryam Yaakub and their
-bosses and colleagues.  
+Many of the trips were made with [TeamSeagrass](http://teamseagrass.blogspot.com/) which is funded and supported by [NParks' National Biodiversity Centre](http://www.nbrcnparks.org/index.asp) with the companionable and invaluable support of Lim Wei Ling, Yang Shufen, Siti Maryam Yaakub and their bosses and colleagues.  
   
 Others who made the trips possible include
 
@@ -168,23 +127,9 @@ Others who made the trips possible include
   Hee of the Lee Kong Chian Natural History Museum who allow us
   to be involved in many scientific field trips.
 
-The website
-would not exist without the very kind and able support of [Archer
-Logic](http://www.archerlogic.com/), especially Isaac and Jodie and her team.  
+The website would not exist without the very kind and able support of [Archer Logic](http://www.archerlogic.com/), especially Isaac and Jodie and her team.
   
 Countless others have encouraged me and contributed to this effort.
   
   
 Thank you everyone!
-
-[links](links.htm)
-| [references](references.htm)
-| [about](about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

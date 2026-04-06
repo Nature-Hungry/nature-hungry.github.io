@@ -5,12 +5,21 @@ keywords: "index, animal, field, guide, seashore, sea, shore, marine, coastal, i
 layout: default
 ---
 
+<<<<<<< HEAD
 # Listed among Singapore's threatened plants and animals**  
 
 [More about our Red List](concepts/redlist.md) what do the categories mean? How is it useful? **Some marine life forms on the Singapore Red List**
 from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore Red Data Book: Threatened plants and animals of Singapore*.   
   
 **[Phylum Cnidaria](cnidaria/cnidaria.md)**
+=======
+# Listed Among Singapore's Threatened Plants and Animals
+
+[More about our Red List](concepts/redlist.md)
+What do the categories mean? How is it useful? **Some marine life forms on the Singapore Red List** from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore Red Data Book: Threatened plants and animals of Singapore*.   
+  
+[**Phylum Cnidaria**](cnidaria/cnidaria.md)
+>>>>>>> 99ce15e68194bb9ce7bd143cbcb7832e7e2ccf3d
 corals, sea anemones and relatives  
   
 [**Phylum Mollusca**](mollusca/mollusca.md)
@@ -19,6 +28,7 @@ snails, clams, slugs and relatives
 [**Phylum Echinodermata**](echinodermata/echinodermata.md)
 sea stars and relatives   
   
+<<<<<<< HEAD
 **[Worm Phyla](worm/worm.md)**
 flatworms, worms and other worm-like animals  
   
@@ -26,23 +36,47 @@ flatworms, worms and other worm-like animals
 Seagrasses  
  
 # Phylum Arthropoda   
+=======
+[**Worm Phyla**](worm/worm.md)  
+flatworms, worms and other worm-like animals  
+  
+[**Marine Plants**](plants/seagrass/seagrass.htm)  
+Seagrasses  
+ 
+## Phylum Arthropoda   
+>>>>>>> 99ce15e68194bb9ce7bd143cbcb7832e7e2ccf3d
 
 [Class Crustacea](crustacea/crustacea.htm)
 crabs, prawns, shrimps, hermit crabs and relatives
 
+<<<<<<< HEAD
 ## Other marine arthropods   
 [horseshoe crabs](arthropoda/limulidae/limulidae.htm)
+=======
+## Other Marine Arthropods
+>>>>>>> 99ce15e68194bb9ce7bd143cbcb7832e7e2ccf3d
 
+[horseshoe crabs](arthropoda/limulidae/limulidae.htm)
   
+<<<<<<< HEAD
 ### Phylum Chordata  
 
  
 ## Subphylum Vertebrata   
+=======
+## Phylum Chordata  
+
+### Subphylum Vertebrata   
+>>>>>>> 99ce15e68194bb9ce7bd143cbcb7832e7e2ccf3d
 vertebrates
  
-[fishes](vertebrates/fish/fish.htm)
+[fishes](vertebrates/fish/fish.md)
 
 [www.**flickr**.com](http://www.flickr.com)  
 
+<<<<<<< HEAD
 FREE photos of plants and animals on the [Singapore red list](http://www.flickr.com/photos/54527470@N00/sets/72157600158350353).
+=======
+FREE photos of plants and animals on the [Singapore Red List](http://www.flickr.com/photos/54527470@N00/sets/72157600158350353).
+>>>>>>> 99ce15e68194bb9ce7bd143cbcb7832e7e2ccf3d
 Make your own badge [here](http://www.flickr.com/badge.gne).

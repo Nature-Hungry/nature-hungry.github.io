@@ -4,164 +4,98 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "index, animal, fauna, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../wildfactsheet3.gif)](index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
+# Animals on this site  
+don't know the name of the animal? Try the [photo index of lifeforms](photoindex.md)
+
+**[Phylum Porifera](porifera/poriferaindex.md)**
   
-[wildfactsheets homepage](index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[![](../Templates/fornatureguides.gif)](forguides/index.html)
-
-[all animals](animals.htm)
-| [all plants](plants.htm)
-| [concepts](concepts/index.html)
-| [glossary](glossary/index.html)
-| [search](search.htm)
-
-**Animals
-on this site**  
-don't know the name of the animal? Try the [photo
-index of lifeforms](photoindex.htm)
-
----
-
-**[Phylum
-Porifera](porifera/poriferaindex.htm)**
+**Sponges**  
   
-sponges  
-  
-**Phylum Cnidaria**   
+**Phylum Cnidaria**
 
-[Order
-Sclerectinia](cnidaria/coralhardindex.htm)   
+[Order Sclerectinia](cnidaria/coralhardindex.md)
 hard corals
 
-[Other
-cnidarians](cnidaria/cnidariaindex.htm)   
-jellyfish, hydroids, sea anemones, peacock
-anemones, zoanthids, corallimorphs, soft corals, sea
-fans, sea pens, blue corals
+[Other cnidarians](cnidaria/cnidariaindex.md)
+jellyfish, hydroids, sea anemones, peacock anemones, zoanthids, corallimorphs, soft corals, sea fans, sea pens, blue corals
 
-  
-**Phylum
-Mollusca**
+**Phylum Mollusca**
 
-[Class
-Gastropoda](mollusca/gastropodaindex.htm)   
+[Class Gastropoda](mollusca/gastropodaindex.md)
 shelled snails only
 
-[Other
-molluscs](mollusca/molluscaindex.htm)  
-other gastropods, slugs and nudibranchs,
-bivalves (clams), octopuses, squids, cuttlefishes
+[Other molluscs](mollusca/molluscaindex.md)
+other gastropods, slugs and nudibranchs, bivalves (clams), octopuses, squids, cuttlefishes
 
-**[Worm Phyla](worm/wormindex.htm)**   
-all worm-like creatures: tube worms, bristleworms,
-fan worms, keelworms, peanut worms, phoronid worms, ribbon worms,
-acorn worms, flatworms  
+[Worm Phyla](worm/wormindex.md)
+all worm-like creatures: tube worms, bristleworms, fan worms, keelworms, peanut worms, phoronid worms, ribbon worms, acorn worms, flatworms  
   
-**Others**   
+## Others
 
-[Phylum Ctenophora](ctenophora/coeloplana.htm)  
+[Phylum Ctenophora](ctenophora/coeloplana.md)
   
-[Eggs](eggs/eggindex.htm)  
+[Eggs](eggs/eggindex.md)  
 egg strings, capsules, blobs
 
-**Phylum
-Arthropoda**   
+**Phylum Arthropoda**   
 
-[Class
-Crustacea](crustacea/crustaceaindex.htm)crabs,
-prawns, shrimps, hermit crabs, porcelain crabs, mantis
-shrimps, sea slaters, barnacles, copepods
+[Class Crustacea](crustacea/crustaceaindex.md)
+crabs, prawns, shrimps, hermit crabs, porcelain crabs, mantis shrimps, sea slaters, barnacles, copepods
 
-[Other
-marine arthropods](arthropoda/arthropodaindex.htm)   
+[Other marine arthropods](arthropoda/arthropodaindex.md)
 horseshoe crabs, marine spiders
 
   
-[**Phylum
-Echinodermata**](echinodermata/echinodermindex.htm)   
-feather stars, brittle stars, sea stars, sand
-dollars, sea urchins, heart urchins, sea cucumbers  
+[Phylum Echinodermata](echinodermata/echinodermindex.md)
+feather stars, brittle stars, sea stars, sand dollars, sea urchins, heart urchins, sea cucumbers  
   
-**[Phylum
-Bryozoa](bryozoa/bryozoan.htm)**  
+[Phylum Bryozoa](bryozoa/bryozoan.md)  
   
-**Phylum
-Chordata**  
+**Phylum Chordata** 
 
+**Subphylum Urochordata**
  
-**Subphylum
-Urochordata**
- 
-[Class
-Ascidiacea](ascidiacea/ascidiaceaindex.htm)   
+[Class Ascidiacea](ascidiacea/ascidiaceaindex.md)   
 ascidians
  
-**Subphylum
-Vertebrata**   
+## Subphylum Vertebrata
 vertebrates
  
-[fishes](vertebrates/fish/fishindex.htm)
+[fishes](vertebrates/fish/fishindex.md)
   
-[marine snakes](vertebrates/snakes/snakeindex.htm)  
-[other vertebrates](vertebrates/vertindex.htm)
+[marine snakes](vertebrates/snakes/snakeindex.md)  
+[other vertebrates](vertebrates/vertindex.md)
 
-photo
-index of   
-animals on this site
+# Photo Index of Animals on This Site
 
-[general photo index](photoindex.htm)   
-of lifeforms by shape  
+[general photo index](photoindex.md) of lifeforms by shape  
   
-[sponges](porifera/poriferafi.htm) ascidians
-and bryozoans  
+[sponges](porifera/poriferafi.md) ascidians and bryozoans  
   
-[cnidaria with hard
-skeletons](cnidaria/cnidariafi1.htm) hard corals  
+[cnidaria with hard skeletons](cnidaria/cnidariafi1.md) hard corals  
   
-[cnidaria with soft
-bodies](cnidaria/cnidariafi2.htm) sea anamones, jellyfish, sea fans, sea pens  
+[cnidaria with soft bodies](cnidaria/cnidariafi2.md) sea anamones, jellyfish, sea fans, sea pens  
   
-[molluscs](mollusca/molluscafi.htm) snails,
-clams, slugs, octopus, squid, cuttlefish  
+[molluscs](mollusca/molluscafi.md) snails, clams, slugs, octopus, squid, cuttlefish  
   
-[crustaceans](crustacea/crustaceafi.htm)
-crabs, shrimps, hermit crabs, barnacles  
+[crustaceans](crustacea/crustaceafi.md) crabs, shrimps, hermit crabs, barnacles  
   
-[marine arthropods](arthropoda/arthropodafi.htm)
+[marine arthropods](arthropoda/arthropodafi.md)
   
 horseshoe crabs  
   
-[echinoderms](echinodermata/echinodermatafi.htm)
-sea stars, brittle stars, sea urchins, sand dollars, sea
-cucumbers  
+[echinoderms](echinodermata/echinodermatafi.md) sea stars, brittle stars, sea urchins, sand dollars, sea cucumbers  
   
-[worms](worm/wormfi.htm)   
+[worms](worm/wormfi.md)   
   
-[eggs](eggs/eggfi.htm) of marine creatures  
+[eggs](eggs/eggfi.md) of marine creatures  
   
-[all vertebrates](vertebrates/vertindex.htm)  
-[marine fishes](vertebrates/fish/fishfi.htm)
+[all vertebrates](vertebrates/vertindex.md)  
+[marine fishes](vertebrates/fish/fishfi.md)
   
-[shore snakes](vertebrates/snakes/snakeshorefi.htm)
+[shore snakes](vertebrates/snakes/snakeshorefi.md)
   
-[other reptiles](vertebrates/reptilefi.htm)  
-[mammals](vertebrates/mammalfi.htm)   
-[birds](vertebrates/birdfi.htm)
-
-[links](links.htm)
-| [references](references.htm)
-| [about](about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008
+[other reptiles](vertebrates/reptilefi.md)  
+[mammals](vertebrates/mammalfi.md)   
+[birds](vertebrates/birdfi.md)

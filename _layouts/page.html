@@ -23,35 +23,7 @@
 </head>
 <body>
 
-  <!-- ── Fixed left sidebar ─────────────────────────────────────────────── -->
-  <aside class="site-sidebar" aria-label="Site navigation">
-
-    <a class="site-sidebar__title" href="{{ '/' | relative_url }}">wildsingapore</a>
-    <span class="site-sidebar__sub">wild shores of singapore</span>
-
-    <hr class="site-sidebar__divider">
-
-    <div>
-      <p class="site-sidebar__heading">Navigate</p>
-      <nav aria-label="Sidebar navigation">
-        <a href="{{ '/links/'      | relative_url }}" class="btn">links</a>
-        <a href="{{ '/references/' | relative_url }}" class="btn">references</a>
-        <a href="{{ '/about/'      | relative_url }}" class="btn">about</a>
-        <a href="mailto:hello@wildsingapore.com"      class="btn">email Ria</a>
-      </nav>
-    </div>
-
-    <p class="site-sidebar__tagline">
-      Spot errors? Have a question? Want to share your sightings?
-      <a href="mailto:hello@wildsingapore.com">email Ria</a>
-      &mdash; I'll be glad to hear from you!
-    </p>
-
-    <p class="site-sidebar__copy">
-      wildfactsheets website &copy; ria tan 2008
-    </p>
-
-  </aside>
+  {% include sidebar.html %}
 
   <!-- ── Main content ───────────────────────────────────────────────────── -->
   <div class="site-wrapper">
@@ -60,7 +32,7 @@
       <div class="site-header__inner">
         <a class="site-logo" href="{{ '/' | relative_url }}">
           <img
-            src="{{ '/assets/images/wildfactsheet3.gif' | relative_url }}"
+            src="{{ '/assets/images/photos/wildfactsheet3.gif' | relative_url }}"
             alt="Wild Fact Sheets"
             width="180"
             height="57">
@@ -69,24 +41,8 @@
           <a class="site-tagline__main" href="https://www.wildsingapore.com/">wildsingapore</a>
           <span class="site-tagline__sub">wild shores of singapore</span>
         </div>
-        <nav class="site-header__links" aria-label="Site links">
-          <a href="https://www.wildsingapore.com/">wildsingapore homepage</a><br>
-          <a href="https://www.wildsingapore.com/places/">info for visitors</a> to our wild shores<br>
-          <a href="{{ '/' | relative_url }}">wildfactsheets homepage</a><br>
-          <a href="https://wildshores.blogspot.com/">wild shores of singapore blog</a>
-        </nav>
       </div>
     </header>
-
-    <nav class="site-nav" aria-label="Main navigation">
-      <ul>
-        <li><a href="{{ '/animals/'  | relative_url }}">all animals</a></li>
-        <li><a href="{{ '/plants/'   | relative_url }}">all plants</a></li>
-        <li><a href="{{ '/concepts/' | relative_url }}">concepts</a></li>
-        <li><a href="{{ '/glossary/' | relative_url }}">glossary</a></li>
-        <li><a href="{{ '/search/'   | relative_url }}">search</a></li>
-      </ul>
-    </nav>
 
     <main id="main-content"
           class="page-content{% if page.sidebar %} page-content--with-sidebar{% endif %}">
