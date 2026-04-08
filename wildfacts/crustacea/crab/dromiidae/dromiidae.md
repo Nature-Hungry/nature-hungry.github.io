@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "sponge, crab, sponge crab, cryptodromia, dromiidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
 > Brachyurans
 **Sponge
 crab**  
@@ -49,7 +49,7 @@ are encountered. Some have a smooth body and pincers covered with
 fine hairs and pink tips on the pincers. Other have a very hairy
 body and pincers, with white tips on the pincers.  
   
-The sponge crab uses its pincers to snip out a cap out of a living [ascidian](../../../ascidiacea/ascidiacea.htm) or [sponge](../../../porifera/porifera.htm) to fit over its body. To grip this cap as it walks around, the crab's
+The sponge crab uses its pincers to snip out a cap out of a living [ascidian](../../../ascidiacea/ascidiacea) or [sponge](../../../porifera/porifera) to fit over its body. To grip this cap as it walks around, the crab's
 last pair of legs are slender, bent over its back and tipped with
 sharp little claws. The ascidian or sponge continues to live and
 grow and the crab constantly trims it to the right size. The crab's
@@ -107,10 +107,10 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 *![](dromiidae/080707prplksm3.jpg)  
 Pasir Ris Park, Jul 08*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2008/06/checking-sand-stars-out-at-pasir-ris.html).
+blog](http://wondercreation.blogspot.com/2008/06/checking-sand-stars-out-at-pasir-risl).
 
 *![](dromiidae/080707prplksm3a.jpg)  
-Pasir Ris Park, Jul 08*Photo shared by Loh Kok Sheng on  [his blog](http://wondercreation.blogspot.com/2008/06/checking-sand-stars-out-at-pasir-ris.html).
+Pasir Ris Park, Jul 08*Photo shared by Loh Kok Sheng on  [his blog](http://wondercreation.blogspot.com/2008/06/checking-sand-stars-out-at-pasir-risl).
 
 *![](dromiidae/171204chglks2.jpg)  
 Changi, Dec 17*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10155911535398158&set=a.10155911533538158&type=3&theater).
@@ -124,7 +124,7 @@ East Coasr Park (B), Jun 21*Photo shared by Vincent Choo on [facebook](https://w
 
 *![](dromiidae/100615tustch2m3.jpg)  
 Tuas, Jun 10*Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2010/06/it-has-been-three-years.html).
+blog](http://colorclouds.blogspot.com/2010/06/it-has-been-three-yearsl).
 
 *![](dromiidae/200210blylks7.jpg)  
 Berlayar Creek, Feb 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10157967184398158&set=a.10157967182933158&type=3&theater).
@@ -134,15 +134,15 @@ Berlayar Creek, Feb 20*Photo shared by Loh Kok Sheng on [facebook](https://www.f
 *![](dromiidae/091104sntlks1m3.jpg)  
 Sentosa, Nov 09  
 ![](dromiidae/091104sntlks1m3a.jpg)*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/11/under-rocks-and-among-seaweed-in.html).
+blog](http://wondercreation.blogspot.com/2009/11/under-rocks-and-among-seaweed-inl).
 
 *![](dromiidae/110830cyrjk2m3.jpg)  
 Cyrene Reef, Aug 11![](dromiidae/110830cyrjk1m3.jpg)*Photo shared byJames Koh on [his
-blog](http://sgn090608.blogspot.com/2011/08/110830-cyrene.html).
+blog](http://sgn090608.blogspot.com/2011/08/110830-cyrenel).
 
 *![](dromiidae/110619tslglk3m3.JPG)* *Terumbu Selegie, Jun 11  
 ![](dromiidae/110619tslglk3m3a.JPG)*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/06/virgin-trip-to-terumbu-selegi.html).
+blog](http://wondercreation.blogspot.com/2011/06/virgin-trip-to-terumbu-selegil).
 
 ---
 
@@ -199,7 +199,7 @@ Dromidiopsis edwardsi
 **Links**
 
 - [Sponge
-  Crab (*Cryptodromia* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/187.htm) Tan, Leo W. H. & Ng, Peter
+  Crab (*Cryptodromia* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/187) Tan, Leo W. H. & Ng, Peter
   K. L., 1988, *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
@@ -227,9 +227,9 @@ Dromidiopsis edwardsi
   S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
   Australian Waters*. Reed New Holland. 224 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

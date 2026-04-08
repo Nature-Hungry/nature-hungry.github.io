@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "cardinalfish, cardinal, fish, apogonidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm)
+> Subphylum Vertebrate > [fishes](../fish)
 **Cardinalfishes**  
 **Family Apogonidae***updated
 Sep 2020*
@@ -72,7 +72,7 @@ are more active at night.
   
 **Human uses:** Some species of cardinalfish
 like the Five-lined Cardinalfish (*Cheilodipterus quinquelineatus*)
-and [Orbicular cardinalfish](orbicularis.htm) (*Sphaemaria
+and [Orbicular cardinalfish](orbicularis) (*Sphaemaria
 orbicularis*) are popular in the live aquarium trade. Some are
 being successfuly bred in captivity.
 
@@ -84,20 +84,20 @@ on Singapore shores**
 ---
 
 **![](margaritophorus/060130hntg4314m3.jpg)  
-[Chequered cardinalfish](margaritophorus.htm)**
+[Chequered cardinalfish](margaritophorus)**
 
-**![](candystripe/110506tmftd0831.jpg)[Candystripe cardinalfish](candystripe.htm)**
+**![](candystripe/110506tmftd0831.jpg)[Candystripe cardinalfish](candystripe)**
 
 ![](candystripe/100528tkkd3753m3.jpg)  
-**[Candystripe cardinalfish](candystripe.htm)**
+**[Candystripe cardinalfish](candystripe)**
 
 ---
 
 **![](orbicularis/040830hntd5831m3.jpg)  
-[Orbicular cardinalfish](orbicularis.htm)**
+[Orbicular cardinalfish](orbicularis)**
 
 **![](melas/100810sngd9986m3.jpg)  
-[Black cardinalfish](melas.htm)**
+[Black cardinalfish](melas)**
 
 ---
 
@@ -113,7 +113,7 @@ Apogonidae**
 *Apogon
 crassiceps  
   
-[Apogonichthyoides melas](melas.htm)* (Black cardinalfish) *Apogonichthyoides niger  
+[Apogonichthyoides melas](melas)* (Black cardinalfish) *Apogonichthyoides niger  
 Apogonichthyoides timorensis  
   
 Archamia bleekeri  
@@ -136,10 +136,10 @@ Nectamia similis
 Ostorhinchus cavitensis* (Cavite cardinalfish) *Ostorhinchus chrysopomus  
 Ostorhinchus compressus  
 +Ostorhinchus cookii* (Cook's cardinalfish) *[Ostorhinchus
-endekataenia](candystripe.htm)* (Candystripe cardinalfish) *Ostorhinchus fasciatus  
+endekataenia](candystripe)* (Candystripe cardinalfish) *Ostorhinchus fasciatus  
 +Ostorhinchus fleurieu  
 [Ostorhinchus
-margaritophorus](margaritophorus.htm)* (Chequered cardinalfish) *+Ostorhinchus nanus  
+margaritophorus](margaritophorus)* (Chequered cardinalfish) *+Ostorhinchus nanus  
 Ostorhinchus novemfasciatus  
 Ostorhinchus pleuron  
 Ostorhinchus urostigmus  
@@ -150,7 +150,7 @@ Pseudamia amblyuropterus
   
 Siphamia tubifer  
   
-Sphaeramia nematoptera* (Pajama cardinalfish) *[Sphaeramia orbicularis](orbicularis.htm)* (Orbicular
+Sphaeramia nematoptera* (Pajama cardinalfish) *[Sphaeramia orbicularis](orbicularis)* (Orbicular
 cardinalfish)  
   
 *Taeniamia fucata* (Orange-lined cardinalfish)  
@@ -219,9 +219,9 @@ Zoramia leptacantha*
   Reef Fishes of the World*
   Periplus Editions. 400pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

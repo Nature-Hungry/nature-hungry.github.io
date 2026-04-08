@@ -4,31 +4,14 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "crustacea, cirripedia, barnacles, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[![talking points for nature guides](../../Templates/fornatureguides.gif)](../forguides/index.html)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 barnacles
-[text index](crustaceaindex.htm#cirripedia) | [photo
-index](othercrust/ciriipedia/cirripedia.htm)
+[text index](crustaceaindex#cirripedia) | [photo
+index](othercrust/ciriipedia/cirripedia)
 Phylum
-[Arthropoda](../arthropoda/arthropoda.htm) > Subphylum
-[Crustacea](crustacea.htm) > Class [Cirripedia](othercrust/ciriipedia/cirripedia.htm)
+[Arthropoda](../arthropoda/arthropoda) > Subphylum
+[Crustacea](crustacea) > Class [Cirripedia](othercrust/ciriipedia/cirripedia)
 [index
-to talking points](../forguides/index.html) for nature guides
+to talking points](../forguides/indexl) for nature guides
 **For
 nature guides: introducing barnacles on a rocky shore**  
 *updated
@@ -37,7 +20,7 @@ Apr 2020*
 ---
 
 **Don't
-step on the barnacles!** [Barnacles](othercrust/ciriipedia/cirripedia.htm) make a good 'first station' to sensitise visitors to the fact that
+step on the barnacles!** [Barnacles](othercrust/ciriipedia/cirripedia) make a good 'first station' to sensitise visitors to the fact that
 every inch of the rocky shore is alive. **What
 are barnacles?**   
 Barnacles
@@ -57,22 +40,22 @@ glue themselves head down onto a hard surface and develop the shell.
   shut the hole in the shell with a 'door' so that they don't dry
   out. A shell without a door is an empty shell, and the barnacle
   has died. But sometimes, there are other small animals that might
-  live in the empty shell (e.g., tiny [periwinkles](../mollusca/gastropoda/littorinidae/littorinidae.htm)).
+  live in the empty shell (e.g., tiny [periwinkles](../mollusca/gastropoda/littorinidae/littorinidae)).
 - ***Why
   are the barnacles all crowded together?*** "Why are
   these no barnacles higher up on the rock here?" "How
   many different kinds of barnacles can you find and where are they
-  found?" This is a good chance to explain [tides](../concepts/tides.htm) and [zonation](../concepts/zonation.htm).
+  found?" This is a good chance to explain [tides](../concepts/tides) and [zonation](../concepts/zonation).
 - ***Is
   it a limpet or a barnacle?*** Here's more on [how
-  to tell them apart](../glossary/limpetbarnacle.htm).
+  to tell them apart](../glossary/limpetbarnacle).
 
 **Barnacles
 are important to the ecosystem**
 
 - ***What
   is this ugly looking snail on the barnacle?*** Yes, it's
-  a [Drill](../mollusca/gastropoda/muricidae/muricidae.htm).
+  a [Drill](../mollusca/gastropoda/muricidae/muricidae).
   Although barnacles have thick shells, they don't move. So they
   are easy food for snails and animals that can get through their
   shells. And this snail has a special way to get to the shell.
@@ -121,9 +104,9 @@ internal features.
 them, so that the group can spread out and each person can look
 at a piece of wall.
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

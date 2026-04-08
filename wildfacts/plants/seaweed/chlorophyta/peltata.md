@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "parasol, seaweed, weed, green, caulerpa, peltata, caulerpaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 green
-seaweeds [text index](../seaweedindex.htm) | [photo
-index](../seaweedfi.htm)
-[Seaweeds](../seaweed.htm)
-> Division [Chlorophyta](chlorophyta.htm) > Family
-Caulerpaceae > genus *[Caulerpa](caulerpa.htm)*
+seaweeds [text index](../seaweedindex) | [photo
+index](../seaweedfi)
+[Seaweeds](../seaweed)
+> Division [Chlorophyta](chlorophyta) > Family
+Caulerpaceae > genus *[Caulerpa](caulerpa)*
 **Big
 parasol green seaweed  
 *Caulerpa peltata\**** **Family Caulerpaceae  
@@ -45,8 +45,8 @@ the length of a 'horizontal root' that creeps over the surface. Some form loose
 clusters. Bright yellow-green to bluish-green.  
   
 On the reefs of our Southern Islands, a similar seaweed with [much
-smaller 'parasols'](peltatasmall.htm) is often seen. **Sometimes confused with** similar green seaweeds. Here's
-more on [how to tell apart some green seaweeds](cfgrapes.htm).
+smaller 'parasols'](peltatasmall) is often seen. **Sometimes confused with** similar green seaweeds. Here's
+more on [how to tell apart some green seaweeds](cfgrapes).
   
   
 **Human
@@ -93,7 +93,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ![](peltata/090822sisnml4m3.JPG)  
 *Sisters Island, Aug 09*Photo shared by Neo Mei Lin on [her
-blog](http://psychedelic-nature.blogspot.com/2009/08/little-sisters-isnt-that-little.html).
+blog](http://psychedelic-nature.blogspot.com/2009/08/little-sisters-isnt-that-littlel).
 
 ![](peltata/210502tptvc13.jpg)  
 *Terumbu Pempang Tengah, May 21*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158447589462945&set=a.10158447654442945).
@@ -129,9 +129,9 @@ blog](http://psychedelic-nature.blogspot.com/2009/08/little-sisters-isnt-that-li
   Guide and Atlas of the Seaweed Resources of the Philippines.*.
   Bookmark, Inc., the Philippines. 306 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

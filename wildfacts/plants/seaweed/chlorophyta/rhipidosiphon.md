@@ -9,21 +9,21 @@ layout: default
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 green
-seaweeds [text index](../seaweedindex.htm) | [photo
-index](../seaweedfi.htm)
-[Seaweeds](../seaweed.htm)
-> Division [Chlorophyta](chlorophyta.htm)
+seaweeds [text index](../seaweedindex) | [photo
+index](../seaweedfi)
+[Seaweeds](../seaweed)
+> Division [Chlorophyta](chlorophyta)
 **Pleated
 fan green seaweed  
 *Rhipidosiphon javensis*\*** **Family Udoteaceae  
@@ -45,7 +45,7 @@ velvety texture and is slightly to moderately calcified. The stem
 that holds up the blade (stipe) is calcified. Usually
 bright green. **Sometimes confused with** other fan-shaped green seaweeds.
 Here's more on [how to tell apart fan-shaped green
-seaweeds](cffan.htm).  
+seaweeds](cffan).  
   
 **Human uses:** Some species have
 anti-bacterial and anti-tumor properties.
@@ -126,9 +126,9 @@ javensis*
   Guide and Atlas of the Seaweed Resources of the Philippines.*.
   Bookmark, Inc., the Philippines. 306 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

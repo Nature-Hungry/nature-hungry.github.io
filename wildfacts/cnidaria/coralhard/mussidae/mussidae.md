@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "brain, mussidae, lobophylliidae, lobophyllia, symphyllia, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 hard corals [text
-index](../../coralhardindex.htm) | [photo index](../../cnidariafi1.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard.htm)
+index](../../coralhardindex) | [photo index](../../cnidariafi1)
+Phylum [Cnidaria](../../cnidaria)
+> Class [Anthozoa](../../anthozoa) > Subclass
+Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard)
 **Brain
 corals**   
 **Family Lobophylliidae\****updated
@@ -45,7 +45,7 @@ Some species of *Lobophyllia* and *Symphyllia* look very
 similar and requires close examination to differentiate. On this website
 they are grouped by external features for convenience of display.  
   
-**Sometimes mistaken for** [Corals with maze-like patterns](../faviidae/maze/mazeothers.htm) (Family Faviidae), which have thinner
+**Sometimes mistaken for** [Corals with maze-like patterns](../faviidae/maze/mazeothers) (Family Faviidae), which have thinner
 corallite walls without large 'teeth'.  
   
 **Status:** While a few species are listed as Vulnerable or Near Threatened, for most there is inadequate information as at 2024 to make an informed assesment of the conservation status of the recorded Family Lobophylliidae corals in Singapore.
@@ -67,7 +67,7 @@ corals on Singapore shores**
 ![](lobophyllia/100201hntd8950m3.jpg)
 
 **[Lobed
-brain coral](lobophyllia.htm)**  
+brain coral](lobophyllia)**  
 *Lobophyllia* sp.
 
 Corallite
@@ -85,7 +85,7 @@ not as meandering.
 ![](symphyllia/080816sisd9640m3.jpg)
 
 **[Grooved
-brain coral](symphyllia.htm)**  
+brain coral](symphyllia)**  
 *Symphyllia* sp.
 
 Corallite
@@ -110,8 +110,8 @@ are difficult to positively identify without close examination
 with a microscope.* *On this website,
 they are grouped by external features for convenience of display**.*
 
-[Lobed brain coral](lobophyllia.htm)  
-[Grooved brain coral](symphyllia.htm)
+[Lobed brain coral](lobophyllia)  
+[Grooved brain coral](symphyllia)
 
   
  
@@ -157,9 +157,9 @@ Oxypora lacera (NT Near Threatened)* (Ragged chalice coral)
   Corals: Selection, Husbandry and Natural History*
   T.F. H Publications. 464 pp
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

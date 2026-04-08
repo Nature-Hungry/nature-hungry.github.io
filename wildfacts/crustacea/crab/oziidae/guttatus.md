@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "spotted, belly, forceps, crab, ozius, guttatus, oziidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
 > Brachyurans
 **Spotted-belly**  **forceps crab**  
 ***Ozius guttatus***  
@@ -61,7 +61,7 @@ is peeled open or crushed.
   
 **Sometimes confused with** similar
 crabs in the same habitat. Here's more on how to tell apart [big
-crabs with big pincers](../../bigpincer.htm) seen on the rocky shores and coral rubble.
+crabs with big pincers](../../bigpincer) seen on the rocky shores and coral rubble.
 *![](guttatus/051018smkg2734m3.jpg)  
 Pulau Semakau, Oct 05*
 *![](guttatus/051018smkg2737m3a.jpg)*Plain smooth upper side.
@@ -148,7 +148,7 @@ Epixanthus frontalis
   
 \*Eupilumnus (Globopilumnus) actumnoides=\*\*Eupilumnus actumnoides
   
-\*Eupilumnus (Globopilumnus) globosus**=\*\*Eupilumnus globosus* *[Ozius guttatus](../oziidae/guttatus.htm)*
+\*Eupilumnus (Globopilumnus) globosus**=\*\*Eupilumnus globosus* *[Ozius guttatus](../oziidae/guttatus)*
 (Spotted-belly forceps crab) *Ozius rugulosus  
 Ozius tuberculosus* 
 
@@ -159,14 +159,14 @@ thanks to [Crabhunter](http://www.flickr.com/photos/crabhunter-ii/)
 for confirmation of ID. **Links**
 
 - [*Ozius
-  guttatus*](http://mangrove.nus.edu.sg/pub/seashore/text/215.htm) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+  guttatus*](http://mangrove.nus.edu.sg/pub/seashore/text/215) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [*Ozius
   guttatus*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1447) on Crabs of Japan on Marine Species Identification
   Portal: technical fact sheet.
 - [*Ozius
-  guttatus*](http://www.madeinnys.com/mangrove/o_guttatus.htm)
+  guttatus*](http://www.madeinnys.com/mangrove/o_guttatus)
   on A field guide to Kenyan mangroves: fact sheet with photos.
 - [Spottedbelly
   rock crab (*Ozius guttatus*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=83554) on [SeaLifeBase](http://www.sealifebase.org/search.php)
@@ -186,9 +186,9 @@ for confirmation of ID. **Links**
   Science, Nanyang Technological University & Department of Zoology,
   the National University of Singapore. 160 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

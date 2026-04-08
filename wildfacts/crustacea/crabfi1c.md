@@ -4,31 +4,16 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, crab, decapoda, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 crustacea [text
-index](crustaceaindex.htm) | [photo index](crustaceafi.htm)
-Phylum [Arthropoda](../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](crustacea.htm) > Class Malacostraca
-> Order [Decapoda](decapoda.htm)
+index](crustaceaindex) | [photo index](crustaceafi)
+Phylum [Arthropoda](../arthropoda/arthropoda)
+> Subphylum [Crustacea](crustacea) > Class Malacostraca
+> Order [Decapoda](decapoda)
 **Photo
 index of crabs on Singapore shores**  
 **Small crabs:
 body width < 3 cm** [except
-those with long eyestalks](crabfi1a.htm)
+those with long eyestalks](crabfi1a)
 
 ---
 
@@ -36,19 +21,19 @@ those with long eyestalks](crabfi1a.htm)
 for body width*
 
 ![](crab/dorippidae/dorippidae/050412tusd2358m.jpg)  
-[Leaf porter crab](crab/dorippidae/dorippidae.htm)   
+[Leaf porter crab](crab/dorippidae/dorippidae)   
 Family Dorippidae
 
 *![](crab/parthenopidae/common/050511cftg6313m.jpg)*  
-[Common elbow crab](crab/parthenopidae/common.htm)  
+[Common elbow crab](crab/parthenopidae/common)  
 Family Parthenopidae
 
 *![](crab/majoidea/menatheius/050625labg8681m.jpg)*  
-[Arrow-head spider crab](crab/majoidea/menatheius.htm)  
+[Arrow-head spider crab](crab/majoidea/menatheius)  
 *Menatheius* sp.
 
 *![](crab/majoidea/tiny/060225cjg4983m.jpg)*  
-[Tiny spider crab](crab/majoidea/tiny.htm)  
+[Tiny spider crab](crab/majoidea/tiny)  
 *awaiting identification*
 
 1.5cm.
@@ -69,11 +54,11 @@ of our shores.
 
 ![](crab/corystidae/corystidae/041215labd9037m.jpg)  
 [Masked
-burrowing crab](crab/corystidae/corystidae.htm)  
+burrowing crab](crab/corystidae/corystidae)  
 Family Corystidae
 
 ![](crab/leucosiidae/leucosiidae/050726chgg0327m.jpg)  
-[Pebble crab](crab/leucosiidae/leucosiidae.htm) Family Leucosiidae
+[Pebble crab](crab/leucosiidae/leucosiidae) Family Leucosiidae
 
  
  
@@ -89,22 +74,22 @@ seen on our Northern shores.
 
 ![](crab/grapsidae/metopograpsus/041018sntd7586m.jpg)  
 [Purple
-climber crabs](crab/grapsidae/metopograpsus.htm) *Metopograpsus* sp.
+climber crabs](crab/grapsidae/metopograpsus) *Metopograpsus* sp.
 
 ![](crab/sesarmidae/brockii/031128sbwrad0071m.jpg)  
 [Mangrove
   
-tree-dwelling crabs](crab/sesarmidae/brockii.htm) *Selatium brockii*
+tree-dwelling crabs](crab/sesarmidae/brockii) *Selatium brockii*
 
 ![](crab/varunidae/metaplax/090905sbwrd0149ma.jpg)  
 [Orange
-signaller crab](crab/varunidae/metaplax.htm) *Metaplax elegans*
+signaller crab](crab/varunidae/metaplax) *Metaplax elegans*
 
 ![](crab/xanthidae/venosa/050723labg0037m.jpg)  
-[Ruby reef crab](crab/xanthidae/actaea.htm)  *Actaea* sp.
+[Ruby reef crab](crab/xanthidae/actaea)  *Actaea* sp.
 
 *![](crab/xanthidae/pilodius/111001sjid1824m.jpg)*  
-[Pilodius rock crab](crab/xanthidae/pilodius.htm)  
+[Pilodius rock crab](crab/xanthidae/pilodius)  
 *Pilodius* sp.
 
 2-4cm.
@@ -123,33 +108,33 @@ cm. Pincers with spoon-shaped tips, body flat. Commonly seen under
 stones near reefs.
 
 ![](crab/trapezioidea/bandit/100131slulks5m.jpg)  
-[Bandit coral crab](crab/trapezioidea/bandit.htm)  *Tetralia nigrolineata*
+[Bandit coral crab](crab/trapezioidea/bandit)  *Tetralia nigrolineata*
 
 ![](crab/trapezioidea/redcoral/100711cyrd8229ma.jpg)  
 [Red
-coral crab](crab/trapezioidea/redcoral.htm)  *Trapezia cymodoce*
+coral crab](crab/trapezioidea/redcoral)  *Trapezia cymodoce*
 
 ![](crab/pilumnidae/featherstar/150220lsislks2m.jpg)  
-[Crinoid crab](crab/pilumnidae/featherstar.htm) *awaiting identification*
+[Crinoid crab](crab/pilumnidae/featherstar) *awaiting identification*
 
 *![](crab/xanthidae/cymo/081231sisd4418ma.jpg)*  
-[Hairy coral crab](crab/xanthidae/cymo.htm)  
+[Hairy coral crab](crab/xanthidae/cymo)  
 *Cymo andreossyi*
 
 *![](crab/pilumnidae/setifer/130721cjd9597m.jpg)*  
-[Rubble-carrying crab](crab/pilumnidae/setifer.htm)  
+[Rubble-carrying crab](crab/pilumnidae/setifer)  
 *Actumnus setifer*
 
 1cm.
 Found only in [Acropora
-corals](../cnidaria/coralhard/acroporidae/acropora.htm) (*Acropora* sp.). Brown with dark band across the
+corals](../cnidaria/coralhard/acroporidae/acropora) (*Acropora* sp.). Brown with dark band across the
 eyes. Sometimes seen on our Southern shores.
 1cm.
 Found only in [Cauliflower
-corals](../cnidaria/coralhard/pocilloporidae/pocillopora.htm) (*Pocillopora* sp.). Red or orange. Sometimes seen
+corals](../cnidaria/coralhard/pocilloporidae/pocillopora) (*Pocillopora* sp.). Red or orange. Sometimes seen
 on our Southern shores.
 1cm.
-Found only in [feather stars](../echinodermata/crinoidea/crinoidea.htm). Colour and pattern matches feather star host. Rarely seen.
+Found only in [feather stars](../echinodermata/crinoidea/crinoidea). Colour and pattern matches feather star host. Rarely seen.
 1
 cm. Hairy body, legs and pincers. Found only in Acropora and Pocillopora
 hard corals. Sometimes seen on some of our Southern shores.
@@ -165,32 +150,32 @@ index of
 crustaceans on this site
 
 **Crustaceans**  
-[all crustaceans](crustaceafi.htm)  
+[all crustaceans](crustaceafi)  
   
 **Crabs**  
-[all crabs](crabfi.htm) and crab-like  
+[all crabs](crabfi) and crab-like  
   
 small   
 body width <2 cm  
- [small with long eyestalks](crabfi1a.htm)  
- [small porcelain crabs](crabfi1b.htm)   
+ [small with long eyestalks](crabfi1a)  
+ [small porcelain crabs](crabfi1b)   
 3 pairs walking legs  
   
-[medium](crabfi3.htm)   
+[medium](crabfi3)   
 body width 3-5cm  
   
-[large](crabfi4.htm)   
+[large](crabfi4)   
 body width >5cm  
   
-[swimming crabs](crabfi5.htm)   
+[swimming crabs](crabfi5)   
 last pair of legs paddle-shaped  
   
-[hermit crabs](anomurafi.htm)   
+[hermit crabs](anomurafi)   
 live in shells
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

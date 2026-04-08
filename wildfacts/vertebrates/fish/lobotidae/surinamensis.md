@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "triple, tail, tripletail, lobotes, surinamensis, lobotidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm)
+> Subphylum Vertebrate > [fishes](../fish)
 **Tripletail   
 *Lobotes
 surinamensis***  **Family Lobotidae***updated Sep 2020*
@@ -47,7 +47,7 @@ yellow above, silvery grey below; pectorals pale yellow, other fins
 darker than body; caudal fin with yellow margin.  
   
 **May be mistaken for** the [Brown
-sweetlips](../haemulidae/gibbosus.htm).
+sweetlips](../haemulidae/gibbosus).
 ![](surinamensis/090607tmftd3410m3.jpg)  
 *Tanah Merah,
 Jun 09*
@@ -99,7 +99,7 @@ Lobotidae**
 
 **Links**  
 
-- [Tripletail](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/303.htm)
+- [Tripletail](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/303)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
@@ -109,7 +109,7 @@ Lobotidae**
 - [*Lobotes
   surinamensis*](http://www.iucnredlist.org/details/198670/0) from IUCN Red List.
 - [Volume
-  5: Bony fishes part 3 (Menidae to Pomacentridae)](http://www.fao.org/docrep/009/y0770e/y0770e00.htm) FAO Species
+  5: Bony fishes part 3 (Menidae to Pomacentridae)](http://www.fao.org/docrep/009/y0770e/y0770e00) FAO Species
   Identification Guide for Fishery Purposes The Living Marine Resources
   of the Western Central Pacific.
 
@@ -127,9 +127,9 @@ Lobotidae**
   Reef Fishes of the World*
   Periplus Editions. 400pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

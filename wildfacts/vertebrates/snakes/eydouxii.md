@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "snake, marbled, aipysurus, eydouxii, elapidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 snakes [text
-index](snakeindex.htm) | [photo index](snakeshorefi.htm)
+index](snakeindex) | [photo index](snakeshorefi)
 Phylum Chordata
 > Subphylum Vertebrata > Class Reptilia > [shore
-snakes](snakeshore.htm)
+snakes](snakeshore)
 **Marbled
 sea snake  
 *Aipysurus eydouxii*  
@@ -86,27 +73,27 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ![](eydouxii/100614bbtch9m6l.jpg)  
 *Beting Bronok, Jun 10*Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2010/06/return-to-beting-bronok.html).
+blog](http://colorclouds.blogspot.com/2010/06/return-to-beting-bronokl).
 
 *![](eydouxii/150802bblks2m3.jpg)  
-Beting Bronok, Aug 15*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2015/08/hows-beting-bronok-over-two-years.html).
+Beting Bronok, Aug 15*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2015/08/hows-beting-bronok-over-two-yearsl).
 
 ---
 
 *![](eydouxii/140616bbmn1m3.jpg)**Beting Bronok, Jun 14*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10152209637738660.1073741839.624178659&type=1).
 
 ![](eydouxii/130526chglks.JPG)  
-*Changi, May 13*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2013/05/long-stretch-of-changi-shore-with-lots.html).
+*Changi, May 13*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2013/05/long-stretch-of-changi-shore-with-lotsl).
 
 ---
 
 **Links**
 
 - [Marbled
-  Sea Snake](http://www.ecologyasia.com/verts/snakes/marbled-sea-snake.htm) on Nick Baker's EcologyAsia website: fact sheet
+  Sea Snake](http://www.ecologyasia.com/verts/snakes/marbled-sea-snake) on Nick Baker's EcologyAsia website: fact sheet
   with photos.
 - [Volume
-  6: Sea snakes](http://www.fao.org/docrep/009/x2401e/x2401e00.htm) by A. R. Rasmussen, edited by Kent E. Carpenter
+  6: Sea snakes](http://www.fao.org/docrep/009/x2401e/x2401e00) by A. R. Rasmussen, edited by Kent E. Carpenter
   and Volker H. Niem FAO Species Identification Guide for Fishery
   Purposes: The Living Marine Resources of the Western Central Pacific
   on the Food and Agriculture Organization of the United Nations
@@ -114,7 +101,7 @@ Beting Bronok, Aug 15*Photo shared by Loh Kok Sheng on [his blog](http://wonderc
 - [*Aipysurus
   eydouxii*](http://www.iucnredlist.org/details/176757/0) on the IUCN Red List.
 - [Injured Marbled
-  sea snake at Chek Jawa](http://wildshores.blogspot.sg/2015/08/injured-marbled-sea-snake-at-chek-jawa.html) on wild shores of singapore blog.
+  sea snake at Chek Jawa](http://wildshores.blogspot.sg/2015/08/injured-marbled-sea-snake-at-chek-jawal) on wild shores of singapore blog.
 
 **References**
 
@@ -131,14 +118,4 @@ Beting Bronok, Aug 15*Photo shared by Loh Kok Sheng on [his blog](http://wonderc
   Robert B and Robert F. Inger. 1999. *A
   Field Guide to the Snakes of Borneo* Natural History Publications (Borneo). 254 pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

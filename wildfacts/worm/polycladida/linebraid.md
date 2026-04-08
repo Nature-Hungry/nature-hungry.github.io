@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "striped, lined, flat, worm, flatworm, pseudoceros, concinnus, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 flatworms [text
-index](../wormindex.htm) | [photo index](../polycladidafi.htm)
-[worms](../worm.htm)
+index](../wormindex) | [photo index](../polycladidafi)
+[worms](../worm)
 > Phylum Platyhelminthes > Class
-Turbellaria > [Order Polycladida](polycladida.htm)
+Turbellaria > [Order Polycladida](polycladida)
 **Braided-line
 flatworm  
 *Pseudoceros* sp. 4*\****Family
@@ -40,14 +27,14 @@ seen?** This small flatworm is sometimes seen on our Southern shores, on coral r
 a pair of pseudotentacles made up of simple folded edges
 of the body.  
   
-**What does it eat?** It has been seen on colonial [ascidians](../../ascidiacea/ascidiacea.htm),
-including the [pink ascidian](../../ascidiacea/pink.htm).   
+**What does it eat?** It has been seen on colonial [ascidians](../../ascidiacea/ascidiacea),
+including the [pink ascidian](../../ascidiacea/pink).   
   
-**Sometimes mistaken for** similar flatworms. Here's more on how to tell apart small flatworms with [one central line and three central lines](cfstriped.htm).
+**Sometimes mistaken for** similar flatworms. Here's more on how to tell apart small flatworms with [one central line and three central lines](cfstriped).
 
 ![](linebraid/100528tkklks3m3.jpg)  
  *Pulau Tekukor, May 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/05/my-first-trip-to-pulau-tekukor.html).
+blog](http://wondercreation.blogspot.com/2010/05/my-first-trip-to-pulau-tekukorl).
 
 ![](linebraid/100528tkklks3m3a.jpg)  
 Central line golden-speckled yellow with intermittent dull orange, and dark blue border.
@@ -86,13 +73,13 @@ display.*
 
 ![](linebraid/140103kuslks1m3.jpg)  
  *Kusu Island, Jan 14*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2014/01/stress-and-more-stress-on-kusu-island.html).
+blog](http://wondercreation.blogspot.sg/2014/01/stress-and-more-stress-on-kusu-islandl).
 
 ![](linebraid/140131kuslks2m3.JPG)  
 *Kusu Island, Jan 14*Photo shared by Loh Kok Sheng
 
 ![](linebraid/070531sisg9659m3.jpg)  
-Is it eating the [pink ascidian](../../ascidiacea/pink.htm)? *Sisters Island, May 07*
+Is it eating the [pink ascidian](../../ascidiacea/pink)? *Sisters Island, May 07*
 
   
 
@@ -111,15 +98,15 @@ Is it eating the [pink ascidian](../../ascidiacea/pink.htm)? *Sisters Island, Ma
 
 ![](linebraid/090809sjitch1m3.jpg)  
  *St. John's Island, Aug 09*Shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2009/08/sluggish-day-st-johns.html).
+blog](http://colorclouds.blogspot.com/2009/08/sluggish-day-st-johnsl).
 
 ![](linebraid/090529sjilks1m3.jpg)  
- *St John's Island, May 09*Shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2009/05/my-first-st-johns-intertidal-guided.html).
+ *St John's Island, May 09*Shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2009/05/my-first-st-johns-intertidal-guidedl).
 
 *![](linebraid/110203sjilks1m3.JPG)  
 St. John's Island, Feb 11*Photo
 shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/02/lunar-new-year-day-1-st-johns-island.html).
+blog](http://wondercreation.blogspot.com/2011/02/lunar-new-year-day-1-st-johns-islandl).
 
 ---
 
@@ -133,7 +120,7 @@ blog](http://wondercreation.blogspot.com/2011/02/lunar-new-year-day-1-st-johns-i
 
 ![](linebraid/080519sislks1m3.JPG)  
  *Sisters Island, May 08*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2008/05/sleepy-humans-lively-sisters.html).
+blog](http://wondercreation.blogspot.sg/2008/05/sleepy-humans-lively-sistersl).
 
 ![](linebraid/100919sislks1m3.jpg)  
  *Sisters Island, Sep 10*Photo shared by Loh Kok Sheng on [his
@@ -168,7 +155,7 @@ flickr](http://www.flickr.com/photos/koksheng/4151578479/).
 
 ![](linebraid/111225tsmkjk1m3.jpg)  
  *Terumbu Semakau, Dec 11*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2011/12/terumbu-semakau.html).
+blog](http://sgn090608.blogspot.com/2011/12/terumbu-semakaul).
 
 ---
 
@@ -179,14 +166,4 @@ Grateful thanks to Rene Ong for sharing details and identifying the flatworms on
 
 - Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018. *A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.* Nature in Singapore 2018 11: 77–125.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

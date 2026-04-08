@@ -4,29 +4,29 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "tawny, hermit, crab, clibanarius, arethusa, rutilus, anomura, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../../wildfactsheet3.gif)](../../../../index.html)
+[![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../../index.html)  
+[wildfactsheets homepage](../../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../../animals.htm)
-| [all plants](../../../../plants.htm)
-| [concepts](../../../../concepts/index.html)
-| [glossary](../../../../glossary/index.html)
-| [search](../../../../search.htm)
+[all animals](../../../../animals)
+| [all plants](../../../../plants)
+| [concepts](../../../../concepts/indexl)
+| [glossary](../../../../glossary/indexl)
+| [search](../../../../search)
 
 hermit crabs
-[text index](../../../crustaceaindex.htm#anomurans) | [photo
-index](../../../anomurafi.htm)
-Phylum [Arthropoda](../../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../../crustacea.htm) >
-Class Malacostraca > Order [Decapoda](../../../decapoda.htm)
+[text index](../../../crustaceaindex#anomurans) | [photo
+index](../../../anomurafi)
+Phylum [Arthropoda](../../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../../crustacea) >
+Class Malacostraca > Order [Decapoda](../../../decapoda)
 > Anomurans
-> [hermit crabs](hermit.htm) > *[Clibanarius](clibanarius.htm)*
+> [hermit crabs](hermit) > *[Clibanarius](clibanarius)*
 **Tawny
 hermit crab *Clibanarius* sp.*\**  
 Family Diogenidae***updated
@@ -46,7 +46,7 @@ antennae and long antennae bright orange.
   
 Two species fit these photos but they are hard to tell apart in the field: *Clibanarius arethusa* and *Clibanarius rutilus*  
   
-More on how to tell apart [*Clibanarius* hermit crabs](clibanarius.htm).
+More on how to tell apart [*Clibanarius* hermit crabs](clibanarius).
 
 *![](tawny/140614cjd6449m3.jpg)  
 Chek Jawa, Jun 14**![](tawny/140614cjd6449m3a.jpg)*
@@ -77,7 +77,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 ---
 
 *![](tawny/140616cjlks.JPG)  
-Chek Jawa, Jun 14*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/06/the-s-encounters-at-chek-jawa.html).
+Chek Jawa, Jun 14*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/06/the-s-encounters-at-chek-jawal).
 
 ---
 
@@ -85,9 +85,9 @@ Chek Jawa, Jun 14*Photo shared by Loh Kok Sheng on [his blog](http://wondercreat
 With grateful thanks to Rene Ong for checking with Dr Dwi Listyo
 Rahayu on the identification of this hermit crab.
 
-[links](../../../../links.htm)
-| [references](../../../../references.htm)
-| [about](../../../../about.htm)
+[links](../../../../links)
+| [references](../../../../references)
+| [about](../../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "flat, worm, flatworm, maritigrella, virgulata, euryleptidae, polyclad, turbellaria, platyhelminthes, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 flatworms [text
-index](../wormindex.htm) | [photo index](../polycladidafi.htm)
-[worms](../worm.htm)
+index](../wormindex) | [photo index](../polycladidafi)
+[worms](../worm)
 > Phylum Platyhelminthes > Class
-Turbellaria > [Order Polycladida](polycladida.htm)
+Turbellaria > [Order Polycladida](polycladida)
 **Red-lined
 flatworm  
 *Maritigrella virgulata\******Family
@@ -41,7 +28,7 @@ rubble near living reefs, usually at night. 'Virgulatus' in Latin means 'striped
 cream-white to beige with a pattern of fine black bars of unequal
 length along the edges with a thin broken
 orange or red line along the centre. Has a pair of tentacles that extend like flaps at the front of the body.  
- **What does it eat?** *Maritigrella* flatworms eat [ascidians](../../ascidiacea/ascidiacea.htm) by sucking out each individual ascidian with a tube-shaped pharynx (a
+ **What does it eat?** *Maritigrella* flatworms eat [ascidians](../../ascidiacea/ascidiacea) by sucking out each individual ascidian with a tube-shaped pharynx (a
 part of the gut) that can be pushed out through the mouth to engulf
 the prey.
 
@@ -51,7 +38,7 @@ Oct 09*
 
 ![](virgulata/091018smklks1m3a.jpg)  
 Photo shared
-by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.com/2009/10/semakau-on-weekend.html).
+by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.com/2009/10/semakau-on-weekendl).
 
 ![](virgulata/070704jngg1090m3.jpg)  
 *Pulau Jong,
@@ -80,13 +67,13 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](virgulata/150220lsislks3m3.JPG)Little Sisters Island, Feb 15*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2015/02/cny-day-2-little-sisters-island.html).
+*![](virgulata/150220lsislks3m3.JPG)Little Sisters Island, Feb 15*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2015/02/cny-day-2-little-sisters-islandl).
 
 ---
 
 ![](virgulata/090922sjijk1m3.jpg)  
 *St. John's
-Island, Sep 09*Photo shared by James Koh on [his blog](http://sgn090608.blogspot.com/2009/09/st-johns-sargassum-season.html).
+Island, Sep 09*Photo shared by James Koh on [his blog](http://sgn090608.blogspot.com/2009/09/st-johns-sargassum-seasonl).
 
 ![](virgulata/200112sjijc1.jpg)  
 *St. John's
@@ -99,7 +86,7 @@ Island, Apr 22*Photo shared by Jianlin Liu on [facebook](https://www.facebook.co
 ---
 
 ![](virgulata/150422jngnml1m3.jpg)  
-*Pulau Jong, Apr 15*Photo shared by Neo Mei Lin on [his blog](http://psychedelic-nature.blogspot.com/2015/04/happy-earth-day-on-pulau-jong.html).
+*Pulau Jong, Apr 15*Photo shared by Neo Mei Lin on [his blog](http://psychedelic-nature.blogspot.com/2015/04/happy-earth-day-on-pulau-jongl).
 
 ![](virgulata/190622jnglks1.jpg)  
 *Pulau Jong, Jun 19\**Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10157293065148158&set=a.10157293063933158&type=3&theater).
@@ -135,14 +122,4 @@ Grateful thanks to Rene Ong for sharing details and identifying the flatworms on
   H and Helmut Debelius. 2009. *World
   Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

@@ -4,30 +4,15 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, crab, decapoda, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 crustacea [text
-index](crustaceaindex.htm) | [photo index](crustaceafi.htm)
-Phylum [Arthropoda](../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](crustacea.htm) > Class Malacostraca
-> Order [Decapoda](decapoda.htm)
+index](crustaceaindex) | [photo index](crustaceafi)
+Phylum [Arthropoda](../arthropoda/arthropoda)
+> Subphylum [Crustacea](crustacea) > Class Malacostraca
+> Order [Decapoda](decapoda)
 **Photo
 index of crabs on Singapore shores**  
 **Large crabs:
-body width > 8cm** except [swimming crabs](crabfi5.htm)
+body width > 8cm** except [swimming crabs](crabfi5)
 
 ---
 
@@ -36,20 +21,20 @@ for body width*
 
 *![](crab/menippidae/hardwickii/050110skdd9350m.jpg)*  
 [Stone or   
-Thunder crab](crab/menippidae/hardwickii.htm) *Myomenippe hardwickii*
+Thunder crab](crab/menippidae/hardwickii) *Myomenippe hardwickii*
 
 *![](crab/oziidae/guttatus/040521sntad0043m.jpg)*  
 [Spotted-belly  
-can-opener crab](crab/oziidae/guttatus.htm) *Ozius guttatus*
+can-opener crab](crab/oziidae/guttatus) *Ozius guttatus*
 
 ![](crab/xanthidae/floridus/040919sntd7093m.jpg)  
-[Floral egg crab](crab/xanthidae/floridus.htm) *Atergatis floridus*
+[Floral egg crab](crab/xanthidae/floridus) *Atergatis floridus*
 
 ![](crab/xanthidae/laevimanus/031125hntbd0024m.jpg)  
-[Smooth spooner crab](crab/xanthidae/laevimanus.htm) *Etisus laevimanus*
+[Smooth spooner crab](crab/xanthidae/laevimanus) *Etisus laevimanus*
 
 ![](crab/xanthidae/leptodius/100626cyrd7061m.jpg)  
-[Rock crab](crab/xanthidae/leptodius.htm) *Leptodius* sp.
+[Rock crab](crab/xanthidae/leptodius) *Leptodius* sp.
 
 10-12cm.
 Body rounded with large pincers and black-tipped claws. Usually
@@ -70,19 +55,19 @@ Coral rubble, reefs. Commonly seen on many of our Southern shores.
 Coral rubble, reefs. Commonly seen on many of our Southern shores.
 
 ![](crab/xanthidae/pictor/041018sntd7521m.jpg)  
-[Mosaic reef crab](crab/xanthidae/pictor.htm)  *Lophozozymus pictor*
+[Mosaic reef crab](crab/xanthidae/pictor)  *Lophozozymus pictor*
 
 ![](crab/xanthidae/integerrimus/031126tusad0082m.jpg)  
-[Red egg crab](crab/xanthidae/integerrimus.htm) *Atergatis integerrimus*
+[Red egg crab](crab/xanthidae/integerrimus) *Atergatis integerrimus*
 
 *![](crab/menippidae/rumphii/080619chgd5706m.jpg)*  
-[Maroon stone crab](crab/menippidae/rumphii.htm) *Menippe rumphii*
+[Maroon stone crab](crab/menippidae/rumphii) *Menippe rumphii*
 
 ![](crab/xanthidae/utilis/050917smkg2456m.jpg)  
-[Saw-edged spooner crab](crab/xanthidae/utilis.htm) *Etisus utilis*
+[Saw-edged spooner crab](crab/xanthidae/utilis) *Etisus utilis*
 
 ![](crab/xanthidae/platypodia/110731tryd8022m.jpg)  
-[Curry puff crab](crab/xanthidae/platypodia.htm) *Platypodia granulosa*
+[Curry puff crab](crab/xanthidae/platypodia) *Platypodia granulosa*
 
 8-10cm.
 Body flat and somewhat fan-shaped. Red to orange with complicated
@@ -103,17 +88,17 @@ puff. Among reefs. Seldom seen.
 
 *![](crab/ocypodoidea/ceratophthalmus/031029sntcd0036m.jpg)*  
 [Horn-eyed   
-ghost crab](crab/ocypodoidea/ceratophthalmus.htm) *Ocypode ceratophthalmus*
+ghost crab](crab/ocypodoidea/ceratophthalmus) *Ocypode ceratophthalmus*
 
 *![](crab/ocypodoidea/cordimanus/110903sntd1078m.jpg)*  
 [Smooth-eyed   
-ghost crab](crab/ocypodoidea/cordimanus.htm) *Ocypode cordimanus*
+ghost crab](crab/ocypodoidea/cordimanus) *Ocypode cordimanus*
 
 ![](crab/calappidae/philargius/050429cftg5417m.jpg)  
-[Spotted box crab](crab/calappidae/philargius.htm) *Calappa philargius*
+[Spotted box crab](crab/calappidae/philargius) *Calappa philargius*
 
 ![](crab/carpilliidae/maculatus/040703sisd1782m.jpg)  
-[Spotted reef crab](crab/carpilliidae/maculatus.htm)
+[Spotted reef crab](crab/carpilliidae/maculatus)
  *Carpilius maculatus*
 
 6-8cm.
@@ -141,12 +126,12 @@ are NOT crustaceans**
 
 ![](../arthropoda/limulidae/carcinoscopius/050726chgg0355m.jpg)  
 [Mangrove   
-horseshoe crab](../arthropoda/limulidae/carcinoscorpius.htm)Phylum Arthropoda   
+horseshoe crab](../arthropoda/limulidae/carcinoscorpius)Phylum Arthropoda   
 Class Merastomata
 
 ![](../arthropoda/limulidae/tachypleus/050511cftd3272m.jpg)  
 [Coastal  
-horseshoe crab](../arthropoda/limulidae/tachypleus.htm)Phylum Arthropoda   
+horseshoe crab](../arthropoda/limulidae/tachypleus)Phylum Arthropoda   
 Class Merastomata
 
  
@@ -163,7 +148,7 @@ to about 25cm. Shell greyish. Tail is triangular in cross-section.
 ---
 
 How to tell apart [big
-crabs with big pincers](bigpincer.htm)
+crabs with big pincers](bigpincer)
   
   
   
@@ -173,31 +158,31 @@ index of
 crustaceans on this site
 
 **Crustaceans**  
-[all crustaceans](crustaceafi.htm)  
+[all crustaceans](crustaceafi)  
   
 **Crabs**  
-[all crabs](crabfi.htm) and crab-like  
- [small](crabfi1c.htm)   
+[all crabs](crabfi) and crab-like  
+ [small](crabfi1c)   
 body width <2 cm  
- [small with long eyestalks](crabfi1a.htm)  
- [small porcelain crabs](crabfi1b.htm)   
+ [small with long eyestalks](crabfi1a)  
+ [small porcelain crabs](crabfi1b)   
 3 pairs walking legs  
   
-[medium](crabfi3.htm)   
+[medium](crabfi3)   
 body width 3-5cm  
   
 large   
 body width >5cm  
   
-[swimming crabs](crabfi5.htm)   
+[swimming crabs](crabfi5)   
 last pair of legs paddle-shaped  
   
-[hermit crabs](anomurafi.htm)   
+[hermit crabs](anomurafi)   
 live in shells
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

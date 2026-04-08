@@ -4,27 +4,10 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "decapod, crustacea, crustacean, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[![talking points for nature guides](../../Templates/fornatureguides.gif)](fngcrabs.htm)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 crustacea [text
-index](crustaceaindex.htm) | [photo index](crustaceafi.htm)
-Phylum [Arthropoda](../arthropoda/arthropoda.htm)
-| Subphylum [Crustacea](crustacea.htm) | about [moulting](moulting.htm)
+index](crustaceaindex) | [photo index](crustaceafi)
+Phylum [Arthropoda](../arthropoda/arthropoda)
+| Subphylum [Crustacea](crustacea) | about [moulting](moulting)
 **Decapods  
 Order Decapoda***updated
 Mar 2020*
@@ -47,7 +30,7 @@ of us are more familiar with them than we might imagine. Decapods
 include crabs, prawns and shrimps, lobsters and hermit crabs.   
   
 **What are decapods?** Decapods represent
-almost one-quarter of all known [crustaceans](crustacea.htm).  
+almost one-quarter of all known [crustaceans](crustacea).  
   
 **Class
 Malacostraca**  
@@ -56,13 +39,13 @@ Malacostraca**
  
 Brachyurans: true crabs  
 Anomurans: [hermit
-crabs](othercrust/anomura/hermit/hermit.htm); [porcelain
-crabs](othercrust/anomura/porcellanidae/porcellanidae.htm)  
+crabs](othercrust/anomura/hermit/hermit); [porcelain
+crabs](othercrust/anomura/porcellanidae/porcellanidae)  
 Prawn-like crustacea: [prawns,
-shrimps](othercrust/shrimp/shrimp.htm) and [lobsters](othercrust/lobster/lobster.htm)
+shrimps](othercrust/shrimp/shrimp) and [lobsters](othercrust/lobster/lobster)
 from Edward E.
 Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*[Invertebrate
-Zoology](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FInvertebrate-Zoology-Functional-Evolutionary-Approach%2Fdp%2F0030259827%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175579272%26sr%3D8-2&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)* Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963   
+Zoology](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FInvertebrate-Zoology-Functional-Evolutionary-Approach%2Fdp%2F0030259827%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175579272%26sr%3D8-2&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)* Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963   
   
 **Features:** 'Deca' means ten and 'poda' means foot. Indeed, members of this Order
 have 10 leg-like appendages. 5 pairs are usually walking legs while
@@ -82,14 +65,14 @@ and help manipulate food. Most have appendages that are branched (biramous).
 These may function as gills or gill-cleaners.
 
 ![](crab/portunidae/pelagicus/050622cftg8190m3.jpg)  
-The [Flower crab](crab/portunidae/pelagicus.htm) and
+The [Flower crab](crab/portunidae/pelagicus) and
 other decapods  
 are among our favourite seafood!  
 *Changi, Jun 05*
 
 ![](othercrust/anomura/porcellanidae/picta/050726chgg0423m3.jpg)  
 [Porcelain
-crabs](othercrust/anomura/porcellanidae/porcellanidae.htm) often live with other animals.  
+crabs](othercrust/anomura/porcellanidae/porcellanidae) often live with other animals.  
 *Changi, Jul 05*
  
 **True crabs** or Brachyurans: There
@@ -102,21 +85,21 @@ are Anomurans.
 
 ![](othercrust/anomura/hermit/coenobita/040523sjiad0014m3.jpg)  
 Unlike true crabs, [hermit
-crabs](othercrust/anomura/hermit/hermit.htm) have   
+crabs](othercrust/anomura/hermit/hermit) have   
 a soft abdomen which is protected by   
 tucking it into an empty snail shell  
 *St. John's Island, May 04*
 
-*![](othercrust/shrimp/brevicarpalis/040411hntd0083m3.jpg)*[Anemone shrimps](othercrust/shrimp/brevicarpalis.htm) live in a sea anemone! *Pulau Hantu, Apr 04*
+*![](othercrust/shrimp/brevicarpalis/040411hntd0083m3.jpg)*[Anemone shrimps](othercrust/shrimp/brevicarpalis) live in a sea anemone! *Pulau Hantu, Apr 04*
  
 **Why
 are there so many 'dead' crabs?** You might come across what
 appears to be dead crabs strewn among the seagrass or on the sand
 bars. These are often not dead crabs but merely their discarded skins!
-Like other [arthropods](../arthropoda/arthropoda.htm),
+Like other [arthropods](../arthropoda/arthropoda),
 crustaceans have a hard exoskeleton (external skeleton) and need to shed
 their exoskeleton in order to grow bigger. Called moulting, this also
-allows the animal to regenerate lost limbs. More about [moulting](moulting.htm).
+allows the animal to regenerate lost limbs. More about [moulting](moulting).
 *![](crab/portunidae/tiny/040719sntd2861m3.jpg)*A freshly moulted crab (top right)   
 with the moult (lower left). *Sentosa, Jul 04*  
 ![](crab/crabnoid/050609cftg7545m3.jpg)  
@@ -142,10 +125,10 @@ visitors and over-collection for food can affect local populations.
 
 **Decapods
 on Singapore shores**[text
-index](crustaceaindex.htm) and [photo index](crustaceafi.htm) of crustaceans
+index](crustaceaindex) and [photo index](crustaceafi) of crustaceans
 on this site  
 For decapods listed among the threatened animals of Singapore see
-[crustaceans in general](crustacea.htm)
+[crustaceans in general](crustacea)
 
 ---
 
@@ -166,21 +149,21 @@ For decapods listed among the threatened animals of Singapore see
   Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) II (Animal Diversity)*.
   Singapore Science Centre. 168 pp.
 - [Decapod
-  crabs](http://www.mesa.edu.au/friends/seashores/decapods.html) on the [Life
-  on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1.html) by Keith Davey on the Marine Education
+  crabs](http://www.mesa.edu.au/friends/seashores/decapodsl) on the [Life
+  on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1l) by Keith Davey on the Marine Education
   Society of Australia website: Fact sheets with photos, labelled
   diagrams, and even animated gifs with details on various species
   found in Australia.
 - From the
   wild shores of singapore blog:
   - [Updated
-    classification for the entire Crustacea Decapoda](http://wildshores.blogspot.com/2009/09/updated-classification-for-entire.html)
+    classification for the entire Crustacea Decapoda](http://wildshores.blogspot.com/2009/09/updated-classification-for-entirel)
   - [Fracture-resistant
-    crab pincers due to special biomaterial](http://wildshores.blogspot.com/2009/02/fracture-resistant-crab-pincers-due-to.html)
+    crab pincers due to special biomaterial](http://wildshores.blogspot.com/2009/02/fracture-resistant-crab-pincers-due-tol)
   - [How
-    do crustaceans get their colour?](http://wildshores.blogspot.com/2009/07/how-do-crustaceans-get-their-colours.html)
+    do crustaceans get their colour?](http://wildshores.blogspot.com/2009/07/how-do-crustaceans-get-their-coloursl)
   - [Self-healing
-    paint based on crab shells](http://wildshores.blogspot.com/2009/03/self-healing-paintwork-based-on-crab.html)
+    paint based on crab shells](http://wildshores.blogspot.com/2009/03/self-healing-paintwork-based-on-crabl)
 
 **References**
 
@@ -230,9 +213,9 @@ For decapods listed among the threatened animals of Singapore see
   of the Invertebrates*.
   5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

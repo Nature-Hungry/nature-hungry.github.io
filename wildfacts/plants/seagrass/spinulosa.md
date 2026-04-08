@@ -9,21 +9,21 @@ layout: default
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../index.html)  
+[wildfactsheets homepage](../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
+[all animals](../../animals)
+| [all plants](../../plants)
+| [concepts](../../concepts/indexl)
+| [glossary](../../glossary/indexl)
+| [search](../../search)
 
 seagrasses
-[text index](seagrassindex.htm) | [photo
-index](seagrassfi.htm)
+[text index](seagrassindex) | [photo
+index](seagrassfi)
 
-[Seagrasses](seagrass.htm)
+[Seagrasses](seagrass)
 > Family Hydrocharitaceae
 **Fern
 seagrass   
@@ -48,7 +48,7 @@ seen?**
 The seagrass is sometimes seen in small patches on some of our Northern
 shores. But on Chek Jawa and some parts of Changi, it forms extensive
 meadows. The [preliminary
-results of a transact survey](http://www.naturia.per.sg/cjsurvey/vegetative/text/halophila%20spinulosa.htm) of Chek Jawa suggest it is quite
+results of a transact survey](http://www.naturia.per.sg/cjsurvey/vegetative/text/halophila%20spinulosa) of Chek Jawa suggest it is quite
 widely distributed in the seagrass lagoon there.   
   
 Fern seagrass is found only in South China Sea region including the
@@ -68,7 +68,7 @@ stem is about 4-6cm long. Its rhizomes (underground stems) are thin,
 sometimes woody.  
   
 **Sometimes confused with** [feathery
-seaweeds](../seaweed/chlorophytafi2.htm). Seaweeds are not true plants and have a different internal
+seaweeds](../seaweed/chlorophytafi2). Seaweeds are not true plants and have a different internal
 structure from all seagrasses.  
   
 **Flowers and fruits:** Fern seagrass
@@ -105,7 +105,7 @@ one-sided fold at the base of each leaf. *Chek Jawa, Sep 03*
 
 *![](spinulosa/050819cjg1506m3a.jpg)*Tiny snails grazing on algae on the leaves. *Chek Jawa, Aug 05*
 
-*![](../../bryozoa/bryozoannoid/080817chgd9745m3a.jpg)*[Bryozoans](../../bryozoa/bryozoan.htm) growing on
+*![](../../bryozoa/bryozoannoid/080817chgd9745m3a.jpg)*[Bryozoans](../../bryozoa/bryozoan) growing on
 the seagrass.  
 *Changi, Aug 08*
 
@@ -138,7 +138,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
   Proceedings of a training workshop, National Parks Board, Biodiversity
   Centre, Singapore, 24th-25th March 2007 (DPI&F, Cairns). 32pp.
 - [Identifying
-  seagrasses](http://www.seagrasswatch.org/id_seagrass.html) on the Seagrass-Watch website.
+  seagrasses](http://www.seagrasswatch.org/id_seagrassl) on the Seagrass-Watch website.
 
 **References**
 
@@ -167,14 +167,4 @@ Make your own badge [here](http://www.flickr.com/badge.gne).
 **You CAN make a difference for Singapore's
 seagrasses!**[![](../../../Templates/teamsg.jpg)](http://teamseagrass.blogspot.com/)
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "red, ribbon, worm, ribbonworm, hoplonemertea, nemertine, nemertean, nemertines,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 worms
-[text index](../wormindex.htm) | [photo
-index](../wormfi.htm)
-[worms](../worm.htm)
-> Phylum [Nemertea](nemertea.htm)
+[text index](../wormindex) | [photo
+index](../wormfi)
+[worms](../worm)
+> Phylum [Nemertea](nemertea)
 **Red
 reef ribbon worm** ***awaiting identification*\****updated Jan 2020*
 
@@ -99,7 +86,7 @@ shared by Kelvin Yong on [facebook](https://www.facebook.com/734420111/videos/a.
 *Pulau Semakau,
 Aug 13*Photo
 shared by Heng Pei Yan on [her
-blog](http://peiyansama.blogspot.sg/2013/08/snakey-and-galloping-national-day-at.html).
+blog](http://peiyansama.blogspot.sg/2013/08/snakey-and-galloping-national-day-atl).
 
 ![](redreef/181128tptgt3.jpg)  
 *Terumbu Pempang Tengah, Nov 18*Photo
@@ -115,14 +102,4 @@ shared by Juria Toramae on [facebook](https://www.facebook.com/juria.toramae/med
 *Beting Benban Besar, Oct 25*Photo
 shared by Yan Le Su on [facebook](https://www.facebook.com/permalink.php?story_fbid=122099217177062825&id=61581884764116&ref=embed_post).
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

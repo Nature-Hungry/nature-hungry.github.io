@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "flat, fish, flatfish, halibut, psettodes, erumei psettodidae, pleuronectiformes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm) >
-Order [Pleuronectiformes](../pleuronectiformes/pleuronectiformes.htm)
+> Subphylum Vertebrata > [fishes](../fish) >
+Order [Pleuronectiformes](../pleuronectiformes/pleuronectiformes)
 **Halibuts**   
 **Family Psettodidae***updated
 Oct 2020*
@@ -32,7 +32,7 @@ Oct 2020*
 
 **Where
 seen?** The Indian halibut (*Psettodes erumei*) is sometimes
-seen on some of our shores, often near seagrasses. **What are halibuts?** They are [flatfishes](../pleuronectiformes/pleuronectiformes.htm) that belong to the Family Psettodidae. According to [FishBase](http://www.fishbase.org/Summary/FamilySummary.php?ID=437):
+seen on some of our shores, often near seagrasses. **What are halibuts?** They are [flatfishes](../pleuronectiformes/pleuronectiformes) that belong to the Family Psettodidae. According to [FishBase](http://www.fishbase.org/Summary/FamilySummary.php?ID=437):
 the family has 1 genera and 3 species found in West Africa and the
 Indo-West Pacific. They are considered the most primitive of the flatfishes
 for some of their body characteristics and their habit of often swimming
@@ -50,9 +50,9 @@ teeth. Even its tongue has minute teeth! Usually brown or grey, sometimes
 it has 4-5 broad dark cross bars. The dorsal, anal and tail fin tips
 are black.  
   
-**Sometimes confused with** other [flatfishes](../pleuronectiformes/pleuronectiformes.htm).
+**Sometimes confused with** other [flatfishes](../pleuronectiformes/pleuronectiformes).
 Here's more on [how
-to tell apart the flatfish families](../pleuronectiformes/pleuronectiformes1.htm) commonly seen.
+to tell apart the flatfish families](../pleuronectiformes/pleuronectiformes1) commonly seen.
 
 ![](erumei/120327tusd7879m3.jpg)  
 Juvenile Indian halibut (about 3cm long) *Tuas, Mar 12*
@@ -110,7 +110,7 @@ erumei* (Indian halibut)
 **Links**  
 
 - [Indian
-  Halibut (*Psettodes erumei*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/383.htm) Lim, Kelvin K. P. & Jeffrey
+  Halibut (*Psettodes erumei*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/383) Lim, Kelvin K. P. & Jeffrey
   K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
@@ -120,7 +120,7 @@ erumei* (Indian halibut)
   Technical fact sheet on the family and fact sheets on individual
   species.
 - [Volume
-  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.htm) FAO Species
+  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
   Identification Guide for Fishery Purposes The Living Marine Resources
   of the Western Central Pacific.
 
@@ -134,9 +134,9 @@ erumei* (Indian halibut)
   Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
   Periplus Editions. 292 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

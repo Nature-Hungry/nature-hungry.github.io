@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "solitary, ascidian, squirt, seasquirt, polycarpa, tunicate, ascidiacea, urochordate, chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
+ 
 
 ascidians
-[text index](ascidiaceaindex.htm) | [photo
-index](ascidiaceafi.htm)
+[text index](ascidiaceaindex) | [photo
+index](ascidiaceafi)
 Phylum Chordata
-| Subphylum Tunicata/Urochordata | Class [Ascidiacea](ascidiacea.htm)
+| Subphylum Tunicata/Urochordata | Class [Ascidiacea](ascidiacea)
 **Thumbs-up
 sea squirt  
 *Polycarpa* sp.\*  
@@ -114,7 +101,7 @@ Merah, Jul 11*
 **Links**
 
 - [Sea
-  Squirt *Polycarpa*](http://mangrove.nus.edu.sg/pub/seashore/text/226.htm) Tan, Leo W. H. & Ng, Peter K.
+  Squirt *Polycarpa*](http://mangrove.nus.edu.sg/pub/seashore/text/226) Tan, Leo W. H. & Ng, Peter K.
   L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
@@ -128,9 +115,9 @@ Merah, Jul 11*
   Science, Nanyang Technological University & Department of Zoology,
   the National University of Singapore. 160 pp.
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

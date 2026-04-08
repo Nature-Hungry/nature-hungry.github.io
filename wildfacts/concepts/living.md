@@ -4,22 +4,7 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
-[index](index.html)
+[index](indexl)
 of concepts
 **Animal,
 Vegetable or Mineral?  
@@ -84,25 +69,25 @@ methods that may appear unusual to us.
 Can
 you guess whether these are animals, plants or non-living things?
 ![](../ascidiacea/polycarpa/050510tusg6134m3.jpg)  
-[answer](../ascidiacea/ascidiacea.htm)
+[answer](../ascidiacea/ascidiacea)
 ![](../ascidiacea/greengumdrop/050611kusg7791m3.jpg)  
-[answer](../ascidiacea/greengumdrop.htm)
-![](../porifera/coelocarteria/110814smkd9042m3.jpg) [answer](../porifera/coelocarteria.htm)
+[answer](../ascidiacea/greengumdrop)
+![](../porifera/coelocarteria/110814smkd9042m3.jpg) [answer](../porifera/coelocarteria)
 
 ---
 
 ![](../bryozoa/bryozoannoid/050724bbg0122m3.jpg)  
-[answer](../bryozoa/bryozoan.htm)
+[answer](../bryozoa/bryozoan)
 
 ![](../vertebrates/fish/synanceiidae/horrida/040801hntd3827m3.jpg)  
-[answer](../vertebrates/fish/synanceiidae/horrida.htm)
+[answer](../vertebrates/fish/synanceiidae/horrida)
 
 *![](../bryozoa/glass/111030skdd3345m3.jpg)*  
-[answer](../bryozoa/glass.htm)
+[answer](../bryozoa/glass)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

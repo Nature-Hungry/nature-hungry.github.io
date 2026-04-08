@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "button, colonial, anemone, zoanthid, zoanthus, zoanthidae, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 zoanthids [text
-index](../../cnidariaindex.htm#zoanthidea) | [photo index](../../anemonefi2.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Zoanthidea](zoanthid.htm)
+index](../../cnidariaindex#zoanthidea) | [photo index](../../anemonefi2)
+Phylum [Cnidaria](../../cnidaria)
+> Class [Anthozoa](../../anthozoa) > Subclass
+Zoantharia/Hexacorallia > Order [Zoanthidea](zoanthid)
 **Button
 zoanthid  
 *Zoanthus* sp.\***  
@@ -58,7 +58,7 @@ patterns of lines. There is a muscle surrounding the central mouth
 that makes the oral disk appear to be divided into two halves. Body
 generally pale blue but oral disk and tentacles in a wide range of
 colours, often the oral disk is a contrasting colour from the tentacles. Andy Dinesh
-took a [video clip of some zoanthids flourescing](zoanthus1v.htm) under black light!
+took a [video clip of some zoanthids flourescing](zoanthus1v) under black light!
 
 *![](zoanthus/040804skdd4111m3.jpg)  
 Pulau Sekudu,
@@ -75,15 +75,15 @@ Aug 04*
 The
 most commonly encountered species of button zoanthids on Singapore
 shores are currently *Zoanthus sansibaricus* and *[Zoanthus
-vietnamensis](pink.htm)*.   
+vietnamensis](pink)*.   
   
 Sometimes, the individual polyps are so tightly packed that the polyp
 takes on a polygonal shape. Such mounds of zoanthids are sometimes
 mistaken for hard coral.  
   
-**Sometimes confused** with [sponges](../../../porifera/porifera.htm), [ascidians](../../../ascidiacea/ascidiacea.htm) and other
+**Sometimes confused** with [sponges](../../../porifera/porifera), [ascidians](../../../ascidiacea/ascidiacea) and other
 blob-like animals. Here's more on [how
-to tell apart blob-like animals](../../../glossary/blobs.htm)
+to tell apart blob-like animals](../../../glossary/blobs)
 
 *![](zoanthus/060625bbd3512m3.jpg)*Long body column. *Beting Bronok, Jun 06*
 
@@ -197,9 +197,9 @@ Marine-Earth Science and Technology) for identifying the zoanthids.
   Corals: Selection, Husbandry and Natural History*
   T.F. H Publications. 464 pp
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

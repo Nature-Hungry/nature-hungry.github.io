@@ -4,29 +4,16 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "checklist, check, list, index, water, snake, reptilia, vertebrata, chordata, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 vertebrates [text
-index](../vertindex.htm) > snakes [photo index](snakeshorefi.htm)
+index](../vertindex) > snakes [photo index](snakeshorefi)
 [shore
-snakes](snakeshore.htm) in general
+snakes](snakeshore) in general
 **Snakes
 of Singapore** Don't
 know the name of the snake? Try the  [snake photo
-index](snakeshorefi.htm)  
+index](snakeshorefi)  
   
 **Intertidal
 and marine snakes**
@@ -96,7 +83,7 @@ skd
 tsm
 
 [*Acrochordus
-granulatus*](granulatus.htm)   
+granulatus*](granulatus)   
 Banded file snake
 
 chg
@@ -106,13 +93,13 @@ cj
 bb
 
 *[Aipysurus
-eydouxii](eydouxii.htm)*  
+eydouxii](eydouxii)*  
 Marbled sea snake
 
 cj
 
 *[Bungarus
-fasciatus](fasciatus.htm)*  
+fasciatus](fasciatus)*  
 Banded krait
  
  
@@ -143,7 +130,7 @@ Banded krait
  
  
 [*Cerberus
-schneiderii*](cerberus.htm)   
+schneiderii*](cerberus)   
 Dog-faced water snake   
 (Schneider's Bockadam)
 
@@ -158,7 +145,7 @@ lab
 smk
 
 *[Cryptelytrops
-purpureomaculatus](purpureomaculatus.htm)*  
+purpureomaculatus](purpureomaculatus)*  
 Shore pit viper
 
 sbw
@@ -170,13 +157,13 @@ prp
 prp
 
 [*Fordonia
-leucobalia*](fordonia.htm)  
+leucobalia*](fordonia)  
 Crab-eating water snake
 
 sbw
 
 *[Homalopsis
-buccata](buccata.htm)*  
+buccata](buccata)*  
 Puff-faced water snake
 
 snt
@@ -196,7 +183,7 @@ tsm
 *lfa*
 
 *[Laticauda
-colubrina](laticauda.htm)*   
+colubrina](laticauda)*   
 Yellow-lipped sea krait
 **Other snakes**
 
@@ -267,7 +254,7 @@ cj
 lab
 
 *[Ahaetulla
-prasina](prasina.htm)*  
+prasina](prasina)*  
 Oriental whip snake
 
 sbw
@@ -275,13 +262,13 @@ sbw
 ubn
 
 [*Chrysopelea
-paradisi*](paradisi.htm)  
+paradisi*](paradisi)  
 Paradise tree snake
 
 sbw
 
 [*Python
-reticulatus*](reticulatus.htm)  
+reticulatus*](reticulatus)  
 Reticulated python
 
 ---
@@ -327,31 +314,21 @@ bemban besar, terumbu bemban, terumbu semakau,  **rfl**: raffles lighthouse, **l
 reefs in the area)
   
 [About
-citing](../../about.htm) this checklist.
+citing](../../about) this checklist.
 
 photo
 index of   
 vertebrates on this site
 
 [all
-vertebrates](../vertindex.htm)  
+vertebrates](../vertindex)  
   
-[marine fishes](../fish/fishfi.htm)  
+[marine fishes](../fish/fishfi)  
   
 shore snakes  
   
-[other reptiles](../reptilefi.htm)  
+[other reptiles](../reptilefi)  
   
-[mammals](../mammalfi.htm)
+[mammals](../mammalfi)
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

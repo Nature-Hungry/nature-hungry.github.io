@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "flathead, flat, head, fish, platycephalidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm)
+> Subphylum Vertebrata > [fishes](../fish)
 **Flatheads**  
 **Family Platycephalidae***updated
 Oct 2020*
@@ -50,7 +50,7 @@ tail. Spending most of the time on the sea bottom, most species lack
 swim bladders.  
   
 **Sometimes mistaken** for other flattened fishes that live on the sea bottom. Here's more on [how to tell apart fishes
-with flat heads](../cfflatheads.htm).   
+with flat heads](../cfflatheads).   
   
 **Disappearing Act:** Flatheads often lie buried in sandy or muddy bottoms, sometimes with
 only their eyes sticking out. Together with their camouflaged patterns,
@@ -84,7 +84,7 @@ on Singapore shores**
 ***![](indicus/030927cjd0083m3.jpg)***
 ![](indicus/030927cjd0083m3c.jpg)
 *![](indicus/030927cjd0083m3e.jpg)*
-**[Bartail flathead](indicus.htm)**
+**[Bartail flathead](indicus)**
 No fringe or fleshy tentacles above the eyes. Instead, a large 'eyelid' that covers most of the eye, giving it a sleepy look.
 Tail colourful.
 
@@ -95,7 +95,7 @@ Tail colourful.
 *![](nematophthalmus/040730skdd3246m3a.jpg)*
 
 ![](nematophthalmus/040730skdd3246m3d.jpg)
-**[Fringe-eyed flathead](nematophthalmus.htm)**
+**[Fringe-eyed flathead](nematophthalmus)**
 An elaborate golden filigree fringe over the eyeball, and above the eyes several fleshy tentacles.
 Tail not colourful.
 
@@ -128,14 +128,14 @@ crocodilus=\*\*Cociella crocodilus
   
 \*\*Cymbacephalus bosschei=Platycephalus bosschei  
 \*\*[Cymbacephalus
-nematophthalmus](nematophthalmus.htm)=Platycephalus nematophthalmus* (Fringe-eyed flathead) *\*\*Grammoplites scaber=Platycephalus scaber  
+nematophthalmus](nematophthalmus)=Platycephalus nematophthalmus* (Fringe-eyed flathead) *\*\*Grammoplites scaber=Platycephalus scaber  
   
 \*\*Inegocia japonica=Platycephalus bataviensis=Platycephalus isacanthus  
   
 \*\*Sunagocia carbunculus=Platycephalus cantori  
 \*\*Sunagocia carbunculus=Platycephalus carbunculus  
   
-[Platycephalus indicus](indicus.htm)* (Bartail
+[Platycephalus indicus](indicus)* (Bartail
 flathead)*\*\*Rogadius serratus=Platycephalus polyon  
 \*\*Rogadius asper=Platycephalus pristiger* (Thorny flathead) *\*\*Suggrundus macracanthus=Platycephalus sundaicus  
 \*\*Sorsogona tuberculata=Platycephalus tuberculatus  
@@ -147,8 +147,8 @@ flathead)*\*\*Rogadius serratus=Platycephalus polyon
 **Links**  
 
 - [Bartail
-  Flathead (*Platycephalus indicus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/259.htm) and [Fringe-eyed
-  Flathead (*Cymbacephalus nematophthalmus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/260.htm) Lim, Kelvin
+  Flathead (*Platycephalus indicus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/259) and [Fringe-eyed
+  Flathead (*Cymbacephalus nematophthalmus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/260) Lim, Kelvin
   K. P. & Jeffrey K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
@@ -173,7 +173,7 @@ flathead)*\*\*Rogadius serratus=Platycephalus polyon
   Technical fact sheet on the family, including fact sheets on individual
   species.
 - [Volume
-  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.htm) FAO Species
+  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
   Identification Guide for Fishery Purposes The Living Marine Resources
   of the Western Central Pacific
 
@@ -202,9 +202,9 @@ references**
   Reef Fishes of the World*
   Periplus Editions. 400pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

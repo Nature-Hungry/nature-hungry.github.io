@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "heart, urchin, lovenia, elongata, loveniidae, spatangoida, echinoidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 echinoids
-[text index](../../echinodermindex.htm#echinoidea) |
-[photo index](../../echinoideafi2.htm)
-Phylum [Echinodermata](../../echinodermata.htm)
-> Class [Echinodea](../echinoidea.htm) > [heart
-urchins](hearturchin.htm)
+[text index](../../echinodermindex#echinoidea) |
+[photo index](../../echinoideafi2)
+Phylum [Echinodermata](../../echinodermata)
+> Class [Echinodea](../echinoidea) > [heart
+urchins](hearturchin)
 **Lovenia
 heart urchin  
 *Lovenia elongata\**  
@@ -53,7 +53,7 @@ Underside
 
 ![](lovenia/110517tptd1536m3b.jpg)  
 Caught by a [swimming
-crab](../../../crustacea/crab/portunidae/portunidae.htm)! *Terumbu Pempang Laut, May 11*
+crab](../../../crustacea/crab/portunidae/portunidae)! *Terumbu Pempang Laut, May 11*
 
  *\*ID needs confirmation.* 
 
@@ -82,7 +82,7 @@ Changi East, Oct 11*
 
 *![](lovenia/111028chgelks3m3a.jpg)*Photo
 shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/10/marvellous-finds-from-lost-coast.html).
+blog](http://wondercreation.blogspot.com/2011/10/marvellous-finds-from-lost-coastl).
 
 ---
 
@@ -110,7 +110,7 @@ Sentosa, Jul 12*
 
 *![](lovenia/120706sntlks3a.jpg)*Photo
 shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2012/07/heart-urchins-at-sentosa-shore.html).
+blog](http://wondercreation.blogspot.sg/2012/07/heart-urchins-at-sentosa-shorel).
 
 ---
 
@@ -119,7 +119,7 @@ blog](http://wondercreation.blogspot.sg/2012/07/heart-urchins-at-sentosa-shore.h
 
 ![](lovenia/110508cyrlks1m3.jpg)  
 Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/05/lovely-surprises-from-cyrene-reef.html).
+blog](http://wondercreation.blogspot.com/2011/05/lovely-surprises-from-cyrene-reefl).
 
 ---
 
@@ -130,7 +130,7 @@ Photo shared by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738
 ![](lovenia/120123hntlks1m3.jpg)  
 *Pulau Hantu, Jan 12*  
 Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2012/01/happy-cny-from-pulau-hantu.html).
+blog](http://wondercreation.blogspot.sg/2012/01/happy-cny-from-pulau-hantul).
 
 ![](lovenia/090209smkmn01m3.jpg)  
 *Pulau Semakau, Feb 09*  
@@ -141,7 +141,7 @@ flickr](http://www.flickr.com/photos/budak/3262343788/in/set-72157613461942881/)
 
 shared by Neo Mei
 Lin on [her
-blog](http://psychedelic-nature.blogspot.com/2011/11/videos-echinoderms-on-our-shores.html)
+blog](http://psychedelic-nature.blogspot.com/2011/11/videos-echinoderms-on-our-shoresl)
   
 
 ---
@@ -160,9 +160,9 @@ blog](http://psychedelic-nature.blogspot.com/2011/11/videos-echinoderms-on-our-s
   Guide to Sea Stars and Other Echinoderms of Singapore*.
   Singapore Science Centre. 187pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

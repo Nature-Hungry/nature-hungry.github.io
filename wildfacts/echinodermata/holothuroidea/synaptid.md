@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "synaptid, seacucumber, cucumber, synaptidae, apodida, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 sea
-cucumbers [text index](../echinodermindex.htm#holothuroidea)
-| [photo index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class [Holothuroidea](holothuroidea.htm) > Order
+cucumbers [text index](../echinodermindex#holothuroidea)
+| [photo index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
+> Class [Holothuroidea](holothuroidea) > Order
 Apodida > Family Synaptidae
 **Synaptid
 sea cucumbers  
@@ -39,13 +26,13 @@ and other encrusting animals. In the seagrass meadows, thicker very
 long ones (10-12cm, to 30cm long) are entwined among the seagrasses.
 They might even be seen crawling (slowly) on the sand.
 
-*![](synsponge/030717skdd0090m3.jpg)*Synaptids [on a sponge](synsponge.htm) usual many  
+*![](synsponge/030717skdd0090m3.jpg)*Synaptids [on a sponge](synsponge) usual many  
 seen together. *Pulau Sekudu, Jul 03*
 
-*![](synbig/080422smkd1534m3.jpg)*[Big synaptid](synbig.htm) is usually seen alone. *Pulau Semakau, Apr 08*
+*![](synbig/080422smkd1534m3.jpg)*[Big synaptid](synbig) is usually seen alone. *Pulau Semakau, Apr 08*
 
 *![](synbig/130331tbd5041m3.jpg)*  
-[Big synaptid](synbig.htm) when 'bobbles' are not expanded. *Terumbu Bemban, Mar 13*
+[Big synaptid](synbig) when 'bobbles' are not expanded. *Terumbu Bemban, Mar 13*
 
 **Features:** Synaptids have a thin
 body wall and are more delicate than other sea cucumbers. Synaptid
@@ -56,9 +43,9 @@ walls and are fragile, so we should not handle them.
   
 Among the longest sea cucumbers is a synaptid, *Synapta maculata,* which can reach up to 3m long!  
   
-**Sometimes mistaken for** [worms](../../worm/worm.htm).
+**Sometimes mistaken for** [worms](../../worm/worm).
 Here's more on [how to tell apart
-worm-like animals](../../glossary/wormy.htm).
+worm-like animals](../../glossary/wormy).
 
 ![](synbig/120819cyrd0606m3.jpg)  
 Feeding tentacles. *Cyrene Reef, Aug 12*
@@ -75,7 +62,7 @@ Body covered with tiny hooked sclerites.
 ---
 
 *![](synsponge/050722cjg9849m3.jpg)*  
-[**Sponge synaptid sea cucumber**](synsponge.htm)
+[**Sponge synaptid sea cucumber**](synsponge)
 
 *![](synsponge/050822cjg2143m3.jpg)*  
 Usually many seen on a sponge.
@@ -86,7 +73,7 @@ Feeding tentacles
 ---
 
 ![](synbig/071026cyrd7139m3.jpg)  
-[**Big synaptid sea cucumber**](synbig.htm)
+[**Big synaptid sea cucumber**](synbig)
 
 *![](synbig/071026cyrd7141m3b.jpg)*  
 Usually seen alone.  
@@ -101,7 +88,7 @@ Feeding tentacles
 
 ![](synmangrove/200125prpAm3.jpg)
 
-[**Mangrove synaptid sea cucumber**](synmangrove.htm)
+[**Mangrove synaptid sea cucumber**](synmangrove)
 Usually seen alone. No 'bobbles.
 Feeding tentacles
 
@@ -118,9 +105,9 @@ are difficult to positively identify without close examination.
 On this website, they are grouped by external features for convenience
 of display.* 
  
-[Big synaptid sea cucumber](synbig.htm)   
-[Mangrove synaptid sea cucumber](synmangrove.htm)  
-[Sponge synaptid sea cucumber](synsponge.htm)
+[Big synaptid sea cucumber](synbig)   
+[Mangrove synaptid sea cucumber](synmangrove)  
+[Sponge synaptid sea cucumber](synsponge)
   
  
 **Family
@@ -164,14 +151,4 @@ Synaptula* sp. 1
   Guide to Sea Stars and Other Echinoderms of Singapore*.
   Singapore Science Centre. 187pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

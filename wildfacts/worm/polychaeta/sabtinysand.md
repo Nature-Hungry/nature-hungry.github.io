@@ -4,28 +4,15 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "fan, worm, fanworm, sabellid, sabellidae, polychaete, annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 worms
-[text index](../wormindex.htm) | [photo
-index](../wormfi.htm)
+[text index](../wormindex) | [photo
+index](../wormfi)
 
-[worms](../worm.htm) > Phylum Annelida >
-Class [Polychaeta](polychaeta.htm)
-> Order Sabellida > Family [Sabellidae](sabellidae.htm)
+[worms](../worm) > Phylum Annelida >
+Class [Polychaeta](polychaeta)
+> Order Sabellida > Family [Sabellidae](sabellidae)
 
 **Tiny
 sand fanworm** ***awaiting
@@ -94,7 +81,7 @@ shared by Jianlin Liu on [facebook](https://www.facebook.com/photo.php?fbid=1015
 *Pulau
 Tekukor, May 10*Photo
 shared by Neo Mei Lin on [her
-blog](http://psychedelic-nature.blogspot.com/2010/05/land-of-all-zoanthids-includes-some.html).
+blog](http://psychedelic-nature.blogspot.com/2010/05/land-of-all-zoanthids-includes-somel).
 
 ![](sabellidae/tinysand/101224sisro1m3.jpg)  
 *Sisters
@@ -114,16 +101,6 @@ shared by Rene Ong on [facebook](http://www.facebook.com/album.php?aid=21375&id=
 
 ![](sabellidae/tinysand/110814smkjk1m3.jpg)  
 *Pulau Semakau, Aug 11*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2011/08/110814-semakau.html).
+blog](http://sgn090608.blogspot.com/2011/08/110814-semakaul).
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

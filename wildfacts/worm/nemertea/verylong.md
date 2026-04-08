@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "ribbon, worm, ribbonworm, baseodiscus, delineatus, nemertine, nemertean, nemertines,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 worms
-[text index](../wormindex.htm) | [photo
-index](../wormfi.htm)
-[worms](../worm.htm)
-> Phylum [Nemertea](nemertea.htm)
+[text index](../wormindex) | [photo
+index](../wormfi)
+[worms](../worm)
+> Phylum [Nemertea](nemertea)
 **Very
 long ribbon worm*****Baseodiscus delineatus\******Family
 Valenciniidae***updated
@@ -100,7 +87,7 @@ shared by Jianlin Liu on [facebook](https://www.facebook.com/photo.php?fbid=1015
 *![](verylong/090509sislks1m3.jpg)  
 Sisters Island, May 09*Photo
 shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/05/back-to-big-sisters.html).
+blog](http://wondercreation.blogspot.com/2009/05/back-to-big-sistersl).
 
 *![](verylong/250201bsisrk1.jpg)*  
 *Big Sisters Island, Feb 25*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/media/set/?set=a.10162086236287906&type=3&ref=embed_post).
@@ -113,7 +100,7 @@ blog](http://wondercreation.blogspot.com/2009/05/back-to-big-sisters.html).
 *![](verylong/101224sisjk12m6l.jpg)  
 Sisters Island, Dec 10*Photo
 shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/12/101224-big-sisters-island.html).
+blog](http://sgn090608.blogspot.com/2010/12/101224-big-sisters-islandl).
 
 *![](verylong/150220lsistch1m3.jpg)  
 Little Sisters Island, Feb 15*Photo
@@ -127,7 +114,7 @@ shared by Toh Chay Hoon on [facebook](https://www.facebook.com/media/set/?set=a.
 *![](verylong/100725hnttch1m6l.jpg)  
 Pulau Hantu, Jul 10*Photo
 shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2010/07/careful-where-you-put-your-next-step.html).
+blog](http://colorclouds.blogspot.com/2010/07/careful-where-you-put-your-next-stepl).
 
 ---
 
@@ -155,7 +142,7 @@ Photo shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=
 *![](verylong/091106smkjk1m3.jpg)  
 Pulau Semakau, Nov 09*Photo
 shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/11/091106-semakau.html).
+blog](http://sgn090608.blogspot.com/2009/11/091106-semakaul).
 
 *![](verylong/201018smkslks3.jpg)  
 Pulau Semakau South, Oct 20*Photo
@@ -232,7 +219,7 @@ of this worm.
 **Links**
 
 - [*Baseodiscus
-  quinquelineatus*](http://www.sealifebase.org/summary/Baseodiscus-quinquelineatus.html) on SeaLife Base: Technical fact sheet.
+  quinquelineatus*](http://www.sealifebase.org/summary/Baseodiscus-quinquelineatusl) on SeaLife Base: Technical fact sheet.
 
 **References**
 
@@ -248,14 +235,4 @@ of this worm.
   H and Helmut Debelius. 2009. *World
   Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

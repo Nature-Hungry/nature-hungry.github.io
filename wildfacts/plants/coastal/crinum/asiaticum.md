@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "spider, lily, crinum, asiaticum, amaryllidaceae, creeper, plant, bush, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
+[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
-plants [text index](../../plantindex.htm) | [photo
-index](../../plantfi.htm)
+plants [text index](../../plantindex) | [photo
+index](../../plantfi)
 
 [coastal
-plants](../coastalplants.htm)
+plants](../coastalplants)
 ****Bakung** **or** **Seashore
 spider lily  
 *Crinum asiaticum***  
@@ -97,7 +97,7 @@ Wetland Reserve, Feb 09*
 - Giesen, Wim
   and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
   [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.htm) (PDF online downloadable).
+  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
   RAP publication 2006/07 Food and Agriculture Organization of the
   United Nations Regional Office for Asia and the Pacific Bangkok.
 
@@ -105,7 +105,7 @@ Wetland Reserve, Feb 09*
 
 - Hsuan Keng,
   S.C. Chin and H. T. W. Tan.1998, *[The
-  Concise Flora of Singapore II: Monoctyledons](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FConcise-Flora-Singapore-Monocotyledons%2Fdp%2F9971692074%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580156%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*
+  Concise Flora of Singapore II: Monoctyledons](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FConcise-Flora-Singapore-Monocotyledons%2Fdp%2F9971692074%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580156%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*
   Singapore University Press. 215 pp.
 - Wee Yeow
   Chin. 1992. *[A
@@ -113,7 +113,7 @@ Wetland Reserve, Feb 09*
   160pp.
 - Burkill,
   I. H., 1993. *[A
-  Dictionary of the Economic Products of the Malay Peninsula](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fdictionary-economic-products-Malay-Peninsula%2Fdp%2FB0006EUWTE%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175505620%26sr%3D1-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
+  Dictionary of the Economic Products of the Malay Peninsula](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fdictionary-economic-products-Malay-Peninsula%2Fdp%2FB0006EUWTE%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175505620%26sr%3D1-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
   3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
   Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 - Davison,
@@ -131,9 +131,9 @@ in Singapore**
 [Nature's Niche](http://www.naturesniche.com/)   
 books, gifts, optics
 
-[links](../../../links.htm) |
-[references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links) |
+[references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,30 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "cucumber, holothuroidea, echinodermata, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[![talking points for nature guides](../../Templates/fornatureguides.gif)](../forguides/index.html)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 echinoderms
-[text index](echinodermindex.htm) | [photo
-index](echinodermatafi.htm)
+[text index](echinodermindex) | [photo
+index](echinodermatafi)
 Phylum
-[Echinodermata](echinodermata.htm) > Class [Holothuroidea](holothuroidea/holothuroidea.htm)
+[Echinodermata](echinodermata) > Class [Holothuroidea](holothuroidea/holothuroidea)
 [index
-to talking points](../forguides/index.html) for nature guides
+to talking points](../forguides/indexl) for nature guides
 **For
 nature guides: introducing sea cucumbers**  
 *updated
@@ -36,7 +19,7 @@ Apr 2020*
 ---
 
 **Don't
-step on the sea cucumbers!**Buried [Ball sea cucumbers](holothuroidea/phyllophorus.htm) are a good subject to sensitise visitors to the fact that every
+step on the sea cucumbers!**Buried [Ball sea cucumbers](holothuroidea/phyllophorus) are a good subject to sensitise visitors to the fact that every
 inch of the shore is alive. Dig one up in front of them and this
 usually amazes them. This illustrates that just because we can't
 see the animals, doesn't mean there are none.
@@ -67,7 +50,7 @@ are sea cucumbers?**
 
 - ***They
   are not vegetables!*** Despite their common names, they are
-  not vegetables. [Sea cucumbers](holothuroidea/holothuroidea.htm) are animals!
+  not vegetables. [Sea cucumbers](holothuroidea/holothuroidea) are animals!
 - ***How
   does the sea cucumber protect itself?*** The sea cucumber
   is a soft animal without teeth or spines. How is it that no one
@@ -132,9 +115,9 @@ slowly and some need to be in specific locations. If you dig
 one up, put it back the RIGHT WAY (with the mouth and anus facing
 the sand surface).
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

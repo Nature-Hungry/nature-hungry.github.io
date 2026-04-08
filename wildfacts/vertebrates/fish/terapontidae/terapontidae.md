@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "grunter, perch, fish, teraponidae, theraponidae, therapontidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm)
+> Subphylum Vertebrata > [fishes](../fish)
 **Perch****Family Terapontidae
 (Therapontidae)**  
 *updated
@@ -55,9 +55,9 @@ dried and salted. Some larger species of perch are also highly valued
 in sport fishing.
 
 **![](jarbua/110730tmftd7695m3.jpg)  
-[Cresent perch](jarbua.htm) *![](quadrilineatus/030518cjd0267m3.jpg)*Juvenile [Trumpeter perch](quadrilineatus.htm)  
+[Cresent perch](jarbua) *![](quadrilineatus/030518cjd0267m3.jpg)*Juvenile [Trumpeter perch](quadrilineatus)  
   
-*![](theraps/110831tmnbd0741m3.jpg)*Juvenile [Banded perch](theraps.htm)**
+*![](theraps/110831tmnbd0741m3.jpg)*Juvenile [Banded perch](theraps)**
 
 ---
 
@@ -73,18 +73,18 @@ Terapontidae (Therapontidae)**
 *Helotes
 sexlineatus  
   
-[Pelates quadrilineatus](quadrilineatus.htm)* (Trumpeter
-perch) *[Terapon jarbua](jarbua.htm)* (Crescent perch) *Terapon puta  
-[Terapon theraps](theraps.htm)* (Banded perch)
+[Pelates quadrilineatus](quadrilineatus)* (Trumpeter
+perch) *[Terapon jarbua](jarbua)* (Crescent perch) *Terapon puta  
+[Terapon theraps](theraps)* (Banded perch)
 
 ---
 
 **Links**  
 
 - [Crescent
-  perch (*Terapon jarbua*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/272.htm), [Banded
-  Perch (*Terapon theraps*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/273.htm) and [Trumpeter
-  Perch (*Pelates quadrilineatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/271.htm) Lim, Kelvin K. P. &
+  perch (*Terapon jarbua*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/272), [Banded
+  Perch (*Terapon theraps*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/273) and [Trumpeter
+  Perch (*Pelates quadrilineatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/271) Lim, Kelvin K. P. &
   Jeffrey K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
@@ -97,7 +97,7 @@ perch) *[Terapon jarbua](jarbua.htm)* (Crescent perch) *Terapon puta
   theraps* (Largescaled terapon)](http://www.fishbase.org/summary/4829) from [FishBase](http://www.fishbase.org/):
   Technical fact sheet.
 - [Cresent
-  perch (*Terapon jarbua*)](http://www.amonline.net.au/fishes/fishfacts/fish/tjarbua.htm) on
+  perch (*Terapon jarbua*)](http://www.amonline.net.au/fishes/fishfacts/fish/tjarbua) on
   the [Australian
   Museum Fish Site](http://www.amonline.net.au/fishes/fishfacts/) on the Australian Museum Online website:
   factsheets with photos and descriptions
@@ -133,9 +133,9 @@ FREE photos of
 fishes](http://www.flickr.com/photos/54527470@N00/sets/72157594585628842).  
 Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "sand, star, seastar, sea star, starfish, fish, luidia, luidiidae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 sea
-stars [text index](../echinodermindex.htm) | [photo
-index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class Stelleroida > Subclass [Asteroidea](asteroidea.htm)
+stars [text index](../echinodermindex) | [photo
+index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
+> Class Stelleroida > Subclass [Asteroidea](asteroidea)
 **Luidia
 sea stars  
 *Luidia* sp.  
@@ -64,7 +51,7 @@ sea stars on Singapore shores**
 ---
 
 ![](lhardwicki/080801chgd8657m3.jpg)  
-[**Five-armed Luidia sea star**](lhardwicki.htm)  
+[**Five-armed Luidia sea star**](lhardwicki)  
 5-8cm in diameter  
 Usually 5 arms.
 
@@ -77,7 +64,7 @@ Flat-topped, pillar-like structures called paxillae.
 ---
 
 ![](lpenangensis/090110cjd4791m3.jpg)  
-[**Six-armed Luidia sea star**](lpenangensis.htm)  
+[**Six-armed Luidia sea star**](lpenangensis)  
 8-10cm in diameter  
 5-6 arms, usually 6.
 
@@ -90,7 +77,7 @@ Flat-topped, pillar-like structures called paxillae.
 ---
 
 ![](luimaculata/080801chgd8668m3.jpg)  
-[**Eight-armed Luidia sea star**](luimaculata.htm)  
+[**Eight-armed Luidia sea star**](luimaculata)  
 12-20cm in diameter  
 6-9 arms, usually 8.
 
@@ -117,16 +104,16 @@ Red Data Book: Threatened Plants and Animals of Singapore*\*\*from [WORMS](http:
 **Family
 Luidiidae**
  
-*\*[Luidia hardwicki](lhardwicki.htm)* (Five-armed Luidia sea star) *\*Luidia longispina*   
-[*Luidia maculata*](luimaculata.htm) (Eight-armed Luidia sea star) (VU: Vulnerable)  
-*[Luidia penangensis](lpenangensis.htm)* (Six-armed Luidia sea star) (VU: Vulnerable)  
+*\*[Luidia hardwicki](lhardwicki)* (Five-armed Luidia sea star) *\*Luidia longispina*   
+[*Luidia maculata*](luimaculata) (Eight-armed Luidia sea star) (VU: Vulnerable)  
+*[Luidia penangensis](lpenangensis)* (Six-armed Luidia sea star) (VU: Vulnerable)  
 *Luidia prionota*
 
 ---
 
 **Links**
 
-- [Learning about *Luidia*! 5 Things about The OTHER Sand Star!](http://echinoblog.blogspot.sg/2014/04/learning-about-luidia-5-things-about.html) by Dr Christopher Mah on Echinoblog.
+- [Learning about *Luidia*! 5 Things about The OTHER Sand Star!](http://echinoblog.blogspot.sg/2014/04/learning-about-luidia-5-things-aboutl) by Dr Christopher Mah on Echinoblog.
 
 **References**
 
@@ -140,14 +127,4 @@ Luidiidae**
   table and illustrated identification to the species](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/Raffles%20Bulletin%20of%20Zoology/Past%20Volumes/RBZ%2046(2)/46rbz431-470.pdf). The Raffles
   Bulletin of Zoology 1998 46(2): 431-470.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

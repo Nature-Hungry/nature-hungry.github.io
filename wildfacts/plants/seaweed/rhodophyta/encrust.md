@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "encrusting, coralline, red, seaweed, weed, algae, mesophyllum, hydrolithon, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 red
-seaweeds [text index](../seaweedindex.htm#rhodophyta)
-| [photo index](../seaweedfi.htm)
+seaweeds [text index](../seaweedindex#rhodophyta)
+| [photo index](../seaweedfi)
 
-[Seaweeds](../seaweed.htm)
-> Division [Rhodophyta](rhodophyta.htm)
+[Seaweeds](../seaweed)
+> Division [Rhodophyta](rhodophyta)
 **Encrusting
 coralline red seaweed****Family
 Corallinaceae***updated
@@ -73,7 +73,7 @@ Encrusting a rock.
 Sisters Island, Jan 10*
 
 *![](../../../mollusca/bivalvia/malleidae/malleus/090207smkd6360m3.jpg)*Encrusting a [Hammer
-oyster](../../../mollusca/bivalvia/malleidae/malleus.htm).  
+oyster](../../../mollusca/bivalvia/malleidae/malleus).  
 *Pulau Semakau. Feb 09*
 
 ![](../../seagrass/thalassia/041019labd7736m3b.jpg)  
@@ -151,7 +151,7 @@ erubescens*
 **Links**
 
 - [Red
-  Encrusting Algae](http://mangrove.nus.edu.sg/pub/seashore/text/106.htm) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+  Encrusting Algae](http://mangrove.nus.edu.sg/pub/seashore/text/106) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [*Mesophyllum*](http://www.algaebase.org/search/genus/detail/?genus_id=98)
@@ -164,7 +164,7 @@ erubescens*
   to the habitat, reproduction, taxonomy with links to other sites
   on coralline algae.
 - [Coralline
-  Algae of Pulley Ridge](http://coastal.er.usgs.gov/pulley-ridge/coralline-algae.html) on the US Geological Survey website:
+  Algae of Pulley Ridge](http://coastal.er.usgs.gov/pulley-ridge/coralline-algael) on the US Geological Survey website:
   photos of some coralline algae
 
 **References**
@@ -196,9 +196,9 @@ erubescens*
   Guide and Atlas of the Seaweed Resources of the Philippines.*.
   Bookmark, Inc., the Philippines. 306 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

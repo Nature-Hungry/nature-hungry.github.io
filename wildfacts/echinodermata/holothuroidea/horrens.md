@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "selenka, stichopus, horrens, stichopodidae, cucumber, seacucumber,  holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 sea
-cucumbers [text index](../echinodermindex.htm#holothuroidea)
-| [photo index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class [Holothuroidea](holothuroidea.htm)
+cucumbers [text index](../echinodermindex#holothuroidea)
+| [photo index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
+> Class [Holothuroidea](holothuroidea)
 **Durian
 sea cucumber  
 *Stichopus horrens\**Family
@@ -96,7 +83,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 *![](horrens/100617tbtch9m3.jpg)  
 Terumbu Bemban, Jun 10*Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2010/06/patch-reef-hopping.html).
+blog](http://colorclouds.blogspot.com/2010/06/patch-reef-hoppingl).
 
 *![](horrens/230902smkntl1.jpg)  
 Pulau Semakau North, Sep 23*Photo shared by Tammy Lim on [facebook](https://www.facebook.com/photo/?fbid=10160810229484264&set=a.10160810211744264).
@@ -128,20 +115,10 @@ Pulau Semakau, Jul 15*Photo shared by Loh Kok Sheng on [flickr](https://www.flic
 - [*Stichopus
   horrens*](http://species-identification.org/species.php?species_group=nasc&id=79&menuentry=soorten) in North Australian Sea Cucumber on Marine Species
   Identification Portal: Technical fact sheet.
-- *Stichopus horrens* on [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00.htm), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
+- *Stichopus horrens* on [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
 - [Malaysia
-  lists 'gamat' sea cucumbers as endangered](http://wildshores.blogspot.com/2009/03/malaysia-lists-gamat-sea-cucumbers-as.html) on the wild shores
+  lists 'gamat' sea cucumbers as endangered](http://wildshores.blogspot.com/2009/03/malaysia-lists-gamat-sea-cucumbers-asl) on the wild shores
   of singapore blog with an article about the trade in gamat on
   Pulau Langkawi.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

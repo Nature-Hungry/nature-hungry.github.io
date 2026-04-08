@@ -4,26 +4,11 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 plants
-[text index](plantindex.htm) | [photo
-index](plantfi.htm)
+[text index](plantindex) | [photo
+index](plantfi)
 
-[mangroves](mangrove/mangroves.htm)
+[mangroves](mangrove/mangroves)
 **Photo
 index of mangrove and seashore plants on Singapore shores**  
 **climbers
@@ -36,7 +21,7 @@ the shore
   
 ![](mangrove/hoya/diversifolia/090613admd4123ma.jpg)
 
-[Wax plant](mangrove/hoya/hoya.htm)  
+[Wax plant](mangrove/hoya/hoya)  
 *Hoya diversifolia*
 
 ![](mangrove/hoya/verticillata/020210cjcpd6487m.jpg)  
@@ -44,7 +29,7 @@ the shore
 ![](mangrove/hoya/verticillata/090613admd4169ma.jpg)  
   
 ![](mangrove/hoya/verticillata/030517cjad0042m.jpg)  
-[Wax plant](mangrove/hoya/hoya.htm)   
+[Wax plant](mangrove/hoya/hoya)   
 *Hoya verticillata*
 
 ![](mangrove/derris/trifoliata/090321krjo3211493m.jpg)  
@@ -52,7 +37,7 @@ the shore
 ![](mangrove/derris/trifoliata/011209sbwr2230m.jpg)  
   
 ![](mangrove/derris/trifoliata/031217sbwrd0082m.jpg)  
-[Common derris](mangrove/derris/trifoliata.htm)  
+[Common derris](mangrove/derris/trifoliata)  
 *Derris trifoliata*
 
 ![](mangrove/finlaysonia/obovata/090322krjd8354m.jpg)  
@@ -61,7 +46,7 @@ the shore
   
 ![](mangrove/finlaysonia/obovata/090322krjd8364m.jpg)  
 [Kalak
-kambing](mangrove/finlaysonia/obovata.htm)  
+kambing](mangrove/finlaysonia/obovata)  
 *Finlaysonia obovata*
 
 ![](mangrove/dischidia/dischidia/090124ubnd5984m.jpg)  
@@ -69,7 +54,7 @@ kambing](mangrove/finlaysonia/obovata.htm)
 ![](mangrove/dischidia/dischidia/090124ubnd5984mb.jpg)  
   
 ![](mangrove/dischidia/dischidia/090328sbwrd8477ma.jpg)  
-[Mangrove ant-house plant](mangrove/dischidia/dischidia.htm)  
+[Mangrove ant-house plant](mangrove/dischidia/dischidia)  
 *Dischidia major*
 
 Stems
@@ -96,7 +81,7 @@ seen on trees in mangroves and near shores.
   
 ![](coastal/cassytha/filiformis/081206smkd2679ma.jpg)  
   
-![](coastal/cassytha/filiformis/090405smkd8982m.jpg) [Rambut putri](coastal/cassytha/filiformis.htm)  
+![](coastal/cassytha/filiformis/090405smkd8982m.jpg) [Rambut putri](coastal/cassytha/filiformis)  
 *Cassythia filiformis*
 
 ![](coastal/morinda/umbellata/090513labd1669m.jpg)  
@@ -104,21 +89,21 @@ seen on trees in mangroves and near shores.
 ![](coastal/morinda/umbellata/090517ubnd2003ma.jpg)  
   
 ![](coastal/morinda/umbellata/090513labd1670m.jpg)  
- [Mengkudu akar](coastal/morinda/umbellata.htm)*Morinda umbellata*
+ [Mengkudu akar](coastal/morinda/umbellata)*Morinda umbellata*
 
 ![](coastal/flagellaria/indica/090111smkd4873ma.jpg)  
   
 ![](coastal/flagellaria/indica/090328sbwrd8594ma.jpg)  
   
 ![](coastal/flagellaria/indica/090328sbwrd8603m.jpg)  
- [Rotan tikus](coastal/flagellaria/indica.htm)*Flagellaria indica*
+ [Rotan tikus](coastal/flagellaria/indica)*Flagellaria indica*
 
 ![](coastal/colubrina/asiatica/090412hntd9854m.jpg)  
   
 ![](coastal/colubrina/asiatica/090412hntd9847m.jpg)  
   
 ![](coastal/colubrina/asiatica/090412hntd9857m.jpg)  
- [Peria laut](coastal/colubrina/asiatica.htm)*Colubrina asiatica*
+ [Peria laut](coastal/colubrina/asiatica)*Colubrina asiatica*
 
 Stems
 thread-like long (3-8m) grows in a tangle on host plants. No visible
@@ -151,27 +136,27 @@ are small capsules (1cm). Sometimes seen on our shores.
   
   
   
- [Maiden's jealousy](coastal/tristellateia/australasiae.htm)*Tristellateia australasiae*
+ [Maiden's jealousy](coastal/tristellateia/australasiae)*Tristellateia australasiae*
 
 ![](coastal/caesalpinia/crista/110301sbwrd6503ma.jpg)  
   
 ![](coastal/caesalpinia/crista/110301sbwrd6501m.jpg)  
   
-![](coastal/caesalpinia/crista/110207krjd6053ma.jpg) [Kuku tupai](coastal/caesalpinia/crista.htm)*Caesalpinia crista*
+![](coastal/caesalpinia/crista/110207krjd6053ma.jpg) [Kuku tupai](coastal/caesalpinia/crista)*Caesalpinia crista*
 
 ![](coastal/caesalpinia/bonduc/081206smkd2637m.jpg)  
   
 ![](coastal/caesalpinia/bonduc/111022smkd2561m.jpg)
   
   
-![](coastal/caesalpinia/bonduc/081206smkd2638m.jpg) [Bonduc](coastal/caesalpinia/bonduc.htm)*Caesalpinia bonduc*
+![](coastal/caesalpinia/bonduc/081206smkd2638m.jpg) [Bonduc](coastal/caesalpinia/bonduc)*Caesalpinia bonduc*
 
 ![](coastal/nepenthes/rafflesiana/100102tkkd7265m.jpg)  
   
 ![](coastal/nepenthes/rafflesiana/101223sntd3926m.jpg)  
   
 ![](coastal/nepenthes/rafflesiana/070408sntg8586me.jpg)  
-[Raffles pitcher plant](coastal/nepenthes/rafflesiana.htm)  
+[Raffles pitcher plant](coastal/nepenthes/rafflesiana)  
 *Nepenthes rafflesiana*
 
 Liana
@@ -201,47 +186,47 @@ index of
 plants on this site
 
 [all
-plants](plantfi.htm)  
+plants](plantfi)  
   
 **mangrove
 & seashore plants**   
-[creepers](shorefi1.htm)  
+[creepers](shorefi1)  
 climbers, vines  
-[herbs](shorefi3.htm)  
-[ferns](shorefi7.htm)  
-[palms, pandans](shorefi4.htm)  
+[herbs](shorefi3)  
+[ferns](shorefi7)  
+[palms, pandans](shorefi4)  
   
 **mangrove
 &** **seashore
   
 shrubs<2m**  
-[thick/leathery leaves](shorefi5a.htm)  
-[thin leaves](shorefi5b.htm)  
+[thick/leathery leaves](shorefi5a)  
+[thin leaves](shorefi5b)  
   
 **seashore
   
 trees>2m**   
 type of leaves  
-[small simple](shorefi6b.htm)  
-[large simple](shorefi6c.htm)  
-[compound, others](shorefi6d.htm)   
+[small simple](shorefi6b)  
+[large simple](shorefi6c)  
+[compound, others](shorefi6d)   
   
 **mangrove
 trees**  
-small oval fruits and [pneumatophores](mangfi6a.htm)  
+small oval fruits and [pneumatophores](mangfi6a)  
   
 long cylindrical fruits  
-with [knee roots](mangfi6b.htm)  
-with [buttressed roots](mangfi6c.htm)  
-with [stilt roots](mangfi6d.htm)  
+with [knee roots](mangfi6b)  
+with [buttressed roots](mangfi6c)  
+with [stilt roots](mangfi6d)  
   
-[large round fruits](mangfi6f.htm)  
+[large round fruits](mangfi6f)  
   
-[others](mangfi7a.htm)
+[others](mangfi7a)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

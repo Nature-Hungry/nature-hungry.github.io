@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "cucumber, sea, cucumber,  cucumarid, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 sea
-cucumbers [text index](../echinodermindex.htm#holothuroidea)
-| [photo index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class [Holothuroidea](holothuroidea.htm)
+cucumbers [text index](../echinodermindex#holothuroidea)
+| [photo index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
+> Class [Holothuroidea](holothuroidea)
 **Tiny
 red sea cucumber  
 *awating identification\**Family Cucumariidae***updated Apr 2020*
@@ -81,7 +68,7 @@ Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng
 ![](tinyred/081214ecmlks02m3.JPG)  
 *East Coast, Dec 08*  
 Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2008/12/wow-shore-exploration.html).
+blog](http://wondercreation.blogspot.com/2008/12/wow-shore-explorationl).
 ![](tinyred/190706skdlks2.jpg)  
 *Pulau Sekudu, Jul 19*  
 Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10157329284813158&type=3).
@@ -95,14 +82,4 @@ Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng
   Guide to Sea Stars and Other Echinoderms of Singapore*.
   Singapore Science Centre. 187pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

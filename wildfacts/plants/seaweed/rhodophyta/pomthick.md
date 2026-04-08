@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "pom, pom, red, seaweed, weed, algae, corallinaceae, galaxauraceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 red
-seaweeds [text index](../seaweedindex.htm#rhodophyta)
-| [photo index](../seaweedfi.htm)
-[Seaweeds](../seaweed.htm)
-> Division [Rhodophyta](rhodophyta.htm) > [Crunchy
-pom-pom red seaweeds](pompom.htm)
+seaweeds [text index](../seaweedindex#rhodophyta)
+| [photo index](../seaweedfi)
+[Seaweeds](../seaweed)
+> Division [Rhodophyta](rhodophyta) > [Crunchy
+pom-pom red seaweeds](pompom)
 **Thick
 crunchy pom-pom red seaweed****Family Galaxauraceae   
 *updated
@@ -47,7 +47,7 @@ pink, dark pink to maroon.
 *Tricleocarpa cylindrica* has rings around the 'stems'.  
   
 **May be confused with** other [pinkish seaweeds with a pom
-pom shape.](pompom.htm)  
+pom shape.](pompom)  
   
 
 *![](pomthick/071026cyrd7131m3.jpg)  
@@ -151,9 +151,9 @@ Tricleocarpa fragilis=Galaxaura oblongata*
   
   
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

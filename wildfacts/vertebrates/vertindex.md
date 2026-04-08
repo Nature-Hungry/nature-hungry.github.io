@@ -4,36 +4,21 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "mangrove, mangroves, checklist, check, list,  index, seagrass, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 vertebrates
-[text index](vertindex.htm) | [photo
-index](vertfi.htm)
+[text index](vertindex) | [photo
+index](vertfi)
  
 **Text
 index of vertebrates on Singapore shores**  
 **currently mainly mangroves, shores, coastal forests** with
 some also found in other wild places.Don't
 know the name of the vertebrate? Try the [vertebrate
-photo index](vertfi.htm).
+photo index](vertfi).
 
 ---
 
-index to [fishes](fish/fishindex.htm) | [mammals](#mammals) | [birds](#birds) | [shore
-snakes](snakes/snakeindex.htm) | [other reptiles](#otherreptiles) | [amphibians](#amphibians)
+index to [fishes](fish/fishindex) | [mammals](#mammals) | [birds](#birds) | [shore
+snakes](snakes/snakeindex) | [other reptiles](#otherreptiles) | [amphibians](#amphibians)
 
 ---
 
@@ -42,7 +27,7 @@ snakes](snakes/snakeindex.htm) | [other reptiles](#otherreptiles) | [amphibians]
 **Family
 Cercopithecidae**
  
-*[Macaca fascicularis](mammals/fascicularis.htm)*
+*[Macaca fascicularis](mammals/fascicularis)*
 (Long-tailed
 macaque)
   
@@ -51,7 +36,7 @@ macaque)
 Dugongidae**
  
 [*Dugong
-dugon*](mammals/dugong.htm) (Dugong) (CR: Critically
+dugon*](mammals/dugong) (Dugong) (CR: Critically
 Endangered)
   
  
@@ -59,7 +44,7 @@ Endangered)
 Delphinidae**
  
 [*Sousa
-chinensis*](mammals/sousa.htm) (Indo-Pacific hump-backed dolphin)
+chinensis*](mammals/sousa) (Indo-Pacific hump-backed dolphin)
 (EN: Endangered)
   
  
@@ -67,39 +52,39 @@ chinensis*](mammals/sousa.htm) (Indo-Pacific hump-backed dolphin)
 Emballonuridae**
  
 [*Saccolaimus
-saccolaimus*](mammals/saccolaimus.htm) (Pouched tomb bat)
+saccolaimus*](mammals/saccolaimus) (Pouched tomb bat)
   
  
 **Family Mustelidae**
  
 [*Lutrogale
-perspicillata*](mammals/perspicillata.htm) (Smooth otter) (CR:
+perspicillata*](mammals/perspicillata) (Smooth otter) (CR:
 Critically Endangered)
   
  
 **Family
 Pteropodidae**
  
-*[Cynopterus brachyotis](mammals/brachyotis.htm)*
+*[Cynopterus brachyotis](mammals/brachyotis)*
 (Lesser dog-faced fruit bat)
   
  
 **Family Sciuridae**
  
 [*Callosciurus
-notatus*](mammals/notatus.htm) (Plantain squirrel)
+notatus*](mammals/notatus) (Plantain squirrel)
   
  
 **Family Suidae**
  
 [*Sus
-scrofa*](mammals/scrofa.htm) (Wild boar)
+scrofa*](mammals/scrofa) (Wild boar)
   
  
 **Family Viverridae**
  
 [*Paradoxurus
-hermaphroditus*](mammals/hermaphroditus.htm) (Toddycat or Common palm civet)
+hermaphroditus*](mammals/hermaphroditus) (Toddycat or Common palm civet)
 
 ---
 
@@ -109,14 +94,14 @@ reptiles**
  
 **Family Agamidae**
  
-*[Bronchodela cristatella](reptilia/cristatella.htm)*
+*[Bronchodela cristatella](reptilia/cristatella)*
 (Green crested lizard)  
-[*Calotes versicolor*](reptilia/versicolor.htm)
+[*Calotes versicolor*](reptilia/versicolor)
 (Changeable lizard)
   
  
 **Family
-Cheloniidae ([sea turtles](reptilia/seaturtle.htm))**
+Cheloniidae ([sea turtles](reptilia/seaturtle))**
  
 *Chelonia
 mydas* (Green
@@ -128,20 +113,20 @@ turtle) (CR: Critically Endangered)
 **Family Crocodylidae**
  
 [*Crocodylus
-porosus*](reptilia/porosus.htm) (Estuarine crocodile) (CR:
+porosus*](reptilia/porosus) (Estuarine crocodile) (CR:
 Critically Endangered)
   
  
 **Family Scincidae**
  
 [*Eutropis
-multifasciata*](reptilia/multifasciata.htm) (Common sun skink)
+multifasciata*](reptilia/multifasciata) (Common sun skink)
   
  
 **Family Varanidae**
  
 *[Varanus
-salvator](reptilia/salvator.htm)* (Malayan water monitor)
+salvator](reptilia/salvator)* (Malayan water monitor)
 
 ---
 
@@ -150,28 +135,28 @@ salvator](reptilia/salvator.htm)* (Malayan water monitor)
  
 **Family Dicroglossidae**
  
-*[Fejervarya/Rana crancrivora](reptilia/crancrivora.htm)*
+*[Fejervarya/Rana crancrivora](reptilia/crancrivora)*
 (Crab-eating frog)
 
 ---
 
 **Birds**
  
-**[Shorebirds and seabirds](birds/shorebirds.htm) in
+**[Shorebirds and seabirds](birds/shorebirds) in
 general**
 
  
 **Family Bucerotidae**
  
 *[Anthracoceros
-albirostris](birds/albirostris.htm)* (Oriental pied-hornbill) (CR:
+albirostris](birds/albirostris)* (Oriental pied-hornbill) (CR:
 Critically Endangered)
   
  
 **Family Phasianidae**
  
 *[Gallus
-gallus](birds/gallus.htm)* (Red junglefowl) (EN:
+gallus](birds/gallus)* (Red junglefowl) (EN:
 Endangered)
   
 in
@@ -180,38 +165,3 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew,
 2008. *The Singapore Red Data Book: Threatened plants and animals
 of Singapore*.  
   
-[About
-citing](../about.htm) this checklist.
-  
-  
-  
-  
-
-photo
-index of   
-vertebrates on this site
-
-all
-vertebrates  
-  
-[marine fishes](fish/fishfi.htm)  
-  
-[shore snakes](snakes/snakeshorefi.htm)  
-  
-[other reptiles](reptilefi.htm)  
-  
-[mammals](mammalfi.htm)   
-  
-[birds](birdfi.htm)
-
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

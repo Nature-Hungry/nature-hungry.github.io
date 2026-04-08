@@ -4,25 +4,10 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 plants
-[text index](plantindex.htm) | [photo
-index](plantfi.htm)
-[mangroves](mangrove/mangroves.htm)
+[text index](plantindex) | [photo
+index](plantfi)
+[mangroves](mangrove/mangroves)
 **Photo
 index of mangrove and seashore plants on Singapore shores**  
 **ferns**growing in mangroves and near the shore  
@@ -32,26 +17,26 @@ index of mangrove and seashore plants on Singapore shores**
 ![](mangrove/acrostichum/aureum/040114sbwred0032ma.jpg)  
   
 ![](mangrove/acrostichum/aureum/090328sbwrd8453ma.jpg)  
-[Piaya raya](mangrove/acrostichum/aureum.htm)
+[Piaya raya](mangrove/acrostichum/aureum)
   
 *Acrostichum aureum*
 
 ![](mangrove/acrostichum/speciosum/090328sbwrd0033m.jpg)  
   
 ![](mangrove/acrostichum/speciosum/090328sbwrd0035ma.jpg)  
-[Piaya lasu](mangrove/acrostichum/speciosum.htm)  
+[Piaya lasu](mangrove/acrostichum/speciosum)  
 *Acrostichum speciosum*
 
 ![](others/drymoglossum/piloselloides/090408wdld9130m.jpg)  
   
 ![](others/drymoglossum/piloselloides/090408wdld9129m.jpg)  
-[Dragon scales](others/drymoglossum/piloselloides.htm)  
+[Dragon scales](others/drymoglossum/piloselloides)  
 *Drymoglossum piloselloides*
 
 ![](others/asplenium/nidus/090613admd4177m.jpg)  
   
 ![](others/asplenium/nidus/090613admd4178ma.jpg)  
-[Bird's nest fern](others/asplenium/nidus.htm)  
+[Bird's nest fern](others/asplenium/nidus)  
 *Asplenium nidus*
 
  
@@ -80,47 +65,47 @@ index of
 plants on this site
 
 [all
-plants](plantfi.htm)  
+plants](plantfi)  
   
 **mangrove
 & seashore plants**   
-[creepers](shorefi1.htm)  
-[climbers, vines](shorefi2.htm)  
-[herbs](shorefi3.htm)  
+[creepers](shorefi1)  
+[climbers, vines](shorefi2)  
+[herbs](shorefi3)  
 ferns  
-[palms, pandans](shorefi4.htm)  
+[palms, pandans](shorefi4)  
   
 **mangrove
 &** **seashore
   
 shrubs<2m**  
-[thick/leathery leaves](shorefi5a.htm)  
-[thin leaves](shorefi5b.htm)  
+[thick/leathery leaves](shorefi5a)  
+[thin leaves](shorefi5b)  
   
 **seashore
   
 trees>2m**   
 type of leaves  
-[small simple](shorefi6b.htm)  
-[large simple](shorefi6c.htm)  
-[compound, others](shorefi6d.htm)   
+[small simple](shorefi6b)  
+[large simple](shorefi6c)  
+[compound, others](shorefi6d)   
   
 **mangrove
 trees**  
-small oval fruits and [pneumatophores](mangfi6a.htm)  
+small oval fruits and [pneumatophores](mangfi6a)  
   
 long cylindrical fruits  
-with [knee roots](mangfi6b.htm)  
-with [buttressed roots](mangfi6c.htm)  
-with [stilt roots](mangfi6d.htm)  
+with [knee roots](mangfi6b)  
+with [buttressed roots](mangfi6c)  
+with [stilt roots](mangfi6d)  
   
-[large round fruits](mangfi6f.htm)  
+[large round fruits](mangfi6f)  
   
-[others](mangfi7a.htm)
+[others](mangfi7a)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,30 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "dollar, urchin, echinoidea, echinodermata, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[![talking points for nature guides](../../Templates/fornatureguides.gif)](../forguides/index.html)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 echinodea
-[text index](echinodermindex.htm#echinoidea) | [photo
-index](echinodermatafi.htm)
+[text index](echinodermindex#echinoidea) | [photo
+index](echinodermatafi)
 Phylum
-[Echinodermata](echinodermata.htm) > Class [Echinoidea](echinoidea/echinoidea.htm)
+[Echinodermata](echinodermata) > Class [Echinoidea](echinoidea/echinoidea)
 [index
-to talking points](../forguides/index.html) for nature guides
+to talking points](../forguides/indexl) for nature guides
 **For
 nature guides: introducing sand dollars and sea urchins**  
 *updated
@@ -36,7 +19,7 @@ Apr 2020*
 ---
 
 **Don't
-step on the sand dollars!**[Sand dollars](echinoidea/sandollar/sandollar.htm) make a good 'first station' to sensitise visitors
+step on the sand dollars!**[Sand dollars](echinoidea/sandollar/sandollar) make a good 'first station' to sensitise visitors
 to the fact that every inch of the shore is alive. Don't point out
 the sand dollars immediately. Bring the visitors close to a concentration
 of the sand dollars, then let the visitors try to find them on their
@@ -101,7 +84,7 @@ closer look at sand dollars**
   is on its underside, facing the ground.
 - Some sea
   urchins have [a kind
-  of 'worm' around the mouth](echinoidea/urchin/temnopleurus.htm).
+  of 'worm' around the mouth](echinoidea/urchin/temnopleurus).
 - Sea urchins
   have jaws made of a circle of five plates that meet in the middle.
 - Sea urchins
@@ -136,7 +119,7 @@ in the habitat**
   If there are too many seaweeds on a reef, for example, baby corals
   can't find a place to settle down. More about the role of seaweeds,
   baby corals and animals that eat seaweeds on the [wild
-  shores of singapore blog](http://wildshores.blogspot.com/2008/09/seaweeds-wage-chemical-warfare-on.html).
+  shores of singapore blog](http://wildshores.blogspot.com/2008/09/seaweeds-wage-chemical-warfare-onl).
 
 **Sand
 dollars, sea urchins and you**
@@ -187,9 +170,9 @@ Don't pull out the spines of sea urchins!**
 some need to be in specific locations. Put sand dollars back
 the RIGHT WAY up.
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

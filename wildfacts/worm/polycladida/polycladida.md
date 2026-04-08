@@ -4,24 +4,11 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "flat, worm, flatworm, polycladida, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 flatworms [text
-index](../wormindex.htm) | [photo index](../polycladidafi.htm)
-[worms](../worm.htm)
+index](../wormindex) | [photo index](../polycladidafi)
+[worms](../worm)
 > Phylum Platyhelminthes > Class
 Turbellaria > Order Polycladida
 **Marine
@@ -44,7 +31,7 @@ ones found under rocks to larger monsters that roam out in the open. Some
 are brightly coloured and patterned, others blend with their surroundings.
 Flatworms are usually more active when it is dark when they skim the ground with elegant ruffles of their body edges, or even swim short distances in the water.  
   
-**What are flatworms?** Unlike [bristleworms](../polychaeta/polychaeta.htm) and earthworms
+**What are flatworms?** Unlike [bristleworms](../polychaeta/polychaeta) and earthworms
 which are segmented and belong to Phylum Annelida, flatworms
 are unsegmented worms belonging to the Phylum Platyhelminthes. 'Platyhelminthes'
 means 'flat worm'. There are about 18,500 species of flatworms, but
@@ -56,8 +43,8 @@ Marine flatworms belonging to the Order Polycladida, however, are
 not parasites. They are free-living flatworms that earn an honest
 living by hunting down and eating other animals.  
   
-**Sometimes confused with:** [nudibranchs](../../mollusca/nudibranchia.htm) and [slugs](../../mollusca/slug.htm). More on [how
-to tell them apart](../../glossary/flatwormslug.htm).  
+**Sometimes confused with:** [nudibranchs](../../mollusca/nudibranchia) and [slugs](../../mollusca/slug). More on [how
+to tell them apart](../../glossary/flatwormslug).  
   
 **Features:**  Most are about 1cm
 long or less, although some 'monster' species 8-10cm long are also
@@ -107,7 +94,7 @@ their gut. Those with bright colours that contrast with their surroundings
 probably serve as a warning of their distasteful nature. Flatworms
 can contain powerful toxins. Others have colours and patterns that
 blend with the background. These and smaller ones are simply overlooked.
-Some flatworms mimic other animals such as [nudibranchs](../../mollusca/nudibranchia.htm) (or perhaps visa versa).
+Some flatworms mimic other animals such as [nudibranchs](../../mollusca/nudibranchia) (or perhaps visa versa).
 ![](orangewhite/121116sjjid1330m3.jpg)  
 Some may be colourfully patterned. *St John's Island, Nov 12*
 *![](silt/100215sisd9466m3.jpg)*Some
@@ -116,9 +103,9 @@ may be nearly transparent! *Sisters Island, Feb 10*
 Pseudo tentacles
 made out folded edges of the body margin. Mouth is on the underside. *Pulau Sekudu, Jul 05*
 **What do they eat?** Many flatworms
-are carnivores that prey on tiny animals (protozoa, copepods, [worms](../worm.htm))
-or feed on immobile animals such as [bryozoans](../../bryozoa/bryozoan.htm), [ascidians](../../ascidiacea/ascidiacea.htm) and molluscs.
-Being flat, they slip easily between the shells of [bivalves](../../mollusca/bivalvia.htm) and some flatworms are considered pests of oyster farms. Some are
+are carnivores that prey on tiny animals (protozoa, copepods, [worms](../worm))
+or feed on immobile animals such as [bryozoans](../../bryozoa/bryozoan), [ascidians](../../ascidiacea/ascidiacea) and molluscs.
+Being flat, they slip easily between the shells of [bivalves](../../mollusca/bivalvia) and some flatworms are considered pests of oyster farms. Some are
 scavengers, feeding on dead animals.   
   
 **Flatworms on the hunt:** Flatworms
@@ -138,7 +125,7 @@ have a sucker on the underside to get a grip on the surface.
 *![](bedfordi/060130hntg4262m3.jpg)*The
 mouth of a flatworm may be towards   
 the middle of the underside of the body. *Pulau Hantu, Jan 06*
-*![](indicus/080619chgd5684m3.jpg)*Eating [Yellow clustered bead ascidians](../../ascidiacea/eudistoma.htm)? *Changi, Jun 08*
+*![](indicus/080619chgd5684m3.jpg)*Eating [Yellow clustered bead ascidians](../../ascidiacea/eudistoma)? *Changi, Jun 08*
 *![](acanthozoon/050112smkd9730m3.jpg)*Bigger
 flatworms may undulate the sides   
 of their bodies to 'swim'. *Pulau Semakau, Jan 05* 
@@ -151,7 +138,7 @@ body of the partner. This is not surprisingly called 'hypodermic impregnation'.
   
 In yet other species, as two flatworms attempt to use each one's penis to stab the other, they appear to be 'penis-fencing'. It is believed that each flatworm tries to impregnate the other without itself being impregnated. In one study, penis fencing was observed to be just a mating ritual and not necessary for insemination, not always aggressive, and could also result in eventual reciprocal insemination.   
   
-Eggs are laid in a mass attached to a hard surface, in batches of hundreds of eggs. The eggs hatch into free-swimming larvae which disperse and undergo metamorphosis into the adult form. Some like the [Blue-lined flatworm](lineblue.htm) and [Purple-spotted flatworm](laingensis.htm) displayed long-term parental care.
+Eggs are laid in a mass attached to a hard surface, in batches of hundreds of eggs. The eggs hatch into free-swimming larvae which disperse and undergo metamorphosis into the adult form. Some like the [Blue-lined flatworm](lineblue) and [Purple-spotted flatworm](laingensis) displayed long-term parental care.
 *![](acanthozoon/170625bbd3587m3.jpg)*Two worms 'penis fencing'. *Beting Bronok, Jun 17*
 ![](acanthozoon/100130brklks6m3.jpg)  
 'Penis fencing'  *Terumbu Berkas, Jan 10*  
@@ -162,8 +149,8 @@ flickr](http://www.flickr.com/photos/koksheng/4353266620/).
 Terumbu Bemban,
 Jun 10  
 Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/06/terumbu-bemban-reef-of-fish-trap.html).
-Here's [a video clip of 'penis-fencing'](acanthozoon.htm) shared by Loh Kok Sheng.
+blog](http://wondercreation.blogspot.com/2010/06/terumbu-bemban-reef-of-fish-trapl).
+Here's [a video clip of 'penis-fencing'](acanthozoon) shared by Loh Kok Sheng.
 
 [Penis fencing in flatworms](https://vimeo.com/9420169) from [Loh Kok Sheng](https://vimeo.com/user696199) on [Vimeo](https://vimeo.com).
 
@@ -186,23 +173,23 @@ flatworms on Singapore shores**
 ---
 
 ![](others/140913pgllks1m3.JPG)  
-Possibly Stylochid *Punggol, Sep 14*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/09/full-of-crabs-at-punggol-shore.html).
+Possibly Stylochid *Punggol, Sep 14*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/09/full-of-crabs-at-punggol-shorel).
 
 ![](others/110105sellks.jpg)  
 Stylochid 8  
 *Seletar, Jan 11*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/5328337503/in/album-72157618302600113/)
 
 ![](others/140114cjlks1m3.JPG)  
-Pseudocerotidae 2 *Chek Jawa, Jan 14*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/01/any-impact-on-chek-jawa-from-dec-flood.html).
+Pseudocerotidae 2 *Chek Jawa, Jan 14*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/01/any-impact-on-chek-jawa-from-dec-floodl).
 
 ---
 
 ![](others/150221sjilks1m3.JPG)  
-Pseudocerotidae *St John's Island, Mar 13*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2015/03/cny-day-3-st-johns-island.html).
+Pseudocerotidae *St John's Island, Mar 13*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2015/03/cny-day-3-st-johns-islandl).
 
 ![](others/120818lazlks1m3.JPG)  
 *Pseudobiceros hymanae  
-Seringat Kias, Aug 12*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2012/08/exploring-new-stretch-of-seringat-kias.html).
+Seringat Kias, Aug 12*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2012/08/exploring-new-stretch-of-seringat-kiasl).
 
 ![](others/230221tryjll1.jpg)  
 *Pseudobiceros hymanae  
@@ -256,7 +243,7 @@ Changi, Nov 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.
 ---
 
 ![](others/140809hntlks1m3.JPG)  
-*Acanthozoon/Thysanozoon* sp. 2 *Pulau Hantu, Aug 14*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/08/lionfish-on-lion-citys-birthday-at.html).
+*Acanthozoon/Thysanozoon* sp. 2 *Pulau Hantu, Aug 14*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/08/lionfish-on-lion-citys-birthday-atl).
 
 ![](others/140809hntlks2m3.JPG)  
 Underside.
@@ -294,7 +281,7 @@ Thysanozoon nigropapillosum*
 ---
 
 ![](others/130210sislks1m3.JPG)  
-*Sisters Island, Feb 13*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2013/02/cny-day-1-big-sisters-island.html).
+*Sisters Island, Feb 13*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2013/02/cny-day-1-big-sisters-islandl).
 
 ![](others/130210sislks2m3.JPG)  
 Underside.
@@ -308,7 +295,7 @@ shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media
 *![](others/090510hntlks1mn3.JPG)  
 Pulau Hantu, May 09
 ![](others/090510hntlks1mn3a.jpg)*Photo
-shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2009/05/predawn-at-hantu-reefs.html).
+shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2009/05/predawn-at-hantu-reefsl).
 
 *![](others/210428slujll1a.jpg)  
 Pulau Salu, Apr 21![](others/210428slujll1c.jpg)*Photo
@@ -323,7 +310,7 @@ shared by Marcus Ng on [facebook](https://www.facebook.com/photo/?fbid=101584339
 ---
 
 *![](others/110606cyrlks1m3.JPG)*Planocerid 7 *Cyrene Reef, Jun 11![](others/110606cyrlks2m3.JPG)*Photo
-shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2011/06/anemone-hunt-at-cyrene-reef.html).
+shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2011/06/anemone-hunt-at-cyrene-reefl).
 
 ---
 
@@ -340,7 +327,7 @@ close examination.
 On this website, they are grouped by external features for convenience
 of display.*
  
-[Phlegm flatworm](phlegm.htm)
+[Phlegm flatworm](phlegm)
   
  
 **Family
@@ -366,8 +353,8 @@ Eurylepta* sp. 1
 *Eurylepta* sp. 6   
 *Eurylepta* sp. 7  
 *+Eurylepta* sp. 8  [*Maritigrella
-fuscopunctata*](fuscopunctata.htm) (Punctuated flatworm)  
-*[Maritigrella virgulata](virgulata.htm)* (Red-lined flatworm)
+fuscopunctata*](fuscopunctata) (Punctuated flatworm)  
+*[Maritigrella virgulata](virgulata)* (Red-lined flatworm)
   
  
 **Family
@@ -379,7 +366,7 @@ Gnesiocerotidae**
 **Family
 Limnostylochidae**
  
-*[Limnostylochus](limnostylochus.htm)* [sp.](limnostylochus.htm) (Red mangrove flatworm)  
+*[Limnostylochus](limnostylochus)* [sp.](limnostylochus) (Red mangrove flatworm)  
 Limnostylochid 1  
 Limnostylochid 2
   
@@ -416,60 +403,60 @@ Prosthiostomid 4
 **Family
 Pseudocerotidae**
 
-[*Acanthozoon*sp. 1](acanthozoon.htm) (Spangled flatworm)  
+[*Acanthozoon*sp. 1](acanthozoon) (Spangled flatworm)  
 Acanthozoon sp. 2  
   
 Acanthozoon/Thysanozoon sp. 1  
 Acanthozoon/Thysanozoon sp. 2  
   
-[*Nymphozoon bayeri*](bayeri.htm) (Bayer's flatworm)  
-[*Nymphozoon orsaki*](orsaki.htm) (Orsak's flatworm)  
+[*Nymphozoon bayeri*](bayeri) (Bayer's flatworm)  
+[*Nymphozoon orsaki*](orsaki) (Orsak's flatworm)  
   
-[*Phrikoceros baibaiye*](baibaiye.htm) (Vermillion flatworm)  
+[*Phrikoceros baibaiye*](baibaiye) (Vermillion flatworm)  
 Phrikoceros sp. 1  
 Phrikoceros sp. 2   
   
 Pseudobiceros bajae   
-[*Pseudobiceros bedfordi*](bedfordi.htm) (Persian
+[*Pseudobiceros bedfordi*](bedfordi) (Persian
 carpet flatworm)  
-*[Pseudobiceros damawan](damawan.htm)* (Damawan
+*[Pseudobiceros damawan](damawan)* (Damawan
 flatworm)  
 *Pseudobiceros flowersi*  
-[*Pseudobiceros fulgor*](fineline.htm) (Lightning flatworm)   
-[*Pseudobiceros hancockanus*](dawn.htm)
+[*Pseudobiceros fulgor*](fineline) (Lightning flatworm)   
+[*Pseudobiceros hancockanus*](dawn)
 (Dawn flatworm)=*Pseudobiceros uniarborensis*  
 *Pseudobiceros hymanae*   
 *[Pseudobiceros
-stellae](stellae.htm)* (Starry flatworm)  
+stellae](stellae)* (Starry flatworm)  
 Pseudobiceros sp. 1  
-[*Pseudobiceros* sp. 2](brownstripe.htm) (Brown-stripe flatworm)  
+[*Pseudobiceros* sp. 2](brownstripe) (Brown-stripe flatworm)  
 Pseudobiceros sp. 3  
 Pseudobiceros sp. 4  
-[*Pseudobiceros* sp. 5](orangewhite.htm) (Halloween flatworm)  
+[*Pseudobiceros* sp. 5](orangewhite) (Halloween flatworm)  
 +Pseudobiceros sp. 6   
   
-*[Pseudoceros bifurcus](bifurcus.htm)* (Racing-line
+*[Pseudoceros bifurcus](bifurcus)* (Racing-line
 flatworm)  
-[*Pseudoceros caeruleocinctus*](sapphirinus.htm) (Sapphire flatworm)=*Pseudoceros sapphirinus*  
-[*Pseudoceros concinnus*](lineblue.htm) (Blue-lined
+[*Pseudoceros caeruleocinctus*](sapphirinus) (Sapphire flatworm)=*Pseudoceros sapphirinus*  
+[*Pseudoceros concinnus*](lineblue) (Blue-lined
 flatworm)  
 *Pseudoceros* cf. *cruentus*   
 *Pseudoceros duplicinctus*  
-*[Pseudoceros indicus](indicus.htm)* (Blue-dot margined
+*[Pseudoceros indicus](indicus)* (Blue-dot margined
 flatworm)  
-[*Pseudoceros laingensis*](laingensis.htm)
+[*Pseudoceros laingensis*](laingensis)
 (Purple-spotted flatworm)   
-[*Pseudoceros meenae*](white.htm) (White flatworm) *Pseudoceros microcelis  
-Pseudoceros paralaticlavus*[*Pseudoceros* cf. *prudhoei*](silverlining.htm) (Silver-lining flatworm)  *Pseudoceros* cf. *rubronanus*   
-*[Pseudoceros rubrotentaculatus](rubrotentaculatus.htm)* (Ocher-striped flatworm)  
+[*Pseudoceros meenae*](white) (White flatworm) *Pseudoceros microcelis  
+Pseudoceros paralaticlavus*[*Pseudoceros* cf. *prudhoei*](silverlining) (Silver-lining flatworm)  *Pseudoceros* cf. *rubronanus*   
+*[Pseudoceros rubrotentaculatus](rubrotentaculatus)* (Ocher-striped flatworm)  
 [*Pseudoceros
-scintillatus*](scintillatus.htm) (Scintillating flatworm)  
+scintillatus*](scintillatus) (Scintillating flatworm)  
 *Pseudoceros* cf. *stimpsoni*  
 +*Pseudoceros susanae*  
-[*Pseudoceros* sp. 1](ascidianbeige.htm) (Marbled flatworm)  
+[*Pseudoceros* sp. 1](ascidianbeige) (Marbled flatworm)  
 *Pseudoceros* sp. 2  
-[*Pseudoceros* sp. 3](lineyellow.htm) (Yellow-line flatworm)  
-[*Pseudoceros* sp. 4](linebraid.htm) (Braided-line flatworm)  
+[*Pseudoceros* sp. 3](lineyellow) (Yellow-line flatworm)  
+[*Pseudoceros* sp. 4](linebraid) (Braided-line flatworm)  
 *Pseudoceros* sp. 5  
 *Pseudoceros* sp. 6  
 *Pseudoceros* sp. 7  
@@ -486,7 +473,7 @@ Thysanozoon nigropapillosum
 Thysanozoon nigrum  
 Thysanozoon* sp. 1  
   
-*[Tytthosoceros lizardensis](olive.htm)* (Olive flatworm)  
+*[Tytthosoceros lizardensis](olive)* (Olive flatworm)  
 *Tytthosoceros* sp. 1  
 *Tytthosoceros* sp. 2   
   
@@ -497,12 +484,12 @@ Pseudocerotid 4
 Pseudocerotid 5  
 Pseudocerotid 6  
 +Pseudocerotid 7  
-+[Pseudocerotid 8](felis.htm) (Feline flatworm)
++[Pseudocerotid 8](felis) (Feline flatworm)
 
   
  
 **Family
-Stylochidae [Silt flatworm](silt.htm)**
+Stylochidae [Silt flatworm](silt)**
  
 Stylochid 1  
 Stylochid 2  
@@ -543,11 +530,11 @@ History Museum of Los Angeles County](http://www.nhm.org/) for comments on and i
 some of these flatworms.Grateful thanks to Rene Ong for sharing details and identifying the flatworms on this page.**Links**  
 
 - [Marine
-  flatworms](http://mangrove.nus.edu.sg/pub/seashore/text/124.htm) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+  flatworms](http://mangrove.nus.edu.sg/pub/seashore/text/124) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [Mangrove
-  flatworms (Platyhelminthes)](http://mangrove.nus.edu.sg/guidebooks/text/2002.htm) Ng, Peter K. L. & N. Sivasothi,
+  flatworms (Platyhelminthes)](http://mangrove.nus.edu.sg/guidebooks/text/2002) Ng, Peter K. L. & N. Sivasothi,
   1999. *[A Guide
   to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
   Science Centre. 168 pp.
@@ -556,7 +543,7 @@ some of these flatworms.Grateful thanks to Rene Ong for sharing details and iden
   by Dr Bill Rudman: Introduction to flatworms with lots of examples
   of nudibranchs and slugs mistaken for flatworms and visa versa.
 - [Platyhelminthes
-  in YOU](http://wildshores.blogspot.com/2009/02/platyhelminthes-in-you.html) on the wild shores of singapore blog.
+  in YOU](http://wildshores.blogspot.com/2009/02/platyhelminthes-in-youl) on the wild shores of singapore blog.
 
 **References**
 
@@ -612,14 +599,4 @@ some of these flatworms.Grateful thanks to Rene Ong for sharing details and iden
   of the Invertebrates*.
   5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

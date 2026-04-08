@@ -9,21 +9,21 @@ layout: default
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 brown
-seaweeds [text index](../seaweedindex.htm#phaeophyta)
-| [photo index](../seaweedfi.htm)
-[Seaweeds](../seaweed.htm)
-> Division [Phaeophyta](phaeophyta.htm)
+seaweeds [text index](../seaweedindex#phaeophyta)
+| [photo index](../seaweedfi)
+[Seaweeds](../seaweed)
+> Division [Phaeophyta](phaeophyta)
 **Y-branch
 brown seaweed  
 *Dictyota* sp.\*** **Family Dictyotaceae  
@@ -48,7 +48,7 @@ there are more than 70 current *Dictyota* species.
   
 **Human uses:** Strap brown seaweed
 is eaten by people and used as animal feed, medicine for its antibacterial
-properties. [*Dictyota dichotoma*](ybranch.htm) is
+properties. [*Dictyota dichotoma*](ybranch) is
 also used to make beer, frozen food, fruit juices, ice cream, jellies,
 in meat and flavour sauces, milk shakes, pastries and salad dressings.
 Extracts from it are also used in industry as emulsifiers, gelling
@@ -113,7 +113,7 @@ adnata
 Dictyota bartayresiana  
 Dictyota ciliolata  
 Dictyota crispata  
-[Dictyota dichotoma](ybranch.htm)*
+[Dictyota dichotoma](ybranch)*
 (Bluish y-branch brown seaweed) *Dictyota dichotoma var. intricata  
 Dictyota hauckiana  
 Dictyota lata*
@@ -135,20 +135,20 @@ Dictyota lata*
   100 pp. Uploaded 1 August 2011.
 - Calumpong,
   H. P. & Menez, E. G., 1997.*[Field
-  Guide to the Common Mangroves, Seagrasses and Algae of the Philippines](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FField-common-mangroves-seagrasses-Philippines%2Fdp%2F9715691978%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175577689%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1).
+  Guide to the Common Mangroves, Seagrasses and Algae of the Philippines](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FField-common-mangroves-seagrasses-Philippines%2Fdp%2F9715691978%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175577689%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1).
   Bookmark, Inc., the Philippines. 197 pp.
 - Huisman,
   John M. 2000. *[Marine
-  Plants of Australia](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FMarine-Plants-Australia-John-Huisman%2Fdp%2F1876268336%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580260%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*
+  Plants of Australia](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FMarine-Plants-Australia-John-Huisman%2Fdp%2F1876268336%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580260%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*
   University of Western Australia Press. 300pp.
 - Trono, Gavino.
   C. Jr., 1997. *[Field
-  Guide and Atlas of the Seaweed Resources of the Philippines.](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FField-guide-seaweed-resources-Philippines%2Fdp%2F9715692524%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1176262450%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
+  Guide and Atlas of the Seaweed Resources of the Philippines.](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FField-guide-seaweed-resources-Philippines%2Fdp%2F9715692524%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1176262450%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
   Bookmark, Inc., the Philippines. 306 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

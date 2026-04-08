@@ -9,20 +9,20 @@ layout: default
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../index.html)  
+[wildfactsheets homepage](../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
+[all animals](../../animals)
+| [all plants](../../plants)
+| [concepts](../../concepts/indexl)
+| [glossary](../../glossary/indexl)
+| [search](../../search)
 
 seagrasses
-[text index](seagrassindex.htm) | [photo
-index](seagrassfi.htm)
-[Seagrasses](seagrass.htm)
+[text index](seagrassindex) | [photo
+index](seagrassfi)
+[Seagrasses](seagrass)
 > Family Cymodoceaceae
 **Serrated
 ribbon seagrass   
@@ -44,7 +44,7 @@ is eaten by dugongs.
 **Where
 seen?**
 These seagrasses are common on Pulau Semakau, growing among the more
-dominant [Tape seagrass](enhalus.htm) (*Enhalus acoroides*).
+dominant [Tape seagrass](enhalus) (*Enhalus acoroides*).
 They are also commonly seen on Cyrene Reef.  
   
 Serrated ribbon seagrass is considered common and widespread throughout
@@ -61,7 +61,7 @@ seen with reddish bands.
   
 **Sometimes confused with** other
 ribbon-like seagrasses. Here's more on [how
-to tell apart ribbon-like seagrasses](cfribbon.htm).   
+to tell apart ribbon-like seagrasses](cfribbon).   
   
 **Flowers and fruits:** This seagrass
 has separate male and female plants. Flowering is rarely observed.
@@ -129,7 +129,7 @@ Photo shared by Jonathan Tan.
   Proceedings of a training workshop, National Parks Board, Biodiversity
   Centre, Singapore, 24th-25th March 2007 (DPI&F, Cairns). 32pp.
 - [Identifying
-  seagrasses](http://www.seagrasswatch.org/id_seagrass.html) on the Seagrass-Watch website.
+  seagrasses](http://www.seagrasswatch.org/id_seagrassl) on the Seagrass-Watch website.
 
 **References**
 
@@ -152,14 +152,4 @@ Photo shared by Jonathan Tan.
 **You CAN make a difference for Singapore's
 seagrasses!**[![](../../../Templates/teamsg.jpg)](http://teamseagrass.blogspot.com/)
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

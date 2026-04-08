@@ -9,21 +9,21 @@ layout: default
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
-green seaweeds [text index](../seaweedindex.htm) | [photo
-index](../seaweedfi.htm)
-[Seaweeds](../seaweed.htm)
-> Division [Chlorophyta](chlorophyta.htm) > Family
-Caulerpaceae > genus *[Caulerpa](caulerpa.htm)*
+green seaweeds [text index](../seaweedindex) | [photo
+index](../seaweedfi)
+[Seaweeds](../seaweed)
+> Division [Chlorophyta](chlorophyta) > Family
+Caulerpaceae > genus *[Caulerpa](caulerpa)*
 **Round
 sea grapes  
 *Caulerpa lentillifera\**** **Family Caulerpaceae  
@@ -48,9 +48,9 @@ a long horizontal 'root' that creeps over the surface. Colours range
 from bright green to bluish and olive green.  
   
 **Sometimes confused with** [Oval
-sea grapes](racemosa.htm) (*Caulerpa racemosa*). *Caulerpa microphysa* can look very similar but lack the distinct
+sea grapes](racemosa) (*Caulerpa racemosa*). *Caulerpa microphysa* can look very similar but lack the distinct
 constriction where the 'grape' attached to the stalk. Here's more on [how
-to tell apart the sea grapes seaweeds](cfgrapes.htm).  
+to tell apart the sea grapes seaweeds](cfgrapes).  
   
 **Human uses:** Round sea grapes are
 a popular edible species in some places.In the Philippines,
@@ -138,20 +138,20 @@ Pulau Salu, Aug 10*
   lentillifera*](http://www.algaebase.org/search/species/detail/?species_id=3754) on [AlgaeBase](http://www.algaebase.org/):
   technical fact sheets.
 - [Sea
-  grapes or green caviar (*Caulerpa lentillifera*)](http://www.fao.org/docrep/006/y4765e/y4765e0b.htm#bm11.8) from
+  grapes or green caviar (*Caulerpa lentillifera*)](http://www.fao.org/docrep/006/y4765e/y4765e0b#bm11.8) from
   [A
-  guide to the seaweed industry](http://www.fao.org/docrep/006/y4765e/y4765e00.htm) by Dennis J. McHugh on the
+  guide to the seaweed industry](http://www.fao.org/docrep/006/y4765e/y4765e00) by Dennis J. McHugh on the
   FAO website with lots of details on commercial cultivation of
   *Caulerpa lentillifera*.
 - [Seaweed
-  Mariculture](http://www.botany.uwc.ac.za/algae/StudentAssignments/natalieprins97/caulerpa.htm) by Natalie Prins from the World of Algae
+  Mariculture](http://www.botany.uwc.ac.za/algae/StudentAssignments/natalieprins97/caulerpa) by Natalie Prins from the World of Algae
   page on the the University of the Western Cape, South Africa
   website: includes the culture and uses of *Caulerpa lentillifera*.
 - [*Caulerpa
-  lentillifera*](http://www.naturia.per.sg/cjsurvey/vegetative/text/caulerpa%20lentillifera.htm) coverage on Chek Jawa during the 2001 Chek
+  lentillifera*](http://www.naturia.per.sg/cjsurvey/vegetative/text/caulerpa%20lentillifera) coverage on Chek Jawa during the 2001 Chek
   Jawa survey.
 - [Sea
-  grapes (*Caulerpa lentillifera*)](http://mangrove.nus.edu.sg/pub/seashore/text/101.htm) Tan, Leo W. H. &
+  grapes (*Caulerpa lentillifera*)](http://mangrove.nus.edu.sg/pub/seashore/text/101) Tan, Leo W. H. &
   Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
@@ -192,9 +192,9 @@ FREE photos of
 seaweeds](http://www.flickr.com/photos/54527470@N00/sets/72157600032152343).  
 Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

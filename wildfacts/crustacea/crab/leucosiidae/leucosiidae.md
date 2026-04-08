@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "pebble, crab, leucosiidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
 > Brachyurans
 **Pebble
 crabs**   
@@ -120,11 +120,11 @@ Semtosa Tg Rimau, Oct 25*Photo shared by Loh Kok Sheng on [facebook](https://www
 Kusu Island, Apr 17*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/media_set?set=a.10155318560448713.1073742080.619308712&type=3).
 
 *![](leucosiidae/090529sjilks.jpg)  
-St John's Island, May 09*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2009/05/my-first-st-johns-intertidal-guided.html).
+St John's Island, May 09*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2009/05/my-first-st-johns-intertidal-guidedl).
 
 *![](leucosiidae/080310smklksm3.jpg)  
 Leucosia craniolaris  
-Pulau Semakau, Mar 08*Photo shared by Loh Kok Sheng on  [his blog](http://wondercreation.blogspot.com/2008/03/my-first-ojt-at-semakau.html)
+Pulau Semakau, Mar 08*Photo shared by Loh Kok Sheng on  [his blog](http://wondercreation.blogspot.com/2008/03/my-first-ojt-at-semakaul)
 
 ---
 
@@ -185,7 +185,7 @@ grateful thanks to Ondrej Radosta for identifying the species of the crabs on th
   
 
 - [Pebble
-  crabs (Family Leucosiidae)](http://mangrove.nus.edu.sg/guidebooks/text/2061.htm) Ng,
+  crabs (Family Leucosiidae)](http://mangrove.nus.edu.sg/guidebooks/text/2061) Ng,
   Peter K. L. & N. Sivasothi, 1999. *[A
   Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
   Singapore Science Centre. 168 pp.
@@ -210,9 +210,9 @@ grateful thanks to Ondrej Radosta for identifying the species of the crabs on th
   and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
   National Council on the Environment. 163pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

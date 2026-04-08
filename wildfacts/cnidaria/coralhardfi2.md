@@ -4,26 +4,11 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 hard corals [text
-index](coralhardindex.htm) | [photo index](cnidariafi1.htm)
+index](coralhardindex) | [photo index](cnidariafi1)
 Phylum
-[Cnidaria](cnidaria.htm) >
-Class [Anthozoa](anthozoa.htm) > Subclass Zoantharia/Hexacorallia
+[Cnidaria](cnidaria) >
+Class [Anthozoa](anthozoa) > Subclass Zoantharia/Hexacorallia
 **Photo
 index of hard corals on Singapore shores** **Colony
 with thick branches**
@@ -33,26 +18,26 @@ with thick branches**
 ![](coralhard/pocilloporidae/pocillopora/050625labg8603m.jpg)  
   
 ![](coralhard/pocilloporidae/pocillopora/050625labg8606m.jpg)  
-[Cauliflower coral](coralhard/pocilloporidae/pocillopora.htm)  
+[Cauliflower coral](coralhard/pocilloporidae/pocillopora)  
 *Pocillopora* sp.
 
 ![](coralhard/merulinidae/hydbranch/060714rlhg6493m.jpg)  
   
 ![](coralhard/merulinidae/hydbranch/070618rlhg0549ma.jpg)  
-[Branching horn coral](coralhard/merulinidae/hydbranch.htm)  
+[Branching horn coral](coralhard/merulinidae/hydbranch)  
 *Hydnophora rigida*
 
 ![](coralhard/poritidae/porbranch/050820bbd5737m.jpg)  
   
 ![](coralhard/poritidae/porbranch/050820bbg1779mb.jpg)  
-[Branching pore coral](coralhard/poritidae/porbranch.htm)  
+[Branching pore coral](coralhard/poritidae/porbranch)  
 *Porites* sp.
 
 ![](coralhard/acroporidae/monbranch/050525hntg6691m.jpg)  
   
 ![](coralhard/acroporidae/monbranch/050525hntg6693ma.jpg)  
 [Branching   
-montipora coral](coralhard/acroporidae/monbranch.htm)  
+montipora coral](coralhard/acroporidae/monbranch)  
 *Montipora* sp.
 
 ![](coralhard/acroporidae/monridged/060301kusg5361m.jpg)  
@@ -60,7 +45,7 @@ montipora coral](coralhard/acroporidae/monbranch.htm)
 ![](coralhard/acroporidae/monridged/060301kusg5362ma.jpg)  
 [Ridged
   
-montipora coral](coralhard/acroporidae/monridged.htm)  
+montipora coral](coralhard/acroporidae/monridged)  
 *Montipora* sp.
 
 Colony
@@ -91,7 +76,7 @@ Sometimes seen on our Southern shores.
   
 ![](coralhard/acroporidae/acrstumpy/051204sisg3229m.jpg)  
 [Stumpy  
-acropora coral](coralhard/acroporidae/acrstumpy.htm)  
+acropora coral](coralhard/acroporidae/acrstumpy)  
 *Acropora* sp.
 
 ![](coralhard/acroporidae/acrtubular/070618rlhg0552m.jpg)  
@@ -99,28 +84,28 @@ acropora coral](coralhard/acroporidae/acrstumpy.htm)
 ![](coralhard/acroporidae/acrtubular/070618rlhg0552ma.jpg)  
 [Tubular
   
-acropora coral](coralhard/acroporidae/acrtubular.htm)  
+acropora coral](coralhard/acroporidae/acrtubular)  
 *Acropora* sp.
 
 ![](coralhard/acroporidae/acrstaghorn/070618rlhg0582m.jpg)  
   
 ![](coralhard/acroporidae/acrstaghorn/070618rlhg0583m.jpg)  
 [Staghorn   
-acropora coral](coralhard/acroporidae/acrstaghorn.htm)  
+acropora coral](coralhard/acroporidae/acrstaghorn)  
 *Acropora* sp.
 
 ![](coralhard/acroporidae/acrelegant/070704jngg1275m.jpg)  
   
 ![](coralhard/acroporidae/acrelegant/070704jngg1276ma.jpg)  
 [Elegant acropora
-coral](coralhard/acroporidae/acrelegant.htm)  
+coral](coralhard/acroporidae/acrelegant)  
 *Acropora* sp.
 
 ![](coralhard/acroporidae/acrpinecone/060810rlhd5681m.jpg)  
   
 ![](coralhard/acroporidae/acrpinecone/060810rlhd5681mb.jpg)  
 [Pinecone acropora
-coral](coralhard/acroporidae/acrpinecone.htm)  
+coral](coralhard/acroporidae/acrpinecone)  
 *Acropora* sp.
 
 Colonies
@@ -156,13 +141,13 @@ cone. Seen on our Southern shores.
   
 ![](coralhard/psammocoridae/crinkled/050625labg8655ma.jpg)  
 [Crinkled sandpaper
-coral](coralhard/psammocoridae/psacrinkled.htm)  
+coral](coralhard/psammocoridae/psacrinkled)  
 *Psammocora* sp.
 
 ![](coralhard/dendrophylliidae/tubastraea/060713rlhg6356m.jpg)  
   
 ![](coralhard/dendrophylliidae/tubastraea/060713rlhg6356ma.jpg)  
-[Cave coral](coralhard/dendrophylliidae/tubastrea.htm)  
+[Cave coral](coralhard/dendrophylliidae/tubastrea)  
 *Tubastrea* sp.
 
 Colonies
@@ -186,7 +171,7 @@ are NOT hard corals**
 ![](others/heliopora/heliopora/040605kuscd0190m.jpg)  
   
 ![](others/heliopora/heliopora/040605kuscd0190mb.jpg)  
-[Blue coral](others/heliopora/heliopora.htm)  
+[Blue coral](others/heliopora/heliopora)  
 *Heliopora coerulea*
 
 ![](coralsoft/knobbly/060430skdg5829m.jpg)  
@@ -194,19 +179,19 @@ are NOT hard corals**
 ![](coralsoft/knobbly/060430skdg5827mb.jpg)
   
 [Knobbly
-soft coral](coralsoft/knobbly.htm)  
+soft coral](coralsoft/knobbly)  
 *Carijoa* sp.
 
 ![](others/gorgonacea/leathery/100517jngd2750m.jpg)  
   
 ![](others/gorgonacea/leathery/100517jngd2751ma.jpg)  
-[Leathery sea fan](others/gorgonacea/leathery.htm)  
+[Leathery sea fan](others/gorgonacea/leathery)  
 *awaiting identification*
 
 ![](others/gorgonacea/candelabra/030520bbd0063m.jpg)  
   
 ![](others/gorgonacea/candelabra/030520bbd0066m.jpg)  
-[Candelabra sea fan](others/gorgonacea/candelabra.htm)  
+[Candelabra sea fan](others/gorgonacea/candelabra)  
 *awaiting identification*
 
  
@@ -239,35 +224,35 @@ index of
 cnidarians on this site
 
 **Phylum
-Cnidaria****[with hard skeleton](cnidariafi1.htm)  
+Cnidaria****[with hard skeleton](cnidariafi1)  
   
 polyp shape**[long
-tentacles](coralhardfi1.htm)  **colony shape**
+tentacles](coralhardfi1)  **colony shape**
  
-[**leafy**](coralhardfi3.htm) **[crinkled](coralhardfi4.htm)  
- [plate](coralhardfi5.htm)** **branching**
+[**leafy**](coralhardfi3) **[crinkled](coralhardfi4)  
+ [plate](coralhardfi5)** **branching**
  
 thick
 branches  
-[thin branches](gorgonaceafi.htm)
+[thin branches](gorgonaceafi)
  
 **boulder**
  
 Corallite
 shape=   
-[ring](coralhardfi6.htm)  
-[hexagonal](coralhardfi7.htm)   
- [brain or maze](coralhardfi8.htm)
+[ring](coralhardfi6)  
+[hexagonal](coralhardfi7)   
+ [brain or maze](coralhardfi8)
   
-[others](coralhardfi9.htm)
+[others](coralhardfi9)
   
 [**colony
-unattached**](coralhardfi10.htm)   
+unattached**](coralhardfi10)   
 (mushroom hard coral)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

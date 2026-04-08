@@ -4,24 +4,9 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "echinoderm, echinodermata, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 echinoderms [text
-index](echinodermindex.htm) | [photo index](echinodermatafi.htm)
-Phylum [Echinodermata](echinodermata.htm)
+index](echinodermindex) | [photo index](echinodermatafi)
+Phylum [Echinodermata](echinodermata)
 **Echinoderm
 shapes**
   
@@ -59,7 +44,7 @@ Sea cucumber
 Let's see how the various types of echinoderms shape up!  
   
 Sea stars usually have five arms. They have short or tiny spines.
-[Sea stars](asteroidea/asteroidea.htm) belong to Subclass
+[Sea stars](asteroidea/asteroidea) belong to Subclass
 Asteroidea.   
   
 A cushion star is a roundish sea star with very short arms.  
@@ -72,24 +57,24 @@ A flattened sea urchin with short spines is a sand dollar! It can
 still be divided into five parts. A relative of the sea urchin called
 a heart urchin is more egg-shaped with longer spines. It usually burrows
 in the sand and is rarely seen above ground. [Sea
-urchins](echinoidea/urchin/urchin.htm), [sand dollars](echinoidea/sandollar/sandollar.htm)
-and [heart urchins](echinoidea/hearturchin/hearturchin.htm)
-belong to Class [Echinoidea](echinoidea/echinoidea.htm).  
+urchins](echinoidea/urchin/urchin), [sand dollars](echinoidea/sandollar/sandollar)
+and [heart urchins](echinoidea/hearturchin/hearturchin)
+belong to Class [Echinoidea](echinoidea/echinoidea).  
   
 Imagine a sea urchin that is long like a sausage without any obvious
 spines and you have a sea cucumber! It too can be divided into five
-parts. [Sea cucumbers](holothuroidea/holothuroidea.htm)
+parts. [Sea cucumbers](holothuroidea/holothuroidea)
 belong to Class Holothuroidea.  
   
 A brittle star is like a sea star with long and skinny arms. [Brittle
-stars](ophiuroidea/ophiuroidea.htm) belong to Subclass Ophiuroidea.  
+stars](ophiuroidea/ophiuroidea) belong to Subclass Ophiuroidea.  
   
 A feather star is like a brittle star with many more arms. Instead
 of lying flat against the surface, these arms are held up like branches
 of a bush to gather food from the water. [Feathers
-stars](crinoidea/crinoidea.htm) belong to the Class Crinoidea.  
+stars](crinoidea/crinoidea) belong to the Class Crinoidea.  
   
-All these creatures are echinoderms and belong to the Phylum [Echinodermata](echinodermata.htm).
+All these creatures are echinoderms and belong to the Phylum [Echinodermata](echinodermata).
 
 ![](general/g600c.jpg)  
 Cushion star  
@@ -112,9 +97,9 @@ Sea urchin
 ![](general/g600d.jpg)  
 Heart urchin
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

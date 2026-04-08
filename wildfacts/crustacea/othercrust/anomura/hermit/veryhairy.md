@@ -4,29 +4,29 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "hermit, crab, dardanus, lagopodes, diogenidae, anomura, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../../wildfactsheet3.gif)](../../../../index.html)
+[![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../../index.html)  
+[wildfactsheets homepage](../../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../../animals.htm)
-| [all plants](../../../../plants.htm)
-| [concepts](../../../../concepts/index.html)
-| [glossary](../../../../glossary/index.html)
-| [search](../../../../search.htm)
+[all animals](../../../../animals)
+| [all plants](../../../../plants)
+| [concepts](../../../../concepts/indexl)
+| [glossary](../../../../glossary/indexl)
+| [search](../../../../search)
 
 hermit crabs
-[text index](../../../crustaceaindex.htm#anomurans) | [photo
-index](../../../anomurafi.htm)
-Phylum [Arthropoda](../../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../../crustacea.htm) >
-Class Malacostraca > Order [Decapoda](../../../decapoda.htm)
+[text index](../../../crustaceaindex#anomurans) | [photo
+index](../../../anomurafi)
+Phylum [Arthropoda](../../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../../crustacea) >
+Class Malacostraca > Order [Decapoda](../../../decapoda)
 > Anomurans
-> [hermit crabs](hermit.htm)
+> [hermit crabs](hermit)
 **Very
 hairy hermit crab  
 *Dardanus lagopodes\**Family
@@ -83,7 +83,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 *![](veryhairy/080706sntlksm3.jpg)  
 Sentosa, Jul 08*  
 Photo shared by Lok Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2008/07/seeking-sentosas-natural-treasures.html).
+blog](http://wondercreation.blogspot.com/2008/07/seeking-sentosas-natural-treasuresl).
 
 *![](veryhairy/170529srpjll2.jpg)  
 Sentosa Serapong, May 17*  
@@ -117,7 +117,7 @@ Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=
 *![](veryhairy/110220lazjk6m3.jpg)  
 Lazarus Island, Feb 11*Photo
 shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2011/02/110220-lazarus-and-seringat-kias.html)
+blog](http://sgn090608.blogspot.com/2011/02/110220-lazarus-and-seringat-kiasl)
 
 *![](veryhairy/191127lazky1.jpg)  
 Lazarus Island, Nov 19*Photo
@@ -178,7 +178,7 @@ Big Sisters Island, Jan 20*
 Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10157898593833158&set=a.10157898593278158&type=3&theater).
 
 *![](veryhairy/170129slglks.JPG)*  
-*Terumbu Selegie, Jan 17*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2017/01/cny-day-2-terumbu-selegi.html).
+*Terumbu Selegie, Jan 17*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2017/01/cny-day-2-terumbu-selegil).
 
 ---
 
@@ -256,9 +256,9 @@ flickr](http://www.flickr.com/photos/wildsingapore/4992879985/).
 - *[Dardanus
   lagopodes](http://www.sealifebase.org/summary/SpeciesSummary.php?id=21039)* on SeaLife Base: Technical fact sheet.
 
-[links](../../../../links.htm)
-| [references](../../../../references.htm)
-| [about](../../../../about.htm)
+[links](../../../../links)
+| [references](../../../../references)
+| [about](../../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

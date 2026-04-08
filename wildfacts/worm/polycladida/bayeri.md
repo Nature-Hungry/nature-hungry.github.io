@@ -4,28 +4,15 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "bayers, nymphozoon, bayeri, flat, worm, flatworm,  polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 flatworms
-[text index](../wormindex.htm) | [photo
-index](../polycladidafi.htm)
+[text index](../wormindex) | [photo
+index](../polycladidafi)
 
-[worms](../worm.htm) > Phylum Platyhelminthes >
+[worms](../worm) > Phylum Platyhelminthes >
 Class
-Turbellaria > [Order Polycladida](polycladida.htm)
+Turbellaria > [Order Polycladida](polycladida)
 
 **Bayer's flatworm *Nymphozoon bayeri*****Family Pseudocerotidae***updated
 Feb 2020*
@@ -42,7 +29,7 @@ edge. Underside uniformly greyish with whitish margin next
 to black outer margin. It has a pair of pseudotentacles at the front
 made up of simple folded edges of the body, with white tips.  
   
-**Sometimes mistaken for**  the [Brown-stripe flatworm](brownstripe.htm) which has a paler brown body and does not have inner bright white margins.
+**Sometimes mistaken for**  the [Brown-stripe flatworm](brownstripe) which has a paler brown body and does not have inner bright white margins.
 ![](bayeri/060402ulrd1024m3.jpg)  
 *Pulau Hantu,
 Apr 06*
@@ -87,7 +74,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 ---
 
 ![](bayeri/140518tmlks1m3.JPG)  
-*Tanah Merah, May 14*Shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.com/2014/05/coral-overdose-at-tanah-merah.html).
+*Tanah Merah, May 14*Shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.com/2014/05/coral-overdose-at-tanah-merahl).
 
 *![](bayeri/100104tmlks.jpg)  
 Tanah Merah, Jan 10*Photo
@@ -146,14 +133,4 @@ Grateful thanks to Rene Ong for sharing details and identifying the flatworms on
 - Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018. *A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.* Nature in Singapore 2018 11: 77–125
 - D. M. Bolaños, B. Q. Gan & R. S. L. Ong. 29 Jun 2016. *First records of pseudocerotid flatworms (Platyhelminthes: Polycladida: Cotylea) from Singapore: A taxonomic report with remarks on colour variation*.(pdf) The Raffles Bulletin of Zoology Supplement No. 34: 130-169  Pp. 130-169.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

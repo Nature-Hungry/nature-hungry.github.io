@@ -4,27 +4,14 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "tube, worm, spionid, spionidae, polychaete, annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 worms
-[text index](../wormindex.htm) | [photo
-index](../wormfi.htm)
+[text index](../wormindex) | [photo
+index](../wormfi)
 
-[worms](../worm.htm) > Phylum Annelida >
-Class [Polychaeta](polychaeta.htm)
+[worms](../worm) > Phylum Annelida >
+Class [Polychaeta](polychaeta)
 
 **Spinoid
 worms** **Family
@@ -52,26 +39,26 @@ out regularly, at a distance equalling the length of their tentacles.
 
 ![](spionidae/110731tryd8033m3.jpg)  
 On [Chocolate
-sponge](../../porifera/chocolate.htm). *Terumbu Raya, Jul 11*
+sponge](../../porifera/chocolate). *Terumbu Raya, Jul 11*
 
 ![](spionidae/110731tryd8034m3b.jpg)  
 Tiny short pale tentacles.
 
 ![](spionidae/120124sisd5948m3a.jpg)  
-On [Daisy sponges](../../porifera/coelocarteria.htm). *Sisters Island, Jan 12*
+On [Daisy sponges](../../porifera/coelocarteria). *Sisters Island, Jan 12*
 
 ![](../../porifera/sprawlorange/081212cyrd2927m3a.jpg)  
 On [Orange sprawling
-sponge](../../porifera/sprawlorange.htm).  
+sponge](../../porifera/sprawlorange).  
 *Cyrene Reef, Dec 08*
 
 ![](spionidae/100530tbkd4320m3a.jpg)  
 On [Smooth brown
-sponge](../../porifera/smoothbrown.htm).  
+sponge](../../porifera/smoothbrown).  
 *Terumbu Berkas, May 10*
 
 ![](../../porifera/xestospongia/040803tusd3969m3a.jpg)  
-On [Barrel sponges](../../porifera/xestospongia.htm).  
+On [Barrel sponges](../../porifera/xestospongia).  
 *Tuas, Aug
 04*
 
@@ -107,7 +94,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Links**
 
 - [Family
-  Spionidae polychaetes in New Zealand](http://www.annelida.net/nz/Polychaeta/Family/F-Spionidae.htm) on the NZWA guide to
+  Spionidae polychaetes in New Zealand](http://www.annelida.net/nz/Polychaeta/Family/F-Spionidae) on the NZWA guide to
   polychaetes: technical fact sheet.
 
 **References**
@@ -118,14 +105,4 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
   exclusive of the vertebrates*
   Sea Challengers. 314pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

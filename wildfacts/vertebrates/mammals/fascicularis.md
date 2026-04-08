@@ -4,23 +4,10 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "long, tailed, crab, eating, macaque, monkey, macaca, fascicularis, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 vertebrates [text
-index](../vertindex.htm) | [photo index](../vertfi.htm)
+index](../vertindex) | [photo index](../vertfi)
 Phylum Chordata
 > Subphylum Vertebrata > Class Mammalia
 **Long-tailed macaque** ***Macaca fascicularis*  
@@ -75,7 +62,7 @@ food available to them. When our monkeys switch to human hand outs,
 the forest also suffers as the monkeys no longer play their natural
 role in dispersing seeds and maintaining the natural balance. More
 details about [the
-effects of feeding monkeys](http://www.wildsingapore.com/places/monkey.htm).  
+effects of feeding monkeys](http://www.wildsingapore.com/places/monkey).  
   
 **How can I save the monkeys?** Leave
 them alone. Watch them from a distance and respect their natural diet
@@ -144,14 +131,14 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 **Links**
 
 - [Long-tailed
-  Macaque](http://www.ecologyasia.com/verts/mammals/long-tailed_macaque.htm) on Nick Baker's EcologyAsia website: fact sheet with
+  Macaque](http://www.ecologyasia.com/verts/mammals/long-tailed_macaque) on Nick Baker's EcologyAsia website: fact sheet with
   photos.
 - [Long-tailed
-  Macaque](http://www.wildsingapore.per.sg/discovery/factsheet/macaque.htm) on Chan Kwok Wai's Wildlife Singapore website: fact
+  Macaque](http://www.wildsingapore.per.sg/discovery/factsheet/macaque) on Chan Kwok Wai's Wildlife Singapore website: fact
   sheet with photos
-- [*Macaca fascicularis*](https://singapore.biodiversity.online/taxo4254/mainSpace/Macaca%20fascicularis.html) (Primates: Cercopithecidae) Long-tailed Macaque by Tan Qiao Hao Joys, 2014, on taxo4254.
+- [*Macaca fascicularis*](https://singapore.biodiversity.online/taxo4254/mainSpace/Macaca%20fascicularisl) (Primates: Cercopithecidae) Long-tailed Macaque by Tan Qiao Hao Joys, 2014, on taxo4254.
 - [Why
-  we should not feed the monkeys](http://www.wildsingapore.com/places/monkey.htm)
+  we should not feed the monkeys](http://www.wildsingapore.com/places/monkey)
 
 **References**
 
@@ -165,14 +152,4 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
   of South-East Asia*
   New Holland Publishers. 128 pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

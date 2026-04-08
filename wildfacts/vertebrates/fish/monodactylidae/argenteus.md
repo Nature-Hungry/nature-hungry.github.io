@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "silver, moony, monodactylus, argenteus, monodactylidae, fish, scatophagidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm)
+> Subphylum Vertebrate > [fishes](../fish)
 **Silver
 moony**  
 ***Monodactylus
@@ -53,7 +53,7 @@ fin.
 Being really flat, from the front, the fish looks like a stick! 'Mono'
 means 'one' and 'daktylos' means 'finger'.  
   
-**Sometimes confused with** the [Batfish](../ephippidae/ephippidae.htm).
+**Sometimes confused with** the [Batfish](../ephippidae/ephippidae).
 ![](argenteus/031008sbwrd0042m3.jpg)  
 *Sungei Buloh Wetland Reserve, Oct 03*
 ![](argenteus/031008sbwrad0039m3.jpg)  
@@ -86,7 +86,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ![](argenteus/090510sntik5m3.jpg)  
 *Siloso, May 09*Photo shared by Ivan Kwan on [his
-blog](http://lazy-lizard-tales.blogspot.com/2009/05/finds-with-spines-on-siloso.html).
+blog](http://lazy-lizard-tales.blogspot.com/2009/05/finds-with-spines-on-silosol).
  
  
 
@@ -109,12 +109,12 @@ argenteus* (Silver moony)
 **Links**  
 
 - [Silver
-  Moony (*Monodactylus argenteus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/325.htm) Lim, Kelvin K. P. &
+  Moony (*Monodactylus argenteus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/325) Lim, Kelvin K. P. &
   Jeffrey K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
 - [Silver
-  Moony (*Monodactylus argenteus*)](http://mangrove.nus.edu.sg/guidebooks/text/2110.htm) Ng, Peter K. L. & N.
+  Moony (*Monodactylus argenteus*)](http://mangrove.nus.edu.sg/guidebooks/text/2110) Ng, Peter K. L. & N.
   Sivasothi, 1999. *[A
   Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
   Singapore Science Centre. 168 pp.
@@ -142,9 +142,9 @@ argenteus* (Silver moony)
   Reef Fishes of the World*
   Periplus Editions. 400pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

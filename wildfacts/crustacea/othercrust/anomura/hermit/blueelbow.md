@@ -4,29 +4,29 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "blue, elbow, hermit, crab, paguristes, longirostris, diogenidae, anomura, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../../wildfactsheet3.gif)](../../../../index.html)
+[![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../../index.html)  
+[wildfactsheets homepage](../../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../../animals.htm)
-| [all plants](../../../../plants.htm)
-| [concepts](../../../../concepts/index.html)
-| [glossary](../../../../glossary/index.html)
-| [search](../../../../search.htm)
+[all animals](../../../../animals)
+| [all plants](../../../../plants)
+| [concepts](../../../../concepts/indexl)
+| [glossary](../../../../glossary/indexl)
+| [search](../../../../search)
 
 hermit crabs
-[text index](../../../crustaceaindex.htm#anomurans) | [photo
-index](../../../anomurafi.htm)
-Phylum [Arthropoda](../../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../../crustacea.htm) >
-Class Malacostraca > Order [Decapoda](../../../decapoda.htm)
+[text index](../../../crustaceaindex#anomurans) | [photo
+index](../../../anomurafi)
+Phylum [Arthropoda](../../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../../crustacea) >
+Class Malacostraca > Order [Decapoda](../../../decapoda)
 > Anomurans
-> [hermit crabs](hermit.htm)
+> [hermit crabs](hermit)
 **Blue-elbowed
 hermit crab *Paguristes longirostris\**  
 Family Diogenidae***updated
@@ -47,11 +47,11 @@ feathery tips. Long antennae pale blue.
 
 *![](blueelbow/090626bblks1m3.JPG)  
 Beting Bronok, May 09![](blueelbow/090626bblks2m3.JPG)*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2009/05/of-hermit-and-feather.html).
+blog](http://wondercreation.blogspot.sg/2009/05/of-hermit-and-featherl).
 
 *![](blueelbow/100614bbtch1m3a.jpg)  
 Beting Bronok, Jun 10 ![](blueelbow/090626bblks1m3a.JPG)*Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2010/06/return-to-beting-bronok.html).
+blog](http://colorclouds.blogspot.com/2010/06/return-to-beting-bronokl).
 
   
 *\*Species are
@@ -78,7 +78,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 *![](blueelbow/120703chgcp1mn1m3.jpg)  
 Changi, Jul 12*Photo shared by Marcus Ng on [his
-blog](http://budak.blogs.com/the_annotated_budak/2012/08/hermits.html).
+blog](http://budak.blogs.com/the_annotated_budak/2012/08/hermitsl).
 
 *![](blueelbow/120703chgcp1mn1m3b.jpg)*
 
@@ -104,7 +104,7 @@ Photo shared by Arthur Anker on [flickr](http://www.flickr.com/photos/artour_a/8
 **Links**
 
 - *[Paguristes
-  longirostris](http://www.sealifebase.org/summary/Paguristes-longirostris.html)*  on SeaLife Base: Technical fact sheet.
+  longirostris](http://www.sealifebase.org/summary/Paguristes-longirostrisl)*  on SeaLife Base: Technical fact sheet.
 
 **References**
 
@@ -115,9 +115,9 @@ Photo shared by Arthur Anker on [flickr](http://www.flickr.com/photos/artour_a/8
   of Zoology 2000 Supplement No. 8: 377-404. The National University
   of Singapore.
 
-[links](../../../../links.htm)
-| [references](../../../../references.htm)
-| [about](../../../../about.htm)
+[links](../../../../links)
+| [references](../../../../references)
+| [about](../../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

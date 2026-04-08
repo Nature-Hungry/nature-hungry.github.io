@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "pipefish, pipe, fish, syngnathidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm) >
-Family [Syngnathidae](syngnathidae.htm) > [pipefishes](pipefish.htm)
+> Subphylum Vertebrata > [fishes](../fish) >
+Family [Syngnathidae](syngnathidae) > [pipefishes](pipefish)
 **Seagrass
 pipefish**   
 ***awaiting identification\****  
@@ -55,7 +55,7 @@ Others may be plain.
   
 **Sometimes mistaken for** other fishes that resemble twigs and roots.
 Here's more on [how to tell apart stick-like
-fishes](../cfstick.htm) commonly seen on our shores.
+fishes](../cfstick) commonly seen on our shores.
 
 ![](seagrass/120510chgd2756m3.jpg)  
 *Changi, May 12*
@@ -105,7 +105,7 @@ Very pregnant papa. *Changi, Jun 13*
 Very pregnant papa. *Changi, Apr 09*
 
 **Status and threats:** See [Family
-Sygnathidae](syngnathidae.htm) for threats to pipefishes and seahorses.
+Sygnathidae](syngnathidae) for threats to pipefishes and seahorses.
  *\*Species are difficult to positively identify without close examination
 of small features.   
 On this website, they are grouped by general large external features for
@@ -167,7 +167,7 @@ Photo shared by Richard Kuah on [facebook](https://www.facebook.com/media/set/?s
 ---
 
 ![](seagrass/160706skdjt2.jpg)  
-*Pulau Sekudu, Jul 16* Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2016/07/baby-knobblies-at-pulau-sekudu.html).
+*Pulau Sekudu, Jul 16* Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2016/07/baby-knobblies-at-pulau-sekudul).
 
 ![](seagrass/230803skdtch4.jpg)  
 *Pulau Sekudu, Aug 23*  
@@ -190,7 +190,7 @@ Photo shared by Abel Yeo on [facebook](https://www.facebook.com/photo.php?fbid=1
 *![](seagrass/091010tmjk1m3.jpg)  
 Tanah Merah, Oct 09*Photo
 shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/10/tanah-merah-saron.html).
+blog](http://sgn090608.blogspot.com/2009/10/tanah-merah-saronl).
 
 ![](seagrass/210529epcnvc2.jpg)  
 *East Coast (PCN), May 21*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158497030182945&set=a.10158495877737945).
@@ -202,7 +202,7 @@ blog](http://sgn090608.blogspot.com/2009/10/tanah-merah-saron.html).
 
 ![](seagrass/090510sntik1m3.jpg)  
 *Siloso, May 09*Photo shared by Ivan Kwan on [his
-blog](http://lazy-lizard-tales.blogspot.com/2009/05/finds-with-spines-on-siloso.html)
+blog](http://lazy-lizard-tales.blogspot.com/2009/05/finds-with-spines-on-silosol)
 
 ![](seagrass/070102sismn.jpg)  
 *Sisters Island, Jan 07*Photo shared by Marcus Ng on [flckr](https://www.flickr.com/photos/budak/343963895/).
@@ -248,7 +248,7 @@ shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=101586
 
 ![](seagrass/081211smklks03m3b.jpg)  
 Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2008/12/exploring-southern-semakau.html).
+blog](http://wondercreation.blogspot.com/2008/12/exploring-southern-semakaul).
 
 ![](seagrass/250403smksll1.jpg)  
 *Pulau Semakau (South), Apr 26*Photo shared by Liz Lim on [facebook](https://www.facebook.com/media/set/?vanity=liz.lim.568&set=a.9636465786376674).
@@ -274,9 +274,9 @@ shared by Ng Leekiang on [facebook](https://www.facebook.com/651330988/videos/pc
 
 ---
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

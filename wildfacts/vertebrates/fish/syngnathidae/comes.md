@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
 keywords: "hairy, seahorse, horse, hippocampus, comes, syngnathidae, kuda, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm) >
-Family [Syngnathidae](syngnathidae.htm) > Genus [Hippocampus](hippocampus.htm)
+> Subphylum Vertebrata > [fishes](../fish) >
+Family [Syngnathidae](syngnathidae) > Genus [Hippocampus](hippocampus)
 **Tiger-tailed
 seahorse*****Hippocampus comes***  
 Family Syngnathidae  
@@ -44,8 +44,8 @@ with speckles. The tail is banded black and yellow. There are little
 white dots around the eye and on the cheeks.   
   
 It's difficult to tell this seahorse apart from the [Estuarine
-seahorse](kuda.htm) (*Hippocampus kuda*). More on [how
-to tell apart the Tiger-tail and Estuarine seahorses](cfcomeskuda.htm).
+seahorse](kuda) (*Hippocampus kuda*). More on [how
+to tell apart the Tiger-tail and Estuarine seahorses](cfcomeskuda).
 ![](comes/101221tmfts02254m3.jpg)  
 *Tanah Merah, Dec 10*
 ![](comes/130512sisd6727m6l.jpg)  
@@ -142,7 +142,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ![](comes/090208smklksp16m3.jpg)  
 *Pulau Semakau, Feb 09* Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/02/first-2009-semakau-guided-walk.html).
+blog](http://wondercreation.blogspot.com/2009/02/first-2009-semakau-guided-walkl).
 
 ![](comes/180717smkejh.jpg)  
 *Pulau Semakau East,
@@ -151,12 +151,12 @@ Jul 18*Photo shared by Jose Hong on [facebook](https://www.facebook.com/photo.ph
 ---
 
 ![](comes/100617tsmjk7m3.jpg) *Terumbu Semakau, Jun 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/06/100617-terumbu-bemban-and-terumbu.html).
+blog](http://sgn090608.blogspot.com/2010/06/100617-terumbu-bemban-and-terumbul).
 
 ![](comes/100617tsmklks8m3.jpg)  
 *Terumbu Semakau,
 Jun 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/06/more-bleaching-at-terumbu-semakau.html).
+blog](http://wondercreation.blogspot.com/2010/06/more-bleaching-at-terumbu-semakaul).
 
 ![](comes/130525tsmklks.JPG) *Terumbu Semakau, May 13*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/13989116309/in/album-72157624104220316/).
 
@@ -202,7 +202,7 @@ Raya, Jun 15*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.co
 ![](comes/120409tptnml1m3.jpg)  
 *Terumbu Pempang
 Tengah, Apr 12*Photo shared by Neo Mei Lin on [her
-blog.](http://psychedelic-nature.blogspot.com/2012/04/giant-clams-featured-in-st-papers.html)
+blog.](http://psychedelic-nature.blogspot.com/2012/04/giant-clams-featured-in-st-papersl)
 
 ![](comes/111130trymn.jpg)  
 *Terumbu
@@ -216,7 +216,7 @@ Semakau, Jun 12*Photo shared by Marcus Ng on [facebook](https://www.facebook.com
 
 ![](comes/100617tbtch8m6l.jpg)  
 *Terumbu Bemban, Jun 10*Photo shared by Toh Chay Hoom on [her
-blog](http://colorclouds.blogspot.com/2010/06/patch-reef-hopping.html).
+blog](http://colorclouds.blogspot.com/2010/06/patch-reef-hoppingl).
 
 ![](comes/120511tpljk4m3.jpg)  
 *Terumbu
@@ -231,7 +231,7 @@ blog](https://singaporenature.wordpress.com/2012/06/03/120511/).
   tail seahorse (*Hippocampus comes*)](http://www.fishbase.org/summary/53792) from [FishBase](http://www.fishbase.org/):
   Technical fact sheet.
 - [*Hippocampus
-  comes*](https://singapore.biodiversity.online/taxo4254/mainSpace/Hippocampus%20comes.html)
+  comes*](https://singapore.biodiversity.online/taxo4254/mainSpace/Hippocampus%20comesl)
   (Gasterosteiformes: Syngnathidae) Tiger-tailed seahorse by Lim
   Xinjie, 2011 on taxo4254.
 
@@ -242,9 +242,9 @@ blog](https://singaporenature.wordpress.com/2012/06/03/120511/).
   Red Data Book: Threatened plants and animals of Singapore*.
   Nature Society (Singapore). 285 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

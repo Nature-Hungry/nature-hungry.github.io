@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "flat, worm, flatworm, polyclad, turbellaria, platyhelminthes, pseudoceros, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 flatworms [text
-index](../wormindex.htm) | [photo index](../polycladidafi.htm)
-[worms](../worm.htm)
+index](../wormindex) | [photo index](../polycladidafi)
+[worms](../worm)
 > Phylum Platyhelminthes > Class
-Turbellaria > [Order Polycladida](polycladida.htm)
+Turbellaria > [Order Polycladida](polycladida)
 **Flatworms with one central line  
 How to tell them apart?***updated
 Oct 2019*
@@ -38,7 +25,7 @@ Here's more on how to tell them apart.
 
 ![](lineblue/080524sntd4190m3.jpg)  
 ![](lineblue/080524sntd4190m3a.jpg)  
-**[Blue-lined flatworm](lineblue.htm)**  
+**[Blue-lined flatworm](lineblue)**  
 (*Pseudoceros concinnus*)  
   
 Body colour creamy-white to slightly bluish-creamy-white.  
@@ -50,7 +37,7 @@ Two fine blue lines in the centre, which are so close to one another that they a
 
 ![](lineyellow/031025cjd0042m3.jpg)  
 ![](lineyellow/031025cjd0042m3a.jpg)  
-[**Yellow-lined flatworm**](lineyellow.htm) (Pseudoceros sp. 3)  
+[**Yellow-lined flatworm**](lineyellow) (Pseudoceros sp. 3)  
   
 Body lightly bluish-white to bluish (not solid blue and not white).   
   
@@ -60,9 +47,9 @@ Central line yellow with dark blue border.
 
 ![](linebraid/100528tkklks3m3.jpg)  
 Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/05/my-first-trip-to-pulau-tekukor.html).   
+blog](http://wondercreation.blogspot.com/2010/05/my-first-trip-to-pulau-tekukorl).   
 ![](linebraid/100528tkklks3m3a.jpg)  
-**[Braided-line flatworm](linebraid.htm)** (Pseudoceros sp. 4)  
+**[Braided-line flatworm](linebraid)** (Pseudoceros sp. 4)  
   
 Body bluish-white to bluish (not solid blue and not white).   
   
@@ -72,7 +59,7 @@ Central line is golden-speckled yellow that looks intermittent by some dull oran
 
 ![](bifurcus/031126tusad0089m3.jpg)  
 ![](bifurcus/031126tusad0089m3a.jpg)  
-**[Racing-line flatworm](bifurcus.htm)**  
+**[Racing-line flatworm](bifurcus)**  
 (*Pseudoceros bifurcus*)  
   
 Body solid blue to bluish purple (not bluish-white).   
@@ -84,7 +71,7 @@ or red near the head, the line is edged with a thin dark purple border.
 
 ![](triplestripe/060810rlhd5700m3.jpg)  
 ![](triplestripe/060810rlhd5700m3a.jpg)  
-[**Triple-striped flatworm**](triplestripe.htm)(*Pseudoceros* sp. 5)  
+[**Triple-striped flatworm**](triplestripe)(*Pseudoceros* sp. 5)  
   
 Body white or bluish becoming dark blue at the margin.   
   
@@ -96,7 +83,7 @@ Pseudotentacles all blue, no coloured tips
 
 ![](triplestripe/160124smkelks2.jpg)  
   
-[**Triple-striped flatworm**](triplestripe.htm)(*Pseudoceros* sp. 5)  
+[**Triple-striped flatworm**](triplestripe)(*Pseudoceros* sp. 5)  
   
 Worms with only the centre line clear while the outer two lines are faded may be juveniles of this species.
 
@@ -104,7 +91,7 @@ Worms with only the centre line clear while the outer two lines are faded may be
 
 ![](rubrotentaculatus/060101sisg3571m3.jpg)  
 ![](rubrotentaculatus/060101sisg3571m3a.jpg)  
-[**Ocher-striped flatworm**](rubrotentaculatus.htm)(*Pseudoceros rubrotentaculatus*)  
+[**Ocher-striped flatworm**](rubrotentaculatus)(*Pseudoceros rubrotentaculatus*)  
   
 Body creamy-white with a blue margin.   
   
@@ -123,20 +110,20 @@ These flatworms are much larger, with one central stripe along the length of the
 ---
 
 ![](brownstripe/060305sisg5452m3.jpg)  
-[*Pseudobiceros* sp. 2](brownstripe.htm)   
+[*Pseudobiceros* sp. 2](brownstripe)   
 (Brown-stripe flatworm)
 ![](orsaki/141109lazlks5m3.jpg)  
-[*Nymphozoon orsaki*](orsaki.htm)   
+[*Nymphozoon orsaki*](orsaki)   
 (Orsak's flatworm)
 ![](bayeri/060402ulrd1024m3.jpg)  
-[*Nymphozoon bayeri*](bayeri.htm)   
+[*Nymphozoon bayeri*](bayeri)   
 (Bayer's flatworm)
 
 ---
 
 how to tell apart
 
-- [flatworms and nudibranchs/slugs](../../glossary/flatwormslug.htm)
+- [flatworms and nudibranchs/slugs](../../glossary/flatwormslug)
 
 ---
 
@@ -144,14 +131,4 @@ how to tell apart
 
 - Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018. *A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.* Nature in Singapore 2018 11: 77–125
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

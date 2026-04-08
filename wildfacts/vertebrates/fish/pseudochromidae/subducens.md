@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "carpet, eel, blenny, eelblenny, fish, congrogadus, subducens, pseudochromidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm) >
+> Subphylum Vertebrata > [fishes](../fish) >
 Family Pseudochromidae
 **Carpet
 eel-blenny  
@@ -69,13 +69,13 @@ ones, colours seen include brown, dull to bright green, black and even bluish
 ones.   
   
 **Sometimes mistaken for** [sea
-snakes](../../snakes/hydrophiidae/laticauda.htm) or [eels](../muraenidae/muraenidae.htm) (Family
+snakes](../../snakes/hydrophiidae/laticauda) or [eels](../muraenidae/muraenidae) (Family
 Muraenidae). Here's more on [how
-to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake.htm).
+to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake).
 ![](subducens/040703sisg0982m3.jpg)  
 *Sisters Island, Jul 04*
 ![](subducens/120506sisd1191m6l.jpg)  
-Tiny one hunting among [Hairy green seaweed](../../../plants/seaweed/chlorophyta/bryopsis.htm) and [Bryopsis slugs](../../../mollusca/slugs/sacoglossa/bryopsis.htm). *Sisters Island, May 12*
+Tiny one hunting among [Hairy green seaweed](../../../plants/seaweed/chlorophyta/bryopsis) and [Bryopsis slugs](../../../mollusca/slugs/sacoglossa/bryopsis). *Sisters Island, May 12*
 *![](subducens/040703sisd1598m6l.jpg)*Dorsal, anal and tail fins are continuous. *Sisters Island, Jul 04*
 ![](subducens/040703sisg0982m3a.jpg)  
 Large mouth, large eyes, large gill covers. *Sisters Island, Jul 04*
@@ -84,12 +84,12 @@ preys on small fish, crabs and shrimps. It usually hunts alone.
   
 **Eel-blenny babies:** Carpet eel-blennies
 lay their eggs in small clumps.
-*![](subducens/090822sisd9645m3a.jpg)*Caught a [Tropical silverside](../atherinidae/duodecimalis.htm). *Sisters Island, Aug 09*
+*![](subducens/090822sisd9645m3a.jpg)*Caught a [Tropical silverside](../atherinidae/duodecimalis). *Sisters Island, Aug 09*
 ![](subducens/160608cyrlks6.JPG)  
-Caught a [Diamond tuskfish](../labridae/dussumieri.htm).   
+Caught a [Diamond tuskfish](../labridae/dussumieri).   
 *Cyrene Reef, Jun 16*   
 Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2016/06/coral-bleaching-at-cyrene-reef.html).
+blog](http://wondercreation.blogspot.com/2016/06/coral-bleaching-at-cyrene-reefl).
 *![](subducens/100528tkkjk.jpg)*Doesn't appear to have lots of sharp teeth. *Pulau Tekukor, May 10*Photo shared by James Koh on [flickr](https://www.flickr.com/photos/jameskoh/4647294598/).
 **Human uses:** Although large, the
 Carpet eel-blenny is not eaten by people. It is, however, harvested
@@ -153,13 +153,13 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ![](subducens/090808tmtch1m3.jpg)  
 *Tanah Merah, Aug 09*Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2009/08/no-uncle-i-am-not-waiting-for.html).
+blog](http://colorclouds.blogspot.com/2009/08/no-uncle-i-am-not-waiting-forl).
 
 *![](subducens/091218tmlks3m3.JPG)  
 Tanah Merah,
 Dec 09*Photo
 shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/12/tanah-merah-brightly-led.html).
+blog](http://wondercreation.blogspot.com/2009/12/tanah-merah-brightly-ledl).
 
 ---
 
@@ -173,7 +173,7 @@ blog](http://wondercreation.blogspot.com/2009/12/tanah-merah-brightly-led.html).
 
 ![](subducens/100420snttch1m3.jpg)  
 *Sentosa, Apr 10*Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2010/04/back-to-sentosa-tanjong-rimau.html).
+blog](http://colorclouds.blogspot.com/2010/04/back-to-sentosa-tanjong-rimaul).
 
 ---
 
@@ -183,7 +183,7 @@ flickr](http://www.flickr.com/photos/budak/4792497527/).
 
 ![](subducens/080509cyrlks01m3.jpg)  
 *Cyrene Reef, May 08*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2008/05/another-fantastic-trip-out-at-cyrene.html).
+blog](http://wondercreation.blogspot.com/2008/05/another-fantastic-trip-out-at-cyrenel).
 
 *![](subducens/250726cyrlks3.jpg)*  
 *Cyrene, Jul 25*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163071519108158&type=3&ref=embed_post).
@@ -191,8 +191,8 @@ blog](http://wondercreation.blogspot.com/2008/05/another-fantastic-trip-out-at-c
 ---
 
 ![](subducens/160608cyrlks5.JPG)  
-Caught a [Diamond tuskfish](../labridae/dussumieri.htm).  *Cyrene Reef, Jun 16*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2016/06/coral-bleaching-at-cyrene-reef.html).
+Caught a [Diamond tuskfish](../labridae/dussumieri).  *Cyrene Reef, Jun 16*Photo shared by Loh Kok Sheng on [his
+blog](http://wondercreation.blogspot.com/2016/06/coral-bleaching-at-cyrene-reefl).
 
 ---
 
@@ -203,7 +203,7 @@ blog](http://wondercreation.blogspot.com/2016/06/coral-bleaching-at-cyrene-reef.
 *Pulau Jong, Apr 11*Photo shared by Russel Low on [facebook](http://www.facebook.com/media/set/fbx/?set=a.179471578770909.56323.109257872458947).
 
 ![](subducens/110619tslgjk6m3.jpg) *Terumbu Selegie, Jun 11*Photo shared byJames Koh on [his
-blog](http://sgn090608.blogspot.com/2011/06/110619-terumbu-selegi.html).
+blog](http://sgn090608.blogspot.com/2011/06/110619-terumbu-selegil).
 
 ---
 
@@ -225,11 +225,11 @@ blog](http://sgn090608.blogspot.com/2011/06/110619-terumbu-selegi.html).
 
 ![](subducens/100403tbbtch3m3.jpg)  
 *Beting Bemban Besar, Apr 10*Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2010/04/hot-and-sunny-beting-bemban-besar.html).
+blog](http://colorclouds.blogspot.com/2010/04/hot-and-sunny-beting-bemban-besarl).
 
 ![](subducens/110522bbblks8m3.jpg)  
 *Beting Bemban Besar, May 11*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/05/knobblies-at-beting-bemban-besar.html).
+blog](http://wondercreation.blogspot.com/2011/05/knobblies-at-beting-bemban-besarl).
 
 ![](subducens/110422tbmro1m3.jpg)  
 *Terumbu Bemban, Apr 11*Photo shared by Rene Ong on [facebook](http://www.facebook.com/media/set/fbx/?set=a.161983543861352.37680.133291903397183).
@@ -238,7 +238,7 @@ blog](http://wondercreation.blogspot.com/2011/05/knobblies-at-beting-bemban-besa
 
 ![](subducens/080804rlhlks02m3.jpg)  
 *Raffles Lighthouse, Aug 08*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2008/08/reef-animals-of-raffles-lighthouse.html).
+blog](http://wondercreation.blogspot.com/2008/08/reef-animals-of-raffles-lighthousel).
 
 ![](subducens/100531biojk.jpg)  
 *Pulau Biola, May 10*Photo shared by James Koh on [flickr](https://www.flickr.com/photos/jameskoh/4656112194/).
@@ -268,7 +268,7 @@ ransonneti* (Yellowbelly dottyback) *\*Congrogadus subducens* (Carpet eel-blenny
 **Links**  
 
 - [Carpet
-  eel-blenny (*Congrogadus subducens*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/306.htm) Lim, Kelvin K. P.
+  eel-blenny (*Congrogadus subducens*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/306) Lim, Kelvin K. P.
   & Jeffrey K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/).* Singapore
   Science Centre. 163 pp.
@@ -296,9 +296,9 @@ ransonneti* (Yellowbelly dottyback) *\*Congrogadus subducens* (Carpet eel-blenny
   Reef Fishes of the World*
   Periplus Editions. 400pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

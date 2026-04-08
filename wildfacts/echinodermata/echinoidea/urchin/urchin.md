@@ -4,28 +4,28 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "urchin, echinoid, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![](../../../../Templates/fornatureguides.gif)](../../fngechinoidea.htm)
+[![](../../../../Templates/fornatureguides.gif)](../../fngechinoidea)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 echinoids
-[text index](../../echinodermindex.htm#echinoidea) |
-[photo index](../../echinoideafi2.htm)
-Phylum [Echinodermata](../../../../wildshores/echinodermata/echinoidea/echinodermata.htm)
-| Class [Echinodea](../echinoidea.htm)
+[text index](../../echinodermindex#echinoidea) |
+[photo index](../../echinoideafi2)
+Phylum [Echinodermata](../../../../wildshores/echinodermata/echinoidea/echinodermata)
+| Class [Echinodea](../echinoidea)
 **Sea
 urchins**   
 *updated
@@ -46,8 +46,8 @@ undisturbed shores. But even on a well used shore such as Changi,
 they can be seasonally abundant.  
   
 **What are sea urchins?** Sea urchins
-belong to Phylum [Echinodermata](../../echinodermata.htm) and Class [Echinoidea](../echinoidea.htm) which includes [heart urchins](../hearturchin/hearturchin.htm) and [sand
-dollars](../sandollar/sandollar.htm).   
+belong to Phylum [Echinodermata](../../echinodermata) and Class [Echinoidea](../echinoidea) which includes [heart urchins](../hearturchin/hearturchin) and [sand
+dollars](../sandollar/sandollar).   
   
 **Features:** Like other echinoderms,
 sea urchins are symmetrical along five axes, have tube feet and spines.   
@@ -124,7 +124,7 @@ is on the opposite side of its mouth, on the upperside of its body.
   
 **What do they eat?** Most sea urchins
 graze on seaweed, detritus from hard surfaces or on immobile creatures
-such as [sponges](../../../porifera/porifera.htm) or encrusting
+such as [sponges](../../../porifera/porifera) or encrusting
 animals.  
   
 The crunching of feeding sea urchins can be very loud! As sea urchins
@@ -135,7 +135,7 @@ A study has found that reef fish and crab species swim towards underwater
 sound, thus noise generated around the coast plays an important role
 in guiding baby fish and crustaceans to a suitable habitat in which
 they can settle. Here's [more
-about this study](http://wildshores.blogspot.com/2008/08/din-of-dining-urchins.html).  
+about this study](http://wildshores.blogspot.com/2008/08/din-of-dining-urchinsl).  
   
 **Baby sea urchins:** Sea urchins
 have separate genders and are usually either male or female. They
@@ -159,10 +159,10 @@ in large numbers. *Cyrene Reef, Apr 07*
 Some sea urchins 'carry' stuff. *Beting Bronok, May 06*
 **Prickly home:** Sea urchins with
 their prickly spines offer a safe hiding place for various animals.
-Including some fishes such as the [Razorfishes](../../../vertebrates/fish/centriscidae/centriscidae.htm) (Family Centriscidae) and a [strange worm-like
-thing](temnopleurus.htm) often found around the mouth of some sea urchins. Sometimes,
+Including some fishes such as the [Razorfishes](../../../vertebrates/fish/centriscidae/centriscidae) (Family Centriscidae) and a [strange worm-like
+thing](temnopleurus) often found around the mouth of some sea urchins. Sometimes,
 tiny colourful brittle stars are seen on the [spines
-of some sea urchins](prionocidaris.htm).  
+of some sea urchins](prionocidaris).  
   
 **Role in the habitat:** Grazing sea
 urchins keep seaweed growth in check. An excessive seaweed 'bloom'
@@ -171,7 +171,7 @@ Thus sea urchins help to maintain the balance. If there are too many
 seaweeds on a reef, for example, baby corals can't find a place to
 settle down. More about the role of seaweeds, baby corals and animals
 that eat seaweeds on the [wild
-shores of singapore blog](http://wildshores.blogspot.com/2008/09/seaweeds-wage-chemical-warfare-on.html)  
+shores of singapore blog](http://wildshores.blogspot.com/2008/09/seaweeds-wage-chemical-warfare-onl)  
   
 Despite their spines, sea urchins are preyed upon by many creatures
 including crabs, fishes and birds.
@@ -179,12 +179,12 @@ including crabs, fishes and birds.
 Hole with 'burn'
 mark suggests the urchin
 was attacked by a [Helmet
-snail](../../../mollusca/gastropoda/cassidae/cassidae.htm). *Changi, May 08*
+snail](../../../mollusca/gastropoda/cassidae/cassidae). *Changi, May 08*
 *![](temnopleurus/050607chgg7287m3.jpg)*Worm-like animal often seen around the  
-mouth of the [Black sea urchin](temnopleurus.htm) *Changi, Jun 05* 
+mouth of the [Black sea urchin](temnopleurus) *Changi, Jun 05* 
 ![](diadema/130628thntlks.JPG)  
 Fishes among the spines of an urchin. *Terumbu
-Hantu, Jun 13*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2013/06/first-visit-to-terumbu-hantu.html).
+Hantu, Jun 13*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2013/06/first-visit-to-terumbu-hantul).
 **Humans uses:** The roe (egg mass)
 of some sea urchins are relished as a Japanese delicacy and sea urchins
 are commercially harvested for this reason in various parts of the
@@ -210,32 +210,32 @@ urchins on Singapore shores**
 ---
 
 ![](prionocidaris/080507skdd2542m3.jpg)  
-[**Thorny sea urchin**](prionocidaris.htm)
+[**Thorny sea urchin**](prionocidaris)
 
 ![](prionocidaris/030619bbd0219m3.jpg)  
-[**Thorny sea urchin**](prionocidaris.htm)
+[**Thorny sea urchin**](prionocidaris)
 
-*![](temnopleurus/040702chgg0947m3.jpg)*[**Black sea urchin**](temnopleurus.htm)
+*![](temnopleurus/040702chgg0947m3.jpg)*[**Black sea urchin**](temnopleurus)
 
 ---
 
 ![](salmacis/080506chgd2260m3.jpg)  
-[**White salmacis urchin**](salmacis.htm)
+[**White salmacis urchin**](salmacis)
 
-*![](virgulata/060529chgd2487m3.jpg)*[**Passion salmacis urchin**](virgulata.htm)
+*![](virgulata/060529chgd2487m3.jpg)*[**Passion salmacis urchin**](virgulata)
 
 ![](bicolor/090528mecpd2807m3.jpg)  
-[**Two-toned salmacis urchin**](bicolor.htm)
+[**Two-toned salmacis urchin**](bicolor)
 
 ---
 
 ![](diadema/070602sjig9851m3.jpg)  
-**[Diadema sea urchin](diadema.htm)**
+**[Diadema sea urchin](diadema)**
 
 ![](diadema/080605hntd4927m3.jpg)  
-**[Diadema sea urchin](diadema.htm)**
+**[Diadema sea urchin](diadema)**
 
-![](diadema/080608cyrd5418m3.jpg) **[Diadema sea urchin](diadema.htm)**
+![](diadema/080608cyrd5418m3.jpg) **[Diadema sea urchin](diadema)**
 
 ---
 
@@ -255,7 +255,7 @@ plants and animals of Singapore*.\*\*from [WORMS](http://www.marinespecies.org/)
 Cidaridae**
  
 [*Prionocidaris*
-sp.](prionocidaris.htm) (Thorny sea urchin) with
+sp.](prionocidaris) (Thorny sea urchin) with
 species recorded for Singapore
   
  
@@ -263,7 +263,7 @@ species recorded for Singapore
 Diadematidae**
  
 *\*Chaetodiadema granulatum* (EN:
-Endangered) [*Diadema* sp.](diadema.htm) (Long-spined black sea urchin) with species
+Endangered) [*Diadema* sp.](diadema) (Long-spined black sea urchin) with species
 recorded for Singapore *\*Echinothrix diadema* 
   
  
@@ -280,8 +280,8 @@ Temnopleuridae**
 *+Mespilia globulus  
   
 Paratrema
-doederleini*[*Salmacis* sp.](salmacis.htm) (White sea
-urchin) with species recorded for Singapore.[*Temnopleurus* sp.](temnopleurus.htm) (Black
+doederleini*[*Salmacis* sp.](salmacis) (White sea
+urchin) with species recorded for Singapore.[*Temnopleurus* sp.](temnopleurus) (Black
 sea urchin) with species recorded for Singapore.
 
 ---
@@ -289,7 +289,7 @@ sea urchin) with species recorded for Singapore.
 **Links**
 
 - [Class
-  Echinoidea](http://mangrove.nus.edu.sg/pub/seashore/text/223.htm) Tan, Leo W. H. & Ng, Peter K. L., 1988. *A Guide
+  Echinoidea](http://mangrove.nus.edu.sg/pub/seashore/text/223) Tan, Leo W. H. & Ng, Peter K. L., 1988. *A Guide
   to Seashore Life*. The Singapore Science Centre, Singapore.
   160 pp.
 - [The
@@ -300,17 +300,17 @@ sea urchin) with species recorded for Singapore.
 - From the
   wild shores of singapore blog
   - [Sea
-    urchin secrets: biomineralization and other discoveries](http://wildshores.blogspot.com/2008/10/sea-urchin-secrets-biomineralization.html)
+    urchin secrets: biomineralization and other discoveries](http://wildshores.blogspot.com/2008/10/sea-urchin-secrets-biomineralizationl)
   - [Insight
-    into 'uni': sea urchin gonads](http://wildshores.blogspot.com/2008/09/insight-into-uni-sea-urchin-gonads.html)
+    into 'uni': sea urchin gonads](http://wildshores.blogspot.com/2008/09/insight-into-uni-sea-urchin-gonadsl)
   - [Seaweeds
-    wage chemical warfare on corals](http://wildshores.blogspot.com/2008/09/seaweeds-wage-chemical-warfare-on.html)
+    wage chemical warfare on corals](http://wildshores.blogspot.com/2008/09/seaweeds-wage-chemical-warfare-onl)
   - [Din
-    of dining urchins](http://wildshores.blogspot.com/2008/08/din-of-dining-urchins.html) how sea urchins are responsible for
+    of dining urchins](http://wildshores.blogspot.com/2008/08/din-of-dining-urchinsl) how sea urchins are responsible for
     most of the noise on some reefs and how this noise guides
     young crabs and other marine life to a suitable habitat
   - [Eye
-    and tooth of urchin](http://wildshores.blogspot.com/2009/12/eye-and-tooth-of-urchin.html) the urchin might be one giant compound
+    and tooth of urchin](http://wildshores.blogspot.com/2009/12/eye-and-tooth-of-urchinl) the urchin might be one giant compound
     eye, and its tooth is sort of a giant crystal.
 
 **References**
@@ -371,9 +371,9 @@ sea urchin) with species recorded for Singapore.
   Coral Reef Field Guide![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
   Tropical Reef Research. 378pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

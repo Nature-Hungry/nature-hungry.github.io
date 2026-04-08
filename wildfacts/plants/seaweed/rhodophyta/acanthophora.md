@@ -9,22 +9,22 @@ layout: default
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 red
-seaweeds [text index](../seaweedindex.htm#rhodophyta)
-| [photo index](../seaweedfi.htm)
+seaweeds [text index](../seaweedindex#rhodophyta)
+| [photo index](../seaweedfi)
 
-[Seaweeds](../seaweed.htm)
-> Division [Rhodophyta](rhodophyta.htm)
+[Seaweeds](../seaweed)
+> Division [Rhodophyta](rhodophyta)
 **Spiny
 red seaweed   
 *Acanthophora*
@@ -139,12 +139,12 @@ Acanthophora spicifera*
 **Links**
 
 - *[Acanthophora
-  spicifera](http://www.hawaii.edu/reefalgae/invasive_algae/rhodo/acanthophora_spicifera.htm)* from
+  spicifera](http://www.hawaii.edu/reefalgae/invasive_algae/rhodo/acanthophora_spicifera)* from
   [Marine
-  Algae of Hawai`i](http://www.hawaii.edu/reefalgae/default.htm) on the University of Hawai`i Botany Department
+  Algae of Hawai`i](http://www.hawaii.edu/reefalgae/default) on the University of Hawai`i Botany Department
   website: fact sheet with photos.
 - *[Acanthophora
-  spicifera](http://www.sms.si.edu/IRLSpec/Acanth_spicif.htm)*
+  spicifera](http://www.sms.si.edu/IRLSpec/Acanth_spicif)*
   by the Smithsonian Marine Station at Fort Pierce: fact sheet with
   photos.
 - [*Acanthophora*](http://www.algaebase.org/search/genus/detail/?genus_id=33926) on [AlgaeBase](http://www.algaebase.org/): Technical
@@ -186,9 +186,9 @@ FREE photos of
 seaweeds](http://www.flickr.com/photos/54527470@N00/sets/72157600031841176).  
 Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

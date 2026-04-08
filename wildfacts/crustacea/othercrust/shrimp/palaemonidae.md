@@ -4,29 +4,29 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "commensal, anemone, shrimp, periclimenes, palaemonid, palaemonidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![talking points for nature guides](../../../../Templates/fornatureguides.gif)](../../fngshrimps.htm)
+[![talking points for nature guides](../../../../Templates/fornatureguides.gif)](../../fngshrimps)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 shrimps [text
-index](../../crustaceaindex.htm#shrimps) | [photo index](../../shrimpfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> [prawns and shrimps](shrimp.htm)
+index](../../crustaceaindex#shrimps) | [photo index](../../shrimpfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> [prawns and shrimps](shrimp)
 **Palaemonid shrimps** **Family Palaemonidae**  
 *updated
 Jan 2020*
@@ -34,7 +34,7 @@ Jan 2020*
 ---
 
 **What
-are Palaemonid shrimps?** Palaemonid shrimps are [crustaceans](../../crustacea.htm) that belong
+are Palaemonid shrimps?** Palaemonid shrimps are [crustaceans](../../crustacea) that belong
 to Family Palaemonidae.    
 **Features:** This family is large and includes a wide range of shimps found in a wide range of habitats. On our shores, these include tiny (1-3cm) shrimps seen living on other animals such as sea anemones,
 sea cucumbers, feather stars, and hard and soft corals. Some are also seen in small
@@ -44,13 +44,13 @@ night and when their host is submerged.
 ![](../../../echinodermata/holothuroidea/colochirus/050821bbg1857m3b.jpg)  
 About 1cm, several seen on   
 a [Thorny
-sea cucumber](../../../echinodermata/holothuroidea/colochirus.htm).  
+sea cucumber](../../../echinodermata/holothuroidea/colochirus).  
 *Beting Bronok, Aug 05*
 ![](other/050524cftg6598m3b.jpg)  
 About 1cm, a
 pair seen on   
 a [Flowery
-sea pen](../../../cnidaria/others/pennatulacea/veretillidae.htm).  
+sea pen](../../../cnidaria/others/pennatulacea/veretillidae).  
 *Changi, May 05*
  
 
@@ -61,19 +61,19 @@ shrimps on Singapore shores**
 
 ---
 
-***![](brevicarpalis/040731kusd3491m3.jpg)* [Peacock-tail anemone shrimp](brevicarpalis.htm)**
+***![](brevicarpalis/040731kusd3491m3.jpg)* [Peacock-tail anemone shrimp](brevicarpalis)**
 
-**![](carpet/050621skdg8007m3.jpg)[Tiny carpet anemone shrimp](carpet.htm)**
+**![](carpet/050621skdg8007m3.jpg)[Tiny carpet anemone shrimp](carpet)**
 
-*![](holthuisi/130626chgd8741m3.jpg)***['Gelek' anemone shrimp](holthuisi.htm)**
+*![](holthuisi/130626chgd8741m3.jpg)***['Gelek' anemone shrimp](holthuisi)**
 
 ---
 
-**![](rednose/060527sjig6054m3.jpg) [Little red nose shrimp](rednose.htm)**
+**![](rednose/060527sjig6054m3.jpg) [Little red nose shrimp](rednose)**
 
-***![](coralliocaris/110126hntd5201m3.jpg)*[Machine gun coral shrimp](coralliocaris.htm)**
+***![](coralliocaris/110126hntd5201m3.jpg)*[Machine gun coral shrimp](coralliocaris)**
 
-*![](palaemon/060527sjig6099m3.jpg)***[Glass shrimp](palaemon.htm)**
+*![](palaemon/060527sjig6099m3.jpg)***[Glass shrimp](palaemon)**
 
 ---
 
@@ -94,7 +94,7 @@ On this website, they are grouped by external features for convenience
 of display.*
  
 [Carpet
-anemone shrimp](carpet.htm) [Red nose shrimps](rednose.htm)
+anemone shrimp](carpet) [Red nose shrimps](rednose)
   
  
 **Family
@@ -106,13 +106,13 @@ custos
 Anchistus miersi  
   
 ^Ancylomenes aesopius=Periclimenes aesopius  
-++[Ancylocaris brevicarpalis](brevicarpalis.htm)= Periclimenes brevicarpalis* (Peacock-tail anemone shrimp) *+[Ancylomenes holthuisi](holthuisi.htm)* ('Gelek'
+++[Ancylocaris brevicarpalis](brevicarpalis)= Periclimenes brevicarpalis* (Peacock-tail anemone shrimp) *+[Ancylomenes holthuisi](holthuisi)* ('Gelek'
 anemone shrimp)=*Periclimenes holthuisi  
   
 ++Brucecaris tenuis* (commensal with feather stars) *Conchodytes monodactylus  
 ++Conchodytes placunae   
   
-[Coralliocaris graminea](coralliocaris.htm)* (Machine
+[Coralliocaris graminea](coralliocaris)* (Machine
 gun shrimp) *++Cristimenes commensalis* (commensal with feather stars) *++Cristimenes cristimanus=Periclimenes cristimanus* (Black
 urchin shrimp) (VU: Vulnerable) *^Cuapetes amymone=Periclimenes amymone  
 ^Cuapetes calmani=Periclimenes calmani  
@@ -151,7 +151,7 @@ Macrobrachium trompii
 ++Manipontonia paeneglabra  
 ++Manipontonia psamathe  
   
-\**[*Palaemon* sp.](palaemon.htm) (Glass shrimp) *++Palaemon semmelinkii  
+\**[*Palaemon* sp.](palaemon) (Glass shrimp) *++Palaemon semmelinkii  
 ++Palaemon serrifer  
 ++Palaemon aff. sewelli   
   
@@ -189,7 +189,7 @@ Periclimenes suvaensis
 **Links**  
 
 - [Glass
-  Shrimp (*Periclimenes*)](http://mangrove.nus.edu.sg/pub/seashore/text/180.htm)
+  Shrimp (*Periclimenes*)](http://mangrove.nus.edu.sg/pub/seashore/text/180)
   Tan, Leo W. H. & Ng, Peter K. L., 1988, *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
@@ -222,9 +222,9 @@ Periclimenes suvaensis
   Journal of the Faculty of Agriculture, Kyushu University 14.3
   (1968): 399-431.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

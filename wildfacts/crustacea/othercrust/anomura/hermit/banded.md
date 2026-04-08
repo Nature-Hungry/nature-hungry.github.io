@@ -5,29 +5,29 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "banded, hermit, crab, pseudopaguristes, monoporus, diogenidae, anomura, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../../wildfactsheet3.gif)](../../../../index.html)
+[![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../../index.html)  
+[wildfactsheets homepage](../../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../../animals.htm)
-| [all plants](../../../../plants.htm)
-| [concepts](../../../../concepts/index.html)
-| [glossary](../../../../glossary/index.html)
-| [search](../../../../search.htm)
+[all animals](../../../../animals)
+| [all plants](../../../../plants)
+| [concepts](../../../../concepts/indexl)
+| [glossary](../../../../glossary/indexl)
+| [search](../../../../search)
 
 hermit crabs
-[text index](../../../crustaceaindex.htm#anomurans) | [photo
-index](../../../anomurafi.htm)
-Phylum [Arthropoda](../../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../../crustacea.htm) >
-Class Malacostraca > Order [Decapoda](../../../decapoda.htm)
+[text index](../../../crustaceaindex#anomurans) | [photo
+index](../../../anomurafi)
+Phylum [Arthropoda](../../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../../crustacea) >
+Class Malacostraca > Order [Decapoda](../../../decapoda)
 > Anomurans
-> [hermit crabs](hermit.htm)
+> [hermit crabs](hermit)
 **Banded hermit crab *Pseudopaguristes monoporus\**** **Family Diogenidae** *updated Jan 2020*
 
 ---
@@ -76,7 +76,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 *![](banded/110120pgllks.JPG)  
 Punggol, Jan 11*  
-Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2011/01/punggol-shore-is-alive.html).
+Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2011/01/punggol-shore-is-alivel).
 
 *![](banded/200113chgmn2.jpg)  
 Changi, Jan 20*  
@@ -90,9 +90,9 @@ Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=1
 *![](banded/150705skdmn.jpg)* *Pulau Sekudu, Jul 15*  
 Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/19237168234/).
 
-[links](../../../../links.htm)
-| [references](../../../../references.htm)
-| [about](../../../../about.htm)
+[links](../../../../links)
+| [references](../../../../references)
+| [about](../../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

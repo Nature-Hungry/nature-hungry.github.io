@@ -4,21 +4,6 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "worm, tube, tubeworm, fan, fanworm, peacock, anemone, polychaeta, sabellidae, ceriantharia, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](index.html)
-| [search](../search.htm)
-
 **Animals
 that live in soft tubes  
 How to tell them apart?***updated Apr 2020*
@@ -39,11 +24,11 @@ the animals that create these tubes.
 
 *![](../cnidaria/others/ceriantharia/common/020711chd1962m3.jpg)*
 
-**[Fanworms](../worm/polychaeta/sabellidae.htm)**
+**[Fanworms](../worm/polychaeta/sabellidae)**
 
-**[Tubeworms](../worm/tubeworm/tubeworms.htm)**
+**[Tubeworms](../worm/tubeworm/tubeworms)**
 
-**[Cerianthids](../cnidaria/others/ceriantharia/ceriantharia.htm)**
+**[Cerianthids](../cnidaria/others/ceriantharia/ceriantharia)**
 
 Fanworms have
 a fan of feathery tentacles that sticks out of the tube while the
@@ -64,7 +49,7 @@ to Phylum Annelida, Class Polychaeta and most of those we see on the
 shores belong to Family Sabellidae.
 Tubeworms may
 belong to many different groups. Most of those we see on the shores
-are [bristleworms](../worm/polychaeta/polychaeta.htm) that
+are [bristleworms](../worm/polychaeta/polychaeta) that
 belong to Phylum Annelida, Class Polychaeta.
 Cerianthids are
 related to anemones and hard corals. They belong to Phylum Cnidaria,
@@ -78,13 +63,13 @@ comparisons**
 ---
 
 *![](../worm/polychaeta/sabellidae/spotted/090529prpd2885m3.jpg)*  
-[Fanworms](../worm/polychaeta/sabellidae.htm) have a segmented body.
+[Fanworms](../worm/polychaeta/sabellidae) have a segmented body.
 
 ![](../worm/polychaeta/diopatra/040702chgg0938m3.jpg)  
-[Tubeworms](../worm/tubeworm/tubeworms.htm) often have   
+[Tubeworms](../worm/tubeworm/tubeworms) often have   
 long tentacles on their heads.
 
-*![](../cnidaria/others/ceriantharia/common/030630chgd0121m3.jpg)*[Cerianthids](../cnidaria/others/ceriantharia/ceriantharia.htm) have a long,   
+*![](../cnidaria/others/ceriantharia/common/030630chgd0121m3.jpg)*[Cerianthids](../cnidaria/others/ceriantharia/ceriantharia) have a long,   
 unsegmented body column.
 
 *![](../worm/polychaeta/sabellidae/white/050806skdg0543m3.jpg)*  
@@ -95,16 +80,16 @@ is made up of two parts.
 *![](../worm/polychaeta/diopatra/050823chgg2333m3.jpg)*Tube of a tubeworm washed ashore*.*
 
 ![](../worm/phoronida/phoronida/030630chgd0017m3.jpg)  
-The black feathery animals found near cerianthids are [Phoronids](../worm/phoronida/phoronida.htm) and not fanworms.
+The black feathery animals found near cerianthids are [Phoronids](../worm/phoronida/phoronida) and not fanworms.
 
 ---
 
 how to tell apart [animals
-that create hard tubes](tubehard.htm)
+that create hard tubes](tubehard)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

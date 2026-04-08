@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "coffee, coffea, rubiaceae, tree, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
+[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 plants
-[text index](../../plantindex.htm) | [photo
-index](../../plantfi.htm)
+[text index](../../plantindex) | [photo
+index](../../plantfi)
 
 [coastal
-plants](../../coastal/coastalplants.htm) 
+plants](../../coastal/coastalplants) 
 ****Coffee
   
 *Coffea* sp.**  
@@ -50,7 +50,7 @@ inside the berries which are the beans used to make our coffee!
 **Civet-processed coffee:** 'Kopi
 Luwak' is a type of expensive gourmet coffee, possibly the most expensive.
 It is made from coffee beans that have been 'processed' by a [Common
-palm civet](../../../vertebrates/mammals/hermaphroditus.htm) (*Paradoxurus hermaphroditus*). Yes, the civet
+palm civet](../../../vertebrates/mammals/hermaphroditus) (*Paradoxurus hermaphroditus*). Yes, the civet
 cat eats the coffee beans, which passes out and are collected to be
 made into coffee for humans to drink!   
  **Human uses:** This story of coffee is as rich and interesting
@@ -85,9 +85,9 @@ Dec 09*
 
 **Links**
 
-- [Coffee](http://www.hort.purdue.edu/newcrop/Crops/Coffee.html)
+- [Coffee](http://www.hort.purdue.edu/newcrop/Crops/Coffeel)
   and *[Coffea
-  arabica](http://www.hort.purdue.edu/newcrop/duke_energy/Coffea_arabica.html)* New Crop Resource Online Program at Purdue University.
+  arabica](http://www.hort.purdue.edu/newcrop/duke_energy/Coffea_arabical)* New Crop Resource Online Program at Purdue University.
 - [The
   story of coffee](http://www.ico.org/coffee_story.asp) on the International Coffee Organization website.
 
@@ -95,16 +95,16 @@ Dec 09*
 
 - Hsuan Keng,
   S.C. Chin and H. T. W. Tan. 1990, *[The
-  Concise Flora of Singapore: Gymnosperms and Dicotyledons](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FConcise-Flora-Singapore-Gymnosperms-Dicotyledons%2Fdp%2F9971691353%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580156%26sr%3D8-2&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
+  Concise Flora of Singapore: Gymnosperms and Dicotyledons](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FConcise-Flora-Singapore-Gymnosperms-Dicotyledons%2Fdp%2F9971691353%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580156%26sr%3D8-2&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
   Singapore University Press. 222 pp.
 - Corners,
   E. J. H., 1997. *[Wayside
-  Trees of Malaya: in two volumes](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FWAYSIDE-TREES-MALAYA-2-Volumes%2Fdp%2FB000H9ABCG%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175578169%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
+  Trees of Malaya: in two volumes](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FWAYSIDE-TREES-MALAYA-2-Volumes%2Fdp%2FB000H9ABCG%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175578169%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
   Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1:
   1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
 - Burkill,
   I. H., 1993. *[A
-  Dictionary of the Economic Products of the Malay Peninsula](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fdictionary-economic-products-Malay-Peninsula%2Fdp%2FB0006EUWTE%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175505620%26sr%3D1-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
+  Dictionary of the Economic Products of the Malay Peninsula](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fdictionary-economic-products-Malay-Peninsula%2Fdp%2FB0006EUWTE%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175505620%26sr%3D1-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
   3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
   Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 
@@ -113,9 +113,9 @@ Dec 09*
 FREE photos of [fruit
 trees](http://www.flickr.com/photos/54527470@N00/sets/72157622451919911). Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm) |
-[references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links) |
+[references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

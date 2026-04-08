@@ -4,28 +4,11 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, urchin, heart, echinoid, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[![talking points for nature guides](../../Templates/fornatureguides.gif)](fngechinoidea.htm)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 echinoderms
-[text index](echinodermindex.htm) | [photo
-index](crinoideafi.htm)
-Phylum [Echinodermata](echinodermata.htm) > Class [Echinodea](echinoidea/echinoidea.htm) > [sea urchin](echinoidea/urchin/urchin.htm) | [heart
-urchin](echinoidea/hearturchin/hearturchin.htm)
+[text index](echinodermindex) | [photo
+index](crinoideafi)
+Phylum [Echinodermata](echinodermata) > Class [Echinodea](echinoidea/echinoidea) > [sea urchin](echinoidea/urchin/urchin) | [heart
+urchin](echinoidea/hearturchin/hearturchin)
 **Photo
 index of echinoids on Singapore shores**  
 **sea urchins
@@ -36,12 +19,12 @@ and heart urchins**
 *Size given is the
 diameter of the body without the spines.*
 ![](echinoidea/urchin/temnopleurus/050411tusg4478m.jpg)  
-[Black sea urchin](echinoidea/urchin/temnopleurus.htm)  
+[Black sea urchin](echinoidea/urchin/temnopleurus)  
 *Temnopleuris* sp.
 ![](echinoidea/urchin/prionocidaris/011019cjd121m.jpg)  
-[Thorny sea urchin](echinoidea/urchin/prionocidaris.htm)*Prionocidaris* sp.
+[Thorny sea urchin](echinoidea/urchin/prionocidaris)*Prionocidaris* sp.
 ![](echinoidea/urchin/diadema/040830hntd5872m.jpg)  
-[Diadema sea urchin](echinoidea/urchin/diadema.htm)  
+[Diadema sea urchin](echinoidea/urchin/diadema)  
 *Diadema setosum*
  
  
@@ -57,13 +40,13 @@ spines black sharp, up to 30cm long. Reef and rubble. Commonly seen on our South
  
  
 ![](echinoidea/urchin/salmacis/050621skdg8023m.jpg)  
-[White salmacis urchin](echinoidea/urchin/sphaeroides.htm)  
+[White salmacis urchin](echinoidea/urchin/sphaeroides)  
 *Salmacis sphaeroides*.
 ![](echinoidea/urchin/virgulata/060529chgd2487m.jpg)  
-[Passion salmacis urchin](echinoidea/urchin/virgulata.htm)  
+[Passion salmacis urchin](echinoidea/urchin/virgulata)  
 *Salmacis virgulata*
 ![](echinoidea/urchin/bicolor/090528mecpd2807m.jpg)  
-[Two-toned salmacis urchin](echinoidea/urchin/bicolor.htm)  
+[Two-toned salmacis urchin](echinoidea/urchin/bicolor)  
 *Salmacis bicolor*
  
  
@@ -76,15 +59,15 @@ Spines short, all maroon, not banded. Spines on the sides longer, thicker and fl
 Spines longer, white banded maroon. Seen once on East Coast Park.
 
 ![](echinoidea/hearturchin/lovenia/040731kusd3539m.jpg)  
-[Lovenia heart urchin](echinoidea/hearturchin/lovenia.htm) *Lovenia elongata*
+[Lovenia heart urchin](echinoidea/hearturchin/lovenia) *Lovenia elongata*
 
 ![](echinoidea/hearturchin/oval/090426skdtch04m.jpg)  
-[Keeled heart urchin](echinoidea/hearturchin/oval.htm)   
+[Keeled heart urchin](echinoidea/hearturchin/oval)   
 *Brissus latecarinatus*
 
 ![](echinoidea/hearturchin/planulata/090207smkd6372m.jpg)  
 [Tiny maretia heart
-urchin](echinoidea/hearturchin/planulata.htm) *Maretia planulata*
+urchin](echinoidea/hearturchin/planulata) *Maretia planulata*
 
  
  
@@ -112,24 +95,24 @@ echinoderms on this site
 
 **Phylum
 Echinodermata**[all
-echinoderms](echinodermatafi.htm)  **With arms**  
+echinoderms](echinodermatafi)  **With arms**  
  
 many,
 feathery  
-[feather stars](crinoideafi.htm)  
+[feather stars](crinoideafi)  
   
 five, bristley  
-[brittle stars](ophuiroideafi.htm)  
+[brittle stars](ophuiroideafi)  
   
 sea stars  
-[small](asteroideafi1.htm) <10cm  
-[large](asteroideafi2.htm) >10cm
+[small](asteroideafi1) <10cm  
+[large](asteroideafi2) >10cm
   
  **Hard**  
  
 flat,
 coin-like  
-[sand dollars](asteroideafi1.htm)  
+[sand dollars](asteroideafi1)  
   
 spherical, spiny  
 sea urchins  
@@ -138,13 +121,13 @@ heart urchins
  
 sea
 cucumbers   
-[short](holothuroideafi1.htm)
+[short](holothuroideafi1)
 <10cm  
-[long](holothuroideafi2.htm) >10cm
+[long](holothuroideafi2) >10cm
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

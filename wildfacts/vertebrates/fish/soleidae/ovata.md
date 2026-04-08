@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "ovate, flat, fish, flatfish, sole, solea, ovata, soleidae, pleuronectiformes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm) >
-Order [Pleuronectiformes](../pleuronectiformes/pleuronectiformes.htm)
-> Family [Soleidae](soleidae.htm)
+> Subphylum Vertebrata > [fishes](../fish) >
+Order [Pleuronectiformes](../pleuronectiformes/pleuronectiformes)
+> Family [Soleidae](soleidae)
 **Ovate
 sole**  
 ***Solea ovata***  
@@ -87,7 +87,7 @@ Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo/?fbid=
 **Links**  
 
 - [Ovate
-  Sole (*Solea ovata*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/386.htm) Lim, Kelvin K. P. & Jeffrey K. Y.
+  Sole (*Solea ovata*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/386) Lim, Kelvin K. P. & Jeffrey K. Y.
   Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
@@ -96,13 +96,13 @@ Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo/?fbid=
   from [FishBase](http://www.fishbase.org/): Technical
   fact sheet.
 - [Volume
-  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.htm) FAO Species
+  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
   Identification Guide for Fishery Purposes The Living Marine Resources
   of the Western Central Pacific.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

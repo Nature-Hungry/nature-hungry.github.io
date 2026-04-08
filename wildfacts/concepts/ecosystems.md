@@ -4,28 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "habitat, community, ecosystem, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
-[index](index.html)
+[index](indexl)
 of concepts
-[tides](tides.htm)
-| [intertidal zone](intertidal.htm) | [zonation](zonation.htm)
-| ecosystems | [rocky](rocky.htm) | [sandy](sandy.htm)
-| [seagrass](../plants/seagrass/seagrass.htm) | [coral
-rubble](rubble.htm) | [coral reef](../cnidaria/coralhard/coralhard.htm)
+[tides](tides)
+| [intertidal zone](intertidal) | [zonation](zonation)
+| ecosystems | [rocky](rocky) | [sandy](sandy)
+| [seagrass](../plants/seagrass/seagrass) | [coral
+rubble](rubble) | [coral reef](../cnidaria/coralhard/coralhard)
 **Why
 know ecosystems?**   
 *updated
@@ -57,7 +42,7 @@ and waves that affect it.
 animals. Members of a community interact with each other. Some,
 for example, may eat another. Others may compete with for living
 spaces. Yet others may have a [symbiotic
-relationship](symbiosis.htm) with one another.  
+relationship](symbiosis) with one another.  
  
 ![](pix/i022b.gif)**Ecosystem:** Plants
 and animals also interact with their surroundings. An example
@@ -69,17 +54,17 @@ boundaries of each ecosystem, however, are not clearly marked.
 Overlaps occur as one ecosystem gradually changes into adjoining
 ecosystems.
 ![](../plants/mangrove/general/090823cjd9836m6la.jpg)  
-[Mangroves](../plants/mangrove/mangroves.htm) at Chek
+[Mangroves](../plants/mangrove/mangroves) at Chek
 Jawa.
 ![](pix/100420sntd1544m6l.jpg)  
 Seagrass meadows gradually merge   
-into [rocky shores](rocky.htm) and [coastal
-forest](../plants/coastal/coastalplants.htm)  
+into [rocky shores](rocky) and [coastal
+forest](../plants/coastal/coastalplants)  
 at Sentosa
 ![](pix/080804cyrd0032m3.jpg)  
-[Sandy shore](sandy.htm) at Cyrene Reefs
+[Sandy shore](sandy) at Cyrene Reefs
 ![](pix/040606kusg0605m3.jpg)  
-[Coral reefs](../cnidaria/coralhard/coralhard.htm) at
+[Coral reefs](../cnidaria/coralhard/coralhard) at
 Kusu Island
   
 
@@ -87,7 +72,7 @@ Kusu Island
 Some animals
 form a habitat   
 for other animals! Like this [sea
-pen](../cnidaria/others/pennatulacea/pennatulacea.htm).
+pen](../cnidaria/others/pennatulacea/pennatulacea).
 
 ![](pix/040731kusd3684m3.jpg)  
 Many different
@@ -95,7 +80,7 @@ animals may be
 found under a rock!
 
 ![](../plants/seagrass/enhalus/050309smkg3099m3.jpg)  
-[Seagrass meadow](../plants/seagrass/seagrass.htm) at
+[Seagrass meadow](../plants/seagrass/seagrass) at
 Pulau Semakau
 
 ---
@@ -103,12 +88,12 @@ Pulau Semakau
 **Links**
 
 - [How
-  many species in a habitat?](http://wildshores.blogspot.com/2009/07/how-many-species-in-habitat.html) on the wild shores of singapore
+  many species in a habitat?](http://wildshores.blogspot.com/2009/07/how-many-species-in-habitatl) on the wild shores of singapore
   blog.
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

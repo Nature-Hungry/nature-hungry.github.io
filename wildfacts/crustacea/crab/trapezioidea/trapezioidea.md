@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "coral, crab, trapeziidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
 > Brachyurans
 **Coral
 crabs**   
@@ -35,8 +35,8 @@ Dec 2019*
 **Where
 seen?** These tiny crabs are only found in living branching
 hard corals such as [Acropora
-corals](../../../cnidaria/coralhard/acroporidae/acropora.htm) (*Acropora* sp.) and [Cauliflower
-corals](../../../cnidaria/coralhard/pocilloporidae/pocillopora.htm) (*Pocillopora* sp.). They are well hidden and quick,
+corals](../../../cnidaria/coralhard/acroporidae/acropora) (*Acropora* sp.) and [Cauliflower
+corals](../../../cnidaria/coralhard/pocilloporidae/pocillopora) (*Pocillopora* sp.). They are well hidden and quick,
 and thus hard to spot and photograph.  
   
 **Features:** Body width about 1cm.
@@ -51,15 +51,15 @@ that are proportionally larger.
 These coral crabs feed on the mucus produced by the hard coral, gathering
 these with the minute comb-like structures at the tips of their feet.   
   
-The [Red coral crab](redcoral.htm) (*Trapezia cymodoce*)
+The [Red coral crab](redcoral) (*Trapezia cymodoce*)
 lives only in [Cauliflower
-corals](../../../cnidaria/coralhard/pocilloporidae/pocillopora.htm) (*Pocillopora* sp.).   
+corals](../../../cnidaria/coralhard/pocilloporidae/pocillopora) (*Pocillopora* sp.).   
   
-The [Bandit coral crab](bandit.htm) (*Tetralia nigrolineata*)
+The [Bandit coral crab](bandit) (*Tetralia nigrolineata*)
 lives only in [Acropora
-corals](../../../cnidaria/coralhard/acroporidae/acropora.htm) (*Acropora* sp.).  
+corals](../../../cnidaria/coralhard/acroporidae/acropora) (*Acropora* sp.).  
   
-**Other tiny crabs that live in corals** include the [Hairy coral crab](../xanthidae/cymo.htm) (*Cymo
+**Other tiny crabs that live in corals** include the [Hairy coral crab](../xanthidae/cymo) (*Cymo
 andreossyi*)  
   
 **Status and threats:** The Red coral
@@ -74,10 +74,10 @@ crabs on Singapore shores**
 
 ---
 
-***![](bandit/100615tmjk4m3.jpg)*[Bandit coral crab](bandit.htm)**
+***![](bandit/100615tmjk4m3.jpg)*[Bandit coral crab](bandit)**
 
 ***![](redcoral/100711cyrd8229m3a.jpg)*****[Red coral
-crab](redcoral.htm)**
+crab](redcoral)**
 
 ---
 
@@ -94,9 +94,9 @@ red are those listed among the threatened animals of Singapore from Davison, G.W
  
 +*Tetralia cavimana*  
 \*\*[*Tetralia
-nigrolineata*](bandit.htm) (Bandit coral crab) in Family Tetraliidae  
+nigrolineata*](bandit) (Bandit coral crab) in Family Tetraliidae  
   
-\*\*[*Trapezia cymodoce*](redcoral.htm)
+\*\*[*Trapezia cymodoce*](redcoral)
 (Red coral crab) (VU:
 Vulnerable)
 in Family Trapeziidae
@@ -126,9 +126,9 @@ in Family Trapeziidae
   S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
   Australian Waters*. Reed New Holland. 224 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

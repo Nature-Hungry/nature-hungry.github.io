@@ -4,25 +4,10 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 plants
-[text index](plantindex.htm) | [photo
-index](plantfi.htm)
-[mangroves](mangrove/mangroves.htm)
+[text index](plantindex) | [photo
+index](plantfi)
+[mangroves](mangrove/mangroves)
 **Photo
 index of mangrove trees on Singapore shores**  
  **trees with small fruits and pneumatophores (pencil roots)**  
@@ -33,14 +18,14 @@ index of mangrove trees on Singapore shores**
   
 ![](mangrove/avicennia/alba/020511sbwrcpd9062m.jpg)  
   
-![](mangrove/avicennia/alba/011107sbwrcpd583m.jpg) [Api-api putih](mangrove/avicennia/alba.htm)   
+![](mangrove/avicennia/alba/011107sbwrcpd583m.jpg) [Api-api putih](mangrove/avicennia/alba)   
 *Avicennia alba*
 
 ![](mangrove/avicennia/rumphiana/090118smkd5726m.jpg)  
   
 ![](mangrove/avicennia/rumphiana/090118smkd5726ma.jpg)  
   
-![](mangrove/avicennia/rumphiana/030914cjd0030mb.jpg) [Api-api bulu](mangrove/avicennia/rumphiana.htm)   
+![](mangrove/avicennia/rumphiana/030914cjd0030mb.jpg) [Api-api bulu](mangrove/avicennia/rumphiana)   
 *Avicennia rumphiana*
 
 ![](mangrove/avicennia/officinalis/020727cjcpd4363m.jpg)  
@@ -48,14 +33,14 @@ index of mangrove trees on Singapore shores**
 ![](mangrove/avicennia/officinalis/020727cjcpd4361m.jpg)  
   
 ![](mangrove/avicennia/officinalis/030817cjd0005m.jpg)  
-[Api-api ludat](mangrove/avicennia/officinalis.htm)  
+[Api-api ludat](mangrove/avicennia/officinalis)  
 *Avicennia officinalis*
 
 ![](mangrove/avicennia/marina/090112smkd5021m.jpg)  
   
 ![](mangrove/avicennia/marina/090112smkd5023m.jpg)  
   
-![](mangrove/avicennia/marina/090112smkd5021ma.jpg) [Api-api jambu](mangrove/avicennia/marina.htm)   
+![](mangrove/avicennia/marina/090112smkd5021ma.jpg) [Api-api jambu](mangrove/avicennia/marina)   
 *Avicennia marina*
 
  
@@ -90,7 +75,7 @@ is Critically Endangered.
 ---
 
 Trees with [large
-round fruits and pneumatophores](mangfi6f.htm)
+round fruits and pneumatophores](mangfi6f)
   
   
   
@@ -101,47 +86,47 @@ index of
 plants on this site
 
 [all
-plants](plantfi.htm)  
+plants](plantfi)  
   
 **mangrove
 & seashore plants**   
-[creepers](shorefi1.htm)  
-[climbers, vines](shorefi2.htm)  
-[herbs](shorefi3.htm)  
-[ferns](shorefi7.htm)  
-[palms, pandans](shorefi4.htm)  
+[creepers](shorefi1)  
+[climbers, vines](shorefi2)  
+[herbs](shorefi3)  
+[ferns](shorefi7)  
+[palms, pandans](shorefi4)  
   
 **mangrove
 &** **seashore
   
 shrubs<2m**  
-[thick/leathery leaves](shorefi5a.htm)  
-[thin leaves](shorefi5b.htm)  
+[thick/leathery leaves](shorefi5a)  
+[thin leaves](shorefi5b)  
   
 **seashore
   
 trees>2m**   
 type of leaves  
-[small simple](shorefi6b.htm)  
-[large simple](shorefi6c.htm)  
-[compound, others](shorefi6d.htm)   
+[small simple](shorefi6b)  
+[large simple](shorefi6c)  
+[compound, others](shorefi6d)   
   
 **mangrove
 trees**  
 small oval fruits and pneumatophores  
   
 long cylindrical fruits  
-with [knee roots](mangfi6b.htm)  
-with [buttressed roots](mangfi6c.htm)  
-with [stilt roots](mangfi6d.htm)  
+with [knee roots](mangfi6b)  
+with [buttressed roots](mangfi6c)  
+with [stilt roots](mangfi6d)  
   
-[large round fruits](mangfi6f.htm)  
+[large round fruits](mangfi6f)  
   
-[others](mangfi7a.htm)
+[others](mangfi7a)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

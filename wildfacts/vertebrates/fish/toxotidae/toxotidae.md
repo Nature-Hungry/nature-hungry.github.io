@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "acherfish, archer, fish, toxotidae, toxotes, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm)
+> Subphylum Vertebrata > [fishes](../fish)
 **Archerfishes**  
 **Family Toxotidae***updated
 Oct 2020*
@@ -64,7 +64,7 @@ jet of water. To form this water jet, the tongue is placed against
 the groove on the roof of the mouth. Water is powerfully forced through
 this tube by snapping the gills shut. The tip of the tongue acts as
 a valve. The Australian Museum Fish Site has a [photo
-of the inside of an archerfish's mouth](http://www.amonline.net.au/fishes/fishfacts/fish/tchatar.htm) to show the groove on the
+of the inside of an archerfish's mouth](http://www.amonline.net.au/fishes/fishfacts/fish/tchatar) to show the groove on the
 roof of the mouth and shape of the tongue.  
   
 To get a good jet of water, the snout sticks out of the water, but
@@ -136,9 +136,9 @@ mangroves and by collection for the pet trade.
 ---
 
 ***![](jaculatrix/051208sbwrd0532m3.jpg)*****[Banded
-archerfish](jaculatrix.htm)**
+archerfish](jaculatrix)**
 
-***![](chatareus/050225sbwrd1096m3.jpg)*[Spotted archerfish](chatareus.htm)**
+***![](chatareus/050225sbwrd1096m3.jpg)*[Spotted archerfish](chatareus)**
 
 ---
 
@@ -152,7 +152,7 @@ in Singapore*.
 Toxotidae** 
  
 *[Toxotes
-chatareus](chatareus.htm)* (Spotted archerfish) *[Toxotes jaculatrix](jaculatrix.htm)* (Banded
+chatareus](chatareus)* (Spotted archerfish) *[Toxotes jaculatrix](jaculatrix)* (Banded
 archerfish)
 
 ---
@@ -160,11 +160,11 @@ archerfish)
 **Links**  
 
 - [Banded
-  Archerfish (*Toxotes jaculatrix*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/324.htm) Lim, Kelvin K. P. &
+  Archerfish (*Toxotes jaculatrix*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/324) Lim, Kelvin K. P. &
   Jeffrey K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
-- [Archerfish (*Toxotes jaculatrix*)](http://mangrove.nus.edu.sg/guidebooks/text/2105.htm) Ng, Peter K. L. &
+- [Archerfish (*Toxotes jaculatrix*)](http://mangrove.nus.edu.sg/guidebooks/text/2105) Ng, Peter K. L. &
   N. Sivasothi, 1999. *[A
   Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) II (Animal Diversity)*.
   Singapore Science Centre. 168 pp.
@@ -174,7 +174,7 @@ archerfish)
   chatareus* (Spotted archerfish)](http://fishbase.org/summary/8079) from [FishBase](http://www.fishbase.org/):
   Technical fact sheet on the family.
 - [Awesome
-  Eye of Archerfish](http://feedproxy.google.com/%7Er/WildShoresOfSingapore/%7E3/0B9kMlL9wJQ/awesome-eye-of-archerfish.html) from wild shores of singapore.
+  Eye of Archerfish](http://feedproxy.google.com/%7Er/WildShoresOfSingapore/%7E3/0B9kMlL9wJQ/awesome-eye-of-archerfishl) from wild shores of singapore.
 
 **References**
 
@@ -190,9 +190,9 @@ archerfish)
   Reef Fishes of the World*
   Periplus Editions. 400pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "longspined, long, spine, waspfish, wasp, scorpionfish, scorpion, fish, paracentropogon, longispinus, tetrarogidae, scorpaenidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm) >
-Family [Scorpaenidae](scorpaenidae.htm)
+> Subphylum Vertebrata > [fishes](../fish) >
+Family [Scorpaenidae](scorpaenidae)
 **Longspined
 waspfish   
 *Paracentropogon longispinis*  
@@ -44,7 +44,7 @@ to catch prey.
 seen?** This little waspfish is commonly seen on many of
 our shores, among coral rubble or seagrasses. But it is small and
 well camouflaged and thus often overlooked. Now in Family Tetrarogidae
-(waspfishes), it used to be placed in [Family Scorpaenidae](scorpaenidae.htm) (scorpionfishes).  
+(waspfishes), it used to be placed in [Family Scorpaenidae](scorpaenidae) (scorpionfishes).  
   
  **Features:** 5-7cm long. The dorsal
 fin begins almost between its eyes and the dorsal fin membranes are
@@ -55,10 +55,10 @@ Some may have a white band across the face, and indeed, they are called
 Whiteface waspfish in some places. In captivity, they have been observed
 to change from light to dark colours.  
   
-**Sometimes mistaken for** a [stonefish](../synanceiidae/horrida.htm) (Family Synanceiidae) or the [False
-scorpionfish](../centrogenyidae/vaigiensis.htm) (*Centrogenys vaigiensis*), a grouper, which
+**Sometimes mistaken for** a [stonefish](../synanceiidae/horrida) (Family Synanceiidae) or the [False
+scorpionfish](../centrogenyidae/vaigiensis) (*Centrogenys vaigiensis*), a grouper, which
 looks very similar. Here's more on [how
-to tell apart fishes that look like stones](../cfstonefish.htm).
+to tell apart fishes that look like stones](../cfstonefish).
 
 ![](longispinis/050623cjg8365m3.jpg)  
 *Chek Jawa, Jun 05*
@@ -126,7 +126,7 @@ Beting Bronok, Jun 25*Photo shared by Kelvin Yong on [facebook](https://www.face
 
 ![](longispinis/090822sislt1m3.JPG)  
 *Sisters Island, Aug 09*Photo shared by Liana Tang on [her
-blog](http://nearly-lucid.blogspot.com/2009/08/little-sisters-island-revisited.html).
+blog](http://nearly-lucid.blogspot.com/2009/08/little-sisters-island-revisitedl).
 
 ---
 
@@ -149,7 +149,7 @@ blog](http://nearly-lucid.blogspot.com/2009/08/little-sisters-island-revisited.h
 **Links**  
 
 - [Long-spine
-  scorpionfish (*Paracentropogon longispinis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/255.htm) Lim, Kelvin
+  scorpionfish (*Paracentropogon longispinis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/255) Lim, Kelvin
   K. P. & Jeffrey K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/).* Singapore
   Science Centre. 163 pp.
@@ -167,9 +167,9 @@ blog](http://nearly-lucid.blogspot.com/2009/08/little-sisters-island-revisited.h
   Science, Nanyang Technological University & Department of Zoology,
   the National University of Singapore. 160 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,44 +4,29 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, ligia, amphipoda, ostacoda, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 crustacea [text
-index](crustaceaindex.htm) | [photo index](crustaceafi.htm)
-Phylum [Arthropoda](../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](crustacea.htm)
+index](crustaceaindex) | [photo index](crustaceafi)
+Phylum [Arthropoda](../arthropoda/arthropoda)
+> Subphylum [Crustacea](crustacea)
 **Photo
 index of other crustaceans on Singapore shores**
 
 ---
 
 ![](othercrust/isopoda/ligia/041018sntd7570m.jpg)  
-[Sea slater](othercrust/isopoda/ligia.htm) *Ligia* sp.
+[Sea slater](othercrust/isopoda/ligia) *Ligia* sp.
 
 ![](othercrust/isopoda/isopoda/110123sisd5267m.jpg)  
-[Isoipods](othercrust/isopoda/isopoda.htm)  
+[Isoipods](othercrust/isopoda/isopoda)  
 Order Isopoda
 
 ![](othercrust/amphipoda/amphipoda/050508kusg5881ma.jpg)  
-[Amphipods](othercrust/amphipoda/amphipoda.htm)  
+[Amphipods](othercrust/amphipoda/amphipoda)  
 Order Amphipoda
 
 ![](othercrust/ostracoda/ostracoda/050806skdg0510m.jpg)  
 [Mussel
-shrimp](othercrust/ostracoda/ostracoda.htm)  
+shrimp](othercrust/ostracoda/ostracoda)  
 Order Ostracoda
 
 2-3cm.
@@ -68,26 +53,26 @@ index of
 crustaceans on this site
 
 **Crustaceans**  
-[all crustaceans](crustaceafi.htm)  
+[all crustaceans](crustaceafi)  
   
 **Shrimps**  
-[all shrimps](shrimpfi.htm) and shrimp-like  
+[all shrimps](shrimpfi) and shrimp-like  
   
 **Crabs
 and crab-like**   
-[all crabs](crabfi.htm) and crab-like  
+[all crabs](crabfi) and crab-like  
  **Barnacles**
   
-[barnacles](cirripediafi.htm)  
+[barnacles](cirripediafi)  
   
 **Other
 crustaceans**  
 others crustaceans  
 sea slaters, beachfleas, mussel shrimps
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

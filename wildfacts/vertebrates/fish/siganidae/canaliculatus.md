@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "white, spot, spotted, rabbitfish, rabbit, fish, siganus, canaliculatus, siganidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm) >
-Family [Siganidae](siganidae.htm)
+> Subphylum Vertebrata > [fishes](../fish) >
+Family [Siganidae](siganidae)
 **White-spotted
 rabbitfish**  
 ***Siganus canaliculatus***  
@@ -111,7 +111,7 @@ In a fish trap, *Punggol, Nov 20*Photo shared by Vincent Choo on [facebook](http
 
 ![](canaliculatus/080603tmlks04m3.jpg)  
 *Tanah Merah, Jun 08*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2008/06/sandflat-at-tanah-merah.html).
+blog](http://wondercreation.blogspot.com/2008/06/sandflat-at-tanah-merahl).
 
 ![](canaliculatus/100615tmlks1m6l.jpg)  
 *Tanah Merah, Jun 10*Photo shared by Loh Kok Sheng on [his
@@ -168,7 +168,7 @@ Kusu Island, Aug 24*Photo shared by Tommy Tan on [facebook](https://www.facebook
 **Links**  
 
 - [White-spotted
-  Rabbitfish (*Siganus canaliculatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/379.htm) Lim, Kelvin K. P.
+  Rabbitfish (*Siganus canaliculatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/379) Lim, Kelvin K. P.
   & Jeffrey K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
@@ -176,12 +176,12 @@ Kusu Island, Aug 24*Photo shared by Tommy Tan on [facebook](https://www.facebook
   spinefoot (*Siganus canaliculatus*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=4456) from [FishBase](http://www.fishbase.org/):
   Technical fact sheet.
 - [White-spotted
-  spinefoot (*Siganus canaliculatus*)](http://research.kahaku.go.jp/zoology/FishGuide/data/fish291.html) from [Coastal
-  Fishes of Indonesia: Field Guide to Lombok Island](http://research.kahaku.go.jp/zoology/FishGuide/index.html) by Keiichi
+  spinefoot (*Siganus canaliculatus*)](http://research.kahaku.go.jp/zoology/FishGuide/data/fish291l) from [Coastal
+  Fishes of Indonesia: Field Guide to Lombok Island](http://research.kahaku.go.jp/zoology/FishGuide/indexl) by Keiichi
   Matsuura, Seishi Kimura and Teguh Peristiwady on the National
   Science Museum, Tokyo website: factsheets with photos and descriptions.
 - [Volume
-  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.htm) FAO Species
+  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
   Identification Guide for Fishery Purposes The Living Marine Resources
   of the Western Central Pacific.
 
@@ -201,9 +201,9 @@ Kusu Island, Aug 24*Photo shared by Tommy Tan on [facebook](https://www.facebook
   Reef Fishes of the World*
   Periplus Editions. 400pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

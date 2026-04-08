@@ -9,21 +9,21 @@ layout: default
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../index.html)  
+[wildfactsheets homepage](../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
+[all animals](../../animals)
+| [all plants](../../plants)
+| [concepts](../../concepts/indexl)
+| [glossary](../../glossary/indexl)
+| [search](../../search)
 
 seagrasses
-[text index](seagrassindex.htm) | [photo
-index](seagrassfi.htm)
+[text index](seagrassindex) | [photo
+index](seagrassfi)
 
-[Seagrasses](seagrass.htm)
+[Seagrasses](seagrass)
 > Family Hydrocharitaceae
 **Spoon
 seagrass  
@@ -50,7 +50,7 @@ seen?**
 This small oval seagrass is commonly seen on many of our shores in
 the North and South. Sometimes, they may form lush meadows, at other
 places, smaller patches. The [preliminary
-results of a transact survey of Chek Jawa](http://www.naturia.per.sg/cjsurvey/vegetative/text/halophila%20ovalis.htm) suggest it is probably
+results of a transact survey of Chek Jawa](http://www.naturia.per.sg/cjsurvey/vegetative/text/halophila%20ovalis) suggest it is probably
 among the most widely distributed seagrass in the seagrass lagoon
 there.   
   
@@ -74,8 +74,8 @@ of transparent scales.
   
 **Sometimes confused with** seaweeds
 that are also spoon-shaped such as the [Coin
-seaweed](../seaweed/chlorophyta/halbig.htm) (*Halimeda* sp.) and [Fan
-seaweed](../seaweed/chlorophyta/avrcluster.htm) (*Avrainvillia* sp.). These seaweeds don't have veins
+seaweed](../seaweed/chlorophyta/halbig) (*Halimeda* sp.) and [Fan
+seaweed](../seaweed/chlorophyta/avrcluster) (*Avrainvillia* sp.). These seaweeds don't have veins
 like the spoon seagrass. Coin seaweeds are also hard as they incorporate
 calcium in their body structure, while spoon seagrass blades are soft
 and flexible.  
@@ -124,7 +124,7 @@ female flower of the spoon seagrass? *Changi, Apr 05*
 flower?  
 *Chek Jawa, Jan 09*  
 Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/01/first-2009-team-seagrass-trip-at-chek.html).
+blog](http://wondercreation.blogspot.com/2009/01/first-2009-team-seagrass-trip-at-chekl).
 
 *![](ovalis/060624skdg6187m3a.jpg)*Burnt
 leaves.  *Pulau Sekudu, Jun 06*
@@ -179,7 +179,7 @@ Pulau Senang, Aug 10*
 **Links**  
 
 - [Fan
-  seagrass (*Halophila*)](http://mangrove.nus.edu.sg/pub/seashore/text/108.htm) Tan, Leo W. H. & Ng, Peter K.
+  seagrass (*Halophila*)](http://mangrove.nus.edu.sg/pub/seashore/text/108) Tan, Leo W. H. & Ng, Peter K.
   L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
@@ -189,9 +189,9 @@ Pulau Senang, Aug 10*
   Proceedings of a training workshop, National Parks Board, Biodiversity
   Centre, Singapore, 24th-25th March 2007 (DPI&F, Cairns). 32pp.
 - [Identifying
-  seagrasses](http://www.seagrasswatch.org/id_seagrass.html) on the Seagrass-Watch website.
+  seagrasses](http://www.seagrasswatch.org/id_seagrassl) on the Seagrass-Watch website.
 - [The
-  genus *Halophila*](http://wwwscience.murdoch.edu.au/centres/others/seagrass/halophila.html) at The Western Australian Seagrass
+  genus *Halophila*](http://wwwscience.murdoch.edu.au/centres/others/seagrass/halophilal) at The Western Australian Seagrass
   Web Page on the Murdoch University website: species, life history
   and distribution in Australia.
 
@@ -235,14 +235,4 @@ Make your own badge [here](http://www.flickr.com/badge.gne).
 **You CAN make a difference for Singapore's
 seagrasses!**[![](../../../Templates/teamsg.jpg)](http://teamseagrass.blogspot.com/)
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

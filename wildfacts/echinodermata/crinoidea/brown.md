@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "feather, star, featherstar, comatulida, crinoidea, crinoid, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 crinoids
-[text index](../echinodermindex.htm#crinoidea) | [photo
-index](../crinoideafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class Crinoidea > Order [Comatulida](crinoidea.htm)
+[text index](../echinodermindex#crinoidea) | [photo
+index](../crinoideafi)
+Phylum [Echinodermata](../echinodermata)
+> Class Crinoidea > Order [Comatulida](crinoidea)
 **Brown
 feather star**  
 ***awaiting
@@ -128,7 +115,7 @@ blog](http://singaporenature.wordpress.com/2012/05/07/120506-little-sisters/).
 *![](brown/090822sisjk2m3.jpg)  
 Sisters Island, Aug 09*Photo
 shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/08/tuas-soft-coral-and-zoanthids.html).
+blog](http://sgn090608.blogspot.com/2009/08/tuas-soft-coral-and-zoanthidsl).
 
 ![](brown/100103sislks4m3.jpg)  
  *Sisters Island, Jan 10*Photo shared by Lok Kok Sheng on [his
@@ -136,14 +123,14 @@ flickr](http://www.flickr.com/photos/koksheng/4246946037/).
 
 ![](brown/120506sislks1m3.JPG)  
  *Sisters Island, May 12*Photo shared by Lok Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2012/05/glorious-morning-trip-to-little-sisters.html).
+blog](http://wondercreation.blogspot.sg/2012/05/glorious-morning-trip-to-little-sistersl).
 
 ---
 
 *![](brown/090822sisjk3m3.jpg)  
 Sisters Island, Aug 09*Photo
 shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/08/tuas-soft-coral-and-zoanthids.html).
+blog](http://sgn090608.blogspot.com/2009/08/tuas-soft-coral-and-zoanthidsl).
 
 ![](brown/251207hntjll1.jpg) *Pulau Hantu, Dec 25*  
 Shared by Jianlin Liu on [facebook](https://www.facebook.com/media/set/?set=a.10162368219591295&type=3&ref=embed_post).
@@ -152,11 +139,11 @@ Shared by Jianlin Liu on [facebook](https://www.facebook.com/media/set/?set=a.10
 
 ![](brown/080209htnlks01m3.jpg)  
  *Pulau Hantu, Feb 08*Photo shared by Lok Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2008/02/hantus-splendour.html).
+blog](http://wondercreation.blogspot.com/2008/02/hantus-splendourl).
 
 ![](brown/100725hntlks2m3.jpg)  
  *Pulau Hantu, Jul 10*Photo shared by Lok Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/07/having-hell-of-time-at-hantu.html).
+blog](http://wondercreation.blogspot.com/2010/07/having-hell-of-time-at-hantul).
 
 ![](brown/240623hntlks3.jpg)*Pulau Hantu, Jun 24*  
 Shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161432229708158).
@@ -171,7 +158,7 @@ flickr.](http://www.flickr.com/photos/budak/3194272710/in/set-72157612471016939)
 
 ![](brown/110814smklks1m3.jpg)  
  *Pulau Semakau, Aug 11*Photo shared by Lok Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/08/finally-galloping-sea-star-at-semakau.html).
+blog](http://wondercreation.blogspot.com/2011/08/finally-galloping-sea-star-at-semakaul).
 
 ---
 
@@ -204,12 +191,12 @@ Closer look.
 
 ![](brown/110717tbjk8m3.jpg)  
 *Terumbu Bemban, Jul 11*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2011/07/110717-terumbu-bemban.html).
+blog](http://sgn090608.blogspot.com/2011/07/110717-terumbu-bembanl).
 
 ---
 
 ![](brown/140909tptlks5m3.JPG)  
-*Terumbu Pempang Tengah, Sep 14*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/09/boat-graveyard-at-terumbu-pempang-tengah.html).
+*Terumbu Pempang Tengah, Sep 14*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/09/boat-graveyard-at-terumbu-pempang-tengahl).
 
 ![](brown/130427tptlks.JPG)  
 *Terumbu Pempang Tengah, Apr 13*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8749233561/in/album-72157626616274147/).
@@ -222,14 +209,4 @@ blog](http://sgn090608.blogspot.com/2011/07/110717-terumbu-bemban.html).
 ![](brown/210428slulks6.jpg)  
 *Pulau Salu, Apr 21*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159162468668158&set=a.10159162473618158).
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

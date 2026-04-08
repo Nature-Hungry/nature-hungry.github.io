@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "skate, sting, ray, stingray, fish, rajiformes, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm)
+> Subphylum Vertebrata > [fishes](../fish)
 **Skates,
 rays and stingrays  
 Order Rajiformes***updated
@@ -47,7 +47,7 @@ often seen in our mangroves, seagrass meadows and coral reefs.
 skates, rays and stingrays, these fishes belong to the Order Rajiformes
 which includes 10 families. Those commonly seen on our shores at low
 tide are stingrays that belong to [Family
-Dasyatidae](dasyatidae.htm). These fishes are related to sharks but most are adapted
+Dasyatidae](dasyatidae). These fishes are related to sharks but most are adapted
 for hunting and living on the sea bottom. For simplicity, we'll refer
 to all these fishes as rays. **Features:** Rays have flattened bodies with greatly enlarged
 pectoral fins along their body edges. With graceful undulations of
@@ -70,7 +70,7 @@ cartilage. If you want to know how cartilage feels like, your nose
 and ears are made of cartilage!   
   
 **Sometimes confused with** [horseshoe
-crabs](../../../arthropoda/limulidae/limulidae.htm). In murky waters, the two animals look very similar, both
+crabs](../../../arthropoda/limulidae/limulidae). In murky waters, the two animals look very similar, both
 being round and flat with a long tail.
 
 ![](../narcinidae/narcine/090622cftd4655m6l.jpg)  
@@ -83,7 +83,7 @@ are the result of carelessness, generally when someone
 accidentally steps on a stingray that is lying harmlessly
 on the bottom. Stingray spines can penetrate through booties!  
   
-**Shocking!** [Electric rays](../narcinidae/narcine.htm) have a pair of kidney-shaped electric organs
+**Shocking!** [Electric rays](../narcinidae/narcine) have a pair of kidney-shaped electric organs
 at the base of the pectoral fins that can produce mild to strong electric
 shocks. Thus their common name. Their scientific name Family Narcidae comes from the
 Greek 'narke' which means 'paralysis'.   
@@ -108,12 +108,12 @@ although some may lay eggs enclosed in a capsule.
 seafood dish in Singapore. The large pectoral fins are barbequed and
 served with chilli, often on a banana leaf. You can see their cartilageous
 bones as you eat the flesh. [Blue-spotted fantail
-ray](lymma.htm) is also popular in the live aquarium
+ray](lymma) is also popular in the live aquarium
 trade although it does not do well in captivity.  
   
 **Status and threats:** Our Stingrays
 are not listed as endangered. However, throughout its range, the [Blue-spotted
-fantail ray](lymma.htm) is under pressure from over
+fantail ray](lymma) is under pressure from over
 collection for the aquarium trade and destruction of its reef habitat.
 Like other creatures of the intertidal zone, Stingrays are also affected
 by human activities such as reclamation and pollution. Poaching by
@@ -127,22 +127,22 @@ on Singapore shores**
 ---
 
 **![](lymma/080802sjid8804m3.jpg)  
-[Blue-spotted fantail ray](lymma.htm)**
+[Blue-spotted fantail ray](lymma)**
 
-***![](walga/110520chgd2528.jpg)*[Mangrove whipray](walga.htm)**
+***![](walga/110520chgd2528.jpg)*[Mangrove whipray](walga)**
 
-***![](kuhlii/071226chgd8385m3.jpg)*[Blue-spotted stingray](kuhlii.htm)**
+***![](kuhlii/071226chgd8385m3.jpg)*[Blue-spotted stingray](kuhlii)**
 
 ---
 
-***![](uarnak/030525cjd0112m3.jpg)*****[Honeycomb whipray](uarnak.htm)**
+***![](uarnak/030525cjd0112m3.jpg)*****[Honeycomb whipray](uarnak)**
 
-***![](../narcinidae/narcine/090622cftd4655m3.jpg)***[**Numbfish**](../narcinidae/narcine.htm)
+***![](../narcinidae/narcine/090622cftd4655m3.jpg)***[**Numbfish**](../narcinidae/narcine)
  
 
 ---
 
-![](../myliobatidae/narinari/110506tmftd0849m6l.jpg) [**Spotted eagle ray**](../myliobatidae/narinari.htm)
+![](../myliobatidae/narinari/110506tmftd0849m6l.jpg) [**Spotted eagle ray**](../myliobatidae/narinari)
 
 ---
 
@@ -156,18 +156,18 @@ Common Marine Fishes of Singapore*.
   
  
 **[Family
-Dasyatidae](dasyatidae.htm)** (Stingrays) with list of species recorded
+Dasyatidae](dasyatidae)** (Stingrays) with list of species recorded
 for Singapore  
   
 **\*Family Gymnuridae** (Butterfly rays)
   
  
 **[Family
-Myliobatidae](../myliobatidae/narinari.htm)**  (Eagle, cownose and manta rays) with list
+Myliobatidae](../myliobatidae/narinari)**  (Eagle, cownose and manta rays) with list
 of species recorded for Singapore
   
  
-[**Family Narcinidae**](../narcinidae/narcine.htm) (Electric rays)
+[**Family Narcinidae**](../narcinidae/narcine) (Electric rays)
  
 *+Narcine maculata* (Dark-spotted numbfish)
   
@@ -248,9 +248,9 @@ Rhinobatus thouinianus
   Science, Nanyang Technological University & Department of Zoology,
   the National University of Singapore. 160 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

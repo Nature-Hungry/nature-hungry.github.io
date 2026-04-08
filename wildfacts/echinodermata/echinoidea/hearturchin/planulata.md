@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "heart, urchin, maretia, planulata, maretiidae, spatangidae, spatangoida, echinoidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 echinoids
-[text index](../../echinodermindex.htm#echinoidea) |
-[photo index](../../echinoideafi2.htm)
-Phylum [Echinodermata](../../echinodermata.htm)
-> Class [Echinodea](../echinoidea.htm) > [heart
-urchins](hearturchin.htm)
+[text index](../../echinodermindex#echinoidea) |
+[photo index](../../echinoideafi2)
+Phylum [Echinodermata](../../echinodermata)
+> Class [Echinodea](../echinoidea) > [heart
+urchins](hearturchin)
 **Tiny
 maretia heart urchin  
 *Maretia planulata\**  
@@ -89,7 +89,7 @@ blog](http://singaporenature.wordpress.com/2012/05/08/120508-sekudu/).
 ![](planulata/090208smklksp17m3.jpg)  
 *Pulau Semakau, Feb 09*![](planulata/090208smklksp18m3.jpg)  
 Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/02/first-2009-semakau-guided-walk.html).
+blog](http://wondercreation.blogspot.com/2009/02/first-2009-semakau-guided-walkl).
 
 ![](planulata/200111smksjll3a.jpg)  
 *Pulau Semakau South, Jan 20*![](planulata/200111smksjll3b.jpg)  
@@ -112,7 +112,7 @@ Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid
   explanatory diagrams. With technical descriptions of [Order
   Spatangoida](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/taxon.jsp?id=244)
 - [*Maretia
-  planulata*](http://www.sealifebase.org/summary/Maretia-planulata.html) on SeaLife Base: Technical fact sheet.
+  planulata*](http://www.sealifebase.org/summary/Maretia-planulatal) on SeaLife Base: Technical fact sheet.
 
 **References**
 
@@ -121,9 +121,9 @@ Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid
   Guide to Sea Stars and Other Echinoderms of Singapore*.
   Singapore Science Centre. 187pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

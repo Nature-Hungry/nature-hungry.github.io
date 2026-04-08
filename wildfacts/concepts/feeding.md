@@ -4,22 +4,7 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "feeding, eating, plankton, deposit, suspension, filter, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
-[index](index.html)
+[index](indexl)
 of concepts
 **Eating
 on the shores  
@@ -107,20 +92,20 @@ and then sieving out the edible particles.
 ![](../echinodermata/holothuroidea/colochirus/031226chgd0003m3.jpg)  
 Feeding tentacles
 of a [sea
-cucumber](../echinodermata/holothuroidea/holothuroidea.htm)
+cucumber](../echinodermata/holothuroidea/holothuroidea)
 ![](../echinodermata/crinoidea/blue/070816cjd5883m3.jpg)  
-[Feather stars](../echinodermata/crinoidea/crinoidea.htm) gather tiny edible bits   
+[Feather stars](../echinodermata/crinoidea/crinoidea) gather tiny edible bits   
 from the water with their feathery arms.  
 ![](../crustacea/othercrust/ciriipedia/balanus/080718wdld7698m3.jpg)  
-[Barnacles](../crustacea/othercrust/ciriipedia/cirripedia.htm) have feathery legs to gather   
+[Barnacles](../crustacea/othercrust/ciriipedia/cirripedia) have feathery legs to gather   
 edible bits from the water.
-![](../cnidaria/others/ceriantharia/common/080508cyrd2586m3.jpg) [Cerianthids](../cnidaria/others/ceriantharia/ceriantharia.htm) gather bits from   
+![](../cnidaria/others/ceriantharia/common/080508cyrd2586m3.jpg) [Cerianthids](../cnidaria/others/ceriantharia/ceriantharia) gather bits from   
 the water with their tentacles.
 ![](../worm/enteropneusta/enteropneusta/070324cyrd9384m3.jpg)  
-The [acorn worm](../worm/enteropneusta/enteropneusta.htm) processes sand for edible   
+The [acorn worm](../worm/enteropneusta/enteropneusta) processes sand for edible   
 bits, producing coils of processed sand.
 ![](../porifera/branchpurple/060129skdd6619m3a.jpg)  
-[Sponges](../porifera/porifera.htm) generate a current
+[Sponges](../porifera/porifera) generate a current
 of water through the porous body to extract tiny edible bits.  
  **‘Normal’
 diets:** Many animals on our shores have diets that
@@ -147,9 +132,9 @@ these plants. These include slugs and fishes.
 and animals. They usually eat a wide variety of food. We are
 omnivores!
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

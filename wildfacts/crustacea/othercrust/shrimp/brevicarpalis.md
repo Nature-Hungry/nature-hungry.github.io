@@ -4,28 +4,28 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "peacock, tail, anemone, shrimp, ancylocaris, periclimenes, brevicarpalis, palaemonidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 shrimps [text
-index](../../crustaceaindex.htm#shrimps) | [photo index](../../shrimpfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> [prawns and shrimps](shrimp.htm) >   
-Family [Palaemonidae](palaemonidae.htm)
+index](../../crustaceaindex#shrimps) | [photo index](../../shrimpfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> [prawns and shrimps](shrimp) >   
+Family [Palaemonidae](palaemonidae)
 **Peacock-tail
 anemone shrimp**  
 ***Ancylocaris brevicarpalis*****Family Palaemonidae***updated
@@ -66,14 +66,14 @@ Kusu Island, May 07*
 *![](brevicarpalis/080706chg7333m3b.jpg)*
 
 **Home Sweet Home:** We have seen these shrimps with these large sea anemones: [Giant
-carpet anemones](../../../cnidaria/actiniaria/gigantea.htm), [Haddon's
-carpet anemones](../../../cnidaria/actiniaria/haddoni.htm), [Magnificent
-anemones](../../../cnidaria/actiniaria/magnifica.htm), [Leathery
-anemone](../../../cnidaria/actiniaria/crispa.htm), [Pizza
-anemone](../../../cnidaria/actiniaria/cryptodendrum.htm), [Bubble-tip anemone](../../../cnidaria/actiniaria/entacmaea.htm), [Frilly sea anemone](../../../cnidaria/actiniaria/phymanthus.htm), [Snaky anemone](../../../cnidaria/actiniaria/doreensis.htm), [Fire anemone](../../../cnidaria/actiniaria/actinodendron.htm).  
+carpet anemones](../../../cnidaria/actiniaria/gigantea), [Haddon's
+carpet anemones](../../../cnidaria/actiniaria/haddoni), [Magnificent
+anemones](../../../cnidaria/actiniaria/magnifica), [Leathery
+anemone](../../../cnidaria/actiniaria/crispa), [Pizza
+anemone](../../../cnidaria/actiniaria/cryptodendrum), [Bubble-tip anemone](../../../cnidaria/actiniaria/entacmaea), [Frilly sea anemone](../../../cnidaria/actiniaria/phymanthus), [Snaky anemone](../../../cnidaria/actiniaria/doreensis), [Fire anemone](../../../cnidaria/actiniaria/actinodendron).  
   
 Rarely, [False
-clown anemonefishes](../../../vertebrates/fish/pomacentridae/ocellaris.htm) are also found
+clown anemonefishes](../../../vertebrates/fish/pomacentridae/ocellaris) are also found
 together with the anemone shrimps on the same anemone. They don't
 seem to bother one another.  
   
@@ -96,49 +96,49 @@ sea anemone at low tide! *Kusu Island, Jul 04*
 
 ![](../../../cnidaria/actiniaria/gigantea/070701hntg0823m3.jpg)  
 Sometimes, both anemone shrimps and   
-[anemonefishes](../../../vertebrates/fish/pomacentridae/ocellaris.htm)
+[anemonefishes](../../../vertebrates/fish/pomacentridae/ocellaris)
 share the same anemone.  
 *Pulau Hantu, Jul 07*
 
 *![](brevicarpalis/040731kusd3491m3.jpg)*In
 a [Haddon's carpet
-anemone](../../../cnidaria/actiniaria/haddoni.htm)*Kusu Island, Jul 04*
+anemone](../../../cnidaria/actiniaria/haddoni)*Kusu Island, Jul 04*
 
 *![](brevicarpalis/040411hntd0083m3.jpg)*In
 a [Magnificent
-anemone](../../../cnidaria/actiniaria/magnifica.htm)   
+anemone](../../../cnidaria/actiniaria/magnifica)   
  *Pulau
 Hantu, Apr 04*
 
 *![](brevicarpalis/070603sntrg9937m3.jpg)*In a [Giant
-carpet anemone](../../../cnidaria/actiniaria/gigantea.htm) *Sentosa, Jun 07*
+carpet anemone](../../../cnidaria/actiniaria/gigantea) *Sentosa, Jun 07*
 
 *![](brevicarpalis/100529kuslks6m3a.jpg)*  
 On a [pizza
-anemone](../../../cnidaria/actiniaria/cryptodendrum.htm). *Kusu Island, Jun 10*Photo
+anemone](../../../cnidaria/actiniaria/cryptodendrum). *Kusu Island, Jun 10*Photo
 shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/05/spectacular-coral-reef-of-kusu.html).
+blog](http://wondercreation.blogspot.com/2010/05/spectacular-coral-reef-of-kusul).
 
 *![](../../../cnidaria/actiniaria/crispa/100528kusmn1m3.jpg)*  
 On a [leathery
-anemone](../../../cnidaria/actiniaria/crispa.htm). *Kusu Island, May 10*Photo
+anemone](../../../cnidaria/actiniaria/crispa). *Kusu Island, May 10*Photo
 shared by Marcus Ng on [his
 flickr](http://www.flickr.com/photos/budak/4649067805/).
 
 *![](brevicarpalis/110507cyrd0994m3.jpg)*  
 On a [snaky
-anemone](../../../cnidaria/actiniaria/doreensis.htm). *Cyrene Reef, May 11*
+anemone](../../../cnidaria/actiniaria/doreensis). *Cyrene Reef, May 11*
 
 *![](brevicarpalis/121215sislks1.jpg)*  
-On a [bubble-tip anemone](../../../cnidaria/actiniaria/entacmaea.htm) *Sisters Island, Dec 12*Photo
+On a [bubble-tip anemone](../../../cnidaria/actiniaria/entacmaea) *Sisters Island, Dec 12*Photo
 shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8460870596/in/album-72157607605631877/).
 
 *![](brevicarpalis/130527tmlks.JPG)*  
-On a [Frilly anemone](../../../cnidaria/actiniaria/phymanthus.htm) *Tanah Merah, May 13*Photo
+On a [Frilly anemone](../../../cnidaria/actiniaria/phymanthus) *Tanah Merah, May 13*Photo
 shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/13989032809/in/album-72157664044624940/).
 
 *![](brevicarpalis/230804pcn1.jpg)*  
-On a [Fire anemone](../../../cnidaria/actiniaria/actinodendron.htm) *East Coast PCN, Aug 2023*
+On a [Fire anemone](../../../cnidaria/actiniaria/actinodendron) *East Coast PCN, Aug 2023*
 
 ---
 
@@ -174,11 +174,11 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ![](brevicarpalis/100519tsmjk4m3.jpg)  
  *Terumbu Semakau, May 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/05/100519-terumbu-semakau.html).
+blog](http://sgn090608.blogspot.com/2010/05/100519-terumbu-semakaul).
 
 *![](brevicarpalis/100502trygl2m3.JPG)*  
 *Terumbu Raya, May 10*Photo shared byGeraldine Lee on [her
-blog](http://starryfinds.blogspot.com/2010/05/terumbu-raya-rocks.html).
+blog](http://starryfinds.blogspot.com/2010/05/terumbu-raya-rocksl).
 
 *![](../../../cnidaria/actiniaria/crispa/110422tbmrl2m3.jpg)**Terumbu Bemban, Apr 11*  
 Photo shared by Russel Low on [facebook](http://www.facebook.com/media/set/fbx/?set=a.179715118746555.57014.109257872458947).
@@ -217,7 +217,7 @@ flickr](http://www.flickr.com/photos/koksheng/4719769650/).
 
 ![](../../../cnidaria/actiniaria/cryptodendrum/091204pawjk13m3d.jpg)  
 On a [pizza
-anemone](../../../cnidaria/actiniaria/cryptodendrum.htm). *Pulau Pawai, Dec 09*Shared by James Koh on [his
+anemone](../../../cnidaria/actiniaria/cryptodendrum). *Pulau Pawai, Dec 09*Shared by James Koh on [his
 flickr](http://www.flickr.com/photos/37823682@N04/4171813792/).
 
 ---
@@ -246,9 +246,9 @@ Filmed on Cyrene Reef, Mar 11
 
 **Links**
 
-- *[Periclimenes brevicarpalis](https://singapore.biodiversity.online/taxo4254/mainSpace/Periclimenes%20brevicarpalis%2C%20five-spot%20anemone%20shrimp.html)* (Decapoda: Palaemonidae) Five-spot anemone shrimp by Pwa Keay Hoon, 2016, on taxo4254.
+- *[Periclimenes brevicarpalis](https://singapore.biodiversity.online/taxo4254/mainSpace/Periclimenes%20brevicarpalis%2C%20five-spot%20anemone%20shrimpl)* (Decapoda: Palaemonidae) Five-spot anemone shrimp by Pwa Keay Hoon, 2016, on taxo4254.
 - [*Periclimenes
-  brevicarpalis*](http://www.sealifebase.fisheries.ubc.ca/summary/Periclimenes-brevicarpalis.html) on SeaLife Base.
+  brevicarpalis*](http://www.sealifebase.fisheries.ubc.ca/summary/Periclimenes-brevicarpalisl) on SeaLife Base.
 
 **References**
 
@@ -273,9 +273,9 @@ Filmed on Cyrene Reef, Mar 11
   exclusive of the vertebrates*
   Sea Challengers. 314pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

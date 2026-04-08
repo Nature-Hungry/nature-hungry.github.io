@@ -4,28 +4,28 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "thick, edge, sand, dollar, laganum, jacksonaster, depressum, laganidae, echinoidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 echinoids
-[text index](../../echinodermindex.htm#echinoidea) |
-[photo index](../../echinoideafi1.htm)
+[text index](../../echinodermindex#echinoidea) |
+[photo index](../../echinoideafi1)
 Phylum
-[Echinodermata](../../echinodermata.htm) > Class [Echinodea](../echinoidea.htm)
+[Echinodermata](../../echinodermata) > Class [Echinodea](../echinoidea)
 > Order
-[Clypeasteroida](sandollar.htm)
+[Clypeasteroida](sandollar)
 **Thick-edged
 sand dollar  
 *Jacksonaster depressum*Family Laganidae***updated
@@ -93,7 +93,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ![](depressum/100419chgjk1m3.jpg)  
 Dead sand dollar. *Changi, Apr 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/04/100419-changi.html).
+blog](http://sgn090608.blogspot.com/2010/04/100419-changil).
 
 ![](depressum/190704bbvc1.jpg)  
 *Beting Bronok, Jul 19*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo.php?fbid=10156721307287945&set=a.10156721306377945&type=3&theater).
@@ -109,10 +109,10 @@ Pulau Sekudu, Jun 17*Photo
 shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10155493331973158.1073741950.547198157&type=3).
 
 *![](depressum/130722skdlks.JPG)**Pulau Sekudu, Jul 13*  
-Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2013/08/sekudu-survey-in-predawn.html).
+Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2013/08/sekudu-survey-in-predawnl).
 
 *![](depressum/160706skdlks5.jpg)**Pulau Sekudu, Jul 16*  
-Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2016/07/baby-knobblies-at-pulau-sekudu.html).
+Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2016/07/baby-knobblies-at-pulau-sekudul).
 
 ---
 
@@ -181,7 +181,7 @@ flickr](http://www.flickr.com/photos/koksheng/4655947844/).
 *Sentosa, May
 09*![](depressum/090513sntlks5m3.jpg)  
 Photos shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/05/first-time-to-siloso-islet.html).
+blog](http://wondercreation.blogspot.com/2009/05/first-time-to-siloso-isletl).
 
 ---
 
@@ -194,7 +194,7 @@ blog](http://wondercreation.blogspot.com/2009/05/first-time-to-siloso-islet.html
   images and explanatory diagrams. With technical descriptions and
   photos of [*Laganum*](http://www.nhm.ac.uk/research-curation/research/projects/echinoid-directory/taxa/taxon.jsp?id=789).
 - [*Jacksonaster
-  depressum*](http://www.sealifebase.org/summary/Jacksonaster-depressum.html) in SeaLife Base: Technical fact sheet.
+  depressum*](http://www.sealifebase.org/summary/Jacksonaster-depressuml) in SeaLife Base: Technical fact sheet.
 
 **References**
 
@@ -207,9 +207,9 @@ blog](http://wondercreation.blogspot.com/2009/05/first-time-to-siloso-islet.html
   Red Data Book: Threatened plants and animals of Singapore*.
   Nature Society (Singapore). 285 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

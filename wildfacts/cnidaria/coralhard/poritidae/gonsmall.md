@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "goniopora, anemone, poritidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 hard corals [text
-index](../../coralhardindex.htm) | [photo index](../../cnidariafi1.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard.htm)
-> Family [Poritidae](poritidae.htm) > Genus [*Goniopora*](goniopora.htm)
+index](../../coralhardindex) | [photo index](../../cnidariafi1)
+Phylum [Cnidaria](../../cnidaria)
+> Class [Anthozoa](../../anthozoa) > Subclass
+Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard)
+> Family [Poritidae](poritidae) > Genus [*Goniopora*](goniopora)
 **Small
 goniopora coral  
 *Goniopora* sp.\*  
@@ -45,11 +45,11 @@ into the skeleton. Colony colours seen include pink, purple, greenish,
 yellow and brown.   
   
 Sometimes, tiny brown [acoel
-flatworms](../../../worm/acoela/acoela.htm) are seen on the oral disk or body columns of anemone
+flatworms](../../../worm/acoela/acoela) are seen on the oral disk or body columns of anemone
 coral polyps.  
   
 **May be confused with** [Favid
-corals](../faviidae/faviidae.htm) (Family Faviidae) or [Pore corals](porites.htm) (*Porites* sp.), but polyp body column of these other corals
+corals](../faviidae/faviidae) (Family Faviidae) or [Pore corals](porites) (*Porites* sp.), but polyp body column of these other corals
 are not as long as those of Goniopora corals.
 
 *![](gonsmall/050625labg8612m3.jpg)  
@@ -63,7 +63,7 @@ Polyps can retrat completely.
 ---
 
 *![](gonsmall/031223tused0053m3b.jpg)*With brown [acoel
-flatworms](../../../worm/acoela/acoela.htm)  
+flatworms](../../../worm/acoela/acoela)  
 *Tuas, Dec 03*
 
 ---
@@ -106,14 +106,14 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **![](gonsmall/130821cjlks3m3.jpg)*  
 Chek Jawa, Aug 2013*Photo
 shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2013/08/a-glimpse-of-glorious-beacon-area-at.html).
+blog](http://wondercreation.blogspot.sg/2013/08/a-glimpse-of-glorious-beacon-area-atl).
 
 **![](gonsmall/250529cjlk4a.jpg)*  
 Chek Jawa, May 2025*Photo
 shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10162754444488158&type=3&ref=embed_post).
 
 ![](gonsmall/250529cjlk4b.jpg)  
-The tiny animal is probably a [coral barnacle](../../../crustacea/othercrust/ciriipedia/coral.htm).
+The tiny animal is probably a [coral barnacle](../../../crustacea/othercrust/ciriipedia/coral).
 
 ---
 
@@ -150,9 +150,9 @@ Terumbu Salu, Jan 10
 
 *.*
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

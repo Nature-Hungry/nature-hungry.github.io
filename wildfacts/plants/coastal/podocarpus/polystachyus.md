@@ -9,22 +9,22 @@ layout: default
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 mangrove
-plants [text index](../../plantindex.htm) | [photo
-index](../../plantfi.htm)
+plants [text index](../../plantindex) | [photo
+index](../../plantfi)
 
 [coastal
-plants](../../coastal/coastalplants.htm) 
+plants](../../coastal/coastalplants) 
 ****Sea
 teak   
 *Podocarpus polystachyus***  
@@ -76,11 +76,11 @@ as 'Critically Endangered' in the Red List of threatened plants of
 Singapore. With the loss of our natural coastal habitats and mangroves,
 this once common plant is also becoming increasingly rare. Joseph
 Lai has recently recorded Sea teak at [Sisters
-Island](http://www.eart-h.com/text/sisflora.htm), [Lazarus
-Island](http://www.eart-h.com/text/lazarus.htm), [Pulau Jong](http://www.eart-h.com/text/jong1.htm)
-and [Pulau Sarimbun](http://www.eart-h.com/text/sarflora.htm).
+Island](http://www.eart-h.com/text/sisflora), [Lazarus
+Island](http://www.eart-h.com/text/lazarus), [Pulau Jong](http://www.eart-h.com/text/jong1)
+and [Pulau Sarimbun](http://www.eart-h.com/text/sarflora).
 It is also found in abundance on [Sentosa's
-natural cliffs](http://wildfilms.blogspot.com/2008/05/sea-teak-of-sentosa.html) at the Tanjung Rimau natural shore. According to
+natural cliffs](http://wildfilms.blogspot.com/2008/05/sea-teak-of-sentosal) at the Tanjung Rimau natural shore. According to
 the Red Data Book, it is also found at St. John's Island. On the mainland,
 it is only found in the Sungei Mandai area. But the tree is now widely
 planted in many of our coastal parks.
@@ -145,17 +145,17 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
   polystachyus*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3077) on the NParks Flora and Fauna website: photos
   and fact sheet.
 - [Sea
-  teak of Sentosa](http://wildfilms.blogspot.com/2008/05/sea-teak-of-sentosa.html) on the wildfilms blog.
+  teak of Sentosa](http://wildfilms.blogspot.com/2008/05/sea-teak-of-sentosal) on the wildfilms blog.
 - [A
-  closer look at sea teak](http://teamseagrass.blogspot.com/2007/08/30-aug-fri-sentosa.html) on the teamseagrass blog.
+  closer look at sea teak](http://teamseagrass.blogspot.com/2007/08/30-aug-fri-sentosal) on the teamseagrass blog.
 - [Sea
-  teak (*Podocarpus polystachyus*)](http://mangrove.nus.edu.sg/guidebooks/text/1040.htm) Ng, Peter K. L. & N.
+  teak (*Podocarpus polystachyus*)](http://mangrove.nus.edu.sg/guidebooks/text/1040) Ng, Peter K. L. & N.
   Sivasothi, 1999. A Guide to the Mangroves of Singapore I (Plant
   Diversity). Singapore Science Centre.
 - Giesen,
   Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
   [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.htm) (PDF online downloadable).
+  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
   RAP publication 2006/07 Food and Agriculture Organization of the
   United Nations Regional Office for Asia and the Pacific Bangkok.
 
@@ -185,9 +185,9 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 FREE photos of [coastal
 plants](http://www.flickr.com/photos/54527470@N00/sets/72157600057953536). Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

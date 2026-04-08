@@ -4,27 +4,12 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, pen, pennatulacea, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 other cnidarians
-[text index](cnidariaindex.htm) | [photo
-index](cnidariafi2.htm)
-Phylum [Cnidaria](cnidaria.htm)
-> Class [Anthozoa](anthozoa.htm) > Subclass Alcyonaria/Octocorallia
-> Order [Pennatulacea](others/pennatulacea/pennatulacea.htm)
+[text index](cnidariaindex) | [photo
+index](cnidariafi2)
+Phylum [Cnidaria](cnidaria)
+> Class [Anthozoa](anthozoa) > Subclass Alcyonaria/Octocorallia
+> Order [Pennatulacea](others/pennatulacea/pennatulacea)
 **Photo
 index of sea pens on Singapore shores**
 
@@ -34,27 +19,27 @@ index of sea pens on Singapore shores**
   
 ![](others/pennatulacea/spiky/050726chgg0380m.jpg)  
 [Spiky
-sea pens](others/pennatulacea/spiky.htm)  
+sea pens](others/pennatulacea/spiky)  
 *Pteroides* sp.
 
 ![](others/pennatulacea/veretillidae/020725chgd3953m.jpg)  
   
 ![](others/pennatulacea/veretillidae/050726chgg0400m.jpg)  
 [Flowery
-sea pens](others/pennatulacea/veretillidae.htm)  
+sea pens](others/pennatulacea/veretillidae)  
 Family Veretillidae
 
 ![](others/pennatulacea/pencil/031226chgd0020m.jpg)  
   
 ![](others/pennatulacea/pencil/050426cftg5070m.jpg)  
 [Sea
-pencils](others/pennatulacea/pencil.htm) *Lituaria* sp.
+pencils](others/pennatulacea/pencil) *Lituaria* sp.
 
 ![](others/pennatulacea/virgularia/020715chgd3327m.jpg)  
   
 ![](others/pennatulacea/virgularia/050724bbg0105m.jpg)  
 [Slender
-sea pens](others/pennatulacea/virgularia.htm)  
+sea pens](others/pennatulacea/virgularia)  
 *Virgularia* sp.
 
  
@@ -91,32 +76,32 @@ index of
 cnidarians on this site
 
 **Phylum
-Cnidaria****[with soft body](cnidariafi2.htm)****solitary**
+Cnidaria****[with soft body](cnidariafi2)****solitary**
  
-[jellyfish](jellyfishfi.htm)
+[jellyfish](jellyfishfi)
   
 and jelly-like  
   
-[anemones](anemonefi1.htm)   
+[anemones](anemonefi1)   
 and anemone-like
 **colonial**
  
-[bushy](coralsoftfi3.htm)
+[bushy](coralsoftfi3)
   
   
-[fern-like](hydrozoafi.htm)   
+[fern-like](hydrozoafi)   
   
-[feathery](coralsoftfi2.htm)  
+[feathery](coralsoftfi2)  
   
-[leathery](coralsoftfi1.htm)  
+[leathery](coralsoftfi1)  
   
 stick-like   
   
-[thin branching](gorgonaceafi.htm)
+[thin branching](gorgonaceafi)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

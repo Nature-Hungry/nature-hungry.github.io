@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "beareded, filefish, file, fish, leather, jacket, anacanthus, barbatus, monacanthidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Monacanthidae](monacanthidae.htm)
+> Subphylum Vertebrate > [fishes](../fish) >
+Family [Monacanthidae](monacanthidae)
 **Bearded
 filefish  
 *Anacanthus barbatus***  
@@ -48,10 +48,10 @@ out so that the fish looks like a pointed stick. Like other filefishs, it has a 
   
 **Sometimes mistaken for** other fishes that resemble sticks.
 Here's more on [how to tell apart stick-like
-fishes](../cfstick.htm) commonly seen on our shores.
+fishes](../cfstick) commonly seen on our shores.
 *![](anacanthus/110929tmftnml1m6.jpg)  
 Tanah Merah, Sep 11*Photo shared by Neo Mei Lin on [her
-blog](http://psychedelic-nature.blogspot.com/2011/10/bukom-incident-and-brief-look-at-tanah.html).
+blog](http://psychedelic-nature.blogspot.com/2011/10/bukom-incident-and-brief-look-at-tanahl).
 *![](anacanthus/080523cyrd3973m6l.jpg)  
 Cyrene Reef, May 08* 
 
@@ -98,7 +98,7 @@ Sentosa Marina, May 2018
   on the IUCN Red List.
 - [Volume
   6: Bony fishes part 4 (Labridae to Latimeriidae), estuarine crocodiles,
-  sea turtles, sea snakes and marine mammals](http://www.fao.org/docrep/009/y0870e/y0870e00.htm) FAO Species Identification
+  sea turtles, sea snakes and marine mammals](http://www.fao.org/docrep/009/y0870e/y0870e00) FAO Species Identification
   Guide for Fishery Purposes The Living Marine Resources of the
   Western Central Pacific.
 
@@ -115,9 +115,9 @@ Sentosa Marina, May 2018
   Reef Fishes of the World*
   Periplus Editions. 400pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "flat, fish, flatfish, sole, flounder, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm)
+> Subphylum Vertebrata > [fishes](../fish)
 **Flatfishes**  
 **Order Pleuronectiformes***updated
 Oct 2020*
@@ -45,7 +45,7 @@ seen?** Like animated leaves, these fishes are encountered on many of our
 shores.Tiny juvenile soles are
 sometimes seen by the eagle-eyed visitor on the sand, especially in
 seagrass areas. These may be as tiny as 2cm long. Some small ones
-may be mistaken for [flatworms](../../../worm/polycladida/polycladida.htm)!
+may be mistaken for [flatworms](../../../worm/polycladida/polycladida)!
 Larger adults (20-40cm) are sometimes encountered too, usually when
 they are accidentally stepped upon. **What are flatfishes?** Flatfishes
 belong to the Order Pleuronectiformes. These fishes are flat, with
@@ -88,7 +88,7 @@ include the Family Paralichthyidae (lefteye flounders). Right-eyed
 flatfish include the Family Pleuronectidae (righteye flounders); Family
 Soleidae (true soles) and Family Cynoglossidae (tongue-soles). Here's
 more on [how to tell apart flatfish
-families](pleuronectiformes1.htm) commonly seen on our shores.  
+families](pleuronectiformes1) commonly seen on our shores.  
   
 **Human uses:** Many flatfishes are
 edible and some species are important commercially. Soles are said
@@ -102,32 +102,32 @@ on Singapore shores**
 ---
 
 **![](../soleidae/commersonnii/050818cftg1401m3.jpg)  
-[Commerson's sole](../soleidae/commersonnii.htm)**
+[Commerson's sole](../soleidae/commersonnii)**
 
-***![](../cynoglossidae/cynoglossidae/050429cftg5340m3.jpg)*[Tongue-sole](../cynoglossidae/cynoglossidae.htm)**
+***![](../cynoglossidae/cynoglossidae/050429cftg5340m3.jpg)*[Tongue-sole](../cynoglossidae/cynoglossidae)**
 
-***![](../soleidae/pavoninus/050722cjg9806m3.jpg)*[Peacock sole](../soleidae/pavoninus.htm)**
+***![](../soleidae/pavoninus/050722cjg9806m3.jpg)*[Peacock sole](../soleidae/pavoninus)**
 
 ---
 
 **![](../paralichthyidae/paralichthyidae/050917smkg2477m3.jpg)  
-[Large-tooth flounder](../paralichthyidae/paralichthyidae.htm)**
+[Large-tooth flounder](../paralichthyidae/paralichthyidae)**
 
 **![](../bothidae/polyophthalmus/080509cyrd2745m3.jpg)  
-[Three-spot flounder](../bothidae/polyophthalmus.htm)**
+[Three-spot flounder](../bothidae/polyophthalmus)**
 
 **![](../soleidae/orientalis/090623ecpd4978m3.jpg)  
-[Oriental sole](../soleidae/orientalis.htm)**
+[Oriental sole](../soleidae/orientalis)**
 
 ---
 
-***![](../soleidae/ovata/050511cftg6220m3.jpg)*[Ovate sole](../soleidae/ovata.htm)**
+***![](../soleidae/ovata/050511cftg6220m3.jpg)*[Ovate sole](../soleidae/ovata)**
 
 **![](../psettodidae/erumei/090622chgd4715m3.jpg)  
-[Indian halibut](../psettodidae/psettodidae.htm)**
+[Indian halibut](../psettodidae/psettodidae)**
 
 **![](../soleidae/zebra/100612chgd5283m3.jpg)  
-[Zebra sole](../soleidae/orientalis.htm)**
+[Zebra sole](../soleidae/orientalis)**
 
 ---
 
@@ -142,11 +142,11 @@ Marine Fishes of Singapore*.
   
  
 **[Family
-Bothidae](../bothidae/polyophthalmus.htm) (lefteye flounders)**with list of species recorded for Singapore
+Bothidae](../bothidae/polyophthalmus) (lefteye flounders)**with list of species recorded for Singapore
   
  
 **[Family
-Paralichthyidae](../paralichthyidae/paralichthyidae.htm)(large-tooth flounders)**with
+Paralichthyidae](../paralichthyidae/paralichthyidae)(large-tooth flounders)**with
 list of species recorded for Singapore  
 *formerly included in Family Bothidae*
   
@@ -159,13 +159,13 @@ cristatus*
   
  
 **[Family
-Psettodidae](../psettodidae/psettodidae.htm) (halibuts)** with list of species recorded for Singapore
+Psettodidae](../psettodidae/psettodidae) (halibuts)** with list of species recorded for Singapore
   
  
-**[Family Soleidae](../soleidae/soleidae.htm)(soles)**with list of species recorded for Singapore  
+**[Family Soleidae](../soleidae/soleidae)(soles)**with list of species recorded for Singapore  
   
  **[Family
-Cynoglossidae](../cynoglossidae/cynoglossidae.htm)(tongue-soles)** with list of species
+Cynoglossidae](../cynoglossidae/cynoglossidae)(tongue-soles)** with list of species
 recorded for Singapore
 
 ---
@@ -177,11 +177,11 @@ recorded for Singapore
   from [FishBase](http://www.fishbase.org/): Technical
   fact sheet on the family, and fact sheets on individual species.
 - [Volume
-  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.htm) FAO Species
+  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
   Identification Guide for Fishery Purposes The Living Marine Resources
   of the Western Central Pacific.
 - [Cock-eyed
-  fish: how did it get to be that way?](http://wildshores.blogspot.com/2008/09/cock-eyed-fish-how-did-it-get-that-way.html) some fossil findings
+  fish: how did it get to be that way?](http://wildshores.blogspot.com/2008/09/cock-eyed-fish-how-did-it-get-that-wayl) some fossil findings
   on the wild shores of singapore blog.
 
 **References**
@@ -212,9 +212,9 @@ recorded for Singapore
   of Fishes*
   2nd ed. Thomson Learning Inc., 750pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

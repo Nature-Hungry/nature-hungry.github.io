@@ -4,21 +4,6 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "coeloplana, ctenophora, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 **Leathery
 soft coral ctenophores**  
 ***Coeloplana* sp.   
@@ -37,7 +22,7 @@ Sentosa, Nov 11*
 *![](coeloplana/120819cyrd0493m3.jpg)  
 Cyrene Reef, Aug 12*
 **Features:** 1cm or smaller, body very flat with colour and patterns to match their
-host. Those seen so far were on large [Leathery soft corals](../cnidaria/coralsoft/alcyoniidae.htm), often with many
+host. Those seen so far were on large [Leathery soft corals](../cnidaria/coralsoft/alcyoniidae), often with many
 individuals on one soft coral.   
   
 The tiny animal produces two fringe tentacles
@@ -70,7 +55,7 @@ critters. **Links**
 - [Benthic
   ctenophores](http://www.seaslugforum.net/find/ctenopho) on the Sea Slug Forum by Dr Bill Rudman
 - [Tiny
-  ctenophores](http://wildshores.blogspot.sg/2011/12/tiny-ctenophores.html) on the wild shores of singapore
+  ctenophores](http://wildshores.blogspot.sg/2011/12/tiny-ctenophoresl) on the wild shores of singapore
 
 **References**
 
@@ -80,9 +65,9 @@ critters. **Links**
   Australian Institute of Marine Science and the Museum and Art
   Gallery of the Northern Territoriy. 264 pp
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

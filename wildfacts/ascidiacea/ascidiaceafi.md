@@ -4,46 +4,33 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
+ 
 
 ascidians
-[text index](ascidiaceaindex.htm)
+[text index](ascidiaceaindex)
 Phylum Chordata
-| Subphylum Tunicata/Urochordata | Class [Ascidiacea](ascidiacea.htm)
+| Subphylum Tunicata/Urochordata | Class [Ascidiacea](ascidiacea)
 **Photo
 index of ascidians on Singapore shores**
 
 ---
 
 ![](polycarpa/050510tusg6134m.jpg)  
-[Thumbs-up sea squirt](polycarpa.htm) *Polycarpa* sp.
+[Thumbs-up sea squirt](polycarpa) *Polycarpa* sp.
 
 ![](jelly/100726chgd9196m.jpg)  
-[Jelly sea squirt](jelly.htm) *Ascidia gemmata*
+[Jelly sea squirt](jelly) *Ascidia gemmata*
 
 ![](eudistoma/050311labg3270m.jpg)  
 [Yellow clustered   
-bead ascidians](eudistoma.htm) *Eudistoma* sp.
+bead ascidians](eudistoma) *Eudistoma* sp.
 
 ![](greengumdrop/050309smkg3143m.jpg)  
 [Green gum drops  
-ascidians](greengumdrop.htm) *awaiting identification*
+ascidians](greengumdrop) *awaiting identification*
 
 ![](bubble/120820sisd0781m.jpg)  
-[Bubble ascidians](bubble.htm) *awaiting identification*
+[Bubble ascidians](bubble) *awaiting identification*
 
 3-5cm long, with two 'fingers', white with orange or red stripes.On
 large boulders, jetty pilings. Commonly seen on our Northern shores.
@@ -64,20 +51,20 @@ and on rocks on some of our shores.
 ---
 
 ![](orange/050623cjg8270ma.jpg)  
-[Orange ascidian](orange.htm)  
+[Orange ascidian](orange)  
 Family Styelidae
 
 ![](white/050822cjg2166mc.jpg)  
-[White ascidian](white.htm) *awaiting identification*
+[White ascidian](white) *awaiting identification*
 
 ![](pink/060716sisd4597m.jpg)  
-[Pink ascidian](pink.htm) *awaiting identification*
+[Pink ascidian](pink) *awaiting identification*
 
 ![](blob/060516chgd2028m.jpg)  
-[Blob ascidian](blob.htm) *awaiting identification*
+[Blob ascidian](blob) *awaiting identification*
 
 ![](brain/100403tbbd0729ma.jpg)  
-[Brain ascidian](brain.htm) *awaiting identification*
+[Brain ascidian](brain) *awaiting identification*
 
 5-10cm.
 Slimy layers on rubble and big boulders. Sometimes seen on our Northern
@@ -98,13 +85,13 @@ blue or green. Seen on some of our Southern shores.
 ---
 
 ![](orangespotted/080422smkd1530ma.jpg)  
-[Orange-spotted ascidian](orangespotted.htm) *awaiting identification*
+[Orange-spotted ascidian](orangespotted) *awaiting identification*
 
 ![](rockslime/060613ecpd2943m.jpg)  
-[Rock slime ascidian](rockslime.htm) *awaiting identification*
+[Rock slime ascidian](rockslime) *awaiting identification*
 
 ![](beige/090623ecpd4897m.jpg)  
-[Beige sheet ascidian](rockslime.htm) *Didemnum psammatodes*
+[Beige sheet ascidian](rockslime) *Didemnum psammatodes*
 
  
  
@@ -130,25 +117,25 @@ are NOT ascidians**
 
 ![](../porifera/spatula/050413labg4698m.jpg)  
 [Blue spatula  
-sponge](../porifera/clathria.htm)   
+sponge](../porifera/clathria)   
 Phylum Porifera
 
 ![](../porifera/smoothblue/050808sntg0856m.jpg)  
 [Smooth blue  
-sponge](../porifera/smoothblue.htm)   
+sponge](../porifera/smoothblue)   
 Phylum Porifera
 
 ![](../porifera/encrustprickly/051204sisg3279m.jpg)  
 [Prickly   
-encrusting sponge](../porifera/encrustprickly.htm)   
+encrusting sponge](../porifera/encrustprickly)   
 Phylum Porifera
 
 ![](../plants/seaweed/rhodophyta/encrust/050610sntg7603ma.jpg)  
 [Encrusting  
-coralline algae](../plants/seaweed/rhodophyta/corallinaceae.htm)
+coralline algae](../plants/seaweed/rhodophyta/corallinaceae)
 
 ![](../cnidaria/others/zoanthid/various/050312hntg3349m.jpg)  
-[Zoanthids](../cnidaria/others/zoanthid/zoanthid.htm)   
+[Zoanthids](../cnidaria/others/zoanthid/zoanthid)   
 Order Zoanthidae
 
  
@@ -163,11 +150,11 @@ retracted.
 ---
 
 how
-to tell apart [blob-like lifeforms](../glossary/blobs.htm)
+to tell apart [blob-like lifeforms](../glossary/blobs)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

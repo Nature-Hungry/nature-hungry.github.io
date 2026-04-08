@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "three, spined, toadfish, toad, fish, batrachomoeus, trispinosus, batrachoididae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm)
+> Subphylum Vertebrate > [fishes](../fish)
 **ToadfishesFamily Batrachoididae***updated
 Sep 2020*
 
@@ -50,7 +50,7 @@ Indian and Pacific oceans. 'Batrachos' means
 'frog' in Greek and members of the toadfish family do indeed croak
 when distressed. They make these sounds by vibrating the swim bladder.
 They are commonly called toadfishes instead of frogfishes because
-the [Frogfish](../antennariidae/antennariidae.htm) is another
+the [Frogfish](../antennariidae/antennariidae) is another
 kind of fish.   
   
 **Features:** A toadfish is basically an enormous
@@ -69,7 +69,7 @@ fin base.*Allenbatrachus reticulatus* looks similar and lacks this pit.
   
 **Sometimes mistaken for** stonefish
 and scorpionfishes. Here's more on [how
-to tell apart fishes that look like stones](../cfstonefish.htm).
+to tell apart fishes that look like stones](../cfstonefish).
 *![](trispinosus/050526cjg6754m3.jpg)*Huge eyes often the first sign of the fish   
 hidden under stones. *Chek Jawa, May 05*
 ![](trispinosus/070812sisd5439m6l.jpg)  
@@ -92,11 +92,11 @@ from escaping.
 
 ![](trispinosus/140713bblks1m6l.jpg)  
 Parent fish looking after its young? *Beting Bronok, Jul 14*Photo
-shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2015/08/hows-beting-bronok-over-two-years.html).
+shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2015/08/hows-beting-bronok-over-two-yearsl).
 
 ![](trispinosus/140713bblks2m3.JPG)  
 Closer look at the young fishes. *Beting Bronok, Jul 14*Photo
-shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2015/08/hows-beting-bronok-over-two-years.html).
+shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2015/08/hows-beting-bronok-over-two-yearsl).
 **Human uses:**In some places,
 members of this family are considered edible delicacies. It is also
 sold in the live aquarium trade.  
@@ -216,12 +216,12 @@ trispinosus* (Three-spined toadfish)
 **Links**  
 
 - [Three-spined
-  Toadfish (*Batrachomoeus trispinosus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/232.htm) Lim, Kelvin K.
+  Toadfish (*Batrachomoeus trispinosus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/232) Lim, Kelvin K.
   P. & Jeffrey K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
 - [Toadfish
-  (*Batrachus* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/232.htm) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A Guide
+  (*Batrachus* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/232) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A Guide
   to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*[.
   The Singapore Science Centre](http://mangrove.nus.edu.sg/pub/seashore/), Singapore. 160 pp.
 - [Batrachoididae (Toadfishes)](https://singapore.biodiversity.online/taxon/A-Vert-Fish-Batrachoidiformes-Batrachoididae) on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
@@ -256,9 +256,9 @@ trispinosus* (Three-spined toadfish)
   Ewald and Robert Myers. 2001. *Coral
   Reef Fishes of the World* Periplus Editions. 400pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

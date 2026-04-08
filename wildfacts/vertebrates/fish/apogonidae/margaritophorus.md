@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "chequered, cardinalfish, cardinal, fish, ostorhinchus, apogon, margaritophorus, apogonidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Apogonidae](apogonidae.htm)
+> Subphylum Vertebrate > [fishes](../fish) >
+Family [Apogonidae](apogonidae)
 **Chequered
 cardinalfish**  
 ***Ostorhinchus margaritophorus***  
@@ -74,12 +74,12 @@ but not touching the sea anemones. However, the fish has not been
 observed near our long-spined sea urchins.
 
 **![](margaritophorus/090310tuso3101390.jpg)**  
-Hovering near [Giant carpet anemone](../../../cnidaria/actiniaria/gigantea.htm)  
+Hovering near [Giant carpet anemone](../../../cnidaria/actiniaria/gigantea)  
 occupied by anemonefishes.
  *Tuas, Mar 09*
 
 ![](margaritophorus/050426cftd2765.jpg)  
-Hovering near [Haddon's carpet anemone](../../../cnidaria/actiniaria/haddoni.htm).  *Changi, Apr 05*
+Hovering near [Haddon's carpet anemone](../../../cnidaria/actiniaria/haddoni).  *Changi, Apr 05*
 
  *\*Species are difficult to positively identify without close examination.  
 On this website, they are grouped by external features for convenience of
@@ -133,12 +133,12 @@ Tengah, May 11*Photo shared by Ivan Kwan on [flickr](http://www.flickr.com/photo
 **Links**  
 
 - [Chequered
-  cardinalfish (*Apogon margaritophorus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/275.htm) Lim, Kelvin K.
+  cardinalfish (*Apogon margaritophorus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/275) Lim, Kelvin K.
   P. & Jeffrey K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
 - [Chequered
-  Cardinalfish](http://www.ecologyasia.com/verts/fishes/chequered-cardinalfish.htm) on Ecology Asia: fact sheet with photos
+  Cardinalfish](http://www.ecologyasia.com/verts/fishes/chequered-cardinalfish) on Ecology Asia: fact sheet with photos
 - [Cardinalfishes](http://ikanfish.wordpress.com/cardinalfishes/) on Reef Fishes of Singapore by Jeffrey Low.
 - [*Ostorhinchus
   margaritophorus* (Red-striped cardinalfish)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=58156) from [FishBase](http://www.fishbase.org/):
@@ -151,9 +151,9 @@ Tengah, May 11*Photo shared by Ivan Kwan on [flickr](http://www.flickr.com/photo
   Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
   Periplus Editions. 292 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

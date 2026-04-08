@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
 keywords: "seahorse, horse, hippocampus, syngnathidae, kuda, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm) >
-Family [Syngnathidae](syngnathidae.htm)
+> Subphylum Vertebrata > [fishes](../fish) >
+Family [Syngnathidae](syngnathidae)
 **Seahorses*****Hippocampus* sp.**  
 **Family Syngnathidae***updated
 Oct 2020*
@@ -44,8 +44,8 @@ everyone knows what a seahorse looks like. An endearing, unfish-like
 fish, it truly captures the imagination.Seahorses are more common on our shores that most people
 might think. They are superbly camouflaged and thus often overlooked.
 Some may be as large as 11cm, but there are tiny ones too. **What are seahorses?** Seahorses are actually fishes! They
-belong to [Family Syngnathidae](syngnathidae.htm) which
-includes [pipefishes](pipefish.htm). **Features:** To 30cm long, those seen about 5-12cm. The seahorse
+belong to [Family Syngnathidae](syngnathidae) which
+includes [pipefishes](pipefish). **Features:** To 30cm long, those seen about 5-12cm. The seahorse
 doesn't have scales like most other fishes. It is encased in an inflexible
 armour of overlapping bony plates that lie just beneath its skin.
 Like other fishes, it also has an internal skeleton.
@@ -151,17 +151,17 @@ on Singapore shores**
 
 ![](kuda/050511cftg6328m3.jpg)  
 [**Estuarine
-seahorses**](kuda.htm)  
+seahorses**](kuda)  
 body and tail the same colour
 
 ![](kuda/031226chgd0026m3.jpg)  
 [**Estuarine
-seahorses**](kuda.htm)  
+seahorses**](kuda)  
 'hairy' and usually small
 
 ![](comes/050625labg8740m3.jpg)  
 [**Tiger-tailed
-seahorses**](comes.htm)  
+seahorses**](comes)  
 tail is banded yellow and black
 
 ---
@@ -177,13 +177,13 @@ plants and animals of Singapore*.
 +Other additions (e.g., Singapore Biodiversity Records).
  
 **[Family
-Syngnathidae](syngnathidae.htm)** which
-includes [pipefishes](pipefish.htm)
+Syngnathidae](syngnathidae)** which
+includes [pipefishes](pipefish)
  
 *[Hippocampus
-comes](comes.htm)* (Tiger-tailed seahorse)
+comes](comes)* (Tiger-tailed seahorse)
 (VU: Vulnerable) *Hippocampus histrix  
-[Hippocampus kuda](kuda.htm)*(Estuarine seahorse)(VU: Vulnerable)*+Hippocampus mohnikei* (Japanese seahorse) *Hippocampus spinosissimus  
+[Hippocampus kuda](kuda)*(Estuarine seahorse)(VU: Vulnerable)*+Hippocampus mohnikei* (Japanese seahorse) *Hippocampus spinosissimus  
 Hippocampus trimaculatus*
 
 ---
@@ -191,12 +191,12 @@ Hippocampus trimaculatus*
 **Links**
 
 - [Seahorse
-  (*Hippocampus* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/229.htm) Tan, Leo W. H. & Ng, Peter K. L.,
+  (*Hippocampus* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/229) Tan, Leo W. H. & Ng, Peter K. L.,
   1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [Spotted
-  Seahorse (*Hippocampus kuda*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/248.htm) Lim, Kelvin K. P. & Jeffrey
+  Seahorse (*Hippocampus kuda*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/248) Lim, Kelvin K. P. & Jeffrey
   K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/).* Singapore
   Science Centre. 163 pp.
@@ -210,11 +210,11 @@ Hippocampus trimaculatus*
   lots of info and photos on seahorses, what they are and threats
   to their existence.
 - [What
-  is the social life of a seahorse?](http://www.madsci.org/posts/archives/apr2001/987624645.Zo.r.html) on the [Mad
+  is the social life of a seahorse?](http://www.madsci.org/posts/archives/apr2001/987624645.Zo.rl) on the [Mad
   Scientist](http://www.madsci.org/) website: Ingrid Dodge explains the fascinating interactions
   among seahorses.
 - [On
-  a seahorse, what purpose does the coronet have?](http://www.madsci.org/posts/archives/nov99/942719854.Gb.r.html) on the [Mad
+  a seahorse, what purpose does the coronet have?](http://www.madsci.org/posts/archives/nov99/942719854.Gb.rl) on the [Mad
   Scientist](http://www.madsci.org/) website: Ingrid Dodge suggests some reasons for
   the little crown on the seahorse's head.
 - [Family
@@ -224,7 +224,7 @@ Hippocampus trimaculatus*
   seahorse (*Hippocampus trimaculatus*)](http://www.fishbase.org/summary/22816) from [FishBase](http://www.fishbase.org/):
   Technical fact sheet.
 - [Papa
-  seahorses prefer Big Mamas](http://wildshores.blogspot.com/2009/07/papa-seahorses-prefer-big-mamas.html) on the wild shores of singapore
+  seahorses prefer Big Mamas](http://wildshores.blogspot.com/2009/07/papa-seahorses-prefer-big-mamasl) on the wild shores of singapore
   blog.
 
 **References**
@@ -261,9 +261,9 @@ Hippocampus trimaculatus*
   of the Sexes in the Animal World*
   BBC Worldwide, London. 224 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

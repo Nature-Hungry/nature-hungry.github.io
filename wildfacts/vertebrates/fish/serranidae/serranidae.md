@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "grouper, fish, serranidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm)
+> Subphylum Vertebrata > [fishes](../fish)
 **Groupers**  
 **Family Serranidae***updated
 Oct 2020*
@@ -72,7 +72,7 @@ to begin with. At the same time, they have high commercial value and
 are relatively easy to catch. Many are territorial and stay within
 a particular home range, and most are not shy of divers. In the Hong
 Kong area, populations of the larger groupers are dwindling and smaller
-groupers such as the [Chocolate hind](boenak.htm) (*Cephalopholis
+groupers such as the [Chocolate hind](boenak) (*Cephalopholis
 boenak*) are now being targetted.   
   
 Being top predators, they are naturally uncommon. They reach maturity
@@ -86,7 +86,7 @@ these fishes.
   
 In Southeast Asia, groupers are widely farmed in floating cages or
 in ponds and tanks. In Singapore, some like the [Orange-spotted
-grouper](coioides.htm) (*Epinephalus coioides*) and Malabar grouper (*Epinephelus
+grouper](coioides) (*Epinephalus coioides*) and Malabar grouper (*Epinephelus
 malabaricus*) are reared in floating cages in the sea until they
 reach marketable size. However, the farms are mostly stocked by juveniles
 harvested unsustainably from the wild.
@@ -98,16 +98,16 @@ on Singapore shores**
 
 ---
 
-***![](boenak/100527tmd3431m3.jpg)*[Chocolate hind](boenak.htm)**
+***![](boenak/100527tmd3431m3.jpg)*[Chocolate hind](boenak)**
 
 **![](coioides/120606bbd4364m3.jpg)  
-[Orange-spotted grouper](coioides.htm)**
+[Orange-spotted grouper](coioides)**
 
-***![](formosa/150520ecplks2.jpg)*[Bluelined hind](formosa.htm)**
+***![](formosa/150520ecplks2.jpg)*[Bluelined hind](formosa)**
 
 ---
 
-***![](quoyanus/110418tmftd9031m3.jpg)* [Honeycomb grouper](quoyanus.htm)**
+***![](quoyanus/110418tmftd9031m3.jpg)* [Honeycomb grouper](quoyanus)**
 
 ---
 
@@ -134,8 +134,8 @@ Serranidae**
  
 *Anyperodon
 leucogrammicus* *Cephalopholis argus  
-[Cephalopholis boenak](boenak.htm)* (Chocolate
-hind) *[Cephalopholis formosa](formosa.htm)* (Blue-lined hind) *Cromileptes altivelis* (Humpback grouper) *Diploprion bifasciatum* (Yellow soapfish) *Plectropomus maculatus  
+[Cephalopholis boenak](boenak)* (Chocolate
+hind) *[Cephalopholis formosa](formosa)* (Blue-lined hind) *Cromileptes altivelis* (Humpback grouper) *Diploprion bifasciatum* (Yellow soapfish) *Plectropomus maculatus  
   
 Variola louti  
   
@@ -145,7 +145,7 @@ Epinephelus awoara
 Epinephelus bleekeri  
 Epinephelus boenack=\*\*Cephalopholis boenak  
 Epinephelus caeruleo-punctatus  
-[Epinephelus coioides](coioides.htm)* (Orange-spotted
+[Epinephelus coioides](coioides)* (Orange-spotted
 grouper) *Epinephelus corallicola  
 Epinephelus diacanthus  
 Epinephelus fasciatus  
@@ -154,7 +154,7 @@ Epinephelus lanceolatus* (Giant grouper) *Epinephelus malabaricus* (Malabar grou
 Epinephelus merra  
 Epinephelus nebulosus=\*\*Epinephelus coioides  
 Epinephelus pachycentrum=\*\*Cephalopholis boenak  
-[Epinephelus quoyanus](quoyanus.htm)* (Honeycomb/Longfin
+[Epinephelus quoyanus](quoyanus)* (Honeycomb/Longfin
 grouper) *Epinephelus sexfasciatus  
 Epinephelus tauvina  
 Epinephelus urodelus=\*\*Cephalopholis urodeta*
@@ -163,7 +163,7 @@ Epinephelus urodelus=\*\*Cephalopholis urodeta*
 **\*\*now
 in Family Centrogenyidae (False scorpionfishes)**
  
-*[Centrogenys vaigiensis](../centrogenyidae/vaigiensis.htm)* (False
+*[Centrogenys vaigiensis](../centrogenyidae/vaigiensis)* (False
 scorpionfish)
 
 ---
@@ -171,12 +171,12 @@ scorpionfish)
 **Links**  
 
 - [Marbled
-  Grouper (*Epinephalus tauvina*)](http://mangrove.nus.edu.sg/pub/seashore/text/243.htm) Tan, Leo W. H. & Ng,
+  Grouper (*Epinephalus tauvina*)](http://mangrove.nus.edu.sg/pub/seashore/text/243) Tan, Leo W. H. & Ng,
   Peter K. L., 1988, *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [Orange-spotted
-  Grouper (*Epinephelus coioides*)](http://mangrove.nus.edu.sg/guidebooks/text/2103.htm) Ng, Peter K. L. & N.
+  Grouper (*Epinephelus coioides*)](http://mangrove.nus.edu.sg/guidebooks/text/2103) Ng, Peter K. L. & N.
   Sivasothi, 1999. *[A
   Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
   Singapore Science Centre. 168 pp.
@@ -185,7 +185,7 @@ scorpionfish)
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
 - [IUCN
-  Groupers and Wrasses Specialist Group](http://www.hku.hk/ecology/GroupersWrasses/iucnsg/index.html): Details on groupers
+  Groupers and Wrasses Specialist Group](http://www.hku.hk/ecology/GroupersWrasses/iucnsg/indexl): Details on groupers
   and the threats they face.
 - [Family
   Serranidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=289) from [FishBase](http://www.fishbase.org/):
@@ -194,11 +194,11 @@ scorpionfish)
 - From
   the wild shores of singapore
   - [Eating
-    groupers devastates reefs and lives](http://wildshores.blogspot.com/2009/02/eating-live-grouper-devastates-reefs.html)
+    groupers devastates reefs and lives](http://wildshores.blogspot.com/2009/02/eating-live-grouper-devastates-reefsl)
   - [Groupers
-    nearly gone](http://wildshores.blogspot.com/2008/10/groupers-nearly-gone.html)
+    nearly gone](http://wildshores.blogspot.com/2008/10/groupers-nearly-gonel)
   - [Groupers
-    are undersea architects building habitats for others](http://wildshores.blogspot.com/2010/01/groupers-are-undersea-architects.html)
+    are undersea architects building habitats for others](http://wildshores.blogspot.com/2010/01/groupers-are-undersea-architectsl)
 
 **References**
 
@@ -226,9 +226,9 @@ scorpionfish)
   Reef Fishes of the World*
   Periplus Editions. 400pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

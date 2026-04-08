@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "red, scaly, sea star, seastar, starfish, star, fish, nepanthia, maculata, asterinidae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 sea
-stars [text index](../echinodermindex.htm) | [photo
-index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class Stelleroida > Subclass [Asteroidea](asteroidea.htm)
+stars [text index](../echinodermindex) | [photo
+index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
+> Class Stelleroida > Subclass [Asteroidea](asteroidea)
 **Pale
 scaly sea stars  
 *Nepanthia maculata*  
@@ -47,7 +34,7 @@ underside is plain. On the underside, in grooves along the arms, are
 long tube feet tipped with suckers.  
   
 **May be mistaken for** the [Red
-scaly sea star](nepred.htm). The Red scaly sea star
+scaly sea star](nepred). The Red scaly sea star
 is smaller with reddish markings on the underside, and is more commonly
 encountered.
 
@@ -87,14 +74,4 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
   Guide to Sea Stars and Other Echinoderms of Singapore*.
   Singapore Science Centre. 187pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

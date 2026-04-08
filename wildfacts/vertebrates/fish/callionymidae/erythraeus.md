@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "dragonet, fish, callionymidae, callionymus, erythraeus, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Callionymidae](callionymidae.htm)
+> Subphylum Vertebrate > [fishes](../fish) >
+Family [Callionymidae](callionymidae)
 **Smallhead
 dragonet  
 *Callionymus erythraeus***  
@@ -55,8 +55,8 @@ of the body, dark markings on the anal fin, and the first dorsal fin
 of males with elongate second, third, and fourth fin rays. The females
 lack this.   
   
-**Sometimes mistaken** for [flatheads](../platycephalidae/platycephalidae.htm) (Family Platycephalidae). Here's more on [how
-to tell apart fish with flat heads](../cfflatheads.htm).
+**Sometimes mistaken** for [flatheads](../platycephalidae/platycephalidae) (Family Platycephalidae). Here's more on [how
+to tell apart fish with flat heads](../cfflatheads).
 ![](erythraeus/090709chgd6825m3.jpg)  
 *Changi, Jul 09*   
 ![](erythraeus/090709chgd6828m6l.jpg)  
@@ -105,9 +105,9 @@ thanks to Dr Ng Heok Hee for correcting the identification of these
 fishes. **Links**  
 
 - [Smallhead
-  dragonet (*Callionymus erythraeus*)](http://www.fishbase.us/summary/Callionymus-erythraeus.html)from [FishBase](http://www.fishbase.org/):
+  dragonet (*Callionymus erythraeus*)](http://www.fishbase.us/summary/Callionymus-erythraeusl)from [FishBase](http://www.fishbase.org/):
   Technical fact sheet.
-- [Dragonets](http://www.ecologyasia.com/verts/fishes/dragonets.htm)
+- [Dragonets](http://www.ecologyasia.com/verts/fishes/dragonets)
   on Ecology Asia: Fact sheet with photos.
 
 **References**
@@ -117,9 +117,9 @@ fishes. **Links**
   dragonets of Singapore (Actinopterygii: Perciformes: Callionymidae)*.
   Nature in Singapore, 5: 27-38. [PDF, 1.55 MB]
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

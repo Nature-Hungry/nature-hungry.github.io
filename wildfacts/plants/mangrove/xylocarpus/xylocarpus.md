@@ -4,24 +4,24 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "nyireh, bunga, xylocarpus, polygalaceae, meliaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
-plants [text index](../../plantindex.htm) | [photo
-index](../../plantfi.htm)
-[mangroves](../mangroves.htm)
+plants [text index](../../plantindex) | [photo
+index](../../plantfi)
+[mangroves](../mangroves)
  **Nyireh  
 *Xylocarpus* sp.  
 Family Meliaceae***updated
@@ -30,7 +30,7 @@ Jan 2013*
 ---
 
 **Where seen?** The handsome [Mangrove
-cannon-ball tree](granatum.htm) (*Xylocarpus granatum*) is still commonly
+cannon-ball tree](granatum) (*Xylocarpus granatum*) is still commonly
 seen in our mangroves. But other *Xylocarpus* species are not
 as frequently encountered.  
   
@@ -56,13 +56,13 @@ on Singapore shores**
 ---
 
 [**Nyireh
-bunga**](granatum.htm)  *Xylocarpus granatum*
+bunga**](granatum)  *Xylocarpus granatum*
 
 [**Nyireh
-batu**](moluccensis.htm)  *Xylocarpus moluccensis*
+batu**](moluccensis)  *Xylocarpus moluccensis*
 
 [**Nyireh
-laut**](rumphii.htm)  *Xylocarpus rumphii*
+laut**](rumphii)  *Xylocarpus rumphii*
 
 ![](granatum/090208smkd6456m6.jpg)
 
@@ -167,16 +167,16 @@ Flowers of the
   and fact sheet.
 - [The
   Struggle for Survival: Five threatened coastal plants once common
-  on our shores](http://habitatnews.nus.edu.sg/pub/naturewatch/text/a061d.htm) by Jean W H Yong, Nature Watch Vol 6 No 1 Jan-Mar
+  on our shores](http://habitatnews.nus.edu.sg/pub/naturewatch/text/a061d) by Jean W H Yong, Nature Watch Vol 6 No 1 Jan-Mar
   98
 - [Siloso
-  plant checklist](http://www.eart-h.com/text/siloso.htm) by Joseph Lai on his eart-h.com website done
+  plant checklist](http://www.eart-h.com/text/siloso) by Joseph Lai on his eart-h.com website done
   during the [Sentosa
-  Survey of 2006](http://www.wildsingapore.com/projects/survey/sentosa/index.html)
+  Survey of 2006](http://www.wildsingapore.com/projects/survey/sentosa/indexl)
 - Giesen, Wim
   and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
   [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.htm) (PDF online downloadable).
+  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
   RAP publication 2006/07 Food and Agriculture Organization of the
   United Nations Regional Office for Asia and the Pacific Bangkok.
 
@@ -196,9 +196,9 @@ Flowers of the
 FREE photos of [mangrove
 trees and plants](http://www.flickr.com/photos/54527470@N00/sets/72157600258037543). Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

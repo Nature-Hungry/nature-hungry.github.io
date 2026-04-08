@@ -4,29 +4,29 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "thorny, pencil, urchin, prinocidaris, bispinosa, echinoid, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![](../../../../Templates/fornatureguides.gif)](../../fngechinoidea.htm)
+[![](../../../../Templates/fornatureguides.gif)](../../fngechinoidea)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 echinoids
-[text index](../../echinodermindex.htm#echinoidea) |
-[photo index](../../echinoideafi2.htm)
-Phylum [Echinodermata](../../echinodermata.htm)
-> Class [Echinodea](../echinoidea.htm) > [sea
-urchins](urchin.htm)
+[text index](../../echinodermindex#echinoidea) |
+[photo index](../../echinoideafi2)
+Phylum [Echinodermata](../../echinodermata)
+> Class [Echinodea](../echinoidea) > [sea
+urchins](urchin)
 **Thorny
 sea urchin  
 *Prionocidaris* sp.   
@@ -57,7 +57,7 @@ by short flattened blunt spines. Other longer spines on the underside
 have blunt tips too, possibly used for burrowing?   
   
 In some, the longer spines are covered sediments. Sometimes, [tiny
-brittle stars](../../ophiuroidea/tinycolourful.htm) are seen wrapped around its spines. Or encrusting
+brittle stars](../../ophiuroidea/tinycolourful) are seen wrapped around its spines. Or encrusting
 ascidians may grow on the spines.   
   
 **Status and threats:** *Prionocidaris
@@ -108,13 +108,13 @@ shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=101601
 *Cyrene Reef, Mar 09*
 
 ![](prionocidaris/090309cyrlks03m3a.jpg)Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/03/cyrene-never-fails-to-amaze.html).
+blog](http://wondercreation.blogspot.com/2009/03/cyrene-never-fails-to-amazel).
 
 ![](prionocidaris/100809cyrjk2m3.jpg)  
 *Cyrene Reef,
 Sep 10*Photo
 shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/08/100809-cyrene-reef.html).
+blog](http://sgn090608.blogspot.com/2010/08/100809-cyrene-reefl).
 
 ---
 
@@ -152,8 +152,8 @@ Vulnerable) *Prionocidaris bispinosa*
   images and explanatory diagrams. Lots of technical descriptions
   of [*Prionocidaris*](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/GENERA/CIDAROID/CIDIDAE/CIDARINAE/PRIONOCID.jsp)
 - [*Prionocidaris
-  baculosa*](http://www.sealifebase.org/summary/Prionocidaris-baculosa.html) and *[Prionocidaris
-  bispinosa](http://www.sealifebase.org/summary/Prionocidaris-bispinosa.html)* on SeaLife Base: Technical fact sheet.
+  baculosa*](http://www.sealifebase.org/summary/Prionocidaris-baculosal) and *[Prionocidaris
+  bispinosa](http://www.sealifebase.org/summary/Prionocidaris-bispinosal)* on SeaLife Base: Technical fact sheet.
 
 **References**
 
@@ -162,9 +162,9 @@ Vulnerable) *Prionocidaris bispinosa*
   Other Echinoderms of Singapore*. Singapore Science Centre.
   187pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "elbow, crab, parthenopidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> Brachyurans > Family [Parthenopidae](parthenopidae.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> Brachyurans > Family [Parthenopidae](parthenopidae)
 **Common elbow crabs**  
 ***awaiting identification*  
 Family Parthenopidae***updated
@@ -53,7 +53,7 @@ the immobile lower finger. Males may have larger pincers than females.
 The thin walking legs are small and have pointed tips. Body somewhat
 triangular or pentangonal, with eyes at the pointed tip. The crab's
 body and claws may be fuzzy or bumpy and coloured the same as mud
-or sand. Some have fluffy growths and other encrustations, even [keelworms](../../../worm/polychaeta/serpulidae.htm) growing on the body and arms.
+or sand. Some have fluffy growths and other encrustations, even [keelworms](../../../worm/polychaeta/serpulidae) growing on the body and arms.
 *![](common/060502cftd1785m6la.jpg)*Pincers
 many times longer than its body. *Changi, May 06*
 ![](common/090821chgd9613m3.jpg)  
@@ -111,7 +111,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 Pasir Ris-Loyang, Feb 19*Photo shared by Liz Lim on [facebook](https://www.facebook.com/photo.php?fbid=2129456280411033&set=a.2129422790414382&type=3&theater).
 
 *![](common/100614bblks.JPG)  
-Beting Bronok, Jun 10*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2010/06/annual-beting-bronok-checkup.html).
+Beting Bronok, Jun 10*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2010/06/annual-beting-bronok-checkupl).
 
 *![](common/250627bbky4.jpg)  
 Beting Bronok, Jun 25*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10172409988145112&type=3&ref=embed_post).
@@ -148,7 +148,7 @@ Pulau Hantu, Dec 25*Photo shared by Loh Kok Sheng on [facebook](https://www.face
 *St John's Island, Feb 13*Photo shared by Loh Kok Sheng on his blog.
 
 *![](common/110203sjilks.JPG)  
-St John's Island, Feb 11*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2011/02/lunar-new-year-day-1-st-johns-island.html).
+St John's Island, Feb 11*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2011/02/lunar-new-year-day-1-st-johns-islandl).
 
 ---
 
@@ -157,7 +157,7 @@ St John's Island, Feb 11*Photo shared by Loh Kok Sheng on [his blog](http://wond
 Grateful thanks to Ondrej Radosta for identification help with these crabs.
  **Links**
 
-- [Parthenope](http://mangrove.nus.edu.sg/pub/seashore/text/200.htm)
+- [Parthenope](http://mangrove.nus.edu.sg/pub/seashore/text/200)
   Tan, Leo W. H. & Ng, Peter K. L., 1988, *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
@@ -185,9 +185,9 @@ Grateful thanks to Ondrej Radosta for identification help with these crabs.
   S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
   Australian Waters*. Reed New Holland. 224 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

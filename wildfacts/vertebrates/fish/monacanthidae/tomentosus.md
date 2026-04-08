@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "seagrass, filefish, file, fish, acreichthys, tomentosus, leather, jacket, monacanthidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Monacanthidae](monacanthidae.htm)
+> Subphylum Vertebrate > [fishes](../fish) >
+Family [Monacanthidae](monacanthidae)
 **Seagrass
 filefish  
 *Acreichthys tomentosus\****  
@@ -43,7 +43,7 @@ middle of the upper body, that resembles a 'smile'. Body in a wide
 variety of colours and patterns, usually irregular blotches. Adult
 males have bristles near the tail fin arranged a well-defined central
 oblong patch.
-More on [how to tell apart filefishes](monacanthidae.htm).
+More on [how to tell apart filefishes](monacanthidae).
 
 ![](tomentosus/090606tmftd3135m3.jpg)  
 *Tanah Merah, Jun 09*
@@ -64,7 +64,7 @@ oblong patch near the tail fin. *Sisters Island, Jul 07*
 Pulau Biola,*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159649730578158&set=a.10159649733953158).
 
 **What does it eat?** It feeds on
-small creatures that live on the bottom such as [amphipods](../../../crustacea/othercrust/amphipoda/amphipoda.htm),
+small creatures that live on the bottom such as [amphipods](../../../crustacea/othercrust/amphipoda/amphipoda),
 worms and snails.
   
 *\*Species are difficult
@@ -90,7 +90,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 ---
 
 *![](tomentosus/140606cjlks1m3.JPG)  
-Chek Jawa, Jun 14*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/06/the-s-encounters-at-chek-jawa.html).
+Chek Jawa, Jun 14*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/06/the-s-encounters-at-chek-jawal).
 
 *![](tomentosus/250627bbky6.jpg)  
 Beting Bronok, Jun 25*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10172409988145112&type=3&ref=embed_post).
@@ -128,7 +128,7 @@ shared by Russel Low on [facebook](http://www.facebook.com/album.php?fbid=165010
 *![](tomentosus/110220lazjk7m6l.jpg)  
 Lazarus Island, Feb 11*Photo
 shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2011/02/110220-lazarus-and-seringat-kias.html)
+blog](http://sgn090608.blogspot.com/2011/02/110220-lazarus-and-seringat-kiasl)
 
 ---
 
@@ -201,12 +201,12 @@ Pulau Senang, Jun 10*
 **Links**  
 
 - [Seagrass
-  Filefish (*Acreichthys tomentosus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/393.htm) Lim, Kelvin K. P.
+  Filefish (*Acreichthys tomentosus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/393) Lim, Kelvin K. P.
   & Jeffrey K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
 - [*Monocanthus*
-  sp.](http://mangrove.nus.edu.sg/pub/seashore/text/237.htm)  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+  sp.](http://mangrove.nus.edu.sg/pub/seashore/text/237)  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [*Acreichthys tomentosus*](http://www.iucnredlist.org/details/full/69921254/0) on IUCN Red List.
@@ -217,7 +217,7 @@ Pulau Senang, Jun 10*
   fact sheet on the family, including fact sheet
 - [Volume
   6: Bony fishes part 4 (Labridae to Latimeriidae), estuarine crocodiles,
-  sea turtles, sea snakes and marine mammals](http://www.fao.org/docrep/009/y0870e/y0870e00.htm) FAO Species Identification
+  sea turtles, sea snakes and marine mammals](http://www.fao.org/docrep/009/y0870e/y0870e00) FAO Species Identification
   Guide for Fishery Purposes The Living Marine Resources of the
   Western Central Pacific.
 
@@ -228,9 +228,9 @@ Pulau Senang, Jun 10*
   Reef Fishes of the World*
   Periplus Editions. 400pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

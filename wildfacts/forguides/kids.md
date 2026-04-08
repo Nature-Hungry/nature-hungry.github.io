@@ -4,25 +4,8 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info,"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[![talking points for nature guides](../../Templates/fornatureguides.gif)](index.html)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 [index
-to talking points](index.html) for nature guides
+to talking points](indexl) for nature guides
 **Tips
 for handling kids**  
 *updated
@@ -33,7 +16,7 @@ Apr 2020*
 A visitor can be
 a dream or a nightmare. It's all up to YOU!   
   
-More about [some typical visitor behaviour](difficult.htm) that guides may find difficult to handle. Be aware, that half of the
+More about [some typical visitor behaviour](difficult) that guides may find difficult to handle. Be aware, that half of the
 problem is YOU.  
   
 Kids can be the easiest or more difficult visitors to handle. It's
@@ -58,7 +41,7 @@ Even these things
   explain coral structure
 - Dead snails:
   here's more about talking about [dead
-  snail shells](../mollusca/fnggastropods.htm)
+  snail shells](../mollusca/fnggastropods)
 - Bits of rubbish:
   talk about littering.
 - Piece of
@@ -122,12 +105,12 @@ Parents may encourage kids to do the wrong thing: touch things,
 annoy animals, etc. Gently highlight the dangers of such action.  
   
 Don't
-be a [bad guide](badguide.htm). Be a [good
-guide](goodguide.htm) instead.
+be a [bad guide](badguide). Be a [good
+guide](goodguide) instead.
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

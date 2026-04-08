@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "ceriops, zippeliana, sp, nov, rhizophoraceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
-plants [text index](../../plantindex.htm) | [photo
-index](../../plantfi.htm)
-[mangroves](../mangroves.htm)
-| [*Ceriops*](ceriops.htm) in general
+plants [text index](../../plantindex) | [photo
+index](../../plantfi)
+[mangroves](../mangroves)
+| [*Ceriops*](ceriops) in general
  **Tengar merah *Ceriops zippeliana*  
 Family Rhizophoraceae***updated
 Jan 2013*
@@ -40,7 +40,7 @@ tall. Bark brownish with some lenticels, flaky at the base.
 Leaves oval (tips not pointed) (7-11cm), glossy green. Leaf stalk usually not pinkish. Stipule flattened knife-like.  
   
 Flowers small (0.5cm) with tiny white frilly petals. Several flowers
-on a short stalk, but not as many flowers as in [Tengar](tagal.htm)
+on a short stalk, but not as many flowers as in [Tengar](tagal)
 (*Ceriops tagal*).   
   
 Fruit brown with a textured pattern: this is the identifying feature
@@ -112,9 +112,9 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
   Species in Singapore](http://tai2.ntu.edu.tw/taiwania/pdf/tai.2010.55.1.72.pdf) Chiou-Rong Sheue, S. M. A. Rashid, Jean
   W. H. Yong and Yuen-Po Yang, Taiwania, 55(1): 72-77, 2010
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

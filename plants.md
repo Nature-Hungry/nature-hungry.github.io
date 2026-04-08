@@ -6,18 +6,18 @@ layout: default
 ---
 
 # Plants on This Site  
-don't know the name of the plant? Try the [photo index of lifeforms](photoindex.md)   
+don't know the name of the plant? Try the [photo index of lifeforms](photoindex)   
 
 # Intertidal and Marine Plants
 
 ![](assets/images/photos/plant.jpg)  
-All marine  **[seaweeds](plants/seaweed/seaweedindex.md)**
+All marine  **[seaweeds](plants/seaweed/seaweedindex)**
 
 ![](assets/images/photos/seagrass.jpg)  
-All marine  **[seagrasses](plants/seagrass/seagrassindex.md)**
+All marine  **[seagrasses](plants/seagrass/seagrassindex)**
 
 ![](photos/mangroves.jpg)  
-**[mangroves and coastal](plants/plantindex.md)** trees and plants
+**[mangroves and coastal](plants/plantindex)** trees and plants
 
 [www.**flickr**.com](http://www.flickr.com)  
 
@@ -26,6 +26,6 @@ Make your own badge [here](http://www.flickr.com/badge.gne).
 
 Photo Index of Plants on This Site
 
-[mangroves and coastal plants](plants/plantfi.md)
-| [all seagrasses](plants/seagrass/seagrassfi.md)
-| [all seaweeds](plants/seaweed/seaweedfi.md)
+[mangroves and coastal plants](plants/plantfi)
+| [all seagrasses](plants/seagrass/seagrassfi)
+| [all seaweeds](plants/seaweed/seaweedfi)

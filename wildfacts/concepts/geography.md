@@ -4,22 +4,7 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "geography, currents, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
-[index](index.html)
+[index](indexl)
 of concepts
 ****Geography
 and our shores*****updated
@@ -82,9 +67,9 @@ reclamation.     
   Jawa Mortality and Recruitment Project](http://cjproject.blogspot.com/) by Loh Kok Sheng: a
   study of the mass death of 2007 and recovery on Chek Jawa.
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

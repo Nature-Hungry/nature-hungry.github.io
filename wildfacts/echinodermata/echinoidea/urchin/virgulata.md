@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "white, urchin, salmacis, virgulata, echinoid, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 echinoids
-[text index](../../echinodermindex.htm#echinoidea) |
-[photo index](../../echinoideafi2.htm)
-Phylum [Echinodermata](../../../../wildshores/echinodermata/echinoidea/echinodermata.htm) > Class [Echinodea](../echinoidea.htm) > [sea
-urchins](urchin.htm) > Genera *[Salmacis](salmacis.htm)*
+[text index](../../echinodermindex#echinoidea) |
+[photo index](../../echinoideafi2)
+Phylum [Echinodermata](../../../../wildshores/echinodermata/echinoidea/echinodermata) > Class [Echinodea](../echinoidea) > [sea
+urchins](urchin) > Genera *[Salmacis](salmacis)*
 **Passion
 salmacis urchin  
 *Salmacis virgulata*  
@@ -105,7 +105,7 @@ Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/me
  *Cyrene Reef,
 Aug 11*  
 Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2011/09/last-morning-trip-of-2011-cyrene-reef.html).
+blog](http://wondercreation.blogspot.sg/2011/09/last-morning-trip-of-2011-cyrene-reefl).
 
 ![](virgulata/110830cyrlks2.JPG)  
  *Cyrene Reef,
@@ -119,16 +119,16 @@ Grateful thanks to Dr Frederic Ducarme for identifying these sea urchins.
  **Links**
 
 - [Banded
-  urchin (*Salmacis*)](http://mangrove.nus.edu.sg/pub/seashore/text/223.htm) Tan, Leo W. H. & Ng, Peter
+  urchin (*Salmacis*)](http://mangrove.nus.edu.sg/pub/seashore/text/223) Tan, Leo W. H. & Ng, Peter
   K. L., 1988. *A Guide to Seashore Life*. The Singapore
   Science Centre, Singapore. 160 pp.
 - [*Salmacis
-  virgulata*](http://www.sealifebase.org/summary/Salmacis-virgulata.html) on SeaLife Base: Technical fact sheet.
+  virgulata*](http://www.sealifebase.org/summary/Salmacis-virgulatal) on SeaLife Base: Technical fact sheet.
 - P. Satheeshkumar, [First Record of Regular Sea Urchin *Salmacis virgulata* (L. Agassiz and Desor 1846) from the Pondicherry Coast, India](http://www.idosi.org/wjfms/wjfms3(2)11/7.pdf) World Journal of Fish and Marine Sciences 3 (2): 126-128, 2011 ISSN 2078-4589 © IDOSI Publications, 2011
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

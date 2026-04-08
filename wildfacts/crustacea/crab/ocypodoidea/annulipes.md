@@ -4,30 +4,30 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "porcelain, fiddler, crab, uca, austruca, annulipes, ocypodidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![talking points for nature guides](../../../../Templates/fornatureguides.gif)](../../fngfiddlers.htm)
+[![talking points for nature guides](../../../../Templates/fornatureguides.gif)](../../fngfiddlers)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> Brachyurans > Superfamily [Ocypodoidea](ocypodoidea.htm)
-> Genus [Uca](uca.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> Brachyurans > Superfamily [Ocypodoidea](ocypodoidea)
+> Genus [Uca](uca)
 **Porcelain
 fiddler crab**  
  ***Austruca annulipes***  
@@ -54,8 +54,8 @@ various colours from dark to light, orange, brown or reddish.
   
 **Sometimes
 mistaken for** the [Orange fiddler
-crab](vocans.htm) (*Uca vocans*). More on [how
-to tell apart the fiddler crabs commonly seen](cflongeyedcrabs.htm) on our shores.
+crab](vocans) (*Uca vocans*). More on [how
+to tell apart the fiddler crabs commonly seen](cflongeyedcrabs) on our shores.
 
 *![](uca/annulipes/040103sjid0061m3.jpg)*Male
 displaying, waving his legs  
@@ -121,17 +121,17 @@ flickr](http://www.flickr.com/photos/37823682@N04/4171059945/).
 **Links**  
 
 - [*Uca
-  annulipes*](http://mangrove.nus.edu.sg/pub/seashore/text/190.htm) Tan,
+  annulipes*](http://mangrove.nus.edu.sg/pub/seashore/text/190) Tan,
   Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [Porcelain
-  fiddler (*Uca annulipes*)](http://mangrove.nus.edu.sg/guidebooks/text/2053.htm) Ng, Peter K. L. & N. Sivasothi,
+  fiddler (*Uca annulipes*)](http://mangrove.nus.edu.sg/guidebooks/text/2053) Ng, Peter K. L. & N. Sivasothi,
   1999. *[A
   Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
   Singapore Science Centre. 168 pp.
 - [*Uca
-  annulipes*](http://www.fiddlercrab.info/u_annulipes.html) on the www.fiddlercrab.info website: photos,
+  annulipes*](http://www.fiddlercrab.info/u_annulipesl) on the www.fiddlercrab.info website: photos,
   info, links and references.
 - [*Uca
   annulipes*](http://species-identification.org/species.php?species_group=crabs_of_japan&menuentry=soorten&id=1770) on Crabs of Japan in Marine Species Identification
@@ -150,9 +150,9 @@ flickr](http://www.flickr.com/photos/37823682@N04/4171059945/).
   of Science, Nanyang Technological University & Department of
   Zoology, the National University of Singapore. 160 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

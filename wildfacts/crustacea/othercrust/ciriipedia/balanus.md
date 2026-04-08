@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "acorn, barnacle, balanus, cirripedia, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 barnacles [text
-index](../../crustaceaindex.htm#cirripedia) | [photo index](../../cirripediafi.htm)
+index](../../crustaceaindex#cirripedia) | [photo index](../../cirripediafi)
 Phylum
-[Arthropoda](../../../arthropoda/arthropoda.htm) > Subphylum
-[Crustacea](../../crustacea.htm) > Class
-[Cirripedia](cirripedia.htm)
+[Arthropoda](../../../arthropoda/arthropoda) > Subphylum
+[Crustacea](../../crustacea) > Class
+[Cirripedia](cirripedia)
 **Acorn
 barnacle  
 *Balanus* sp.\*  
@@ -39,7 +39,7 @@ small rather pointy barnacle is commonly seen on many of our rocky
 shores and other hard surfaces in the sea such as jetty pilings, sea
 walls. Usually, many are crowded together in lower portions and shaded
 crevices where it is wetter. Unlike the hardier [star
-barnacles](euraphia.htm) (*Euraphia* sp.) which are found higher up where
+barnacles](euraphia) (*Euraphia* sp.) which are found higher up where
 it is drier.  
   
 **Features:** To about 1 cm across,
@@ -62,17 +62,17 @@ Some species of acorn barnacles settle on living roots of mangrove trees. Others
   
 Some may also
 settle on living snails such as the [Olive
-whelk](../../../mollusca/gastropoda/nassariidae/olivaceus.htm). One snail may have more than
+whelk](../../../mollusca/gastropoda/nassariidae/olivaceus). One snail may have more than
 one of these barnacles on its shell, which are quite large compared
 to the shell!
 
 *![](balanus/090622chgd4692m3c.jpg)  
 Changi, Jul 09![](balanus/090622chgd4692m3a.jpg)*On a living [flower
-crab](../../crab/portunidae/pelagicus.htm).
+crab](../../crab/portunidae/pelagicus).
 
 *![](../../crab/grapsidae/metopograpsus/090820ecpd9482m3.jpg)  
 East Coast, Aug 09![](../../crab/grapsidae/metopograpsus/090820ecpd9482m3a.jpg)*On a living [Purple
-climber crab](../../crab/grapsidae/metopograpsus.htm).
+climber crab](../../crab/grapsidae/metopograpsus).
 
 ![](../../../mollusca/gastropoda/nassariidae/olivaceaus/050823chgg2303m3.jpg)  
 *Changi, Aug 05*  
@@ -106,7 +106,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 *Sentosa, Jun 15*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/20788145149/).
 
 ![](balanus/160705ecplks4a.jpg)  
-*East Coast Park, Jul 16 on a sea fan.*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2016/07/my-favourites-on-east-coasts-reclaimed.html).
+*East Coast Park, Jul 16 on a sea fan.*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2016/07/my-favourites-on-east-coasts-reclaimedl).
 
 ---
 
@@ -116,14 +116,14 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
   amphitrite*](https://wiki.nus.edu.sg/display/TAX/Balanus+amphitrite+-+Purple+Acorn+Barnacle)
   (Sessila: Balanidae) Purple Acorn Barnacle by Leong Chin Rick,
   2011 on taxo4254.
-- [*Megabalanus coccopoma*](https://singapore.biodiversity.online/taxo4254/mainSpace/Megabalanus%20coccopoma.html) (Sessila: Balanidae) Titan Acorn Barnacle on Taxo4254.
-- [Barnacles](http://mangrove.nus.edu.sg/pub/seashore/text/219.htm),
+- [*Megabalanus coccopoma*](https://singapore.biodiversity.online/taxo4254/mainSpace/Megabalanus%20coccopomal) (Sessila: Balanidae) Titan Acorn Barnacle on Taxo4254.
+- [Barnacles](http://mangrove.nus.edu.sg/pub/seashore/text/219),
   [barnacles
-  on crabs (*Balanus, Octolasmis*)](http://mangrove.nus.edu.sg/pub/seashore/text/269.htm) Tan, Leo W. H. & Ng,
+  on crabs (*Balanus, Octolasmis*)](http://mangrove.nus.edu.sg/pub/seashore/text/269) Tan, Leo W. H. & Ng,
   Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
-- [Barnacles](http://mangrove.nus.edu.sg/guidebooks/text/2123.htm)
+- [Barnacles](http://mangrove.nus.edu.sg/guidebooks/text/2123)
   Ng, Peter K. L. & N. Sivasothi, 1999. *[A
   Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
   Singapore Science Centre. 168 pp.
@@ -137,9 +137,9 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
   Science, Nanyang Technological University & Department of Zoology,
   the National University of Singapore. 160 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

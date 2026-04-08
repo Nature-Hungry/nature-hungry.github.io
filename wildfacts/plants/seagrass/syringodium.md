@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "noodle, grass, syringodium, isoetifolium, potamogetonaceae, cymodoceaceae, seagrass, grass, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 seagrasses
-[text index](seagrassindex.htm) | [photo
-index](seagrassfi.htm)
+[text index](seagrassindex) | [photo
+index](seagrassfi)
 
-[Seagrasses](seagrass.htm)
+[Seagrasses](seagrass)
 > Family Cymodoceaceae
 **Noodle
 seagrass *Syringodium isoetifolium*  
@@ -43,7 +30,7 @@ is eaten by dugongs.
 **Where
 seen?**
 This seagrass is abundant on Pulau Semakau, growing among the more
-dominant [Tape seagrass](enhalus.htm) (*Enhalus acoroides*),
+dominant [Tape seagrass](enhalus) (*Enhalus acoroides*),
 and on Cyrene Reef.  
   
 Noodle seagrass is found throughout the tropical Indo-West Pacific
@@ -66,7 +53,7 @@ leaves tend to break off as they become brittle. Elsewhere, these
 may form dense rafts that float and wash ashore.  
   
 **Sometimes confused with** [Needle
-seagrass](halodule.htm) (*Halodule* sp.). While both are long and narrow,
+seagrass](halodule) (*Halodule* sp.). While both are long and narrow,
 noodle seagrass, however, is cylindrical like plastic tubing or noodles,
 while needle seagrass is flat like a ribbon.  
   
@@ -135,7 +122,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
   Proceedings of a training workshop, National Parks Board, Biodiversity
   Centre, Singapore, 24th-25th March 2007 (DPI&F, Cairns). 32pp.
 - [Identifying
-  seagrasses](http://www.seagrasswatch.org/id_seagrass.html) on the Seagrass-Watch website.
+  seagrasses](http://www.seagrasswatch.org/id_seagrassl) on the Seagrass-Watch website.
 
 **References**
 
@@ -158,14 +145,4 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 **You CAN make a difference for Singapore's
 seagrasses!**[![](../../../Templates/teamsg.jpg)](http://teamseagrass.blogspot.com/)
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

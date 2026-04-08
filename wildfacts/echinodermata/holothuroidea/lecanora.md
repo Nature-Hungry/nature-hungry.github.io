@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "blotchy, cucumber, seacucumber, actinopyga, lecanora, holothuriidae, holothuroidae, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 sea
-cucumbers [text index](../echinodermindex.htm#holothuroidea)
-| [photo index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class [Holothuroidea](holothuroidea.htm)
+cucumbers [text index](../echinodermindex#holothuroidea)
+| [photo index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
+> Class [Holothuroidea](holothuroidea)
 **White-rumped
 sea cucumber *Actinopyga lecanora*Family Holothuriidae***updated
 Apr 2020*
@@ -87,7 +74,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 *![](lecanora/110220lazjk3m3.jpg)  
 Lazarus Island, Feb 11*Photo
 shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2011/02/110220-lazarus-and-seringat-kias.html)
+blog](http://sgn090608.blogspot.com/2011/02/110220-lazarus-and-seringat-kiasl)
 
 ![](lecanora/251009sjitl3.jpg)  
 *St John's Island, Oct 25*Photo shared by Tammy Lim on [facebook](https://www.facebook.com/media/set/?set=a.10163222679594264&type=3&ref=embed_post).
@@ -110,7 +97,7 @@ Kecil, Jun 16*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/m
 ![](lecanora/100629tpdjk15m3.jpg)  
 *Terumbu Pempang
 Darat, Jun 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/06/100629-terumbu-pempang-darat.html).
+blog](http://sgn090608.blogspot.com/2010/06/100629-terumbu-pempang-daratl).
 
 ![](lecanora/150524tplhpy3m3.jpg)  
 *Terumbu Pempang
@@ -120,16 +107,16 @@ Laut, May 15*Photo shared by Heng Pei Yan on [facebook](https://www.facebook.com
 
 *![](lecanora/100617tbtch3m3.jpg)  
 Terumbu Bemban, Jun 10*Photo shared by Toh CHay Hoon on [her
-blog](http://colorclouds.blogspot.com/2010/06/patch-reef-hopping.html).
+blog](http://colorclouds.blogspot.com/2010/06/patch-reef-hoppingl).
 
 *![](lecanora/110422tbmjk2m3.jpg)  
 Terumbu Bemban, Apr 11*Photo
 shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2011/04/110422-terumbu-bemban.html).
+blog](http://sgn090608.blogspot.com/2011/04/110422-terumbu-bembanl).
 
 ![](lecanora/151225tsmklks8m3.jpg)  
 *Terumbu Semakau, Dec 15*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2015/12/christmas-with-full-moon-at-terumbu.html).
+blog](http://wondercreation.blogspot.sg/2015/12/christmas-with-full-moon-at-terumbul).
 
 ---
 
@@ -173,18 +160,18 @@ flickr](http://www.flickr.com/photos/koksheng/4232346059/in/set-7215762311312233
 **Links**
 
 - [Sea
-  cucumbers](http://mangrove.nus.edu.sg/pub/seashore/text/222.htm)
+  cucumbers](http://mangrove.nus.edu.sg/pub/seashore/text/222)
   Tan, Leo W. H. & Ng, Peter K. L., 1988. *A Guide to Seashore
   Life*. The Singapore Science Centre, Singapore. 160 pp.
 - [*Actinopyga
-  lecanora* (White-bottomed sea cucumber)](http://www.sealifebase.org/summary/Actinopyga-lecanora.html) on SeaLife Base:
+  lecanora* (White-bottomed sea cucumber)](http://www.sealifebase.org/summary/Actinopyga-lecanoral) on SeaLife Base:
   Technical fact sheet.
 - [*Actinopyga
   lecanora*](http://species-identification.org/species.php?species_group=nasc&id=47) in North Australian Sea Cucumbers in Marine Species
   Identification Portal: Technical fact sheet.
 - [*Actinopyga
   lecanora*](http://www.iucnredlist.org/details/180266/0) on the IUCN Red List: Technical fact sheet.
-- *Actinopyga lecanora* on [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00.htm), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
+- *Actinopyga lecanora* on [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
 
 **References**
 
@@ -198,14 +185,4 @@ flickr](http://www.flickr.com/photos/koksheng/4232346059/in/set-7215762311312233
   exclusive of the vertebrates![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*
   Sea Challengers. 314pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

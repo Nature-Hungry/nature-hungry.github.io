@@ -4,33 +4,16 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "crustacea, anomura, hermit, crab, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[![talking points for nature guides](../../Templates/fornatureguides.gif)](../forguides/index.html)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 crustacea
-[text index](crustaceaindex.htm#anomurans) | [photo
-index](anomurafi.htm)
+[text index](crustaceaindex#anomurans) | [photo
+index](anomurafi)
 Phylum
-[Arthropoda](../arthropoda/arthropoda.htm) > Subphylum
-[Crustacea](crustacea.htm) > Class Malacostraca >
-Order [Decapoda](decapoda.htm) > Anomurans > [hermit
-crabs](othercrust/anomura/hermit/hermit.htm)
+[Arthropoda](../arthropoda/arthropoda) > Subphylum
+[Crustacea](crustacea) > Class Malacostraca >
+Order [Decapoda](decapoda) > Anomurans > [hermit
+crabs](othercrust/anomura/hermit/hermit)
 [index
-to talking points](../forguides/index.html) for nature guides
+to talking points](../forguides/indexl) for nature guides
 **Introducing
 hermit crabs**  
 *updated
@@ -50,7 +33,7 @@ hard shells like a crab. But it has a long soft abdomen, like a
 prawn which doesn't have a shell. To protect its abdomen, it has
 to tuck it into an empty snail shell.  
   
-[Hermit crabs](othercrust/anomura/hermit/hermit.htm) belong to a group of animals called crustaceans. Other
+[Hermit crabs](othercrust/anomura/hermit/hermit) belong to a group of animals called crustaceans. Other
 crustaceans include crabs, shrimps and prawns.  
   
 **A closer look at hermit crabs**
@@ -68,11 +51,11 @@ crustaceans include crabs, shrimps and prawns.
   hermit crab has many hitch-hiking friends!*** "What
   other animals can you see living with the hermit crab in its shell?"
   - [Slipper
-    snails](../mollusca/gastropoda/calyptraeidae/crepidulidae.htm) inside or on top the shell
+    snails](../mollusca/gastropoda/calyptraeidae/crepidulidae) inside or on top the shell
   - [Porcelain
-    crabs](othercrust/anomura/porcellanidae/porcellanidae.htm) inside the shell
+    crabs](othercrust/anomura/porcellanidae/porcellanidae) inside the shell
   - [Sea
-    anemones](../cnidaria/actiniaria/hermitsmall.htm) on top of the shell
+    anemones](../cnidaria/actiniaria/hermitsmall) on top of the shell
 - A hermit
   crab home is a cosy and safe place for small animals.  
   - Free
@@ -164,9 +147,9 @@ its butt to hang onto the shell.
 **Beware! Hermit crabs can pinch!** Large hermit crabs
 can give a good pinch. Don't let small children handle them.
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

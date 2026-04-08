@@ -4,29 +4,29 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "penaeid, penaeidae, prawn, shrimp, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![talking points for nature guides](../../../../Templates/fornatureguides.gif)](../../fngshrimps.htm)
+[![talking points for nature guides](../../../../Templates/fornatureguides.gif)](../../fngshrimps)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 shrimps [text
-index](../../crustaceaindex.htm#shrimps) | [photo index](../../shrimpfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> [prawns and shrimps](shrimp.htm)
+index](../../crustaceaindex#shrimps) | [photo index](../../shrimpfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> [prawns and shrimps](shrimp)
 **Penaeid
 prawns  
 Family Penaeidae***updated Feb 2020*
@@ -81,7 +81,7 @@ mate and lay eggs in deeper waters.
 **Human uses:** The larger prawns
 are important commercially. Tiger prawns are widely aquacultured and
 often raised unsustainably. More about the [impact
-of prawn farming](../../../concepts/prawnfarms.htm).
+of prawn farming](../../../concepts/prawnfarms).
 *![](penbanded/050721cjg9666m3.jpg)  
 Chek Jawa, Jul 05*
 *![](penbluetail/070615sntrg0335m3.jpg)*Like
@@ -101,18 +101,18 @@ prawns on Singapore shores**
 ---
 
 **![](penbluetail/030716cjd0025m3.jpg)  
-[Blue-tailed penaeid prawns](penbluetail.htm)**
+[Blue-tailed penaeid prawns](penbluetail)**
 
 ***![](penbanded/080731chgd8379m3.jpg)*  
-[Banded penaeid prawns](penbanded.htm)**
+[Banded penaeid prawns](penbanded)**
 
 **![](penslender/041019labd7633m3.jpg)  
-[Slender penaid prawns](penslender.htm)**
+[Slender penaid prawns](penslender)**
 
 ---
 
 ***![](penspeckled/091106smkd3846m3.jpg)*  
-[Speckled penaeid prawns](penspeckled.htm)**
+[Speckled penaeid prawns](penspeckled)**
 
 ---
 
@@ -132,10 +132,10 @@ close examination of small features. On this website, they are
 grouped by external features for convenience of display.*
  
 [Blue-tailed
-penaeid prawn](penbluetail.htm)  
-[Banded penaeid prawn](penbanded.htm)  
-[Slender penaeid prawn](penslender.htm)  
-[Speckled penaeid prawn](penspeckled.htm)
+penaeid prawn](penbluetail)  
+[Banded penaeid prawn](penbanded)  
+[Slender penaeid prawn](penslender)  
+[Speckled penaeid prawn](penspeckled)
   
  
 **Family
@@ -170,12 +170,12 @@ Parapenaeopsis merguiensis**\*Penaeus monodon* (Black tiger prawn) *\*Penaeus se
 **Links**
 
 - [Prawns
-  (*Penaeus* and *Metapenaeus*)](http://mangrove.nus.edu.sg/pub/seashore/text/182.htm) Tan,
+  (*Penaeus* and *Metapenaeus*)](http://mangrove.nus.edu.sg/pub/seashore/text/182) Tan,
   Leo W. H. & Ng, Peter K. L., 1988, *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [Marine
-  prawns (*Penaeus and Metapenaeus* spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2038.htm) Ng, Peter K.
+  prawns (*Penaeus and Metapenaeus* spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2038) Ng, Peter K.
   L. & N. Sivasothi, 1999. *[A
   Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
   Singapore Science Centre. 168 pp.
@@ -184,20 +184,20 @@ Parapenaeopsis merguiensis**\*Penaeus monodon* (Black tiger prawn) *\*Penaeus se
   semisulcatus](http://www.fao.org/fishery/species/3408/en)* on Cultured Aquatic Species Information Programme,
   FAO Fisheries and Aquaculture Department.
 - [Black
-  tiger prawn (*Penaeus monodon*)](http://www.sealifebase.org/summary/Penaeus-monodon.html)
+  tiger prawn (*Penaeus monodon*)](http://www.sealifebase.org/summary/Penaeus-monodonl)
   and [Green
-  tiger prawn (*Penaeus semiculcatus*)](http://sealifebase.org/summary/Penaeus-semisulcatus.html) and *[Heteropenaeus
-  longimanus](http://www.sealifebase.ca/summary/Heteropenaeus-longimanus.html)* and [Adonis
-  shrimp (*Parapenaeopsis venusta*)](http://www.sealifebase.ca/summary/Parapenaeopsis-venusta.html) and [Torpedo
-  shrimp (*Parapenaeopsis maxillipedo*)](http://www.sealifebase.ca/summary/Parapenaeopsis-maxillipedo.html) and [Whiskered
-  velvet shrimp (*Metapenaeopsis barbata*)](http://www.sealifebase.ca/summary/Metapenaeopsis-barbata.html) and [Mogi
-  velvet shrimp (*Metapenaeopsis mogiensis*)](http://www.sealifebase.ca/summary/Metapenaeopsis-mogiensis.html) and [Jinga
-  shrimp (*Metapenaeus affinis*)](http://www.sealifebase.ca/summary/Metapenaeus-affinis.html) and [Yellow
-  shrimp (*Metapenaeus brevicornis*)](http://www.sealifebase.ca/summary/Metapenaeus-brevicornis.html) and [Moyebi
-  shrimp (*Metapenaeus moyebi*)](http://www.sealifebase.ca/summary/Metapenaeus-moyebi.html) and [Periscope
-  shrimp (*Atypopenaeus stenodactylus*)](http://www.sealifebase.ca/summary/Atypopenaeus-stenodactylus.html) on SeaLife Base.
+  tiger prawn (*Penaeus semiculcatus*)](http://sealifebase.org/summary/Penaeus-semisulcatusl) and *[Heteropenaeus
+  longimanus](http://www.sealifebase.ca/summary/Heteropenaeus-longimanusl)* and [Adonis
+  shrimp (*Parapenaeopsis venusta*)](http://www.sealifebase.ca/summary/Parapenaeopsis-venustal) and [Torpedo
+  shrimp (*Parapenaeopsis maxillipedo*)](http://www.sealifebase.ca/summary/Parapenaeopsis-maxillipedol) and [Whiskered
+  velvet shrimp (*Metapenaeopsis barbata*)](http://www.sealifebase.ca/summary/Metapenaeopsis-barbatal) and [Mogi
+  velvet shrimp (*Metapenaeopsis mogiensis*)](http://www.sealifebase.ca/summary/Metapenaeopsis-mogiensisl) and [Jinga
+  shrimp (*Metapenaeus affinis*)](http://www.sealifebase.ca/summary/Metapenaeus-affinisl) and [Yellow
+  shrimp (*Metapenaeus brevicornis*)](http://www.sealifebase.ca/summary/Metapenaeus-brevicornisl) and [Moyebi
+  shrimp (*Metapenaeus moyebi*)](http://www.sealifebase.ca/summary/Metapenaeus-moyebil) and [Periscope
+  shrimp (*Atypopenaeus stenodactylus*)](http://www.sealifebase.ca/summary/Atypopenaeus-stenodactylusl) on SeaLife Base.
 - [Prawn
-  'sex tapes' reveals lust is lacking in captive-breds](http://wildshores.blogspot.com/2009/03/prawn-sex-tapes-reveals-lust-is-lacking.html) on the
+  'sex tapes' reveals lust is lacking in captive-breds](http://wildshores.blogspot.com/2009/03/prawn-sex-tapes-reveals-lust-is-lackingl) on the
   wild shores of singapore blog.
 
 **References**
@@ -227,9 +227,9 @@ Parapenaeopsis merguiensis**\*Penaeus monodon* (Black tiger prawn) *\*Penaeus se
   exclusive of the vertebrates![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*
   Sea Challengers. 314pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

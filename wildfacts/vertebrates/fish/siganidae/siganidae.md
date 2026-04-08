@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "rabbitfish, rabbit, fish, siganidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm)
+> Subphylum Vertebrata > [fishes](../fish)
 **Rabbitfishes**  
 **Family Siganidae***updated
 Oct 2020*
@@ -77,7 +77,7 @@ during the day, and sleep at night. Rabbitfishes often travel in schools,
 sometimes in pairs.  
   
 **Human uses:** The [White-spotted
-rabbitfish](canaliculatus.htm) (*Siganus canaliculatus*) is highly sought after
+rabbitfish](canaliculatus) (*Siganus canaliculatus*) is highly sought after
 for eating during the Chinese Lunar New Year. At this time, the fishes
 breed and their roe are particularly relished. Called *'Pei Tor'*,
 the Chinese believe it eating it brings good luck. Other species are
@@ -92,9 +92,9 @@ on Singapore shores**
 ---
 
 **![](canaliculatus/100529kusd4023m3.jpg)  
-[White-spotted rabbitfish](canaliculatus.htm)**
-***![](guttatus/020811cjd492m3.jpg)*[Orange-spotted rabbitfish](guttatus.htm)**
-***![](javus/020811cjd0467m3.jpg)*[Streaked rabbitfish](javus.htm)**
+[White-spotted rabbitfish](canaliculatus)**
+***![](guttatus/020811cjd492m3.jpg)*[Orange-spotted rabbitfish](guttatus)**
+***![](javus/020811cjd0467m3.jpg)*[Streaked rabbitfish](javus)**
 
 ---
 
@@ -109,11 +109,11 @@ in Singapore*.
 Siganidae**
  
 *[Siganus
-canaliculatus](canaliculatus.htm)* (White-spotted rabbitfish) *Siganus chrysospilus=\*\*Siganus punctatus  
+canaliculatus](canaliculatus)* (White-spotted rabbitfish) *Siganus chrysospilus=\*\*Siganus punctatus  
 Siganus fuscescens  
-[Siganus guttatus](guttatus.htm)* (Orange-spotted
+[Siganus guttatus](guttatus)* (Orange-spotted
 rabbitfish) *Siganus javanicus  
-[Siganus javus](javus.htm)* (Streaked rabbitfish) *Siganus oramin=\*\*Siganus canaliculatus  
+[Siganus javus](javus)* (Streaked rabbitfish) *Siganus oramin=\*\*Siganus canaliculatus  
 Siganus spinus  
 Siganus stellatus  
 Siganus tetrazona=\*\*Siganus corallinus  
@@ -125,8 +125,8 @@ Siganus virgatus* (Double-barred rabbitfish) *Siganus vulpinus* (Foxface rabbitf
 **Links**  
 
 - [White-spotted
-  Rabbitfish (*Siganus canaliculatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/379.htm) and [Double-barred
-  Rabbitfish (*Siganus virgatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/380.htm) Lim, Kelvin K. P. &
+  Rabbitfish (*Siganus canaliculatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/379) and [Double-barred
+  Rabbitfish (*Siganus virgatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/380) Lim, Kelvin K. P. &
   Jeffrey K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
@@ -145,7 +145,7 @@ Siganus virgatus* (Double-barred rabbitfish) *Siganus vulpinus* (Foxface rabbitf
   vulpinus* (Foxface)](http://www.fishbase.org/summary/4629) from [FishBase](http://www.fishbase.org/):
   Technical fact.
 - [Volume
-  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.htm) FAO Species
+  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
   Identification Guide for Fishery Purposes The Living Marine Resources
   of the Western Central Pacific.
 
@@ -169,9 +169,9 @@ Siganus virgatus* (Double-barred rabbitfish) *Siganus vulpinus* (Foxface rabbitf
   Reef Fishes of the World*
   Periplus Editions. 400pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

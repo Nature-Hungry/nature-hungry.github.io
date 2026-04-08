@@ -4,29 +4,29 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "fiddler, crab, uca, ocypodidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![talking points for nature guides](../../../../Templates/fornatureguides.gif)](../../fngfiddlers.htm)
+[![talking points for nature guides](../../../../Templates/fornatureguides.gif)](../../fngfiddlers)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> Brachyurans > Superfamily [Ocypodoidea](ocypodoidea.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> Brachyurans > Superfamily [Ocypodoidea](ocypodoidea)
 **Fiddler
 crabs**   
 ***Uca* sp.**  
@@ -82,7 +82,7 @@ season. This makes it challenging to identify the different species
 of fiddler crabs by their colours alone. The species are generally
 distinguished by the structure of their pincers rather than by colours
 alone. Here's more on [how to tell apart
-the fiddler crabs commonly seen](cflongeyedcrabs.htm) on our shores.  
+the fiddler crabs commonly seen](cflongeyedcrabs) on our shores.  
   
 **Breathing air:** Fiddler crabs cannot
 swim and prefer to breathe air. So at high tide, they hide in their
@@ -133,19 +133,19 @@ crabs on Singapore shores**
 
 ---
 
-***![](uca/annulipes/040103sjid0059m3a.jpg)*[Porcelain fiddler crab](annulipes.htm)**
+***![](uca/annulipes/040103sjid0059m3a.jpg)*[Porcelain fiddler crab](annulipes)**
 
-*![](uca/vocans/090510hntd1140m3.jpg)*[**Orange fiddler crab**](vocans.htm)
+*![](uca/vocans/090510hntd1140m3.jpg)*[**Orange fiddler crab**](vocans)
 
 ***![](uca/rosea/021008cjd6155m3.jpg)*  
-[Rosy fiddler crab](rosea.htm)**
+[Rosy fiddler crab](rosea)**
 
 ---
 
-***![](uca/stoutpincer/090816sbwrd9021m3.jpg)*[Stout pincered fiddler crab](stoutpincer.htm)**
+***![](uca/stoutpincer/090816sbwrd9021m3.jpg)*[Stout pincered fiddler crab](stoutpincer)**
 
 ***![](uca/tinycolourful/110327cjd7979m3.jpg)*  
-[Tiny colourful fiddler crab](tinycolourful.htm)**
+[Tiny colourful fiddler crab](tinycolourful)**
 
 ---
 
@@ -191,14 +191,14 @@ On this website, they are grouped by external features for convenience
 of display.* 
  
 [Stout
-pincered fiddler crabs](stoutpincer.htm)  
-[Tiny colourful fiddler crabs](tinycolourful.htm)
+pincered fiddler crabs](stoutpincer)  
+[Tiny colourful fiddler crabs](tinycolourful)
   
  
- [*Austruca annulipes*](annulipes.htm)(Porcelain fiddler crab) *[Gelasimus vocans](vocans.htm)=^Uca (Gelasimus) vocans* (Orange fiddler crab)  
+ [*Austruca annulipes*](annulipes)(Porcelain fiddler crab) *[Gelasimus vocans](vocans)=^Uca (Gelasimus) vocans* (Orange fiddler crab)  
  *Tubuca dussumieri  
 Tubuca forcipata  
-[Tubuca rosea](rosea.htm)* (Rosy fiddler crab) (EN:
+[Tubuca rosea](rosea)* (Rosy fiddler crab) (EN:
 Endangered)  
 \*\**Tubuca paradussumieri* (Purple
 fiddler crab)
@@ -208,12 +208,12 @@ fiddler crab)
 **Links**  
 
 - [Fiddler
-  crabs (*Uca* spp.)](http://mangrove.nus.edu.sg/pub/seashore/text/190.htm) Tan, Leo W. H. & Ng, Peter K. L.,
+  crabs (*Uca* spp.)](http://mangrove.nus.edu.sg/pub/seashore/text/190) Tan, Leo W. H. & Ng, Peter K. L.,
   1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [Fiddler
-  crabs (*Uca* spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2053.htm) with descriptions of four species.Ng,
+  crabs (*Uca* spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2053) with descriptions of four species.Ng,
   Peter K. L. & N. Sivasothi, 1999. *[A
   Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
   Singapore Science Centre. 168 pp.
@@ -223,11 +223,11 @@ fiddler crab)
 - From the
   wild shores of singapore blog
   - [Dishonest
-    fiddler crabs bluff with fake pincers](http://wildshores.blogspot.com/2008/11/dishonest-fiddler-crabs-bluff-with-fake.html)
+    fiddler crabs bluff with fake pincers](http://wildshores.blogspot.com/2008/11/dishonest-fiddler-crabs-bluff-with-fakel)
   - [Eye
-    of the fiddler](http://wildshores.blogspot.com/2009/10/eye-of-fiddler.html)
+    of the fiddler](http://wildshores.blogspot.com/2009/10/eye-of-fiddlerl)
   - [How
-    do girl fiddler crabs defend their territory?](http://wildshores.blogspot.com/2009/11/how-do-girl-fiddler-crabs-defend-their.html)
+    do girl fiddler crabs defend their territory?](http://wildshores.blogspot.com/2009/11/how-do-girl-fiddler-crabs-defend-theirl)
 
 **References**
 
@@ -271,9 +271,9 @@ fiddler crab)
   Sea Shore Ecology of Hong Kong*.
   Hong Kong University Press. 350 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

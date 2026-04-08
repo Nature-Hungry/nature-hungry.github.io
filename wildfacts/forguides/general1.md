@@ -5,25 +5,8 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info,"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[![talking points for nature guides](../../Templates/fornatureguides.gif)](index.html)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 [index
-to talking points](index.html) for nature guides
+to talking points](indexl) for nature guides
 **For
 nature guides**  
 *updated
@@ -78,15 +61,15 @@ Three things to focus upon during the walk
 **Safety
 and comfort of visitors**  
 This requires much preparation well before, just before, during
-and after the walk. See [role of a guide](general2.htm) for more details.
+and after the walk. See [role of a guide](general2) for more details.
 
 **Visitors
 have an enjoyable time**  
 Even
 if they don't remember exact facts, they have good memories
 of the tour. They will want to come back again and bring their
-friends too! So [don't be a bad guide](badguide.htm).
-Instead, be a [good guide](goodguide.htm).
+friends too! So [don't be a bad guide](badguide).
+Instead, be a [good guide](goodguide).
 
 **Visitors
 FEEL love for the shores**   
@@ -125,9 +108,9 @@ Afterwards, do try to find out more, so that your knowledge
 improves with every question. If you can't find the information,
 you can [email me](mailto:hello@wildsingapore.com) and I'll try to help.
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

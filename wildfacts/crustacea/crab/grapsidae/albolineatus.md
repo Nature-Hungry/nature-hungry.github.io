@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "sally, light, foot, crab, grapsus, albolineatus, grapsidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> Brachyurans > Family [Grapsidae](grapsidae.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> Brachyurans > Family [Grapsidae](grapsidae)
 **Sally-light-foot
 crab**  
 ***Grapsus albolineatus***  
@@ -54,7 +54,7 @@ body indeed has fine white lines. Males have larger pincers than the
 females.  
   
 **Sometimes mistaken with** the [Scaly
-rock crab](../plagusiidae/plagusia.htm) (*Plagusia squamosa*) which has a more squarish
+rock crab](../plagusiidae/plagusia) (*Plagusia squamosa*) which has a more squarish
 less flat more bumpy body.   
   
 **What does it eat?** It is a scavenger
@@ -113,7 +113,7 @@ Photo shared by Rachael Goh on [facebook](https://www.facebook.com/media/set/?se
 *![](albolineatus/070604ecplks01m3.jpg)  
 East Coast, Jun 07*  
 Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2007/06/east-coast-park-is-alive.html).
+blog](http://wondercreation.blogspot.com/2007/06/east-coast-park-is-alivel).
 
 *![](albolineatus/170428ecpcnlks1.jpg)  
 East Coast PCN, Apr 17*  
@@ -127,7 +127,7 @@ Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng
 
 *![](albolineatus/101106burlks6m3.JPG)  
 Terumbu Buran, Nov 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/11/adventurous-landing-on-terumbu-buran.html).
+blog](http://wondercreation.blogspot.com/2010/11/adventurous-landing-on-terumbu-buranl).
 
 *![](albolineatus/170809tkkrk1.jpg)  
 Pulau Tekukor, Aug 17*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/richard.k.tiong/media_set?set=a.10155440640872906.1073741894.563787905&type=3).
@@ -140,7 +140,7 @@ Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?se
 
 *![](albolineatus/090921sjinml2m3.jpg)  
 St. John's Island, Sep 09*Photo shared by Neo Mei Lin on [her
-blog](http://psychedelic-nature.blogspot.com/2009/09/tiny-world-at-st-johns.html).
+blog](http://psychedelic-nature.blogspot.com/2009/09/tiny-world-at-st-johnsl).
 
 ---
 
@@ -165,7 +165,7 @@ Pulau Hantu, Dec 25*Photo shared by Jianlin Liu on [facebook](https://www.facebo
 - [*Grapsus
   albolineatus*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1653) in Crabs of Japan on Marine Species Identification
   Portal: Technical fact sheet.
-- [*Grapsus albolineatus* - Sally Lightfoot Crab](https://singapore.biodiversity.online/taxo4254/mainSpace/Grapsus%20albolineatus.html). Gan Su Xuan. 2017. Taxo4254, Wiki.nus.
+- [*Grapsus albolineatus* - Sally Lightfoot Crab](https://singapore.biodiversity.online/taxo4254/mainSpace/Grapsus%20albolineatusl). Gan Su Xuan. 2017. Taxo4254, Wiki.nus.
 
 **References**
 
@@ -183,9 +183,9 @@ Pulau Hantu, Dec 25*Photo shared by Jianlin Liu on [facebook](https://www.facebo
   S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
   Australian Waters*. Reed New Holland. 224 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

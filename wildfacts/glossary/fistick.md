@@ -4,21 +4,6 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](index.html)
-| [search](../search.htm)
-
 **Photo
 index of marine life on Singapore shores**
   
@@ -29,40 +14,40 @@ index of marine life on Singapore shores**
 
 ![](../vertebrates/fish/syngnathidae/seagrass/120510chgd2756m.jpg)  
 [**stick-like
-fish**](../vertebrates/fish/fishfi09.htm)
+fish**](../vertebrates/fish/fishfi09)
 
 ![](../vertebrates/fish/hemiramphidae/buffonis/120215prpd6977m.jpg)  
 [**stick-like
-fish**](../vertebrates/fish/fishfi09.htm)
+fish**](../vertebrates/fish/fishfi09)
 
 ![](../vertebrates/fish/centriscidae/centriscidae/060211hntg4683ma.jpg)  
 [**stick-like
-fish**](../vertebrates/fish/fishfi09.htm)
+fish**](../vertebrates/fish/fishfi09)
 
 ![](../cnidaria/others/gorgonacea/candelabra/030520bbd0063m.jpg)  
 **[sea
-fan](../cnidaria/gorgonaceafi.htm)**
+fan](../cnidaria/gorgonaceafi)**
 
 ![](../cnidaria/others/gorgonacea/whip/030714bbd0067m.jpg)  
 **[sea
-whip](../cnidaria/gorgonaceafi.htm)**
+whip](../cnidaria/gorgonaceafi)**
 
 ![](../mollusca/bivalvia/solenidae/solenidae/040120cjd0014m.jpg)  
-[**clam**](../mollusca/bivalviafi3.htm)
+[**clam**](../mollusca/bivalviafi3)
 
 ![](../cnidaria/others/pennatulacea/pencil/031226chgd0020m.jpg)  
 **[sea
-pen](../cnidaria/pennatulaceafi.htm)**
+pen](../cnidaria/pennatulaceafi)**
 
 ![](../cnidaria/others/pennatulacea/virgularia/050724bbg0105m.jpg)  
 **[sea
-pen](../cnidaria/pennatulaceafi.htm)**
+pen](../cnidaria/pennatulaceafi)**
 
 ![](../cnidaria/coralhard/fungiidae/polyphyllia/050312hntg3321mb.jpg)  
-[**hard coral**](../cnidaria/coralhardfi10.htm)
+[**hard coral**](../cnidaria/coralhardfi10)
 
 ![](../cnidaria/coralhard/fungiidae/herpolitha/040606kusg0472m.jpg)  
-[**hard coral**](../cnidaria/coralhardfi10.htm)
+[**hard coral**](../cnidaria/coralhardfi10)
 
   
   
@@ -75,41 +60,41 @@ lifeforms on this site
 by shape
 
 [general
-photo index](../photoindex.htm)  
+photo index](../photoindex)  
   
-[ball-shaped](fiball.htm)  
+[ball-shaped](fiball)  
   
-[blobs](fiblobs.htm)   
+[blobs](fiblobs)   
   
-[branching](fibranching.htm)  
+[branching](fibranching)  
   
-[bristley](fibristley.htm)  
+[bristley](fibristley)  
   
-[encrusting](fiencrusting.htm)  
+[encrusting](fiencrusting)  
   
-[feathery](fifeathery.htm)  
+[feathery](fifeathery)  
   
-[flat flexible](fiflatflexi.htm)   
+[flat flexible](fiflatflexi)   
   
-[flat stiff](fiflatstiff.htm)   
+[flat stiff](fiflatstiff)   
   
-[hairy](fihairy.htm)  
+[hairy](fihairy)  
   
-[leafy](fileafy.htm)  
+[leafy](fileafy)  
   
-[ribbon-like](firibbon.htm)  
+[ribbon-like](firibbon)  
   
-[sausage-like](fisausage.htm)  
+[sausage-like](fisausage)  
   
-[snake-like](fisnake.htm)   
+[snake-like](fisnake)   
   
 stick-like   
   
-[worm-like](fiworm.htm)
+[worm-like](fiworm)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

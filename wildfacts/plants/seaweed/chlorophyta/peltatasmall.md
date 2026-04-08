@@ -5,27 +5,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "small, parasol, seaweed, weed, green, caulerpa, racemosa, peltata, caulerpaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 green
-seaweeds [text index](../seaweedindex.htm) | [photo
-index](../seaweedfi.htm)
-[Seaweeds](../seaweed.htm)
-> Division [Chlorophyta](chlorophyta.htm) > Family
-Caulerpaceae > genus *[Caulerpa](caulerpa.htm)*
+seaweeds [text index](../seaweedindex) | [photo
+index](../seaweedfi)
+[Seaweeds](../seaweed)
+> Division [Chlorophyta](chlorophyta) > Family
+Caulerpaceae > genus *[Caulerpa](caulerpa)*
 **Small
 parasol green seaweed  
 *Caulerpa racemosa* var.
@@ -46,12 +46,12 @@ look like tiny fleshy umbrellas; with a thick circular portion (about
 0.5-1cm across) on a little stalk. These little umbrellas emerge along
 the length of a 'horizontal root' that creeps over the surface. Various shades
 of green to bluish-green.
-This is probably a variety of [Oval sea grapes](racemosa.htm)
+This is probably a variety of [Oval sea grapes](racemosa)
 (*Caulerpa racemosa*).   
   
 **Sometimes confused with** similar
 green seaweeds. Here's more on [how to tell
-apart some green seaweeds](cfgrapes.htm).
+apart some green seaweeds](cfgrapes).
 
 ![](peltatasmall/070728sisd4512m3.jpg)  
 *Sisters Island, Aug 07*![](peltatasmall/070728sisd4512m3a.jpg)
@@ -126,9 +126,9 @@ FREE photos of
 seaweeds](http://www.flickr.com/photos/54527470@N00/sets/72157600032152343).  
 Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

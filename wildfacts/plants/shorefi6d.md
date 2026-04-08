@@ -4,25 +4,10 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 plants
-[text index](plantindex.htm) | [photo
-index](plantfi.htm)
-[mangroves](mangrove/mangroves.htm)
+[text index](plantindex) | [photo
+index](plantfi)
+[mangroves](mangrove/mangroves)
 **Photo
 index of seashore trees on Singapore shores**  
 **trees** **with
@@ -37,7 +22,7 @@ on the seashore near the high water mark
 ![](coastal/adenanthera/pavonina/090413blyd0038m.jpg)  
   
 ![](coastal/adenanthera/pavonina/090413blyd0040m.jpg)  
-[Saga tree](coastal/adenanthera/pavonina.htm)   
+[Saga tree](coastal/adenanthera/pavonina)   
  *Adenanthera pavonina*
 
 ![](coastal/tamarindus/indica/090419chgcrkd0295m.jpg)  
@@ -45,7 +30,7 @@ on the seashore near the high water mark
 ![](coastal/tamarindus/indica/090419chgcrkd0295mb.jpg)  
   
 ![](coastal/tamarindus/indica/090419chgcrkd0296ma.jpg)  
-[Asam tree](coastal/tamarindus/indica.htm)  
+[Asam tree](coastal/tamarindus/indica)  
 *Tamarindus indica*
 
 ![](coastal/leucaena/leucocephala/090405smkd9059ma.jpg)  
@@ -53,7 +38,7 @@ on the seashore near the high water mark
 ![](coastal/leucaena/leucocephala/090405smkd9063m.jpg)  
   
 ![](coastal/leucaena/leucocephala/090405smkd9067m.jpg)  
-[Petai jawa](coastal/leucaena/leucocephala.htm)   
+[Petai jawa](coastal/leucaena/leucocephala)   
 *Leucaena leucocephala*
 
 ![](coastal/peltophorum/pterocarpum/090711sjid7157m.jpg)  
@@ -61,7 +46,7 @@ on the seashore near the high water mark
 ![](coastal/peltophorum/pterocarpum/090711sjid7159ma.jpg)  
   
 ![](coastal/peltophorum/pterocarpum/090922sjid1566ma.jpg)  
-[Yellow flame](coastal/peltophorum/pterocarpum.htm)  
+[Yellow flame](coastal/peltophorum/pterocarpum)  
 *Peltophorum pterocarpum*
 
 ![](mangrove/intsia/bijuga/110307admd6728m.jpg)  
@@ -77,7 +62,7 @@ on the seashore near the high water mark
   
   
 ![](mangrove/intsia/bijuga/110307admd6733m.jpg)  
-[Ipil](mangrove/intsia/bijuga.htm)  
+[Ipil](mangrove/intsia/bijuga)  
 *Intsia bijuga*
 
 Tall
@@ -104,7 +89,7 @@ one petal. Pod large woody flat. Sometimes seen in our back mangroves.
 ![](coastal/pongamia/pinnata/090410ubnd9426m.jpg)  
   
 ![](coastal/pongamia/pinnata/090410ubnd9417ma.jpg)  
-[Mempari](coastal/pongamia/pinnata.htm)
+[Mempari](coastal/pongamia/pinnata)
   
  *Pongamia pinnata*
 
@@ -112,14 +97,14 @@ one petal. Pod large woody flat. Sometimes seen in our back mangroves.
   
 ![](coastal/casuarina/equisetifolia/090314smkd8048m.jpg)  
   
-![](coastal/casuarina/equisetifolia/090314smkd8060m.jpg) [Rhu tree](coastal/casuarina/equisetifolia.htm)  
+![](coastal/casuarina/equisetifolia/090314smkd8060m.jpg) [Rhu tree](coastal/casuarina/equisetifolia)  
 *Casuarina equisetifolia*
 
 ![](coastal/podocarpus/polystachyus/070831sntd6391m.jpg)  
   
 ![](coastal/podocarpus/polystachyus/070831sntd6389ma.jpg)  
   
-![](coastal/podocarpus/polystachyus/080511sntd3315m.jpg) [Sea teak](coastal/podocarpus/polystachyus.htm)  
+![](coastal/podocarpus/polystachyus/080511sntd3315m.jpg) [Sea teak](coastal/podocarpus/polystachyus)  
 *Podocarpus polystachus*
 
  
@@ -148,47 +133,47 @@ index of
 plants on this site
 
 [all
-plants](plantfi.htm)  
+plants](plantfi)  
   
 **mangrove
 & seashore plants**   
-[creepers](shorefi1.htm)  
-[climbers, vines](shorefi2.htm)  
-[herbs](shorefi3.htm)  
-[ferns](shorefi7.htm)  
-[palms, pandans](shorefi4.htm)  
+[creepers](shorefi1)  
+[climbers, vines](shorefi2)  
+[herbs](shorefi3)  
+[ferns](shorefi7)  
+[palms, pandans](shorefi4)  
   
 **mangrove
 &** **seashore
   
 shrubs<2m**  
-[thick/leathery leaves](shorefi5a.htm)  
-[thin leaves](shorefi5b.htm)  
+[thick/leathery leaves](shorefi5a)  
+[thin leaves](shorefi5b)  
   
 **seashore
   
 trees>2m**   
 type of leaves  
-[small simple](shorefi6b.htm)  
-[large simple](shorefi6c.htm)  
+[small simple](shorefi6b)  
+[large simple](shorefi6c)  
 compound, others   
   
 **mangrove
 trees**  
-small oval fruits and [pneumatophores](mangfi6a.htm)  
+small oval fruits and [pneumatophores](mangfi6a)  
   
 long cylindrical fruits  
-with [knee roots](mangfi6b.htm)  
-with [buttressed roots](mangfi6c.htm)  
-with [stilt roots](mangfi6d.htm)  
+with [knee roots](mangfi6b)  
+with [buttressed roots](mangfi6c)  
+with [stilt roots](mangfi6d)  
   
-[large round fruits](mangfi6f.htm)  
+[large round fruits](mangfi6f)  
   
-[others](mangfi7a.htm)
+[others](mangfi7a)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

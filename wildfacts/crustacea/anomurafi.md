@@ -4,29 +4,12 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, hermit, crab, anomura, decapoda, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[![talking points for nature guides](../../Templates/fornatureguides.gif)](fnghermitcrabs.htm)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 crustacea [text
-index](crustaceaindex.htm) | [photo index](crustaceafi.htm)
-Phylum [Arthropoda](../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](crustacea.htm) > Class Malacostraca
-> Order [Decapoda](decapoda.htm) > Anomurans >
-[hermit crabs](othercrust/anomura/hermit/hermit.htm) 
+index](crustaceaindex) | [photo index](crustaceafi)
+Phylum [Arthropoda](../arthropoda/arthropoda)
+> Subphylum [Crustacea](crustacea) > Class Malacostraca
+> Order [Decapoda](decapoda) > Anomurans >
+[hermit crabs](othercrust/anomura/hermit/hermit) 
 **Photo
 index of hermit crabs on Singapore shores**  
 **crab-like
@@ -35,22 +18,22 @@ animals that live in snail shells**
 ---
 
 *![](othercrust/anomura/hermit/huddling/060131sjig4376m.jpg)*[Huddling  
-hermit crab](othercrust/anomura/hermit/huddling.htm) *awaiting identification*
+hermit crab](othercrust/anomura/hermit/huddling) *awaiting identification*
 
 *![](othercrust/anomura/hermit/tidal/090208smkd6573m.jpg)*[Tidal  
-hermit crab](othercrust/anomura/hermit/tidal.htm) *Diogenes* sp.
+hermit crab](othercrust/anomura/hermit/tidal) *Diogenes* sp.
 
 *![](othercrust/anomura/hermit/banded/050113sntg2834m.jpg)*  
 ['Blue-orange' banded  
-hermit crab](othercrust/anomura/hermit/banded.htm) *Pseudopaguristes monoporus*
+hermit crab](othercrust/anomura/hermit/banded) *Pseudopaguristes monoporus*
 
 *![](othercrust/anomura/hermit/bandedpink/110418tmftd8963ma.jpg)*  
 [Pink banded  
-hermit crab](othercrust/anomura/hermit/bandedpink.htm) *Pagurus hedlyei*
+hermit crab](othercrust/anomura/hermit/bandedpink) *Pagurus hedlyei*
 
 *![](othercrust/anomura/hermit/lavender/041019lbdd7676m.jpg)*  
 [Lavender  
-hermit crab](othercrust/anomura/hermit/lavender.htm) *awaiting identification*
+hermit crab](othercrust/anomura/hermit/lavender) *awaiting identification*
 
 1cm.
 Left pincer usually much larger than the right. Body hairy or sparsely
@@ -75,21 +58,21 @@ purplish lavender. Sometimes with a sea anemone on the shell. Sandy
 areas and seagrasses. Common on Changi, also some other shores.
 
 *![](othercrust/anomura/hermit/stripeorange/050206cjdd9978m.jpg)* [Orange-striped  
-hermit crab](othercrust/anomura/hermit/stripeorange.htm) *Clibanarius infraspinatus*
+hermit crab](othercrust/anomura/hermit/stripeorange) *Clibanarius infraspinatus*
 
 *![](othercrust/anomura/hermit/stripeblue/030712hntd0016ma.jpg)* [Blue-striped  
-hermit crab](othercrust/anomura/hermit/stripeblue.htm) *Clibanarius longitarsus*
+hermit crab](othercrust/anomura/hermit/stripeblue) *Clibanarius longitarsus*
 
 *![](othercrust/anomura/hermit/tawny/120618tmnbd5283m.jpg)* [Tawny  
-hermit crab](othercrust/anomura/hermit/tawny.htm) *Clibanarius* sp.
+hermit crab](othercrust/anomura/hermit/tawny) *Clibanarius* sp.
 
 ![](othercrust/anomura/hermit/goldspot/040619sntd0568m.jpg)  
 [Gold-spotted  
-hermit crab](othercrust/anomura/hermit/goldspot.htm) *Clibanarius cruentatus*
+hermit crab](othercrust/anomura/hermit/goldspot) *Clibanarius cruentatus*
 
 ![](othercrust/anomura/hermit/black/080816sisd9480mc.jpg)  
 [All-black  
-hermit crab](othercrust/anomura/hermit/black.htm) *Clibanarius* sp.
+hermit crab](othercrust/anomura/hermit/black) *Clibanarius* sp.
 
 3-5cm.
 Pincers usually equal in size. Orange stripes on legs and eye stalks.
@@ -110,19 +93,19 @@ Coral rubble near reefs. Seen once at Sisters Islands.
 
 *![](othercrust/anomura/hermit/blueelbow/100712chgd8429m.jpg)*  
 [Blue-elbowed  
-hermit crab](othercrust/anomura/hermit/blueelbow.htm) *Paguristes longirostris*
+hermit crab](othercrust/anomura/hermit/blueelbow) *Paguristes longirostris*
 
 ![](othercrust/anomura/hermit/veryhairy/060228labg5303m.jpg)  
 [Very hairy   
-hermit crab](othercrust/anomura/hermit/veryhairy.htm) *Dardanus lagopodes*
+hermit crab](othercrust/anomura/hermit/veryhairy) *Dardanus lagopodes*
 
 ![](othercrust/anomura/hermit/orangespot/030617skdd0093m.jpg)  
 [Spotted orange  
-hermit crab](othercrust/anomura/hermit/orangespot.htm) *Dardanus megistos*
+hermit crab](othercrust/anomura/hermit/orangespot) *Dardanus megistos*
 
 ![](othercrust/anomura/hermit/coenobita/040523sjiad0014m.jpg)  
 [Land  
-hermit crab](othercrust/anomura/hermit/coenobita.htm) *Coenobita* sp.
+hermit crab](othercrust/anomura/hermit/coenobita) *Coenobita* sp.
 
 2-3cm.
 Pincers large, about the same size. Body and limbs pinkish beige,
@@ -148,31 +131,31 @@ index of
 crustaceans on this site
 
 **Crustaceans**  
-[all crustaceans](crustaceafi.htm)  
+[all crustaceans](crustaceafi)  
   
 **Crabs**  
-[all crabs](crabfi.htm) and crab-like  
- [small](crabfi1c.htm)   
+[all crabs](crabfi) and crab-like  
+ [small](crabfi1c)   
 body width <2 cm  
- [small with long eyestalks](crabfi1a.htm)  
- [small porcelain crabs](crabfi1b.htm)   
+ [small with long eyestalks](crabfi1a)  
+ [small porcelain crabs](crabfi1b)   
 3 pairs walking legs  
   
-[medium](crabfi3.htm)   
+[medium](crabfi3)   
 body width 3-10cm  
   
-[large](crabfi4.htm)   
+[large](crabfi4)   
 body width >10cm  
   
-[swimming crabs](crabfi5.htm)   
+[swimming crabs](crabfi5)   
 last pair of legs paddle-shaped  
   
 hermit crabs   
 live in shells
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

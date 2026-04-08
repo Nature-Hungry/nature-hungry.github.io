@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, red, seaweed, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 seaweeds
-[text index](seaweedindex.htm) | [photo
-index](seaweedfi.htm)
-[Seaweeds](seaweed.htm)
-> Division [Rhodophyta](rhodophyta/rhodophyta.htm)
+[text index](seaweedindex) | [photo
+index](seaweedfi)
+[Seaweeds](seaweed)
+> Division [Rhodophyta](rhodophyta/rhodophyta)
 **Photo
 index of red seaweeds on Singapore shores**  
 **Soft hairy,
@@ -35,25 +22,25 @@ feathery, filaments**
   
 ![](rhodophyta/bostrychia/110719sntd7447ma.jpg)  
 [Tiny fern  
-red seaweed](rhodophyta/bostrychia.htm) *Bostrychia* sp.
+red seaweed](rhodophyta/bostrychia) *Bostrychia* sp.
 
 ![](rhodophyta/catstail/050413labg4687m.jpg)  
   
 ![](rhodophyta/catstail/050413labg4687ma.jpg)  
 [Cat's tail   
-red seaweed](rhodophyta/catstail.htm)  *Asapargopsis taxiformis*
+red seaweed](rhodophyta/catstail)  *Asapargopsis taxiformis*
 
 *![](rhodophyta/fluffy/050413labg4693m.jpg)  
   
 ![](rhodophyta/fluffy/050311labg3235m2.jpg)*  
 [Cotton candy  
-red seaweed](rhodophyta/fluffy.htm)  *awaiting identification*
+red seaweed](rhodophyta/fluffy)  *awaiting identification*
 
 ![](rhodophyta/feathery/050525hntd3357m.jpg)  
   
 ![](rhodophyta/feathery/050525hntd3357ma.jpg)
 [Feathery   
-red seaweed](rhodophyta/feathery.htm)  *Spyridia filamentosa*
+red seaweed](rhodophyta/feathery)  *Spyridia filamentosa*
 
  
 Mats
@@ -79,42 +66,32 @@ index of
 seaweeds on this site
 
 [all
-seaweeds](seaweedfi.htm)  
+seaweeds](seaweedfi)  
   
 **Green seaweeds**  
   
-[sheets, ribbons, filaments](chlorophytafi1.htm)  
+[sheets, ribbons, filaments](chlorophytafi1)  
   
 [feathery,   
-serrated strips](chlorophytafi2.htm)  
+serrated strips](chlorophytafi2)  
   
- [spheres, sausages, blobs](chlorophytafi3.htm)  
+ [spheres, sausages, blobs](chlorophytafi3)  
   
-[fans, disks, branched](chlorophytafi4.htm)  
+[fans, disks, branched](chlorophytafi4)  
   
 **Red
 seaweeds**  
- [sheets, ribbons](rhodophytafi3.htm)  
+ [sheets, ribbons](rhodophytafi3)  
   
- [fleshy stems, beads](rhodophytafi1.htm)  
+ [fleshy stems, beads](rhodophytafi1)  
   
 soft hairy, feathery  
   
-[hard branching, encrusting](rhodophytafi4.htm)  
+[hard branching, encrusting](rhodophytafi4)  
   
 **Brown
 seaweeds**  
- [sheets, ribbons](phaeophytafi2.htm)  
- [disks, other shapes](phaeophytafi1.htm)
+ [sheets, ribbons](phaeophytafi2)  
+ [disks, other shapes](phaeophytafi1)
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

@@ -9,23 +9,23 @@ layout: default
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 green
-seaweeds [text index](../seaweedindex.htm) | [photo
-index](../seaweedfi.htm)
+seaweeds [text index](../seaweedindex) | [photo
+index](../seaweedfi)
 
-[Seaweeds](../seaweed.htm)
-> Division [Chlorophyta](chlorophyta.htm) > Genus
- *[Caulerpa](caulerpa.htm)*
+[Seaweeds](../seaweed)
+> Division [Chlorophyta](chlorophyta) > Genus
+ *[Caulerpa](caulerpa)*
 **Bottlebrush
 green seaweeds  
 *Caulerpa webbiana\******Family
@@ -109,9 +109,9 @@ FREE photos of
 seaweeds](http://www.flickr.com/photos/54527470@N00/sets/72157600032152343).  
 Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

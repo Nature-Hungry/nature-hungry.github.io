@@ -4,27 +4,14 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "straw, tube, worm, chaetopteridae, tubeworm, polychaete, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 worms
-[text index](../wormindex.htm) | [photo
-index](../wormfi.htm)
+[text index](../wormindex) | [photo
+index](../wormfi)
 
-[worms](../worm.htm) > Phylum Annelida >
-Class [Polychaeta](polychaeta.htm)
+[worms](../worm) > Phylum Annelida >
+Class [Polychaeta](polychaeta)
 
 **Straw
 tubeworm  
@@ -91,7 +78,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Links**
 
 - [Family
-  Chaetopteridae](http://rmbr.nus.edu.sg/polychaete/Chaetopteridae.html) by Lim Yun Ping 1997-2000 [A
+  Chaetopteridae](http://rmbr.nus.edu.sg/polychaete/Chaetopteridael) by Lim Yun Ping 1997-2000 [A
   Guide to Singapore Polychaetes](http://rmbr.nus.edu.sg/polychaete/) on the Raffles Museum of Biodiversity
   Research website: fact sheet and photos of sabellids found in
   Singapore.
@@ -102,14 +89,4 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
   and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
   National Council on the Environment. 163pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

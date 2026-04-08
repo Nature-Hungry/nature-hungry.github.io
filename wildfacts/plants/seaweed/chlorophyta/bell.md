@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "oval, grapes, seaweed, weed, green, caulerpa, racemosa, turbinata, caulerpaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
-green seaweeds [text index](../seaweedindex.htm) | [photo
-index](../seaweedfi.htm)
+green seaweeds [text index](../seaweedindex) | [photo
+index](../seaweedfi)
 
-[Seaweeds](../seaweed.htm)
-> Division [Chlorophyta](chlorophyta.htm) > Family
-Caulerpaceae > genus *[Caulerpa](caulerpa.htm)*
+[Seaweeds](../seaweed)
+> Division [Chlorophyta](chlorophyta) > Family
+Caulerpaceae > genus *[Caulerpa](caulerpa)*
 **Bell
 sea grapes seaweed  
 *Caulerpa racemosa* var *turbinata\**** **Family Caulerpaceae  
@@ -46,8 +46,8 @@ that creeps over hard surfaces or just under the sand. Colours range
 from green to bluish-green.   
   
 **Sometimes confused with** [Round
-sea grape seaweeds](lentillifera.htm) (*Caulerpa lentillifera*). Here's more
-on [how to tell apart the sea grapes seaweeds](cfgrapes.htm).
+sea grape seaweeds](lentillifera) (*Caulerpa lentillifera*). Here's more
+on [how to tell apart the sea grapes seaweeds](cfgrapes).
 
 ![](bell/100519tsmc4159m3.jpg)  
 *Terumbu Semakau, May 10*![](bell/100519tsmc4159m3a.jpg)
@@ -104,9 +104,9 @@ Terumbu Pempang Tengah, Jun 20*Photo shared by Vincent Choo on [facebook](https:
   Plants of Australia*
   University of Western Australia Press. 300pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

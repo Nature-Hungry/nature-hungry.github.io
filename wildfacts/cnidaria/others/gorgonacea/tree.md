@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "seafan, fan, melithaeidae, gorgonian, gorgonacea, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 gorgonian
-[text index](../../cnidariaindex.htm#gorgonacea) | [photo
-index](../../gorgonaceafi.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Alcyonaria/Octocorallia > Order [Gorgonacea](gorgonacea.htm)
+[text index](../../cnidariaindex#gorgonacea) | [photo
+index](../../gorgonaceafi)
+Phylum [Cnidaria](../../cnidaria)
+> Class [Anthozoa](../../anthozoa) > Subclass
+Alcyonaria/Octocorallia > Order [Gorgonacea](gorgonacea)
 **Tree
 sea fan**  
  **Family Melithaeidae\****updated
@@ -101,7 +101,7 @@ Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng
 Terumbu Bemban,
 Apr 11*  
 Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/04/corals-galore-at-terumbu-bemban.html).
+blog](http://wondercreation.blogspot.com/2011/04/corals-galore-at-terumbu-bembanl).
 
 *![](tree/100617tsmklks.JPG)  
 Terumbu Semakau, Jun 10*  
@@ -153,9 +153,9 @@ the identification of these sea fans.
   Zool. Med. Leiden 73 (19), 6.iii.2000: 285-304, figs 1-13. ISSN
   0024-0672.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

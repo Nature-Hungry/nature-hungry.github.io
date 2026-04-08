@@ -4,23 +4,10 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "changeable, lizard, calotes, versicolor, agamidae, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 vertebrates [text
-index](../vertindex.htm) | [photo index](../vertfi.htm)
+index](../vertindex) | [photo index](../vertfi)
 Phylum Chordata
 > Subphylum Vertebrata > Class Reptilia
 **Sea
@@ -67,7 +54,7 @@ turtle and the Hawksbill turtle.
 sea turtle found resting  
 in the man-made lagoon. *Sisters Island, Jul 10*Photo
 shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2010/07/hawksbill-turtle-big-sisters-island.html).
+blog](http://colorclouds.blogspot.com/2010/07/hawksbill-turtle-big-sisters-islandl).
 *![](seaturtle/130909kusrick1m3.jpg)  
 Kusu Island, Sep 13*Photo
 shared by Leong Chin Rick on [facebook](https://www.facebook.com/photo.php?fbid=686186058076134&set=a.100353353326077.557.100000542374374&type=1&theater).
@@ -78,7 +65,7 @@ Hawksbill turtle
 Semakau, Nov 07*   
 Photo
 shared by Teo Siyang on [his
-blog](http://uforest.blogspot.com/2007/11/sea-turtle-semakau.html).
+blog](http://uforest.blogspot.com/2007/11/sea-turtle-semakaul).
 **Stranded
 baby sea turtles:** In recent years, there were incidents
 of sea turtle hatchlings going in the 'wrong' direction when they
@@ -193,9 +180,9 @@ coriacea* (Leatherback turtle)
 - [Latest
   media reports on sea turtles](http://wildsingaporenews.blogspot.com/search/label/sea-turtles) on the wildsingapore news blog.
 - [Marine
-  turtles](http://www.worldwildlife.org/species/finder/marineturtles/marineturtles.html) on the WWF website with fact sheets on [Green
-  turtles](http://www.worldwildlife.org/species/finder/greenturtle/greenturtle.html) and [Hawksbill
-  turtles](http://www.worldwildlife.org/species/finder/hawksbillturtle/hawksbillturtle.html).
+  turtles](http://www.worldwildlife.org/species/finder/marineturtles/marineturtlesl) on the WWF website with fact sheets on [Green
+  turtles](http://www.worldwildlife.org/species/finder/greenturtle/greenturtlel) and [Hawksbill
+  turtles](http://www.worldwildlife.org/species/finder/hawksbillturtle/hawksbillturtlel).
 - [Sea
   turtles of Malaysia](http://www.wwf.org.my/about_wwf/what_we_do/species_main/turtles/) on the WWF Malaysia website: with details
   of [satellite
@@ -205,54 +192,54 @@ coriacea* (Leatherback turtle)
 - From the
   wild shores of singapore blog.
   - All sighting from 2019 onwards, compiled under the tag: ['mega fauna'](http://wildshores.blogspot.sg/search/label/mega-fauna)
-  - [Happy National Day with dolphins, sea turtles and dugongs! (Aug 2018)](http://wildshores.blogspot.com/2018/08/happy-national-day-with-dolphins-sea.html)
-  - [Sea turtles and dolphins in Singapore waters! (May 2018)](http://wildshores.blogspot.com/2018/06/sea-turtles-and-dolphins-in-singapore.html)
-  - [Singapore got sea turtles!](http://wildshores.blogspot.sg/2017/02/singapore-got-sea-turtles.html)
-  - [What killed the sea turtle?](http://wildshores.blogspot.sg/2017/01/what-killed-sea-turtle.html)
-  - [Do balloon releases kill marine life?](http://wildshores.blogspot.com/2011/01/do-balloon-releases-kill-marine-life.html)
-  - [Balloons and soft plastic kill sea turtles, slowly and painfully](http://wildshores.blogspot.com/2011/06/balloons-and-soft-plastic-kill-sea.html)
+  - [Happy National Day with dolphins, sea turtles and dugongs! (Aug 2018)](http://wildshores.blogspot.com/2018/08/happy-national-day-with-dolphins-seal)
+  - [Sea turtles and dolphins in Singapore waters! (May 2018)](http://wildshores.blogspot.com/2018/06/sea-turtles-and-dolphins-in-singaporel)
+  - [Singapore got sea turtles!](http://wildshores.blogspot.sg/2017/02/singapore-got-sea-turtlesl)
+  - [What killed the sea turtle?](http://wildshores.blogspot.sg/2017/01/what-killed-sea-turtlel)
+  - [Do balloon releases kill marine life?](http://wildshores.blogspot.com/2011/01/do-balloon-releases-kill-marine-lifel)
+  - [Balloons and soft plastic kill sea turtles, slowly and painfully](http://wildshores.blogspot.com/2011/06/balloons-and-soft-plastic-kill-seal)
   - [Sea
-    turtles of the Coral Triangle and Singapore](http://wildshores.blogspot.com/2009/07/sea-turtles-of-coral-triangle-and.html)
+    turtles of the Coral Triangle and Singapore](http://wildshores.blogspot.com/2009/07/sea-turtles-of-coral-triangle-andl)
   - [Discarded
-    balloons can kill sea turtles](http://wildshores.blogspot.com/2009/07/discarded-balloons-can-kill-sea-turtles.html)
+    balloons can kill sea turtles](http://wildshores.blogspot.com/2009/07/discarded-balloons-can-kill-sea-turtlesl)
   - [Sea
-    turtle connection: Sentosa and Pulau Upeh](http://wildshores.blogspot.com/2009/07/sea-turtle-connection-sentosa-and-pulau.html)
+    turtle connection: Sentosa and Pulau Upeh](http://wildshores.blogspot.com/2009/07/sea-turtle-connection-sentosa-and-pulaul)
   - [Light
-    kills](http://wildshores.blogspot.com/2009/03/light-kills.html)
+    kills](http://wildshores.blogspot.com/2009/03/light-killsl)
   - [Reactions
-    to mass balloon release](http://wildshores.blogspot.com/2009/03/reactions-to-mass-balloon-release.html)
+    to mass balloon release](http://wildshores.blogspot.com/2009/03/reactions-to-mass-balloon-releasel)
   - [Single
-    abandoned fishing line can kill](http://wildshores.blogspot.com/2009/02/single-abandoned-fishing-line-can-kill.html)
+    abandoned fishing line can kill](http://wildshores.blogspot.com/2009/02/single-abandoned-fishing-line-can-killl)
   - [How
-    do sea turtles find their way home?](http://wildshores.blogspot.com/2008/12/how-do-sea-turtles-find-their-way-home.html)
+    do sea turtles find their way home?](http://wildshores.blogspot.com/2008/12/how-do-sea-turtles-find-their-way-homel)
   - [Sea
-    turtles and Singapore's shores](http://wildshores.blogspot.com/2008/08/sea-turtles-and-singapores-shores.html)
+    turtles and Singapore's shores](http://wildshores.blogspot.com/2008/08/sea-turtles-and-singapores-shoresl)
 
 **Past
 sea turtle sightings in Singapore**
 
-- [Guardians of Singapore’s sea turtles](https://www.straitstimes.com/multimedia/graphics/2025/09/sea-turtle-hatchery-singapore-sisters-island/index.html) Long Island reclamation is one reason why NParks is relocating turtle eggs laid at East Coast Park Straits Times 10 Sep 2025.
+- [Guardians of Singapore’s sea turtles](https://www.straitstimes.com/multimedia/graphics/2025/09/sea-turtle-hatchery-singapore-sisters-island/indexl) Long Island reclamation is one reason why NParks is relocating turtle eggs laid at East Coast Park Straits Times 10 Sep 2025.
 - [Turtles with satellite tracker swim from Singapore to Riau, now feeding at Batam](https://mothership.sg/2020/12/turtle-tracking-singapore-batam/) Mothership 13 Dec 2020
-- [1m diameter Green sea turtle at Eastern Pulau Ubin](http://wildshores.blogspot.sg/2017/02/singapore-got-sea-turtles.html), sighted by Richard Lim (26 Feb 2017).
+- [1m diameter Green sea turtle at Eastern Pulau Ubin](http://wildshores.blogspot.sg/2017/02/singapore-got-sea-turtlesl), sighted by Richard Lim (26 Feb 2017).
 - [6-7 Green and Hawksbill sea turtles off Pulau Semakau](https://www.facebook.com/serin.subaraj/posts/1414618098557929), sighted by Serin Subaraj (25 Feb 2017).
-- [Badly cut 1m-long sea turtle found dead along Changi Beach](http://wildsingaporenews.blogspot.sg/2017/01/badly-cut-1m-long-sea-turtle-found-dead.html) Lydia Lam Straits Times AsiaOne (2 Jan 2017)
-- [What killed the sea turtle?](http://wildshores.blogspot.sg/2017/01/what-killed-sea-turtle.html) (17 Sep 2016)
+- [Badly cut 1m-long sea turtle found dead along Changi Beach](http://wildsingaporenews.blogspot.sg/2017/01/badly-cut-1m-long-sea-turtle-found-deadl) Lydia Lam Straits Times AsiaOne (2 Jan 2017)
+- [What killed the sea turtle?](http://wildshores.blogspot.sg/2017/01/what-killed-sea-turtlel) (17 Sep 2016)
 - [Dead sea turtle seen at Pulau Tekukor](https://www.facebook.com/wildsingapore/media_set?set=a.10153717197643595.1073742037.687823594&type=3) (25 Jun 2016)
-- [Sea turtle seen at Changi](http://wildshores.blogspot.sg/2015/06/sea-turtle-seen-at-changi.html) (23 Jun 2015)
+- [Sea turtle seen at Changi](http://wildshores.blogspot.sg/2015/06/sea-turtle-seen-at-changil) (23 Jun 2015)
 - Tan Yee Keat. 18 December 2015. [Green turtle carcass showing sign of boat strike at Selat Pandan](http://lkcnhm.nus.edu.sg/nus/images/pdfs/sbr/2015/sbr2015-212-213.pdf). Singapore Biodiversity Records 2015: 212-213.
 - [Salvaging a dead sea turtle at Changi Beach](http://lkcnhm.net/2015/05/28/salvaging-a-dead-sea-turtle-at-changi-beach/), May 2015 on the Lee Kong Chian Natural History Museum blog.
-- [Singapore has sea turtles? Dolphins!](http://wildshores.blogspot.sg/2015/05/singapore-has-sea-turtles-dolphins.html) (3 May 15)
-- [Dead sea turtle found at Tuas](http://wildshores.blogspot.sg/2015/03/dead-sea-turtle-found-at-tuas.html) (17 Mar 15)
-- [Wild dolphins! Sea turtles! In Singapore waters!](http://wildshores.blogspot.sg/2014/09/wild-dolphins-sea-turtles-in-singapore.html) (16 Sep 14)
-- [Special sightings since 2010: dugong, dolphin, sea turtles and more!](http://wildshores.blogspot.sg/2013/10/special-sightings-since-2010-dugongs.html) (20 Oct 13)
+- [Singapore has sea turtles? Dolphins!](http://wildshores.blogspot.sg/2015/05/singapore-has-sea-turtles-dolphinsl) (3 May 15)
+- [Dead sea turtle found at Tuas](http://wildshores.blogspot.sg/2015/03/dead-sea-turtle-found-at-tuasl) (17 Mar 15)
+- [Wild dolphins! Sea turtles! In Singapore waters!](http://wildshores.blogspot.sg/2014/09/wild-dolphins-sea-turtles-in-singaporel) (16 Sep 14)
+- [Special sightings since 2010: dugong, dolphin, sea turtles and more!](http://wildshores.blogspot.sg/2013/10/special-sightings-since-2010-dugongsl) (20 Oct 13)
 - [Rare
-  sea turtle spotted on beach at East Coast Park](http://wildsingaporenews.blogspot.sg/2013/07/rare-sea-turtle-spotted-on-beach-at.html)
+  sea turtle spotted on beach at East Coast Park](http://wildsingaporenews.blogspot.sg/2013/07/rare-sea-turtle-spotted-on-beach-atl)
   Grace Chua Straits Times 30 Jul 13;
 - [Sea
   turtles nesting in Singapore](http://www.pulauhantu.org/sea-turtles-nesting-in-singapore/) on Pulau Hantu 28 Jul 13;
-- [Singapore has wild dolphins, otters, dugongs, sea turtles and more!](http://wildshores.blogspot.sg/2013/03/singapore-has-wild-dolphins-otters.html) (18 Mar 13)
+- [Singapore has wild dolphins, otters, dugongs, sea turtles and more!](http://wildshores.blogspot.sg/2013/03/singapore-has-wild-dolphins-ottersl) (18 Mar 13)
 - [Right
-  way to save turtles?](http://wildsingaporenews.blogspot.com/2009/09/right-way-to-save-turtles-call-cops.html)
+  way to save turtles?](http://wildsingaporenews.blogspot.com/2009/09/right-way-to-save-turtles-call-copsl)
   Teh Jen Lee, The New Paper 17 Sep 09;
 - [Hawksbill
   turtle near Sentosa](http://coastalcleanup.wordpress.com/2007/09/18/melakan-hawksbill-turtle-now-off-sentosa/) (Sep 06 until Sep 07) tagged with satellite
@@ -264,17 +251,17 @@ sea turtle sightings in Singapore**
   May 06) More photos and lots more details of this on the habitatnews
   blog
 - [Turtles
-  rescued from drains](http://uvp.blogspot.com/2006/05/turtles-rescued-from-drains.html) (23
+  rescued from drains](http://uvp.blogspot.com/2006/05/turtles-rescued-from-drainsl) (23
   May 06) more photos of the rescue on the
   ubin volunteer blog
 - [Blue
   Tempeh meets Aunty Betsy under the sea](http://habitatnews.nus.edu.sg//index.php?entry=/marine/20060222-pulauhantu_hawksbill-jani_thuaibah.txt) (Pulau Hantu) (21 Feb
   06) photos and story on the habitatnews blog
 - [RF
-  Xplore explores Hantu](http://thebluetempeh.blogspot.com/2006/02/rf-xplore-explores-pulau-hantu.html) (21 Feb 06) with photos of sea turtle
+  Xplore explores Hantu](http://thebluetempeh.blogspot.com/2006/02/rf-xplore-explores-pulau-hantul) (21 Feb 06) with photos of sea turtle
   and lots of other marine life on The Blue Tempeh blog
 - [Wonderful
-  diving at Pulau Hantu](http://colorclouds.blogspot.com/2006/02/wonderful-diving-at-pulau-hantu.html) (4 Feb 06) with lots of photos of the
+  diving at Pulau Hantu](http://colorclouds.blogspot.com/2006/02/wonderful-diving-at-pulau-hantul) (4 Feb 06) with lots of photos of the
   sea turtle on the Colourful Clouds blog
 - [Sea
   turtle seen on Hantu Bloggers' first anniversary dive](http://habitatnews.nus.edu.sg//index.php?entry=/marine/20050322-hantuannvdive.txt) (Mar
@@ -298,14 +285,4 @@ sea turtle sightings in Singapore**
   Red Data Book: Threatened plants and animals of Singapore*.
   Nature Society (Singapore). 285 pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

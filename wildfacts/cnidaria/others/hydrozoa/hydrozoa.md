@@ -4,24 +4,24 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "hydroid, hydrozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 hydroid [text
-index](../../cnidariaindex.htm#hydrozoa) | [photo index](../../hydrozoafi.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
+index](../../cnidariaindex#hydrozoa) | [photo index](../../hydrozoafi)
+Phylum [Cnidaria](../../cnidaria)
 > Class Hydrozoa
 **Hydroids**  
  **Class Hydrozoa***updated
@@ -42,8 +42,8 @@ Northern intertidal shores. Forming colourful fluffy patches. Some fiery stingin
 Islands. They are often overlooked as they resemble plants. Many small to tiny jellyfish-like hydroids are recorded in the water (unattached to surfaces).  
   
 **What are hydroids?** They belong
-to [Phylum Cnidaria](../../cnidaria.htm). 'Hydrozoa' means
-'water animals' in Greek. Hydrozoans may look like [jellyfish](thread.htm) or appear to be branching plants. There are about 3,000 known species
+to [Phylum Cnidaria](../../cnidaria). 'Hydrozoa' means
+'water animals' in Greek. Hydrozoans may look like [jellyfish](thread) or appear to be branching plants. There are about 3,000 known species
 of the Class Hydrozoa.   
  **Features:** Hydroids are colonial animals. The polyps are
 tiny (1mm tall with a smaller diameter). In branching forms, the polyps
@@ -52,14 +52,14 @@ exoskeleton is made of). In some, each polyp lives in a bell-shaped
 'container' with a lid. The colony often takes on feathery, branching
 plant-like forms. The branches arise from a central stalk that is
 attached to a hard surface.
-*![](candy/040409tusad0141m3.jpg)*Colourful [Candy hydroids](candy.htm). *Tuas, Apr 04*
+*![](candy/040409tusad0141m3.jpg)*Colourful [Candy hydroids](candy). *Tuas, Apr 04*
 **![](140420sisd4964.jpg)**Blue button jellyfish **(Porpita porpita)  
 Sisters Island, Apr 14** 
 *![](thread/040409tuscd0019m3.jpg)*[This
-jellyfish](thread.htm) belongs to Class Hydrozoa. *Tuas, Apr 04*
+jellyfish](thread) belongs to Class Hydrozoa. *Tuas, Apr 04*
 The colony may be made up of two different kinds of polyps. Feeding
 polyps look like sea anemones with tentacles armed with [stingers
-like other Cnidrians](../../cnidaria.htm). These stingers are used to gather food particles
+like other Cnidrians](../../cnidaria). These stingers are used to gather food particles
 from the water.   
   
 Other polyps function as reproductive organs and often don't have
@@ -72,15 +72,15 @@ Fire corals (*Millepora* sp.) are hydroids that produce a massive
 skeleton so they appear to be hard corals. As their name suggests,
 these animals have powerful stingers.   
   
-[Stinging hydroids](stinging.htm) inflict powerful
+[Stinging hydroids](stinging) inflict powerful
 stings that can leave painful and hideous scars on the bare skin of
 careless visitors or divers.
 *![](sertularella/100614bbd6022m3.jpg)*Tiny
-polyps of the [fern hydroid](sertularella.htm)*.  
+polyps of the [fern hydroid](sertularella)*.  
 Beting Bronok, Jun 10*
-*![](fluffy/120410chgd9302m3.jpg)*Polyp of [fluffy hydroid](fluffy.htm). *Changi, Apr 12*
+*![](fluffy/120410chgd9302m3.jpg)*Polyp of [fluffy hydroid](fluffy). *Changi, Apr 12*
 *![](candy/120508skdd2318m3.jpg)*Capsules
-of [candy hydroids](candy.htm). *Pulau Sekudu, May 12* 
+of [candy hydroids](candy). *Pulau Sekudu, May 12* 
 **What do they eat?** The feeding
 polyps gather food with tiny tentacles armed with stinging cells.
 The digested nutrients are shared with the rest of the colony. Some
@@ -91,12 +91,12 @@ host, which in return provides the algae with shelter and minerals.
   
 **Living on a hydroid** Despite their powerful stingers, some tiny animals such as amphipods actually live on them. Their stingers don't deter some nudibranchs from eating them.
 *![](stinging/050821bbg1938m3.jpg)*Grass-like
-pale [stinging hydroids](stinging.htm). *Beting Bronok, Aug 05* 
+pale [stinging hydroids](stinging). *Beting Bronok, Aug 05* 
 
 *![](stinging/120803chgd9398m3.jpg)*Tiny
-tentacles of [stinging hydroids](stinging.htm). *Changi, Aug 12*
+tentacles of [stinging hydroids](stinging). *Changi, Aug 12*
 
-*![](../../../mollusca/slugs/nudibranchia/sibogae/060812bbd6062m3.jpg)*Cuthona nudibranch on [Fern hydroid](sertularella.htm) *Beting Bronok, Aug 06*
+*![](../../../mollusca/slugs/nudibranchia/sibogae/060812bbd6062m3.jpg)*Cuthona nudibranch on [Fern hydroid](sertularella) *Beting Bronok, Aug 06*
 
 **Hydroid babies:** To increase in
 size, the plant-like form buds new polyps and branches. Some species
@@ -125,31 +125,31 @@ hydroids on Singapore shores**
 
 ---
 
-***![](stinging/050411tusd2333m3.jpg)*[Stinging hydroids](stinging.htm)**
+***![](stinging/050411tusd2333m3.jpg)*[Stinging hydroids](stinging)**
 
 **![](candy/020629chgd1211m3.jpg)  
-[Candy hydroids](candy.htm)**
+[Candy hydroids](candy)**
 
-***![](fluffy/040409tusad0129m3.jpg)*[Fluffy hydroids](fluffy.htm)**
+***![](fluffy/040409tusad0129m3.jpg)*[Fluffy hydroids](fluffy)**
 
 ---
 
-***![](sertularella/030714bbd0074m3.jpg)*[Fern hydroids](sertularella.htm)**
+***![](sertularella/030714bbd0074m3.jpg)*[Fern hydroids](sertularella)**
 
-***![](delicate/050819cjg1531m3a.jpg)*[Delicate hydroids](delicate.htm)**
+***![](delicate/050819cjg1531m3a.jpg)*[Delicate hydroids](delicate)**
 
-***![](seagrass/080208hntd9427m3.jpg)*[Seagrass hydroids](seagrass.htm)**grows
+***![](seagrass/080208hntd9427m3.jpg)*[Seagrass hydroids](seagrass)**grows
 on seagrasses.
 
 ---
 
-***![](giant/100812tpld0425m6l.jpg)*[Giant hydroids](giant.htm)**
+***![](giant/100812tpld0425m6l.jpg)*[Giant hydroids](giant)**
 
 ---
 
 **Class
 Hydrozoa recorded for Singapore  
-[text index](../../cnidariaindex.htm) and photo index of [hydroids](../../hydrozoafi.htm) and [jellyfish](../../jellyfishfi.htm) seen on Singapore shores**Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.  
+[text index](../../cnidariaindex) and photo index of [hydroids](../../hydrozoafi) and [jellyfish](../../jellyfishfi) seen on Singapore shores**Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.  
   
  
 **Family
@@ -170,7 +170,7 @@ Zancleidae**
 *Zanclea* sp.
   
  
-[**Family Aequoreidae**](thread.htm) (Thread-tentacled jellyfish)
+[**Family Aequoreidae**](thread) (Thread-tentacled jellyfish)
  
 *Aequorea conica   
 Aequorea parva   
@@ -238,14 +238,14 @@ Cuninidae**
  
 *Cunina duplicata*
   
-Some [Jellyfishes](../jellyfish/jellyfish.htm) are classified as hydroids.
+Some [Jellyfishes](../jellyfish/jellyfish) are classified as hydroids.
 
 ---
 
 **Links**  
 
 - [Stinging
-  hydroids](http://mangrove.nus.edu.sg/pub/seashore/text/116.htm)
+  hydroids](http://mangrove.nus.edu.sg/pub/seashore/text/116)
   Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
@@ -255,14 +255,14 @@ Some [Jellyfishes](../jellyfish/jellyfish.htm) are classified as hydroids.
   of Marine Life of Britain and Ireland](http://www.habitas.org.uk/marinelife/) Edited by Bernard E.
   Picton and Christine C. Morrow: photo and fact sheet
 - [The
-  Hydrozoa Directory](http://www.ville-ge.ch/mhng/hydrozoa/hydrozoa-directory.htm) on the Natural History Museum of Geneva
+  Hydrozoa Directory](http://www.ville-ge.ch/mhng/hydrozoa/hydrozoa-directory) on the Natural History Museum of Geneva
   website: photos and fact sheets with glossary of terms, covering
   everything you might want to know about hydroids from nematocysts
   to life cycle and more.
 - [Shallow-water
-  hydroids](http://www.vattenkikaren.gu.se/fakta/arter/cnidaria/hydrozoa/olikahe.html) on Aquascope of the Tjarno Marine Biological Laboratory:
+  hydroids](http://www.vattenkikaren.gu.se/fakta/arter/cnidaria/hydrozoa/olikahel) on Aquascope of the Tjarno Marine Biological Laboratory:
   some photos and titbits on the animals.
-- [Hydroids](http://www.seaslugforum.net/hydroids.htm)
+- [Hydroids](http://www.seaslugforum.net/hydroids)
   on the Sea Slug Forum by Dr Bill Rudman: as hydroids are among
   the stuff that nudibranchs eat, there is some interesting information
   on them on this site.
@@ -283,9 +283,9 @@ Some [Jellyfishes](../jellyfish/jellyfish.htm) are classified as hydroids.
   of the Invertebrates*.
   5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

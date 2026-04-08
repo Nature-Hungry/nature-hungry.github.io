@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "horn, eyed, ghost, crab, ocypode, ceratophthalmus, ocypodidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> Brachyurans > Superfamily [Ocypodoidea](ocypodoidea.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> Brachyurans > Superfamily [Ocypodoidea](ocypodoidea)
 **Horn-eyed
 ghost crab**  
 ***Ocypode ceratophthalmus***  
@@ -81,7 +81,7 @@ they can absorb water from the wet sand through special hairs on the
 base of their legs by capillary action.   
   
 **Similar
-to**  the [Smooth-eyed ghost crab](cordimanus.htm) (*Ocypode cordimanus*) which is rarely encountered.   
+to**  the [Smooth-eyed ghost crab](cordimanus) (*Ocypode cordimanus*) which is rarely encountered.   
  **Speedy Ghosts:** Ghost crabs can
 really run fast! As suggested by their scientific name ("Ocy"
 means swift and "podi" foot in Greek). They literally fly
@@ -134,7 +134,7 @@ Eating crab.
 *Pulau Hantu, Nov 03*
 
 ![](ceratophthalmus/090428chgd0692m3.jpg)  
-Eating a [fireworm](../../../worm/polychaeta/chloeia.htm). *Changi, Apr 09*
+Eating a [fireworm](../../../worm/polychaeta/chloeia). *Changi, Apr 09*
 
 ![](ceratophthalmus/100909tmd0817m3a.jpg)  
 Eating a fish, probably a goby. *Tanah Merah, Sep 10*
@@ -161,11 +161,11 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 ---
 
 ![](ceratophthalmus/090527skdlks.JPG)  
-*Pulau Sekudu, May 09*Photo shared by Loh Kok Sheng on [his blog.](http://wondercreation.blogspot.sg/2009/05/back-to-froggy-sekudu.html)
+*Pulau Sekudu, May 09*Photo shared by Loh Kok Sheng on [his blog.](http://wondercreation.blogspot.sg/2009/05/back-to-froggy-sekudul)
 
 ![](ceratophthalmus/090628lazlt5m3.jpg)  
 *Seringat-Kias, Jun 09*Photo shared by Liana Tang on [her
-blog](http://nearly-lucid.blogspot.com/2009/07/life-in-man-made-bay-on-lazarus-island.html)
+blog](http://nearly-lucid.blogspot.com/2009/07/life-in-man-made-bay-on-lazarus-islandl)
 
 ![](ceratophthalmus/091205sudjk5m3.jpg)  
 *Pulau Sudong, Dec 09*Photo shared by James Koh on [his
@@ -196,7 +196,7 @@ Jan 10
 **Links**
 
 - [Ghost
-  Crab (*Ocypoda* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/191.htm) with brief details on *Ocypode
+  Crab (*Ocypoda* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/191) with brief details on *Ocypode
   ceratophthalmus* and *Ocypode cordimana*
   Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
@@ -205,7 +205,7 @@ Jan 10
   ghost crab (*Ocypode ceratophthalma*)](http://www.sealifebase.fisheries.ubc.ca/Summary/speciesSummary.php?ID=21486&genusname=Ocypode&speciesname=ceratophthalma)
   on SeaLife Base: Technical fact sheet.
 - [*Ocypode
-  ceratophthalmus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Ocypode%20ceratophthalmus.html)
+  ceratophthalmus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Ocypode%20ceratophthalmusl)
   (Decapoda: Ocypodidae) Horn-eyed ghost crab by Wong Ze Lin, 2011
   on taxo4254.
 - [Sand
@@ -215,13 +215,13 @@ Jan 10
   ghost crabs change camouflage from day to night](http://www.bbc.co.uk/nature/22025789)
   Ella Davies, BBC Nature 5 Apr 13.
 - [Animal
-  Olympians](http://www.pbrc.hawaii.edu/%7Epetra/animal_olympians.html) by Petra H. Lenz on the University of Hawaii website:
+  Olympians](http://www.pbrc.hawaii.edu/%7Epetra/animal_olympiansl) by Petra H. Lenz on the University of Hawaii website:
   listing of records of animal performance, and the Ghost crab ranks
   among the top fastest terrestrial animals.
 - From the
   wild shores of singapore blog
   - [Ghosts
-    as an indicator of life on our shores](http://wildshores.blogspot.com/2010/01/ghosts-as-indicator-of-life-on-our.html)
+    as an indicator of life on our shores](http://wildshores.blogspot.com/2010/01/ghosts-as-indicator-of-life-on-ourl)
 
 **References**
 
@@ -236,9 +236,9 @@ Jan 10
   S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
   Australian Waters*. Reed New Holland. 224 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

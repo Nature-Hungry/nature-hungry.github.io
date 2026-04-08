@@ -4,25 +4,8 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info,"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[![talking points for nature guides](../../Templates/fornatureguides.gif)](index.html)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 [index
-to talking points](index.html) for nature guides
+to talking points](indexl) for nature guides
 **Tips
 for handling difficult visitors**  
 *updated
@@ -107,14 +90,14 @@ Difficult behaviour is best avoided by finding out what the visitors
 want to do and tailoring the tour to meet their expectations. Destructive
 behaviour is best avoided by a proper pre-walk briefing. Dangerous
 behaviour is avoided by a thorough safety briefing. More details
-in [role of a guide](general2.htm).
+in [role of a guide](general2).
 
 Don't be a [bad
-guide](badguide.htm). Be a [good guide](goodguide.htm) instead.
+guide](badguide). Be a [good guide](goodguide) instead.
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "alligator, double, end, ended, pipefish, pipe, fish, syngnathoides, biaculeatus, syngnathidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm) >
-Family [Syngnathidae](syngnathidae.htm) > [pipefishes](pipefish.htm)
+> Subphylum Vertebrata > [fishes](../fish) >
+Family [Syngnathidae](syngnathidae) > [pipefishes](pipefish)
 **Alligator
 pipefish  
 *Syngnathoides biaculeatus***   
@@ -36,7 +36,7 @@ Oct 2020*
 seen?** This fat pipefish is sometimes seen on our Southern
 shores. Many were discovered during
 a seine net survey of Cyrene Reef among thickets of long among [Tape
-seagrasses](../../../plants/seagrass/enhalus.htm). It is generally
+seagrasses](../../../plants/seagrass/enhalus). It is generally
 found in sheltered coastal shallows among seagrasses and seaweeds.
   
   
@@ -49,7 +49,7 @@ The males carry the eggs below the body and tail. May be green, brown or grey, t
   
 **Sometimes mistaken for** other fishes that resemble sticks and twigs.
 Here's more on [how to tell apart stick-like
-fishes](../cfstick.htm) commonly seen on our shores.
+fishes](../cfstick) commonly seen on our shores.
 
 *![](biaculeatus/080523cyrd4008m3.jpg)  
 Cyrene Reef, May 08*
@@ -106,7 +106,7 @@ pipefishes used in traditional Chinese medicine, to extract 'Hailong'
 considered an important drug. This species has been reared in captivity.  
   
 **Status and threats:** See [Family
-Sygnathidae](syngnathidae.htm) for threats to pipefishes and seahorses.
+Sygnathidae](syngnathidae) for threats to pipefishes and seahorses.
 
 ---
 
@@ -161,7 +161,7 @@ Beting Bemban Besar, Jul 25* Photo shared by Tammy Lim on [facebook](https://www
 **Links**  
 
 - [Project
-  Seahorse](http://seahorse.fisheries.ubc.ca/relatives.html): THE website for everything about seahorses, it also
+  Seahorse](http://seahorse.fisheries.ubc.ca/relativesl): THE website for everything about seahorses, it also
   has lots of info about pipefishes.
 - [Alligator
   pipefish (*Syngnathoides biaculeatus*)](http://www.fishbase.org/summary/5980) from [FishBase](http://www.fishbase.org/):
@@ -184,9 +184,9 @@ Beting Bemban Besar, Jul 25* Photo shared by Tammy Lim on [facebook](https://www
   Pipefishes and their Relatives: A Comprehensive Guide to Syngnathiformes*
   TMC Publishing, UK. 240 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

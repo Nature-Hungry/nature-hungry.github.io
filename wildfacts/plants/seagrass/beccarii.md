@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "beccari, beccarii, halophila, ovalis, minor, hydrocharitaceae, seagrass, grass, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 seagrasses
-[text index](seagrassindex.htm) | [photo
-index](seagrassfi.htm)
+[text index](seagrassindex) | [photo
+index](seagrassfi)
 
-[Seagrasses](seagrass.htm)
+[Seagrasses](seagrass)
 > Family Hydrocharitaceae
 **Beccari's
 seagrass   
@@ -48,7 +35,7 @@ This small seagrass is quite commonly encountered on Chek Jawa, usually
 in small patches on bare sand that are exposed at low tide near the
 boardwalk, with larger meadows on the shore west of House No. 1. The
 [preliminary
-results of a transact survey](http://www.naturia.per.sg/cjsurvey/vegetative/text/halophila%20beccarrii.htm) of Chek Jawa suggest it is probably
+results of a transact survey](http://www.naturia.per.sg/cjsurvey/vegetative/text/halophila%20beccarrii) of Chek Jawa suggest it is probably
 sparsely distributed in the Chek Jawa seagrass lagoon. It is also
 found at Sungei Buloh Wetland Reserve, with wide swathes along Kranji
 Nature Trail and Mandai mangroves.  
@@ -56,10 +43,10 @@ Nature Trail and Mandai mangroves.
 Globally, it is considered a rare and uncommon seagrass with a distribution
 restricted to the Bay of Bengal and South China Sea. Singapore lies
 near the southern most point of the global distribution (see [global
-range on the IUCN Red List](http://maps.iucnredlist.org/map.html?id=173342)). The first specimen of this seagrass
+range on the IUCN Red List](http://maps.iucnredlist.org/mapl?id=173342)). The first specimen of this seagrass
 was discovered in Sarawak by the intrepid Italian botanist-explorer,
 [Odoardo
-Beccari](http://wildshores.blogspot.sg/2013/08/beccari-explorer-and-singapore.html) and named after him.   
+Beccari](http://wildshores.blogspot.sg/2013/08/beccari-explorer-and-singaporel) and named after him.   
   
 **Features:**Beccari's seagrass
 is the smallest seagrass found on our shores (0.5cm long). The long
@@ -69,13 +56,13 @@ usually, only male or female flowers are visible on a plant. The flowers
 and fruits are tiny. Each fruit contains up to 6 seeds.  
   
 On Chek Jawa, patches were seen among the byssus nests created by
-[Nest mussels](../../mollusca/bivalvia/mytilidae/musculista.htm)
+[Nest mussels](../../mollusca/bivalvia/mytilidae/musculista)
 (*Musculita senhausia*). In Singapore's northern mangroves, mangrove
 seedlings are often seen in patches of this seagrass.  
   
 **Role in the habitat:**  Studies
 suggest that beds of Beccari's seagrass are an important nursery for
-[horseshoe crabs](../../arthropoda/limulidae/limulidae.htm)
+[horseshoe crabs](../../arthropoda/limulidae/limulidae)
 in many regions.   
   
 **Status and threats:** It is listed
@@ -91,7 +78,7 @@ in a rosette of 5-10 leaves. **Chek Jawa, Sep 11**
 *![](beccarii/090502cjf0882m3b.jpg)*Seen
 growing next to byssus nests  
 created by [Nest
-mussels](../../mollusca/bivalvia/mytilidae/musculista.htm). *Chek Jawa, May 09*
+mussels](../../mollusca/bivalvia/mytilidae/musculista). *Chek Jawa, May 09*
 
 *![](beccarii/030913cjd0097m3.jpg)  
 Chek Jawa, Sep 11*
@@ -139,7 +126,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
   Tan, Siti Maryam Yaakub and Andy Dinesh in the Seagrass-Watch
   Magazine Issue 44 Nov 2011 (pdf)
 - [*Halophila
-  beccarii*](https://singapore.biodiversity.online/taxo4254/mainSpace/Halophila%20beccarii.html) (Alismatales: Hydrocharitaceae) Beccari's seagrass
+  beccarii*](https://singapore.biodiversity.online/taxo4254/mainSpace/Halophila%20beccariil) (Alismatales: Hydrocharitaceae) Beccari's seagrass
   by Lee Chengfa Benjamin, 2012 on taxo4254,
 - [*Halophila
   beccarii*](http://www.iucnredlist.org/details/173342/0) on the IUCN Red List: Taxonomy, assessment, geographic
@@ -151,30 +138,30 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
   Proceedings of a training workshop, National Parks Board, Biodiversity
   Centre, Singapore, 24th-25th March 2007 (DPI&F, Cairns). 32pp.
 - [Distribution
-  of Hong Kong seagrasses](http://www.hku.hk/ecology/porcupine/por18/seagrass.htm) on the Porcupine Homepage of the Department
+  of Hong Kong seagrasses](http://www.hku.hk/ecology/porcupine/por18/seagrass) on the Porcupine Homepage of the Department
   of Ecology & Biodiversity, The University of Hong Kong website:
   brief description of *H. beccarii* and its possible role
   as a nursery for horseshoe crabs.
 - On the wild
   shores of singapore blog
   - [Beccari
-    the explorer and Singapore](http://wildshores.blogspot.sg/2013/08/beccari-explorer-and-singapore.html)
+    the explorer and Singapore](http://wildshores.blogspot.sg/2013/08/beccari-explorer-and-singaporel)
   - [More
-    Beccari hunting from Kranji](http://wildshores.blogspot.sg/2013/07/more-beccari-hunting-from-kranji.html)
+    Beccari hunting from Kranji](http://wildshores.blogspot.sg/2013/07/more-beccari-hunting-from-kranjil)
   - [Beccari
-    hunting at Mandai mangroves: Success!](http://wildshores.blogspot.sg/2013/07/beccari-hunting-at-mandai-mangroves.html)
+    hunting at Mandai mangroves: Success!](http://wildshores.blogspot.sg/2013/07/beccari-hunting-at-mandai-mangrovesl)
   - [Another
-    side of Mandai mangroves](http://wildshores.blogspot.sg/2012/06/another-side-of-mandai-mangroves.html)
+    side of Mandai mangroves](http://wildshores.blogspot.sg/2012/06/another-side-of-mandai-mangrovesl)
   - [Horseshoe
-    crab eggs seen at Mandai mangroves](http://wildshores.blogspot.com/2011/04/horseshoe-crab-eggs-seen-at-mandai.html)
+    crab eggs seen at Mandai mangroves](http://wildshores.blogspot.com/2011/04/horseshoe-crab-eggs-seen-at-mandail)
   - [First
-    time to Mandai mangroves](http://wildshores.blogspot.com/2011/03/first-time-to-mandai-mangroves.html)
+    time to Mandai mangroves](http://wildshores.blogspot.com/2011/03/first-time-to-mandai-mangrovesl)
   - [Back
-    to the rare seagrass meadows at Kranji for a closer look](http://wildshores.blogspot.com/2011/02/back-to-rare-seagrass-meadows-at-kranji.html)
+    to the rare seagrass meadows at Kranji for a closer look](http://wildshores.blogspot.com/2011/02/back-to-rare-seagrass-meadows-at-kranjil)
   - [Vast
-    meadows of rare seagrasses at Kranji](http://wildshores.blogspot.com/2011/02/vast-meadows-of-rare-seagrasses-at.html)
+    meadows of rare seagrasses at Kranji](http://wildshores.blogspot.com/2011/02/vast-meadows-of-rare-seagrasses-atl)
   - [Rare
-    seagrasses at Kranji Nature Trail](http://wildshores.blogspot.com/2011/02/rare-seagrass-at-kranji-nature-trail.html)
+    seagrasses at Kranji Nature Trail](http://wildshores.blogspot.com/2011/02/rare-seagrass-at-kranji-nature-traill)
 
 **References**
 
@@ -203,14 +190,4 @@ Make your own badge [here](http://www.flickr.com/badge.gne).
 **You CAN make a difference for Singapore's
 seagrasses!**[![](../../../Templates/teamsg.jpg)](http://teamseagrass.blogspot.com/)
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

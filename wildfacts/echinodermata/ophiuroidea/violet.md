@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "violet, brittle, star, brittlestar, macrophiothrix, nereidina, ophiotrichidae, ophiuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 brittle
-stars [text index](../echinodermindex.htm#ophiuroidea)
-| [photo index](../ophuiroideafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class Stellaroida > Subclass [Ophiuroidea](ophiuroidea.htm)
+stars [text index](../echinodermindex#ophiuroidea)
+| [photo index](../ophuiroideafi)
+Phylum [Echinodermata](../echinodermata)
+> Class Stellaroida > Subclass [Ophiuroidea](ophiuroidea)
 **Violet
 brittle star**   
 ***Macrophiothrix nereidina\****Family Ophiotrichidae*****updated Apr 2020*
@@ -169,16 +156,6 @@ Grateful thanks to Andrey Ryanskiy for identifying this brittle star.
 
 **Links**
 
-- *[Macrophiothrix nereidina](https://www.sealifebase.ca/summary/Macrophiothrix-nereidina.html)* on SeaLife Base: Technical fact sheet.
+- *[Macrophiothrix nereidina](https://www.sealifebase.ca/summary/Macrophiothrix-nereidinal)* on SeaLife Base: Technical fact sheet.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

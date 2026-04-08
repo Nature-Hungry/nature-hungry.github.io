@@ -4,26 +4,9 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "echinoderm, echinodermata, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[![talking points for nature guides](../../Templates/fornatureguides.gif)](../forguides/index.html)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 echinoderms
-[text index](echinodermindex.htm) | [photo
-index](echinodermatafi.htm)
+[text index](echinodermindex) | [photo
+index](echinodermatafi)
 Phylum
 Echinodermata
 **Echinoderms   
@@ -47,12 +30,12 @@ these decided 'stars of the shores' are echinoderms. Some kind of
 echinoderm can usually be found on all our shores. The richest variety
 of echinoderms appear to be found on our Northern shores such as Changi
 and Chek jawa.
-*![](asteroidea/protoreaster/050623cjd4122m3.jpg)*[Sea star](asteroidea/asteroidea.htm)  
+*![](asteroidea/protoreaster/050623cjd4122m3.jpg)*[Sea star](asteroidea/asteroidea)  
 *Chek Jawa, Jun 05*
-*![](ophiuroidea/lineocaerulea/040828skdd5509m3.jpg)*[Brittle star](ophiuroidea/ophiuroidea.htm)   
+*![](ophiuroidea/lineocaerulea/040828skdd5509m3.jpg)*[Brittle star](ophiuroidea/ophiuroidea)   
 *Pulau Sekudu, Aug 04*
 *![](echinoidea/urchin/temnopleurus/040702chgd1470m3.jpg)*Large
-group of living [sea urchins](echinoidea/urchin/urchin.htm).  *Changi, Jul 04*
+group of living [sea urchins](echinoidea/urchin/urchin).  *Changi, Jul 04*
 **What are echinoderms?** They belong
 to the Phylum Echinodermata with about 6,500 known species. Most are
 bottom dwelling.  
@@ -67,7 +50,7 @@ Crinoidea**
  
 In
 various Orders (sea lilies)  
-Order [Comatulida](crinoidea/crinoidea.htm) (feather
+Order [Comatulida](crinoidea/crinoidea) (feather
 stars)
   
 **Subphylum
@@ -76,25 +59,25 @@ Asterozoa**
 **Class
 Stelleroida**
  
-Subclass [Ophiuroidea](ophiuroidea/ophiuroidea.htm) (brittle
+Subclass [Ophiuroidea](ophiuroidea/ophiuroidea) (brittle
 stars and basket stars)  
-Subclass [Asteroidea](asteroidea/asteroidea.htm) (sea stars)
+Subclass [Asteroidea](asteroidea/asteroidea) (sea stars)
   
 **Subphylum
 Echinozoa**
  
-**Class [Echinoidea](echinoidea/echinoidea.htm)**  
+**Class [Echinoidea](echinoidea/echinoidea)**  
 In various orders: [sand
-dollars](echinoidea/sandollar/sandollar.htm), [sea urchins](echinoidea/urchin/urchin.htm), [heart urchins](echinoidea/hearturchin/hearturchin.htm)  
+dollars](echinoidea/sandollar/sandollar), [sea urchins](echinoidea/urchin/urchin), [heart urchins](echinoidea/hearturchin/hearturchin)  
   
-**Class [Holothuroidea](holothuroidea/holothuroidea.htm)** (sea cucumbers) 
-*![](ophiuroidea/basket/120124sisd6015m3e.jpg)*[Basket star](ophiuroidea/basket.htm)  
+**Class [Holothuroidea](holothuroidea/holothuroidea)** (sea cucumbers) 
+*![](ophiuroidea/basket/120124sisd6015m3e.jpg)*[Basket star](ophiuroidea/basket)  
 *Sisters Island, Jan 12*
 ![](crinoidea/blue/030520bbd0153m3.jpg)  
-[Feather star](crinoidea/crinoidea.htm)   
+[Feather star](crinoidea/crinoidea)   
 *Beting Bronok, May 03*
 ![](echinoidea/sandollar/arachnoides/030927cjd0033m3.jpg)  
-[Sand dollar](echinoidea/sandollar/sandollar.htm)  
+[Sand dollar](echinoidea/sandollar/sandollar)  
 *Chek Jawa, Sep 03*
 **Give me five!** The most
 well known echinoderm, the sea star, demonstrates the five-point (pentamerous)
@@ -107,7 +90,7 @@ into five equal slices!
   
 Although echinoderms can take on different shapes, they are all generally
 symmetrical along five axes. Here are [some
-diagrams explaining](echinodermata1.htm) this in greater detail.  
+diagrams explaining](echinodermata1) this in greater detail.  
   
 **Splendid spines:** 'Echinodermata' means 'spiny-skin' in
 Greek. Most echinoderms have a spiny skin. The spines are most obvious
@@ -115,12 +98,12 @@ in sea urchins. Brittle stars and some sea stars also have prominent
 spines along their arms. Sand dollars and most sea stars have tiny
 spines. Sea cucumbers generally lack hard spines.
 ![](echinoidea/urchin/prionocidaris/011019cjd121m3.jpg)  
-[Sea urchin](echinoidea/urchin/urchin.htm)   
+[Sea urchin](echinoidea/urchin/urchin)   
 *Chek Jawa, Oct 01*
-![](echinoidea/urchin/test/060624skdd3298m3.jpg) Skeleton (test) of a dead [sea urchin](echinoidea/urchin/urchin.htm)  
+![](echinoidea/urchin/test/060624skdd3298m3.jpg) Skeleton (test) of a dead [sea urchin](echinoidea/urchin/urchin)  
 *Pulau Sekudu, Jun 06*
 ![](echinoidea/hearturchin/lovenia/040731kusd3539m3.jpg)  
-[Heart urchin](echinoidea/hearturchin/hearturchin.htm)   
+[Heart urchin](echinoidea/hearturchin/hearturchin)   
 *Kusu Island, Jul 04*
 **Marvellous Morphing:** Echinoderms
 have an internal skeleton made up of an arrangement of ossicles (plates
@@ -149,13 +132,13 @@ Although some, like sea urchins, appear to have an external skeleton,
 the skeleton of a living echinoderm is actually covered by a thin
 tissue.
 ![](holothuroidea/colochirus/031226chgd0003m3.jpg)  
-[Sea cucumber](holothuroidea/holothuroidea.htm)   
+[Sea cucumber](holothuroidea/holothuroidea)   
 *Changi, Dec 03*
 ![](holothuroidea/notabilis/pic6a.jpg)  
-Ossicles of the [Remarkable sea cucumber](holothuroidea/purple.htm)  
+Ossicles of the [Remarkable sea cucumber](holothuroidea/purple)  
 Photos shared Robin Ngiam Wen Jiang,  
 see also [his blog](http://singaporefauna.blogspot.com/).
-![](asteroidea/archaster/091009tmd2646m3.jpg)[Common sea star](asteroidea/archaster.htm) regenerating
+![](asteroidea/archaster/091009tmd2646m3.jpg)[Common sea star](asteroidea/archaster) regenerating
 new arms.  *Tanah Merah, Oct 09*
 **Water of life:** Another unique
 feature of echinoderms is their water vascular system, a network of
@@ -170,10 +153,10 @@ Sea urchins and sand dollar move using their spines, rather than by
 using their hydraulic system. Sea cucumbers move their entire body
 in a more worm-like manner, using muscles.
 *![](asteroidea/sandplain/050402cjg4016m3c.jpg)*Long pointed tube feet of the [Sand
-sea star](asteroidea/sandplain.htm). *Chek Jawa, Apr 05*
-*![](echinoidea/urchin/salmacis/050524chgg6575m3c.jpg)*Long tube feet of the [White sea urchin](echinoidea/urchin/salmacis.htm) *Changi, May 05*
+sea star](asteroidea/sandplain). *Chek Jawa, Apr 05*
+*![](echinoidea/urchin/salmacis/050524chgg6575m3c.jpg)*Long tube feet of the [White sea urchin](echinoidea/urchin/salmacis) *Changi, May 05*
 ![](ophiuroidea/botbrush/050621skdg7962m3d.jpg)  
-Close up of tubefeet on arms of a [brittle star](ophiuroidea/ophiuroidea.htm).  
+Close up of tubefeet on arms of a [brittle star](ophiuroidea/ophiuroidea).  
 *Pulau Sekudu, Jun 06*
 **Handy Feet:** Most echinoderms have
 tube feet. These are extensions of, and are connected to, the water
@@ -204,10 +187,10 @@ doesn't have a heart. The internal fluids do not have a one-directional
 flow and simply ebb and flow within the animal. It has a simple nervous
 system but no brain. It does, however, have a complete digestive system
 with a mouth and an anus.
-*![](ophiuroidea/lineocaerulea/040730skdd3429m3.jpg)*A [Blue lined brittle star](ophiuroidea/lineocaerulea.htm) possibly
+*![](ophiuroidea/lineocaerulea/040730skdd3429m3.jpg)*A [Blue lined brittle star](ophiuroidea/lineocaerulea) possibly
 releasing eggs *Pulau Sekudu, Jul 04*
-*![](asteroidea/protoreaster/110817cyrL1070555m3.jpg)*A [Knobbly sea star](asteroidea/protoreaster.htm) about to spawn?  *Cyrene Reef, Aug 11*
-![](../mollusca/gastropoda/cassidae/glaucum/110830cyrd0374m3.jpg)[Grey bonnet snail](../mollusca/gastropoda/cassidae/glaucum.htm)on top of a [Cake sand dollar](echinoidea/sandollar/arachnoides.htm). *Cyrene Reef, Aug 11*
+*![](asteroidea/protoreaster/110817cyrL1070555m3.jpg)*A [Knobbly sea star](asteroidea/protoreaster) about to spawn?  *Cyrene Reef, Aug 11*
+![](../mollusca/gastropoda/cassidae/glaucum/110830cyrd0374m3.jpg)[Grey bonnet snail](../mollusca/gastropoda/cassidae/glaucum)on top of a [Cake sand dollar](echinoidea/sandollar/arachnoides). *Cyrene Reef, Aug 11*
 **What do they eat?** Most echinoderms
 gather tiny edible bits from the water or the ground surface. Some sea stars,
 however, hunt and eat other animals.  
@@ -227,28 +210,28 @@ can reproduce asexually by purposely dividing themselves or budding
 off a part of their body.
 
 ![](crinoidea/pale/060713rlhd4317m3d.jpg)  
-This [brittle star](ophiuroidea/featherstar.htm) is often found   
-living in a [feather star](crinoidea/pale.htm)!  
+This [brittle star](ophiuroidea/featherstar) is often found   
+living in a [feather star](crinoidea/pale)!  
 *Raffles Lighthouse, Jul 06*
 
 ![](holothuroidea/synbig/080523cyrd4064m3.jpg)  
 [Synaptid
-sea cucumbers](holothuroidea/synaptid.htm) are   
+sea cucumbers](holothuroidea/synaptid) are   
 often mistaken for worms!  
 *Cyrene Reefs, May 08*
 
 ![](holothuroidea/phyllophorus/040702chgd1407m3.jpg)  
 [Ball
-sea cucumbers](holothuroidea/phyllophorus.htm) usually lie buried with   
+sea cucumbers](holothuroidea/phyllophorus) usually lie buried with   
 only their feeding tentacles above ground.  
 *Changi, Jul 04*
 
 **Living on a star:** Many different
 kinds of animals may live with echinoderms. A kind of worm-like animal
 is often seen nestled around the mouth of the [Black
-sea urchin](echinoidea/urchin/temnopleurus.htm). Tiny snails may live on sea stars. Some shrimps and
+sea urchin](echinoidea/urchin/temnopleurus). Tiny snails may live on sea stars. Some shrimps and
 small fishes have adaptations to live with feather stars, sea urchins
-and sea cucumbers. Echinoderms in turn may also live with other animals. [Tiny brittlestars](ophiuroidea/tinysponge.htm) are often
+and sea cucumbers. Echinoderms in turn may also live with other animals. [Tiny brittlestars](ophiuroidea/tinysponge) are often
 found on and even inside sponges.  
   
 **Human uses:** Echinoderms are eaten
@@ -268,7 +251,7 @@ local populations.
 
 **Echinoderms
 on Singapore shores**[text
-index](echinodermindex.htm) and [photo index](echinoideafi1.htm) of echinoderms
+index](echinodermindex) and [photo index](echinoideafi1) of echinoderms
 on this site
 
 ---
@@ -280,21 +263,21 @@ Red Data Book: Threatened plants and animals of Singapore*.
 \*from Lane, David J.W. and Didier Vandenspiegel. 2003. *A Guide
 to Sea Stars and Other Echinderms of Singapore*.  
   
-**[Asteroidea](asteroidea/asteroidea.htm)
+**[Asteroidea](asteroidea/asteroidea)
 sea stars**
  
 **\*Family
 Archasteridae**
  
 *[\*Archaster
-typicus](asteroidea/archaster.htm)* (Common sea star) (VU: Vulnerable)
+typicus](asteroidea/archaster)* (Common sea star) (VU: Vulnerable)
   
  
 **Family
 Asterinidae** 
  
 [*Cryptasterina*
-sp.](asteroidea/cryptasterina.htm) (Cryptic sea star) (VU: Vulnerable)
+sp.](asteroidea/cryptasterina) (Cryptic sea star) (VU: Vulnerable)
   
  
 **Family
@@ -314,7 +297,7 @@ longimanus* (Icon star) (VU: Vulnerable)
 **Family
 Luidiidae**
  
-*[Luidia maculata](asteroidea/luimaculata.htm)* (Eight-armed
+*[Luidia maculata](asteroidea/luimaculata)* (Eight-armed
 sand star)(EN: Endangered) *Luidia penangensis* (VU: Vulnerable)
   
  
@@ -327,9 +310,9 @@ Ophidiasteridae**
 **Family
 Oreasteridae**
  
-*[Anthenea aspera](asteroidea/anthenea.htm)* (Cake
+*[Anthenea aspera](asteroidea/anthenea)* (Cake
 sea star) (VU: Vulnerable)  
-*[Protoreaster nodosus](asteroidea/protoreaster.htm)*(Knobbly sea star) (EN: Endangered)
+*[Protoreaster nodosus](asteroidea/protoreaster)*(Knobbly sea star) (EN: Endangered)
   
  
 **Family
@@ -337,24 +320,24 @@ Pterasteridae**
  
 *Euretaster
 insignis* (EN: Endangered)
- **[Echinoidea](echinoidea/echinoidea.htm)   
+ **[Echinoidea](echinoidea/echinoidea)   
   
-[sand dollars](echinoidea/sandollar/sandollar.htm)**
+[sand dollars](echinoidea/sandollar/sandollar)**
  
 **Family
 Laganidae**
  
-*[Laganum depressum](echinoidea/sandollar/depressum.htm)*(Laganum sand dollar) (Vulnerable)
+*[Laganum depressum](echinoidea/sandollar/depressum)*(Laganum sand dollar) (Vulnerable)
    
  
 **Family
 Astriclypeidae**
  
 *[Echinodiscus
-truncatus](echinoidea/sandollar/echinodiscus.htm)* (VU: Vulnerable)
+truncatus](echinoidea/sandollar/echinodiscus)* (VU: Vulnerable)
   
 **[sea
-urchins](echinoidea/urchin/urchin.htm)**  
+urchins](echinoidea/urchin/urchin)**  
   
  
 **Family
@@ -376,25 +359,25 @@ Echinothuridae**
  
 *Asthenosoma
 varium* (VU: Vulnerable)
- **[Holothuroidea](holothuroidea/holothuroidea.htm) sea cucumbers**
+ **[Holothuroidea](holothuroidea/holothuroidea) sea cucumbers**
  
 **Family
 Cucumariidae**
  
-*[Pseudocolochirus violaceaus/axiologus](holothuroidea/violaceus.htm)*
+*[Pseudocolochirus violaceaus/axiologus](holothuroidea/violaceus)*
 (Sea apple sea cucumber) (VU: Vulnerable)
   
  
 **Family
 Holothuriidae**
  
-*[Holothuria leucospilota](holothuroidea/leucospilota.htm)*(Black long sea cucumber) (VU: Vulnerable) *[Holothuria scabra](holothuroidea/scabra.htm)* (Sandfish sea
+*[Holothuria leucospilota](holothuroidea/leucospilota)*(Black long sea cucumber) (VU: Vulnerable) *[Holothuria scabra](holothuroidea/scabra)* (Sandfish sea
 cucumber)
 
   
  
 **[Family
-Phyllophoridae](holothuroidea/phyllophorus.htm)** (Ball sea cucumber)
+Phyllophoridae](holothuroidea/phyllophorus)** (Ball sea cucumber)
  
 *Phyllophorus parvipedes* (Tennis-ball
 sea cucumber) (VU: Vulnerable)
@@ -403,8 +386,8 @@ sea cucumber) (VU: Vulnerable)
 Stichopodidae**
  
 *[Stichopus
-ocellatus](holothuroidea/ocellatus.htm)* (Eye-spotted sea cucumber) (VU: Vulnerable)
-**[Crinoidea](crinoidea/crinoidea.htm) feather stars**   
+ocellatus](holothuroidea/ocellatus)* (Eye-spotted sea cucumber) (VU: Vulnerable)
+**[Crinoidea](crinoidea/crinoidea) feather stars**   
  
 **Family
 Himerometridae**
@@ -417,12 +400,12 @@ Mariametridae**
  
 *Stephanometra oxyacantha* (VU: Vulnerable)
   
-**[Ophiuroidea](ophiuroidea/ophiuroidea.htm)
+**[Ophiuroidea](ophiuroidea/ophiuroidea)
 brittle stars**   
   
  
 **[Family
-Euryalidae](ophiuroidea/basket.htm)**(Basket star)  
+Euryalidae](ophiuroidea/basket)**(Basket star)  
 (formerly Family Gorgonocephalidae)
  
 *Euryale aspersa* (DD: EN? Data deficient, possibly Endangered)
@@ -432,19 +415,19 @@ Euryalidae](ophiuroidea/basket.htm)**(Basket star)
 **Links**
 
 - [Introduction
-  to Echinoderms](http://mangrove.nus.edu.sg/pub/seashore/text/220.htm) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+  to Echinoderms](http://mangrove.nus.edu.sg/pub/seashore/text/220) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [The
   Echinoblog](http://echinoblog.blogspot.com/) a blog devoted to all echinoderms including a post
   on [why
-  echinoderms are important](http://echinoblog.blogspot.com/2008/06/echinodermsso-what-good-are-they.html).
+  echinoderms are important](http://echinoblog.blogspot.com/2008/06/echinodermsso-what-good-are-theyl).
 - From the
   wild shores of singapore blog:
   - [Echinoderms:
-    a boom and bust phylum?](http://wildshores.blogspot.com/2009/02/echinoderms-boom-and-bust-phylum.html)
+    a boom and bust phylum?](http://wildshores.blogspot.com/2009/02/echinoderms-boom-and-bust-phyluml)
   - [Acid
-    seas and echinoderms](http://wildshores.blogspot.com/2008/09/acid-seas-and-echinoderms.html)
+    seas and echinoderms](http://wildshores.blogspot.com/2008/09/acid-seas-and-echinodermsl)
 
 **References**
 
@@ -499,9 +482,9 @@ Euryalidae](ophiuroidea/basket.htm)**(Basket star)
   Stars of Australasia and their relatives*. Neville Coleman's
   World of Water, Australia. 64pp.
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

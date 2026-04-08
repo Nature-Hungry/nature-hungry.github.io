@@ -4,26 +4,9 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, worms, polychaeta, polycladida, sabellidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[![](../../Templates/fornatureguides.gif)](fngworm.htm)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 worms [text
-index](wormindex.htm)
-[worms](worm.htm)
+index](wormindex)
+[worms](worm)
 in general
 **Photo
 index of marine worms on Singapore shores**
@@ -36,14 +19,14 @@ index of marine worms on Singapore shores**
 ![](nemertea/redreef/060115sntg3977m.jpg)
 ![](nemertea/verylong/050325sjid1973ma.jpg)
 **[Typical
-worms: smooth](wormfi1a.htm)**  
+worms: smooth](wormfi1a)**  
 acorn worms, peanut worms, ribbon worms
 ![](polychaeta/giant/040521sntad0079m.jpg)
 ![](polychaeta/chloeia/050412tusd2407m.jpg)
 ![](polychaeta/reef/040804skdd4129m.jpg)
 ![](polychaeta/scaleworm/120511tpld3253m.jpg)
 **[Typical
-worms: bristley](polychaetafi.htm)**  
+worms: bristley](polychaetafi)**  
 bristleworms
 ![](polychaeta/serpulidae/020725chgd4058ma.jpg)
 
@@ -52,20 +35,20 @@ bristleworms
 ![](polychaeta/diopatra/050310smkd1573m.jpg)
 ![](polychaeta/serpulidae/050822cjg2064md.jpg)
 **[Worms
-that make tubes](tubewormfi.htm)**   
+that make tubes](tubewormfi)**   
 to live in: keelworms, tubeworms
 *![](polychaeta/sabellidae/banded/060611cjd2781m.jpg)*
 *![](polychaeta/sabellidae/white/050526cjg6820m.jpg)*
 *![](phoronida/phoronida/031226chgd0056m.jpg)*
 ![](polychaeta/sabellidae/orange/060809skdd5505m.jpg)
 **[Feathery
-worms](sabellidaefi.htm)**   
+worms](sabellidaefi)**   
 fanworms, phoronid worms
 ![](polycladida/blueline/030518cjd0173m.jpg)
 ![](polycladida/gratus/060402ulrd1024m.jpg)
 ![](polycladida/acanthozoon/060625bbd3443m.jpg)
 ![](polycladida/gratus/041019labd7716m.jpg)
-**[Flatworms](polycladidafi.htm)**
+**[Flatworms](polycladidafi)**
   
 *\*Worm species are
 difficult to positively identify without close examination.   
@@ -78,25 +61,25 @@ display.*
 animals are NOT worms**   
 
 ![](../echinodermata/ophiuroidea/longipeda/030615cjd0228m.jpg)  
-[Brittlestars](../echinodermata/ophiuroidea/ophiuroidea.htm)  
+[Brittlestars](../echinodermata/ophiuroidea/ophiuroidea)  
 Phylum Echinodermata
 
 ![](../echinodermata/holothuroidea/synsponge/030717skdd0090m.jpg)  
 [Synaptid sea
-cucumbers](../echinodermata/holothuroidea/synaptid.htm)   
+cucumbers](../echinodermata/holothuroidea/synaptid)   
 Phylum Echinodermata
 
 ![](../mollusca/slugs/nudibranchia/ianthina/030521bbd0214m.jpg)  
-[Nudibranchs](../mollusca/slug.htm)   
+[Nudibranchs](../mollusca/slug)   
 and sea slugsPhylum Mollusca
 
 ![](../mollusca/gastropoda/vermetidae/vermetidae/050624tusd4222ma.jpg)  
 [Vermetid
-snails](../mollusca/gastropoda/vermetidae/vermetidae.htm)  Phylum Mollusca
+snails](../mollusca/gastropoda/vermetidae/vermetidae)  Phylum Mollusca
 
 ![](../vertebrates/fish/ophichthidae/wormeel/040817sntd4718m.jpg)  
 [Worm
-eel](../vertebrates/fish/ophichthidae/ophichthidae.htm)   
+eel](../vertebrates/fish/ophichthidae/ophichthidae)   
 It's a fish!
 
 ---
@@ -104,17 +87,17 @@ It's a fish!
 how to tell apart
 
 - [bristley
-  lifeforms](../glossary/wormstar.htm)
+  lifeforms](../glossary/wormstar)
 - [feathery
-  lifeforms](../glossary/feathery.htm)
+  lifeforms](../glossary/feathery)
 - [flatworms
-  and slugs](../glossary/flatwormslug.htm)
+  and slugs](../glossary/flatwormslug)
 - animals that live
-  in [hard tubes](../glossary/tubehard.htm)
+  in [hard tubes](../glossary/tubehard)
 - animals that live
-  in [soft tubes](../glossary/tubesoft.htm)
+  in [soft tubes](../glossary/tubesoft)
 - [smooth
-  worm-like animals](../glossary/wormy.htm)
+  worm-like animals](../glossary/wormy)
 
 ---
 
@@ -132,21 +115,21 @@ all
 marine worms  
  **Typical worms**   
  
-[Smooth](wormfi1a.htm)
+[Smooth](wormfi1a)
   
-[Bristley](polychaetafi.htm)
+[Bristley](polychaetafi)
   
-[**Tubeworms**](tubewormfi.htm)
+[**Tubeworms**](tubewormfi)
   
   
 **[Feathery
-worms](sabellidaefi.htm)**    
+worms](sabellidaefi)**    
   
-**[Flatworms](polycladidafi.htm)**
+**[Flatworms](polycladidafi)**
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

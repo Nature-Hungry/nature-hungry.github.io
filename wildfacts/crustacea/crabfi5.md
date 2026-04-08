@@ -4,26 +4,11 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, crab, decapoda, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 crustacea [text
-index](crustaceaindex.htm) | [photo index](crustaceafi.htm)
-Phylum [Arthropoda](../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](crustacea.htm) > Class Malacostraca
-> Order [Decapoda](decapoda.htm)
+index](crustaceaindex) | [photo index](crustaceafi)
+Phylum [Arthropoda](../arthropoda/arthropoda)
+> Subphylum [Crustacea](crustacea) > Class Malacostraca
+> Order [Decapoda](decapoda)
 **Photo
 index of crabs on Singapore shores**  
 **Large crabs
@@ -34,22 +19,22 @@ with last pair of legs paddle-shaped**
 *size indicated is
 for body width*
 
-![](crab/portunidae/spinimana/031224sisd0115m.jpg) [Red swimming crab](crab/portunidae/spinimana.htm) *Thalamita spinimana*
+![](crab/portunidae/spinimana/031224sisd0115m.jpg) [Red swimming crab](crab/portunidae/spinimana) *Thalamita spinimana*
 
 *![](crab/portunidae/blue/050607chgg7303m.jpg)*  
-[Blue swimming crab](crab/portunidae/blue.htm) *Thalamita danae*
+[Blue swimming crab](crab/portunidae/blue) *Thalamita danae*
 
 ![](crab/portunidae/bluespined/040818sntd4739m.jpg)  
 [Blue-spined   
-swimming crab](crab/portunidae/bluespined.htm) *Thalamita prymna*.
+swimming crab](crab/portunidae/bluespined) *Thalamita prymna*.
 
 ![](crab/portunidae/mottled/091106smkd3749m.jpg)  
-[Mottled swimming crab](crab/portunidae/mottled.htm)  
+[Mottled swimming crab](crab/portunidae/mottled)  
 *Thalamita* sp.
 
 ![](crab/portunidae/powderblue/110730tmd7500m.jpg)  
 [Powder blue-clawed swimming
-crab](crab/portunidae/powderblue.htm) *Thalamita crenata*
+crab](crab/portunidae/powderblue) *Thalamita crenata*
 
 5-7cm.
 Body rectangular, eyes wide apart. With 5 spines on the sides. Body
@@ -75,22 +60,22 @@ plain, pincers with powder blue claws and blood red tips. Coral rubble,
 reefs. Commonly seen on some of our shores.
 
 ![](crab/portunidae/purpleleg/050621skdg7959m.jpg) [Purple-legged  
-swimming crab](crab/portunidae/purpleleg.htm)  
+swimming crab](crab/portunidae/purpleleg)  
 *Charybdis hellerii*
 
 ![](crab/portunidae/annulata/041215labd8963m.jpg) [Banded-leg  
-swimming crab](crab/portunidae/annulata.htm) *Charybdis annulata*
+swimming crab](crab/portunidae/annulata) *Charybdis annulata*
 
 ![](crab/portunidae/anisodon/130726chgsafd0475m.jpg)  
 [Orange-clawed   
-swimming crab](crab/portunidae/anisodon.htm) *Charybdis anisodon*
+swimming crab](crab/portunidae/anisodon) *Charybdis anisodon*
 
 ![](crab/portunidae/natator/120124sisd6045m.jpg)  
-[Ridged swimming crab](crab/portunidae/natator.htm) *Charybdis natator*
+[Ridged swimming crab](crab/portunidae/natator) *Charybdis natator*
 
 ![](crab/portunidae/sanguinolentus/150605kusmn4m.jpg)  
 [Blood-spotted  
-swimming crab](crab/portunidae/sanguinolentus.htm) *Portunus sanguinolentus*
+swimming crab](crab/portunidae/sanguinolentus) *Portunus sanguinolentus*
 
 5-7cm. Body fan-shaped with 6 spines on the sides. Eyes not
 wide apart. Legs are purple, pincers orange claws with dark tips.
@@ -110,16 +95,16 @@ Body fan-shaped with 9 spines on the sides. Eyes not wide apart. Body
 with three red spots. Rarely seen on our shores.
 
 ![](crab/portunidae/scylla/101013tmftd2405m.jpg)  
-[Mud crab](crab/portunidae/scylla.htm) *Scylla* sp.
+[Mud crab](crab/portunidae/scylla) *Scylla* sp.
 
 ![](crab/portunidae/pelagicus/050622cftg8190m.jpg)  
-[Flower crab](crab/portunidae/pelagicus.htm) *Portunus pelagicus*
+[Flower crab](crab/portunidae/pelagicus) *Portunus pelagicus*
 
 ![](crab/portunidae/feriatus/050721cjd5144m.jpg)  
-[Crucifix swimming crab](crab/portunidae/feriatus.htm) *Charybdis feriatus*
+[Crucifix swimming crab](crab/portunidae/feriatus) *Charybdis feriatus*
 
 ![](crab/portunidae/tiny/050426cftg5050m.jpg)  
-[Tiny swimming crab](crab/portunidae/tiny.htm) *Portunus pelagicus*
+[Tiny swimming crab](crab/portunidae/tiny) *Portunus pelagicus*
 
 5-20cm. Can be enormous! Body fan-shaped with 9 spines on the sides,
 last pair not enlarged. Eyes not wide apart. Seagrass areas. Sometimes
@@ -140,7 +125,7 @@ shores among seagrasses and seaweeds.
 
 ---
 
-How to tell apart the [swimming crabs](crab/portunidae/cfportunidae.htm)
+How to tell apart the [swimming crabs](crab/portunidae/cfportunidae)
   
   
   
@@ -150,31 +135,31 @@ index of
 crustaceans on this site
 
 **Crustaceans**  
-[all crustaceans](crustaceafi.htm)  
+[all crustaceans](crustaceafi)  
   
 **Crabs**  
-[all crabs](crabfi.htm) and crab-like  
- [small](crabfi1c.htm)   
+[all crabs](crabfi) and crab-like  
+ [small](crabfi1c)   
 body width <2 cm  
- [small with long eyestalks](crabfi1a.htm)  
- [small porcelain crabs](crabfi1b.htm)   
+ [small with long eyestalks](crabfi1a)  
+ [small porcelain crabs](crabfi1b)   
 3 pairs walking legs  
   
-[medium](crabfi3.htm)   
+[medium](crabfi3)   
 body width 3-5cm  
   
-[large](crabfi4.htm)   
+[large](crabfi4)   
 body width >5cm  
   
 swimming crabs   
 last pair of legs paddle-shaped  
   
-[hermit crabs](anomurafi.htm)   
+[hermit crabs](anomurafi)   
 live in shells
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

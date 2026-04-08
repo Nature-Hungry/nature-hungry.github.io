@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "banded, file, snake, watersnake, acrochordus, granulatus, acrochordidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 snakes [text
-index](snakeindex.htm) | [photo index](snakeshorefi.htm)
+index](snakeindex) | [photo index](snakeshorefi)
 Phylum Chordata
 > Subphylum Vertebrata > Class Reptilia > [shore
-snakes](snakeshore.htm)
+snakes](snakeshore)
 **Banded
 file snake  
 *Acrochordus granulatus*  
@@ -38,7 +25,7 @@ snake with bands is sometimes seen on some of our shores, near seagrass
 meadows and mangroves. According to Baker, it is mainly found in the
 Johor Straits including Sungei Buloh Wetland Reserve and was also
 found out of water, hidden in [mudlobster
-mounds](../../crustacea/othercrust/lobster/thalassina.htm). A nocturnal snake, it is usually seen in the late evening
+mounds](../../crustacea/othercrust/lobster/thalassina). A nocturnal snake, it is usually seen in the late evening
 or early morning. It is widely distributed from India to Southeast
 Asia to southern China and northern Australia. It was previously known
 as *Chersydrus granulatus*. **Features:** To about 1m, but usually
@@ -51,11 +38,11 @@ is tapered to a point and is not flattened. The Banded file snake
 is non-venomous and harmless to humans.  
   
 **Sometimes confused with** the highly
-venomous [Yellow-lipped sea snake](laticauda.htm) (*Laticauda
+venomous [Yellow-lipped sea snake](laticauda) (*Laticauda
 colubrina*). Here's [how to tell apart banded
-snakes](cfseafile.htm) seen near the coast. It may also be confused with eels.
+snakes](cfseafile) seen near the coast. It may also be confused with eels.
 Here's more on [how to tell apart
-sea snakes, eels and eel-like animals](../../glossary/eelsnake.htm).   
+sea snakes, eels and eel-like animals](../../glossary/eelsnake).   
   
 Another file snake recorded for Singapore is the Elephant trunk water
 snake (*Acrochordus javanicus)*. It is longer, grows to about
@@ -63,7 +50,7 @@ snake (*Acrochordus javanicus)*. It is longer, grows to about
 marbled black pattern on the sides. The underside is lighter than
 the upperside. There is no prominent central fold on the underside.
 In slow-moving waters of estuaries and freshwater streams and canals. **What does it eat?** Mainly small fishes
-such as bottom dwelling [gobies](../fish/gobiidae/gobiidae.htm).
+such as bottom dwelling [gobies](../fish/gobiidae/gobiidae).
 The snake has a loose skin covered with small rough scales. The file-like
 skin helps it to grip its slippery prey. The snake has tiny eyes and
 a small mouth.  
@@ -120,7 +107,7 @@ shared by Dayna Cheah on [facebook](https://www.facebook.com/media/set/?set=a.95
 
 *![](granulatus/130824smklks.JPG)*Covered
 with algae! *Pulau Semakau North, Aug 13*Photo
-shared by Loh Kok Sheng on [his blog.](http://wondercreation.blogspot.sg/2013/08/reefy-splendor-of-northern-semakau.html)
+shared by Loh Kok Sheng on [his blog.](http://wondercreation.blogspot.sg/2013/08/reefy-splendor-of-northern-semakaul)
 
 *![](granulatus/181027smksjll1.jpg)*Covered
 with algae! *Pulau Semakau South, Oct 18*Photo
@@ -145,7 +132,7 @@ flickr](http://flickr.com/photos/juanicths/816882567/).
 *![](granulatus/110814smkjk3m3.jpg)  
 Pulau Semakau, Aug 11*Photo
 shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2011/08/110814-semakau.html).
+blog](http://sgn090608.blogspot.com/2011/08/110814-semakaul).
 
 *![](granulatus/221225smksmn2.jpg)  
 Pulau Semakau (South), Dec 22*Photo
@@ -155,11 +142,11 @@ shared by Marcus Ng on [facebook](https://www.facebook.com/photo/?fbid=101593201
 
 *![](granulatus/260629smkeccn1.jpg)  
 Pulau Semakau East, Jun 25*Photo
-shared by Che Cheng Neo on [facebook](https://www.facebook.com/media/set?vanity=checheng.neo&set=a.10162609140773654).[.](http://wondercreation.blogspot.sg/2013/08/reefy-splendor-of-northern-semakau.html)
+shared by Che Cheng Neo on [facebook](https://www.facebook.com/media/set?vanity=checheng.neo&set=a.10162609140773654).[.](http://wondercreation.blogspot.sg/2013/08/reefy-splendor-of-northern-semakaul)
 
 *![](granulatus/260629smkeccn1a.jpg)  
 Pulau Semakau East, Jun 25*Photo
-shared by Che Cheng Neo on [facebook](https://www.facebook.com/media/set?vanity=checheng.neo&set=a.10162609140773654).[.](http://wondercreation.blogspot.sg/2013/08/reefy-splendor-of-northern-semakau.html)
+shared by Che Cheng Neo on [facebook](https://www.facebook.com/media/set?vanity=checheng.neo&set=a.10162609140773654).[.](http://wondercreation.blogspot.sg/2013/08/reefy-splendor-of-northern-semakaul)
 
 ---
 
@@ -191,7 +178,7 @@ Pulau
 Semakau, Aug 2013  
 
 Shared by Heng Pei Yan on [her
-blog](http://peiyansama.blogspot.sg/2013/08/snakey-and-galloping-national-day-at.html)
+blog](http://peiyansama.blogspot.sg/2013/08/snakey-and-galloping-national-day-atl)
 
 ---
 
@@ -201,7 +188,7 @@ Semakau Aug 2013
 [banded file snake - 01Feb2011](http://vimeo.com/19483268) from [SgBeachBum](http://vimeo.com/sgbeachbum) on [Vimeo](https://vimeo.com).
   
 Shared by Heng Pei Yan on [her
-blog](http://peiyansama.blogspot.sg/2013/08/snakey-and-galloping-national-day-at.html)
+blog](http://peiyansama.blogspot.sg/2013/08/snakey-and-galloping-national-day-atl)
 
 ---
 
@@ -228,15 +215,15 @@ javanicus
   Snakes](http://singaporesnakes.blogspot.com/) blog: fact sheet with photos and links to local sightings
   and other posts.
 - [Mangrove
-  snakes: File snake](http://mangrove.nus.edu.sg/guidebooks/text/2112.htm)
+  snakes: File snake](http://mangrove.nus.edu.sg/guidebooks/text/2112)
   Ng, Peter K. L. & N. Sivasothi, 1999. *[A
   Guide to the Mangroves of Singapore Ii (Animal Diversity](http://mangrove.nus.edu.sg/guidebooks/)*[)](http://mangrove.nus.edu.sg/guidebooks/).
   Singapore Science Centre. 168 pp.
 - [Banded
-  File Snake](http://www.wildsingapore.per.sg/discovery/factsheet/snakefile.htm) on
+  File Snake](http://www.wildsingapore.per.sg/discovery/factsheet/snakefile) on
   Chan Kwok Wai's Wildlife Singapore: fact sheet with photos.
 - [*Acrochordus
-  granulatus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Acrochordus%20granulatus.html)
+  granulatus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Acrochordus%20granulatusl)
   (Squamata: Acrochordidae) Banded File Snake by Lee Gang, 2011
   from taxo2454.
 - [*Acrochordus
@@ -266,14 +253,4 @@ javanicus
   Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular
   Malaysia and Singapore* New Holland. pp 144.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

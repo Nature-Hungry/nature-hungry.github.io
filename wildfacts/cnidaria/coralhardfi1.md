@@ -4,26 +4,11 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 hard corals [text
-index](coralhardindex.htm) | [photo index](cnidariafi1.htm)
+index](coralhardindex) | [photo index](cnidariafi1)
 Phylum
-[Cnidaria](cnidaria.htm) >
-Class [Anthozoa](anthozoa.htm) > Subclass Zoantharia/Hexacorallia
+[Cnidaria](cnidaria) >
+Class [Anthozoa](anthozoa) > Subclass Zoantharia/Hexacorallia
 **Photo
 index of hard corals on Singapore shores** **Polyps
 with long tentacles** often hiding hard skeleton
@@ -34,26 +19,26 @@ when polyps are extended
 ![](coralhard/euphylliidae/ancora/060714rlhg0654m.jpg)  
   
 ![](coralhard/euphylliidae/ancora/060714rlhg0655mb.jpg)  
-[Brain anchor coral](coralhard/euphylliidae/ancora.htm)  
+[Brain anchor coral](coralhard/euphylliidae/ancora)  
 *Euphyllia ancora*
 
 ![](coralhard/euphylliidae/paraancora/110717tbd7181m.jpg)  
   
 ![](coralhard/euphylliidae/paraancora/110717tbd7187ma.jpg)  
 [Branching anchor
-coral](coralhard/euphylliidae/paraancora.htm)  
+coral](coralhard/euphylliidae/paraancora)  
 *Euphyllia paraancora*
 
 ![](coralhard/euphylliidae/paradivisa/050310smkg3182m.jpg)  
   
 ![](coralhard/euphylliidae/paradivisa/050310smkg3182md.jpg)  
-[Frog spawn coral](coralhard/euphylliidae/paradivisa.htm)  
+[Frog spawn coral](coralhard/euphylliidae/paradivisa)  
 *Euphyllia paradivisa*
 
 ![](coralhard/euphylliidae/plerogyra/150606tryo6060354m.jpg)  
   
 ![](coralhard/euphylliidae/plerogyra/150606tryo6060354mc.jpg)  
-[Pearl bubble coral](coralhard/euphylliidae/plerogyra.htm)  
+[Pearl bubble coral](coralhard/euphylliidae/plerogyra)  
 *Physogyra lichtensteini*
 
  
@@ -75,25 +60,25 @@ Colony
   
 ![](coralhard/fungiidae/heliofungia/040801hntd3805ma.jpg)  
 [Sunflower   
-mushroom coral](coralhard/fungiidae/heliofungia.htm)  
+mushroom coral](coralhard/fungiidae/heliofungia)  
 *Heliofungia actiniformi*s
 
 ![](coralhard/euphylliidae/glabrescens/051203smkg3165m.jpg)  
   
 ![](coralhard/euphylliidae/glabrescens/051203smkg3161mc.jpg)  
-[Torch anchor coral](coralhard/euphylliidae/glabrescens.htm)  
+[Torch anchor coral](coralhard/euphylliidae/glabrescens)  
 *Euphyllia glabrenscens*
 
 ![](coralhard/poritidae/gonsmall/040603sntg0142m.jpg)  
   
 ![](coralhard/poritidae/gonsmall/040603sntg0142mb.jpg)  
-[Small goniopora coral](coralhard/poritidae/gonsmall.htm)  
+[Small goniopora coral](coralhard/poritidae/gonsmall)  
 *Goniopora* sp.
 
 ![](coralhard/poritidae/gonbig/051204sisd6415m.jpg)  
   
 ![](coralhard/poritidae/gonbig/051204sisg3282ma.jpg)  
-[Anemone coral](coralhard/poritidae/gonbig.htm)  
+[Anemone coral](coralhard/poritidae/gonbig)  
 *Goniopora* sp.
 
 Skeleton
@@ -127,21 +112,21 @@ are NOT hard corals, they are sea anemones**
   
 ![](actiniaria/doreensis/050821bbd5815ma.jpg)  
 [Snaky   
-anemone](actiniaria/doreensis.htm)  
+anemone](actiniaria/doreensis)  
 *Macrodactyla doreensis*
 
 *![](actiniaria/magnifica/040411hntd0106m.jpg)*  
   
 ![](actiniaria/magnifica/040411hntd0106m2a.jpg)  
 [Magnificent   
-anemone](actiniaria/magnifica.htm)   
+anemone](actiniaria/magnifica)   
 *Heteractis magnifica*
 
 ![](actiniaria/entacmaea/040410sisbd017m.jpg)  
   
 ![](actiniaria/entacmaea/040410sisbd0020ma.jpg)  
 [Bulb tip   
-anemone](actiniaria/entacmaea.htm)  
+anemone](actiniaria/entacmaea)  
 *Entacmaea quadricolor*
 
  
@@ -169,35 +154,35 @@ index of
 cnidarians on this site
 
 **Phylum
-Cnidaria****[with hard skeleton](cnidariafi1.htm)  
+Cnidaria****[with hard skeleton](cnidariafi1)  
   
 polyp shape**long
 tentacles  **colony shape**
  
-[**leafy**](coralhardfi3.htm) **[crinkled](coralhardfi4.htm)  
- [plate](coralhardfi5.htm)** **branching**
+[**leafy**](coralhardfi3) **[crinkled](coralhardfi4)  
+ [plate](coralhardfi5)** **branching**
  
 [thick
-branches](coralhardfi2.htm)  
-[thin branches](gorgonaceafi.htm)
+branches](coralhardfi2)  
+[thin branches](gorgonaceafi)
  
 **boulder**
  
 Corallite
 shape=   
-[ring](coralhardfi6.htm)  
-[hexagonal](coralhardfi7.htm)   
- [brain or maze](coralhardfi8.htm)
+[ring](coralhardfi6)  
+[hexagonal](coralhardfi7)   
+ [brain or maze](coralhardfi8)
   
-[others](coralhardfi9.htm)
+[others](coralhardfi9)
   
 [**colony
-unattached**](coralhardfi10.htm)   
+unattached**](coralhardfi10)   
 (mushroom hard coral)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

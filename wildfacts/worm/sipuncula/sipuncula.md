@@ -4,24 +4,11 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "peanut, worm, sipuncula, sipunculida, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 worms [text
-index](../wormindex.htm) | [photo index](../wormfi.htm)
-[Worms](../worm.htm) > Phylum Sipuncula
+index](../wormindex) | [photo index](../wormfi)
+[Worms](../worm) > Phylum Sipuncula
 **Peanut
 worms  
 Phylum Sipuncula***updated
@@ -138,7 +125,7 @@ Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/162297
 
 ![](sipuncula/090720skdmn8m3.jpg)  
  *Pulau Sekudu, Jul 09*Photo shared by Marcus Ng on [his
-blog](http://budak.blogs.com/the_annotated_budak/2009/07/the-long-and-short-of-sekudu.html).
+blog](http://budak.blogs.com/the_annotated_budak/2009/07/the-long-and-short-of-sekudul).
 
 ---
 
@@ -236,16 +223,16 @@ signifer=\*Themiste (Lagenopsis) lageniformis*
 **Links**  
 
 - [Peanut
-  worm (Phylum Sipunculida)](http://mangrove.nus.edu.sg/pub/seashore/text/127.htm) Tan, Leo W. H. & Ng, Peter K. L.,
+  worm (Phylum Sipunculida)](http://mangrove.nus.edu.sg/pub/seashore/text/127) Tan, Leo W. H. & Ng, Peter K. L.,
   1988. *A Guide to Seashore Life*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [Peanut
-  Worm (Sipunculids)](http://mangrove.nus.edu.sg/guidebooks/text/2004.htm) Ng, Peter K. L. & N. Sivasothi, 1999. *A
+  Worm (Sipunculids)](http://mangrove.nus.edu.sg/guidebooks/text/2004) Ng, Peter K. L. & N. Sivasothi, 1999. *A
   Guide to the Mangroves of Singapore II (Animal Diversity)*.
   Singapore Science Centre. 168 pp.
 - [Peanut
-  worms](http://www.mesa.edu.au/friends/seashores/worms.html) on [Life
-  on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1.html) by Keith Davey on the Marine Education
+  worms](http://www.mesa.edu.au/friends/seashores/wormsl) on [Life
+  on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1l) by Keith Davey on the Marine Education
   Society of Australia website: an introduction to worms including
   sipunculids with explanations of the major parts of their bodies
   and their lifestyles, and fact sheet on a peanut worm found in
@@ -270,14 +257,4 @@ signifer=\*Themiste (Lagenopsis) lageniformis*
   of the Invertebrates*.
   5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

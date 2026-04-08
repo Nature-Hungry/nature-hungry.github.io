@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "prickly, red, seaweed, weed, algae, hypnea, cystocloniaceae, rhodophyceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 red
-seaweeds [text index](../seaweedindex.htm#rhodophyta)
-| [photo index](../seaweedfi.htm)
-[Seaweeds](../seaweed.htm)
-> Division [Rhodophyta](rhodophyta.htm)
+seaweeds [text index](../seaweedindex#rhodophyta)
+| [photo index](../seaweedfi)
+[Seaweeds](../seaweed)
+> Division [Rhodophyta](rhodophyta)
 **Prickly
 red seaweed   
 *Hypnea* sp.\*  
@@ -44,7 +44,7 @@ small areas of coral rubble. Others have longer stems (10-15cm) and
 form tangled bunches. Colours range from beige, pink, reddish or brownish.  
   
 Bluish ones with thicker stems that form [bushy
-balls](pannosa.htm) is probably *Hypnea pannosa*.  
+balls](pannosa) is probably *Hypnea pannosa*.  
   
 According to [AlgaeBase](http://www.algaebase.org/search/genus/detail/?genus_id=32938):
 there are more than 50 current *Hypnea* species.  
@@ -70,10 +70,10 @@ Labrador, Feb 06
 
 ---
 
-*![](hypnea/100502tryd2341m3.jpg)*[Bushy ball red seaweed](pannosa.htm) *![](hypnea/100502tryd2341m3a.jpg)  
+*![](hypnea/100502tryd2341m3.jpg)*[Bushy ball red seaweed](pannosa) *![](hypnea/100502tryd2341m3a.jpg)  
 Terumbu Raya, May 10*
 
-*![](pannosa/040801hntd3702m3.jpg)*[Bushy ball red seaweed](pannosa.htm)*![](pannosa/040801hntd3702m3a.jpg)  
+*![](pannosa/040801hntd3702m3.jpg)*[Bushy ball red seaweed](pannosa)*![](pannosa/040801hntd3702m3a.jpg)  
 Pulau Hantu, Aug 04*
 
 *![](hypnea/100811slud0071m3.jpg)  
@@ -121,7 +121,7 @@ the Algae of Singapore*.
 caespitosa  
 Hypnea esperi  
 Hypnea musciformis  
-[Hypnea pannosa](pannosa.htm)* (Spiky
+[Hypnea pannosa](pannosa)* (Spiky
 ball red seaweed) *Hypnea spinella*
 
 ---
@@ -152,9 +152,9 @@ ball red seaweed) *Hypnea spinella*
   Guide and Atlas of the Seaweed Resources of the Philippines.*.
   Bookmark, Inc., the Philippines. 306 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

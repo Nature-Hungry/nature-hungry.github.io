@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "eye, spot, cucumber, seacucumber, stichopus, ocellatus, stichopodidae, holothuroidae, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 sea
-cucumbers [text index](../echinodermindex.htm#holothuroidea)
-| [photo index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class [Holothuroidea](holothuroidea.htm)
+cucumbers [text index](../echinodermindex#holothuroidea)
+| [photo index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
+> Class [Holothuroidea](holothuroidea)
 **Eye-spotted
 sea cucumber  
 *Stichopus ocellatus*  
@@ -93,11 +80,11 @@ shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo/?fbid=10159
 
 - [*Stichopus
   ocellatus*
-  (Ocellated sea cucumber)](http://www.sealifebase.org/summary/Stichopus-ocellatus.html)
+  (Ocellated sea cucumber)](http://www.sealifebase.org/summary/Stichopus-ocellatusl)
   on SeaLife Base: Technical fact sheet.
 - [*Stichopus
   ocellatus*](http://www.iucnredlist.org/details/180535/0) on the IUCN Red List: Technical fact sheet.
-- *Stichopus ocellatus* on [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00.htm), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
+- *Stichopus ocellatus* on [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
 
 **References**
 
@@ -106,14 +93,4 @@ shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo/?fbid=10159
   Guide to Sea Stars and Other Echinoderms of Singapore*.
   Singapore Science Centre. 187pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

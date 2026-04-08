@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "sesarmid, crab, sesarmidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
 > Brachyurans
 **Sesarmid
 crabs**   
@@ -74,16 +74,16 @@ crabs on Singapore shores**
 
 ---
 
-***![](brockii/031128sbwrad0071m3.jpg)*[Mangrove tree-dwelling crab](brockii.htm)**
+***![](brockii/031128sbwrad0071m3.jpg)*[Mangrove tree-dwelling crab](brockii)**
 
 ***![](episesarma/031213sbwrd0047m3.jpg)*[Tree climbing
-crab](episesarma.htm)**
+crab](episesarma)**
 
-***![](perisesarma/100425kntd1687m3a.jpg)*[Face-banded sesarmine crab](perisesarma.htm)**
+***![](perisesarma/100425kntd1687m3a.jpg)*[Face-banded sesarmine crab](perisesarma)**
 
 ---
 
-***![](sarmatium/110205krjd5938m3.jpg)*[Mound crab](sarmatium.htm)**
+***![](sarmatium/110205krjd5938m3.jpg)*[Mound crab](sarmatium)**
 
 ---
 
@@ -104,7 +104,7 @@ animals of Singapore from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008
 sedilense* *Clistocoeloma lanatum  
 Clistocoeloma merguiense*  
 +*Clistocoeloma villosum*   
-[*Episesarma* sp.](episesarma.htm) **tree
+[*Episesarma* sp.](episesarma) **tree
 climbing crabs** *with list of species recorded for
 Singapore   
   
@@ -131,18 +131,18 @@ Nanosesarmatium smithi=^Neosarmatium smithi
 Perisesarma bidens   
 Perisesarma dussumieri  
 Perisesarma/Chiromantes eumolpe=^Perisesarma eumolpe* ([Face-banded
-sesarmine crabs](perisesarma.htm)) *+Perisesarma fasciatum  
+sesarmine crabs](perisesarma)) *+Perisesarma fasciatum  
 Perisesarma indiarum* ([Face-banded
-sesarmine crabs](perisesarma.htm)) *+Perisesarma cf. lenzii   
+sesarmine crabs](perisesarma)) *+Perisesarma cf. lenzii   
 Perisesarma onychophorum  
 Perisesarma semperi  
   
 +Pseudosesarma bocourti  
 +Pseudosesarma edwardsi* *\*[Sarmatium
-germaini](sarmatium.htm)* (Mound crab) (EN:
+germaini](sarmatium)* (Mound crab) (EN:
 Endangered) *Sarmatium striaticarpus  
   
-[Selatium brockii](brockii.htm)* (Mangrove tree-dwelling
+[Selatium brockii](brockii)* (Mangrove tree-dwelling
 crabs)  
   
 *Sesarmoides borneensis*
@@ -153,15 +153,15 @@ crabs)
 **Links**
 
 - [Sesarmine
-  crabs](http://mangrove.nus.edu.sg/guidebooks/text/2048.htm), [Tree-climbing/Vinegar
-  crabs (*Episesarma* spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2049.htm), [Mangrove
-  tree-dwelling crab (*Selatium brockii*)](http://mangrove.nus.edu.sg/guidebooks/text/2050.htm), Ng, Peter K.
+  crabs](http://mangrove.nus.edu.sg/guidebooks/text/2048), [Tree-climbing/Vinegar
+  crabs (*Episesarma* spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2049), [Mangrove
+  tree-dwelling crab (*Selatium brockii*)](http://mangrove.nus.edu.sg/guidebooks/text/2050), Ng, Peter K.
   L. & N. Sivasothi, 1999. *[A
   Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
   Singapore Science Centre. 168 pp.
 - [Sesarmine
-  Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/198.htm); *[Selatium
-  brockii](http://mangrove.nus.edu.sg/pub/seashore/text/199.htm)* Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+  Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/198); *[Selatium
+  brockii](http://mangrove.nus.edu.sg/pub/seashore/text/199)* Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/t)*. The Singapore Science Centre,
   Singapore. 160 pp.
 
@@ -185,9 +185,9 @@ crabs)
   S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
   Australian Waters*. Reed New Holland. 224 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

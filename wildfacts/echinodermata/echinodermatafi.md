@@ -4,26 +4,9 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, echinodermata, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[![talking points for nature guides](../../Templates/fornatureguides.gif)](../forguides/index.html)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 echinoderms [text
-index](echinodermindex.htm) | [photo index](echinodermatafi.htm)
-Phylum [Echinodermata](echinodermata.htm)
+index](echinodermindex) | [photo index](echinodermatafi)
+Phylum [Echinodermata](echinodermata)
 **Photo
 index of echinoderms on Singapore shores**
 
@@ -35,36 +18,36 @@ index of echinoderms on Singapore shores**
 ![](crinoidea/pale/060713rlhd4327m.jpg)
 **Arms
 many, long feathery**   
-[feather stars](crinoideafi.htm)
+[feather stars](crinoideafi)
 ![](ophiuroidea/flatarm/040702chgd1476m.jpg)
 ![](ophiuroidea/longipeda/030615cjd0228m.jpg)
 ![](ophiuroidea/tinysponge/050806skdg0477mb.jpg)
 ![](ophiuroidea/basket/120124sisd6015me.jpg)
 **Arms
 five, long bristley**  
-[brittle stars](ophuiroideafi.htm)
+[brittle stars](ophuiroideafi)
 ![](asteroidea/sandpainted/050622chgg8118m.jpg)
 ![](asteroidea/luimaculata/060429skdg5789m.jpg)
 ![](asteroidea/culcita/060401ulrd0750m.jpg)
 ![](asteroidea/protoreaster/040508skdbd0025m.jpg)
 **Arms
-5-8, short** [small](asteroideafi1.htm)
+5-8, short** [small](asteroideafi1)
 <10cm  
- [large](asteroideafi2.htm) > 10cm
+ [large](asteroideafi2) > 10cm
 ![](echinoidea/sandollar/echinodiscus/050206cjd9966m.jpg)
 ![](echinoidea/sandollar/arachnoides/030927cjd0033m.jpg)
 ![](echinoidea/sandollar/peronella/080704sekd6789m.jpg)
 ![](echinoidea/sandollar/depressum/070420sntrd0301m.jpg)
 **Hard
 flat, coin-like**   
-[sand dollars](echinoideafi1.htm)
+[sand dollars](echinoideafi1)
 ![](echinoidea/urchin/salmacis/050621skdg8023m.jpg)
 ![](echinoidea/urchin/diadema/040830hntd5872m.jpg)
 ![](echinoidea/hearturchin/lovenia/040731kusd3539m.jpg)
 ![](echinoidea/urchin/prionocidaris/011019cjd121m.jpg)
 **Hard
 spherical, spiny**  
-[sea urchins, heart urchins](echinoideafi2.htm) 
+[sea urchins, heart urchins](echinoideafi2) 
 ![](holothuroidea/colochirus/031226chgd0003m.jpg)
 ![](holothuroidea/synsponge/030717skdd0090m.jpg)
 ![](holothuroidea/beige/030518cjd0327m.jpg)
@@ -72,7 +55,7 @@ spherical, spiny**
 **Soft
 round or long**  
 sea cucumbers   
-[short](holothuroideafi1.htm) <10cm
+[short](holothuroideafi1) <10cm
 ![](holothuroidea/phyllophorus/050315cjd1805m.jpg)
 ![](holothuroidea/lecanora/070203smkg7475m.jpg)
 ![](holothuroidea/smooth/040425cjd0081m.jpg)
@@ -80,7 +63,7 @@ sea cucumbers
 **Soft
 round or long**  
 sea cucumbers   
-[long](holothuroideafi2.htm) >10cm
+[long](holothuroideafi2) >10cm
 
 ---
 
@@ -88,40 +71,40 @@ sea cucumbers
 are NOT echinoderms**  
 
 ![](../cnidaria/actiniaria/peachia/071126chgd7677m.jpg)  
-[Sea anemone](../cnidaria/actiniaria/peachia.htm)  
+[Sea anemone](../cnidaria/actiniaria/peachia)  
 Phylum Cnidaria
 
 ![](../worm/polychaeta/sabellidae/white/050526cjg6820m.jpg)  
-[Fanworms](../worm/polychaeta/sabellidae.htm)  
+[Fanworms](../worm/polychaeta/sabellidae)  
 Phylum Annelida
 
 ![](../cnidaria/others/ceriantharia/common/060415hntd1226m.jpg)  
 [Peacock
-anemone](../cnidaria/others/ceriantharia/ceriantharia.htm)   
+anemone](../cnidaria/others/ceriantharia/ceriantharia)   
 Phylum Cnidaria
 
 ![](../cnidaria/others/pennatulacea/veretillidae/020501cjcpd8683m.jpg)  
 [Flowery
-sea pen](../cnidaria/others/pennatulacea/vertillidae.htm)  
+sea pen](../cnidaria/others/pennatulacea/vertillidae)  
 Phylum Cnidaria
 
 ![](../worm/sipuncula/sipuncula/031122cjd0011m.jpg)  
-[Peanut worm](../worm/sipuncula/sipuncula.htm) Phylum Spincula
+[Peanut worm](../worm/sipuncula/sipuncula) Phylum Spincula
 
 ---
 
 how to tell apart
 
 - [bristley
-  animals](../glossary/wormstar.htm)
+  animals](../glossary/wormstar)
 - [feathery
-  animals](../glossary/feathery.htm)
+  animals](../glossary/feathery)
 - [large
-  sea stars](cfbigstars.htm)
+  sea stars](cfbigstars)
 - [sausage-like
-  animals](../glossary/sausage.htm)
+  animals](../glossary/sausage)
 - [worm-like
-  animal](../glossary/wormy.htm)
+  animal](../glossary/wormy)
 
   
   
@@ -137,35 +120,35 @@ echinoderms  **With arms**
  
 many,
 feathery  
-[feather stars](crinoideafi.htm)  
+[feather stars](crinoideafi)  
   
 five, bristley  
-[brittle stars](ophuiroideafi.htm)  
+[brittle stars](ophuiroideafi)  
   
 sea stars  
-[small](asteroideafi1.htm) <10cm  
-[large](asteroideafi2.htm) >10cm
+[small](asteroideafi1) <10cm  
+[large](asteroideafi2) >10cm
   
  **Hard**  
  
 flat,
 coin-like  
-[sand dollars](echinoideafi1.htm)  
+[sand dollars](echinoideafi1)  
   
 spherical, spiny  
 [sea urchins  
-heart urchins](echinoideafi2.htm) 
+heart urchins](echinoideafi2) 
  **Soft**  
  
 sea
 cucumbers   
-[short](holothuroideafi1.htm)
+[short](holothuroideafi1)
 <10cm  
-[long](holothuroideafi2.htm) >10cm
+[long](holothuroideafi2) >10cm
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

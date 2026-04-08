@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "spider, crab, spider crab, majidae, majoidea, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info,  photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
 > Brachyurans
 **Spider
 crabs**   
@@ -66,7 +66,7 @@ crab (*Macrocheira kaempferi*), with a leg span of 4m, belongs
 to the same family.  
   
  **Human uses:** Unfortunately,
-the [Velcro crab](retusa.htm) (*Camposcia retusa*)
+the [Velcro crab](retusa) (*Camposcia retusa*)
 is among those sold in the live aquarium trade. Some large spider crabs in temperate seas are important commercially
 as seafood. They are harvested by the ton. These include the Canadian
 snow crab (*Chionoecetes opilio*) which can have a body width
@@ -86,17 +86,17 @@ crabs on Singapore shores**
 ---
 
 **![](retusa/030615cjd0196m3.jpg)  
-[Velcro crab](retusa.htm)**
+[Velcro crab](retusa)**
 
 **![](schizophrys/090525chgd2395m3.jpg)  
-[Sea toad spider crab](schizophrys.htm)**
+[Sea toad spider crab](schizophrys)**
 
 **![](tiny/060225cjg4983m3.jpg)  
-[Tiny spider crabs](tiny.htm)**
+[Tiny spider crabs](tiny)**
 
 ---
 
-***![](menatheius/050625labg8681m3a.jpg)* [Arrow-headed spider crab](menatheius.htm)**
+***![](menatheius/050625labg8681m3a.jpg)* [Arrow-headed spider crab](menatheius)**
 
 ---
 
@@ -122,7 +122,7 @@ On this website, they are grouped by external features for convenience
 of display.*  
  
 [Tiny
-spider crabs](tiny.htm)
+spider crabs](tiny)
   
  
 **Family
@@ -132,7 +132,7 @@ Majidae**
 \*\*Micippa philyra  
   
 \*Planotergum mirabile* (EN:
-Endangered)[*Schizophrys* sp.](schizophrys.htm) (Sea
+Endangered)[*Schizophrys* sp.](schizophrys) (Sea
 toad spider crab) *Schizophrys aspera  
 Schizophrys dama* 
   
@@ -148,7 +148,7 @@ Hyastenus diacanthus**Hyastenus elatus* (EN: Endangered)*Hyastenus sebae*
 *Hyastenus subinermis* (EN: Endangered)
   
   
-[*Menatheius* sp.](menatheius.htm) (Arrow-head
+[*Menatheius* sp.](menatheius) (Arrow-head
 spider crab) *\*\***Menaethius monoceros* (One-horned
 spider crab) (VU: Vulnerable) *Phalangipus arachnoides  
   
@@ -162,7 +162,7 @@ Inachidae** (previously
 Majidae)
  
 *[Camposcia
-retusa](retusa.htm)* (Velcro crab)(VU:
+retusa](retusa)* (Velcro crab)(VU:
 Vulnerable) *Paratymolus cygnus*
 (CR: Critically endangered) *Paratymolus pubescens*
 
@@ -171,12 +171,12 @@ Vulnerable) *Paratymolus cygnus*
 **Links**
 
 - [Velcro
-  and Decorator crab of the Family Majidae](http://mangrove.nus.edu.sg/pub/seashore/text/188.htm) Tan, Leo W. H. &
+  and Decorator crab of the Family Majidae](http://mangrove.nus.edu.sg/pub/seashore/text/188) Tan, Leo W. H. &
   Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [*Maja
-  squinado* The European Spider Crab Biology and Fishery](http://www2.hawaii.edu/%7Ecarlm/spider.html):
+  squinado* The European Spider Crab Biology and Fishery](http://www2.hawaii.edu/%7Ecarlm/spiderl):
   about a commercially important large spider crab from Europe.
 
 **References**
@@ -211,9 +211,9 @@ Vulnerable) *Paratymolus cygnus*
   exclusive of the vertebrates*
   Sea Challengers. 314pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

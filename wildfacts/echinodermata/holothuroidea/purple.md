@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "cucumber, seacucumber,  cucumarid, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 sea
-cucumbers [text index](../echinodermindex.htm#holothuroidea)
-| [photo index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class [Holothuroidea](holothuroidea.htm)
+cucumbers [text index](../echinodermindex#holothuroidea)
+| [photo index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
+> Class [Holothuroidea](holothuroidea)
 **Purple
 sea cucumber *awaiting identification\**  
 Family Cucumariidae** *updated Apr 2020*
@@ -79,7 +66,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 *![](purple/091203ubnjk5m3.jpg)  
 Pulau Ubin, Dec 09*Photo
 shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/12/pulau-ubin-new-shore.html).
+blog](http://sgn090608.blogspot.com/2009/12/pulau-ubin-new-shorel).
 
 *![](purple/200723bblks2.jpg)  
 Beting Bronok, Jul 20*Photo
@@ -92,7 +79,7 @@ shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10
 
 ![](purple/080507ecplks05m3.jpg)  
  *East Coast, May 08*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2008/05/seafans-return-to-east-coast.html).
+blog](http://wondercreation.blogspot.com/2008/05/seafans-return-to-east-coastl).
 
 ---
 
@@ -106,7 +93,7 @@ blog](http://wondercreation.blogspot.com/2008/05/seafans-return-to-east-coast.ht
 
 ![](purple/090510sntik10m3.jpg)  
 *Siloso, May 09*Photo shared by Ivan Kwan on [his
-blog](http://lazy-lizard-tales.blogspot.com/2009/05/finds-with-spines-on-siloso.html).
+blog](http://lazy-lizard-tales.blogspot.com/2009/05/finds-with-spines-on-silosol).
 
 ![](purple/130531tkkmn.jpg)  
 *Pulau Tekukor, May 10*Photo
@@ -118,12 +105,12 @@ shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/8902108131/)
 *Cyrene Reef,
 Jun 10*Photo
 shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/06/starry-night-trip-to-cyrene.html).
+blog](http://wondercreation.blogspot.com/2010/06/starry-night-trip-to-cyrenel).
 
 ![](purple/110508cyrlks12m3.jpg)  
 *Cyrene Reef, May 11*  
 Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/05/lovely-surprises-from-cyrene-reef.html).
+blog](http://wondercreation.blogspot.com/2011/05/lovely-surprises-from-cyrene-reefl).
 
 ---
 
@@ -142,14 +129,4 @@ flickr](http://www.flickr.com/photos/koksheng/4570184067/).
   Guide to Sea Stars and Other Echinoderms of Singapore*.
   Singapore Science Centre. 187pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

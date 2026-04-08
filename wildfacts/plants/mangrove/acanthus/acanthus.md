@@ -4,24 +4,24 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "holly, acanthus, acanthaceae, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
-plants [text index](../../plantindex.htm) | [photo
-index](../../plantfi.htm)
-[mangroves](../mangroves.htm)
+plants [text index](../../plantindex) | [photo
+index](../../plantfi)
+[mangroves](../mangroves)
 **Jeruju
 or Sea
 holly  
@@ -33,7 +33,7 @@ Jan 2013*
 
 **Where seen?** These prickly plants with pretty flowers are
 often seen in thickets in the back mangroves, especially on [mud
-lobster mounds](../../../crustacea/othercrust/lobster/thalassina.htm). These plants have no relation whatsoever with
+lobster mounds](../../../crustacea/othercrust/lobster/thalassina). These plants have no relation whatsoever with
 the Christmas holly, although they appear similar. In fact, not all
 the leaves of a Sea holly plant may have spiny edges. Leaves growing
 the deep shade can be totally spineless.  
@@ -149,14 +149,14 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 **Links**
 
 - [Jeruju
-  (*Acanthus volubilis*)](http://mangrove.nus.edu.sg/guidebooks/text/1047.htm), [Jeruju
-  hitam (*Acanthus ebracteatus*)](http://mangrove.nus.edu.sg/guidebooks/text/1045.htm) and [Jeruju
-  putih (*Acanthus ilicifolius*)](http://mangrove.nus.edu.sg/guidebooks/text/1046.htm) Ng, Peter K. L. &
+  (*Acanthus volubilis*)](http://mangrove.nus.edu.sg/guidebooks/text/1047), [Jeruju
+  hitam (*Acanthus ebracteatus*)](http://mangrove.nus.edu.sg/guidebooks/text/1045) and [Jeruju
+  putih (*Acanthus ilicifolius*)](http://mangrove.nus.edu.sg/guidebooks/text/1046) Ng, Peter K. L. &
   N. Sivasothi, 1999. *[A
   Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*.
   Singapore Science Centre. 168 pp.
 - [Sea
-  Holly (Acanthaceae)](http://mangrove.nus.edu.sg/pub/seashore/text/110.htm) Tan, Leo W. H. & Ng, Peter K. L.,
+  Holly (Acanthaceae)](http://mangrove.nus.edu.sg/pub/seashore/text/110) Tan, Leo W. H. & Ng, Peter K. L.,
   1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
@@ -171,7 +171,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 - Giesen, Wim
   and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
   [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.htm) (PDF online downloadable).
+  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
   RAP publication 2006/07 Food and Agriculture Organization of the
   United Nations Regional Office for Asia and the Pacific Bangkok.
 
@@ -209,9 +209,9 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 FREE photos of [mangrove
 trees and plants](http://www.flickr.com/photos/54527470@N00/sets/72157600258037543). Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

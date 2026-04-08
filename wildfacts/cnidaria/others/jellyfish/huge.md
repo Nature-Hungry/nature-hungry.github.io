@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "jellyfish, jelly, fish, jellies, rhizostomeae, scyphozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 jellyfish [text
-index](../../cnidariaindex.htm#jellyfish) | [photo index](../../jellyfishfi.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> various classes | [jellyfish](jellyfish.htm)
+index](../../cnidariaindex#jellyfish) | [photo index](../../jellyfishfi)
+Phylum [Cnidaria](../../cnidaria)
+> various classes | [jellyfish](jellyfish)
 **Huge
 jellyfish  
 *Order Rhizostomeae*Class Scyphozoa***updated Jan 2020*
@@ -112,17 +112,17 @@ swimming near the jellyfish.
 
 ![](huge/080426cylks2.JPG)  
 *Cyrene Reef,
-Apr 08*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2008/04/urchins-sea-cucumbers-and-other.html).
+Apr 08*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2008/04/urchins-sea-cucumbers-and-otherl).
 
 ![](huge/080426cylks1.JPG)  
 *Cyrene Reef,
-Apr 08*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2008/04/urchins-sea-cucumbers-and-other.html).
+Apr 08*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2008/04/urchins-sea-cucumbers-and-otherl).
 
 ---
 
 ![](huge/160608cyrlks2.JPG)  
  *Cyrene Reef,
-Jun 16*Photo shared by Loh Kok Sheng on [facebook](http://wondercreation.blogspot.com/2016/06/coral-bleaching-at-cyrene-reef.html).
+Jun 16*Photo shared by Loh Kok Sheng on [facebook](http://wondercreation.blogspot.com/2016/06/coral-bleaching-at-cyrene-reefl).
 
 ![](huge/160608cyrlks3.JPG)  
 Small fish
@@ -161,9 +161,9 @@ identification of this jellyfish.
   Scyphozoan website](http://thescyphozoan.ucmerced.edu/) by Dr Michael N Dawson: lots of info
   about jellyfishes in Class Scyphozoa.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "bottleneck, cucumber, seacucumber, holothuria, impatiens, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 sea
-cucumbers [text index](../echinodermindex.htm#holothuroidea)
-| [photo index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class [Holothuroidea](holothuroidea.htm)
+cucumbers [text index](../echinodermindex#holothuroidea)
+| [photo index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
+> Class [Holothuroidea](holothuroidea)
 **Bottleneck
 sea cucumber  
 *Holothuria impatiens**\**Family Holothuriidae***updated
@@ -100,21 +87,11 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 **Links**
 
-- [*Holothuria impatiens* (Impatient sea cucumber)](http://www.sealifebase.org/summary/Holothuria-impatiens.html) on SeaLife Base:
+- [*Holothuria impatiens* (Impatient sea cucumber)](http://www.sealifebase.org/summary/Holothuria-impatiensl) on SeaLife Base:
   Technical fact sheet.
 - [*Holothuria impatiens*](http://species-identification.org/species.php?species_group=nasc&id=64) in North Australian Sea Cucumbers in Marine Species
   Identification Portal: Technical fact sheet.
 - [*Holothuria impatiens*](http://www.iucnredlist.org/details/summary/180512/0) on the IUCN Red List: Technical fact sheet.
-- *Holothuria impatiens* on [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00.htm), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
+- *Holothuria impatiens* on [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

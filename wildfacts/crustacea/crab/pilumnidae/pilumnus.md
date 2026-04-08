@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "crab, hairy, crustacea, pilumnus, vespertilio, pilumnidae, decapod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> Brachyurans > Family [Pilumnidae](pilumnidae.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> Brachyurans > Family [Pilumnidae](pilumnidae)
 **Common hairy
 crabs** ***Pilumnus vespertilio***  
 **Family Pilumnidae***updated
@@ -73,7 +73,7 @@ Sentosa, Aug 04*
 A pair mating?  
 *Cyrene Reef, Jun 08*Photo shared by Toh Chay Hoon on [flickr](https://www.flickr.com/photos/ilmare77/2599844174/in/photostream/)..
 **What does it eat?** The Common hairy
-crab eats mainly seaweed. It may also eat toxic [zoanthids](../../../cnidaria/others/zoanthid/zoanthid.htm) (colonial anemones) and this makes the crab mildly poisonous. Various
+crab eats mainly seaweed. It may also eat toxic [zoanthids](../../../cnidaria/others/zoanthid/zoanthid) (colonial anemones) and this makes the crab mildly poisonous. Various
 hairy crabs on our shores have been observed nibbling on hard seaweeds,
 sponges and even appearing to snack on bristleworms, carrying a clam into a burrow. Also possibly having
 a taste of a nudibranch and dragging a seahare into its burrow leaving a trail of purple dye from the panicking seahare.  
@@ -154,7 +154,7 @@ shared by Jonathan Tan on [facebook](https://www.facebook.com/media/set/?set=a.1
 
 ![](pilumnidae/110522bbblks1m3.jpg)  
 *Beting Bemban Besar, May 11*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/05/knobblies-at-beting-bemban-besar.html).
+blog](http://wondercreation.blogspot.com/2011/05/knobblies-at-beting-bemban-besarl).
 
 *![](pilumnidae/090330trylks1m3.jpg)  
 Terumbu Raya, Mar 09*Photo shared by Loh Kok Sheng on [flickr](http://www.flickr.com/photos/koksheng/3559309398/).
@@ -204,11 +204,11 @@ Hairy crabs about to mate?
 **Links**
 
 - [Hairy
-  Crab (*Pilumnus vespertilio*)](http://mangrove.nus.edu.sg/pub/seashore/text/211.htm)
+  Crab (*Pilumnus vespertilio*)](http://mangrove.nus.edu.sg/pub/seashore/text/211)
   Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
-- *[Pilumnus vespertilio](https://singapore.biodiversity.online/taxo4254/mainSpace/Pilumnus%20vespertilio.html)* (Decapoda: Pilumnidae) Hairy crab by Chiu Jing Hua, 2015, on taxo4254.
+- *[Pilumnus vespertilio](https://singapore.biodiversity.online/taxo4254/mainSpace/Pilumnus%20vespertiliol)* (Decapoda: Pilumnidae) Hairy crab by Chiu Jing Hua, 2015, on taxo4254.
 - [*Pilumnus
   vespertilio*](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=18379&genusname=Pilumnus&speciesname=vespertilio) on [SeaLife
   Base](http://www.sealifebase.fisheries.ubc.ca/search.php): Technical fact sheet.
@@ -239,9 +239,9 @@ Hairy crabs about to mate?
   S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
   Australian Waters*. Reed New Holland. 224 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

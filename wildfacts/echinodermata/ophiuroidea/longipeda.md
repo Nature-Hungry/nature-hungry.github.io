@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "macrophiothrix, ophiothrix, longipeda, ophiotrichidae, very, long, arm, brittle, star, brittlestar, ophiuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 brittle
-stars [text index](../echinodermindex.htm#ophiuroidea)
-| [photo index](../ophuiroideafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class Stellaroida > Subclass [Ophiuroidea](ophiuroidea.htm)
+stars [text index](../echinodermindex#ophiuroidea)
+| [photo index](../ophuiroideafi)
+Phylum [Echinodermata](../echinodermata)
+> Class Stellaroida > Subclass [Ophiuroidea](ophiuroidea)
 **Very
 long-armed brittle star**   
 ***Macrophiothrix longipeda*** **Family Ophiotrichidae***updated Apr 2020*
@@ -52,7 +39,7 @@ along the sides (not like a bottlebrush). Large long translucent tube feet emerg
 banded pattern. Generally beige or bluish.  
   
 **Sometimes confused with** the [Blue
-lined brittle star](lineocaerulea.htm) which
+lined brittle star](lineocaerulea) which
 also has very long arms. But it has blue lines along the arms and
 its spines are more cylindrical.  
   
@@ -107,7 +94,7 @@ shared by Jianlin Liu on [facebook](https://www.facebook.com/photo.php?fbid=1015
 *![](longipeda/090820ecplkh3m3.jpg)  
 East Coast, Aug 09*Photo
 shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/08/new-east-coast-shore-new-surprises.html).
+blog](http://wondercreation.blogspot.com/2009/08/new-east-coast-shore-new-surprisesl).
 
 *![](longipeda/210529ecpblks3.jpg)  
 East Coast Park, May 21*Photo
@@ -171,7 +158,7 @@ shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=101595
 *Cyrene Reef,
 Sep 10*Photo
 shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/08/100809-cyrene-reef.html).
+blog](http://sgn090608.blogspot.com/2010/08/100809-cyrene-reefl).
 
 ![](longipeda/100808cyrmn1m3.jpg)  
 *Cyrene Reef,
@@ -208,14 +195,14 @@ flickr](http://www.flickr.com/photos/koksheng/4247001447/).
 May 10   
 ![](longipeda/100528tkklks2m3a.jpg)*Photo
 shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/05/my-first-trip-to-pulau-tekukor.html).
+blog](http://wondercreation.blogspot.com/2010/05/my-first-trip-to-pulau-tekukorl).
 
 *![](longipeda/100528tkkjk11m3.jpg)  
 Pulau Tekukor,
 May 10  
 ![](longipeda/100528tkkjk12m3.jpg)*Photo
 shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/05/100528-pulau-tekukor.html).
+blog](http://sgn090608.blogspot.com/2010/05/100528-pulau-tekukorl).
 
 ---
 
@@ -246,7 +233,7 @@ Terumbu Pempang Laut, Jul 20
 **Links**
 
 - [*Macrophiothrix
-  longipeda*](http://www.sealifebase.org/summary/Macrophiothrix-longipeda.html)
+  longipeda*](http://www.sealifebase.org/summary/Macrophiothrix-longipedal)
   on SeaLife Base: Technical fact sheets.
 
 **References**
@@ -256,14 +243,4 @@ Terumbu Pempang Laut, Jul 20
   Guide to Sea Stars and Other Echinoderms of Singapore*.
   Singapore Science Centre. 187pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

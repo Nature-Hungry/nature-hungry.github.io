@@ -4,21 +4,6 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](index.html)
-| [search](../search.htm)
-
 **Photo
 index of marine life on Singapore shores**
   
@@ -29,64 +14,64 @@ index of marine life on Singapore shores**
 lifeforms**  
 
 ![](../plants/seaweed/chlorophyta/ulva/050426cftd2804m.jpg)  
-**[seaweed](../plants/seaweed/chlorophytafi1.htm)**
+**[seaweed](../plants/seaweed/chlorophytafi1)**
 
 ![](../plants/seagrass/thalassia/041019labd7736m.jpg)  
-[**seagrass**](../plants/seagrass/seagrassfi.htm)
+[**seagrass**](../plants/seagrass/seagrassfi)
 
 ![](../plants/seagrass/enhalus/040620skdd0750m.jpg)  
-[**seagrass**](../plants/seagrass/seagrassfi.htm)
+[**seagrass**](../plants/seagrass/seagrassfi)
 
 ![](../plants/seaweed/phaeophyta/dictyota/031226chgd0017m.jpg)  
 [**brown
-seaweed**](../plants/seaweed/phaeophytafi2.htm)
+seaweed**](../plants/seaweed/phaeophytafi2)
 
 ![](../plants/seaweed/phaeophyta/noveinbranch/060115sntg3912m.jpg)  
 [**brown
-seaweed**](../plants/seaweed/phaeophytafi2.htm)
+seaweed**](../plants/seaweed/phaeophytafi2)
 
 ![](../mollusca/slugs/nudibranchia/eggs/050309smkg3146m.jpg)  
 [**slug
-eggs**](../eggs/eggfi.htm)
+eggs**](../eggs/eggfi)
 
 ![](../mollusca/gastropoda/naticidae/sandcollar/030703skdd0250m.jpg)  
 [**sand
-collar**](../eggs/eggfi.htm)
+collar**](../eggs/eggfi)
 
 ![](../worm/polycladida/lineblue/030518cjd0173m.jpg)  
-**[flatworm](../worm/polycladidafi.htm)**
+**[flatworm](../worm/polycladidafi)**
 
 ![](../worm/nemertea/redreef/060115sntg3977m.jpg)  
-**[Worm](../worm/wormfi1a.htm)**
+**[Worm](../worm/wormfi1a)**
 
 ![](../worm/nemertea/verylong/050325sjid1973ma.jpg)  
-**[Worm](../worm/wormfi1a.htm)**
+**[Worm](../worm/wormfi1a)**
 
 **![](../eggs/eggs/050608cftg7378ma.jpg)  
-[Egg string](../eggs/eggfi.htm)**
+[Egg string](../eggs/eggfi)**
 
 **![](../eggs/eggs/050726chgg0399m.jpg)  
-[Egg string](../eggs/eggfi.htm)**
+[Egg string](../eggs/eggfi)**
 
 **![](../eggs/eggs/050611kusg7835m.jpg)  
-[Egg string](../eggs/eggfi.htm)**
+[Egg string](../eggs/eggfi)**
 
 **![](../porifera/rotijala/130723bbd0115m.jpg)  
-[Sponge](../porifera/poriferafi4.htm)**
+[Sponge](../porifera/poriferafi4)**
 
 ---
 
 how to tell apart
 
 - [sea
-  snakes, eels and eel-like animals](eelsnake.htm)
+  snakes, eels and eel-like animals](eelsnake)
 - [worm-like
-  animals](wormy.htm)
+  animals](wormy)
 - [seagrasses
-  and green seaweeds](seagrassweed.htm)
-- [ribbon-like seagrasses](../plants/seagrass/cfribbon.htm)
+  and green seaweeds](seagrassweed)
+- [ribbon-like seagrasses](../plants/seagrass/cfribbon)
 - [flatworms
-  and slugs](flatwormslug.htm)
+  and slugs](flatwormslug)
 
   
   
@@ -99,41 +84,41 @@ lifeforms on this site
 by shape
 
 [general
-photo index](../photoindex.htm)  
+photo index](../photoindex)  
   
-[ball-shaped](fiball.htm)  
+[ball-shaped](fiball)  
   
-[blobs](fiblobs.htm)   
+[blobs](fiblobs)   
   
-[branching](fibranching.htm)  
+[branching](fibranching)  
   
-[bristley](fibristley.htm)  
+[bristley](fibristley)  
   
-[encrusting](fiencrusting.htm)  
+[encrusting](fiencrusting)  
   
-[feathery](fifeathery.htm)  
+[feathery](fifeathery)  
   
-[flat flexible](fiflatflexi.htm)   
+[flat flexible](fiflatflexi)   
   
-[flat stiff](fiflatstiff.htm)   
+[flat stiff](fiflatstiff)   
   
-[hairy](fihairy.htm)  
+[hairy](fihairy)  
   
-[leafy](fileafy.htm)  
+[leafy](fileafy)  
   
 ribbon-like  
   
-[sausage-like](fisausage.htm)  
+[sausage-like](fisausage)  
   
-[snake-like](fisnake.htm)   
+[snake-like](fisnake)   
   
-[stick-like](fistick.htm)   
+[stick-like](fistick)   
   
-[worm-like](fiworm.htm)
+[worm-like](fiworm)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

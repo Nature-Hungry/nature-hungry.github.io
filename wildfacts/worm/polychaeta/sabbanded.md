@@ -4,28 +4,15 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "banded, fan, worm, fanworm, sabellid, sabellidae, polychaete, annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 worms
-[text index](../wormindex.htm) | [photo
-index](../wormfi.htm)
+[text index](../wormindex) | [photo
+index](../wormfi)
 
-[worms](../worm.htm) > Phylum Annelida >
-Class [Polychaeta](polychaeta.htm)
-> Order Sabellida > Family [Sabellidae](sabellidae.htm)
+[worms](../worm) > Phylum Annelida >
+Class [Polychaeta](polychaeta)
+> Order Sabellida > Family [Sabellidae](sabellidae)
 
 **Banded
 fanworm**  
@@ -117,7 +104,7 @@ flickr](http://www.flickr.com/photos/koksheng/3559336532/).
 ![](sabellidae/banded/110423tpllks5m3.jpg)  
 *Terumbu Pempang
 Laut, Apr 11*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/04/first-visit-to-terumbu-pempang-laut.html).
+blog](http://wondercreation.blogspot.com/2011/04/first-visit-to-terumbu-pempang-lautl).
 
 ---
 
@@ -150,14 +137,4 @@ Filmed on 8 Feb
 
 [fanworm 4 @ semakau 08Feb2009](https://vimeo.com/3211779) from [SgBeachBum](https://vimeo.com/sgbeachbum) on [Vimeo](https://vimeo.com).
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "banded, marine, snake, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 snakes [text
-index](snakeindex.htm) | [photo index](snakeshorefi.htm)
+index](snakeindex) | [photo index](snakeshorefi)
 Phylum Chordata
 > Subphylum Vertebrata > Class Reptilia > [shore
-snakes](snakeshore.htm)
+snakes](snakeshore)
 **Banded
 marine snakes****How to tell them apart?**  
 *updated Apr 2020*
@@ -46,11 +33,11 @@ will not bite unless provoked. So just leave them alone.
 ![](laticauda/031124sised0009m3b.jpg)
 
 **[Banded
-file snake](acrochordidae/granulatus.htm)**  
+file snake](acrochordidae/granulatus)**  
 *Acrochordus granulatus*
 
 **[Yellow-lipped
-sea snake](hydrophiidae/laticauda.htm)**  
+sea snake](hydrophiidae/laticauda)**  
 *Laticauda colubrina*
 
 ![](granulatus/030616cjd0076m3b.jpg)
@@ -91,49 +78,39 @@ comparisons**
 ---
 
 ![](fasciatus/020713cjcpd2753m3.jpg)  
-The [Banded krait](elapidae/fasciatus.htm) is not commonly
+The [Banded krait](elapidae/fasciatus) is not commonly
 seen. It has a black head and its tail is not flattened.
 
 ![](../fish/muraenidae/reevesii/100527tmd3450m3.jpg)  
-The [Moray eel](../fish/muraenidae/muraenidae.htm) is
+The [Moray eel](../fish/muraenidae/muraenidae) is
 a fish that   
 appears snake-like.
 
 ![](../fish/pseudochromidae/subducens/040703sisg0979m3.jpg)  
-The [Carpet eel-blenny](../fish/pseudochromidae/subducens.htm)
+The [Carpet eel-blenny](../fish/pseudochromidae/subducens)
 also   
 appears snake-like.
 
 ---
 
 ![](../fish/ophichthidae/wormeel/040411hntd0060m3.jpg)  
-The [worm eel](../fish/ophichthidae/ophichthidae.htm)
+The [worm eel](../fish/ophichthidae/ophichthidae)
 is a fish that   
 appears worm- or snake-like.
 
 ![](../../worm/sipuncula/sipuncula/031122cjd0011m3.jpg)  
-[Peanut worms](../../worm/sipuncula/sipuncula.htm) don't
+[Peanut worms](../../worm/sipuncula/sipuncula) don't
   
 move very fast either.
 
 ![](../../worm/nemertea/verylong/050325sjid1973m3.jpg)  
-[Ribbon worms](../../worm/nemertea/nemertea.htm) can
+[Ribbon worms](../../worm/nemertea/nemertea) can
 be very long.   
 They usually stay on the ground   
 and don't swim about very fast.
 
 ---
 
-how to tell apart [snakes and eels](../../glossary/eelsnake.htm)
+how to tell apart [snakes and eels](../../glossary/eelsnake)
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

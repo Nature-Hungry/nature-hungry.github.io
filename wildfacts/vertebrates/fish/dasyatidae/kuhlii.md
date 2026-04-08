@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "blue, spotted, sting, ray, stingray, neotrygon, dasyatis, kuhlii, fish, rajiformes, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Order [Rajiformes](rajiformes.htm) > Family [Dasyatidae](dasyatidae.htm)
+> Subphylum Vertebrate > [fishes](../fish) >
+Order [Rajiformes](rajiformes) > Family [Dasyatidae](dasyatidae)
 **Blue-spotted
 stingray  
 *Neotrygon kuhlii*  
@@ -49,9 +49,9 @@ fold near the tail. There is usually one spine on the tail that can
 cause a painful wound by injecting a venom.  
   
 **Sometimes mistaken for** a [horseshoe
-crab](../../../arthropoda/limulidae/limulidae.htm) and visa versa. In murky waters, these two different animals
+crab](../../../arthropoda/limulidae/limulidae) and visa versa. In murky waters, these two different animals
 do have a similar profile, both being round and flat with a long tail.
-The [Blue-spotted fantail ray](lymma.htm) (*Taeniura
+The [Blue-spotted fantail ray](lymma) (*Taeniura
 lymma*) has bright and prominent spots and is more commonly seen
 near reefs.
 
@@ -65,7 +65,7 @@ near reefs.
 *![](kuhlii/071226chgd8385m3d.jpg)*Dark 'mask' across the eyes
 
 ![](kuhlii/060430skdd1550m3a.jpg)  
-A gathering of Blue-spotted stingrays and  [Mangrove whiprays](walga.htm) in a sandy lagoon.  
+A gathering of Blue-spotted stingrays and  [Mangrove whiprays](walga) in a sandy lagoon.  
 *Pulau Sekudu, Apr 06*
 
 **What does it eat?** It feeds on
@@ -103,7 +103,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Links**  
 
 - [Blue-spotted
-  Stingray (*Dasyatis kuhlii*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/203.htm) Lim, Kelvin K. P. & Jeffrey
+  Stingray (*Dasyatis kuhlii*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/203) Lim, Kelvin K. P. & Jeffrey
   K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
@@ -112,7 +112,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
   Technical fact sheet.
 - [Volume
   3: Batoid fishes, chimaeras and bony fishes part 1 (Elopidae to
-  Linophrynidae)](http://www.fao.org/docrep/009/x2401e/x2401e00.htm) FAO Species Identification Guide for Fishery
+  Linophrynidae)](http://www.fao.org/docrep/009/x2401e/x2401e00) FAO Species Identification Guide for Fishery
   Purposes The Living Marine Resources of the Western Central Pacific.
 - [*Neotrygon kuhlii*](http://www.iucnredlist.org/details/161590/0) from IUCN Red List.
 
@@ -131,9 +131,9 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
   Ewald and Robert Myers. 2001. *Coral
   Reef Fishes of the World* Periplus Editions. 400pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

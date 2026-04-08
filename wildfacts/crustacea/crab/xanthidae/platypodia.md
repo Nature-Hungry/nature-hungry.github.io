@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "ruby, reef, crab, liomera, venosa, xanthidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> Brachyurans > Family [Xanthidae](xanthidae.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> Brachyurans > Family [Xanthidae](xanthidae)
 **Curry
 puff crab   
 *Platypodia granulosa***  
@@ -43,10 +43,10 @@ and claws chocolate brown and covered with large rounded bumps. Smooth
 sides on the body edges with regular notches highlighted in pale bars
 that make the creature resemble a curry puff or pie. Pincers large
 and thick with dark brown claws. Like other brightly coloured Xanthid
-crabs, it is probably [poisonous](xanthidae.htm).   
+crabs, it is probably [poisonous](xanthidae).   
   
 **Sometimes mistaken for** the more
-commonly seen [Floral egg crab](floridus.htm) (*Atergatis
+commonly seen [Floral egg crab](floridus) (*Atergatis
 floridus*).   
   
 **Status and threats:** This crab
@@ -119,7 +119,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Links**
 
 - [Poisonous
-  Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252.htm) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+  Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [*Platypodia
@@ -142,9 +142,9 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
   Red Data Book: Threatened plants and animals of Singapore*.
   Nature Society (Singapore). 285 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

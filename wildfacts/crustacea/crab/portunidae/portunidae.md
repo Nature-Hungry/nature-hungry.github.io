@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "swimming, crab, portunidae, thalamita, decapod, crustrace, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
 > Brachyurans
 **Swimming
 crabs**   
@@ -62,7 +62,7 @@ They have long pincers armed with sharp spines to snag fish and other
 fast moving prey. Often, one pincer is slightly larger than the other.  
   
 Here's more on [how to tell apart the swimming
-crabs](cfportunidae.htm) commonly encountered on our shores.  
+crabs](cfportunidae) commonly encountered on our shores.  
   
 **Fierce Crabs:** If disturbed, swimming
 crabs often fearlessly wave their pincers menacingly. This is not
@@ -74,7 +74,7 @@ Mating swimming crabs
 *Pulau Sekudu, May 04*
 ![](spinimana/110517tptd1379m3.jpg)  
 Brown crab mating with a red one.  
-Both are [Red swimming crabs](spinimana.htm). *Terumbu Pempang Tengah, May 11*
+Both are [Red swimming crabs](spinimana). *Terumbu Pempang Tengah, May 11*
 ![](spinimana/250812tbmn2.jpg)  
 With eggs on the belly.  *Terumbu Bemban, Aug 25*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10161862664708660&type=3&ref=embed_post).
 
@@ -89,7 +89,7 @@ worms, other crustaceans (including other crabs), clams and snails.
 They may also nibble on seaweed.  
   
 **Swimming Babies:** Like other crabs,
-swimming crabs often mate when the female is [moulting](../../moulting.htm).   
+swimming crabs often mate when the female is [moulting](../../moulting).   
   
 **Monstrous crabs:** In Greek Mythology,
 Scylla is a female sea monster, who lives along a narrow channel,
@@ -101,7 +101,7 @@ one danger exposes oneself to another danger.
 **Human
 uses:** Swimming crabs are edible and enjoyed by people everywhere.
 In our part of the world, from Asia to Australia., the [Flower
-crab](pelagicus.htm) (*Portunus pelagicus*) is one of the commonly eaten
+crab](pelagicus) (*Portunus pelagicus*) is one of the commonly eaten
 members of this family.
 
 *![](spinimana/090112smkd5112m3.jpg)*Threat posture. *Pulau Semakau, Nov 09*
@@ -128,63 +128,63 @@ Eating another swimming crab. *Changi, Aug 08*
 **Some Swimming
 crabs on Singapore shores**   
 more on [how
-to tell apart the swimming crabs](cfportunidae.htm) on Singapore shores
+to tell apart the swimming crabs](cfportunidae) on Singapore shores
 
 ---
 
 ***![](scylla/111128sntd4168m3.jpg)*  
-[Mud crab](scylla.htm)**
+[Mud crab](scylla)**
 
 **![](pelagicus/050622cftg8190m3.jpg)  
-[Flower crab](pelagicus.htm)**
+[Flower crab](pelagicus)**
 
 ***![](tiny/050428cftd2923m3.jpg)*[Tiny
-flower crabs](tiny.htm)**
+flower crabs](tiny)**
 
 ---
 
 **![](purpleleg/050621skdg7959m3.jpg)  
-[Purple legged swimming crab](purpleleg.htm)**
+[Purple legged swimming crab](purpleleg)**
 
 **![](spinimana/050623cjg8260m3.jpg)  
-[Red swimming crab](spinimana.htm)**
+[Red swimming crab](spinimana)**
 
 ***![](spinimana/050623cjd4115m3.jpg)*  
-[Red swimming crab](spinimana.htm)**
+[Red swimming crab](spinimana)**
 
 ---
 
 **![](anisodon/130726chgsafd0475m3.jpg)  
-[Orange-clawed swimming crab](anisodon.htm)**
+[Orange-clawed swimming crab](anisodon)**
 
 **![](bluespined/040818sntd4739m3.jpg)  
-[Blue-spined swimming crab](bluespined.htm)**
+[Blue-spined swimming crab](bluespined)**
 
 **![](mottled/091106smkd3749m3.jpg)  
-[Mottled swimming crab](mottled.htm)**
+[Mottled swimming crab](mottled)**
 
 ---
 
 **![](annulata/041215labd8963m3.jpg)  
-[Banded-leg swimming crab](annulata.htm)**
+[Banded-leg swimming crab](annulata)**
 
 **![](powderblue/110730tmd7500m3.jpg)  
 [Powder blue-clawed  
-swimming crab](powderblue.htm)**
+swimming crab](powderblue)**
 
 **![](blue/110730tmftd7804m3.jpg)  
-[Blue swimming crab](blue.htm)**
+[Blue swimming crab](blue)**
 
 ---
 
 **![](natator/120124sisd6045m3.jpg)  
-[Ridged swimming crab](natator.htm)**
+[Ridged swimming crab](natator)**
 
 **![](sanguinolentus/150605kusmn4m3.jpg)  
-[Blood-spotted swimming crab](sanguinolentus.htm)**
+[Blood-spotted swimming crab](sanguinolentus)**
 
 **![](feriatus/050721cjd5144m3.jpg)  
-[Crucifix swimming crab](feriatus.htm)**
+[Crucifix swimming crab](feriatus)**
 
 ---
 
@@ -209,12 +209,12 @@ Portunidae**
  
 *Charybdis affinis  
 Charybdis anisodon   
-[Charybdis annulata](annulata.htm)* (Banded-leg
-swimming crab) *[Charybdis anisodon](anisodon.htm)* (Orange-clawed swimming crab) *Charybdis brevispinosa  
+[Charybdis annulata](annulata)* (Banded-leg
+swimming crab) *[Charybdis anisodon](anisodon)* (Orange-clawed swimming crab) *Charybdis brevispinosa  
 Charybdis callianassa  
-\*\*[Charybdis feriata](feriatus.htm)=Charybdis feriatus*(Crucifix swimming crab) *Charybdis granulata  
-[Charybdis hellerii](purpleleg.htm)* (Purple-legged
-swimming crab) *[Charybdis natator](natator.htm)* (Ridged swimming
+\*\*[Charybdis feriata](feriatus)=Charybdis feriatus*(Crucifix swimming crab) *Charybdis granulata  
+[Charybdis hellerii](purpleleg)* (Purple-legged
+swimming crab) *[Charybdis natator](natator)* (Ridged swimming
 crab) *Charybdis orientalis  
 Charybdis ornatus  
 Charybdis truncata=\*\*Charybdis (Goniohellenus) truncata  
@@ -231,22 +231,22 @@ Portunus gracilimanus=\*\*Portunus (Lupocycloporus) gracilimanus
   
 Portunus hastatoides=\*\*Portunus (Xiphonectes) hastatoides  
 +Portunus (Xiphonectes)* cf. *hastatoides   
-Portunus innominatus=\*\*Portunus (Lupocycloporus) innominatus*[*Portunus pelagicus*](pelagicus.htm)
-(Flower crab) including [tiny ones](tiny.htm) *Portunus rubromarginatus=\*\*Portunus (Monomia) rubromarginatus
+Portunus innominatus=\*\*Portunus (Lupocycloporus) innominatus*[*Portunus pelagicus*](pelagicus)
+(Flower crab) including [tiny ones](tiny) *Portunus rubromarginatus=\*\*Portunus (Monomia) rubromarginatus
   
-[Portunus sanguinolentus](sanguinolentus.htm)* (Blood-spotted swimming crab) *Portunus tenuipes=\*\*Portunus (Xiphonectes) tenuipes  
-Portunus tweediei=\*\*Portunus (Xiphonectes) tweediei*[***Scylla*** **sp.**](scylla.htm)**(mud crabs)** *\*Scylla olivacea* (Orange mud crab) *\*Scylla paramamosain* (Green mud crab) *\*Scylla tranquebarica* (Purple mud crab)  
+[Portunus sanguinolentus](sanguinolentus)* (Blood-spotted swimming crab) *Portunus tenuipes=\*\*Portunus (Xiphonectes) tenuipes  
+Portunus tweediei=\*\*Portunus (Xiphonectes) tweediei*[***Scylla*** **sp.**](scylla)**(mud crabs)** *\*Scylla olivacea* (Orange mud crab) *\*Scylla paramamosain* (Green mud crab) *\*Scylla tranquebarica* (Purple mud crab)  
   
 ***Thalamita* sp. (eyes-wide-apart swimming crabs)**  
 *Thalamita admete*  *+Thalamita chaptalii   
-[Thalamita crenata](powderblue.htm)* (Powder blue-clawed
-swimming crab) *[Thalamita danae](blue.htm)* (Blue swimming crab) *+Thalamita* cf. *pelsarti   
-[Thalamita prymna](bluespined.htm)* (Blue-spined
+[Thalamita crenata](powderblue)* (Powder blue-clawed
+swimming crab) *[Thalamita danae](blue)* (Blue swimming crab) *+Thalamita* cf. *pelsarti   
+[Thalamita prymna](bluespined)* (Blue-spined
 swimming crab) *Thalamita sima  
-[Thalamita spinimana](spinimana.htm)* (Red swimming
+[Thalamita spinimana](spinimana)* (Red swimming
 crab)  
 *Thalamita stimpsoni=\*\*Thalamita danae*  
-[*Thalamita* sp.](mottled.htm) (Mottled swimming
+[*Thalamita* sp.](mottled) (Mottled swimming
 crab)
 
 ---
@@ -254,13 +254,13 @@ crab)
 **Links**
 
 - [Swimming
-  crabs (Family Portunidae)](http://mangrove.nus.edu.sg/pub/seashore/text/201.htm) Tan, Leo W. H. & Ng, Peter K. L.,
+  crabs (Family Portunidae)](http://mangrove.nus.edu.sg/pub/seashore/text/201) Tan, Leo W. H. & Ng, Peter K. L.,
   1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [Mud
-  Crabs (*Scylla* sp)](http://mangrove.nus.edu.sg/guidebooks/text/2045.htm) and [Flower
-  Crab (*Portunus pelagicus*)](http://mangrove.nus.edu.sg/guidebooks/text/2045.htm) Ng, Peter K. L. & N. Sivasothi,
+  Crabs (*Scylla* sp)](http://mangrove.nus.edu.sg/guidebooks/text/2045) and [Flower
+  Crab (*Portunus pelagicus*)](http://mangrove.nus.edu.sg/guidebooks/text/2045) Ng, Peter K. L. & N. Sivasothi,
   1999. *[A Guide
   to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
   Science Centre. 168 pp.
@@ -269,7 +269,7 @@ crab)
   the Crabs section by Peter K. L. Ng in the FAO Species Identification
   Guide for Fishery Purposes: The Living Marine Resources of the
   Western Central Pacific [Volume
-  2: Cephalopods, crustaceans, holothurians and sharks](http://www.fao.org/docrep/009/w7192e/w7192e00.htm) on the
+  2: Cephalopods, crustaceans, holothurians and sharks](http://www.fao.org/docrep/009/w7192e/w7192e00) on the
   Food and Agriculture Organization of the United Nations (FAO)
   website.
 - [Homing
@@ -313,9 +313,9 @@ crab)
   Zoology*
   Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

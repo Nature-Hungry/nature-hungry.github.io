@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "corallimorph, rhodactis, indosinensis, discosomidae, corallimorpharia, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 corallimorphs
-[text index](../../cnidariaindex.htm#corallimorph) | [photo
-index](../../anemonefi4.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Corallimorpharia](corallimorph.htm)
+[text index](../../cnidariaindex#corallimorph) | [photo
+index](../../anemonefi4)
+Phylum [Cnidaria](../../cnidaria)
+> Class [Anthozoa](../../anthozoa) > Subclass
+Zoantharia/Hexacorallia > Order [Corallimorpharia](corallimorph)
 **White-tip
 corallimorphs**  
 ***Rhodactis indosinensis***  
@@ -45,7 +45,7 @@ short, with narrow ridges, pale. Oral disk usually maroon brown. Central mouth s
 its tentacles completely into the body column, although it can retract
 the tentacles.  
   
-**Similar looking animals:** A study found that *Rhodactis indosinensis* can also look like [Carpet corallimorphs](carpet.htm). [Posy anemones](../../actiniaria/posy.htm) also look quite similar.  
+**Similar looking animals:** A study found that *Rhodactis indosinensis* can also look like [Carpet corallimorphs](carpet). [Posy anemones](../../actiniaria/posy) also look quite similar.  
   
 **Status and threats:** As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.
 
@@ -117,7 +117,7 @@ shared by Russel Low on [facebook](http://www.facebook.com/album.php?fbid=165010
 
 *![](whitetip/100519tsmjk2m3.jpg)*  
  *Terumbu Semakau, May 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/05/100519-terumbu-semakau.html).
+blog](http://sgn090608.blogspot.com/2010/05/100519-terumbu-semakaul).
 
 *![](whitetip/150717smksmn1m3.jpg)*  
  *Pulau Semakau South, Jul 15*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153048790073660.624178659&type=3).
@@ -137,9 +137,9 @@ blog](http://sgn090608.blogspot.com/2010/05/100519-terumbu-semakau.html).
 - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
 - Ren Min Oh, Mei Lin Neo, Nicholas Wei Liang Yap, Sudhanshi Sanjeev Jain, Ria Tan, Chaolun Allen Chen and Danwei Huang, May 2019. *Citizen science meets integrated taxonomy to uncover the diversity and distribution of Corallimorpharia in Singapore*, The Raffles Bulletin of Zoology Volume 67, Pp. 306-321.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

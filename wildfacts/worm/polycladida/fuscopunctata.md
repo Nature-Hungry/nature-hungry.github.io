@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "flat, worm, flatworm, maritigrella, fuscopunctata, euryleptidae, polyclad, turbellaria, platyhelminthes, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 flatworms [text
-index](../wormindex.htm) | [photo index](../polycladidafi.htm)
-[worms](../worm.htm)
+index](../wormindex) | [photo index](../polycladidafi)
+[worms](../worm)
 > Phylum Platyhelminthes > Class
-Turbellaria > [Order Polycladida](polycladida.htm)
+Turbellaria > [Order Polycladida](polycladida)
 **Punctuated
 flatworm  
 *Maritigrella fuscopunctata\******Family
@@ -42,7 +29,7 @@ cream-white to beige with a pattern of black bars or spots in bars
 along the edges with a
 broad pale centre with orange or darker spots in a honey-comb pattern.
 Underside has a similiar pattern and colour. Has a pair of tentacles that extend like flaps at the front of the body. A distinguishing feature is black spots on the tentacles.  
- **What does it eat?** *Maritigrella* flatworms eat [ascidians](../../ascidiacea/ascidiacea.htm) by sucking out individual animals with their tube-shaped pharynx (a
+ **What does it eat?** *Maritigrella* flatworms eat [ascidians](../../ascidiacea/ascidiacea) by sucking out individual animals with their tube-shaped pharynx (a
 part of the gut) that can be pushed out through the mouth to engulf
 the prey.
 
@@ -144,14 +131,4 @@ Grateful thanks to Rene Ong for sharing details and identifying the flatworms on
   H and Helmut Debelius. 2009. *World
   Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

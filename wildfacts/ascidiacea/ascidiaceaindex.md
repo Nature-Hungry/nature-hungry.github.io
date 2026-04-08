@@ -4,30 +4,17 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "checklist, check, list, index, ascidiacea, ascidian, tunicate, squirt, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
+ 
 
 ascidians
-[photo index](ascidiaceafi.htm)
+[photo index](ascidiaceafi)
 Phylum Chordata
-| Subphylum Tunicata/Urochordata | Class [Ascidiacea](ascidiacea.htm)
+| Subphylum Tunicata/Urochordata | Class [Ascidiacea](ascidiacea)
 **Ascidians
 on Singapore shores**  
 Don't know the
 name of the ascidian? Try the [ascidian photo
-index](ascidiaceafi.htm)  
+index](ascidiaceafi)  
 
 ---
 
@@ -112,7 +99,7 @@ jng
 smk
 
 [Beige
-sheet ascidians](beige.htm)  
+sheet ascidians](beige)  
 *Didemnum psammatodes*
 
 pgl
@@ -134,7 +121,7 @@ cyr
 hnt
 
 [Blob
-ascidians](blob.htm)  
+ascidians](blob)  
 *awaiting identification*
 
 tpg
@@ -146,7 +133,7 @@ tsm
 lfa
 
 [Brain
-ascidians](brain.htm)  
+ascidians](brain)  
 *awaiting identification*
 
 ubn
@@ -162,7 +149,7 @@ sis
 tsm
 
 [Bubble
-ascidians](bubble.htm)  
+ascidians](bubble)  
 *awaiting identification*
 
 chg
@@ -200,7 +187,7 @@ tsm
 lfa
 
 [Green
-gum drops ascidians](greengumdrop.htm)  
+gum drops ascidians](greengumdrop)  
 Family Didemnidae
 
 *pgl*
@@ -228,7 +215,7 @@ smk
 tsm
 
 [Jelly
-sea squirt](jelly.htm)  
+sea squirt](jelly)  
 *Ascidia gemmata*
 
 pgl
@@ -256,7 +243,7 @@ smk
 tsm
 
 [Orange
-lobed ascidians](orange.htm)  
+lobed ascidians](orange)  
 Family Styelidae
 
 chg
@@ -278,7 +265,7 @@ smk
 *tsm*
 
 [Orange-spotted
-ascidians](orangespotted.htm)  
+ascidians](orangespotted)  
 *awaiting identification*
 
 cj
@@ -310,7 +297,7 @@ tsm
 lfa
 
 [Pink
-ascidians](pink.htm)  
+ascidians](pink)  
 *Eudistoma* sp.
 
 chg
@@ -328,7 +315,7 @@ sis
 tpg
 
 [Rock
-slime ascidians](rockslime.htm)  
+slime ascidians](rockslime)  
 *awaiting identification*
 
 prp
@@ -357,7 +344,7 @@ snt
 
 smk
 
-[Thumbs-up sea squirt](polycarpa.htm)*Polycarpa* sp.
+[Thumbs-up sea squirt](polycarpa)*Polycarpa* sp.
 
 *prp*
 
@@ -374,7 +361,7 @@ smk
 tsm
 
 [White
-ascidians](white.htm)  
+ascidians](white)  
 *awaiting identification*
 
 chg
@@ -399,7 +386,7 @@ tpg
 
 *tsm*
 
-[Yellow clustered bead ascidians](eudistoma.htm)*Eudistoma* sp.
+[Yellow clustered bead ascidians](eudistoma)*Eudistoma* sp.
   
 *Location in italics
 indicates sightings shared by others.*  
@@ -436,17 +423,3 @@ bemban besar, terumbu bemban, terumbu semakau, **rfl**: raffles lighthouse, **lf
 live firing area (Salu, Sudong, Pawai, Senang, Biola and submerged
 reefs in the area)
   
-[About
-citing](../about.htm) this checklist.
-
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

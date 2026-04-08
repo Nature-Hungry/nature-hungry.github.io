@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "jellyfish, jelly, fish, jellies, chrysaora, scyphozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 jellyfish [text
-index](../../cnidariaindex.htm#jellyfish) | [photo index](../../jellyfishfi.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-| [jellyfish](jellyfish.htm) | Class Scyphozoa > Order
+index](../../cnidariaindex#jellyfish) | [photo index](../../jellyfishfi)
+Phylum [Cnidaria](../../cnidaria)
+| [jellyfish](jellyfish) | Class Scyphozoa > Order
 Semaeostomeae
 **Ribbon
 jellyfish  
@@ -108,15 +108,15 @@ Apr 10*Photo shared by Toh Chay Hoon on [flickr](https://www.flickr.com/photos/i
 
 ![](ribbon/150620kuslks.JPG)  
 *Kusu Island,
-Jun 15*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2015/06/back-to-terumbu-bemban-reef-of-fish-trap.html).
+Jun 15*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2015/06/back-to-terumbu-bemban-reef-of-fish-trapl).
 
 ![](ribbon/100515sjilks.JPG)  
 *St John's Island,
-May 10*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2010/05/brittle-star-hitching-ride-on-jellyfish.html).
+May 10*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2010/05/brittle-star-hitching-ride-on-jellyfishl).
 
 *![](ribbon/090412hnttch02m3.jpg)  
 Pulau Hantu, Apr 09*Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2009/04/partially-wet-pulau-hantu.html).
+blog](http://colorclouds.blogspot.com/2009/04/partially-wet-pulau-hantul).
 
 ---
 
@@ -170,9 +170,9 @@ this jellyfish.
   Scyphozoan website](http://thescyphozoan.ucmerced.edu/) by Dr Michael N Dawson: lots of info about
   jellyfishes in Class Scyphozoa.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

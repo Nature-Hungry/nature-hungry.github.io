@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "banded, ring, leg, legged, swimming, crab, charybdis, annulata, portunidae, decapod, crustrace, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> Brachyurans > Family [Portunidae](portunidae.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> Brachyurans > Family [Portunidae](portunidae)
 **Banded-leg
 swimming crab**  
 ***Charybdis
@@ -76,7 +76,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ![](annulata/090820ecplkh1m3.jpg) *East Coast, Aug 09*Photo
 shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/08/new-east-coast-shore-new-surprises.html).
+blog](http://wondercreation.blogspot.com/2009/08/new-east-coast-shore-new-surprisesl).
 
 ![](annulata/120802chglks.JPG) *Changi, Aug 12*Photo
 shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8502457759/in/album-72157607622389163/).
@@ -117,9 +117,9 @@ for confirmation of ID. 
   Science, Nanyang Technological University & Department of Zoology,
   the National University of Singapore. 160 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

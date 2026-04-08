@@ -4,26 +4,11 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 plants
-[text index](plantindex.htm) | [photo
-index](plantfi.htm)
+[text index](plantindex) | [photo
+index](plantfi)
 
-[mangroves](mangrove/mangroves.htm)
+[mangroves](mangrove/mangroves)
 **Photo
 index of seashore trees on Singapore shores**  
 **trees
@@ -38,7 +23,7 @@ on the seashore near the high water mark
 ![](coastal/pouteria/linggensis/070422cjg8978m.jpg)  
   
 ![](coastal/pouteria/linggensis/011106cjd395ma.jpg)  
-[Nyatoh](coastal/pouteria/linggensis.htm)*Pouteria liggensis*
+[Nyatoh](coastal/pouteria/linggensis)*Pouteria liggensis*
 
 ![](coastal/knema/globularia/040208cjd0011m.jpg)  
   
@@ -46,7 +31,7 @@ on the seashore near the high water mark
   
 ![](coastal/knema/globularia/040208cjd0013m.jpg)  
 [Seashore
-nutmeg](coastal/knema/globularia.htm)   
+nutmeg](coastal/knema/globularia)   
  *Knema globularia*
 
 ![](coastal/memecylon/edule/020601cjcpd0058m.jpg)  
@@ -55,7 +40,7 @@ nutmeg](coastal/knema/globularia.htm)
   
 ![](coastal/memecylon/edule/041031cjd7942m.jpg)  
 [Delek
-air](coastal/memecylon/edule.htm)   
+air](coastal/memecylon/edule)   
  *Memecylon edule*
 
 ![](coastal/adinandra/dumosa/090401sntd8846mb.jpg)  
@@ -63,7 +48,7 @@ air](coastal/memecylon/edule.htm)
 ![](coastal/adinandra/dumosa/090418admd0213m.jpg)  
   
 ![](coastal/adinandra/dumosa/090401sntd8849m.jpg)  
-[Tiup-tiup](coastal/adinandra/dumosa.htm)   
+[Tiup-tiup](coastal/adinandra/dumosa)   
  *Adinandra dumosa*
 
 ![](coastal/pittosporaceae/ferrugineum/110220lazd6171mb.jpg)  
@@ -80,7 +65,7 @@ air](coastal/memecylon/edule.htm)
   
   
 [Belalang
-puak](coastal/pittosporaceae/ferrugineum.htm)   
+puak](coastal/pittosporaceae/ferrugineum)   
  *Pittosporum ferrugineum*
 
 Tree
@@ -111,14 +96,14 @@ of pulpy seeds. Uncommon
   
 ![](coastal/melaleuca/cajuputi/090906prpd0493ma.jpg)  
   
-![](coastal/melaleuca/cajuputi/090906prpd0362mb.jpg)[Gelam](coastal/melaleuca/cajuputi.htm)  
+![](coastal/melaleuca/cajuputi/090906prpd0362mb.jpg)[Gelam](coastal/melaleuca/cajuputi)  
  *Melaleuca cajuputi*
 
 ![](coastal/fagraea/fragrans/090410ubnd9403m.jpg)  
   
 ![](coastal/fagraea/fragrans/090410ubnd9408m.jpg)  
   
-![](coastal/fagraea/fragrans/090906prpd0368ma.jpg)[Tembusu](coastal/fagraea/fragrans.htm)  
+![](coastal/fagraea/fragrans/090906prpd0368ma.jpg)[Tembusu](coastal/fagraea/fragrans)  
  *Fagraea fragrans*
 
 ![](coastal/pouteria/obovata/090912chgbwd0597mb.jpg)  
@@ -126,21 +111,21 @@ of pulpy seeds. Uncommon
 ![](coastal/pouteria/obovata/090912chgbwd0597ma.jpg)  
   
 ![](coastal/pouteria/obovata/100420sntd1514m.jpg)  
-[Misi or Sea gutta](coastal/pouteria/obovata.htm)  
+[Misi or Sea gutta](coastal/pouteria/obovata)  
  *Pouteria obovata*
 
 ![](coastal/syzygium/grande/091005cjd2194m.jpg)  
   
 ![](coastal/syzygium/grande/091005cjd2194ma.jpg)  
   
-![](coastal/syzygium/grande/100314cjd9990mb.jpg) [Sea apple](coastal/syzygium/grande.htm)  
+![](coastal/syzygium/grande/100314cjd9990mb.jpg) [Sea apple](coastal/syzygium/grande)  
  *Syzygium grande*
 
 ![](coastal/syzygium/zeylanicum/110203sjid5610m.jpg)  
   
 ![](coastal/syzygium/zeylanicum/110203sjid5606mc.jpg)  
   
-![](coastal/syzygium/zeylanicum/110220lazd6180ma.jpg) [Kelat nasi nasi](coastal/syzygium/zeylanicum.htm)  
+![](coastal/syzygium/zeylanicum/110220lazd6180ma.jpg) [Kelat nasi nasi](coastal/syzygium/zeylanicum)  
  *Syzygium zeylanicum*
 
 Tree
@@ -182,47 +167,47 @@ index of
 plants on this site
 
 [all
-plants](plantfi.htm)  
+plants](plantfi)  
   
 **mangrove
 & seashore plants**   
-[creepers](shorefi1.htm)  
-[climbers, vines](shorefi2.htm)  
-[herbs](shorefi3.htm)  
-[ferns](shorefi7.htm)  
-[palms, pandans](shorefi4.htm)  
+[creepers](shorefi1)  
+[climbers, vines](shorefi2)  
+[herbs](shorefi3)  
+[ferns](shorefi7)  
+[palms, pandans](shorefi4)  
   
 **mangrove
 &** **seashore
   
 shrubs<2m**  
-[thick/leathery leaves](shorefi5a.htm)  
-[thin leaves](shorefi5b.htm)  
+[thick/leathery leaves](shorefi5a)  
+[thin leaves](shorefi5b)  
   
 **seashore
   
 trees>2m**   
 type of leaves  
 small simple  
-[large simple](shorefi6c.htm)  
-[compound, others](shorefi6d.htm)   
+[large simple](shorefi6c)  
+[compound, others](shorefi6d)   
   
 **mangrove
 trees**  
-small oval fruits and [pneumatophores](mangfi6a.htm)  
+small oval fruits and [pneumatophores](mangfi6a)  
   
 long cylindrical fruits  
-with [knee roots](mangfi6b.htm)  
-with [buttressed roots](mangfi6c.htm)  
-with [stilt roots](mangfi6d.htm)  
+with [knee roots](mangfi6b)  
+with [buttressed roots](mangfi6c)  
+with [stilt roots](mangfi6d)  
   
-[large round fruits](mangfi6f.htm)  
+[large round fruits](mangfi6f)  
   
-[others](mangfi7a.htm)
+[others](mangfi7a)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,27 +4,14 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "bristleworm, eurythoe, complanata, amphinomidae, polychaete, annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 worms
-[text index](../wormindex.htm) | [photo
-index](../wormfi.htm)
+[text index](../wormindex) | [photo
+index](../wormfi)
 
-[worms](../worm.htm) > Phylum Annelida >
-Class [Polychaeta](polychaeta.htm)
+[worms](../worm) > Phylum Annelida >
+Class [Polychaeta](polychaeta)
 
 **Reef
 bristleworms*****Eurythoe complanata\**Family Amphinomidae***updated
@@ -39,7 +26,7 @@ It is especially active at night, foraging busily among the rubble.
 During the day, the worms are often hidden under stones.  
   
 **What is a bristleworm?** It is a segmented
-worm belonging to the Class [Polychaeta](polychaeta.htm),
+worm belonging to the Class [Polychaeta](polychaeta),
 Phylum Annelida. The polychaetes include bristleworms, and Phylum
 Annelida includes the more familiar earthworm. Many members of the
 Family Amphinomidae are known as fireworms because of the burning
@@ -81,11 +68,11 @@ Mar 05*
 **What eats them?** Despite their fearsome bristles, crabs have been seen chomping happily on them.
 
 ![](../../crustacea/crab/portunidae/spinimana/250727smkwjk1.jpg)  
-[Swimming crab](../../crustacea/crab/portunidae/portunidae.htm) eating a Reef bristleworm  
+[Swimming crab](../../crustacea/crab/portunidae/portunidae) eating a Reef bristleworm  
 *Pulau Semakau (West), Jul 25*Photo shared by Jayden Kang on [facebok](https://www.facebook.com/jeidun/posts/30510372381944886?ref=embed_post).
 
 ![](reef/081017cyrtch.jpg)  
-[Common hairy crab](../../crustacea/crab/pilumnidae/pilumnus.htm) eating a Reef bristleworm. *Cyrene Reef, Oct 08*Photo
+[Common hairy crab](../../crustacea/crab/pilumnidae/pilumnus) eating a Reef bristleworm. *Cyrene Reef, Oct 08*Photo
 shared by Toh Chay Hoon on [flickr](https://www.flickr.com/photos/ilmare77/2947419594/).
 
   
@@ -119,7 +106,7 @@ shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/7364360838/)
 *![](reef/111030skdlks9m3.jpg)  
 Pulau Sekudu, Oct 11*Photo
 shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/10/slugs-galore-at-pulau-sekudu.html).
+blog](http://wondercreation.blogspot.com/2011/10/slugs-galore-at-pulau-sekudul).
 
 ---
 
@@ -139,7 +126,7 @@ Sentosa Tg Rimau, Jan 26*Photo shared by Rui Quan Oh on [facebook](https://www.f
 *![](reef/110220lazjk5m3.jpg)  
 Lazarus Island, Feb 11*Photo
 shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2011/02/110220-lazarus-and-seringat-kias.html)
+blog](http://sgn090608.blogspot.com/2011/02/110220-lazarus-and-seringat-kiasl)
 
 ![](reef/250811jngjk2.jpg)  
 *Pulau Jong, May 25*Photo shared byJayden Kang on [facebook](https://www.facebook.com/jeidun/posts/30713668508281938?ref=embed_post).
@@ -153,7 +140,7 @@ blog](http://sgn090608.blogspot.com/2011/02/110220-lazarus-and-seringat-kias.htm
 *Pulau Semakau,
 Nov 09*Photo
 shared by Geraldine Lee on [her
-blog](http://starryfinds.blogspot.com/2009/11/back-to-pulau-semakau.html).
+blog](http://starryfinds.blogspot.com/2009/11/back-to-pulau-semakaul).
 
 *![](reef/160208smksjll5.jpg)  
 Pulau Semakau South, Feb 16*Photo
@@ -189,9 +176,9 @@ and a tentative identification.
 **Links**
 
 - [*Eurythoe
-  complanata*](http://www.sealifebase.org/summary/Eurythoe-complanata.html)
+  complanata*](http://www.sealifebase.org/summary/Eurythoe-complanatal)
   in SeaLife Base: Technical fact sheet.
-- [Family Amphinomidae](http://lkcnhm.nus.edu.sg/polychaete/Amphinomidae.html) by Lim Yun Ping 1997-2000 [A
+- [Family Amphinomidae](http://lkcnhm.nus.edu.sg/polychaete/Amphinomidael) by Lim Yun Ping 1997-2000 [A
   Guide to Singapore Polychaetes](http://rmbr.nus.edu.sg/polychaete/).
 
 **References**
@@ -201,14 +188,4 @@ and a tentative identification.
   Creature Identification: Tropical Pacific* New World Publications.
   497pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

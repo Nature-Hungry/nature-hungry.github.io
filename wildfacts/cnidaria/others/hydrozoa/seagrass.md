@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "hydroid, hydrozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 hydroid [text
-index](../../cnidariaindex.htm#hydrozoa) | [photo index](../../hydrozoafi.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Hydrozoa](hydrozoa.htm)
+index](../../cnidariaindex#hydrozoa) | [photo index](../../hydrozoafi)
+Phylum [Cnidaria](../../cnidaria)
+> Class [Hydrozoa](hydrozoa)
 **Seagrass
 hydroid*****awaiting
 identification\*****updated
@@ -38,13 +38,13 @@ of seagrasses.
 Growing in rows on the leaf blades of seagrasses. Usually translucent beige or white.
 
 *![](seagrass/081213smkd3067m3.jpg)  
-Pulau Semakau, Dec 08![](seagrass/081213smkd3067m3a.jpg)*On [Tape seagrass](../../../plants/seagrass/enhalus.htm).
+Pulau Semakau, Dec 08![](seagrass/081213smkd3067m3a.jpg)*On [Tape seagrass](../../../plants/seagrass/enhalus).
 
 *![](seagrass/080208hntd9427m3.jpg)  
-Pulau Hantu, Feb 08![](seagrass/080208hntd9427m3a.jpg)*On [Tape seagrass](../../../plants/seagrass/enhalus.htm).
+Pulau Hantu, Feb 08![](seagrass/080208hntd9427m3a.jpg)*On [Tape seagrass](../../../plants/seagrass/enhalus).
 
 *![](seagrass/101011chgd2154m3.jpg)  
-Changi, Oct 10![](seagrass/101011chgd2154m3a.jpg)*On [Spoon seagrass](../../../plants/seagrass/ovalis.htm).
+Changi, Oct 10![](seagrass/101011chgd2154m3a.jpg)*On [Spoon seagrass](../../../plants/seagrass/ovalis).
 
 *\*Species are difficult
 to positively identify without close examination.  
@@ -62,9 +62,9 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
   download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/seagrass%2520hydroid/map?&fLat=1.2629&fLon=103.8661&zl=11&order_by=recent)
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

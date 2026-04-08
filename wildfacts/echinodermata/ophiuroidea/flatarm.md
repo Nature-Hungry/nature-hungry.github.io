@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "flat, arm, brittle, star, brittlestar, ophiuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 brittle
-stars [text index](../echinodermindex.htm#ophiuroidea)
-| [photo index](../ophuiroideafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class Stellaroida > Subclass [Ophiuroidea](ophiuroidea.htm)
+stars [text index](../echinodermindex#ophiuroidea)
+| [photo index](../ophuiroideafi)
+Phylum [Echinodermata](../echinodermata)
+> Class Stellaroida > Subclass [Ophiuroidea](ophiuroidea)
 **Flat-armed brittle star**  
 ***awaiting identification\*****updated
 Apr 2020*
@@ -105,7 +92,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](flatarm/240723chgeccn5.jpg)*Stuck on a [sand collar](../../mollusca/gastropoda/naticidae/sandcollar.htm). *Changi East (Lost Coast), Jul 24*Photo shared by Che Cheng Neo on [facebook](https://www.facebook.com/media/set/?set=a.10161269751293654).
+*![](flatarm/240723chgeccn5.jpg)*Stuck on a [sand collar](../../mollusca/gastropoda/naticidae/sandcollar). *Changi East (Lost Coast), Jul 24*Photo shared by Che Cheng Neo on [facebook](https://www.facebook.com/media/set/?set=a.10161269751293654).
 
 ![](flatarm/151001blyjt17m3.jpg)  
 *Berlayar Creek, Oct 15*  
@@ -118,14 +105,4 @@ Photo shared by Jonathan Tan on [facebook](https://www.facebook.com/a.tropical.p
 
 ![](flatarm/250726cyrjt7a.jpg)
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

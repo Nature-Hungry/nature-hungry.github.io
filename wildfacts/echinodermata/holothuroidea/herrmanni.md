@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "curryfish, cucumber, seacucumber, stichopus, herrmanni, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 sea
-cucumbers [text index](../echinodermindex.htm#holothuroidea)
-| [photo index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class [Holothuroidea](holothuroidea.htm)
+cucumbers [text index](../echinodermindex#holothuroidea)
+| [photo index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
+> Class [Holothuroidea](holothuroidea)
 **Herrmann's
 sea cucumber  
 *Stichopus herrmanni*Family Stichopodidae***updated
@@ -124,15 +111,15 @@ Photo by Yvonne Yeoh courtesy of Eric Leong.
   herrmanni* (Curryfish)](http://www.iucnredlist.org/details/180238/0) on the IUCN Red List: Techinal fact
   sheet.
 - [*Stichopus
-  herrmanni*](https://singapore.biodiversity.online/taxo4254/mainSpace/Stichopus%20hermanni.html) (Asphidochirotida: Stichopodidae) Hermann's Sea
+  herrmanni*](https://singapore.biodiversity.online/taxo4254/mainSpace/Stichopus%20hermannil) (Asphidochirotida: Stichopodidae) Hermann's Sea
   Cucumber by Carmon Kee, 2012 on taxo4254.
-- *Stichopus herrmanni* on [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00.htm), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
+- *Stichopus herrmanni* on [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
 - [Fisheries,
-  trade and utilization of sea cucumbers in Malaysia](http://www.fao.org/docrep/007/y5501e/y5501e0b.htm)
+  trade and utilization of sea cucumbers in Malaysia](http://www.fao.org/docrep/007/y5501e/y5501e0b)
   by Choo Poh-Sze WorldFish Center, Penang, Malaysia on the FAO
   website.
 - [Malaysia
-  lists 'gamat' sea cucumbers as endangered](http://wildshores.blogspot.com/2009/03/malaysia-lists-gamat-sea-cucumbers-as.html) on the wild shores
+  lists 'gamat' sea cucumbers as endangered](http://wildshores.blogspot.com/2009/03/malaysia-lists-gamat-sea-cucumbers-asl) on the wild shores
   of singapore blog with an article about the trade in gamat on
   Pulau Langkawi.
 
@@ -143,14 +130,4 @@ Photo by Yvonne Yeoh courtesy of Eric Leong.
   Guide to Sea Stars and Other Echinoderms of Singapore*.
   Singapore Science Centre. 187pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

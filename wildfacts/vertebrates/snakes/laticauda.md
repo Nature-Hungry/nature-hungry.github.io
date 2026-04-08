@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "sea, snake, krait, laticauda, colubrina, elapidae, hydrophiidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 snakes [text
-index](snakeindex.htm) | [photo index](snakeshorefi.htm)
+index](snakeindex) | [photo index](snakeshorefi)
 Phylum Chordata
 > Subphylum Vertebrata > Class Reptilia > [shore
-snakes](snakeshore.htm)
+snakes](snakeshore)
 **Yellow-lipped
 sea krait  
 *Laticauda colubrina*  
@@ -52,7 +39,7 @@ Head slightly distinct from the body, but no obvious 'neck'. Its tail
 is flattened sideways into a paddle-like shape and used like an oar
 to swim with. At first glance, the tail and the head of this snake
 look very similar. [A
-study suggests](http://wildshores.blogspot.com/2009/08/two-headed-yellow-lipped-sea-krait.html) this may help protect the snake from its predators.  
+study suggests](http://wildshores.blogspot.com/2009/08/two-headed-yellow-lipped-sea-kraitl) this may help protect the snake from its predators.  
   
 **Deadly
 beauty:** The snake
@@ -64,10 +51,10 @@ alone, although it is curious and may investigate you!
 **How to stay safe:** Wear covered shoes and long pants to cover all skin exposed
 to water. Don't harass, touch or pick up the snake.
   
-**Sometimes confused**  with the harmless [Banded file snake](granulatus.htm) (*Acrochordus granulatus*).
-Here's [how to tell apart banded snakes](cfseafile.htm) seen near the coast. It may also be confused with eels. Here's more
+**Sometimes confused**  with the harmless [Banded file snake](granulatus) (*Acrochordus granulatus*).
+Here's [how to tell apart banded snakes](cfseafile) seen near the coast. It may also be confused with eels. Here's more
 on [how to tell apart sea snakes,
-eels and eel-like animals](../../glossary/eelsnake.htm).   
+eels and eel-like animals](../../glossary/eelsnake).   
   
 **What does it eat?** It eats fishes
 and fish eggs. Eels are among their favourite prey. It has been seen
@@ -142,7 +129,7 @@ Kusu Island, Apr 17*Photos shared by Toh Chay Hoon on  [facebook](https://www.fa
 *![](laticauda/110204sislks1m6l.JPG)  
 Sisters Island, Feb 11*  
 Photo
-shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.com/2011/02/lunar-new-year-day-2-little-sisters.html).
+shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.com/2011/02/lunar-new-year-day-2-little-sistersl).
 
 ---
 
@@ -156,7 +143,7 @@ St. John's Island, Jun 24*Photos shared by Kelvin Yong on  [facebook](https://ww
 *![](laticauda/100601slujk.JPG)  
 Pulau Salu, Jun 10*Photo shared by James Koh on [flickr](https://www.flickr.com/photos/jameskoh/4658670583/).
 *![](laticauda/140617tblks1m3.JPG)  
-Terumbu Benban, Jun 14*Photos shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/06/coral-bleaching-check-at-terumbu-bemban.html).
+Terumbu Benban, Jun 14*Photos shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/06/coral-bleaching-check-at-terumbu-bembanl).
 
 ---
 
@@ -187,13 +174,13 @@ Sea Krait @ Semakau 06Nov2009](http://vimeo.com/7518707) from [BeachBum](http://
   Snakes](http://singaporesnakes.blogspot.com/) blog: fact sheet with photos and links to local sightings
   and other posts.
 - [Amphibious
-  Sea Snake](http://www.ecologyasia.com/verts/snakes/amphibious_sea_snake.htm) on Nick Baker's EcologyAsia website: fact sheet
+  Sea Snake](http://www.ecologyasia.com/verts/snakes/amphibious_sea_snake) on Nick Baker's EcologyAsia website: fact sheet
   with photos.
 - [*Laticauda
-  colubrina*](https://singapore.biodiversity.online/taxo4254/mainSpace/Laticauda%20colubrina.html#Laticauda%20colubrina) (Squamata: Hydrophiidae) Yellow-lipped Sea Krait
+  colubrina*](https://singapore.biodiversity.online/taxo4254/mainSpace/Laticauda%20colubrinal#Laticauda%20colubrina) (Squamata: Hydrophiidae) Yellow-lipped Sea Krait
   by Lui Chun Yih Gerald, 2011 on taxo4254.
 - [The
-  'two-headed' yellow-lipped sea snake](http://wildshores.blogspot.com/2009/08/two-headed-yellow-lipped-sea-krait.html) on the wild shores of
+  'two-headed' yellow-lipped sea snake](http://wildshores.blogspot.com/2009/08/two-headed-yellow-lipped-sea-kraitl) on the wild shores of
   singapore blog.
 
 **References**
@@ -222,14 +209,4 @@ Sea Krait @ Semakau 06Nov2009](http://vimeo.com/7518707) from [BeachBum](http://
   Guide to the Coral Reef Life of Singapore*. Singapore Science
   Centre. 128 pages.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

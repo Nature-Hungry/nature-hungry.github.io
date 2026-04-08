@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "face, banded, perisesarma, chiromantes, indiarum, eumolpe, crab, sesarmidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> Brachyurans > Family [Sesarmidae](sesarmidae.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> Brachyurans > Family [Sesarmidae](sesarmidae)
 **Face-banded
 sesarmine crab**  
 ***Perisesarma* sp.**   
@@ -111,16 +111,16 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Links**
 
 - [Sesarmine
-  crabs](http://mangrove.nus.edu.sg/guidebooks/text/2048.htm) Ng, Peter K. L. & N. Sivasothi, 1999. *[A
+  crabs](http://mangrove.nus.edu.sg/guidebooks/text/2048) Ng, Peter K. L. & N. Sivasothi, 1999. *[A
   Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
   Singapore Science Centre. 168 pp.
 - [Sesarmine
-  crabs (*Episesarma* and *Chiromantes*)](http://mangrove.nus.edu.sg/pub/seashore/text/198.htm) Tan, Leo
+  crabs (*Episesarma* and *Chiromantes*)](http://mangrove.nus.edu.sg/pub/seashore/text/198) Tan, Leo
   W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [*Perisesarma
-  eumolpe*](https://singapore.biodiversity.online/taxo4254/mainSpace/Perisesarma%20eumolpe.html) (Decapoda: Sesarmidae) Face-banded sesarmine crab
+  eumolpe*](https://singapore.biodiversity.online/taxo4254/mainSpace/Perisesarma%20eumolpel) (Decapoda: Sesarmidae) Face-banded sesarmine crab
   by Wong Jinfa, 2012 on taxo4254.
 - "Feeding
   ecology of two species of *Perisesarma* (Crustacea: Decapoda:
@@ -137,11 +137,11 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 - From the
   wild shores of singapore blog
   - [Fascinating
-    face-banded sesarmine crabs](http://wildshores.blogspot.com/2009/04/fascinating-face-banded-sesarmine-crabs.html)
+    face-banded sesarmine crabs](http://wildshores.blogspot.com/2009/04/fascinating-face-banded-sesarmine-crabsl)
   - [Wild
-    victory dance of crabs on our shores](http://wildshores.blogspot.com/2009/07/wild-victory-dance-of-crabs-on-our.html)
+    victory dance of crabs on our shores](http://wildshores.blogspot.com/2009/07/wild-victory-dance-of-crabs-on-ourl)
 - [When
-  crabs perform their victory dance](http://wildsingaporenews.blogspot.com/2009/07/when-crabs-perform-their-victory-dance.html)
+  crabs perform their victory dance](http://wildsingaporenews.blogspot.com/2009/07/when-crabs-perform-their-victory-dancel)
   Grace Chua, Straits Times 11 Jul 09.
 
 **References**
@@ -158,9 +158,9 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
   Science, Nanyang Technological University & Department of Zoology,
   the National University of Singapore. 160 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

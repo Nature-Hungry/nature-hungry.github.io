@@ -4,25 +4,12 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "purple, feather, star, featherstar, comatulida, crinoidea, crinoid, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 crinoids [text
-index](../echinodermindex.htm#crinoidea) | [photo index](../crinoideafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class Crinoidea > Order [Comatulida](crinoidea.htm)
+index](../echinodermindex#crinoidea) | [photo index](../crinoideafi)
+Phylum [Echinodermata](../echinodermata)
+> Class Crinoidea > Order [Comatulida](crinoidea)
 **10-armed
 feather star**  
 ***awaiting identification****updated
@@ -98,7 +85,7 @@ East Coast Park PCN, Jul 20*Photo shared by Vincent Choo on [facebook](https://w
 
 *![](purpurea/080507ecplks01m3.jpg)  
 East Coast, May 08**![](purpurea/080507ecplks02m3.jpg)*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2008/05/seafans-return-to-east-coast.html).
+blog](http://wondercreation.blogspot.com/2008/05/seafans-return-to-east-coastl).
 
 *![](purpurea/151225tsmklks.JPG)  
 Terumbu Semakau, May 12  
@@ -122,14 +109,14 @@ Pulau Semakau, Aug 11*
   
 shared by Neo Mei
 Lin on [her
-blog](http://psychedelic-nature.blogspot.com/2011/11/videos-echinoderms-on-our-shores.html)
+blog](http://psychedelic-nature.blogspot.com/2011/11/videos-echinoderms-on-our-shoresl)
 
 ---
 
 **Links**
 
 - [*Comatula
-  purpurea*](http://www.sealifebase.org/summary/Comatula-purpurea.html)
+  purpurea*](http://www.sealifebase.org/summary/Comatula-purpureal)
   on SeaLife Base: Technical fact sheet.
 
 **References**
@@ -139,14 +126,4 @@ blog](http://psychedelic-nature.blogspot.com/2011/11/videos-echinoderms-on-our-s
   Guide to Sea Stars and Other Echinoderms of Singapore*.
   Singapore Science Centre. 187pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

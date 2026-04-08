@@ -4,24 +4,9 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, tube, tubeworm, worm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 worms [text
-index](wormindex.htm) | [photo index](wormfi.htm)
-[worms](worm.htm)
+index](wormindex) | [photo index](wormfi)
+[worms](worm)
 in general
 **Photo
 index of tubeworms on Singapore shores**  
@@ -31,18 +16,18 @@ live in tubes**
 ---
 
 ![](polychaeta/diopatra/050310smkd1573m.jpg)  
-[Solitary tubeworm](polychaeta/diopatra.htm) *Diopatra* sp.
+[Solitary tubeworm](polychaeta/diopatra) *Diopatra* sp.
 
 **![](polychaeta/strawtube/020627chgd0515m.jpg)**  
-[Straw tubeworms](polychaeta/strawtube.htm)   
+[Straw tubeworms](polychaeta/strawtube)   
 Family Chaetopteridae
 
 **![](polychaeta/gregarious/060129skdg4109m.jpg)**  
-[Gregarious tubeworms](polychaeta/gregarious.htm)   
+[Gregarious tubeworms](polychaeta/gregarious)   
 *awaiting identification*
 
 **![](polychaeta/spionidae/110731tryd8034ma.jpg)**  
-[Spionid sponge worms](polychaeta/spionidae.htm)  
+[Spionid sponge worms](polychaeta/spionidae)  
 Family Spionidae
 
 Rubbery,
@@ -62,14 +47,14 @@ Tiny
 tube about 0.5cm long, beige in large numbers encrusting sponges.
 
 **![](phoronida/phoronida/031226chgd0056m.jpg)**  
-[Phoronid worm](phoronida/phoronida.htm)  Phylum Phoronida
+[Phoronid worm](phoronida/phoronida)  Phylum Phoronida
 
 ![](polychaeta/sabellidae/orange/060809skdd5505m.jpg)  
-[Fan worms](polychaeta/sabellidae.htm)  
+[Fan worms](polychaeta/sabellidae)  
 Family Sabellidae
 
 ![](polychaeta/serpulidae/050822cjg2064md.jpg)  
-[Keelworms](polychaeta/serpulidae.htm)Family Serpulidae
+[Keelworms](polychaeta/serpulidae)Family Serpulidae
 
  
 Fan
@@ -79,7 +64,7 @@ on some of our Northern shores.
 4-8cm.
 Feathery fan. Solitary. In a leathery tube in coral rubble, sometimes
 in living coral. Commonly seen on many of our shores. See also [photo
-index of feathery worms](sabellidaefi.htm).
+index of feathery worms](sabellidaefi).
  
 Under
 stones, hard tubes about 0.5cm in diameter and 5-8cm long. The tube
@@ -99,11 +84,11 @@ are NOT tubeworms**
 
 ![](../mollusca/gastropoda/vermetidae/vermetidae/050624tusd4222ma.jpg)  
 [Vermetid
-snails](../mollusca/gastropoda/vermetidae/vermetidae.htm)  Phylum Mollusca
+snails](../mollusca/gastropoda/vermetidae/vermetidae)  Phylum Mollusca
 
 ![](../cnidaria/others/ceriantharia/common/030927cjd0102m.jpg)  
 [Peacock
-anemones](../mollusca/gastropoda/vermetidae/vermetidae.htm)  Phylum Cnidaria
+anemones](../mollusca/gastropoda/vermetidae/vermetidae)  Phylum Cnidaria
 
  
  
@@ -123,9 +108,9 @@ They are cnidarians like corals and sea anemones. Common.
 how to tell apart
 
 - animals that live
-  in [hard tubes](../glossary/tubehard.htm)
+  in [hard tubes](../glossary/tubehard)
 - animals that live
-  in [soft tube](../glossary/tubesoft.htm)
+  in [soft tube](../glossary/tubesoft)
 
 [www.**flickr**.com](http://www.flickr.com)  
 
@@ -137,24 +122,24 @@ index of
 marine worms   
 on this site
 
-[all marine worms](wormfi.htm)  
+[all marine worms](wormfi)  
  **Typical worms**   
  
-[Smooth](wormfi1a.htm)
+[Smooth](wormfi1a)
   
-[Bristley](polychaetafi.htm)
+[Bristley](polychaetafi)
   
 **Tubeworms**
   
   
 **[Feathery
-worms](sabellidaefi.htm)**    
+worms](sabellidaefi)**    
   
-**[Flatworms](polycladidafi.htm)**
+**[Flatworms](polycladidafi)**
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

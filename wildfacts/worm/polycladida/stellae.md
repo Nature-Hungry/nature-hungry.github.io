@@ -4,28 +4,15 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "starry, flat, worm, flatworm, pseudobiceros, stellae, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 flatworms
-[text index](../wormindex.htm) | [photo
-index](../polycladidafi.htm)
+[text index](../wormindex) | [photo
+index](../polycladidafi)
 
-[worms](../worm.htm) > Phylum Platyhelminthes >
+[worms](../worm) > Phylum Platyhelminthes >
 Class
-Turbellaria > [Order Polycladida](polycladida.htm)
+Turbellaria > [Order Polycladida](polycladida)
 
 **Starry
 flatworm  
@@ -87,13 +74,13 @@ shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=101587
 Kusu Island,
 Sep 10*Photo
 shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2010/09/some-sightings-from-kusu-island.html).
+blog](http://colorclouds.blogspot.com/2010/09/some-sightings-from-kusu-islandl).
 
 ---
 
 *![](stellae/110702lzrlks3m3.jpg)*  
 *Seringat Kias, Jul 11*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/07/anemone-hunt-at-seringat-kias.html).
+blog](http://wondercreation.blogspot.com/2011/07/anemone-hunt-at-seringat-kiasl).
 
 *![](stellae/120818lazlks.JPG)*  
 *Seringat Kias, Aug 12*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8519796841/in/album-72157625976409015/).
@@ -106,7 +93,7 @@ blog](http://wondercreation.blogspot.com/2011/07/anemone-hunt-at-seringat-kias.h
 *![](stellae/120819cyrlks1m3.JPG)  
 Cyrene Reef,
 Aug 12*Photo
-shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2012/08/cyrene-reef-is-stunning-as-ever.html).
+shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2012/08/cyrene-reef-is-stunning-as-everl).
 
 *![](stellae/200918cyrlks1.jpg)  
 Cyrene Reef,
@@ -128,7 +115,7 @@ shared by Jianlin Liu on [facebook](https://www.facebook.com/media/set/?set=a.10
 
 ![](stellae/081211smklks01m3a.jpg)  
 *Pulau Semakau, Dec 08*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2008/12/exploring-southern-semakau.html).
+blog](http://wondercreation.blogspot.com/2008/12/exploring-southern-semakaul).
 
 ![](stellae/081211smklks02m3.jpg)  
 White underside with black margin.
@@ -137,7 +124,7 @@ White underside with black margin.
 
 ![](stellae/091108hntlks1m6l.jpg)  
 *Pulau Hantu, Nov 09*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/11/getting-high-at-hantu.html)
+blog](http://wondercreation.blogspot.com/2009/11/getting-high-at-hantul)
 
 ---
 
@@ -158,14 +145,4 @@ Grateful thanks to Rene Ong for sharing details and identifying the flatworms on
   Flatworms: The World of Polyclads*.
   CSIRO Publishing. 97pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

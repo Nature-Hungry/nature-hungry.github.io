@@ -4,30 +4,30 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "painted, sea, pen, seapen, porcelain, crab, porcellanella, picta, triloba, porcellanidae, anomura, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../../wildfactsheet3.gif)](../../../../index.html)
+[![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../../index.html)  
+[wildfactsheets homepage](../../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../../animals.htm)
-| [all plants](../../../../plants.htm)
-| [concepts](../../../../concepts/index.html)
-| [glossary](../../../../glossary/index.html)
-| [search](../../../../search.htm)
+[all animals](../../../../animals)
+| [all plants](../../../../plants)
+| [concepts](../../../../concepts/indexl)
+| [glossary](../../../../glossary/indexl)
+| [search](../../../../search)
 
 porcelain crabs
-[text index](../../../crustaceaindex.htm#anomurans) | [photo
-index](../../../crabfi1b.htm)
-Phylum [Arthropoda](../../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../../crustacea.htm) >
-Class Malacostraca > Order [Decapoda](../../../decapoda.htm)
+[text index](../../../crustaceaindex#anomurans) | [photo
+index](../../../crabfi1b)
+Phylum [Arthropoda](../../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../../crustacea) >
+Class Malacostraca > Order [Decapoda](../../../decapoda)
 > Anomurans
 > Family
-[Porcellanidae](porcellanidae.htm)
+[Porcellanidae](porcellanidae)
 **Painted
 porcelain crab**   
 ***Porcellanella
@@ -40,7 +40,7 @@ Dec 2019*
 **Where
 seen?** This polka-dotted porcelain crab is often seen in
 pairs in [sea
-pens](../../../../cnidaria/others/pennatulacea/pennatulacea.htm) that are commonly seen on our Northern shores. It was previously
+pens](../../../../cnidaria/others/pennatulacea/pennatulacea) that are commonly seen on our Northern shores. It was previously
 known as *Porcellanella picta*.  
   
 **Features:** Body width 1cm or less.
@@ -49,8 +49,8 @@ on the pincers and upper body. The pincers are not much bigger and
 may be smaller than the body.  
   
 **Sea pen friend:** It is found on [Spiky
-sea pens](../../../../cnidaria/others/pennatulacea/spiky.htm) (*Pteroides* sp.). often a pair but sometimes many
-more. One was also seen in a [Sea pencil](../../../../cnidaria/others/pennatulacea/pencil.htm).  
+sea pens](../../../../cnidaria/others/pennatulacea/spiky) (*Pteroides* sp.). often a pair but sometimes many
+more. One was also seen in a [Sea pencil](../../../../cnidaria/others/pennatulacea/pencil).  
   
 **Status and threats:** This porcelain
 crab is listed as 'Vulnerable' on the Red List of threatened animals
@@ -63,11 +63,11 @@ of Singapore.
 Mouthparts *Changi, Jul 05*
 
 *![](../../../../cnidaria/others/pennatulacea/spiky/040716chgd2523m3.jpg)*In the [Spiky
-sea pen](../../../../cnidaria/others/pennatulacea/spiky.htm) *Changi, Jul 04*
+sea pen](../../../../cnidaria/others/pennatulacea/spiky) *Changi, Jul 04*
 
 ![](picta/050821bbg1897m3a.jpg)  
 In the [Slender
-sea pen](../../../../cnidaria/others/pennatulacea/virgularia.htm) *Beting Bronok, Aug 05*
+sea pen](../../../../cnidaria/others/pennatulacea/virgularia) *Beting Bronok, Aug 05*
 
 ---
 
@@ -119,7 +119,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 *Pulau Sekudu, Jul 15*Photo shared by Russel Low on [facebook](https://www.facebook.com/media/set/?set=a.960220700695989.1073741846.109257872458947&type=3).
 
 ![](picta/110426cjlks.JPG)  
-*Chek Jawa, Apr 11*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2011/05/chek-jawa-on-hot-scorching-morning.html).
+*Chek Jawa, Apr 11*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2011/05/chek-jawa-on-hot-scorching-morningl).
 
 ---
 
@@ -135,7 +135,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 *Coney Island, Nov 15*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/23520108524/in/album-72157662420076169/).
 
 ![](picta/090207tmlks.JPG)  
-*Tanah Merah, Feb 09*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2009/02/tanah-merah-surprises.html).
+*Tanah Merah, Feb 09*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2009/02/tanah-merah-surprisesl).
 
 ![](picta/121017tuslks.JPG)  
 *Tuas, Oct 12*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8262260441/in/album-72157618623639729/).
@@ -148,7 +148,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
   triloba*](http://crust.biota.biodiv.tw/pages/3980)
   on BiotaTaiwanica: fact sheet and photos.
 - [*Porcellanella
-  triloba*](http://www.sealifebase.fisheries.ubc.ca/summary/Porcellanella-triloba.html) on Sealife Base.
+  triloba*](http://www.sealifebase.fisheries.ubc.ca/summary/Porcellanella-trilobal) on Sealife Base.
 
 **References**
 
@@ -162,9 +162,9 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
   Red Data Book: Threatened plants and animals of Singapore*.
   Nature Society (Singapore). 285 pp.
 
-[links](../../../../links.htm)
-| [references](../../../../references.htm)
-| [about](../../../../about.htm)
+[links](../../../../links)
+| [references](../../../../references)
+| [about](../../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

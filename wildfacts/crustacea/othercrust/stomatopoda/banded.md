@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "mantis, shrimp, lysiosquilla, stomatopod, stomatopoda, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 mantis shrimps
-[text index](../../crustaceaindex.htm#stomatopoda) | [photo
-index](../../shrimpfi2.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Stomatopoda](stomatopoda.htm)
+[text index](../../crustaceaindex#stomatopoda) | [photo
+index](../../shrimpfi2)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Stomatopoda](stomatopoda)
 **Banded
 mantis shrimp*****Lysiosquilla* sp.**  
 **Family Lysiosquillidae***updated
@@ -86,7 +86,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 *![](banded/090529chgjkm6.jpg)  
 Changi, May 09*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/05/090529-banded-stomatopod-at-changi.html).
+blog](http://sgn090608.blogspot.com/2010/05/090529-banded-stomatopod-at-changil).
 
 *![](banded/090529chgjkm3.jpg)  
 Changi, May 10*
@@ -95,7 +95,7 @@ Changi, May 10*
 
 *![](banded/120722cyrlks.JPG)  
 Cyrene, Jul 12*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2012/08/ss-of-cyrene-reef-slugs-stars-and-sharks.html).
+blog](http://wondercreation.blogspot.sg/2012/08/ss-of-cyrene-reef-slugs-stars-and-sharksl).
 
 *![](banded/240410cyrky2.jpg)  
 Cyrene, Apr 24*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=10169356964715112&set=a.10169356961615112).
@@ -127,9 +127,9 @@ of this animal.
   exclusive of the vertebrates*
   Sea Challengers. 314pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

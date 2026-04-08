@@ -4,22 +4,7 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "threatened, endangered, vulnerable, critically, red, list, data, conservation, conserve, protect, reef, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
-[index](index.html)
+[index](indexl)
 of concepts
 **Singapore
 Red List  
@@ -111,12 +96,12 @@ and no other evidence of decline or fragmentation.
 but more than 250 and there may or may not be any other evidence
 of decline, small range size or fragmentation.
 
-*![](../plants/seagrass/enhalus/041018sntg2128m3.jpg)*All our [seagrasses](../plants/seagrass/seagrass.htm) are on the Red List. *Sentosa, Aug 04*
+*![](../plants/seagrass/enhalus/041018sntg2128m3.jpg)*All our [seagrasses](../plants/seagrass/seagrass) are on the Red List. *Sentosa, Aug 04*
 *![](../arthropoda/limulidae/tachypleus/050527srbg6987m3.jpg)*The ancient [Coastal
-horseshoe crab](../arthropoda/limulidae/tachypleus.htm). *Pulau Sarimbun, May 05*
+horseshoe crab](../arthropoda/limulidae/tachypleus). *Pulau Sarimbun, May 05*
 *![](../echinodermata/asteroidea/protoreaster/050623cjd4122m3.jpg)*  
 The attractive [Knobbly
-sea star](../echinodermata/asteroidea/protoreaster.htm). *Chek Jawa, Jun 05*
+sea star](../echinodermata/asteroidea/protoreaster). *Chek Jawa, Jun 05*
 **Why do we still commonly encounter some plants and animals on the
 Red List? Aren't they all supposed to be extinct?**  
   
@@ -135,10 +120,10 @@ and animals found in such natural habitats may be common elsewhere,
 in Singapore, these are under threat of disappearing when their
 natural habitats are lost.
 *![](../mollusca/bivalvia/tridacnidae/squamosa/060811rlhd5906m3.jpg)*The amazing [Giant
-clam](../mollusca/bivalvia/tridacnidae/tridacnidae.htm). *Raffles Lighthouse, Aug 06*
-*![](../vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg)*[Anemonefishes](../vertebrates/fish/pomacentridae/amphiprion.htm). *Kusu Island, Jun 04*
+clam](../mollusca/bivalvia/tridacnidae/tridacnidae). *Raffles Lighthouse, Aug 06*
+*![](../vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg)*[Anemonefishes](../vertebrates/fish/pomacentridae/amphiprion). *Kusu Island, Jun 04*
 *![](../vertebrates/fish/syngnathidae/kuda/050511cftg6328m3.jpg)*  
-[Seahorses](../vertebrates/fish/syngnathidae/hippocampus.htm). *Changi, May 05*
+[Seahorses](../vertebrates/fish/syngnathidae/hippocampus). *Changi, May 05*
 **Why are some 'extinct' plants and animals
 suddenly found?**  
   
@@ -151,7 +136,7 @@ visit our shores and natural places.
 **Which animals on wild facts are on our
 Red List?**  
   
-Here's [links to lists and factsheets](../redlist.htm) of some of the plants and animals, currently only marine ones.
+Here's [links to lists and factsheets](../redlist) of some of the plants and animals, currently only marine ones.
 
 ---
 
@@ -163,9 +148,9 @@ Here's [links to lists and factsheets](../redlist.htm) of some of the plants and
 - From the
   wild shores of singapore blog.
   - [Red
-    List unscientific and frequently wrong?](http://wildshores.blogspot.com/2009/03/red-list-unscientific-and-frequently.html)
+    List unscientific and frequently wrong?](http://wildshores.blogspot.com/2009/03/red-list-unscientific-and-frequentlyl)
   - [In
-    defence of the Red List](http://wildshores.blogspot.com/2009/04/in-defence-of-red-list.html)
+    defence of the Red List](http://wildshores.blogspot.com/2009/04/in-defence-of-red-listl)
 
 **References**
 
@@ -174,9 +159,9 @@ Here's [links to lists and factsheets](../redlist.htm) of some of the plants and
   Red Data Book: Threatened plants and animals of Singapore*.
   Nature Society (Singapore). 285 pp.
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "barnacle, cirripedia, sessilia, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![talking points for nature guides](../../../../Templates/fornatureguides.gif)](../../fngbarnacles.htm)
+[![talking points for nature guides](../../../../Templates/fornatureguides.gif)](../../fngbarnacles)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 barnacles [text
-index](../../crustaceaindex.htm#cirripedia) | [photo index](../../cirripediafi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm)
+index](../../crustaceaindex#cirripedia) | [photo index](../../cirripediafi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea)
 **Barnacles**  
 **Class Cirripedia***updated Mar 2020*
 
@@ -47,10 +47,10 @@ to more colourful and attractive shore animals. But barnacles are
 fascinating in their own right! Barnacles will grow on any hard surface
 immersed in seawater, so they are found literally everywhere in the
 intertidal zone. Barnacles are found on rocks, mangrove trees, pillars,
-boats. Barnacles are even found on other animals such as [whales](http://www.biosbcc.net/ocean/marinesci/05nekton/GWsouth.htm) and sea snakes. There are often even barnacles on top of other barnacles!  
+boats. Barnacles are even found on other animals such as [whales](http://www.biosbcc.net/ocean/marinesci/05nekton/GWsouth) and sea snakes. There are often even barnacles on top of other barnacles!  
   
 **What are barnacles?** Barnacles
-are [crustaceans](../../crustacea.htm) like crabs and shrimps.
+are [crustaceans](../../crustacea) like crabs and shrimps.
 But they belong to a different group, their own Class Cirripedia.
 There are about 900 species of barnacles.  
   
@@ -65,11 +65,11 @@ centre of this 'shell'. At low tide, the opening is sealed by a door
 plates is a dead barnacle! Some barnacles species can be identified
 by the shape of the operculum plates and number of wall plates.   
   
-**Sometimes confused with** [limpets](../../../mollusca/gastropoda/limpets/limpet.htm) which are snails. Here's more on how to tell apart [shelled
-animals found on rocks.](../../../glossary/limpetbarnacle.htm)
+**Sometimes confused with** [limpets](../../../mollusca/gastropoda/limpets/limpet) which are snails. Here's more on how to tell apart [shelled
+animals found on rocks.](../../../glossary/limpetbarnacle)
 ![](050510tusg6173m3.jpg)  
 A variety of barnacles. *Tuas, May 05*
-*![](tetraclita/020425cjd8321m3.jpg)*The large [Volcano barnacle](tetraclita.htm) has   
+*![](tetraclita/020425cjd8321m3.jpg)*The large [Volcano barnacle](tetraclita) has   
 a honey-combed internal structure  *Chek Jawa, Apr 02*
 *![](tetraclita/050510tusg6179m3d.jpg)*A pair of plates form the operculum   
 that seals the shell opening. *Tuas, May 05*
@@ -92,7 +92,7 @@ many other marine creatures. Instead, they practice internal fertilisation.
 As these animals cannot move, this is achieved by having tremendously
 long male organs! Some have an organ that can reach another barnacle
 7 shells away! A study, however, has found that [longer
-isn't always better](http://wildshores.blogspot.com/2009/04/barnacle-penis-longer-isnt-always.html), for a 'male' barnacle.  
+isn't always better](http://wildshores.blogspot.com/2009/04/barnacle-penis-longer-isnt-alwaysl), for a 'male' barnacle.  
   
 In some species, a miniature male-only individual settles into the
 'shell' of a larger member of its species. Reduced to little more
@@ -113,8 +113,8 @@ When it finds the right place, it secretes a glue from special glands
 in its antennae to attach itself permanently. Barnacles tend to settle
 where others of their own species have already settled. For animated
 diagrams of the larval stages of a barnacle, see [Keith
-Davey's site](http://www.mesa.edu.au/friends/seashores/barnacles.html). Here are fascinating [photos
-of a barnacle larva](http://www.imagequest3d.com/catalogue/larvalforms/pages/a042_jpg.htm)  on [Image
+Davey's site](http://www.mesa.edu.au/friends/seashores/barnaclesl). Here are fascinating [photos
+of a barnacle larva](http://www.imagequest3d.com/catalogue/larvalforms/pages/a042_jpg)  on [Image
 Quest 3-D Marine Library](http://www.imagequest3d.com/catalogue/larvalforms/)  
   
 **Barnacle zonation:** An ideal spot
@@ -125,20 +125,20 @@ sun. There is competition among barnacle larvae for the best spots
 on a rock to settle down on. Each species of barnacle survives best
 in a spot where it does better than its competitors. As a result,
 different species of barnacles are found in [distinct
-zones](../../../concepts/zonation.htm) on a rock.
+zones](../../../concepts/zonation) on a rock.
 ![](others/120223sltd7372m6la.jpg)  
 Like other crustaceans, barnacles also moult!Is the long structure its penis?! *Seletar, Feb 12*
 *![](others/120223sltd7366m3.jpg)*
 **Strange
 barnacles:** Stalked or Goose barnacles are sometimes seen
 on our shores. These barnacles have a distinct stalk that connects
-the body to the hard surface. [*Lepas* sp.](lepas.htm) has white plates and clumps of this species often attached to floating
+the body to the hard surface. [*Lepas* sp.](lepas) has white plates and clumps of this species often attached to floating
 objections like boats or snail shells. Some barnacles [burrow
-into living corals](coral.htm), others may be found [in
-sponges](../../../porifera/chocolate.htm).  
+into living corals](coral), others may be found [in
+sponges](../../../porifera/chocolate).  
   
 Some barnacles have become parasites that live inside other animals.
-Parasitic barnacles such as [*Thompsonia* sp.](thompsonia.htm) grow through the body of the host crab like a root system.
+Parasitic barnacles such as [*Thompsonia* sp.](thompsonia) grow through the body of the host crab like a root system.
 The parasite does not kill the crab but it does affect the crab's
 reproductive system such that the crab becomes infertile. The parasitic
 barnacle eventually produces egg sacs that emerge through the crab's
@@ -146,8 +146,8 @@ joints.
   
 **Role in the habitat:** Despite their
 protective plates that are strongly glued down, barnacles are eaten
-by crabs, snails such as [drills](../../../mollusca/gastropoda/muricidae/muricidae.htm) and the [Spiral
-melongena snail](../../../mollusca/gastropoda/melogenidae/cochlidium.htm) and other predators. Dead barnacle shells provide
+by crabs, snails such as [drills](../../../mollusca/gastropoda/muricidae/muricidae) and the [Spiral
+melongena snail](../../../mollusca/gastropoda/melogenidae/cochlidium) and other predators. Dead barnacle shells provide
 hiding places for many small creatures. Sometimes you might see tiny
 mussels, small periwinkles and other animals hiding in the hollow
 shell of a dead barnacle.
@@ -185,23 +185,23 @@ barnacles on Singapore shores**
 
 ---
 
-***![](balanus/050510tusg6179m3a.jpg)*[Acorn barnacle](balanus.htm)**
+***![](balanus/050510tusg6179m3a.jpg)*[Acorn barnacle](balanus)**
 
-**![](euraphia/040502cjd0146m3.jpg)[Star barnacle](euraphia.htm)**
+**![](euraphia/040502cjd0146m3.jpg)[Star barnacle](euraphia)**
 
-***![](tetraclita/050510tusg6179m3c.jpg)*[Volcano barnacle](tetraclita.htm)**
+***![](tetraclita/050510tusg6179m3c.jpg)*[Volcano barnacle](tetraclita)**
 
-***![](lepas/040703sisd1824m3.jpg)* [Goose barnacle](lepas.htm)**
+***![](lepas/040703sisd1824m3.jpg)* [Goose barnacle](lepas)**
 
 ***![](parasitic/050622cftg8139m3b.jpg)*[Acorn barnacles  
-on a living crab](balanus.htm)**
+on a living crab](balanus)**
 
 ***![](parasitic/050206cjd0034m3.jpg)*Some barnacles are  
-[internal parasites](thompsonia.htm)!**
+[internal parasites](thompsonia)!**
 
-***![](coral/070618rlhg0562m3a.jpg)* [Coral barnacles](coral.htm)**
+***![](coral/070618rlhg0562m3a.jpg)* [Coral barnacles](coral)**
 
-***![](sponge/080519sisd3438m3b.jpg)* [Barnacles in a sponge](sponge.htm)**
+***![](sponge/080519sisd3438m3b.jpg)* [Barnacles in a sponge](sponge)**
 
 ---
 
@@ -227,12 +227,12 @@ Euacasta dofleini
   
 Eoatria quinquevittatus  
   
-[Membranobalanus longirostrum](sponge.htm)* (Sponge barnacle) *Striatobalanus amaryllis  
+[Membranobalanus longirostrum](sponge)* (Sponge barnacle) *Striatobalanus amaryllis  
 Striatobalanus tenuis*
 
  
 **[Family
-Balanidae](balanus.htm)** (Acorn barnacle)
+Balanidae](balanus)** (Acorn barnacle)
  
  *Amphibalanus amphitrite  
 Amphibalanus cirratus  
@@ -255,7 +255,7 @@ Megabalanus tintinnabulum*
 
  
 **[Family
-Chthamalidae](euraphia.htm)** (Star barnacle)
+Chthamalidae](euraphia)** (Star barnacle)
  
  *Caudoeuraphia caudata  
   
@@ -270,13 +270,13 @@ Chthamalus malayensis*
   
  
 **[Family
-Lepadidae](lepas.htm)** (Goose barnacle)
+Lepadidae](lepas)** (Goose barnacle)
  
 *Lepas* sp.
   
  
 **[Family
-Pyrgomatidae](coral.htm)** (Coral barnacle)
+Pyrgomatidae](coral)** (Coral barnacle)
  
 *Cantellius euspinulosum  
 Cantellius gregarius  
@@ -313,7 +313,7 @@ Octolasmis warwicki
 Octolasmis* sp. a *Octolasmis* sp. b *Octolasmis* sp. c
   
  
-**[Family Tetraclitidae](tetraclita.htm)** (Volcano barnacle)
+**[Family Tetraclitidae](tetraclita)** (Volcano barnacle)
  
 *Tetraclitella (Eotetraclitella) costata  
 Tetraclitella (Tetraclitella) divisa  
@@ -324,7 +324,7 @@ Tetraclita squamosa*
 **Family
 Thompsoniidae**
  
-*[Thompsonia](thompsonia.htm)* [sp.](thompsonia.htm) (Parasitic barnacle)  
+*[Thompsonia](thompsonia)* [sp.](thompsonia) (Parasitic barnacle)  
 \**Thompsonia dofleini=^Diplothylacus sinensis  
 \*Thompsonia littoralis  
 \*Thompsonia pilodiae=^Thylacoplethus pilodiae*
@@ -339,28 +339,28 @@ Sacculinidae**
 
 **Links**
 
-- [Barnacles](http://mangrove.nus.edu.sg/pub/seashore/text/219.htm),
+- [Barnacles](http://mangrove.nus.edu.sg/pub/seashore/text/219),
   [barnacles
-  on crabs (*Balanus, Octolasmis*)](http://mangrove.nus.edu.sg/pub/seashore/text/269.htm), [Parasitic
-  barnacles (*Thompsonia, Sacculina*)](http://mangrove.nus.edu.sg/pub/seashore/text/270.htm) Tan, Leo W. H. &
+  on crabs (*Balanus, Octolasmis*)](http://mangrove.nus.edu.sg/pub/seashore/text/269), [Parasitic
+  barnacles (*Thompsonia, Sacculina*)](http://mangrove.nus.edu.sg/pub/seashore/text/270) Tan, Leo W. H. &
   Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
-- [Barnacles](http://mangrove.nus.edu.sg/guidebooks/text/2123.htm)
+- [Barnacles](http://mangrove.nus.edu.sg/guidebooks/text/2123)
   Ng, Peter K. L. & N. Sivasothi, 1999. *[A
   Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
   Singapore Science Centre. 168 pp.
-- [Barnacles](http://www.mesa.edu.au/friends/seashores/barnacles.html)
+- [Barnacles](http://www.mesa.edu.au/friends/seashores/barnaclesl)
   on [Life
-  on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1.html) by Keith Davey on the Marine Education
+  on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1l) by Keith Davey on the Marine Education
   Society of Australia website: Fact sheet on barnacles with lots
   of animated diagrams of barnacles at all stages of their development
   and details on various species of barnacles found in Australia.
 - [Barnacle
-  penis: longer isn't always better](http://wildshores.blogspot.com/2009/04/barnacle-penis-longer-isnt-always.html) on the wild shores of singapore
+  penis: longer isn't always better](http://wildshores.blogspot.com/2009/04/barnacle-penis-longer-isnt-alwaysl) on the wild shores of singapore
   blog.
 - [Secrets
-  of barnacle glue revealed](http://wildshores.blogspot.com/2009/10/secrets-of-barnacle-glue-revealed.html) on the wild shores of singapore
+  of barnacle glue revealed](http://wildshores.blogspot.com/2009/10/secrets-of-barnacle-glue-revealedl) on the wild shores of singapore
   blog.
 
 **References**
@@ -387,9 +387,9 @@ Sacculinidae**
   S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
   Australian Waters*. Reed New Holland. 224 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

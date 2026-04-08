@@ -4,28 +4,15 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "blue, dotted, flat, worm, flatworm, pseudoceros, indicus, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 flatworms
-[text index](../wormindex.htm) | [photo
-index](../polycladidafi.htm)
+[text index](../wormindex) | [photo
+index](../polycladidafi)
 
-[worms](../worm.htm) > Phylum Platyhelminthes >
+[worms](../worm) > Phylum Platyhelminthes >
 Class
-Turbellaria > [Order Polycladida](polycladida.htm)
+Turbellaria > [Order Polycladida](polycladida)
 
 **Blue-dot margined
 flatworm  
@@ -61,16 +48,16 @@ Sometimes a faint central stripe is seen. This is the intestine that shows throu
   
 The worms have been observed enveloping spherical objects. Could they
 be eating the [Yellow clustered
-bead ascidians](../../ascidiacea/eudistoma.htm) (*Eudistoma* sp.) that grow on the rocks?
+bead ascidians](../../ascidiacea/eudistoma) (*Eudistoma* sp.) that grow on the rocks?
 They have also been seen on [Beige
-sheet ascidians](../../ascidiacea/beige.htm).
+sheet ascidians](../../ascidiacea/beige).
 
 *![](../../ascidiacea/beige/050822cjg2070m3.jpg)*Seen
-on [Beige ascidians](../../ascidiacea/beige.htm). *Chek Jawa, Aug 05*
+on [Beige ascidians](../../ascidiacea/beige). *Chek Jawa, Aug 05*
 
 ![](indicus/080619chgd5684m3.jpg)  
 Eating [Yellow clustered
-bead ascidians](../../ascidiacea/eudistoma.htm)? *Changi, Jun 08*
+bead ascidians](../../ascidiacea/eudistoma)? *Changi, Jun 08*
 
 ![](indicus/260217bsisjll4.jpg)  
 Pinkness from something it ate? *Big Sisters Island, Feb 26*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/media/set/?set=a.10162668128201295&type=3&ref=embed_post).
@@ -125,7 +112,7 @@ May 16*Photo shared by Ian Siah on [facebook](https://www.facebook.com/media/set
 
 ![](indicus/100528tkklks6m3.jpg)  
  *Pulau Tekukor, May 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/05/my-first-trip-to-pulau-tekukor.html).
+blog](http://wondercreation.blogspot.com/2010/05/my-first-trip-to-pulau-tekukorl).
 
 ![](indicus/210824tkkjll2.jpg)  
  *Pulau Tekukor, Aug 21*Photo shared by Jianlin LIu on [facebook](https://www.facebook.com/photo/?fbid=10158474204756295&set=a.10158474195066295)
@@ -137,10 +124,10 @@ blog](http://wondercreation.blogspot.com/2010/05/my-first-trip-to-pulau-tekukor.
 
 ![](indicus/090822sisnml3m3.JPG)  
 *Sisters Island, Aug 09*Photo shared by Neo Mei Lin on [her
-blog](http://psychedelic-nature.blogspot.com/2009/08/little-sisters-isnt-that-little.html).
+blog](http://psychedelic-nature.blogspot.com/2009/08/little-sisters-isnt-that-littlel).
 
 ![](indicus/170129slglks.JPG)  
-*Terumbu Selegie, Jan 17\**Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2017/01/cny-day-2-terumbu-selegi.html).
+*Terumbu Selegie, Jan 17\**Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2017/01/cny-day-2-terumbu-selegil).
 
 ---
 
@@ -160,13 +147,13 @@ blog](http://psychedelic-nature.blogspot.com/2009/08/little-sisters-isnt-that-li
 
 ![](indicus/100502trytch7m3.jpg)  
 *Terumbu Raya, May 10*Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2010/05/mollusca-day-terumbu-raya.html).
+blog](http://colorclouds.blogspot.com/2010/05/mollusca-day-terumbu-rayal).
 
 ---
 
 ![](indicus/111225tsmkjk2m3.jpg)  
 *Terumbu Semakau, Dec 11*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2011/12/terumbu-semakau.html).
+blog](http://sgn090608.blogspot.com/2011/12/terumbu-semakaul).
 
 ![](indicus/210402tmskjll5.jpg)  
 *Terumbu Semakau, Apr 21*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo/?fbid=10158178672051295&set=a.10158178663866295).
@@ -182,7 +169,7 @@ flickr](http://www.flickr.com/photos/koksheng/4539797465/in/datetaken/) .
 
 ![](indicus/100617tbtch1m6l.jpg)  
 *Terumbu Bemban, Jun 10*Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2010/06/patch-reef-hopping.html).
+blog](http://colorclouds.blogspot.com/2010/06/patch-reef-hoppingl).
 
 ---
 
@@ -208,14 +195,4 @@ Grateful thanks to Rene Ong for sharing details and identifying the flatworms on
   Flatworms: The World of Polyclads*.
   CSIRO Publishing. 97pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

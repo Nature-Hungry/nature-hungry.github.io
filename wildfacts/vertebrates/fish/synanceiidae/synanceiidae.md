@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "stonefish, stone, fish, synanceia, horrida, synanceiidae, scorpaenidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm)
+> Subphylum Vertebrata > [fishes](../fish)
 **Stonefishes  
 Family Synanceiidae***updated
 Oct 2020*
@@ -34,12 +34,12 @@ seen?** These gruesome looking fishes can sting painfully. **What are stonefishe
 According to [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=578):
 the family has 9 genera and 31 species. They are found in the Indo-Pacific
 oceans. They are sometimes classified as members of the [Family
-Scorpaenidae](../scorpaenidae/scorpaenidae.htm).  
+Scorpaenidae](../scorpaenidae/scorpaenidae).  
   
 **Features:** Stonefishes do look
 like stones!  
   
-The **[Hollow-cheek stonefish](horrida.htm)** (*Synanceia horrida*) is commonly encountered on the the intertidal.   
+The **[Hollow-cheek stonefish](horrida)** (*Synanceia horrida*) is commonly encountered on the the intertidal.   
   
 The **Reef stonefish** (*Synanceia verrucosa*) has yet to be encountered during our intertidal surveys. It has a deep
 depression between the eyes and doesn't have hollow 'cheeks'. It is
@@ -49,7 +49,7 @@ tide.
   
 **Sometimes mistaken for** scorpionfishes.
 Here's more on [how to tell apart fishes
-that look like stones](../cfstonefish.htm).
+that look like stones](../cfstonefish).
 
 ---
 
@@ -58,7 +58,7 @@ that look like stones](../cfstonefish.htm).
 ---
 
 ![](horrida/060312hntd0311m3.jpg)  
-[**Hollow-cheeked stonefish**](horrida.htm)
+[**Hollow-cheeked stonefish**](horrida)
 
 ![](others/120606chgmn.jpg)  
 Stargazer waspfish  
@@ -83,7 +83,7 @@ Inimicus didactylus
   
 Minous monodactylus  
   
-[Synanceia horrida](horrida.htm)* (Hollow-cheeked stonefish) *Synanceia verrucosa* (Reef stonefish)
+[Synanceia horrida](horrida)* (Hollow-cheeked stonefish) *Synanceia verrucosa* (Reef stonefish)
   
  
 **\*\*previously
@@ -100,12 +100,12 @@ uranoscopus=\*\*Trachicephalus uranoscopus* (Stargazer waspfish)
 **Links**  
 
 - [Hollow-cheek
-  Stonefish (*Synanceia horrida*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/256.htm) Lim, Kelvin K. P. & Jeffrey
+  Stonefish (*Synanceia horrida*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/256) Lim, Kelvin K. P. & Jeffrey
   K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
 - [Stonefish
-  (*Synanceia horrida*)](http://mangrove.nus.edu.sg/pub/seashore/text/231.htm) Tan, Leo W. H. & Ng, Peter K. L.,
+  (*Synanceia horrida*)](http://mangrove.nus.edu.sg/pub/seashore/text/231) Tan, Leo W. H. & Ng, Peter K. L.,
   1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
@@ -122,7 +122,7 @@ uranoscopus=\*\*Trachicephalus uranoscopus* (Stargazer waspfish)
   uranoscopus* (Stargazing stonefish)](http://www.fishbase.org/summary/59086) from [FishBase](http://www.fishbase.org/):
   Technical fact sheet.
 - [Reef
-  Stonefish (*Synanceia verrucosa*)](http://www.amonline.net.au/fishes/students/focus/sverruc.htm) on the [Australian
+  Stonefish (*Synanceia verrucosa*)](http://www.amonline.net.au/fishes/students/focus/sverruc) on the [Australian
   Museum Fish Site](http://www.amonline.net.au/fishes/fishfacts/) on the Australian Museum Online website:
   fact sheet with photos and video clips of these fishes on the
   move.
@@ -146,9 +146,9 @@ uranoscopus=\*\*Trachicephalus uranoscopus* (Stargazer waspfish)
   Reef Fishes of the World*
   Periplus Editions. 400pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

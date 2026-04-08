@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "seaweed, weed, green, enteromorpha, ulvaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
+[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 green
-seaweeds [text index](../seaweedindex.htm) | [photo
-index](../seaweedfi.htm)
+seaweeds [text index](../seaweedindex) | [photo
+index](../seaweedfi)
 
-[Seaweeds](../seaweed.htm)
-> Division [Chlorophyta](chlorophyta.htm)
+[Seaweeds](../seaweed)
+> Division [Chlorophyta](chlorophyta)
 **Turf
 green seaweeds  
 *Enteromorpha* sp.\*  
@@ -114,12 +114,12 @@ ovata*
 
 **Links**
 
-- [*Enteromorpha*](http://mangrove.nus.edu.sg/pub/seashore/text/103.htm)
+- [*Enteromorpha*](http://mangrove.nus.edu.sg/pub/seashore/text/103)
   Tan,
   Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
-- [*Enteromorpha*](http://www.mbari.org/staff/conn/botany/greens/Ram/index.htm)
+- [*Enteromorpha*](http://www.mbari.org/staff/conn/botany/greens/Ram/index)
   by Ram�n Bouchet Roullard on the Monterey Bay Aquarium Research
   Institute website: an excellent site with everything you could
   possibly want to know about *Enteromorpha* from morphology,
@@ -134,7 +134,7 @@ ovata*
 - Pham, M.
   N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [*A
   Checklist of the Algae of Singapore*](http://rmbr.nus.edu.sg/raffles_museum_pub/singapore_algae_checklist_second_edition.pdf), 2nd Edition. [Raffles
-  Museum of Biodiversity Research](http://rmbr.nus.edu.sg/raffles_museum_pub/raffles_museum_checklists.html), National University of Singapore,
+  Museum of Biodiversity Research](http://rmbr.nus.edu.sg/raffles_museum_pub/raffles_museum_checklistsl), National University of Singapore,
   Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB]
 - Lim, S.,
   P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
@@ -147,15 +147,15 @@ ovata*
   Centre. 128 pages.
 - Huisman,
   John M. 2000. *[Marine
-  Plants of Australia](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FMarine-Plants-Australia-John-Huisman%2Fdp%2F1876268336%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580260%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*
+  Plants of Australia](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FMarine-Plants-Australia-John-Huisman%2Fdp%2F1876268336%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580260%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*
   University of Western Australia Press. 300pp.
 - Calumpong,
   H. P. & Menez, E. G., 1997.*[Field
-  Guide to the Common Mangroves, Seagrasses and Algae of the Philippines](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FField-common-mangroves-seagrasses-Philippines%2Fdp%2F9715691978%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175577689%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1).
+  Guide to the Common Mangroves, Seagrasses and Algae of the Philippines](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FField-common-mangroves-seagrasses-Philippines%2Fdp%2F9715691978%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175577689%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1).
   Bookmark, Inc., the Philippines. 197 pp.
 - Trono, Gavino.
   C. Jr., 1997. *[Field
-  Guide and Atlas of the Seaweed Resources of the Philippines.](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FField-guide-seaweed-resources-Philippines%2Fdp%2F9715692524%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1176262450%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
+  Guide and Atlas of the Seaweed Resources of the Philippines.](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FField-guide-seaweed-resources-Philippines%2Fdp%2F9715692524%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1176262450%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
   Bookmark, Inc., the Philippines. 306 pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
@@ -165,9 +165,9 @@ FREE photos of
 seaweeds](http://www.flickr.com/photos/54527470@N00/sets/72157600032152343).  
 Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

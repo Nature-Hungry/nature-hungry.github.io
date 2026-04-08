@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "sea star, seastar, star, fish, starfish, pentaceraster, mammillatus, oreasteridae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 sea
-stars [text index](../echinodermindex.htm) | [photo
-index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class Stelleroida > Subclass [Asteroidea](asteroidea.htm)
+stars [text index](../echinodermindex) | [photo
+index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
+> Class Stelleroida > Subclass [Asteroidea](asteroidea)
 **Pentaceraster
 sea star  
 *Pentaceraster mammillatus*Family Oreasteridae***updated
@@ -97,13 +84,13 @@ by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=101611082745
 Cyrene Reef, May 11  
 ![](pentaceraster/110508cyrlks6m3.jpg)*Photo
 shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/05/lovely-surprises-from-cyrene-reef.html).
+blog](http://wondercreation.blogspot.com/2011/05/lovely-surprises-from-cyrene-reefl).
 
 *![](pentaceraster/100809cynml2m3.jpg)  
 Cyrene Reef, Aug 10  
 ![](pentaceraster/100809cynml2m3a.jpg)*Shared
 by Neo Mei Lin on [her
-blog](http://psychedelic-nature.blogspot.com/2010/08/zzz-trip-at-cyrene.html).
+blog](http://psychedelic-nature.blogspot.com/2010/08/zzz-trip-at-cyrenel).
 
 *![](pentaceraster/100501cyrd2206m3.jpg)*A
 small one about 9cm in diameter.  
@@ -115,29 +102,29 @@ Cyrene Reef, May 10*
 *![](pentaceraster/100713cyrtch1m3.jpg)  
 Cyrene Reef, Jul 10*Shared
 by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2010/07/predawn-trip-to-cyrene-reef-again.html).
+blog](http://colorclouds.blogspot.com/2010/07/predawn-trip-to-cyrene-reef-againl).
 
 *![](pentaceraster/100711cyrlks2m3.JPG)  
 Cyrene Reef, Jul 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/07/cyrene-in-dark.html).
+blog](http://wondercreation.blogspot.com/2010/07/cyrene-in-darkl).
 
 *![](pentaceraster/100626cyrlks2m3.JPG)*  
 *Cyrene Reef,
 Jun 10*Photo
 shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/06/starry-night-trip-to-cyrene.html).
+blog](http://wondercreation.blogspot.com/2010/06/starry-night-trip-to-cyrenel).
 
 ---
 
 *![](pentaceraster/090309cyrlks01m3.jpg)*  
 This star seems unwell. *Cyrene Reef, Mar 09*Shared
 by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/03/cyrene-never-fails-to-amaze.html).
+blog](http://wondercreation.blogspot.com/2009/03/cyrene-never-fails-to-amazel).
 
 *![](pentaceraster/160608cyrlks8.JPG)*  
  *Cyrene Reef, Jun 16*Shared
 by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2016/06/coral-bleaching-at-cyrene-reef.html).
+blog](http://wondercreation.blogspot.com/2016/06/coral-bleaching-at-cyrene-reefl).
 
 ---
 
@@ -149,26 +136,16 @@ blog](http://wondercreation.blogspot.com/2016/06/coral-bleaching-at-cyrene-reef.
 **Links**
 
 - [A
-  new star for Singapore: discovery of sea star](http://wildsingaporenews.blogspot.com/2008/05/new-star-for-singapore-discovery-of-sea.html)   
+  new star for Singapore: discovery of sea star](http://wildsingaporenews.blogspot.com/2008/05/new-star-for-singapore-discovery-of-seal)   
   Discovery of large five-rayed sea star adds to marine biodiversity
   here David J.W. Lane , Robin Ngiam & Ivan Tan, Straits Times
   3 May 08
 - [Pentaceraster
-  mammilatus](http://singaporefauna.blogspot.com/2008/06/pentaceraster-mammillatus.html) on the creatures big and small blog.
+  mammilatus](http://singaporefauna.blogspot.com/2008/06/pentaceraster-mammillatusl) on the creatures big and small blog.
 - [Super
-  star of the echinoderm hunt](http://naturescouter.blogspot.com/2008/04/super-star-of-echinoderm-hunt-part-ii.html) on the nature scouter blog.
+  star of the echinoderm hunt](http://naturescouter.blogspot.com/2008/04/super-star-of-echinoderm-hunt-part-iil) on the nature scouter blog.
 - [Stars
-  of Cyrene](http://wildfilms.blogspot.com/2008/04/stars-of-cyrene.html) about the discovery of the star on the wildfilms
+  of Cyrene](http://wildfilms.blogspot.com/2008/04/stars-of-cyrenel) about the discovery of the star on the wildfilms
   blog.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

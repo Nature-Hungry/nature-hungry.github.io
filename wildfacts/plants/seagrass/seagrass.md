@@ -4,31 +4,31 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "seagrass, hydrocharitaceae, potamogetonaceae, cymodoceaceae, grass, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
+[![](../../../wildfactsheet3.gif)](../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../index.html)  
+[wildfactsheets homepage](../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![](../../../Templates/fornatureguides.gif)](fngseagrass.htm)
+[![](../../../Templates/fornatureguides.gif)](fngseagrass)
 
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
+[all animals](../../animals)
+| [all plants](../../plants)
+| [concepts](../../concepts/indexl)
+| [glossary](../../glossary/indexl)
+| [search](../../search)
 
 seagrasses
-[text index](seagrassindex.htm) | [photo
-index](seagrassfi.htm)
+[text index](seagrassindex) | [photo
+index](seagrassfi)
 
-[ecosystems](../../concepts/ecosystems.htm)
-| [rocky](../../concepts/rocky.htm) | [sandy](../../concepts/sandy.htm)
-| seagrass | [coral rubble](../../concepts/rubble.htm)
-| [coral reef](../../cnidaria/coralhard/coralhard.htm)
+[ecosystems](../../concepts/ecosystems)
+| [rocky](../../concepts/rocky) | [sandy](../../concepts/sandy)
+| seagrass | [coral rubble](../../concepts/rubble)
+| [coral reef](../../cnidaria/coralhard/coralhard)
 **Seagrasses  
 Family Cymodoceaceae and Family Hydrocharitaceae***updated Dec 2019*
 
@@ -70,14 +70,14 @@ the roots. Seagrasses also have air canals in their leaves and rhizomes
 so they can 'breathe' while underwater.  
   
 **Sometimes confused with** [green
-seaweeds](../seaweed/chlorophyta/chlorophyta.htm). Unlike seagrasses, seaweeds lack veins, roots that absorb
+seaweeds](../seaweed/chlorophyta/chlorophyta). Unlike seagrasses, seaweeds lack veins, roots that absorb
 nutrients, and do not produce flowers or fruits. Here's more on [how
-to apart seagrasses and green seaweeds](../../glossary/seagrassweed.htm).
+to apart seagrasses and green seaweeds](../../glossary/seagrassweed).
 *![](ovalis/020714cjd3111m3a.jpg)*Seagrass
 leaves have veins. *Chek Jawa, Jul 02*
 *![](halodule/050822cjg2120m3c.jpg)*Seagrass have underground stems with roots *Chek Jawa, Aug 05*
 ![](spinulosa/050623cjd4106m3.jpg)  
-[Fern seagrass](spinulosa.htm) has a leaf made up  
+[Fern seagrass](spinulosa) has a leaf made up  
 of little leaflets *Chek Jawa, Jun 05*
 **Seagrass flowers:** Seagrass flowers
 are usually small and inconspicuous. Water plays a big role in pollination. One study of a temperate seagrass (not found in Singapore) suggest that they may be [pollinated by zooplankton and tiny bottom dwelling animals](http://wsa.seagrassonline.org/blog/archives/241).
@@ -98,10 +98,10 @@ but must be submerged most of the time.
 can rapidly regrow their leaves. However, if their underground stems
 are damaged, it takes them longer to recover. So please do not step
 on the seagrasses.
-*![](ovalis/050428cftg5289m3.jpg)*Flowering [Spoon seagrass](ovalis.htm)? *Changi, Apr 05*
-*![](enhalus/050310smkg3174m3.jpg)*Female flower of [Tape seagrass](enhalus.htm)  
+*![](ovalis/050428cftg5289m3.jpg)*Flowering [Spoon seagrass](ovalis)? *Changi, Apr 05*
+*![](enhalus/050310smkg3174m3.jpg)*Female flower of [Tape seagrass](enhalus)  
 with tiny male flowers in the centre. *Pulau Semakau, Mar 05*
-*![](thalassia/060228labg5266m3.jpg)*Flowers of the [Sickle seagrass](thalassia.htm) *Labrador, Mar 06* 
+*![](thalassia/060228labg5266m3.jpg)*Flowers of the [Sickle seagrass](thalassia) *Labrador, Mar 06* 
 **Role of seagrasses:** Seagrass meadows
 are a vital habitat that is often overlooked and loses out in media
 coverage to the more glamorous reefs.   
@@ -113,27 +113,27 @@ provide shelter for many animals that are not adapted for fast swimming
 fishes and animals that later move out into deeper waters and include
 commercially important fishes and sea creatures. Seagrass leaves also
 provide a place for animals to [lay
-their eggs](../../eggs/string.htm), and for [small animals to settle
-down](enhalus4.htm).
+their eggs](../../eggs/string), and for [small animals to settle
+down](enhalus4).
 
 ![](../../mollusca/slugs/anaspidae/seagrass/100711cyrd8201m3.jpg)  
 The tiny [seagrass
-sea hare](../../mollusca/slugs/anaspidae/seagrass.htm) is   
-sometimes seen on [Tape seagrass](enhalus.htm). *Cyrene Reef, Jul 10*
+sea hare](../../mollusca/slugs/anaspidae/seagrass) is   
+sometimes seen on [Tape seagrass](enhalus). *Cyrene Reef, Jul 10*
 
 *![](enhalus/080208hntd9427m3a.jpg)*  
 Small animals
-settle on [Tape seagrass](enhalus.htm). *Pulau Hantu, Feb 08*
+settle on [Tape seagrass](enhalus). *Pulau Hantu, Feb 08*
 
 ![](../../eggs/eggs/080722cyrd8262m3.jpg)  
 Eggs laid on
-[Tape seagrass](enhalus.htm).
+[Tape seagrass](enhalus).
  *Cyrene Reef, Jul 08*
 
 The [Star
-Trackers](http://startrackers.blogspot.com/2008/05/cyrene-reef-important-habitat-for.html) have noted that the seagrass meadows on Cyrene Reef are
+Trackers](http://startrackers.blogspot.com/2008/05/cyrene-reef-important-habitat-forl) have noted that the seagrass meadows on Cyrene Reef are
 important and possibly the only habitat left in Singapore where baby [Knobbly
-sea stars](../../echinodermata/asteroidea/protoreaster.htm) (*Protoreaster nodosus*) can be found in large
+sea stars](../../echinodermata/asteroidea/protoreaster) (*Protoreaster nodosus*) can be found in large
 numbers.   
   
 The underground stems and roots of seagrasses form a mat which stabilises
@@ -144,8 +144,8 @@ In the stabilised ground, many burrowing creatures make their homes.
   
 Few animals can eat seagrasses, because few can digest the cellulose
 that makes up these plants. Among those that do feed on seagrasses
-are the [sea turtles](../../vertebrates/reptilia/seaturtle.htm) such as the Green turtle (*Chelonia mydas*) and Hawksbill turtle
-(*Eretmochelys imbricata*) as well as the [Dugong](../../vertebrates/mammals/dugong.htm) (*Dugong dugon*).
+are the [sea turtles](../../vertebrates/reptilia/seaturtle) such as the Green turtle (*Chelonia mydas*) and Hawksbill turtle
+(*Eretmochelys imbricata*) as well as the [Dugong](../../vertebrates/mammals/dugong) (*Dugong dugon*).
 *![](others/070120cjd7618m3.jpg)*A fresh dugong feeding trail! *Chek Jawa, Jan 07*
 *![](others/190523cyrm6l.jpg)*Dugong feeding trails *Cyrene Reef, May 19*
 However, seagrasses do provide food indirectly. Microscopic algae
@@ -162,7 +162,7 @@ reefs to develop nearby. The stabilised areas where seagrasses grow
 may eventually be colonised by mangroves.  
   
 According the [Seagrass-Watch
-site](http://www.seagrasswatch.org/seagrass.html), seagrass meadows are considered the third most valuable
+site](http://www.seagrasswatch.org/seagrassl), seagrass meadows are considered the third most valuable
 ecosystem globally. The average value of seagrasses for their nutrient
 cycling services and the raw product they provide has been estimated
 at US$ 19,004 per hectare per year (1994). This value would be significantly
@@ -172,7 +172,7 @@ greater if the other services of seagrasses were included.
 especially in the Philippines, seagrasses are used in all kinds of
 ways. They are woven into baskets, used to thatch roofs, stuffed into
 mattresses and used a fertiliser. A durable fibre useful for fishing
-nets is also made from the [Tape seagrass](enhalus.htm) (*Enhalus acoroides*). Modern rugs are also woven out of seagrasses.  
+nets is also made from the [Tape seagrass](enhalus) (*Enhalus acoroides*). Modern rugs are also woven out of seagrasses.  
   
 **Status and threats**: All our seagrasses
 are listed among the threatened plants of Singapore. Seagrasses are
@@ -205,13 +205,13 @@ well.
 carefully and avoid stepping on lush patches of seagrasses.  
   
 **Where can we explore seagrass meadows in
-Singapore?** [Labrador](http://www.wildsingapore.com/places/lp.htm) has the last large mainland seagrass meadows. There are also narrow
+Singapore?** [Labrador](http://www.wildsingapore.com/places/lp) has the last large mainland seagrass meadows. There are also narrow
 and patchy seagrass areas at Changi. Among our northern islands, there
 are vast seagrass meadows at [Chek
-Jawa](http://www.wildsingapore.com/places/cj.htm) on [Pulau
-Ubin](http://www.wildsingapore.com/ubin/index.html). While on our Southern islands, there are extensive seagrass
+Jawa](http://www.wildsingapore.com/places/cj) on [Pulau
+Ubin](http://www.wildsingapore.com/ubin/indexl). While on our Southern islands, there are extensive seagrass
 meadows at [Pulau
-Semakau](http://www.wildsingapore.com/places/semakau.htm) and some at [Sentosa](http://www.wildsingapore.com/places/sentosa.htm).
+Semakau](http://www.wildsingapore.com/places/semakau) and some at [Sentosa](http://www.wildsingapore.com/places/sentosa).
 
 ---
 
@@ -238,19 +238,19 @@ Singapore Red Data Book: Threatened plants and animals of Singapore*. *+*from NP
 Hydrocharitaceae** (marine species only)
  
 [*Enhalus
-acoroides*](enhalus.htm)*/Enhalus koenigii* (Tape seagrass)
+acoroides*](enhalus)*/Enhalus koenigii* (Tape seagrass)
 (VU: Vulnerable)  
   
-[*Halophila beccarii*](beccarii.htm)
+[*Halophila beccarii*](beccarii)
 (Becarri's seagrass) (CR: Critically Endangered)  
 +*Halophila decipiens* (Hairy spoon seagrass)  
-[*Halophila ovalis*](ovalis.htm)
+[*Halophila ovalis*](ovalis)
 and *Halophila minor* (Spoon
 seagrass) (VU: Vulnerable)  
-[*Halophila spinulosa*](spinulosa.htm)
+[*Halophila spinulosa*](spinulosa)
 (Fern seagrass) (CR: Critically Endangered)  
   
-[*Thalassia hemprichii*](thalassia.htm)
+[*Thalassia hemprichii*](thalassia)
 (Sickle seagrass) (CR: Critically Endangered)
   
  
@@ -258,12 +258,12 @@ seagrass) (VU: Vulnerable)
 Cymodoceaceae**
  
 *[Cymodocea
-rotundata](rotundata.htm)* (Smooth ribbon seagrass)(CR:
-Critically Endangered) *[Cymodocea serrulata](serrulata.htm)*(Serrated ribbon seagrass)(EN:
+rotundata](rotundata)* (Smooth ribbon seagrass)(CR:
+Critically Endangered) *[Cymodocea serrulata](serrulata)*(Serrated ribbon seagrass)(EN:
 Endangered) *[Halodule
-univervis](halodule.htm)* and *H. pinifolia*(Needle seagrass) (VU:
+univervis](halodule)* and *H. pinifolia*(Needle seagrass) (VU:
 Vulnerable) and (CR: Critically
-Endangered) *[Syringodium isoetifolium](syringodium.htm)* (Noodle seagrass) (EN:
+Endangered) *[Syringodium isoetifolium](syringodium)* (Noodle seagrass) (EN:
 Endangered)
 
 ---
@@ -279,30 +279,30 @@ Endangered)
   the [Seagrass
   Educators Handbook](http://www.seagrasswatch.org/Info_centre/education/Seagrass_Educators_Handbook.pdf) (pdf).
 - [Survey
-  of Seagrasses of Chek Jawa 2001](http://www.naturia.per.sg/cjsurvey/vegetative/index.html) preliminary findings
+  of Seagrasses of Chek Jawa 2001](http://www.naturia.per.sg/cjsurvey/vegetative/indexl) preliminary findings
 - [Fan
-  Seagrass (*Halophila*) and Tape Seagrass (*Enhalus*)](http://mangrove.nus.edu.sg/pub/seashore/text/108.htm)
+  Seagrass (*Halophila*) and Tape Seagrass (*Enhalus*)](http://mangrove.nus.edu.sg/pub/seashore/text/108)
   Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [Sentosa
-  Seagrass Transect 2006](http://www.wildsingapore.com/projects/survey/sentosa/index.html) on wildsingapore.
+  Seagrass Transect 2006](http://www.wildsingapore.com/projects/survey/sentosa/indexl) on wildsingapore.
 - From the
   wild shores of singapore blog
   - [Mangroves,
-    seagrasses 'lock up' carbon: IUCN report](http://wildshores.blogspot.com/2011/04/mangroves-seagrasses-lock-up-carbon.html)
+    seagrasses 'lock up' carbon: IUCN report](http://wildshores.blogspot.com/2011/04/mangroves-seagrasses-lock-up-carbonl)
   - [Bird
-    poop helps heal seagrass damage](http://wildshores.blogspot.com/2010/12/bird-poop-helps-heal-seagrass-damage.html)
+    poop helps heal seagrass damage](http://wildshores.blogspot.com/2010/12/bird-poop-helps-heal-seagrass-damagel)
   - [Seagrasses
-    critical for commercial fisheries](http://wildshores.blogspot.com/2009/03/seagrasses-critical-for-commercial.html)
+    critical for commercial fisheries](http://wildshores.blogspot.com/2009/03/seagrasses-critical-for-commerciall)
   - [How
-    much is seagrass worth?](http://wildshores.blogspot.com/2008/10/how-much-is-seagrass-worth.html)
+    much is seagrass worth?](http://wildshores.blogspot.com/2008/10/how-much-is-seagrass-worthl)
   - [Destruction
-    of seagrasses on par with loss of rainforests and coral reefs](http://wildshores.blogspot.com/2009/06/destruction-of-seagrass-on-par-with.html)
+    of seagrasses on par with loss of rainforests and coral reefs](http://wildshores.blogspot.com/2009/06/destruction-of-seagrass-on-par-withl)
   - [Animals
-    help pollinate and disperse seagrasses](http://wildshores.blogspot.sg/2012/12/animals-help-pollinate-and-disperse.html)
+    help pollinate and disperse seagrasses](http://wildshores.blogspot.sg/2012/12/animals-help-pollinate-and-dispersel)
 - Seagrass
-  media articles on [wildsingapore](http://www.wildsingapore.com/news/topics/seagrass.htm)
+  media articles on [wildsingapore](http://www.wildsingapore.com/news/topics/seagrass)
   and on the [wildsingapore
   news blog](http://wildsingaporenews.blogspot.com/search/label/seagrasses) and on the [teamseagrass
   blog](http://teamseagrass.blogspot.com/search/label/seagrass%20news).
@@ -353,14 +353,4 @@ Endangered)
 **You CAN make a difference for Singapore's
 seagrasses!**[![](../../../Templates/teamsg.jpg)](http://teamseagrass.blogspot.com/)
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

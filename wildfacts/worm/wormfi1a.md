@@ -4,24 +4,24 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, worms, enteropneusta, sipuncula, nemertea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../Templates/wildfactsheet3.gif)](../index.html)
+[![](../../Templates/wildfactsheet3.gif)](../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../index.html)  
+[wildfactsheets homepage](../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
+[all animals](../animals)
+| [all plants](../plants)
+| [concepts](../concepts/indexl)
+| [glossary](../glossary/indexl)
+| [search](../search)
 
 worms [text
-index](wormindex.htm) | [photo index](wormfi.htm)
-[worms](worm.htm)
+index](wormindex) | [photo index](wormfi)
+[worms](worm)
 in general
 **Photo
 index of marine worms on Singapore shores**  
@@ -31,18 +31,18 @@ shaped and smooth**
 ---
 
 ![](enteropneusta/enteropneusta/050402cjd2070ma.jpg)  
-[Acorn worm](enteropneusta/enteropneusta.htm) Phylum Hemichordata  
+[Acorn worm](enteropneusta/enteropneusta) Phylum Hemichordata  
 Class Enteropneusta
 
 ![](sipuncula/sipuncula/031122cjd0011m.jpg)  
-[Peanut worm](sipuncula/sipuncula.htm) Phylum Sipuncula
+[Peanut worm](sipuncula/sipuncula) Phylum Sipuncula
 
 ![](echiura/echiura/080801chgd8555m.jpg)  
-[Spoon worm](echiura/echiura.htm) Class Echiura  
+[Spoon worm](echiura/echiura) Class Echiura  
 Phylum Annelida
 
 ![](polychaeta/spaghetti/080801chgd8649m.jpg)  
-[Spaghetti worms](polychaeta/spaghetti.htm)  
+[Spaghetti worms](polychaeta/spaghetti)  
 Family Cirratulidae  
 Class Polychaeta
 
@@ -64,25 +64,25 @@ About
 Silty areas near seagrasses. Sometimes seen on our Northern shores.
 
 ![](nemertea/short/060531labd2669m.jpg)  
-[Short ribbon worm](nemertea/short.htm) *awaiting identification*  
+[Short ribbon worm](nemertea/short) *awaiting identification*  
 Phylum Nemertea
 
 ![](nemertea/redreef/060115sntg3977m.jpg)  
-[Red ribbon worm](nemertea/redreef.htm)  
+[Red ribbon worm](nemertea/redreef)  
 *awaiting identification*  
 Phylum Nemertea
 
 ![](nemertea/pink/050510tusg6052m.jpg)  
-[Pink ribbon worm](nemertea/pink.htm)  
+[Pink ribbon worm](nemertea/pink)  
 *awaiting identification*  
 Phylum Nemertea
 
 ![](nemertea/twotone/080603prpd4699mb.jpg)  
-[Two-toned ribbon worm](nemertea/twotone.htm) *awaiting identification*  
+[Two-toned ribbon worm](nemertea/twotone) *awaiting identification*  
 Phylum Nemertea
 
 ![](nemertea/verylong/050325sjid1973ma.jpg)  
-[Very long ribbon worm](nemertea/verylong.htm) *Baseodiscus delineatus*  
+[Very long ribbon worm](nemertea/verylong) *Baseodiscus delineatus*  
 Phylum Nemertea
 
 10-15cm.
@@ -110,15 +110,15 @@ are NOT worms**
 
 ![](../echinodermata/holothuroidea/synsponge/030717skdd0090m.jpg)  
 [Synaptid sea
-cucumbers](../echinodermata/holothuroidea/synaptid.htm) Family Synaptidae
+cucumbers](../echinodermata/holothuroidea/synaptid) Family Synaptidae
 
 ![](../mollusca/slugs/nudibranchia/ianthina/030521bbd0214m.jpg)  
-[Nudibranchs](../mollusca/slug.htm)   
+[Nudibranchs](../mollusca/slug)   
 and sea slugs
 
 ![](../vertebrates/fish/ophichthidae/wormeel/040817sntd4718m.jpg)  
 [Worm
-eel](../vertebrates/fish/ophichthidae/ophichthidae.htm)  Family Ophichthidae
+eel](../vertebrates/fish/ophichthidae/ophichthidae)  Family Ophichthidae
 
  
  
@@ -135,7 +135,7 @@ about 20cm long. These are fishes.
 ---
 
 how to tell apart [smooth
-worm-like animals](../glossary/wormy.htm)
+worm-like animals](../glossary/wormy)
 
 [www.**flickr**.com](http://www.flickr.com)  
 
@@ -147,24 +147,24 @@ index of
 marine worms   
 on this site
 
-[all marine worms](wormfi.htm)  
+[all marine worms](wormfi)  
  **Typical worms**   
  
 Smooth
   
-[Bristley](polychaetafi.htm)
+[Bristley](polychaetafi)
   
-[**Tubeworms**](tubewormfi.htm)
+[**Tubeworms**](tubewormfi)
   
   
 **[Feathery
-worms](sabellidaefi.htm)**    
+worms](sabellidaefi)**    
   
-**[Flatworms](polycladidafi.htm)**
+**[Flatworms](polycladidafi)**
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

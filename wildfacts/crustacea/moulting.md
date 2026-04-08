@@ -4,27 +4,10 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "moulting, moult, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[![talking points for nature guides](../../Templates/fornatureguides.gif)](fngcrabs.htm)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 crustacea [text
-index](crustaceaindex.htm) | [photo index](crustaceafi.htm)
-Phylum [Arthropoda](../arthropoda/arthropoda.htm)
-| Subphylum [Crustacea](crustacea.htm)
+index](crustaceaindex) | [photo index](crustaceafi)
+Phylum [Arthropoda](../arthropoda/arthropoda)
+| Subphylum [Crustacea](crustacea)
 **About
 moulting***updated
 Dec 2019*
@@ -44,11 +27,11 @@ are there so many 'dead' crabs?** You might come across what
 appears to be dead crabs strewn among the seagrass or on the sand
 bars. These are often not dead crabs but merely their discarded skins!   
   
-Like other [arthropods](../arthropoda/arthropoda.htm),
+Like other [arthropods](../arthropoda/arthropoda),
 crabs have a hard exoskeleton (external skeleton) and need to shed
 their exoskeleton in order to grow bigger. Called moulting, this also
 allows the crab to regenerate lost limbs. The description of moulting
-below generally also applies to other [crustaceans](crustacea.htm).  
+below generally also applies to other [crustaceans](crustacea).  
   
 **Double
 skinned:** The exoskeleton is produced by the tissue layer
@@ -78,7 +61,7 @@ with the moult (lower left). *Sentosa, Jul 04*
 ![](crab/crabnoid/050609cftg7545m3.jpg)  
 The moulted exoskeleton 'opened' up. *Changi, Jun 05*
 ![](othercrust/isopoda/ligia/200706skd.jpg)  
-[Sea slater](othercrust/isopoda/ligia.htm) just moulted.   
+[Sea slater](othercrust/isopoda/ligia) just moulted.   
 *Pulau Sekudu, Jul 20*
 **Happy moult day!** Moulting is an
 important milestone in the life of most arthropods including crustaceans
@@ -155,9 +138,9 @@ This is the crab in its new exoskeleton.
   Zoology*
   Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963.
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

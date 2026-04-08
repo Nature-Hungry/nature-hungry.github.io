@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "boxfish, box, fish, ostraciidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm)
+> Subphylum Vertebrata > [fishes](../fish)
 **Boxfishes**  
 **Family Ostraciidae***updated
 Sep 2020*
@@ -45,7 +45,7 @@ According to [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=446
 the family has 14 genera and 33 species found in the Atlantic, Indian
 and Pacific Oceans. Other similar fishes belong to different families
 include: pufferfishes which belong to [Family
-Tetraodontidae](../tetraodontidae/tetraodontidae.htm), and porcupinefishes which belong to [Family Diodontidae](../diodontidae/diodontidae.htm).  
+Tetraodontidae](../tetraodontidae/tetraodontidae), and porcupinefishes which belong to [Family Diodontidae](../diodontidae/diodontidae).  
  **Features:**  Adults of some species can reach 40-50cm. The
 boxfish is a slow moving fish that is hardly designed for fast swimming.
 However, if they are in a hurry, they can make a rapid dash. They
@@ -79,11 +79,11 @@ on Singapore shores**
 
 ---
 
-***![](cornuta/080606cyrd5195m3.jpg)*[Longhorned cowfish](cornuta.htm)** 
+***![](cornuta/080606cyrd5195m3.jpg)*[Longhorned cowfish](cornuta)** 
 **![](nasus/090625cyrd5620m3.jpg)  
-[Shortnosed boxfish](nasus.htm)**
+[Shortnosed boxfish](nasus)**
 **![](cubicus/070217skdg7635m3.jpg)  
-[Yellow boxfish](cubicus.htm)**
+[Yellow boxfish](cubicus)**
 
 ---
 
@@ -102,14 +102,14 @@ Common Marine Fishes of Singapore*.
 Ostraciidae**
  
 *[Lactoria
-cornuta](cornuta.htm)* (Longhorn cowfish) *[Ostracion cubicus](cubicus.htm)* (Yellow boxfish)*+Ostracion rhinorhynchos* (Shortsnout boxfish) *Ostracion tuberculatus=\*\*Ostracion cubicus* *Ostracion nasus=\*\*[Rhynchostracion nasus](nasus.htm)*(Shortnose boxfish)
+cornuta](cornuta)* (Longhorn cowfish) *[Ostracion cubicus](cubicus)* (Yellow boxfish)*+Ostracion rhinorhynchos* (Shortsnout boxfish) *Ostracion tuberculatus=\*\*Ostracion cubicus* *Ostracion nasus=\*\*[Rhynchostracion nasus](nasus)*(Shortnose boxfish)
 
 ---
 
 **Links**  
 
 - [Shortnose
-  boxfish (*Rhynchostracion nasus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/399.htm) Lim, Kelvin K. P. &
+  boxfish (*Rhynchostracion nasus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/399) Lim, Kelvin K. P. &
   Jeffrey K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
@@ -117,7 +117,7 @@ cornuta](cornuta.htm)* (Longhorn cowfish) *[Ostracion cubicus](cubicus.htm)* (Ye
   Ostraciidae (Boxfishes)](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=446) from [FishBase](http://www.fishbase.org/):
   Technical fact sheet on the family
 - [Yellow
-  Boxfish (*Ostracion cubicus*)](http://www.amonline.net.au/fishes/fishfacts/fish/ocubicus.htm) on the Australian Museum
+  Boxfish (*Ostracion cubicus*)](http://www.amonline.net.au/fishes/fishfacts/fish/ocubicus) on the Australian Museum
   Fish website: fact sheet and photos.
 
 **References**
@@ -140,9 +140,9 @@ cornuta](cornuta.htm)* (Longhorn cowfish) *[Ostracion cubicus](cubicus.htm)* (Ye
   Reef Fishes of the World*
   Periplus Editions. 400pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "caulerpa, sertularioides, mexicana, taxifolia, seaweed, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 green seaweeds [text
-index](../seaweedindex.htm) | [photo index](../seaweedfi.htm)
-[Seaweeds](../seaweed.htm)
-> Division [Chlorophyta](chlorophyta.htm)
+index](../seaweedindex) | [photo index](../seaweedfi)
+[Seaweeds](../seaweed)
+> Division [Chlorophyta](chlorophyta)
 **Feathery
 green seaweeds compared****How to tell them apart?**  
 *updated Apr 2020*
@@ -42,14 +42,14 @@ them apart.
 *![](scalpelliformis/050428cftg5309m3.jpg)*
 
 **[Taxifolia
-feathery green seaweed](taxifolia.htm)**  
+feathery green seaweed](taxifolia)**  
 *Caulerpa taxifolia*
 
 [**Mexican
-green seaweed**](mexicana.htm)  
+green seaweed**](mexicana)  
 *Caulerpa mexicana*
 
-**[Scalpel green seaweed](scalpelliformis.htm)** *Caulerpa scalpelliformis*
+**[Scalpel green seaweed](scalpelliformis)** *Caulerpa scalpelliformis*
 
 *![](taxifolia/041116labd8420m3a.jpg)*
 
@@ -93,13 +93,13 @@ to the mid-rib.
 ![](serrulata/050610sntg7630m3.jpg)
 
 **[Delicate
-feathery green seaweed](sertularioides.htm)** *Caulerpa sertularioides*
+feathery green seaweed](sertularioides)** *Caulerpa sertularioides*
 
-[**Zipper green seaweed**](cupressoides.htm)  
+[**Zipper green seaweed**](cupressoides)  
 *Caulerpa cupressoides*
 
 [**Serrated
-green seaweed**](serrulata.htm)  
+green seaweed**](serrulata)  
 *Caulerpa serrulata*
 
 *![](sertularioides/050621skdg7890m3a.jpg)*
@@ -141,14 +141,14 @@ are NOT seaweeds**
 
 *![](../../seagrass/spinulosa/070716chgd4197m3.jpg)*  
 [**Fern
-seagrass**](../../seagrass/spinulosa.htm)  
+seagrass**](../../seagrass/spinulosa)  
 *Halophila spinulosa*
 
 ![](../../seagrass/spinulosa/030928cjd0024m3a.jpg)
 
 ---
 
-how to tell apart [seagrasses and seaweeds](../../../glossary/seagrassweed.htm)
+how to tell apart [seagrasses and seaweeds](../../../glossary/seagrassweed)
 
 ---
 
@@ -163,9 +163,9 @@ how to tell apart [seagrasses and seaweeds](../../../glossary/seagrassweed.htm)
   website](http://www.phycology.ugent.be/): identification key and useful diagrams on how
   to tell apart similar *Caulerpa* species.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

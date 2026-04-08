@@ -7,7 +7,7 @@ layout: default
 
 # Acknowledgements
 
-The photos would not have been possible without FINDING the subjects in the first place. The keen eyes and extrasensory perception of a unique bunch of hunter-seekers made many of these finds possible. Among them are many members of the [wildfilms team](http://wildfilms.blogspot.com/), [beachfleas](http://www.wildsingapore.com/beachfleas/about.md), and [teamseagrass](http://teamseagrass.blogspot.com/).  
+The photos would not have been possible without FINDING the subjects in the first place. The keen eyes and extrasensory perception of a unique bunch of hunter-seekers made many of these finds possible. Among them are many members of the [wildfilms team](http://wildfilms.blogspot.com/), [beachfleas](http://www.wildsingapore.com/beachfleas/about), and [teamseagrass](http://teamseagrass.blogspot.com/).  
   
 It is not possible to list every person who found every special thing, but I would especially like to thank these intrepid hunters:
 
@@ -119,7 +119,7 @@ Others who made the trips possible include
   Huat of [Sentosa Development
   Corporation](http://www.sentosa.com.sg/) who always kindly supported our applications to
   visit the [shores
-  managed by Sentosa](http://www.sentosa.com.sg/explore_sentosa/nature/southern_islands.html).
+  managed by Sentosa](http://www.sentosa.com.sg/explore_sentosa/nature/southern_islandsl).
 - Ubin NParks
   who kindly support applications to visit Chek Jawa and Pulau Sekudu
   for documentation purposes.

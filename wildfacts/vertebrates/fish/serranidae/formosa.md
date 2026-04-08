@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "bluelined, blue, lined, hind, indian, grouper, fish, cephalopholis, formosa, serranidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm) >
-Family [Serranidae](serranidae.htm)
+> Subphylum Vertebrata > [fishes](../fish) >
+Family [Serranidae](serranidae)
 **Bluelined
 hind   
 *Cephalopholis formosa***  
@@ -104,7 +104,7 @@ Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng
 **Links**  
 
 - [Blue-lined
-  hind (*Cephalopholis formosa*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/267.htm) Lim, Kelvin
+  hind (*Cephalopholis formosa*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/267) Lim, Kelvin
   K. P. & Jeffrey K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
@@ -125,9 +125,9 @@ Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng
   Reef Fishes of the World![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*
   Periplus Editions. 400pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

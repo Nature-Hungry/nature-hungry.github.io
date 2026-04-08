@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "spot, tail, frog, angler, fish, frogfish, anglerfish, lophiocharon, trisignatus, antennariidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Antennariidae](antennariidae.htm)
+> Subphylum Vertebrate > [fishes](../fish) >
+Family [Antennariidae](antennariidae)
 **Spotted-tail
 frogfish  
 *Lophiocharon
@@ -59,7 +59,7 @@ on the inside of the mouth, perhaps this also lures prey to come closer?
   
 **Sometimes mistaken for** stonefish
 and scorpionfishes. Here's more on [how
-to tell apart fishes that look like stones](../cfstonefish.htm).
+to tell apart fishes that look like stones](../cfstonefish).
 
 ![](trisignatus/080619chgd5686m3.jpg)  
 *Changi, Jun 08*
@@ -142,7 +142,7 @@ Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo/?fbid=101
 
 ![](trisignatus/090918tmjk4m3.jpg)  
 *Tanah Merah, Sep 09*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/09/tanah-merah-thing-for-seahorses.html).
+blog](http://sgn090608.blogspot.com/2009/09/tanah-merah-thing-for-seahorsesl).
 
 ![](trisignatus/090918tmjk5m3.jpg)
 
@@ -198,7 +198,7 @@ Photo shared by Tammy Lim on [facebook](https://www.facebook.com/photo/?fbid=101
 
 ![](trisignatus/110122hntjk1m6.jpg)  
 *Pulau Hantu, Jan 11*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2011/01/110122-pulau-hantu.html).
+blog](http://sgn090608.blogspot.com/2011/01/110122-pulau-hantul).
 
 ![](trisignatus/220814thntjt1.jpg)  
 *Terumbu Hantu, Aug 22*  
@@ -215,7 +215,7 @@ Photo shared by Toh Chay Hoon on [flickr](https://www.flickr.com/photos/ilmare77
 ![](trisignatus/100711cyrjk4m3.jpg)  
 *Cyrene Reef, Sep 10*  
 Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/07/100711-cyrene-reef.html).
+blog](http://sgn090608.blogspot.com/2010/07/100711-cyrene-reefl).
 
 ---
 
@@ -242,7 +242,7 @@ Photo shared byJianlin LIu on [facebook](https://www.facebook.com/photo?fbid=101
 
 ![](trisignatus/110731trylks2m6l.jpg)  
  *Terumbu Raya, Jul 11*Photo shared by Lok Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/07/back-to-great-reef-terumbu-raya.html).
+blog](http://wondercreation.blogspot.com/2011/07/back-to-great-reef-terumbu-rayal).
 
 ![](trisignatus/150606trymn3m3.jpg)  
 *Terumbu Raya, Jun 15*  
@@ -269,7 +269,7 @@ Photo shared by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738
 **Links**  
 
 - [Spotted-tail
-  Frogfish (*Lophiocharon trisignatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/231.htm) Lim, Kelvin K.
+  Frogfish (*Lophiocharon trisignatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/231) Lim, Kelvin K.
   P. & Jeffrey K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
@@ -281,9 +281,9 @@ Photo shared by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738
 
 - Tan Heok Hui. 29 August 2014. *Egg brooding behaviour of the spot-tail frogfish, Lophiocharon trisignatus*. Singapore Biodiversity Records 2014; 237-238.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

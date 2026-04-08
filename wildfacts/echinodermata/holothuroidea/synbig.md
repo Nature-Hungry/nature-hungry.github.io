@@ -4,27 +4,14 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "synaptid, seacucumber, cucumber, synaptidae, apodida, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 sea
-cucumbers [text index](../echinodermindex.htm#holothuroidea)
-| [photo index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class [Holothuroidea](holothuroidea.htm) > Order
-Apodida > Family [Synaptidae](synaptid.htm)
+cucumbers [text index](../echinodermindex#holothuroidea)
+| [photo index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
+> Class [Holothuroidea](holothuroidea) > Order
+Apodida > Family [Synaptidae](synaptid)
 **Big
 synaptid sea cucumber  
 *awaiting identification\**  
@@ -46,9 +33,9 @@ and patterns: dark maroon, pink, mottled brown, white. They may be
 different species.  
   
 **Sometimes
-mistaken for** [worms](../../worm/worm.htm).
+mistaken for** [worms](../../worm/worm).
 Here's more on [how to tell
-apart worm-like animals](../../glossary/wormy.htm).
+apart worm-like animals](../../glossary/wormy).
 
 ![](synbig/071026cyrd7139m6l.jpg)  
 *Cyrene Reef, Oct 07*
@@ -103,11 +90,11 @@ Serapong, Jul 11*
 
 ![](synbig/090210lablks07m3.jpg)  
 *Labrador, Feb 09*Shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/02/to-see-labrador-for-myself.html).
+blog](http://wondercreation.blogspot.com/2009/02/to-see-labrador-for-myselfl).
 
 ![](synbig/090210lablks08m3.jpg)  
 *Labrador, Feb 09*Shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/02/to-see-labrador-for-myself.html).
+blog](http://wondercreation.blogspot.com/2009/02/to-see-labrador-for-myselfl).
 
 ---
 
@@ -163,14 +150,4 @@ Reef, Jul 08
 
 [![Big synaptid sea cucumber (Family Synaptidae)](https://live.staticflickr.com/4178/34606098116_4ba9e8f5c5_z.jpg)](https://www.flickr.com/photos/wildsingapore/34606098116/ "Big synaptid sea cucumber (Family Synaptidae)")
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

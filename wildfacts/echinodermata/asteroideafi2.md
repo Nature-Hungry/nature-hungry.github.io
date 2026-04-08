@@ -4,29 +4,12 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, sea star, seastar, starfish, star, fish, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[![talking points for nature guides](../../Templates/fornatureguides.gif)](fngasteroidea.htm)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 echinoderms
-[text index](echinodermindex.htm) | [photo
-index](echinodermatafi.htm)
+[text index](echinodermindex) | [photo
+index](echinodermatafi)
 
-Phylum [Echinodermata](echinodermata.htm) > Class Stellaroida
-> Order [Asteroidea](asteroidea/asteroidea.htm)
+Phylum [Echinodermata](echinodermata) > Class Stellaroida
+> Order [Asteroidea](asteroidea/asteroidea)
 **Photo
 index of sea stars on Singapore shores**   
 **large sea stars >10cm**
@@ -39,31 +22,31 @@ for diameter of sea star with arms*
 ![](asteroidea/goniodiscaster/070714bbd3901m.jpg)  
   
 ![](asteroidea/goniodiscaster/070714bbd3902m.jpg)  
-[Biscuit sea star](asteroidea/goniodiscaster.htm)  
+[Biscuit sea star](asteroidea/goniodiscaster)  
 *Goniodiscaster scaber*
 
 ![](asteroidea/gymnanthenea/030517cjd0161m.jpg)  
   
 ![](asteroidea/gymnanthenea/030517cjd0163m.jpg)  
-[Spiny sea star](asteroidea/gymnanthenea.htm)  
+[Spiny sea star](asteroidea/gymnanthenea)  
 *Gymnanthenea laevis*
 
 ![](asteroidea/anthenea/021206cjd6523m.jpg)  
   
 ![](asteroidea/anthenea/021206cjd6524m.jpg)  
-[Cake sea star](asteroidea/anthenea.htm)  
+[Cake sea star](asteroidea/anthenea)  
 *Anthenea aspera*
 
 ![](asteroidea/protoreaster/031225skdd0026m.jpg)  
   
 ![](asteroidea/protoreaster/040508skdbd0025m.jpg)  
-[Knobbly sea star](asteroidea/protoreaster.htm)  
+[Knobbly sea star](asteroidea/protoreaster)  
 *Protoreaster nodosus*
 
 ![](asteroidea/pentaceraster/080425cyrd1807m.jpg)  
   
 ![](asteroidea/pentaceraster/080425cyrd1808m.jpg)  
-[Pentaceraster sea star](asteroidea/pentaceraster.htm)  
+[Pentaceraster sea star](asteroidea/pentaceraster)  
 *Pentaceraster mammillatus*
 
 5-15cm.
@@ -92,23 +75,23 @@ triangular in crossection. Regular pattern of pale knobs. Seagrass
 and coral rubble. Seen on Cyrene Reef.
 
 ![](asteroidea/archaster/040215cjd0186m.jpg)  
-[Common sea star](asteroidea/archaster.htm)  
+[Common sea star](asteroidea/archaster)  
 *Archaster typicus*
 
 ![](asteroidea/luimaculata/060429skdg5789m.jpg)  
-[Eight-armed sand star](asteroidea/luimaculata.htm)  
+[Eight-armed sand star](asteroidea/luimaculata)  
 *Luidia maculata*
 
 ![](asteroidea/lhardwicki/080801chgd8657m.jpg)  
-[Luidia sand star](asteroidea/lhardwicki.htm)  
+[Luidia sand star](asteroidea/lhardwicki)  
 *Luidia* sp.
 
 ![](asteroidea/sandorange/130809smkd1087m.jpg)   
-[Orange sand star](asteroidea/sandorange.htm)  
+[Orange sand star](asteroidea/sandorange)  
 *Astropecten* sp.
 
 ![](asteroidea/culcita/060401ulrd0750m.jpg)   
-[Cushion star](asteroidea/culcita.htm)  
+[Cushion star](asteroidea/culcita)  
 *Culcita novaeguinea*
 
 12-15cm.
@@ -140,7 +123,7 @@ Sometimes seen on some of our Southern shores.
 ---
 
 how to tell apart [large
-sea stars](asteroidea/cfbigstars.htm)
+sea stars](asteroidea/cfbigstars)
   
   
   
@@ -151,39 +134,39 @@ echinoderms on this site
 
 **Phylum
 Echinodermata**[all
-echinoderms](echinodermatafi.htm)  **With arms**  
+echinoderms](echinodermatafi)  **With arms**  
  
 many,
 feathery  
-[feather stars](crinoideafi.htm)  
+[feather stars](crinoideafi)  
   
 five, bristley  
-[brittle stars](ophuiroideafi.htm)  
+[brittle stars](ophuiroideafi)  
   
 sea stars  
-[small](asteroideafi1.htm) <10cm  
+[small](asteroideafi1) <10cm  
 large >10cm
   
  **Hard**  
  
 flat,
 coin-like  
-[sand dollars](echinoideafi1.htm)  
+[sand dollars](echinoideafi1)  
   
 spherical, spiny  
 [sea urchins  
-heart urchins](echinoideafi2.htm) 
+heart urchins](echinoideafi2) 
  **Soft**  
  
 sea
 cucumbers   
-[short](holothuroideafi1.htm)
+[short](holothuroideafi1)
 <10cm  
-[long](holothuroideafi2.htm) >10cm
+[long](holothuroideafi2) >10cm
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

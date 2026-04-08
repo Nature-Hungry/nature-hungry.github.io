@@ -4,27 +4,14 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "red, ribbon, worm, ribbonworm, hoplonemertea, nemertine, nemertean, nemertines,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 worms
-[text index](../wormindex.htm) | [photo
-index](../wormfi.htm)
+[text index](../wormindex) | [photo
+index](../wormfi)
 
-[worms](../worm.htm)
-> Phylum [Nemertea](nemertea.htm)
+[worms](../worm)
+> Phylum [Nemertea](nemertea)
 **Pink
 ribbon worm** ***awaiting identification*\*  
 *updated
@@ -56,7 +43,7 @@ Dark or black head.
 ![](pink/120408sjilks8m3.jpg)  
 *St. John's
 Island , Apr 12*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2012/04/easter-sunday-at-st-johns-island.html).
+blog](http://wondercreation.blogspot.com/2012/04/easter-sunday-at-st-johns-islandl).
 
 ![](pink/050510tusg6052m3.jpg)  
 Sometimes seen
@@ -104,14 +91,4 @@ shared by Loh Kok Sheng on  [flickr](http://www.flickr.com/photos/koksheng/48893
 
   
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

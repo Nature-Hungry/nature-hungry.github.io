@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "orange, spotted, grouper, fish, epinephalus, coioides, serranidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm) >
-Family [Serranidae](serranidae.htm)
+> Subphylum Vertebrata > [fishes](../fish) >
+Family [Serranidae](serranidae)
 **Orange-spotted
 grouper  
 *Epinephelus coioides***  
@@ -88,12 +88,12 @@ Jun 12*Photo shared by Russel Low on [facebook](https://www.facebook.com/singapo
 **Links**  
 
 - [Orange-spotted
-  Grouper (*Epinephelus coioides*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/268.htm) Lim,
+  Grouper (*Epinephelus coioides*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/268) Lim,
   Kelvin K. P. & Jeffrey K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
 - [Orange-spotted
-  Grouper (*Epinephelus coioides*)](http://mangrove.nus.edu.sg/guidebooks/text/2103.htm) Ng, Peter K. L. & N.
+  Grouper (*Epinephelus coioides*)](http://mangrove.nus.edu.sg/guidebooks/text/2103) Ng, Peter K. L. & N.
   Sivasothi, 1999. *[A
   Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
   Singapore Science Centre. 168 pp.
@@ -101,14 +101,14 @@ Jun 12*Photo shared by Russel Low on [facebook](https://www.facebook.com/singapo
   grouper (*Epinephelus coioides*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=6465) from [FishBase](http://www.fishbase.org/):
   Technical fact sheet.
 - [Orange-spotted
-  grouper (*Epinephelus coioides*)](http://research.kahaku.go.jp/zoology/Fishes_of_Libong/data/p028_02b.html) on [Fishes
-  of Libong Island](http://research.kahaku.go.jp/zoology/Fishes_of_Libong/index.html) (West Coast of Southern Thailand) by Keiichi
+  grouper (*Epinephelus coioides*)](http://research.kahaku.go.jp/zoology/Fishes_of_Libong/data/p028_02bl) on [Fishes
+  of Libong Island](http://research.kahaku.go.jp/zoology/Fishes_of_Libong/indexl) (West Coast of Southern Thailand) by Keiichi
   Matsuura and Seishi Kimura (eds.) on the National Science Museum,
   Tokyo website: factsheets with photos and descriptions with details
   on similar families.
 - [Orange-spotted
-  grouper (*Epinephelus coioides*)](http://research.kahaku.go.jp/zoology/Fishes_of_Bitung/data/p052_02b.html) from [Fishes
-  of Bitung](http://research.kahaku.go.jp/zoology/Fishes_of_Bitung/index.html) (Northern Tip of Sulawesi Indonesia) by Seishi Kimura
+  grouper (*Epinephelus coioides*)](http://research.kahaku.go.jp/zoology/Fishes_of_Bitung/data/p052_02bl) from [Fishes
+  of Bitung](http://research.kahaku.go.jp/zoology/Fishes_of_Bitung/indexl) (Northern Tip of Sulawesi Indonesia) by Seishi Kimura
   and Keiichi Matsuura (eds.) factsheets with photos.
 
 **References**
@@ -123,9 +123,9 @@ Jun 12*Photo shared by Russel Low on [facebook](https://www.facebook.com/singapo
   & Fishermen*
   New Holland Publishers. 434pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,29 +4,14 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, crab, decapoda, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 crustacea [text
-index](crustaceaindex.htm) | [photo index](crustaceafi.htm)
-Phylum [Arthropoda](../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](crustacea.htm) > Class Malacostraca
-> Order [Decapoda](decapoda.htm)
+index](crustaceaindex) | [photo index](crustaceafi)
+Phylum [Arthropoda](../arthropoda/arthropoda)
+> Subphylum [Crustacea](crustacea) > Class Malacostraca
+> Order [Decapoda](decapoda)
 **Photo
 index of crabs on Singapore shores**  
-**Small crabs with long eye stalks and body width < 3cm**, see also [other small crabs](crabfi1c.htm)
+**Small crabs with long eye stalks and body width < 3cm**, see also [other small crabs](crabfi1c)
 
 ---
 
@@ -34,20 +19,20 @@ index of crabs on Singapore shores**
 for body width*
 
 ![](crab/ocypodoidea/dotilla/041127cjd8656m.jpg)  
-[Soldier crab](crab/ocypodoidea/dotilla.htm) *Dotilla* sp.
+[Soldier crab](crab/ocypodoidea/dotilla) *Dotilla* sp.
 
 ![](crab/ocypodoidea/scopimera/050502cjg5634m.jpg)  
-[Sand bubbler crab](crab/ocypodoidea/scopimera.htm) *Scopimera* and *Dotilla* sp.
+[Sand bubbler crab](crab/ocypodoidea/scopimera) *Scopimera* and *Dotilla* sp.
 
 ![](crab/ocypodoidea/ilyoplax/040101lckd0135m.jpg)  
-[Semaphore crab](crab/ocypodoidea/ilyoplax.htm) *Ilyoplax* sp.
+[Semaphore crab](crab/ocypodoidea/ilyoplax) *Ilyoplax* sp.
 
 ![](crab/ocypodoidea/macrophthalmus/050525hntg6712m.jpg)  
-[Sentinel crab](crab/ocypodoidea/macrophthalmus.htm) *Macrophthalmus* sp.
+[Sentinel crab](crab/ocypodoidea/macrophthalmus) *Macrophthalmus* sp.
 
 *![](crab/ocypodoidea/ceratophthalmus/031029sntcd0036m.jpg)*  
 [Horn-eyed   
-ghost crab](crab/ocypodoidea/ceratophthalmus.htm) *Ocypode ceratophthalmus*
+ghost crab](crab/ocypodoidea/ceratophthalmus) *Ocypode ceratophthalmus*
 
 1-1.5cm. Body spherical, pincers equal sized, downward pointing, very
 long and slender. Greenish eyes on reddish stalks. Sandy shores. Sometimes
@@ -69,21 +54,21 @@ horned eyes. Usually cream with brown 'H' markings. Sandy shores.
 Commonly seen on our many of our shores, but usually only at night.
 
 ![](crab/ocypodoidea/uca/annulipes/040103sjid0059m.jpg)  
-[Porcelain fiddler crab](crab/ocypodoidea/annulipes.htm) *Austruca annulipes*
+[Porcelain fiddler crab](crab/ocypodoidea/annulipes) *Austruca annulipes*
 
 ![](crab/ocypodoidea/uca/vocans/050126cjd9825m.jpg)  
-[Orange fiddler crab](crab/ocypodoidea/vocans.htm) *Gelasimus vocans*
+[Orange fiddler crab](crab/ocypodoidea/vocans) *Gelasimus vocans*
 
 ![](crab/ocypodoidea/uca/tinycolourful/090329cjd8662ma.jpg)  
 [Tiny colourful  
-fiddler crab](crab/ocypodoidea/tinycolourful.htm) *awaiting identification*
+fiddler crab](crab/ocypodoidea/tinycolourful) *awaiting identification*
 
 ![](crab/ocypodoidea/uca/rosea/021008cjd6155m.jpg)  
-[Rosy fiddler crab](crab/ocypodoidea/rosea.htm) *Tubuca rosea*
+[Rosy fiddler crab](crab/ocypodoidea/rosea) *Tubuca rosea*
 
 ![](crab/ocypodoidea/uca/stoutpincer/090905sbwrd0160ma.jpg)  
 [Stout pincered  
-fiddler crab](crab/ocypodoidea/stoutpincer.htm) *awaiting identification*
+fiddler crab](crab/ocypodoidea/stoutpincer) *awaiting identification*
 
 1.5-2cm. Body squarish, enlarged pincer on male is smooth on the outside
 with a ridge of bumps on the inside 'palm'. Sandy silty shores. Sometimes
@@ -102,7 +87,7 @@ Sometimes seen in our mangroves.
 
 ![](crab/varunidae/metaplax/090905sbwrd0149ma.jpg)  
 [Orange
-signaller crab](crab/varunidae/metaplax.htm) *Metaplax elegans*
+signaller crab](crab/varunidae/metaplax) *Metaplax elegans*
 
  
  
@@ -125,32 +110,32 @@ index of
 crustaceans on this site
 
 **Crustaceans**  
-[all crustaceans](crustaceafi.htm)  
+[all crustaceans](crustaceafi)  
   
 **Crabs**  
-[all crabs](crabfi.htm) and crab-like  
- [small](crabfi1c.htm)   
+[all crabs](crabfi) and crab-like  
+ [small](crabfi1c)   
 body width <2 cm  
   
 small with long eyestalks  
- [small porcelain crabs](crabfi1b.htm)   
+ [small porcelain crabs](crabfi1b)   
 3 pairs walking legs  
   
-[medium](crabfi3.htm)   
+[medium](crabfi3)   
 body width 3-5cm  
   
-[large](crabfi4.htm)   
+[large](crabfi4)   
 body width >5cm  
   
-[swimming crabs](crabfi5.htm)   
+[swimming crabs](crabfi5)   
 last pair of legs paddle-shaped  
   
-[hermit crabs](anomurafi.htm)   
+[hermit crabs](anomurafi)   
 live in shells
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

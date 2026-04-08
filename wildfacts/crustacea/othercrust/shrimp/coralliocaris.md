@@ -4,28 +4,28 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "shrimp, coralliocaris, graminea, palaemonidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 shrimps [text
-index](../../crustaceaindex.htm#shrimps) | [photo index](../../shrimpfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> [prawns and shrimps](shrimp.htm) >   
-Family [Palaemonidae](palaemonidae.htm)
+index](../../crustaceaindex#shrimps) | [photo index](../../shrimpfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> [prawns and shrimps](shrimp) >   
+Family [Palaemonidae](palaemonidae)
 **Machine
 gun coral shrimp  
 *Coralliocaris graminea*Family Palaemonidae***updated
@@ -36,8 +36,8 @@ Jan 2020*
 **Where
 seen?** This fat little green shrimp is sometimes living
 among branching corals such as [Acropora
-corals](../../../cnidaria/coralhard/acroporidae/acropora.htm) (*Acropora* sp.) and [Montipora
-corals](../../../cnidaria/coralhard/acroporidae/montipora.htm) (*Montipora* sp.). It is usually well hidden and hard
+corals](../../../cnidaria/coralhard/acroporidae/acropora) (*Acropora* sp.) and [Montipora
+corals](../../../cnidaria/coralhard/acroporidae/montipora) (*Montipora* sp.). It is usually well hidden and hard
 to spot and photograph.  
   
 **Features:** About 1cm long. Body
@@ -45,7 +45,7 @@ is short and fat, with a bent back. Large eyes wide apart. Usually
 dark green with fine stripes of white, black, red and blue.   
   
 **Double snap:** It has a pair of
-huge flattened pincers that can be larger than its body. Like the [snapping shrimps](alpheidae.htm) (Family Alpheidae), the
+huge flattened pincers that can be larger than its body. Like the [snapping shrimps](alpheidae) (Family Alpheidae), the
 pincer has an enlarged tooth and a special catch. When the catch is
 released, the tooth makes a loud snapping sound. Unlike the snapping
 shrimp which only has one such 'snapping' pincer, the Machine gun
@@ -88,13 +88,13 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 *Tanah Merah,
 Jun 10*Photo
 shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/06/100615-tanah-merah.html).
+blog](http://sgn090608.blogspot.com/2010/06/100615-tanah-merahl).
 
 *![](coralliocaris/130527tmlks.jpg)*  
-*Tanah Merah, May 13*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2013/06/corals-galore-on-reclaimed-shores-of.html).
+*Tanah Merah, May 13*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2013/06/corals-galore-on-reclaimed-shores-ofl).
 
 *![](coralliocaris/110618tmftlks.JPG)*  
-*Tanah Merah, Jun 11*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2011/06/tanah-merah-still-best-mainland-coral.html).
+*Tanah Merah, Jun 11*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2011/06/tanah-merah-still-best-mainland-corall).
 
 ---
 
@@ -106,7 +106,7 @@ shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media
 A juvenile.  
 Sentosa Serapong, May 12*Photo
 shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2012/05/back-to-special-reef-of-sentosa-at.html).
+blog](http://wondercreation.blogspot.sg/2012/05/back-to-special-reef-of-sentosa-atl).
 
 *![](coralliocaris/120507srpmn.jpg)*  
 *Sentosa Serapong,
@@ -122,12 +122,12 @@ shared by Marcus Ng and [flickr](https://www.flickr.com/photos/budak/18692859553
 *![](coralliocaris/100529kuslks1m3.jpg)  
 Kusu Island, Jun 10*Photo
 shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/05/spectacular-coral-reef-of-kusu.html).
+blog](http://wondercreation.blogspot.com/2010/05/spectacular-coral-reef-of-kusul).
 
 ---
 
 ![](../../../cnidaria/coralhard/acroporidae/acrstumpy/250810bsislvo2b.jpg)  
-In [Stumpy acropora coral](../../../cnidaria/coralhard/acroporidae/acrstumpy.htm)  
+In [Stumpy acropora coral](../../../cnidaria/coralhard/acroporidae/acrstumpy)  
 *Big Sisters, Aug 25*Photo shared by Lon Voon Ong on [facebook](https://www.facebook.com/media/set/?set=a.122119884008927700&type=3&ref=embed_post)*.*
 
 *![](coralliocaris/210625kusjk2.jpg)  
@@ -149,7 +149,7 @@ shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/87504
 **Links**
 
 - [*Coralliocaris
-  graminea*](http://www.sealifebase.fisheries.ubc.ca/summary/Coralliocaris-graminea.html)
+  graminea*](http://www.sealifebase.fisheries.ubc.ca/summary/Coralliocaris-gramineal)
   on SeaLife Base: Techincal fact sheet.
 
 **References**
@@ -181,9 +181,9 @@ shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/87504
   Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
   IKAN-Unterwasserachiv, Frankfurt. 321 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

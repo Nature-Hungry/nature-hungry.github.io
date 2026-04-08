@@ -4,24 +4,11 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "bristle, worm, bristleworm, polychaete, annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 worms [text
-index](../wormindex.htm) | [photo index](../wormfi.htm)
-[worms](../worm.htm)
+index](../wormindex) | [photo index](../wormfi)
+[worms](../worm)
 > Phylum Annelida > Class Polychaeta
 **Bristleworms****Class
 Polychaeta***updated
@@ -43,11 +30,11 @@ will have these worms. But they are rarely seen as they burrow in
 the ground or remain in other hiding places. In coral rubble, giant
 reef worms that grow to 1m long hide inside crevices. Others about
 10cm long crawl about in sandy and muddy areas. Some beautiful ones
-swim about in the water. Others live in [tubes](../tubeworm/tubeworms.htm).
+swim about in the water. Others live in [tubes](../tubeworm/tubeworms).
 Countless microscopic ones too small to see live among the sand grains.  
   
 **What are bristleworms?** Bristleworms
-are segmented [worms](../worm.htm) belonging to Phylum
+are segmented [worms](../worm) belonging to Phylum
 Annelida like the more familiar earthworm. There are about 8,000 species
 of polychaete worms, making them the largest class of the segmented
 worms.  
@@ -59,20 +46,20 @@ flattened extensions called parapodia. These appendages are usually
 branched at the ends and covered with bristles, called setae. 'Polychaeta'
 means 'many bristles'. And indeed, they have lots of bristles.
 These bristly appendages are sometimes used to move (much like a centipede
-does) and to burrow. In [tubeworms](../tubeworm/tubeworms.htm),
+does) and to burrow. In [tubeworms](../tubeworm/tubeworms),
 the appendages help grip the tube walls and to move up and down the
 tubes. In some large active bristleworms that need more oxygen, the parapodia
 function as gills.  
   
-**Sometimes confused with** [brittlestars](../../echinodermata/ophiuroidea/ophiuroidea.htm).
+**Sometimes confused with** [brittlestars](../../echinodermata/ophiuroidea/ophiuroidea).
 Here's more on [how to tell them
-apart](../../glossary/wormstar.htm).
+apart](../../glossary/wormstar).
 ![](reef/040804skdd4129m3.jpg)  
 *Pulau Sekudu, Aug 04*
 ![](reef/040804skdd4129m3b.jpg)  
 Bristles on the sides of the worm
 ![](diopatra/040702cjd1447m3.jpg)  
-This tiny [tubeworm](../tubeworm/tubeworms.htm) has eyes,
+This tiny [tubeworm](../tubeworm/tubeworms) has eyes,
 tentacles,  
 and feathery appendages on the   
 sides that act as gills. *Changi, Jul 04*
@@ -91,22 +78,22 @@ head!
 kinds of bristleworms are often grouped into those that are free-moving
 (called errant polychaetes) and those that are not (called sedentary
 polychaetes). These sedentary worms usually [live
-in tubes](../tubeworm/tubeworms.htm) or burrows. However, the distinction is not always clear.
+in tubes](../tubeworm/tubeworms) or burrows. However, the distinction is not always clear.
 There are errant polychaetes that live in tubes or don't move about
 much and hide in burrows or other places.   
   
 **Beautiful worms:** Large, freely-moving
 bristleworms can be attractive, with iridescent colours in shades
 of red, pink and green. Among the most beautiful of bristleworms is
-the [fan worm](sabellidae.htm) (Family Sabellidae) with
+the [fan worm](sabellidae) (Family Sabellidae) with
 a delicate, patterned feathery fan of feeding tentacles.  
   
 **Monster worm:** While bristleworms
 we commonly see grow to about 10cm long, the [Giant
-reef worm](giant.htm) can grow to more than 1m long!  
+reef worm](giant) can grow to more than 1m long!  
   
 **Don't
-play with fire!**  [Fireworms](chloeia.htm) have bristles made of calcium carbonate or silica which
+play with fire!**  [Fireworms](chloeia) have bristles made of calcium carbonate or silica which
 are brittle and contain poisons. The hairy bristles are
 sharp and can easily penetrate bare skin. The bristles
 are brittle and break off easily inside the skin. The
@@ -119,12 +106,12 @@ Don't touch bristleworms or the water that they are in!
 **How to stay safe:** Wear covered shoes and long pants to cover all skin exposed
 to water. Do not touch bristleworms.
 **![](chloeia/050412tusd2407m3.jpg)**  
-This [fireworm](http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia.htm) swims actively  
+This [fireworm](http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia) swims actively  
 and has really elaborate bristles. **Raffles Marina, Apr 05**
 ***![](sabellidae/banded/040830hntd5883m3.jpg)***  
-[Fanworms](sabellidae.htm) are bristleworms with a delicate fan of feathery tentacles on their heads. *Pulau Hantu, Aug 04*
+[Fanworms](sabellidae) are bristleworms with a delicate fan of feathery tentacles on their heads. *Pulau Hantu, Aug 04*
 **![](scaleworm/120511tpld3253m3.jpg)**  
-[Scale worms](http://www.wildsingapore.com/wildfacts/worm/polychaeta/scaleworm.htm) are tiny and often overlooked.  
+[Scale worms](http://www.wildsingapore.com/wildfacts/worm/polychaeta/scaleworm) are tiny and often overlooked.  
 *Terumbu Pempang Laut, May 12*
 **What do they eat?** Some bristleworms
 are ferocious predators, hunting other worms and small animals. These
@@ -198,19 +185,19 @@ On this website, they are grouped by external features for convenience
 of display.* 
  
 [Gregarious
-tubeworms](gregarious.htm)   
-Many bristleworms live in tubes and are called [tubeworms](../tubeworm/tubeworms.htm)   
-[Spaghetti worms](spaghetti.htm)
+tubeworms](gregarious)   
+Many bristleworms live in tubes and are called [tubeworms](../tubeworm/tubeworms)   
+[Spaghetti worms](spaghetti)
   
  
 **Family
 Amphinomidae**
  
-[*Chloeia* sp.](chloeia.htm) (Beautiful fireworm)   
+[*Chloeia* sp.](chloeia) (Beautiful fireworm)   
  *Chloeia capillata=\*\*Chloeia flava  
 Chloeia flava  
   
-[Eurythoe complanata](reef.htm)* (Reef
+[Eurythoe complanata](reef)* (Reef
 bristleworms)
   
  
@@ -223,7 +210,7 @@ capitata
 Notomastus* sp.
   
  
- **[Family Chaetopteridae](strawtube.htm)** (straw
+ **[Family Chaetopteridae](strawtube)** (straw
 tubeworms)
  
 *\*Chaetopterus
@@ -251,7 +238,7 @@ Eunicidae**
  
 *Eunice
 antennata=\*\*Leodice antennata*  
-[*Eunice aphroditois*](giant.htm) (Giant reef
+[*Eunice aphroditois*](giant) (Giant reef
 worm) *Eunice coccinioides  
 Eunice grubei  
 Eunice hirschi  
@@ -270,19 +257,19 @@ Marphysa mossambica*
 **Family
 Hesionidae**
  
-*[Oxydromus cf. angustifrons](oxydromus.htm)* (Urchin-mouth worm)
+*[Oxydromus cf. angustifrons](oxydromus)* (Urchin-mouth worm)
   
  
 **Family
 Onuiphidae**
  
-[*Diopatra* sp.](diopatra.htm) (Solitary tube worm)  
+[*Diopatra* sp.](diopatra) (Solitary tube worm)  
 *Diopatra neapolitana  
 \*Diopatra bulohensis=\*\*Diopatra claparedii*
   
  
 **[Family
-Polynoidae](scaleworm.htm)** (scale worms)
+Polynoidae](scaleworm)** (scale worms)
  
  *Lepidonotus* sp.  
   
@@ -290,18 +277,18 @@ Polynoidae](scaleworm.htm)** (scale worms)
 
  
 **[Family
-Sabellidae](sabellidae.htm) (fan worms)**  with list of species recorded
+Sabellidae](sabellidae) (fan worms)**  with list of species recorded
 for Singapore
   
  
 **[Family
-Serpulidae](serpulidae.htm) (keelworms)**
+Serpulidae](serpulidae) (keelworms)**
  
 *Spirobranchus* sp.
   
  
 **[Family
-Spionidae](spionidae.htm)**
+Spionidae](spionidae)**
  
 *Paraprionospio* sp. *Polydora* sp. *Prionospio komaeti  
 Prionospio malayensis* 
@@ -326,25 +313,25 @@ History Museum of Los Angeles County](http://www.nhm.org/) for comments on and
 identifying some of these bristleworms.  **Links**  
 
 - [Segmented
-  Worms (Phylum Annelida)](http://mangrove.nus.edu.sg/pub/seashore/text/126.htm) Tan, Leo W. H. & Ng, Peter K.
+  Worms (Phylum Annelida)](http://mangrove.nus.edu.sg/pub/seashore/text/126) Tan, Leo W. H. & Ng, Peter K.
   L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [Segmented
-  Worms (Annelids)](http://mangrove.nus.edu.sg/guidebooks/text/2007.htm) Ng, Peter K. L. & N. Sivasothi, 1999. *[A Guide
+  Worms (Annelids)](http://mangrove.nus.edu.sg/guidebooks/text/2007) Ng, Peter K. L. & N. Sivasothi, 1999. *[A Guide
   to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
   Singapore Science Centre. 168 pp.
 - [A
   Guide to Singapore Polychaetes](http://rmbr.nus.edu.sg/polychaete/) by Lim Yun Ping 1997-2000
   on the Raffles Museum of Biodiversity Research website:
   fact sheets and photos of polychaetes found in Singapore.
-- [Worms](http://www.mesa.edu.au/friends/seashores/worms.html) on [Life
-  on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1.html) by Keith Davey on the Marine
+- [Worms](http://www.mesa.edu.au/friends/seashores/wormsl) on [Life
+  on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1l) by Keith Davey on the Marine
   Education Society of Australia website: an introduction
   to worms (annelids, sipunculids) with explanations of the
   major parts of their bodies and their lifestyles. Check
   out the animation of a [predatory
-  annelid worm catching its prey](http://www.mesa.edu.au/friends/seashores/worm_feeds.html).
+  annelid worm catching its prey](http://www.mesa.edu.au/friends/seashores/worm_feedsl).
 - [Marine
   Sedentary Polychaetes in Hong Kong](http://personal.cityu.edu.hk/%7Ebhworm/sedentary/) on the City University
   of Hong Kong website: about polychaetes and tubeworms, with
@@ -355,7 +342,7 @@ identifying some of these bristleworms.  **Links**
   polychaetes, description and photos of major families, identification
   key, glossary, references and links.
 - [Bristleworms
-  and their larvae](http://www.microscopy-uk.org.uk/mag/artmar99/polych.html) by by Wim van Egmond on the Microscopy
+  and their larvae](http://www.microscopy-uk.org.uk/mag/artmar99/polychl) by by Wim van Egmond on the Microscopy
   UK website: lots of lovely super close look at the fascinating
   larvae of bristleworms.
 
@@ -390,14 +377,4 @@ identifying some of these bristleworms.  **Links**
   Synthesis* Australian Biological Resources Study, Canberra.
   465pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

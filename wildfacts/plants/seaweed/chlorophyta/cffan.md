@@ -9,20 +9,20 @@ layout: default
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 green seaweeds [text
-index](../seaweedindex.htm) | [photo index](../seaweedfi.htm)
-[Seaweeds](../seaweed.htm)
-> Division [Chlorophyta](chlorophyta.htm)
+index](../seaweedindex) | [photo index](../seaweedfi)
+[Seaweeds](../seaweed)
+> Division [Chlorophyta](chlorophyta)
 **Fan-shaped
 green seaweeds compared  
 How to tell them apart?  
@@ -41,15 +41,15 @@ to tell them apart.
 ***![](udotea/050411tusd2298m3.jpg)***
 
 **[Solitary
-fan green seaweed](avrerecta.htm)**  
+fan green seaweed](avrerecta)**  
 *Avrainvillea erecta*
 
 **[Solitary
-fan green seaweed](avrerecta.htm)**  
+fan green seaweed](avrerecta)**  
 *Avrainvillea erecta*
 
 **[Ruffled
-fan green seaweed](avrerecta.htm)**  
+fan green seaweed](avrerecta)**  
 *Udotea* sp.
 
 One
@@ -69,15 +69,15 @@ in clusters of a few blades.
 *![](rhipidosiphon/080705bbd6961m3.jpg)*
 
 [**Clustered
-fan green seaweed**](avrcluster.htm)  
+fan green seaweed**](avrcluster)  
 *Avrainvillea* sp.
 
 [**Clustered
-fan green seaweed**](avrcluster.htm)  
+fan green seaweed**](avrcluster)  
 *Avrainvillea* sp.
 
 **[Pleated
-fan green seaweed](rhipidosiphon.htm)** *Rhipidosiphon javensis*
+fan green seaweed](rhipidosiphon)** *Rhipidosiphon javensis*
 
 Circular
 blade flat not ruffled, thick rather stiff, usually in clusters
@@ -95,9 +95,9 @@ FREE photos of
 seaweeds](http://www.flickr.com/photos/54527470@N00/sets/72157600032152343).  
 Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,28 +4,15 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "fan, worm, fanworm, sabellid, sabellidae, polychaete, annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 worms
-[text index](../wormindex.htm) | [photo
-index](../wormfi.htm)
+[text index](../wormindex) | [photo
+index](../wormfi)
 
-[worms](../worm.htm) > Phylum Annelida >
-Class [Polychaeta](polychaeta.htm)
-> Order Sabellida > Family [Sabellidae](sabellidae.htm)
+[worms](../worm) > Phylum Annelida >
+Class [Polychaeta](polychaeta)
+> Order Sabellida > Family [Sabellidae](sabellidae)
 
 **White
 spiral fanworm** ***awaiting
@@ -78,7 +65,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 ![](sabellidae/white/090824tusjk2m3.jpg)  
 *Tuas, Aug
 09*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/08/tuas-soft-coral-and-zoanthids.html).
+blog](http://sgn090608.blogspot.com/2009/08/tuas-soft-coral-and-zoanthidsl).
 
 ![](sabellidae/white/180519ssisdc5.jpg)  
 *Small Sisters Island, May 18*Photo shared by Dayna Cheah on [facebook](https://www.facebook.com/photo.php?fbid=1588499791266791&set=a.1588495367933900&type=3&theater).
@@ -104,7 +91,7 @@ blog](http://sgn090608.blogspot.com/2009/08/tuas-soft-coral-and-zoanthids.html).
 ![](sabellidae/white/100629tpdjk16m3.jpg)  
 *Terumbu Pempang
 Darat, Jun 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/06/100629-terumbu-pempang-darat.html).
+blog](http://sgn090608.blogspot.com/2010/06/100629-terumbu-pempang-daratl).
 
 ![](sabellidae/white/160312tptmn2.jpg)  
 *Terumbu Pempang
@@ -113,7 +100,7 @@ Tengah, Mar 16*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/
 ![](sabellidae/white/110423tpllks3m3.jpg)  
 *Terumbu Pempang
 Laut, Apr 11*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/04/first-visit-to-terumbu-pempang-laut.html).
+blog](http://wondercreation.blogspot.com/2011/04/first-visit-to-terumbu-pempang-lautl).
 
 ---
 
@@ -121,14 +108,4 @@ blog](http://wondercreation.blogspot.com/2011/04/first-visit-to-terumbu-pempang-
 
 *.*
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

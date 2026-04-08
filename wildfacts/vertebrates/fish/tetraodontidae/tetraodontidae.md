@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "pufferfish, puffer, fish, tetraodontidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm)
+> Subphylum Vertebrata > [fishes](../fish)
 **Pufferfishes**  
 **Family Tetraodontidae***updated
 Nov 2020*
@@ -46,8 +46,8 @@ Tetraodontidae. According to [FishBase](http://www.fishbase.org/Summary/FamilySu
 the family has 19 genera and 121 species. They are found in tropical
 and subtropical ares of the Atlantic, Indian and Pacific oceans. Other
 similar fishes belong to different families: boxfishes and cowfishes
-to [Family Ostraciidae](../ostraciidae/ostraciidae.htm),
-and porcupinefishes to [Family Diodontidae](../diodontidae/diodontidae.htm).  
+to [Family Ostraciidae](../ostraciidae/ostraciidae),
+and porcupinefishes to [Family Diodontidae](../diodontidae/diodontidae).  
  **Features:**  10-30cm. Pufferfishes are slow moving fish that
 are hardly designed for fast swimming. When relaxed, they are generally
 elongated bulbous fishes. Pufferfishes get their common name from
@@ -102,18 +102,18 @@ can also have an impact on local populations.
 ---
 
 **![](patoca/050708labd4747m3.jpg)  
-[Milk-spotted pufferfish](patoca.htm)**
+[Milk-spotted pufferfish](patoca)**
 **![](nigroviridis/050218sbwrd0424m3.jpg)  
-[Spotted green pufferfish](nigroviridis.htm)**
+[Spotted green pufferfish](nigroviridis)**
 **![](immaculatus/070219sisd8189m3.jpg)  
-[Yelloweye pufferfish](immaculatus.htm)**
+[Yelloweye pufferfish](immaculatus)**
 
 ---
 
 **![](caeruleopunctatus/sbr2019-054-055-caeruleopunctatus.jpg)  
-[Blue-spotted pufferfish](caeruleopunctatus.htm)**
+[Blue-spotted pufferfish](caeruleopunctatus)**
 ![](stellatus/sbr2019-054-055-stellatus.jpg)  
-**[Starry pufferfish](stellatus.htm)**
+**[Starry pufferfish](stellatus)**
  
 Fine blue lines circle the eye.
 Dense black spots around the eye.
@@ -122,9 +122,9 @@ Dense black spots around the eye.
 ---
 
 ![](reticularis/sbr2018-091.jpg)  
-[**Reticulated pufferfish**](reticularis.htm)
+[**Reticulated pufferfish**](reticularis)
 ![](mappa/sbr2019-054-055-mappa.jpg)  
-**[Map pufferfish](mappa.htm)**
+**[Map pufferfish](mappa)**
  
 Brown and whitish lines circle the eye.
 Pale and dark streaks radiating from the eye.
@@ -144,14 +144,14 @@ Common Marine Fishes of Singapore*.
 **Family
 Tetraodontidae**
  
-[*Arothron caeruleopunctatus*](caeruleopunctatus.htm) (Blue-spotted pufferfish) *Arothron
+[*Arothron caeruleopunctatus*](caeruleopunctatus) (Blue-spotted pufferfish) *Arothron
 hispidus* (Stars-and-stripes pufferfish) *[Arothon
-immaculatus](immaculatus.htm)* (Yelloweye pufferfish) *[Arothon mappa](mappa.htm)* (Map pufferfish) *[Arothon reticularis](reticularis.htm)* (Reticulated pufferfish) *[Arothon stellatus](stellatus.htm)* (Starry pufferfish) *[Chelnodon patoca](patoca.htm)* (Milk-spotted
+immaculatus](immaculatus)* (Yelloweye pufferfish) *[Arothon mappa](mappa)* (Map pufferfish) *[Arothon reticularis](reticularis)* (Reticulated pufferfish) *[Arothon stellatus](stellatus)* (Starry pufferfish) *[Chelnodon patoca](patoca)* (Milk-spotted
 pufferfish) *Spheoroides lunaris=\*\*Lagocephalus lunaris* (Rough golden
 toadfish) *Spheoroidees oblongus=\*\*Takifugu oblongus  
   
 Tetraodon leiurus  
-[Tetraodon nigroviridis](nigroviridis.htm)* (Spotted
+[Tetraodon nigroviridis](nigroviridis)* (Spotted
 green pufferfish) *Tetraodon palembangensis*
 
 ---
@@ -159,15 +159,15 @@ green pufferfish) *Tetraodon palembangensis*
 **Links**  
 
 - [Yelloweye
-  Puffer (*Arothron immaculatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/395.htm), [Rough
-  Golden Toadfish (*Lagocephalus lunaris*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/396.htm), [Milk-spotted
-  Puffer (*Chelonodon patoca*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/397.htm) and [Spotted
-  Green Puffer (*Tetraodon nigroviridis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/398.htm) Lim, Kelvin K.
+  Puffer (*Arothron immaculatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/395), [Rough
+  Golden Toadfish (*Lagocephalus lunaris*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/396), [Milk-spotted
+  Puffer (*Chelonodon patoca*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/397) and [Spotted
+  Green Puffer (*Tetraodon nigroviridis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/398) Lim, Kelvin K.
   P. & Jeffrey K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
 - [Puffer
-  or Globe fish](http://mangrove.nus.edu.sg/pub/seashore/text/253.htm) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+  or Globe fish](http://mangrove.nus.edu.sg/pub/seashore/text/253) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [Family
@@ -177,11 +177,11 @@ green pufferfish) *Tetraodon palembangensis*
   stellatus* (Stellate puffer)](http://www.fishbase.org/summary/6526) and from [FishBase](http://www.fishbase.org/):
   Technical fact sheet on the family.
 - [Don't
-  eat toxic fish balls!](http://wildshores.blogspot.com/2009/01/dont-eat-toxic-fish-balls.html)
+  eat toxic fish balls!](http://wildshores.blogspot.com/2009/01/dont-eat-toxic-fish-ballsl)
   on the wild shores of singapore blog: about a case of pufferfish
   poisoning and other uses of pufferfish toxins.
 - [Why
-  pufferfishes are deadly and not dead](http://wildshores.blogspot.com/2009/12/why-are-pufferfishes-deadly-and-not.html) on the wild shores of
+  pufferfishes are deadly and not dead](http://wildshores.blogspot.com/2009/12/why-are-pufferfishes-deadly-and-notl) on the wild shores of
   singapore
 
 **References**
@@ -206,9 +206,9 @@ green pufferfish) *Tetraodon palembangensis*
   Reef Fishes of the World*
   Periplus Editions. 400pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

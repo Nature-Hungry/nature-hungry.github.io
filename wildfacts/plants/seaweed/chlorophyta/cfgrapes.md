@@ -9,20 +9,20 @@ layout: default
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 green seaweeds [text
-index](../seaweedindex.htm) | [photo index](../seaweedfi.htm)
-[Seaweeds](../seaweed.htm)
-> Division [Chlorophyta](chlorophyta.htm)
+index](../seaweedindex) | [photo index](../seaweedfi)
+[Seaweeds](../seaweed)
+> Division [Chlorophyta](chlorophyta)
 **Sea
 grapes compared  
 How to tell them apart?  
@@ -43,15 +43,15 @@ tell apart these two green seaweeds with little round shapes.
 ![](bell/080510smkd3075m3.jpg)
 
 **[Round
-sea grapes](lentillifera.htm)**  
+sea grapes](lentillifera)**  
 *Caulerpa lentillifera*
 
 **[Oval
-sea grapes](racemosa.htm)**  
+sea grapes](racemosa)**  
 *Caulerpa racemosa*
 
 [**Bell
-sea grape seaweed**](bell.htm)  
+sea grape seaweed**](bell)  
 *Caulpera racemosa* var. *turbinata*
 
 *![](lentillifera/100403tbbd0650m3.jpg)*
@@ -94,34 +94,34 @@ comparisons**
 
 ![](lentillifera/120819cyrd0463m3.jpg)  
 [**Oval
-green seaweed**](racemosa.htm) (left) and   
-**[Round sea grapes](lentillifera.htm)** (right)
+green seaweed**](racemosa) (left) and   
+**[Round sea grapes](lentillifera)** (right)
 
 ![](peltata/100627hntd7284m3a.jpg)  
 [**Parasol
-green seaweed**](peltata.htm)  
+green seaweed**](peltata)  
 *Caulerpa peltata*
 
 ![](peltatasmall/070615sntrg0283m3a.jpg)  
 [**Small
-parasol green seaweed**](peltatasmall.htm)  
+parasol green seaweed**](peltatasmall)  
 *Caulerpa racemosa* var *peltata*
 
 ---
 
 ![](boergesenia/041019labd7671m3.jpg)  
 [**Bubble
-green seaweed**](boergesenia.htm)  
+green seaweed**](boergesenia)  
 *Boergesenia forbesii*
 
 ![](valonia/070615sntrg0285m3b.jpg)  
 [**Beaded
-cushion green seaweed**](valonia.htm)  
+cushion green seaweed**](valonia)  
 *Valonia* sp.
 
 ![](bornetella/050509hntg6001m3.jpg)  
 [**Green sea
-sausage seaweed**](bornetella.htm)  
+sausage seaweed**](bornetella)  
 *Bornetella* sp.
 
 [www.**flickr**.com](http://www.flickr.com)  
@@ -131,9 +131,9 @@ FREE photos of
 seaweeds](http://www.flickr.com/photos/54527470@N00/sets/72157600032152343).  
 Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

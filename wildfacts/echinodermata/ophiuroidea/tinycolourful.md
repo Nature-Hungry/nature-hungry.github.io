@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "tiny, colourful, brittle, star, brittlestar, ophiothela, danae, ophiuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 brittle
-stars [text index](../echinodermindex.htm#ophiuroidea)
-| [photo index](../ophuiroideafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class Stellaroida > Subclass [Ophiuroidea](ophiuroidea.htm)
+stars [text index](../echinodermindex#ophiuroidea)
+| [photo index](../ophuiroideafi)
+Phylum [Echinodermata](../echinodermata)
+> Class Stellaroida > Subclass [Ophiuroidea](ophiuroidea)
 **Tiny
 colourful brittle stars**   
 ***Ophiothela danae*\*  
@@ -35,50 +22,50 @@ Apr 2020*
 **Where
 seen?** These
 tiny brittle stars are sometimes seen on [sea
-fans](../../cnidaria/others/gorgonacea/gorgonacea.htm), [flowery
-soft corals](../../cnidaria/coralsoft/nephtheidae.htm) and other cnidarians and even on [Thorny sea urchins](../echinoidea/urchin/prionocidaris.htm). A single host
+fans](../../cnidaria/others/gorgonacea/gorgonacea), [flowery
+soft corals](../../cnidaria/coralsoft/nephtheidae) and other cnidarians and even on [Thorny sea urchins](../echinoidea/urchin/prionocidaris). A single host
 can be home to many of these tiny brittle stars. But it requires a
 keen eye to spot them.  
   
 **Features:** Whole
 animal about 1cm wide. 5-6 arms with very small spines, held flat, along the sides of the arm. Arms with colourful bands usually to match
-the host animal. Central disk also with colourful markings. Sometimes confused with the [Tiny orange brittle star](tinyorange.htm) which are found on [Asparagus
-soft corals](../../cnidaria/coralsoft/nephtheidae.htm).
+the host animal. Central disk also with colourful markings. Sometimes confused with the [Tiny orange brittle star](tinyorange) which are found on [Asparagus
+soft corals](../../cnidaria/coralsoft/nephtheidae).
 
 ![](tinycolourful/120605lygd4160m3a.jpg)*Changi, Jun 12*  
 On a [sea
-fan](../../cnidaria/others/gorgonacea/gorgonacea.htm).
+fan](../../cnidaria/others/gorgonacea/gorgonacea).
 
 ![](tinycolourful/120704chgd7025m3.jpg)  
  *Changi, Jul 12*
 
 ![](tinycolourful/080507skdd2477m3.jpg)  
 On
-a [flowery soft coral](../../cnidaria/coralsoft/neppink.htm) colony. *Pulau Sekudu, Jul 05*
+a [flowery soft coral](../../cnidaria/coralsoft/neppink) colony. *Pulau Sekudu, Jul 05*
 
 ---
 
 ![](tinycolourful/090922sjid1665m3.jpg)  
  *St. John's Island, Sep 09* On [hard
-coral](../../cnidaria/coralhard/psammocoridae/psacrinkled.htm) .
+coral](../../cnidaria/coralhard/psammocoridae/psacrinkled) .
 
 ![](tinycolourful/080802sjid8782m3a.jpg)  
 *St. John's Island, Aug 08*  
 On a [starry leathery
-soft coral.](../../cnidaria/coralsoft/letstar.htm)
+soft coral.](../../cnidaria/coralsoft/letstar)
 
 ![](tinycolourful/040509skdbd0148m3b.jpg)  
 *Pulau Sekudu, May 04*  
-On [pencil sea urchin](../echinoidea/urchin/prionocidaris.htm)
+On [pencil sea urchin](../echinoidea/urchin/prionocidaris)
 spine.
 
- **Sometimes confused with** the [Tiny orange brittle star](tinyorange.htm) which
+ **Sometimes confused with** the [Tiny orange brittle star](tinyorange) which
 are uniformly orange. The two kinds of tiny brittle stars are sometimes seen together.
 
 ![](tinycolourful/160209cyrlks4.JPG)  
-On [pencil sea urchin](../echinoidea/urchin/prionocidaris.htm) spine.  
+On [pencil sea urchin](../echinoidea/urchin/prionocidaris) spine.  
 *Cyrene Reef, Feb 16*  
-Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2016/02/cny-day-2-cyrene-reef.html).
+Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2016/02/cny-day-2-cyrene-reefl).
 
 ![](tinyorange/161012cj.jpg)  
 *Chek Jawa, Oct 16*   
@@ -127,24 +114,24 @@ Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng
 ![](tinycolourful/160704cjlks1.JPG)  
 On flowery soft coral.  
 *Chek Jawa, Jul 16*  
-Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2016/07/predawn-at-chek-jawa-coral-rubble.html).
+Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2016/07/predawn-at-chek-jawa-coral-rubblel).
 
 ---
 
 ![](tinycolourful/160209cyrlks4.JPG)  
-On [pencil sea urchin](../echinoidea/urchin/prionocidaris.htm) spine.  
+On [pencil sea urchin](../echinoidea/urchin/prionocidaris) spine.  
 *Cyrene Reef, Feb 16*  
-Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2016/02/cny-day-2-cyrene-reef.html).
+Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2016/02/cny-day-2-cyrene-reefl).
 
 ![](tinycolourful/110423tpld0059m3a.jpg)  
 on [leathery
-sea fan](../../cnidaria/others/gorgonacea/leathery.htm).  
+sea fan](../../cnidaria/others/gorgonacea/leathery).  
 *Kusu Island, Sep 19*  
 Photo shared by Leon Tan on [facebook](https://www.facebook.com/leon.tan.969/media_set?set=a.2657148514296415&type=3) .
 
 ![](tinycolourful/200823cyrjk1.jpg)  
 *Cyrene, Aug 20*In [leathery
-sea fan](../../cnidaria/others/gorgonacea/leathery.htm)  
+sea fan](../../cnidaria/others/gorgonacea/leathery)  
 Photo shared by James Koh on [facebook](https://www.facebook.com/photo/?fbid=3807890869224256&set=a.3807939485886061).
 
 ---
@@ -152,7 +139,7 @@ Photo shared by James Koh on [facebook](https://www.facebook.com/photo/?fbid=380
 **Links**
 
 - [*Ophiothela
-  danae*](http://www.sealifebase.org/summary/Ophiothela-danae.html)
+  danae*](http://www.sealifebase.org/summary/Ophiothela-danael)
   on SeaLife Base: Technical fact sheet.
 
 **References**
@@ -162,14 +149,4 @@ Photo shared by James Koh on [facebook](https://www.facebook.com/photo/?fbid=380
   Guide to Sea Stars and Other Echinoderms of Singapore*.
   Singapore Science Centre. 187pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

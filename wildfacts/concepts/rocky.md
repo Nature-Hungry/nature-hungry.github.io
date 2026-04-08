@@ -4,29 +4,12 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "rocky, intertidal, zone, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[![](../../Templates/fornatureguides.gif)](../forguides/index.html)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
-[index](index.html)
+[index](indexl)
 of concepts
-[ecosystems](ecosystems.htm)
-| rocky | [sandy](sandy.htm) | [seagrass](../plants/seagrass/seagrass.htm)
-| [coral rubble](rubble.htm) | [coral
-reef](../cnidaria/coralhard/coralhard.htm)
+[ecosystems](ecosystems)
+| rocky | [sandy](sandy) | [seagrass](../plants/seagrass/seagrass)
+| [coral rubble](rubble) | [coral
+reef](../cnidaria/coralhard/coralhard)
 ****Rocky
 shore ecosystem*****updated Dec 2019*
 
@@ -45,9 +28,9 @@ A shore with lots
 of boulders, rocks and stones is called a rocky shore (surprise!).
 Such shores are often found at the base of natural cliffs which are
 cloaked in a [coastal
-forest](../plants/coastal/coastalplants.htm). The rocky shore is a result of the natural, gradual erosion
+forest](../plants/coastal/coastalplants). The rocky shore is a result of the natural, gradual erosion
 of such cliffs. At the low water mark, a rocky shore may gradually
-merge with a [coral rubble area](rubble.htm). Even artificial
+merge with a [coral rubble area](rubble). Even artificial
 surfaces such as seawalls, jetty legs and large trash on the shore
 provide hard surfaces for dwellers adapted to a rocky shore. While
 the rocks may appear barren, they are usually full of life! Take a
@@ -71,7 +54,7 @@ sea slaters out and about. But they are often well camouflaged.
 Although a rock may appear to be barren, often it is coated in a thin
 layer of tiny seaweeds or a film of microscopic plants. Grazing on
 this meadow are tiny animals, as well as large ones such as [onch
-slugs](../mollusca/slugs/onchidiidae/onchidiidae.htm), [limpets](../mollusca/gastropoda/limpets/limpet.htm), [periwinkles](../mollusca/gastropoda/littorinidae/littorinidae.htm).These
+slugs](../mollusca/slugs/onchidiidae/onchidiidae), [limpets](../mollusca/gastropoda/limpets/limpet), [periwinkles](../mollusca/gastropoda/littorinidae/littorinidae).These
 are preyed upon by small predators.  
   
 Closer to the low water mark where it is wetter, large seaweeds can
@@ -80,15 +63,15 @@ surfaces to cling to. Here, larger grazers and their predators may
 be found.
 [![Living rocky shores of Punggol](https://live.staticflickr.com/4247/34197218203_a12f3f71db_z.jpg)](https://www.flickr.com/photos/wildsingapore/34197218203/ "Living rocky shores of Punggol")  
 *Various animals settle on large boulders at Punggol Beach.*
-**Zones of life:** [Zonation](zonation.htm) is particularly obvious on large boulders and on the rocky shore near
+**Zones of life:** [Zonation](zonation) is particularly obvious on large boulders and on the rocky shore near
 the high water mark. As each kind of plant or animal settles and thrives
 in a spot it is best adapted to, distinct zones on a rock often develop
 in response to tidal and other influences.  
   
 **Watch your step!** Many rock-dwellers
 are well camouflaged. [Onch
-slugs](../mollusca/slugs/onchidiidae/onchidiidae.htm) often perfectly match the rock surface. Tiny [banded
-bead anemones](../cnidaria/actiniaria/beadbanded.htm) may coat the rock surface or the sand at the base
+slugs](../mollusca/slugs/onchidiidae/onchidiidae) often perfectly match the rock surface. Tiny [banded
+bead anemones](../cnidaria/actiniaria/beadbanded) may coat the rock surface or the sand at the base
 of a boulder.  
   
 **Don't pick snails off the rock!**Many
@@ -101,19 +84,19 @@ the snails may be washed away and die.
 of water may be trapped in a large boulder or arrangement of rocks.
 Such a rock pool is precious shelter for a wider range of animals
 during low tide.
-![](../mollusca/slugs/onchidiidae/bigpimply/031029sntad0035m3.jpg) [Onch slugs](../mollusca/slugs/onchidiidae/onchidiidae.htm) are commonly seen   
+![](../mollusca/slugs/onchidiidae/bigpimply/031029sntad0035m3.jpg) [Onch slugs](../mollusca/slugs/onchidiidae/onchidiidae) are commonly seen   
 on our rocky shores but are   
 very well camouflaged. Watch your step!  
 ![](../mollusca/gastropoda/littorinidae/others/050822cjg2240m3.jpg)  
-Various [periwinkles](../mollusca/gastropoda/littorinidae/littorinidae.htm) can be seen on rocks. Do not pick them off!
+Various [periwinkles](../mollusca/gastropoda/littorinidae/littorinidae) can be seen on rocks. Do not pick them off!
 ![](pix/040731kusd3684m3.jpg)  
 The underside of a stone may be full of life! Be sure to turn the stone gently back  
 after having a look at the underside.
  ****Life on the Dark Side:**** Under a
 stone it is safe, cool and wet. Here you might find encrusting animals
-stuck to the stone. Such as [sponges](../porifera/porifera.htm) and [keelworms](../worm/polychaeta/serpulidae.htm). As
+stuck to the stone. Such as [sponges](../porifera/porifera) and [keelworms](../worm/polychaeta/serpulidae). As
 well as more mobile animals such as snails and [porcelain
-crabs](../crustacea/othercrust/anomura/porcellanidae/porcellanidae.htm). Larger crabs, shrimps and even some fishes may hide under
+crabs](../crustacea/othercrust/anomura/porcellanidae/porcellanidae). Larger crabs, shrimps and even some fishes may hide under
 stones. On the upper side, large seaweeds and immobile lifeforms that
 need sunlight may grow.  **Please be gentle** when looking
 under a stone. Be sure to put it back exactly the way you found it
@@ -123,7 +106,7 @@ you turn the stone over.
 **Rocky nursery:** Hard surfaces are
 a great place to lay eggs on! The distinctive egg capsules of snails
 such as the [Spiral
-melongena](../mollusca/gastropoda/melogenidae/cochlidium.htm), [Drills](../mollusca/gastropoda/muricidae/muricidae.htm) and [Nerites](../mollusca/gastropoda/neritidae/neritidae.htm) are commonly seen.  
+melongena](../mollusca/gastropoda/melogenidae/cochlidium), [Drills](../mollusca/gastropoda/muricidae/muricidae) and [Nerites](../mollusca/gastropoda/neritidae/neritidae) are commonly seen.  
   
 **Please don't pry** open oysters
 or barnacles. You will hurt and kill them.   
@@ -133,33 +116,33 @@ slippery with algae and covered with razor sharp barnacles that can
 give a nasty cut.
 
 ![](../cnidaria/actiniaria/beadbanded/050808sntd5601m3.jpg)  
-[Banded bead anemones](../cnidaria/actiniaria/beadbanded.htm)
+[Banded bead anemones](../cnidaria/actiniaria/beadbanded)
 often crowd   
 in crevices on rocky shores.
 
 ![](../crustacea/othercrust/isopoda/ligia/080830kusd0001m3a.jpg)  
-[Sea slaters](../crustacea/othercrust/isopoda/ligia.htm)
+[Sea slaters](../crustacea/othercrust/isopoda/ligia)
 are sometimes seen in fast-moving swarms on the rocky shore.
 
 ![](../plants/mangrove/xylocarpus/rumphii/090401sntd8905m3.jpg)  
-The rare [Nyireh](../plants/mangrove/xylocarpus/rumphii.htm)
+The rare [Nyireh](../plants/mangrove/xylocarpus/rumphii)
 (*Xylocarpus rumphii*)   
 is generally only found on   
 our natural rocky shores.
 
-**Where can we explore rocky shores in Singapore?** [Labrador](http://www.wildsingapore.com/places/lp.htm) has the last large mainland rocky shore. There are also narrow and
+**Where can we explore rocky shores in Singapore?** [Labrador](http://www.wildsingapore.com/places/lp) has the last large mainland rocky shore. There are also narrow and
 patchy rocky shores at Changi. Among our northern islands, there are
 rocky shores on [Pulau
-Ubin](http://www.wildsingapore.com/ubin/index.html), the most famous being the one at [Chek
-Jawa](http://www.wildsingapore.com/places/cj.htm). While on our Southern islands, there are rocky shores at [Sentosa](http://www.wildsingapore.com/places/sentosa.htm), [St. John's Island](http://www.wildsingapore.com/places/sji.htm), [Sisters
-Islands](http://www.wildsingapore.com/places/sisters.htm). Smaller patches of rocky shores are also found at [Pulau
-Semakau](http://www.wildsingapore.com/places/semakau.htm) which is better known for its seagrass meadows and reef
+Ubin](http://www.wildsingapore.com/ubin/indexl), the most famous being the one at [Chek
+Jawa](http://www.wildsingapore.com/places/cj). While on our Southern islands, there are rocky shores at [Sentosa](http://www.wildsingapore.com/places/sentosa), [St. John's Island](http://www.wildsingapore.com/places/sji), [Sisters
+Islands](http://www.wildsingapore.com/places/sisters). Smaller patches of rocky shores are also found at [Pulau
+Semakau](http://www.wildsingapore.com/places/semakau) which is better known for its seagrass meadows and reef
 flats.   
   
 **Are artificial granite sea walls rocky shores?** While some rocky shore animals can live on artificial sea walls, there
 is a greater diversity of plants and animals on a natural rocky shore.  
   
-In some [sandy areas](sandy.htm), a hard surface may become
+In some [sandy areas](sandy), a hard surface may become
 a miniature rocky shore. These include jetty pilings, abandoned tyres
 and oil drums and scattered rocks or stones.
 
@@ -178,16 +161,16 @@ flickr](http://www.flickr.com/photos/wildsingapore/) for free download.
 
 - [A Field Guide to the Geology of Singapore](http://lkcnhm.nus.edu.sg/nus/images/pdfs/lkcnhm_ebooks/GeologyGuideSGP.pdf) by Oliver and Gupta, Lee Kong Chian Natural History Museum.
 - [Seashore
-  environment](http://mangrove.nus.edu.sg/pub/seashore/text/002.htm) Tan,
+  environment](http://mangrove.nus.edu.sg/pub/seashore/text/002) Tan,
   Leo W. H. & Ng, Peter K. L., 1988. *A Guide to Seashore
   Life*. The Singapore Science Centre, Singapore. 160 pp
 - [Coastal
-  marine habitats](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/103.htm) in Lim, Kelvin K. P. & Jeffrey K. Y. Low,
+  marine habitats](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/103) in Lim, Kelvin K. P. & Jeffrey K. Y. Low,
   1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
 - [Creeping
-  with the tides: how do marine snails keep up?](http://wildshores.blogspot.com/2008/10/creeping-with-tides-how-do-marine.html) on the wild
+  with the tides: how do marine snails keep up?](http://wildshores.blogspot.com/2008/10/creeping-with-tides-how-do-marinel) on the wild
   shores of singapore blog
 
 **References**
@@ -197,9 +180,9 @@ flickr](http://www.flickr.com/photos/wildsingapore/) for free download.
   Natural Heritage of Singapore*.
   Second edition. Prentice Hall. 271 pp.
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

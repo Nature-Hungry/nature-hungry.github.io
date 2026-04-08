@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "prawn, shrimp, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 lobsters [text
-index](../../crustaceaindex.htm#lobsters) | [photo index](../../shrimpfi2.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
+index](../../crustaceaindex#lobsters) | [photo index](../../shrimpfi2)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
 **Lobsters
 and lobster-like crustaceans***updated
 Mar 2020*
@@ -37,12 +37,12 @@ During the day, they are usually well hidden among corals. Those seen
 on the intertidal, were sadly trapped in drift nets. Some relatives
 such as mud lobsters and ghost shrimps are also common though rarely
 seen.  
- **What are lobsters?** Lobsters and their relatives are [crustaceans](../../crustacea.htm) that belong to various Infraorders in the larger Order [Decapoda](../../decapoda.htm).
+ **What are lobsters?** Lobsters and their relatives are [crustaceans](../../crustacea) that belong to various Infraorders in the larger Order [Decapoda](../../decapoda).
 The Family Palinuridae include some of the lobsters that we eat. There
 are other lobster-like animals that are not really shrimps. Those
 more commonly found on our shores include the [mud
-lobsters](thalassina.htm) and [ghost shrimps](glypturus.htm) and [mud
-shrimps](upogebiidae.htm).   
+lobsters](thalassina) and [ghost shrimps](glypturus) and [mud
+shrimps](upogebiidae).   
   
 **Features:** Like shrimps, lobsters
 and lobster-like crustaceans have a long body and broad tail, and long
@@ -61,15 +61,15 @@ harvested as seafood everywhere.
 
 ---
 
-***![](palinuridae/090623d4995m6l.jpg)*[Lobster](palinuridae.htm)**
+***![](palinuridae/090623d4995m6l.jpg)*[Lobster](palinuridae)**
 
-**![](thalassina/011114cjd689m3.jpg)[Mud lobster](thalassina.htm)**
+**![](thalassina/011114cjd689m3.jpg)[Mud lobster](thalassina)**
 
 ---
 
-***![](glypturus/040521sntbd0050m3.jpg)*[Coral ghost shrimp](glypturus.htm)**
+***![](glypturus/040521sntbd0050m3.jpg)*[Coral ghost shrimp](glypturus)**
 
-**![](upogebiidae/110401mndd8415m6lb.jpg)[Mud shrimp](upogebiidae.htm)**
+**![](upogebiidae/110401mndd8415m6lb.jpg)[Mud shrimp](upogebiidae)**
 
 ---
 
@@ -94,7 +94,7 @@ Palinura**
 Palinuridae**
  
 +*[Panulirus
-ornatus](palinuridae.htm)* (Ornate rock lobster)
+ornatus](palinuridae)* (Ornate rock lobster)
   
 **Infraorder
 Thalassinidae**  
@@ -104,20 +104,20 @@ Callianassidae (ghost shrimps)**
  
 \*\**Glypturus*
 sp.   
-[*Corallianassa* sp.](glypturus.htm) (Coral ghost shrimp)
+[*Corallianassa* sp.](glypturus) (Coral ghost shrimp)
   
  
 **Family
 Thalassinidae (mud lobsters)**
  
 [*Thalassina*
-sp.](thalassina.htm) (Mud lobsters) *Thalassina anomala* (EN:
+sp.](thalassina) (Mud lobsters) *Thalassina anomala* (EN:
 Endangered)  
 *Thalassina gracilis* (EN: Endangered)
   
  
 **\*[Family
-Upogebiidae](upogebiidae.htm) (mud shrimp)**
+Upogebiidae](upogebiidae) (mud shrimp)**
  
 *\*Wolffogebia
 phuketensis* (Mud shrimp) (EN:
@@ -147,9 +147,9 @@ Endangered)
   exclusive of the vertebrates*
   Sea Challengers. 314pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "solitary, fan, seaweed, weed, green, avrainvillea, udoteacea, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 green
-seaweeds [text index](../seaweedindex.htm) | [photo
-index](../seaweedfi.htm)
+seaweeds [text index](../seaweedindex) | [photo
+index](../seaweedfi)
 
-[Seaweeds](../seaweed.htm)
-> Division [Chlorophyta](chlorophyta.htm)
+[Seaweeds](../seaweed)
+> Division [Chlorophyta](chlorophyta)
 **Fan
 green seaweeds  
 *Avrainvillea* sp.*\**** **Family Udoteaceae  
@@ -51,13 +51,13 @@ there are more than 30 current *Avrainvillea* species.
   
 **Sometimes confused with** other
 fan-shaped green seaweeds. Here's more on [how
-to tell apart fan-shaped green seaweeds](cffan.htm).  
+to tell apart fan-shaped green seaweeds](cffan).  
 
 ***![](avrerecta/050624tusg8537m3.jpg)*  
-[Solitary fan green seaweed](avrerecta.htm)  
+[Solitary fan green seaweed](avrerecta)  
   
 ![](avrcluster/050610sntd3928m3.jpg)  
-[Clustered fan green seaweed](avrcluster.htm)**
+[Clustered fan green seaweed](avrcluster)**
 
  *\*Species are difficult to positively identify without close examination.
   
@@ -74,14 +74,14 @@ the Algae of Singapore*.
  
 *Avrainvillea
 amadelpha  
-[Avrainvillea erecta](avrerecta.htm)* (Solitary
-fan green seaweed) *[Avrainvillea lacerata](avrcluster.htm)* (Clustered fan green seaweed) *Avrainvillea obscura*
+[Avrainvillea erecta](avrerecta)* (Solitary
+fan green seaweed) *[Avrainvillea lacerata](avrcluster)* (Clustered fan green seaweed) *Avrainvillea obscura*
 
 ---
 
 **Links**
 
-- [*Avrainvillea*](http://mangrove.nus.edu.sg/pub/seashore/text/102.htm)Tan,
+- [*Avrainvillea*](http://mangrove.nus.edu.sg/pub/seashore/text/102)Tan,
   Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
@@ -118,9 +118,9 @@ fan green seaweed) *[Avrainvillea lacerata](avrcluster.htm)* (Clustered fan gree
   East Coast of the United States*
   Keystone Books. 194pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

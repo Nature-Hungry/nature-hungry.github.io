@@ -4,26 +4,11 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "prawn, shrimp, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 crustacea [text
-index](crustaceaindex.htm) | [photo index](crustaceafi.htm)
-Phylum [Arthropoda](../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](crustacea.htm) > Class Malacostraca
-> Order [Decapoda](decapoda.htm)
+index](crustaceaindex) | [photo index](crustaceafi)
+Phylum [Arthropoda](../arthropoda/arthropoda)
+> Subphylum [Crustacea](crustacea) > Class Malacostraca
+> Order [Decapoda](decapoda)
 **Photo
 index of shrimps on Singapore shores**  
 **Small shrimps
@@ -33,27 +18,27 @@ and shrimp-like animals < 3cm**
 
 ![](othercrust/shrimp/alphcommensal/020710chgcpd1738m.jpg)  
 [Commensal  
-snapping shrimp](othercrust/shrimp/alphcommensal.htm)  
+snapping shrimp](othercrust/shrimp/alphcommensal)  
 *awaiting identification*
 
 ![](othercrust/shrimp/alphballsoft/110518bbd1955m.jpg)  
 [White soft coral  
-snapping shrimp](othercrust/shrimp/alphballsoft.htm)  
+snapping shrimp](othercrust/shrimp/alphballsoft)  
 *awaiting identification*
 
 ![](othercrust/shrimp/alphmanyband/080705bbd7018m.jpg)  
 [Many band   
-snapping shrimp](othercrust/shrimp/alphmanyband.htm)  
+snapping shrimp](othercrust/shrimp/alphmanyband)  
 *awaiting identification*
 
 ![](othercrust/shrimp/alphsmooth/060810rlhd5635m.jpg)  
 [Smooth   
-snapping shrimp](othercrust/shrimp/alphsmooth.htm)  
+snapping shrimp](othercrust/shrimp/alphsmooth)  
 *Alpheus* sp.
 
 ![](othercrust/shrimp/alphornament/050621skdg7859m.jpg)  
 [Ornamented  
-snapping shrimp](othercrust/shrimp/alphornament.htm)   
+snapping shrimp](othercrust/shrimp/alphornament)   
 *Alpheus* sp.
 
 1-2cm long. Body short, stout, usually translucent or greenish. Seen
@@ -72,24 +57,24 @@ Sandy, coral rubble, seagrass areas.Sometimes seen on many of our
 shores.
 
 ![](othercrust/shrimp/humped/111002sisd2124m.jpg)  
-[Humpbacked shrimp](othercrust/shrimp/humped.htm)   
+[Humpbacked shrimp](othercrust/shrimp/humped)   
 *awaiting identification*
 
 ![](othercrust/shrimp/rednose/050720sntg9643m.jpg)  
-[Little red-nosed shrimp](othercrust/shrimp/rednose.htm)
+[Little red-nosed shrimp](othercrust/shrimp/rednose)
   
 *Periclimenes* sp.
 
 ![](othercrust/shrimp/redband/051105sisg2991m.jpg)  
-[Red-banded shrimp](othercrust/shrimp/redband.htm)   
+[Red-banded shrimp](othercrust/shrimp/redband)   
 *awaiting identification*
 
 ![](othercrust/shrimp/palaemon/060527sjig6099m.jpg)  
-[Glass shrimp](othercrust/shrimp/palaemon.htm)  
+[Glass shrimp](othercrust/shrimp/palaemon)  
 *Palaemon* sp.
 
 ![](othercrust/shrimp/lysmata/050622cftg8201ma.jpg)  
-[Cleaner shrimp](othercrust/shrimp/lysmata.htm)   
+[Cleaner shrimp](othercrust/shrimp/lysmata)   
 *Lysmata* sp.
 
 1cm or less. Body with obvious humped back, usually green. Near and
@@ -116,20 +101,20 @@ seen on some of our shores.
 
 ![](othercrust/shrimp/brevicarpalis/040411hntd0083m.jpg)  
 [Peacock-tail  
-anemone shrimp](othercrust/shrimp/brevicarpalis.htm)   
+anemone shrimp](othercrust/shrimp/brevicarpalis)   
 *Ancylocaris brevicarpalis*
 
 ![](othercrust/shrimp/carpet/050621skdg8007m.jpg)  
 [Tiny carpet   
-anemone shrimp](othercrust/shrimp/carpet.htm)   
+anemone shrimp](othercrust/shrimp/carpet)   
 *Periclimenes* sp.
 
 ![](othercrust/shrimp/holthuisi/130626chgd8741m.jpg)  
-['Gelek' anemone shrimp](othercrust/shrimp/holthuisi.htm)  
+['Gelek' anemone shrimp](othercrust/shrimp/holthuisi)  
 *Ancylomenes holthuisi*
 
 ![](../cnidaria/others/pennatulacea/veretillidae/050524cftg6598mb.jpg)  
-[Palaemonid shrimp](othercrust/shrimp/palaemonidae.htm)   
+[Palaemonid shrimp](othercrust/shrimp/palaemonidae)   
 *Periclimenes* sp.
 
  
@@ -150,12 +135,12 @@ cucumbers. Sometimes seen on our Northern shores.
 
 ![](othercrust/shrimp/coralliocaris/100809cyrd9827m.jpg)  
 [Machine gun coral
-shrimp](othercrust/shrimp/coralliocaris.htm)   
+shrimp](othercrust/shrimp/coralliocaris)   
 *Coralliocaris graminea*
 
 ![](othercrust/shrimp/crinoid/120408hntmn.jpg)  
 [Crinoid
-shrimp](othercrust/shrimp/crinoid.htm)   
+shrimp](othercrust/shrimp/crinoid)   
 *Coralliocaris graminea*
 
  
@@ -164,8 +149,8 @@ shrimp](othercrust/shrimp/crinoid.htm)
 About
 1cm. Fat short body with two enlarged pincers. Green with fine white
 and dark stripes. Only seen in [Acropora
-corals](../cnidaria/coralhard/acroporidae/acropora.htm) (*Acropora* sp.) Sometimes seen on our Southern shores.
-1-2cm. Sometimes seen living in [feather stars](../echinodermata/crinoidea/crinoidea.htm).
+corals](../cnidaria/coralhard/acroporidae/acropora) (*Acropora* sp.) Sometimes seen on our Southern shores.
+1-2cm. Sometimes seen living in [feather stars](../echinodermata/crinoidea/crinoidea).
  
  
  
@@ -174,19 +159,19 @@ corals](../cnidaria/coralhard/acroporidae/acropora.htm) (*Acropora* sp.) Sometim
 are NOT Order Decapoda, but they are crustaceans**
 
 ![](othercrust/isopoda/ligia/041018sntd7570m.jpg)  
-[Sea slater](othercrust/isopoda/ligia.htm) *Ligia* sp.
+[Sea slater](othercrust/isopoda/ligia) *Ligia* sp.
 
 ![](othercrust/isopoda/isopoda/110123sisd5267m.jpg)  
-[Isoipods](othercrust/isopoda/isopoda.htm)  
+[Isoipods](othercrust/isopoda/isopoda)  
 Order Isopoda
 
 ![](othercrust/amphipoda/amphipoda/050508kusg5881ma.jpg)  
-[Amphipods](othercrust/amphipoda/amphipoda.htm)  
+[Amphipods](othercrust/amphipoda/amphipoda)  
 Order Amphipoda
 
 ![](othercrust/ostracoda/ostracoda/050806skdg0510m.jpg)  
 [Mussel
-shrimp](othercrust/ostracoda/ostracoda.htm)  
+shrimp](othercrust/ostracoda/ostracoda)  
 Order Ostracoda
 
 2-3cm.
@@ -213,19 +198,19 @@ index of
 crustaceans on this site
 
 **Crustaceans**  
-[all crustaceans](crustaceafi.htm)  
+[all crustaceans](crustaceafi)  
   
 **Shrimps**  
-[all shrimps](shrimpfi.htm), prawns, lobsters
+[all shrimps](shrimpfi), prawns, lobsters
 and shrimp-like  
   
 small <
 3cm  
- [large](shrimpfi2.htm) > 3cm
+ [large](shrimpfi2) > 3cm
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

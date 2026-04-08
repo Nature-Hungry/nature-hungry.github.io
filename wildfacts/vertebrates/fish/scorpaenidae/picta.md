@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "painted scorpionfish, scorpion, fish, parascorpaena, picta, scorpaenidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm) >
-Family [Scorpaenidae](scorpaenidae.htm)
+> Subphylum Vertebrata > [fishes](../fish) >
+Family [Scorpaenidae](scorpaenidae)
 **Painted
 scorpionfish  
 *Parascorpaena picta*  
@@ -42,10 +42,10 @@ areas near reefs and/or seagrass meadows.
 head. Dorsal fin starts well behind the eyes. There are skin flaps
 and tentacles on the head and body. The dorsal fin has 12 spines.   
   
-**Sometimes mistaken for** a [stonefish](../synanceiidae/horrida.htm) (Family Synanceiidae) or the [False
-scorpionfish](../centrogenyidae/vaigiensis.htm) (*Centrogenys vaigiensis*), a grouper, which
+**Sometimes mistaken for** a [stonefish](../synanceiidae/horrida) (Family Synanceiidae) or the [False
+scorpionfish](../centrogenyidae/vaigiensis) (*Centrogenys vaigiensis*), a grouper, which
 looks very similar. Here's more on [how
-to tell apart fishes that look like stones](../cfstonefish.htm).
+to tell apart fishes that look like stones](../cfstonefish).
 
 *![](picta/110730tmftd7492m3.jpg)  
 Tanah Merah, Jul 11*
@@ -118,11 +118,11 @@ Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?
 
 ![](picta/100528tkkjk9m6l.jpg)  
 *Pulau Tekukor, May 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/05/100528-pulau-tekukor.html).
+blog](http://sgn090608.blogspot.com/2010/05/100528-pulau-tekukorl).
 
 ![](picta/090628lazjk1m3.jpg)  
 *Lazarus, Jun 09*  
-Photo shared by James Koh on [his](http://www.flickr.com/photos/37823682@N04/3606783094/) [blog](http://sgn090608.blogspot.com/2009/06/lazarus-island-old-and-new.html)
+Photo shared by James Koh on [his](http://www.flickr.com/photos/37823682@N04/3606783094/) [blog](http://sgn090608.blogspot.com/2009/06/lazarus-island-old-and-newl)
 
 ---
 
@@ -141,7 +141,7 @@ Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo?fbid=10
 **Links**  
 
 - [Painted
-  scorpionfish (*Parascorpaena picta*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/254.htm) Lim, Kelvin K. P.
+  scorpionfish (*Parascorpaena picta*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/254) Lim, Kelvin K. P.
   & Jeffrey K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/).* Singapore
   Science Centre. 163 pp.
@@ -156,9 +156,9 @@ Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo?fbid=10
   Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
   Periplus Editions. 292 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

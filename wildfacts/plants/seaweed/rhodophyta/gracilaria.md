@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "agar, gracilaria, red, seaweed, weed, algae, gracilariaceae, rhodophyceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 red
-seaweeds [text index](../seaweedindex.htm#rhodophyta)
-| [photo index](../seaweedfi.htm)
+seaweeds [text index](../seaweedindex#rhodophyta)
+| [photo index](../seaweedfi)
 
-[Seaweeds](../seaweed.htm)
-> Division [Rhodophyta](rhodophyta.htm)
+[Seaweeds](../seaweed)
+> Division [Rhodophyta](rhodophyta)
 **Agar-agar
 red seaweeds   
 *Gracilaria*
@@ -61,7 +61,7 @@ branches with tapering tips. Black, maroon sometimes purplish.
 According to [AlgaeBase](http://www.algaebase.org/search/genus/detail/?genus_id=14):
 There are more than 180 current *Gracilaria* species. The species
 are difficult to differentiate based on external features alone. Except
-for [Knobbly agar-agar red seaweed](salicornia.htm) (*Gracilaria
+for [Knobbly agar-agar red seaweed](salicornia) (*Gracilaria
 salicornia*) with distinctive club-shaped segments.  
   
 Some other species found on our shore that resemble Gracilaria include *Hydropuntia edulis* which also belongs to Family Gracilariaceae  
@@ -108,7 +108,7 @@ Denser bunches of short 'stems'. *East Coast, Jun 06*
 *Pulau Sekudu, Oct 11*
 
 ![](salicornia/050526cjg6877m3.jpg)  
-Made up of club-shaped segments. [Knobbly agar-agar red seaweed](salicornia.htm)  
+Made up of club-shaped segments. [Knobbly agar-agar red seaweed](salicornia)  
 *Chek Jawa, May 05*
 
   
@@ -157,7 +157,7 @@ Gracilaria gracilis
 Gracilaria manilaensis  
 Gracilaria minuta  
 Gracilaria rhodymenioides  
-[Gracilaria salicornia](salicornia.htm)* (Knobbly
+[Gracilaria salicornia](salicornia)* (Knobbly
 agar-agar seaweed) *Gracilaria srilankia  
 Gracilaria tenuistipitata  
 Gracilaria urvillei  
@@ -175,13 +175,13 @@ Polycavernosa urvillei*
 **Links**
 
 - [Training
-  Manual on Gracilaria Culture and Seaweed Processing in China](http://www.fao.org/docrep/field/003/AB730E/AB730E00.htm):
+  Manual on Gracilaria Culture and Seaweed Processing in China](http://www.fao.org/docrep/field/003/AB730E/AB730E00):
   biology of *Gracilaria*, farming, harvesting and processing
   of *Gracilaria*, history of agar production, chemistry and
   properties of agar, carageenans and alginates.
 - [*Gracilaria*](http://www.algaebase.org/search/genus/detail/?genus_id=14) on [AlgaeBase](http://www.algaebase.org/): Technical
   fact sheet.
-- [Agar](http://www.seaweed.ie/uses_general/agars.html)
+- [Agar](http://www.seaweed.ie/uses_general/agarsl)
   on [The Seaweed Site](http://www.seaweed.ie/): history
   of its use and spread, cultivation and species used to produce
   it.
@@ -217,9 +217,9 @@ FREE photos of
 seaweeds](http://www.flickr.com/photos/54527470@N00/sets/72157600031841176).  
 Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "ribbon, worm, ribbonworm, nemertine, nemertean, nemertines,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 worms
-[text index](../wormindex.htm) | [photo
-index](../wormfi.htm)
-[worms](../worm.htm)
-> Phylum [Nemertea](nemertea.htm)
+[text index](../wormindex) | [photo
+index](../wormfi)
+[worms](../worm)
+> Phylum [Nemertea](nemertea)
 **Short
 ribbon worm*****awaiting identification\*****updated
 Jan 2020*
@@ -84,7 +71,7 @@ Pulau Sekudu, May 25*Photo shared by Kelvin Yong on [facebook](https://www.faceb
 
 *![](short/090210lablks02m3.jpg)*  
 *Labrador, Feb 09*Shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/02/to-see-labrador-for-myself.html).
+blog](http://wondercreation.blogspot.com/2009/02/to-see-labrador-for-myselfl).
 
 ![](short/200112sjimn1.jpg)  
 *St John's Island, Jan 20*Shared by Marcus Ng on [facebook](https://www.facebook.com/photo.php?fbid=10156971332473660&set=a.10156971328013660&type=3&theater).
@@ -94,14 +81,4 @@ blog](http://wondercreation.blogspot.com/2009/02/to-see-labrador-for-myself.html
 *![](short/240310tplta2.jpg)  
 Terumbu Pempang Laut, Mar 24*Photo shared by Tommy Arden on [facebook](https://www.facebook.com/photo/?fbid=10231937620685899&set=a.10231937752849203).
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

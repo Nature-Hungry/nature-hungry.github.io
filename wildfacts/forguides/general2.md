@@ -5,25 +5,8 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info,"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[![talking points for nature guides](../../Templates/fornatureguides.gif)](index.html)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 [index
-to talking points](index.html) for nature guides
+to talking points](indexl) for nature guides
 **For
 nature guides: role of a guide**  
 *updated
@@ -56,7 +39,7 @@ BEFORE the day of the walk**
 - During sign
   up for the walk, send visitors a list of what to wear and bring
   along for their safety and comfort. Here's [some
-  tips for a shore trip](http://www.wildsingapore.com/places/shoretips.htm).
+  tips for a shore trip](http://www.wildsingapore.com/places/shoretips).
 - Prepare a
   simple first aid kit, get updated contact numbers of emergency
   services.
@@ -159,12 +142,12 @@ shores is alive! "We should watch where we step".
   is internalised, guides do not have to spend the rest of the walk
   yelling at visitors not to wander off.
 - Here's [some
-  tips on how to do a first station](index.html#alive).
+  tips on how to do a first station](indexl#alive).
 
 **Set a good
 example as a gentle visitor to the shore**  
 be a [good
-guide](goodguide.htm) and [don't be a bad guide](badguide.htm).
+guide](goodguide) and [don't be a bad guide](badguide).
 
 **At the end
 of the walk**
@@ -184,9 +167,9 @@ of the walk**
 - Point out
   web resources for those who want to find out more.
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

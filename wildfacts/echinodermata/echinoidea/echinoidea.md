@@ -4,30 +4,30 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "urchin, sand, dollar, heart, echinoid, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
+[![](../../../wildfactsheet3.gif)](../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../index.html)  
+[wildfactsheets homepage](../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![talking points for nature guides](../../../Templates/fornatureguides.gif)](../fngechinoidea.htm)
+[![talking points for nature guides](../../../Templates/fornatureguides.gif)](../fngechinoidea)
 
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
+[all animals](../../animals)
+| [all plants](../../plants)
+| [concepts](../../concepts/indexl)
+| [glossary](../../glossary/indexl)
+| [search](../../search)
 
 echinoids
-[text index](../echinodermindex.htm#echinoidea) | [photo
-index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class Echinoidea | [sand dollar](sandollar/sandollar.htm)
-| [sea urchin](urchin/urchin.htm) | [heart
-urchin](hearturchin/hearturchin.htm)
+[text index](../echinodermindex#echinoidea) | [photo
+index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
+> Class Echinoidea | [sand dollar](sandollar/sandollar)
+| [sea urchin](urchin/urchin) | [heart
+urchin](hearturchin/hearturchin)
 **Echinoids**   
 **Class Echinoidea***updated
 Apr 2020*
@@ -50,7 +50,7 @@ be found among seagrasses especially during a seaweed bloom, or among
 coral rubble and living reefs. Heart urchins are more rarely encountered.  
   
 **What are echinoids?** Echinoids
-belong to Phylum [Echinodermata](../echinodermata.htm).
+belong to Phylum [Echinodermata](../echinodermata).
 The Class Echinoidae include sand dollars, sea urchins and heart urchins.
 There are 900-1,000 known echinoid species.   
   
@@ -68,11 +68,11 @@ spines not only protect the animal, but may also used for walking
 and even to collect food from the water. The spines can also be locked
 in place to wedge themselves in a safe hiding place.
 ![](urchin/prionocidaris/030619bbd0219m3.jpg)  
-[Thorny sea urchin](urchin/prionocidaris.htm). *Beting Bronok, Jun 03*   
+[Thorny sea urchin](urchin/prionocidaris). *Beting Bronok, Jun 03*   
 ![](sandollar/depressum/081117ecpmd2310m3.jpg)  
-[Thick-edged sand dollar.](sandollar/depressum.htm) *East Coast,
+[Thick-edged sand dollar.](sandollar/depressum) *East Coast,
 Nov 08*
-**![](hearturchin/lovenia/040731kusd3539m3.jpg)**[Lovenia heart urchin](hearturchin/lovenia.htm). *Kusu Island, Jul 04*
+**![](hearturchin/lovenia/040731kusd3539m3.jpg)**[Lovenia heart urchin](hearturchin/lovenia). *Kusu Island, Jul 04*
 **Test of Strength:** Echinoids have
 an internal skeleton (called the test) formed out of large ossicles
 fused together in plates arranged like a sliced orange in multiples
@@ -133,15 +133,15 @@ can also have an impact on local populations.
 Echinoidea recorded for Singapore**  
 For lists
 of species see individual pages for [sand
-dollars](sandollar/sandollar.htm) | [sea urchins](urchin/urchin.htm) | [heart
-urchins](hearturchin/hearturchin.htm)
+dollars](sandollar/sandollar) | [sea urchins](urchin/urchin) | [heart
+urchins](hearturchin/hearturchin)
 
 ---
 
 **Links**
 
 - [Class
-  Echinoidea](http://mangrove.nus.edu.sg/pub/seashore/text/223.htm)
+  Echinoidea](http://mangrove.nus.edu.sg/pub/seashore/text/223)
   Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
@@ -201,14 +201,4 @@ urchins](hearturchin/hearturchin.htm)
   Stars of Australasia and their relatives*. Neville Coleman's
   World of Water, Australia. 64pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

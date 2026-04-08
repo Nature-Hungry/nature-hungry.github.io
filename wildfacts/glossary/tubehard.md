@@ -4,21 +4,6 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "worm, tube, tubeworm, vermetid, snail, keelworm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](index.html)
-| [search](../search.htm)
-
 **Animals
 that live in hard tubes  
 How to tell them apart?***updated
@@ -38,11 +23,11 @@ more on how to tell apart the animals that create these tubes.
 *![](../worm/polychaeta/serpulidae/060326tusd0666m3.jpg)*
 
 **[Vermetid
-snails](../mollusca/gastropoda/vermetidae/vermetidae.htm)**Phylum [Mollusca](../mollusca/mollusca.htm), Class [Gastropoda](../mollusca/gastropoda.htm)  
+snails](../mollusca/gastropoda/vermetidae/vermetidae)**Phylum [Mollusca](../mollusca/mollusca), Class [Gastropoda](../mollusca/gastropoda)  
 Family Vermitidae
 
-**[Keelworms](../worm/polychaeta/serpulidae.htm)**Phylum
-Annelida, Class [Polychaeta](../worm/polychaeta/polychaeta.htm)  
+**[Keelworms](../worm/polychaeta/serpulidae)**Phylum
+Annelida, Class [Polychaeta](../worm/polychaeta/polychaeta)  
 Family Serpulidae
 
 Tubes made by snails such as vermetids are glossy on the inside because
@@ -71,28 +56,28 @@ comparisons**
 ---
 
 ![](../worm/tubeworm/tubeworm/020225cjd7437m3.jpg)  
-Tubeworms belong to Class [Polychaeta](../worm/polychaeta/polychaeta.htm)
+Tubeworms belong to Class [Polychaeta](../worm/polychaeta/polychaeta)
   
 and build soft tubes.
 
 ![](../worm/polychaeta/sabellidae/banded/040818sntd4738m3.jpg)  
-Fanworms belong to Class [Polychaeta](../worm/polychaeta/polychaeta.htm),  
-Family [Sabellidae](../worm/polychaeta/sabellidae.htm)
+Fanworms belong to Class [Polychaeta](../worm/polychaeta/polychaeta),  
+Family [Sabellidae](../worm/polychaeta/sabellidae)
 and build soft tubes.
 
 ![](../worm/phoronida/phoronida/050823chgg2313m3.jpg)  
-Phoronid worms belong to Phylum [Phoronida](../worm/phoronida/phoronida.htm)
+Phoronid worms belong to Phylum [Phoronida](../worm/phoronida/phoronida)
   
 and build tubes made out of chitin.
 
 ---
 
 how to tell apart [animals
-that create soft tubes](tubesoft.htm)
+that create soft tubes](tubesoft)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

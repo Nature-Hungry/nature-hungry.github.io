@@ -4,26 +4,11 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "prawn, shrimp, lobster, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 crustacea [text
-index](crustaceaindex.htm) | [photo index](crustaceafi.htm)
-Phylum [Arthropoda](../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](crustacea.htm) > Class Malacostraca
-> Order [Decapoda](decapoda.htm)
+index](crustaceaindex) | [photo index](crustaceafi)
+Phylum [Arthropoda](../arthropoda/arthropoda)
+> Subphylum [Crustacea](crustacea) > Class Malacostraca
+> Order [Decapoda](decapoda)
 **Photo
 index of prawns and lobsters on Singapore shores**  
 **Large prawns
@@ -33,22 +18,22 @@ and lobsters > 3cm**
 
 ![](othercrust/shrimp/penbluetail/050509hntg5929m.jpg)  
 [Blue-tailed   
-penaeid prawn](othercrust/shrimp/penbluetail.htm)   
+penaeid prawn](othercrust/shrimp/penbluetail)   
 Family Penaeidae
 
 ![](othercrust/shrimp/penbanded/050621skdg7955m.jpg)  
 [Banded  
-penaeid prawn](othercrust/shrimp/penbanded.htm)   
+penaeid prawn](othercrust/shrimp/penbanded)   
 Family Penaeidae
 
 ![](othercrust/shrimp/penspeckled/091106smkd3846m.jpg)  
 [Speckled  
-penaeid prawn](othercrust/shrimp/penspeckled.htm)   
+penaeid prawn](othercrust/shrimp/penspeckled)   
 Family Penaeidae
 
 ![](othercrust/shrimp/penslender/041019labd7633m.jpg)  
 [Slender  
-penaeid prawn](othercrust/shrimp/penslender.htm)   
+penaeid prawn](othercrust/shrimp/penslender)   
 Family Penaeidae
 
  
@@ -68,24 +53,24 @@ Sometimes seen on some of our shores.
 
 ![](othercrust/stomatopoda/spearer/020328cjd7903m.jpg)  
 [Spearer   
-mantis shrimp](othercrust/stomatopoda/spearer.htm)    
+mantis shrimp](othercrust/stomatopoda/spearer)    
 *Harpiosquilla* sp.  
 Order Stomatopoda
 
 ![](othercrust/stomatopoda/smasher/070630sisg0806m.jpg)  
 [Smasher   
-mantis shrimp](othercrust/stomatopoda/smasher.htm)    
+mantis shrimp](othercrust/stomatopoda/smasher)    
 *Gonodactylellus viridis*  
 Order Stomatopoda
 
 ![](othercrust/stomatopoda/banded/100527tmd3635m.jpg)  
 [Banded   
-mantis shrimp](othercrust/stomatopoda/banded.htm)    
+mantis shrimp](othercrust/stomatopoda/banded)    
 *Lysiosquilla* sp.  
 Order Stomatopoda
 
 ![](othercrust/shrimp/saron/090818tmd9180m.jpg)  
-[Saron shrimp](othercrust/shrimp/saron.htm)   
+[Saron shrimp](othercrust/shrimp/saron)   
 Family Hippolytidae
 
 6-10cm.
@@ -105,20 +90,20 @@ Fat, short with a humped back. Sometimes 'hairy' front limbs. On coral
 and rubble near reefs. Sometimes seen on some of our shores.
 
 ![](othercrust/lobster/upogebiidae/071003chgtch01m.jpg)  
-[Mud shrimp](othercrust/lobster/upogebiidae.htm)   
+[Mud shrimp](othercrust/lobster/upogebiidae)   
 *Glypturus* sp.
 
 ![](othercrust/lobster/glypturus/040521sntbd0067m.jpg)  
-[Coral ghost shrimp](othercrust/lobster/glypturus.htm)
+[Coral ghost shrimp](othercrust/lobster/glypturus)
   
 *Glypturus* sp.
 
 ![](othercrust/lobster/thalassina/011114cjd689m.jpg)  
-[Mud lobster](othercrust/lobster/thalassina.htm)    
+[Mud lobster](othercrust/lobster/thalassina)    
 *Thalassina anomala*
 
 ![](othercrust/lobster/palinuridae/090623d4985m.jpg)  
-[Ornate rock lobster](othercrust/lobster/palinuridae.htm)   
+[Ornate rock lobster](othercrust/lobster/palinuridae)   
 *Panulirus ornatus*
 
  
@@ -145,20 +130,20 @@ index of
 crustaceans on this site
 
 **Crustaceans**  
-[all crustaceans](crustaceafi.htm)  
+[all crustaceans](crustaceafi)  
   
 **Shrimps**  
-[all shrimps](shrimpfi.htm), prawns, lobsters
+[all shrimps](shrimpfi), prawns, lobsters
 and shrimp-like  
   
-[small](shrimpfi1.htm)
+[small](shrimpfi1)
 <
 3cm  
 large > 3cm
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

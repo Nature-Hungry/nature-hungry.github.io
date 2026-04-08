@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "cucumber, seacucumber, holothuria, fuscocinerea, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 sea
-cucumbers [text index](../echinodermindex.htm#holothuroidea)
-| [photo index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class [Holothuroidea](holothuroidea.htm)
+cucumbers [text index](../echinodermindex#holothuroidea)
+| [photo index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
+> Class [Holothuroidea](holothuroidea)
 **Ashy
 pink sea cucumber  
 *Holothuria fuscocinerea*Family Holothuriidae***updated
@@ -97,12 +84,12 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 *![](fuscocinerea/091010tmjk8m3.jpg)  
 Tanah Merah, Oct 09*Photo
 shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/10/tanah-merah-saron.html).
+blog](http://sgn090608.blogspot.com/2009/10/tanah-merah-saronl).
 
 *![](fuscocinerea/091010tmjk9m3.jpg)  
 Tanah Merah, Oct 09*Photo
 shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/10/tanah-merah-saron.html).
+blog](http://sgn090608.blogspot.com/2009/10/tanah-merah-saronl).
 
 ---
 
@@ -118,7 +105,7 @@ shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10
 
 *![](fuscocinerea/100517jngjk3m6l.jpg)*  
  *Pulau Jong, May 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/05/100517-jong.html).
+blog](http://sgn090608.blogspot.com/2010/05/100517-jongl).
 
 *![](fuscocinerea/100911lsismn.jpg)  
 Small Sisters Island, Sep 10*Photo
@@ -132,7 +119,7 @@ Pulau Hantu, Aug 14*
 *![](fuscocinerea/140809hntlks2m3.jpg)*
 
 Photo
-shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/08/lionfish-on-lion-citys-birthday-at.html).
+shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/08/lionfish-on-lion-citys-birthday-atl).
 
 ---
 
@@ -176,12 +163,12 @@ flickr](http://www.flickr.com/photos/37823682@N04/4171820610/).
 
 - [*Holothuria
   fuscocinerea* (Ashen
-  sea cucumber)](http://www.sealifebase.org/summary/Holothuria-fuscocinerea.html)
+  sea cucumber)](http://www.sealifebase.org/summary/Holothuria-fuscocinereal)
   on SeaLife Base: Technical fact sheet.
 - [*Holothuria
   fuscocinerea*](http://species-identification.org/species.php?species_group=nasc&id=62) in North Australian Sea Cucumbers on Marine
   Species Identification Portal: Technical fact sheet.
-- *Holothuria fuscocinerea* on [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00.htm), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
+- *Holothuria fuscocinerea* on [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
 
 **References**
 
@@ -190,14 +177,4 @@ flickr](http://www.flickr.com/photos/37823682@N04/4171820610/).
   Aspidochirotida: Holothuriidae) in Singapore*. Nature
   in Singapore, 3: 133-137.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

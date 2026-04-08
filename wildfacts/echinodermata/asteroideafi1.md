@@ -4,28 +4,11 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, sea star, seastar, starfish, star, fish, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[![talking points for nature guides](../../Templates/fornatureguides.gif)](fngasteroidea.htm)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 echinoderms
-[text index](echinodermindex.htm) | [photo
-index](echinodermatafi.htm)
-Phylum [Echinodermata](echinodermata.htm)
-> Class Stellaroida > Order [Asteroidea](asteroidea/asteroidea.htm)
+[text index](echinodermindex) | [photo
+index](echinodermatafi)
+Phylum [Echinodermata](echinodermata)
+> Class Stellaroida > Order [Asteroidea](asteroidea/asteroidea)
 **Photo
 index of sea stars on Singapore shores**   
 **small sea stars <10cm**
@@ -38,30 +21,30 @@ diameter of sea star with arms*
 ![](asteroidea/cryptasterina/080510smkd2969m.jpg)  
   
 ![](asteroidea/cryptasterina/080510smkd2972m.jpg)  
-[Cryptic sea star](asteroidea/cryptasterina.htm)  
+[Cryptic sea star](asteroidea/cryptasterina)  
 *Cryptasterina* sp.
 
 ![](asteroidea/asterina/020710chgd1618m.jpg)  
   
 ![](asteroidea/asterina/050527srbd3508m.jpg)  
-[Crown sea star](asteroidea/asterina.htm)  
+[Crown sea star](asteroidea/asterina)  
 *Aquilonastra coronata*
 
 ![](asteroidea/nepred/021007cjd5962m.jpg)  
   
 ![](asteroidea/nepred/021007cjd5963m.jpg)  
-[Red scaly sea star](asteroidea/nepred.htm)  
+[Red scaly sea star](asteroidea/nepred)  
 *Nepanthia belcheri*
 
 ![](asteroidea/nepmaculata/050821bbg1978m.jpg)  
   
 ![](asteroidea/nepmaculata/050821bbg1983m.jpg)  
-[Pale scaly sea star](asteroidea/nepmaculata.htm)  
+[Pale scaly sea star](asteroidea/nepmaculata)  
 *Nepanthia maculata*
 
 ![](asteroidea/equestris/100420sntd1471m.jpg)  
   
-![](asteroidea/equestris/100420sntd1475m.jpg) [Galloping sea star](asteroidea/equestris.htm)  
+![](asteroidea/equestris/100420sntd1475m.jpg) [Galloping sea star](asteroidea/equestris)  
 *Stellaster childreni*
 
 3-4cm.
@@ -89,23 +72,23 @@ stumpy spines. Underside is white with colourful markings. Seen once
 at Sentosa.
 
 ![](asteroidea/sandplain/050608chgg7360m.jpg)   
-[Plain sand star](asteroidea/sandplain.htm)  
+[Plain sand star](asteroidea/sandplain)  
 *Astropecten indicus*
 
 ![](asteroidea/sandpainted/050622chgg8118m.jpg)   
-[Painted sand star](asteroidea/sandpainted.htm)  
+[Painted sand star](asteroidea/sandpainted)  
 *Astropecten vappa*
 
 ![](asteroidea/craspidaster/080705bbd7206m.jpg)   
-[Bordered sea star](asteroidea/craspidaster.htm)  
+[Bordered sea star](asteroidea/craspidaster)  
 *Craspidaster hesperus*
 
 ![](asteroidea/tinysevenarm/100616cyrtch1m.jpg)   
-[Tiny seven-armed coral star](asteroidea/tinysevenarm.htm)  
+[Tiny seven-armed coral star](asteroidea/tinysevenarm)  
 *Aquilonastra anomala*
 
 ![](asteroidea/tinyorange/180912tkkdc3d.jpg)   
-[Tiny orange star](asteroidea/tinyorange.htm)  
+[Tiny orange star](asteroidea/tinyorange)  
 *awaiting identification*
 
 4-6cm.
@@ -138,11 +121,11 @@ seen on our Southern shores.
 are NOT sea stars**
 
 ![](../cnidaria/actiniaria/peachia/040620skdd0688m.jpg)  
-[Sea anemone](../cnidaria/actiniaria/actiniaria.htm)  
+[Sea anemone](../cnidaria/actiniaria/actiniaria)  
 Phylum Cnidaria
 
 ![](../cnidaria/actiniaria/star/050311labg3255m.jpg)  
-[Sea anemone](../cnidaria/actiniaria/actiniaria.htm)  
+[Sea anemone](../cnidaria/actiniaria/actiniaria)  
 Phylum Cnidaria
 
  
@@ -167,39 +150,39 @@ echinoderms on this site
 
 **Phylum
 Echinodermata**[all
-echinoderms](echinodermatafi.htm)  **With arms**  
+echinoderms](echinodermatafi)  **With arms**  
  
 many,
 feathery  
-[feather stars](crinoideafi.htm)  
+[feather stars](crinoideafi)  
   
 five, bristley  
-[brittle stars](ophuiroideafi.htm)  
+[brittle stars](ophuiroideafi)  
   
 sea stars  
 small <10cm  
-[large](asteroideafi2.htm) >10cm
+[large](asteroideafi2) >10cm
   
  **Hard**  
  
 flat,
 coin-like  
-[sand dollars](echinoideafi1.htm)  
+[sand dollars](echinoideafi1)  
   
 spherical, spiny  
 [sea urchins  
-heart urchins](echinoideafi2.htm) 
+heart urchins](echinoideafi2) 
  **Soft**  
  
 sea
 cucumbers   
-[short](holothuroideafi1.htm)
+[short](holothuroideafi1)
 <10cm  
-[long](holothuroideafi2.htm) >10cm
+[long](holothuroideafi2) >10cm
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

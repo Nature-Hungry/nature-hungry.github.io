@@ -4,28 +4,28 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "halymenia, red, seaweed, weed, algae, halymeniaceae, halymeniales, rhodophyceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 red
-seaweeds [text index](../seaweedindex.htm#rhodophyta)
-| [photo index](../seaweedfi.htm)
+seaweeds [text index](../seaweedindex#rhodophyta)
+| [photo index](../seaweedfi)
 
-[Seaweeds](../seaweed.htm)
-> Division [Rhodophyta](rhodophyta.htm) > Family
-Gracilariacea > [Gracilaria](halymeniales/gracilaria.htm)
+[Seaweeds](../seaweed)
+> Division [Rhodophyta](rhodophyta) > Family
+Gracilariacea > [Gracilaria](halymeniales/gracilaria)
 species
 **Halymenia
 red seaweed   
@@ -47,8 +47,8 @@ be quite large.
 edges. Others have branching forms with a broad flat central 'stem'
 from which arise finer branches. Spots and bumps on the seaweed may
 be reproductive structures. [Ruffled halymenia
-red seaweed](dilatata.htm) (*Halymenia dilatata*) is translucent, slippery
-flat with ruffled edges. [Frilly sheet red seaweed](maculata.htm)
+red seaweed](dilatata) (*Halymenia dilatata*) is translucent, slippery
+flat with ruffled edges. [Frilly sheet red seaweed](maculata)
 (*Halymenia maculata*) is more leathery.  
   
 Although each clump of Halymenia red seaweed can be large, these seaweeds
@@ -80,10 +80,10 @@ Pulau Semakau, May 08
 ---
 
 ***![](maculata/070415sisg8603m3.jpg)*[Frilly
-halymenia](maculata.htm)**
+halymenia](maculata)**
 
 ***![](dilatata/070506sjig9197m3.jpg)*[Ruffled
-halymenia](dilatata.htm)**
+halymenia](dilatata)**
 
   
 *\*Seaweed
@@ -159,18 +159,18 @@ the Algae of Singapore*.
   
  
 *[Halymenia
-dilatata](dilatata.htm)* (Flat
+dilatata](dilatata)* (Flat
 halymenia red seaweed) *Halymenia durvillei  
 Halymenia floresii  
 Halymenia formosa  
-[Halymenia maculata](maculata.htm)* (Frilly
+[Halymenia maculata](maculata)* (Frilly
 sheet red seaweed) *Halymenia microcarpa* 
 
 ---
 
 **Links**
 
-- [Halymenia](http://mangrove.nus.edu.sg/pub/seashore/text/107.htm)
+- [Halymenia](http://mangrove.nus.edu.sg/pub/seashore/text/107)
   Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
@@ -207,9 +207,9 @@ sheet red seaweed) *Halymenia microcarpa*
   Guide and Atlas of the Seaweed Resources of the Philippines.*.
   Bookmark, Inc., the Philippines. 306 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

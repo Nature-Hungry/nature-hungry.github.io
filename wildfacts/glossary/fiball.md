@@ -4,21 +4,6 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, ball, sphere, round, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](index.html)
-| [search](../search.htm)
-
 **Photo
 index of marine life on Singapore shores**
   
@@ -27,90 +12,90 @@ index of marine life on Singapore shores**
 
 **Ball-shaped lifeforms
 stuck to a hard surface:**
-see also [blobs](fiblobs.htm)  
+see also [blobs](fiblobs)  
 
 ![](../porifera/ballprickly/040803tusd3982m.jpg)  
-**[sponge](../porifera/poriferafi3.htm)**
+**[sponge](../porifera/poriferafi3)**
 
 ![](../porifera/oceanapia/050526cjg6896m.jpg)  
-**[sponge](../porifera/poriferafi4.htm)**
+**[sponge](../porifera/poriferafi4)**
 
 ![](../porifera/hairyolives/100201hntd8929ma.jpg)  
-**[sponge](../porifera/poriferafi3.htm)**
+**[sponge](../porifera/poriferafi3)**
 
 ![](../porifera/golfball/050722cjd5195m.jpg)  
-**[sponge](../porifera/poriferafi3.htm)**
+**[sponge](../porifera/poriferafi3)**
 
-![](../echinodermata/ophiuroidea/tinysponge/050623cjg8307m.jpg)**[sponge](../porifera/poriferafi3.htm)**
+![](../echinodermata/ophiuroidea/tinysponge/050623cjg8307m.jpg)**[sponge](../porifera/poriferafi3)**
 ![](../porifera/ballspiky/060530chgd2579m.jpg)  
-**[sponge](../porifera/poriferafi3.htm)**
+**[sponge](../porifera/poriferafi3)**
 
 ![](../cnidaria/coralhard/faviidae/maze/others/040705sisd2228m.jpg)  
-[**hard coral**](../cnidaria/cnidariafi1.htm)
+[**hard coral**](../cnidaria/cnidariafi1)
 
 ![](../cnidaria/coralhard/mussidae/symphyllia/070618rlhg0651m.jpg)  
-[**hard coral**](../cnidaria/cnidariafi1.htm)
+[**hard coral**](../cnidaria/cnidariafi1)
 
 ![](../cnidaria/coralhard/poritidae/porboulder/060102sisg3684m.jpg)  
-[**hard coral**](../cnidaria/cnidariafi1.htm)
+[**hard coral**](../cnidaria/cnidariafi1)
 
 ![](../cnidaria/coralhard/merulinidae/cyphastrea/060402ulrd0978m.jpg)  
-**[hard coral](../cnidaria/coralhardfi6.htm)**
+**[hard coral](../cnidaria/coralhardfi6)**
 
 ![](../cnidaria/coralhard/faviidae/ring/ringpurplewhite/050528kusg7048m.jpg)  
-**[hard coral](../cnidaria/coralhardfi6.htm)**
+**[hard coral](../cnidaria/coralhardfi6)**
 
 ![](../porifera/potyellow/050312hntg3326m.jpg)  
-**[sponge](../porifera/poriferafi3.htm)**
+**[sponge](../porifera/poriferafi3)**
 
 ![](../porifera/golfball/050722cjd5195m.jpg)  
-**[sponge](../porifera/poriferafi3.htm)**
+**[sponge](../porifera/poriferafi3)**
 
   
 **not stuck to a hard
 surface**  
 
 **![](../echinodermata/echinoidea/urchin/salmacis/050621skdg8023m.jpg)  
-[sea urchins](../echinodermata/echinoideafi1.htm)**
+[sea urchins](../echinodermata/echinoideafi1)**
 
 **![](../echinodermata/echinoidea/urchin/diadema/040830hntd5872m.jpg)  
-[sea urchins](../echinodermata/echinoideafi1.htm)**
+[sea urchins](../echinodermata/echinoideafi1)**
 
 **![](../echinodermata/echinoidea/hearturchin/oval/031225skdd0018m.jpg)  
-[heart urchins](../echinodermata/echinoideafi2.htm)**
+[heart urchins](../echinodermata/echinoideafi2)**
 
 ![](../cnidaria/others/hydrozoa/thread/020406cjd8025m.jpg)  
-[**jellyfish**](../cnidaria/jellyfishfi.htm)
+[**jellyfish**](../cnidaria/jellyfishfi)
 
 ![](../cnidaria/actiniaria/tiger/080703chgd6667m.jpg)  
-**[sea anemone](../cnidaria/actiniaria/tiger.htm)**
+**[sea anemone](../cnidaria/actiniaria/tiger)**
 
 ![](../echinodermata/asteroidea/culcita/060401ulrd0750m.jpg)  
-[**sea star**](../echinodermata/asteroideafi1.htm)
+[**sea star**](../echinodermata/asteroideafi1)
 
 ![](../echinodermata/holothuroidea/lecanora/070203smkg7475m.jpg)  
-[**sea cucumber**](../echinodermata/holothuroideafi2.htm)
+[**sea cucumber**](../echinodermata/holothuroideafi2)
 
 ![](../echinodermata/holothuroidea/phyllophorus/050315cjd1800m.jpg)  
-[**sea cucumber**](../echinodermata/holothuroideafi2.htm)
+[**sea cucumber**](../echinodermata/holothuroideafi2)
 
 ![](../echinodermata/holothuroidea/violaceus/020501cjcpd8877m.jpg)  
-[**sea cucumber**](../echinodermata/holothuroideafi2.htm)
+[**sea cucumber**](../echinodermata/holothuroideafi2)
 
 ![](../mollusca/slugs/anaspidae/geographica/020626chgd0432m.jpg)  
-**[sea slug](../mollusca/slugfi1.htm)**
+**[sea slug](../mollusca/slugfi1)**
 
 ![](../vertebrates/fish/batrachoididae/trispinosus/040506cjd0020m.jpg)  
-**[fish](../vertebrates/fish/fishfi06.htm)**
+**[fish](../vertebrates/fish/fishfi06)**
 
 ![](../vertebrates/fish/tetraodontidae/nigroviridis/050218sbwrd0424m.jpg)  
-**[fish](../vertebrates/fish/fishfi06.htm)**
+**[fish](../vertebrates/fish/fishfi06)**
 
 ![](../vertebrates/fish/synanceiidae/horrida/060312hntd0311m.jpg)  
-**[fish](../vertebrates/fish/fishfi06.htm)**
+**[fish](../vertebrates/fish/fishfi06)**
 
 ![](../mollusca/cephalopoda/sepiolida/050622cftd4092m.jpg)  
- [**squid**](../mollusca/cephalopodafi.htm)
+ [**squid**](../mollusca/cephalopodafi)
 
   
 
@@ -119,7 +104,7 @@ surface**
 how to tell apart
 
 - [fishes
-  that look like stones](../vertebrates/fish/cfstonefish.htm)
+  that look like stones](../vertebrates/fish/cfstonefish)
 
   
   
@@ -131,41 +116,41 @@ lifeforms on this site
 by shape
 
 [general
-photo index](../photoindex.htm)  
+photo index](../photoindex)  
   
 ball-shaped  
   
-[blobs](fiblobs.htm)   
+[blobs](fiblobs)   
   
-[branching](fibranching.htm)  
+[branching](fibranching)  
   
-[bristley](fibristley.htm)  
+[bristley](fibristley)  
   
-[encrusting](fiencrusting.htm)  
+[encrusting](fiencrusting)  
   
-[feathery](fifeathery.htm)  
+[feathery](fifeathery)  
   
-[flat flexible](fiflatflexi.htm)   
+[flat flexible](fiflatflexi)   
   
-[flat stiff](fiflatstiff.htm)   
+[flat stiff](fiflatstiff)   
   
-[hairy](fihairy.htm)  
+[hairy](fihairy)  
   
-[leafy](fileafy.htm)  
+[leafy](fileafy)  
   
-[ribbon-like](firibbon.htm)  
+[ribbon-like](firibbon)  
   
-[sausage-like](fisausage.htm)  
+[sausage-like](fisausage)  
   
-[snake-like](fisnake.htm)   
+[snake-like](fisnake)   
   
-[stick-like](fistick.htm)   
+[stick-like](fistick)   
   
-[worm-like](fiworm.htm)
+[worm-like](fiworm)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

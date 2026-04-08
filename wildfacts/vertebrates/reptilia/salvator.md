@@ -4,23 +4,10 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "malayan, water, monitor, varanus, salvator, varanidae, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 vertebrates [text
-index](../vertindex.htm) | [photo index](../vertfi.htm)
+index](../vertindex) | [photo index](../vertfi)
 Phylum Chordata
 > Subphylum Vertebrata > Class Reptilia
 **Malayan
@@ -54,7 +41,7 @@ adults which is often plain grey. Non-venomous and shy of humans,
 it will prefer to flee than to fight. But if cornered, it may bite.
 So do leave the monitors alone.  
   
-**Sometimes mistaken for** an [Estuarine crocodile](porosus.htm). The lizard's snout is short and narrow, and tail is long and slender. A crocodile has a long snout and a much thicker fatter tail.   
+**Sometimes mistaken for** an [Estuarine crocodile](porosus). The lizard's snout is short and narrow, and tail is long and slender. A crocodile has a long snout and a much thicker fatter tail.   
   
 The lizard often swims by placing its limbs against its body and undulating its long tail from side to side. The crocodile may swim in the same way as the lizard. It may also often sink into the murky water and emerge some distance away. Sometimes, all that sticks out above water are the crocodile's eyes and the tip of its long snout.  
   
@@ -126,32 +113,32 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Links**
 
 - [Malayan
-  Water Monitor](http://www.ecologyasia.com/verts/lizards/malayan_water_monitor.htm) on Nick Baker's EcologyAsia website: fact sheet
+  Water Monitor](http://www.ecologyasia.com/verts/lizards/malayan_water_monitor) on Nick Baker's EcologyAsia website: fact sheet
   with photos.
 - [Malayan
-  Water Monitor](http://www.wildsingapore.per.sg/discovery/factsheet/malymonitor.htm) on Chan Kwok Wai's Wildlife Singapore: fact
+  Water Monitor](http://www.wildsingapore.per.sg/discovery/factsheet/malymonitor) on Chan Kwok Wai's Wildlife Singapore: fact
   sheet with photos.
 - [Busting
-  Myths about Monitors](http://iyb2010singapore.blogspot.sg/2010/12/busting-myths-about-monitors.html) by Ivan Kwan on the Celebrating Singapore's
+  Myths about Monitors](http://iyb2010singapore.blogspot.sg/2010/12/busting-myths-about-monitorsl) by Ivan Kwan on the Celebrating Singapore's
   Biodiversity blog.
 - [*Varanus
-  salvator*](https://singapore.biodiversity.online/taxo4254/mainSpace/Varanus_salvator.html) (Squamata: Varanidae) Water Monitor by Wong Li
+  salvator*](https://singapore.biodiversity.online/taxo4254/mainSpace/Varanus_salvatorl) (Squamata: Varanidae) Water Monitor by Wong Li
   Jing, 2011 on taxo4254
 - [Monitor lizard: Do's and don'ts](https://www.nparks.gov.sg/gardens-parks-and-nature/dos-and-donts/animal-advisories/monitor-lizards) on the NParks website
 - [*Varanus salvator*](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=842) on the NParks Flora and Faunat website.
 - from the
   wild shores of singapore blog
   - [How
-    many monitor lizards are at Sungei Buloh Wetland Reserve?](http://wildshores.blogspot.com/2011/01/how-many-monitor-lizards-are-at-sungei.html)
+    many monitor lizards are at Sungei Buloh Wetland Reserve?](http://wildshores.blogspot.com/2011/01/how-many-monitor-lizards-are-at-sungeil)
   - [When
-    lizards hug what does it mean?](http://wildshores.blogspot.sg/2012/03/when-lizard-hugs-you-what-does-it-mean.html)
+    lizards hug what does it mean?](http://wildshores.blogspot.sg/2012/03/when-lizard-hugs-you-what-does-it-meanl)
   - [Why
-    Pasir Ris mangroves are special](http://wildshores.blogspot.sg/2012/02/why-pasir-ris-mangroves-are-special.html)
+    Pasir Ris mangroves are special](http://wildshores.blogspot.sg/2012/02/why-pasir-ris-mangroves-are-speciall)
 
 **Articles**
 
-- [Water sport activities in Marina Reservoir suspended after 'crocodile' sighting](http://wildsingaporenews.blogspot.sg/2016/11/water-sport-activities-in-marina.html) Channel NewsAsia, 27 Nov 16.
-- [Sengkang river creature is "monitor lizard"](http://wildsingaporenews.blogspot.sg/2012/02/sengkang-river-creature-is-monitor.html) Channel NewsAsia, 21 Feb 12
+- [Water sport activities in Marina Reservoir suspended after 'crocodile' sighting](http://wildsingaporenews.blogspot.sg/2016/11/water-sport-activities-in-marinal) Channel NewsAsia, 27 Nov 16.
+- [Sengkang river creature is "monitor lizard"](http://wildsingaporenews.blogspot.sg/2012/02/sengkang-river-creature-is-monitorl) Channel NewsAsia, 21 Feb 12
 
 **References**
 
@@ -172,14 +159,4 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
   Malaysia and Singapore*
   New Holland.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

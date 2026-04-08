@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "pink, ear, emperor, fish, lethrinus, lentjan, lethrinidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Lethrinidae](lethrinidae.htm)
+> Subphylum Vertebrate > [fishes](../fish) >
+Family [Lethrinidae](lethrinidae)
 **Pink
 ear emperor   
 *Lethrinus
@@ -95,14 +95,14 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ![](lentjan/160409sjilks2.JPG)  
 *St John's Island,
-Apr 16*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2016/04/st-johns-islands-underwater-garden.html).
+Apr 16*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2016/04/st-johns-islands-underwater-gardenl).
 
 ---
 
 **Links**  
 
 - [Pink-eared
-  emperor (Lethrinus lentjan)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/313.htm) Lim, Kelvin K. P. & Jeffrey K.
+  emperor (Lethrinus lentjan)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/313) Lim, Kelvin K. P. & Jeffrey K.
   Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
@@ -110,7 +110,7 @@ Apr 16*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspo
   ear emperor (*Lethrinus lentjan*)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=1863) from [FishBase](http://www.fishbase.org/):
   Technical fact sheet.
 - [Volume
-  5: Bony fishes part 3 (Menidae to Pomacentridae)](http://www.fao.org/docrep/009/y0770e/y0770e00.htm) FAO Species
+  5: Bony fishes part 3 (Menidae to Pomacentridae)](http://www.fao.org/docrep/009/y0770e/y0770e00) FAO Species
   Identification Guide for Fishery Purposes The Living Marine Resources
   of the Western Central Pacific.
 
@@ -130,9 +130,9 @@ Apr 16*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspo
   Reef Fishes of the World*
   Periplus Editions. 400pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

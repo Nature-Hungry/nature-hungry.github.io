@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "ghost, white, brittle, star, brittlestar, ophiuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 brittle
-stars [text index](../echinodermindex.htm#ophiuroidea)
-| [photo index](../ophuiroideafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class Stellaroida > Subclass [Ophiuroidea](ophiuroidea.htm)
+stars [text index](../echinodermindex#ophiuroidea)
+| [photo index](../ophuiroideafi)
+Phylum [Echinodermata](../echinodermata)
+> Class Stellaroida > Subclass [Ophiuroidea](ophiuroidea)
 **Ghost
 brittle star**   
 ***awaiting identification\*****updated
@@ -32,7 +19,7 @@ Apr 2020*
 ---
 
 **Where
-seen?**This large brittle star is well hidden inside [Ball flowery soft corals](../../cnidaria/coralsoft/nepball.htm) and often overlooked. Its white arms with markings often closely match the colours of its host.  
+seen?**This large brittle star is well hidden inside [Ball flowery soft corals](../../cnidaria/coralsoft/nepball) and often overlooked. Its white arms with markings often closely match the colours of its host.  
   
 **Features:** Central disk tiny, arms about 10-12cm long. Animal mostly white with coloured speckles, bands and markings that match its host.   
   
@@ -111,14 +98,4 @@ Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng
 
 - Tan Heok Hui & Tan Siong Kiat. 12 December 2014. *Commensal animals of a soft coral tree in the Singapore Strait: Ball flowery coral tree, Dendronephthya sp.; False cowrie, Margovula marginata; Coral shell, Coralliophila rubrococcinea; Brittlestar, unidentified*. Singapore Biodiversity Records 2014: 321-323.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "sea star, seastar, starfish, star, fish, craspidaster, hesperus, astropectinidae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 sea
-stars [text index](../echinodermindex.htm) | [photo
-index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class Stelleroida > Subclass [Asteroidea](asteroidea.htm)
+stars [text index](../echinodermindex) | [photo
+index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
+> Class Stelleroida > Subclass [Asteroidea](asteroidea)
 **Bordered
 sea star  
 *Craspidaster hesperus*Family
@@ -106,13 +93,13 @@ Shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10
 *East Coast Park, Feb 09*![](craspidaster/090207tmlks04m3a.jpg)  
 Shared by Loh
 Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/02/tanah-merah-surprises.html).
+blog](http://wondercreation.blogspot.com/2009/02/tanah-merah-surprisesl).
 
 ![](craspidaster/140713bblks4m3.jpg)  
 *Beting Bronok, Jul 14*![](craspidaster/140713bblks5m3.jpg)  
 Shared by Loh
 Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2015/08/hows-beting-bronok-over-two-years.html).
+blog](http://wondercreation.blogspot.sg/2015/08/hows-beting-bronok-over-two-yearsl).
 
 ![](craspidaster/160607bbjll1.jpg)  
 *Beting Bronok, Jun 16*  
@@ -123,7 +110,7 @@ Shared by Jianlin Liu on [facebook](https://www.facebook.com/marinelife90/posts/
 **Links**
 
 - [*Craspidaster
-  hesperus*](http://www.sealifebase.org/summary/Craspidaster-hesperus.html)
+  hesperus*](http://www.sealifebase.org/summary/Craspidaster-hesperusl)
   on SeaLife Base: Technical fact sheet.
 
 **References**
@@ -139,14 +126,4 @@ Shared by Jianlin Liu on [facebook](https://www.facebook.com/marinelife90/posts/
   table and illustrated identification to the species*. The Raffles
   Bulletin of Zoology 1998 46(2): 431-470.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

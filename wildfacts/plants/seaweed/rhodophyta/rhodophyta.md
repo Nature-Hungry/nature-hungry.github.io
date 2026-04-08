@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "red, seaweed, weed, algae, rhodophyceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![talking points for nature guides](../../../../Templates/fornatureguides.gif)](../fngseaweed.htm)
+[![talking points for nature guides](../../../../Templates/fornatureguides.gif)](../fngseaweed)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
-red seaweeds [text index](../seaweedindex.htm#rhodophyta) | [photo
-index](../seaweedfi.htm)
+red seaweeds [text index](../seaweedindex#rhodophyta) | [photo
+index](../seaweedfi)
 
-[seaweeds](../seaweed.htm) in general
+[seaweeds](../seaweed) in general
 **Red
 seaweed   
 Division Rhodophyta  
@@ -74,16 +74,16 @@ our favourite seafood. The familiar dried seaweed used in Japanese
 sushi is a red seaweed *Porphyra* sp. which has been cultivated
 in Japan for more than 300 years. It is also eaten fresh. Other red
 seaweeds are also eaten. In the Philippines, some species of red seaweeds
-are eaten as salads. These include *[Gracilaria](gracilaria.htm),
-Hypnea, [Acanthophora](acanthophora.htm)* and *[Halymenia](halymenia.htm)*.
+are eaten as salads. These include *[Gracilaria](gracilaria),
+Hypnea, [Acanthophora](acanthophora)* and *[Halymenia](halymenia)*.
   
   
 Agar is an important extract of red seaweed, mainly from *Gelidium,
-[Gracilaria](gracilaria.htm)* and *Pterocladia*.
+[Gracilaria](gracilaria)* and *Pterocladia*.
 It is used in laboratories and pharmaceutical industries to study
 bacteria and to separate and purify various products.  
   
-Carrageenans are also extract from red seaweeds, especially *[Eucheuma](prickly.htm)*
+Carrageenans are also extract from red seaweeds, especially *[Eucheuma](prickly)*
 which is cultivated in the Philippines and tropical Pacific areas.
 The Philippines is the leading producer of carrageenans which are
 used throughout the world as an emulsifier and stabiliser in food
@@ -106,29 +106,29 @@ solidifying agent.
 ---
 
 **Division Rhodophyta on Singapore shores**  
-[text index](../seaweedindex.htm) and [photo
-index](../seaweedfi.htm) of red seaweeds on this site
+[text index](../seaweedindex) and [photo
+index](../seaweedfi) of red seaweeds on this site
 
 ---
 
 **Links**
 
-- [Algae](http://mangrove.nus.edu.sg/pub/seashore/flora.htm)
+- [Algae](http://mangrove.nus.edu.sg/pub/seashore/flora)
   Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
-- [Algae](http://mangrove.nus.edu.sg/guidebooks/text/1032.htm)
+- [Algae](http://mangrove.nus.edu.sg/guidebooks/text/1032)
   Ng, Peter K. L. & N. Sivasothi, 1999. *[A
   Guide to the Mangroves of Singapore I (Plant Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
   Singapore Science Centre. 168 pp.
 - [AlgaeBase](http://www.algaebase.org/):
   LOTS of very technical information.
 - [*Porhyra*
-  mariculture](http://www.mbari.org/staff/conn/botany/reds/lisa/mcult.htm): The mariculture, or farming, of *Porphyra*
+  mariculture](http://www.mbari.org/staff/conn/botany/reds/lisa/mcult): The mariculture, or farming, of *Porphyra*
   has become a major industry in the Asian countries, especially
   China and Japan. Have you ever wondered how they do it?
 - [Red
-  seaweed protection against bleaching](http://wildshores.blogspot.com/2008/12/red-seaweeds-defence-against-bleaching.html) on the wild shores of
+  seaweed protection against bleaching](http://wildshores.blogspot.com/2008/12/red-seaweeds-defence-against-bleachingl) on the wild shores of
   singapore blog.
 
 **References**
@@ -171,9 +171,9 @@ FREE photos of
 seaweeds](http://www.flickr.com/photos/54527470@N00/sets/72157600031841176).  
 Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

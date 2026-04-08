@@ -4,25 +4,12 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "worm, tube, tubeworm, fan, fanworm, peacock, anemone, polychaeta, sabellidae, ceriantharia, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 sea stars [text
-index](../echinodermindex.htm) | [photo index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class [Asteroidea](asteroidea.htm)
+index](../echinodermindex) | [photo index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
+> Class [Asteroidea](asteroidea)
 
 **Big
 sea stars  
@@ -42,15 +29,15 @@ Here's more on how to tell them apart.
 ![](goniodiscaster/080620chgd5874m3.jpg)
 
 **[Cake
-sea star](anthenea.htm)**  
+sea star](anthenea)**  
 *Anthenea aspera*
 
 **[Spiny
-sea star](gymnanthenea.htm)**  
+sea star](gymnanthenea)**  
 *Gymnanthenea laevis*
 
 **[Biscuit
-sea star](goniodiscaster.htm)**  
+sea star](goniodiscaster)**  
 *Goniodiscaster scaber*
 
 ![](anthenea/080620chgd5879m3b.jpg)
@@ -127,24 +114,14 @@ Adult Cake sea star.
 They come in various patterns.
 
 ![](culcita/080608cyrd5395m3.jpg)  
-Juvenile [Cushion stars](culcita.htm) may look
+Juvenile [Cushion stars](culcita) may look
 like   
 these stars. The Cushion star's distinctive   
 underside helps to identify it.
 
 ![](protoreaster/080425cyrd1775m3.jpg)  
-Young [Knobbly sea stars](protoreaster.htm) can
+Young [Knobbly sea stars](protoreaster) can
 be as  
 large as adults of the other stars.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

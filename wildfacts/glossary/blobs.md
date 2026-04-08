@@ -4,21 +4,6 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "porifera, ascidiacea, corallinacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](index.html)
-| [search](../search.htm)
-
 **Blob-like
 lifeforms: sponges, ascidians and encrusting algae  
 How to tell them apart?***updated
@@ -46,12 +31,12 @@ often quite colourful.
 ![](../plants/seaweed/rhodophyta/encrust/050610sntg7603m3a.jpg)
 
 **[Colonial
-ascidians](../ascidiacea/ascidiacea.htm)**
+ascidians](../ascidiacea/ascidiacea)**
 
-**[Sponges](../porifera/porifera.htm)**
+**[Sponges](../porifera/porifera)**
 
 **[Encrusting
-coralline algae](../plants/seaweed/rhodophyta/encrust.htm)**
+coralline algae](../plants/seaweed/rhodophyta/encrust)**
 
 Colonial
 ascidians are smooth and slimy.
@@ -77,12 +62,12 @@ Coralline
 algae doesn't have holes.
 Colonial
 ascidians are complex animals belonging to Phylum Chordata, [Class
-Ascidiacea](../ascidiacea/ascidiacea.htm).
+Ascidiacea](../ascidiacea/ascidiacea).
 Sponges
 are simple animals belonging to [Phylum
-Porifera](../porifera/porifera.htm).
+Porifera](../porifera/porifera).
 Coralline
-algae are [seaweeds](../plants/seaweed/seaweed.htm).
+algae are [seaweeds](../plants/seaweed/seaweed).
 
 ---
 
@@ -92,88 +77,88 @@ comparisons**
 ---
 
 *![](../cnidaria/others/zoanthid/tuberculosa/100613sngd5448m3.jpg)*  
-Some [zoanthids](../cnidaria/others/zoanthid/tuberculosa.htm)
+Some [zoanthids](../cnidaria/others/zoanthid/tuberculosa)
 look like mats of  
 thick rubber or blobs of jelly  
 when exposed at low tide.
 
 *![](../cnidaria/others/zoanthid/mutuki/050822cjd5877m3.jpg)*  
-Other [zoanthids](../cnidaria/others/zoanthid/zoanthid.htm)
+Other [zoanthids](../cnidaria/others/zoanthid/zoanthid)
 look like blobs of jelly  
 when exposed at low tide.
 
 *![](../cnidaria/actiniaria/beadbanded/041031cjd7939m3.jpg)*[Banded bead
-anemones](../cnidaria/actiniaria/beadbanded.htm) tuck in their   
+anemones](../cnidaria/actiniaria/beadbanded) tuck in their   
 tentacles at low tide and look like blobs.
 
 ---
 
-*![](../cnidaria/others/corallimorphs/carpet/120506sisd1112m3.jpg)*[Corallimorphs](../cnidaria/others/corallimorphs/corallimorph.htm)
+*![](../cnidaria/others/corallimorphs/carpet/120506sisd1112m3.jpg)*[Corallimorphs](../cnidaria/others/corallimorphs/corallimorph)
 tuck in their   
 tentacles at low tide and look like blobs.
 
 ![](../cnidaria/others/ceriantharia/common/080703chgd6522m3.jpg)  
 [Peacock
-anemone](../cnidaria/others/ceriantharia/ceriantharia.htm) with tentacles   
+anemone](../cnidaria/others/ceriantharia/ceriantharia) with tentacles   
 tucked in at low tide.
 
 ![](../cnidaria/others/ceriantharia/common/080708cyrd7579m3.jpg)  
 [Peacock
-anemone](../cnidaria/others/ceriantharia/ceriantharia.htm) with tentacles   
+anemone](../cnidaria/others/ceriantharia/ceriantharia) with tentacles   
 tucked in at low tide.
 
 ---
 
 ![](../mollusca/bivalvia/solenidae/solenidae/120703chgd6621m3.jpg)  
-Siphon of a buried [razor clam](../mollusca/bivalvia/solenidae/solenidae.htm)*.*
+Siphon of a buried [razor clam](../mollusca/bivalvia/solenidae/solenidae)*.*
 
-*![](../cnidaria/actiniaria/peachia/081231sisd4474m3.jpg)*Burrowing [sea anemone](../cnidaria/actiniaria/peachia.htm) with tentacles tucked in.
+*![](../cnidaria/actiniaria/peachia/081231sisd4474m3.jpg)*Burrowing [sea anemone](../cnidaria/actiniaria/peachia) with tentacles tucked in.
 
 ![](../ascidiacea/greengumdrop/050309smkg3139m3.jpg)  
-[Ascidians](../ascidiacea/greengumdrop.htm) are blob-like animals!
+[Ascidians](../ascidiacea/greengumdrop) are blob-like animals!
 
 ---
 
 ![](../plants/seaweed/phaeophyta/colpomenia/060128labg4051m3.jpg)  
 This is a [brown
-seaweed](../plants/seaweed/phaeophyta/colpomenia.htm).
+seaweed](../plants/seaweed/phaeophyta/colpomenia).
 
 ![](../plants/seaweed/chlorophyta/boergesenia/060727jngd5253m3.jpg)  
 This is a [green
-seaweed](../plants/seaweed/chlorophyta/boergesenia.htm).
+seaweed](../plants/seaweed/chlorophyta/boergesenia).
 
 ![](../plants/seaweed/chlorophyta/dictyosphaeria/091231biod7001m3.jpg)  
 This is a [green
-seaweed.](../plants/seaweed/chlorophyta/dictyosphaeria.htm)
+seaweed.](../plants/seaweed/chlorophyta/dictyosphaeria)
 
 ---
 
 ![](../cnidaria/others/hydrozoa/thread/020406cjd8025m3.jpg)  
-[Jellyfishes](../cnidaria/others/jellyfish/jellyfish.htm)
+[Jellyfishes](../cnidaria/others/jellyfish/jellyfish)
 stranded on the shore  
 look like blobs.
 
 *![](../mollusca/gastropoda/volutidae/nobilis/030619bbd0247m3.jpg)*The white thing is the egg capsule  
 of the [Noble
-volute](../mollusca/gastropoda/volutidae/nobilis.htm).
+volute](../mollusca/gastropoda/volutidae/nobilis).
 
 ![](../mollusca/slugs/anaspidae/bursatella/090428chgd0698m3.jpg)  
-Out of water, [sea slugs](../mollusca/slug.htm)  
+Out of water, [sea slugs](../mollusca/slug)  
 look like blobs.
 
 ---
 
 ![](../mollusca/cephalopoda/cepeggs/031030sntd0022m3.jpg)  
 These white cylinders are the [egg
-capsules of a cephalopod](../mollusca/cephalopoda/cepeggs.htm) (squid, cuttlefish or octopus).
+capsules of a cephalopod](../mollusca/cephalopoda/cepeggs) (squid, cuttlefish or octopus).
 
 ![](../mollusca/cephalopoda/cepeggs/020715chgd3359m3.jpg)  
 This string of black blobs are the [egg
-capsules of a cephalopod](../mollusca/cephalopoda/cepeggs.htm) (squid, cuttlefish or octopus).
+capsules of a cephalopod](../mollusca/cephalopoda/cepeggs) (squid, cuttlefish or octopus).
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

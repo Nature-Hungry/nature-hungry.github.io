@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "broad, colonial, anemone, zoanthid, mutuki, palythoa, zoanthidae, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 zoanthids [text
-index](../../cnidariaindex.htm#zoanthidea) | [photo index](../../anemonefi2.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Zoanthidea](zoanthid.htm)
+index](../../cnidariaindex#zoanthidea) | [photo index](../../anemonefi2)
+Phylum [Cnidaria](../../cnidaria)
+> Class [Anthozoa](../../anthozoa) > Subclass
+Zoantharia/Hexacorallia > Order [Zoanthidea](zoanthid)
 **Broad
 zoanthid  
 *Palythoa mutuki*****Family
@@ -70,16 +70,16 @@ of a few to many individuals. Body column usually beige or brown,
 oral disk usually brown, sometimes shades of green or bright blue.  
   
 Some species of broad zoanthids have been recorded to contain the
-highly toxic [palytoxin](zoanthid.htm).  
+highly toxic [palytoxin](zoanthid).  
   
 Compared
-to [button zoanthids](zoanthus.htm) (*Zoanthus* sp.),
+to [button zoanthids](zoanthus) (*Zoanthus* sp.),
 broad zoanthids are generally found in smaller clusters with fewer
 individuals, although large mounds of them are sometimes seen.   
   
-**Sometimes confused** with [sponges](../../../porifera/porifera.htm), [ascidians](../../../ascidiacea/ascidiacea.htm) and other
+**Sometimes confused** with [sponges](../../../porifera/porifera), [ascidians](../../../ascidiacea/ascidiacea) and other
 blob-like animals. Here's more on [how
-to tell apart blob-like animals](../../../glossary/blobs.htm).   
+to tell apart blob-like animals](../../../glossary/blobs).   
   
 **What does it eat?** Some species
 are said to capture and eat large prey, rapidly enclosing and swallowing
@@ -195,9 +195,9 @@ Marine-Earth Science and Technology) for identification of the zoanthids.
   Corals: Selection, Husbandry and Natural History*
   T.F. H Publications. 464 pp
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

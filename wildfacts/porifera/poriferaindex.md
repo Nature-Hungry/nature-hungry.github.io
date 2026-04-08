@@ -4,23 +4,6 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "checklist, check, list, index, sponge, porifera, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[![](../../Templates/fornatureguides.gif)](fngporifera.htm)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 sponges
 [text index](poriferaindex.htm) | [photo
 index](poriferafi.htm)
@@ -1555,31 +1538,3 @@ bemban besar, terumbu bemban, terumbu semakau, **rfl**: raffles lighthouse, **lf
 live firing area (Salu, Sudong, Pawai, Senang, Biola and submerged
 reefs in the area)
   
-[About
-citing](../about.htm) this checklist.
-
-photo
-index of   
-sponges on this site
-
-**Sponges
-and   
-sponge-like animals**  
-  
-[branching or lumpy](poriferafi1.htm)   
- [encrusting](poriferafi2.htm)  
- [balls, vases](poriferafi3.htm)  
- [other shapes](poriferafi4.htm)  
- [ascidians](../ascidiacea/ascidiaceafi.htm)
-
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "lion, fish, lionfish, pterois, scorpaenidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm) >
-Family [Scorpaenidae](scorpaenidae.htm)
+> Subphylum Vertebrata > [fishes](../fish) >
+Family [Scorpaenidae](scorpaenidae)
 **Lionfish  
 *Pterois* sp.  
 Family Scorpaenidae***updated
@@ -39,10 +39,10 @@ seen?** This magnificent fish is sometimes seen on our Southern shores. Elsewher
 **Russel's lionfish** (*Pterois russelii*) does not have spots on the median fins.  
 **Volitans lionfish** (*Pterois volitans*) has spots on the median fins.
 *![](pterois/140809hntlks3m3b.jpg)  
-Pulau Hantu, Aug 15*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/08/lionfish-on-lion-citys-birthday-at.html).
+Pulau Hantu, Aug 15*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/08/lionfish-on-lion-citys-birthday-atl).
 ![](pterois/140809hntlks3m6l.jpg)  
 Russel's scorpionfish *(Pterois russelii)  
-Pulau Hantu, Aug 15*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/08/lionfish-on-lion-citys-birthday-at.html).
+Pulau Hantu, Aug 15*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/08/lionfish-on-lion-citys-birthday-atl).
 
 ---
 
@@ -78,7 +78,7 @@ Pterois russelii* (Russel's lionfish) *+Pterois volitans* (Volitans lionfish)
 **Links**  
 
 - [*Pterois russelii* (Plaintail turkeyfish)](http://www.fishbase.org/summary/SpeciesSummary.php?ID=6404&genusname=Pterois&speciesname=russelii) on SeaLife Base: Technical fact sheet
-- [*Pterois volitans* (Red lionfish)](http://fishbase.sinica.edu.tw/summary/Pterois-volitans.html) on SeaLife Base: Technical fact sheet
+- [*Pterois volitans* (Red lionfish)](http://fishbase.sinica.edu.tw/summary/Pterois-volitansl) on SeaLife Base: Technical fact sheet
 
 **References**
 
@@ -89,9 +89,9 @@ Pterois russelii* (Russel's lionfish) *+Pterois volitans* (Volitans lionfish)
   Ewald and Robert Myers. 2001. *Coral
   Reef Fishes of the World* Periplus Editions. 400pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

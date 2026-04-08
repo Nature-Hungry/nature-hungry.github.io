@@ -4,22 +4,22 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "live, marine, aquarium, trade, conservation, conserve, protect, reef, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../Templates/wildfactsheet3.gif)](../index.html)
+[![](../../Templates/wildfactsheet3.gif)](../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../index.html)  
+[wildfactsheets homepage](../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
+[all animals](../animals)
+| [all plants](../plants)
+| [concepts](indexl)
+| [glossary](../glossary/indexl)
+| [search](../search)
 
-[index](index.html)
+[index](indexl)
 of concepts
 ****Fishes
 as our food*****updated
@@ -34,7 +34,7 @@ Fish is also used to produce fish meal which is fed other livestock
 that we eventually eat, mostly poultry and farmed fish and shrimps.  
   
 From the [2006
-UN FAO Study of World Fisheries and Aquaculture](http://www.fao.org/sof/sofia/index_en.htm)  
+UN FAO Study of World Fisheries and Aquaculture](http://www.fao.org/sof/sofia/index_en)  
   
 Nearly half the fish consumed as food worldwide are raised on fish
 farms rather than caught in the wild. While in 1980 just 9 percent
@@ -88,14 +88,14 @@ in Asia.
 **Links**  
 
 - [Disappearing
-  fish and prawns in Malaysia](http://wildshores.blogspot.com/2009/01/disappearing-fish-and-prawns-in.html) on the wild shores of singapore
+  fish and prawns in Malaysia](http://wildshores.blogspot.com/2009/01/disappearing-fish-and-prawns-inl) on the wild shores of singapore
   blog.
 - [Nearly
-  half of all fish eaten today farmed, not caught](http://www.fao.org/newsroom/en/news/2006/1000383/index.html) Aquaculture
+  half of all fish eaten today farmed, not caught](http://www.fao.org/newsroom/en/news/2006/1000383/indexl) Aquaculture
   only way to meet surging demand, but challenges to future growth
   loom  *FAO website 4 Sep 06*
 - [State
-  of World Fisheries and Aquaculture 2006](http://www.fao.org/sof/sofia/index_en.htm) on the UN Food and
+  of World Fisheries and Aquaculture 2006](http://www.fao.org/sof/sofia/index_en) on the UN Food and
   Agriculture Organisation (FAO) website.
 
 {sidebar}
@@ -105,9 +105,9 @@ in Singapore**
 [Nature's Niche](http://www.naturesniche.com/)   
 books, gifts, optics
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

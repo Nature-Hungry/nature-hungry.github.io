@@ -4,28 +4,28 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "stone, thunder, crab, myomenippe, hardwickii, eriphiidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
 Phylum
-[Arthropoda](../../../arthropoda/arthropoda.htm) > Subphylum
-[Crustacea](../../crustacea.htm) > Class Malacostraca
-> Order [Decapoda](../../decapoda.htm) > Brachyurans
-> Family [Menippidae](menippidae.htm)
+[Arthropoda](../../../arthropoda/arthropoda) > Subphylum
+[Crustacea](../../crustacea) > Class Malacostraca
+> Order [Decapoda](../../decapoda) > Brachyurans
+> Family [Menippidae](menippidae)
 **Maroon
 stone**  **crab**  
 ***Menippe rumphii***  
@@ -48,14 +48,14 @@ brown, with longitudinal white stripes. Large pincers smooth (no pimples)
 with black tips. One pincer slightly larger with a large molar-like
 tooth at the base of the finger. Walking legs not very hairy. Its
 eyes are all red without any green, unlike the
-very similar looking [Stone crab](hardwickii.htm) (*Myomenippe
+very similar looking [Stone crab](hardwickii) (*Myomenippe
 hardwickii*).  
   
-**Sometimes mistaken for** the [Stone crab](hardwickii.htm) (*Myomenippe
+**Sometimes mistaken for** the [Stone crab](hardwickii) (*Myomenippe
 hardwickii*) and [Red
-egg crab](../xanthidae/integerrimus.htm) (*Atergatis integerrimus*). Here's
+egg crab](../xanthidae/integerrimus) (*Atergatis integerrimus*). Here's
 more on how to tell apart [big crabs
-with big pincers](../../bigpincer.htm) seen on our rocky shores and coral rubble.
+with big pincers](../../bigpincer) seen on our rocky shores and coral rubble.
 ![](rumphii/080619chgd5706m3.jpg)  
 *Changi, Jun 08*![](rumphii/080619chgd5706m3a.jpg)  
 All red eyes, no green.
@@ -129,9 +129,9 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
   crabs of the world.* The Raffles Bulletin of Zoology. Supplement
   No. 17, 31 Jan 2008. 286 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

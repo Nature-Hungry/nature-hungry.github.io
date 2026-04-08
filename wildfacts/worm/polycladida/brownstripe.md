@@ -4,28 +4,15 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "brown, stripe, flat, worm, flatworm, pseudobiceros, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 flatworms
-[text index](../wormindex.htm) | [photo
-index](../polycladidafi.htm)
+[text index](../wormindex) | [photo
+index](../polycladidafi)
 
-[worms](../worm.htm) > Phylum Platyhelminthes >
+[worms](../worm) > Phylum Platyhelminthes >
 Class
-Turbellaria > [Order Polycladida](polycladida.htm)
+Turbellaria > [Order Polycladida](polycladida)
 
 **Brown-stripe flatworm  
 *Pseudobiceros* sp. 2\*****Family Pseudocerotidae***updated
@@ -43,7 +30,7 @@ not at all for some time.
 light to dark brown with darker brown to black narrow margins (no inner white margin). Center of the body raised with one dark brown line with diffuse white
 edges. Underside uniformly paler colouration with same margin as the upperside of the body. It has a pair of pseudotentacles at the front that are square, ear-like, with white tips.  
   
-**Sometimes mistaken for** [Bayer's flatworm](bayeri.htm) which has a dark body and distinctive bright white margins inside the dark outer margin.
+**Sometimes mistaken for** [Bayer's flatworm](bayeri) which has a dark body and distinctive bright white margins inside the dark outer margin.
 
 ![](brownstripe/060305sisg5452m3.jpg)  
 *Sisters Islands, Mar 06*
@@ -89,11 +76,11 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ![](brownstripe/090208chglks05m3.jpg)  
 *Changi, Feb 09*Shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/02/changi-beach-with-mgs-girls.html).
+blog](http://wondercreation.blogspot.com/2009/02/changi-beach-with-mgs-girlsl).
 
 ![](brownstripe/131106chglks1m3.JPG)  
 *Changi, Nov 13*Shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2013/12/seahorse-fiesta-at-changi.html).
+blog](http://wondercreation.blogspot.sg/2013/12/seahorse-fiesta-at-changil).
 
 ---
 
@@ -112,10 +99,10 @@ blog](http://wondercreation.blogspot.sg/2013/12/seahorse-fiesta-at-changi.html).
 
 ![](brownstripe/091231ubnlks1m3.JPG)  
 *Pulau Ubin, Dec 09*Shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2009/12/first-time-to-ubins-other-shores.html).
+blog](http://wondercreation.blogspot.sg/2009/12/first-time-to-ubins-other-shoresl).
 
 ![](brownstripe/140114cjlks2m3.jpg)  
-*Chek Jawa, Jan 14*Shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/01/any-impact-on-chek-jawa-from-dec-flood.html).
+*Chek Jawa, Jan 14*Shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/01/any-impact-on-chek-jawa-from-dec-floodl).
 
 ---
 
@@ -135,7 +122,7 @@ shared by Dayna Cheah on [facebook](https://www.facebook.com/photo.php?fbid=1657
 *![](brownstripe/111030skdlks7m3.jpg)  
 Pulau Sekudu, Oct 11*Photo
 shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/10/slugs-galore-at-pulau-sekudu.html).
+blog](http://wondercreation.blogspot.com/2011/10/slugs-galore-at-pulau-sekudul).
 
 ---
 
@@ -148,7 +135,7 @@ blog](http://wondercreation.blogspot.com/2011/10/slugs-galore-at-pulau-sekudu.ht
 ---
 
 ![](brownstripe/111126bblks2m3.JPG)  
-*Beting Bronok, Nov 11*Shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2011/11/sunny-day-out-at-beting-bronok.html)
+*Beting Bronok, Nov 11*Shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2011/11/sunny-day-out-at-beting-bronokl)
 
 ![](brownstripe/200723bbjll1.jpg)  
 *Beting Bronok, Jul 20*Photo shared by JIanlin Liu on [facebook](https://www.facebook.com/photo.php?fbid=10157591599596295&set=a.10157591596476295&type=3&theater). .
@@ -159,20 +146,20 @@ blog](http://wondercreation.blogspot.com/2011/10/slugs-galore-at-pulau-sekudu.ht
 *Beting Bronok, Jun 18*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10156450074463158&set=a.10156450071873158&type=3&theater). .
 
 ![](brownstripe/130527tmlks1m3.JPG)  
-*Tanah Merah, May 13*Shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2013/06/corals-galore-on-reclaimed-shores-of.html).
+*Tanah Merah, May 13*Shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2013/06/corals-galore-on-reclaimed-shores-ofl).
 
 ---
 
 ![](brownstripe/090210lablks09m3.jpg)  
 *Labrador, Feb 09*Shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/02/to-see-labrador-for-myself.html).
+blog](http://wondercreation.blogspot.com/2009/02/to-see-labrador-for-myselfl).
 
 ![](brownstripe/090224lazlks1m3.jpg)  
-*Lazarus, Feb 09*Shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2009/02/resurrection-of-lazarus.html).
+*Lazarus, Feb 09*Shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2009/02/resurrection-of-lazarusl).
 
 ![](brownstripe/090224lazlks07m3.jpg)  
 *Lazarus, Feb 09*Shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/02/resurrection-of-lazarus.html).
+blog](http://wondercreation.blogspot.com/2009/02/resurrection-of-lazarusl).
 
 ---
 
@@ -211,7 +198,7 @@ blog](http://wondercreation.blogspot.com/2009/02/resurrection-of-lazarus.html).
 *![](brownstripe/090509sislks1m3.JPG)  
 Sisters Island, May 09*Photo
 shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2009/05/back-to-big-sisters.html).
+blog](http://wondercreation.blogspot.sg/2009/05/back-to-big-sistersl).
 
 ---
 
@@ -220,7 +207,7 @@ blog](http://wondercreation.blogspot.sg/2009/05/back-to-big-sisters.html).
 
 ![](brownstripe/091106smkjk2m3.jpg)  
 *Pulau Semakau, Nov 09*Shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/11/091106-semakau.html).
+blog](http://sgn090608.blogspot.com/2009/11/091106-semakaul).
 
 ---
 
@@ -273,14 +260,4 @@ History Museum of Los Angeles County](http://www.nhm.org/) for comments on this 
   H and Helmut Debelius. 2009. World
   Atlas of Marine Fauna*![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=as2&o=1&a=3939767255)* . IKAN-Unterwasserachiv. 723pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

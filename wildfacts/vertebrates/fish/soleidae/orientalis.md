@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "oriental, flat, fish, flatfish, sole, brachirus, orientalis, soleidae, pleuronectiformes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm) >
-Order [Pleuronectiformes](../pleuronectiformes/pleuronectiformes.htm)
-> Family [Soleidae](soleidae.htm)
+> Subphylum Vertebrata > [fishes](../fish) >
+Order [Pleuronectiformes](../pleuronectiformes/pleuronectiformes)
+> Family [Soleidae](soleidae)
 **Oriental
 sole**  
 ***Brachirus orientalis***  
@@ -40,11 +40,11 @@ curved mouth. Body oval, it has a tiny pectoral fin on the eyed-side.
 Dorsal and anal fins joined with the tail fin and uniformly dark.
 The eyed-side is greyish brown with dark patches. Scales are rough. These bottom-dwelling fishes over 'walk' over the sand by undulating their fins ([here's a video](https://www.facebook.com/100003979885481/videos/pcb.3219425128200118/488530404213420)).  
   
-**Sometimes confused with** other [flatfishes](../pleuronectiformes/pleuronectiformes.htm).
+**Sometimes confused with** other [flatfishes](../pleuronectiformes/pleuronectiformes).
 The [Large-toothed
-flounder](../paralichthyidae/paralichthyidae.htm) (Family Paralichthyidae) looks very similar but it is
+flounder](../paralichthyidae/paralichthyidae) (Family Paralichthyidae) looks very similar but it is
 left-eyed. Here's more on [how
-to tell apart the flatfish families](../pleuronectiformes/pleuronectiformes1.htm) commonly seen.
+to tell apart the flatfish families](../pleuronectiformes/pleuronectiformes1) commonly seen.
 *![](orientalis/200705kusdc1a.jpg)  
 Kusu Island, Jul 20*Photo shared by Dayna Cheah on [facebook](https://www.facebook.com/photo.php?fbid=2944518182331605&set=a.2944697072313716&type=3&theater).
 
@@ -106,7 +106,7 @@ Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo/?fbid=1
 ![](orientalis/090712kusjkm6l.jpg)  
 *Kusu Island, Jul 09*  
 Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/07/kusu-island-sandy-lagoon-with-section.html).
+blog](http://sgn090608.blogspot.com/2009/07/kusu-island-sandy-lagoon-with-sectionl).
 
 ---
 
@@ -131,7 +131,7 @@ flickr](http://www.flickr.com/photos/koksheng/3558524051/).
 **Links**  
 
 - [Oriental
-  Sole (*Brachirus orientalis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/387.htm) Lim, Kelvin K. P. & Jeffrey
+  Sole (*Brachirus orientalis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/387) Lim, Kelvin K. P. & Jeffrey
   K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp. Family Soleidae .
@@ -139,13 +139,13 @@ flickr](http://www.flickr.com/photos/koksheng/3558524051/).
   sole (*Brachirus orientalis*)](http://www.fishbase.org/summary/8312) from [FishBase](http://www.fishbase.org/):
   Technical fact sheet.
 - [Volume
-  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.htm) FAO Species
+  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
   Identification Guide for Fishery Purposes The Living Marine Resources
   of the Western Central Pacific.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

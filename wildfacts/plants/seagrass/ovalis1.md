@@ -4,31 +4,31 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "spoon, halophila, ovalis, minor, hydrocharitaceae, seagrass, grass, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../Templates/wildfactsheet3.gif)](../../index.html)
+[![](../../../Templates/wildfactsheet3.gif)](../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../index.html)  
+[wildfactsheets homepage](../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
+[all animals](../../animals)
+| [all plants](../../plants)
+| [concepts](../../concepts/indexl)
+| [glossary](../../glossary/indexl)
+| [search](../../search)
 
 seagrasses
-[text index](seagrassindex.htm) | [photo
-index](seagrassfi.htm)
+[text index](seagrassindex) | [photo
+index](seagrassfi)
 
-[Seagrasses](seagrass.htm)
+[Seagrasses](seagrass)
 > Family Hydrocharitaceae
 **Spoon
 seagrasses on Singapore shores**  
 back to [general
-info on spoon seagrasses](ovalis.htm)  
+info on spoon seagrasses](ovalis)  
 
 ---
 
@@ -49,7 +49,7 @@ Pulau Berkas, May 10*
 *![](ovalis/100810sngd9958m3.jpg)  
 Pulau Senang, Aug 10*
 
-back to [general info on spoon seagrasses](ovalis.htm)
+back to [general info on spoon seagrasses](ovalis)
 
 [www.**flickr**.com](http://www.flickr.com)  
 
@@ -60,14 +60,4 @@ Make your own badge [here](http://www.flickr.com/badge.gne).
 **You CAN make a difference for Singapore's
 seagrasses!**[![](../../../Templates/teamsg.jpg)](http://teamseagrass.blogspot.com/)
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

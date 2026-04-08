@@ -4,21 +4,6 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "flat, worm, flatworm, polyclad, slug, nudibranch, nudibranchia, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](index.html)
-| [search](../search.htm)
-
 **Flatworm
 or nudibranch/slug?****How to tell them
 apart?**  
@@ -39,10 +24,10 @@ slugs and flat worms.
 
 *![](../mollusca/slugs/nudibranchia/boholiensis/060115sntg3989m3.jpg)*
 
-**[Flatworms](../worm/polycladida/polycladida.htm)**Phylum
+**[Flatworms](../worm/polycladida/polycladida)**Phylum
 Platyhelminthes
 
-**[Nudibranchs](../mollusca/nudibranchia.htm) and [slugs](../mollusca/slug.htm)**Phylum
+**[Nudibranchs](../mollusca/nudibranchia) and [slugs](../mollusca/slug)**Phylum
 Molusca
 
 Flatworms
@@ -83,7 +68,7 @@ up.
 Flatworms
 are unsegmented worms belonging to Phylum Platyhelminthes.
 Nudibranchs
-and slugs belong to Phylum [Mollusca](../mollusca/mollusca.htm).
+and slugs belong to Phylum [Mollusca](../mollusca/mollusca).
 
 ---
 
@@ -101,61 +86,61 @@ of their bodies.
 In others, the pseudotentacles are   
 not so obvious
 
-*![](../mollusca/slugs/nudibranchia/atromarginata/050529sjig7138m3a.jpg)*[Nudibranchs](../mollusca/nudibranchia.htm) have   
+*![](../mollusca/slugs/nudibranchia/atromarginata/050529sjig7138m3a.jpg)*[Nudibranchs](../mollusca/nudibranchia) have   
 'real' tentacles
 
 ---
 
 ![](../mollusca/slugs/sacoglossa/ornata/040423snt0116m3.jpg)  
 The [Leaf
-slug](../mollusca/slugs/sacoglossa/sacoglossa.htm) has tentacles   
+slug](../mollusca/slugs/sacoglossa/sacoglossa) has tentacles   
 but no external gills.
 
 ![](../mollusca/slugs/onchidiidae/smooth/050527srbg7003m3.jpg)  
 [Onch
-slugs](../mollusca/slugs/onchidiidae/onchidiidae.htm) also have tentacles  
+slugs](../mollusca/slugs/onchidiidae/onchidiidae) also have tentacles  
 but no external shell.
 
 *![](../mollusca/gastropoda/limpets/scutus/060326tusd0676m3.jpg)*  
 The [Hoof-shield
-limpet](../mollusca/gastropoda/limpets/scutus.htm) has a shell but   
+limpet](../mollusca/gastropoda/limpets/scutus) has a shell but   
 its body is much larger than the shell!
 
 ---
 
 ![](../worm/nemertea/pink/050510tusg6052m3.jpg)  
-[Ribbon worms](../worm/nemertea/nemertea.htm) are
+[Ribbon worms](../worm/nemertea/nemertea) are
 flat but very long.
 
 ![](../worm/polychaeta/chloeia/050412tusd2407m3.jpg)  
-Some [bristleworms](../worm/polychaeta/chloeia.htm) are flat,   
+Some [bristleworms](../worm/polychaeta/chloeia) are flat,   
 but they have lots of bristles!
 
 ![](../vertebrates/fish/soleidae/ovata/050511cftg6220m3.jpg)  
-Tiny [flatfishes](../vertebrates/fish/soleidae/ovata.htm) are sometimes   
+Tiny [flatfishes](../vertebrates/fish/soleidae/ovata) are sometimes   
 mistaken for flatworms!
 
 ---
 
-*![](../mollusca/gastropoda/cypraeidae/milliaris/040730skdd3368m3.jpg)*[Cowries](../mollusca/gastropoda/cypraeidae/cypraeidae.htm) often cover their shells with a   
+*![](../mollusca/gastropoda/cypraeidae/milliaris/040730skdd3368m3.jpg)*[Cowries](../mollusca/gastropoda/cypraeidae/cypraeidae) often cover their shells with a   
 'hairy' mantle and are thus mistaken for slugs.
 
 ![](../mollusca/gastropoda/limpets/patelloida/040901sjid6173m3.jpg)  
-[Limpets](../mollusca/gastropoda/limpets/limpet.htm) when covered with 'furry' algae   
+[Limpets](../mollusca/gastropoda/limpets/limpet) when covered with 'furry' algae   
 may sometimes be mistaken for slugs.
 
 ![](../mollusca/gastropoda/naticidae/didyma/060612cftd2847m3.jpg)  
-[Moon snails](../mollusca/gastropoda/naticidae/naticidae.htm) often cover their shells
+[Moon snails](../mollusca/gastropoda/naticidae/naticidae) often cover their shells
 with  
 their mantle so that they appear slug-like.
 
 ---
 
-how to tell apart [hairy slugs and snails](../mollusca/hairyslugsnail.htm)
+how to tell apart [hairy slugs and snails](../mollusca/hairyslugsnail)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "lobster, panulirus, ornatus, palinuridae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 lobsters [text
-index](../../crustaceaindex.htm#lobsters) | [photo index](../../shrimpfi2.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> [Lobsters](lobster.htm)
+index](../../crustaceaindex#lobsters) | [photo index](../../shrimpfi2)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> [Lobsters](lobster)
 **Ornate
 rock lobster**  
 ***Panulirus ornatus*  
@@ -78,7 +78,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 *![](palinuridae/120407lazlks8m3.jpg)*  
 *Seringat Kias,
 Apr 12*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2012/04/lobster-at-seringat-kias.html).
+blog](http://wondercreation.blogspot.com/2012/04/lobster-at-seringat-kiasl).
 
 *![](palinuridae/220104lazky4.jpg)*  
 *Trapped in a net, Lazarus, Jan 22*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=10166663611780112&set=a.10166663609395112).
@@ -93,7 +93,7 @@ blog](http://wondercreation.blogspot.com/2012/04/lobster-at-seringat-kias.html).
 **Links**
 
 - [Ornate
-  spiny lobster (*Panulirus ornatus*)](http://www.sealifebase.ca/summary/Panulirus-ornatus.html)
+  spiny lobster (*Panulirus ornatus*)](http://www.sealifebase.ca/summary/Panulirus-ornatusl)
   on SeaLife Base.  
   [Ornate
   spiny lobster (*Panulirus ornatus*)](http://species-identification.org/species.php?species_group=lobsters&id=159) on Marine Lobsters
@@ -114,9 +114,9 @@ blog](http://wondercreation.blogspot.com/2012/04/lobster-at-seringat-kias.html).
   Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
   IKAN-Unterwasserachiv, Frankfurt. 321 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

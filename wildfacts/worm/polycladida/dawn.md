@@ -4,28 +4,15 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "orange, black, flat, worm, flatworm, pseudobiceros, hancockanus, uniarborensis, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 flatworms
-[text index](../wormindex.htm) | [photo
-index](../polycladidafi.htm)
+[text index](../wormindex) | [photo
+index](../polycladidafi)
 
-[worms](../worm.htm) > Phylum Platyhelminthes >
+[worms](../worm) > Phylum Platyhelminthes >
 Class
-Turbellaria > [Order Polycladida](polycladida.htm)
+Turbellaria > [Order Polycladida](polycladida)
 
 **Dawn
 flatworm  
@@ -96,7 +83,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 flickr](http://www.flickr.com/photos/koksheng/4246057425/).
 
 ![](dawn/140519sntsrplks1m3.JPG)  
-*Sentosa Serapong, May 15*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/05/exploring-new-stretch-of-serapong-at.html).
+*Sentosa Serapong, May 15*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/05/exploring-new-stretch-of-serapong-atl).
 
 ![](dawn/240528tsllks6.jpg)  
 *Terumbu Selegie, May 24*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161378187758158).
@@ -111,7 +98,7 @@ flickr](http://www.flickr.com/photos/koksheng/4246057425/).
 
 ![](dawn/100528tkknml1m3.jpg)  
 *Pulau Tekukor, May 10*Photo shared by Neo Mei Lin on [her
-blog](http://psychedelic-nature.blogspot.com/2010/05/land-of-all-zoanthids-includes-some.html).
+blog](http://psychedelic-nature.blogspot.com/2010/05/land-of-all-zoanthids-includes-somel).
 
 ---
 
@@ -127,7 +114,7 @@ blog](http://psychedelic-nature.blogspot.com/2010/05/land-of-all-zoanthids-inclu
 ---
 
 ![](dawn/140909tptlks4m3.jpg)  
-*Terumbu Pempang Tengah, Sep 14*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/09/boat-graveyard-at-terumbu-pempang-tengah.html).
+*Terumbu Pempang Tengah, Sep 14*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/09/boat-graveyard-at-terumbu-pempang-tengahl).
 
 ![](dawn/240310tplky3.jpg)  
 *Terumbu Pempang Laut, Mar 24*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=10169275185660112&set=a.10169275183620112).
@@ -198,14 +185,4 @@ Grateful thanks to Rene Ong for sharing details and identifying the flatworms on
   H and Helmut Debelius. 2009. *World
   Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

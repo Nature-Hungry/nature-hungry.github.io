@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "eeltail, eel, tail, catfish, cat, fish, plotosidae, plotosus, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm)
+> Subphylum Vertebrata > [fishes](../fish)
 **Eeltail
 catfishes  
 Family Plotosidae***updated
@@ -68,13 +68,13 @@ catfish unpleasant for bigger fish to swallow. They use their venomous spines to
 predators, and not to catch prey.   
   
 **Sometimes mistaken for** [sea
-catfishes](../ariidae/ariidae.htm). Sea catfishes are seldom encountered on the intertidal
+catfishes](../ariidae/ariidae). Sea catfishes are seldom encountered on the intertidal
 at low tide. Sea catfishes have barbels too but their tail fins are
 forked and not eel-like as in the eeltail catfishes. Eeltail catfishes
 are sometimes also mistaken for [sea
-snakes](../../snakes/snakeshore.htm) or [eels](../muraenidae/muraenidae.htm) (Family
+snakes](../../snakes/snakeshore) or [eels](../muraenidae/muraenidae) (Family
 Muraenidae). Here's more on [how
-to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake.htm).
+to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake).
 *![](canius/050818cftg1436m3a.jpg)*'Whiskers' help it to find   
 food in murky waters. *Changi, Aug 05* 
 ![](lineatus/040605kuscd0186m3.jpg)  
@@ -111,10 +111,10 @@ catfishes on Singapore shores**
 ***![](canius/050818cftg1436m3.jpg)***
 
 **[Striped
-eeltail catfish](lineatus.htm)**
+eeltail catfish](lineatus)**
 
 **[Black
-eeltail catfish](canius.htm)**
+eeltail catfish](canius)**
 
  
 'Whiskers'
@@ -140,8 +140,8 @@ Plotosidae**
 *Paraplotosus
 albilabris* (White-lipped eeltail catfish)  
  *Plotosus anguillaris=\*\*Plotosus lineatus  
-[Plotosus canius](canius.htm)* (Black eeltail
-catfish) *[Plotosus lineatus](lineatus.htm)* (Striped eeltail
+[Plotosus canius](canius)* (Black eeltail
+catfish) *[Plotosus lineatus](lineatus)* (Striped eeltail
 catfish)
 
 ---
@@ -149,14 +149,14 @@ catfish)
 **Links**  
 
 - [Black
-  eeltail catfish (*Plotosus canius*)](http://mangrove.nus.edu.sg/pub/seashore/text/236.htm) Tan, Leo W. H. &
+  eeltail catfish (*Plotosus canius*)](http://mangrove.nus.edu.sg/pub/seashore/text/236) Tan, Leo W. H. &
   Ng, Peter K. L., 1988, *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [White-lipped
-  Eeltail Catfish (*Paraplotosus albilabris*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/224.htm), [Black
-  Eeltail Catfish (*Plotosus canius*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/225.htm), [Striped
-  Eeltail Catfish (*Plotosus lineatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/226.htm) Lim, Kelvin K.
+  Eeltail Catfish (*Paraplotosus albilabris*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/224), [Black
+  Eeltail Catfish (*Plotosus canius*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/225), [Striped
+  Eeltail Catfish (*Plotosus lineatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/226) Lim, Kelvin K.
   P. & Jeffrey K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
@@ -167,7 +167,7 @@ catfish)
   eel-catfish (*Plotosus lineatus*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=4706) from [FishBase](http://www.fishbase.org/):
   Technical fact sheet on the order, including fact sheets.
 - [Sting
-  of the cat: thousands of catfishes may be venomous](http://wildshores.blogspot.com/2009/12/sting-of-cat-thousands-of-catfishes-may.html) on the
+  of the cat: thousands of catfishes may be venomous](http://wildshores.blogspot.com/2009/12/sting-of-cat-thousands-of-catfishes-mayl) on the
   wild shores of singapore blog.
 
 **References**
@@ -191,9 +191,9 @@ catfish)
   Ewald and Robert Myers. 2001. *Coral
   Reef Fishes of the World* Periplus Editions. 400pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

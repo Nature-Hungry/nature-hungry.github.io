@@ -4,27 +4,14 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "fan, worm, fanworm, sabellid, sabellidae, polychaete, annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 worms
-[text index](../wormindex.htm) | [photo
-index](../wormfi.htm)
+[text index](../wormindex) | [photo
+index](../wormfi)
 
-[worms](../worm.htm) > Phylum Annelida >
-Class [Polychaeta](polychaeta.htm)
+[worms](../worm) > Phylum Annelida >
+Class [Polychaeta](polychaeta)
 > Order Sabellida > Family Sabellidae
 
 **Fanworms**   
@@ -54,10 +41,10 @@ tubes are the slightest sign of danger. So you have to approach them
 stealthily.  
   
 **What are fanworms?** Fanworms are
-segmented worms belonging to Family Sabllidae, Class [Polychaeta](polychaeta.htm),
+segmented worms belonging to Family Sabllidae, Class [Polychaeta](polychaeta),
 Phylum Annelida. The polychaetes include bristleworms, and Phylum
 Annelida includes the more familiar earthworm. The segmented portion
-of the fanworm is usually well hidden inside the tube like other [tubeworms](../tubeworm/tubeworms.htm).   
+of the fanworm is usually well hidden inside the tube like other [tubeworms](../tubeworm/tubeworms).   
   
 **fanworm features:** The feathery
 fan that we see is stuck on the top of the worm's head! The circular
@@ -115,11 +102,11 @@ a pot out of clay ropes.
   
 **Similar
 worm:** Feather-duster or 'Christmas tree fanworms' more
-familiar to divers belong to [Family Serpulidae](serpulidae.htm).
+familiar to divers belong to [Family Serpulidae](serpulidae).
 These worms build hard tubes out of calcium, while fanworms' don't.
 Feather duster worms usually have an operculum to cover the tube opening,
 while fanworms don't. More on how to tell apart [animals
-with a ring of feathery tentacles](../../glossary/feathery.htm). **Human uses:** Unfortunately, fanworms
+with a ring of feathery tentacles](../../glossary/feathery). **Human uses:** Unfortunately, fanworms
 are popular in the live aquarium trade and collected for this purpose. A fanworm (*Sabella spallanzanii*) introduced to Australian harbours
 and coasts is affecting some mussel farms because they grow on the
 lines meant for mussel larvae settlement. Dense growths of these worms
@@ -143,31 +130,31 @@ on Singapore shores**
 
 ---
 
-***![](sabellidae/banded/060611cjd2781m3.jpg)*[Banded fanworm](sabbanded.htm)**
+***![](sabellidae/banded/060611cjd2781m3.jpg)*[Banded fanworm](sabbanded)**
 
 **![](sabellidae/orange/060809skdd5505m3.jpg)  
-[Orange fanworm](saborange.htm)**
+[Orange fanworm](saborange)**
 
 **![](sabellidae/blue/050623cjg8275m3.jpg)  
-[Blue fanworm](sabblue.htm)**
+[Blue fanworm](sabblue)**
 
 ---
 
-***![](sabellidae/olive/091009tmd2683m3.jpg)*[Olive fanworm](sabolive.htm)**
+***![](sabellidae/olive/091009tmd2683m3.jpg)*[Olive fanworm](sabolive)**
 
 **![](sabellidae/spotted/040702chgd1528m3.jpg)  
-[Spotted fanworm](sabspotted.htm)**
+[Spotted fanworm](sabspotted)**
 
 ---
 
 **![](sabellidae/tinysand/070505kusg9102m3.jpg)  
-[Tiny sand fanworm](sabtinysand.htm)**
+[Tiny sand fanworm](sabtinysand)**
 
 **![](sabellidae/tinysand/080920hntd0777m3d.jpg)  
-[Tiny sand fanworm](sabtinysand.htm)**
+[Tiny sand fanworm](sabtinysand)**
 
 **![](sabellidae/white/050526cjg6820m3.jpg)  
-[White spiral fanworm](sabwhite.htm)**
+[White spiral fanworm](sabwhite)**
 
 ---
 
@@ -188,12 +175,12 @@ are difficult to positively identify without close examination.**On this website
 by external features for convenience of display.*
  
 [Banded
-fanworm](sabbanded.htm)  
-[Blue fanworm](sabblue.htm)  
-[Orange fanworm](saborange.htm) [Spotted fanworm](sabspotted.htm)  
-[Tiny sand fanworm](sabtinysand.htm)  
+fanworm](sabbanded)  
+[Blue fanworm](sabblue)  
+[Orange fanworm](saborange) [Spotted fanworm](sabspotted)  
+[Tiny sand fanworm](sabtinysand)  
 [White
-spiral fanworm](sabwhite.htm) 
+spiral fanworm](sabwhite) 
   
  
 **Family
@@ -213,12 +200,12 @@ Sabella* sp. *Sabellastarte indica=\*\*Sabellastarte spectabilis*
 
 **Links**
 
-- [Fanworm](http://mangrove.nus.edu.sg/pub/seashore/text/126.htm)
+- [Fanworm](http://mangrove.nus.edu.sg/pub/seashore/text/126)
   Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [Family
-  Sabellidae](http://rmbr.nus.edu.sg/polychaete/Sabellidae.html) by Lim Yun Ping 1997-2000 [A
+  Sabellidae](http://rmbr.nus.edu.sg/polychaete/Sabellidael) by Lim Yun Ping 1997-2000 [A
   Guide to Singapore Polychaetes](http://rmbr.nus.edu.sg/polychaete/) on the Raffles Museum of Biodiversity
   Research website: fact sheet and photos of sabellids found in
   Singapore.
@@ -250,14 +237,4 @@ Sabella* sp. *Sabellastarte indica=\*\*Sabellastarte spectabilis*
   of the Invertebrates*.
   5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

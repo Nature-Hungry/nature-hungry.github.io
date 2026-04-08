@@ -4,25 +4,12 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "cake, sea star, seastar, starfish, star, fish, anthenea, aspera, oreasteridae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 sea
-stars [text index](../echinodermindex.htm) | [photo
-index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm) > Class Stelleroida > Subclass [Asteroidea](asteroidea.htm)
+stars [text index](../echinodermindex) | [photo
+index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata) > Class Stelleroida > Subclass [Asteroidea](asteroidea)
 **Cake
 sea star  
 *Anthenea aspera*  
@@ -64,9 +51,9 @@ Large marginal plates on the sides.
 Cake sea stars come in
 a wide variety of patterns and colours, from black, brown, red, orange,
 yellow to even green. **Sometimes confused with** the [Biscuit
-sea star](goniodiscaster.htm) (*Goniodiscaster scaber*). and the [Spiny
-sea star](gymnanthenea.htm) (*Gymnanthenea laevis*). Here's more on [how
-to tell apart large sea stars](cfbigstars.htm) seen on our shores.  
+sea star](goniodiscaster) (*Goniodiscaster scaber*). and the [Spiny
+sea star](gymnanthenea) (*Gymnanthenea laevis*). Here's more on [how
+to tell apart large sea stars](cfbigstars) seen on our shores.  
   
 **Status and threats:** This star
 is listed as 'Vulnerable' in the Red List of threatened animals of
@@ -116,7 +103,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ![](anthenea/090808prplks2m3.jpg)  
 *Pasir Ris Park, Aug 09*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/08/sinking-mud-at-pasir-ris-part-i.html).
+blog](http://wondercreation.blogspot.com/2009/08/sinking-mud-at-pasir-ris-part-il).
 
 ![](anthenea/200125prpAky1.jpg)  
 *Pasir Ris Park, Jan 20*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo.php?fbid=10163513743665112&set=a.10163513743360112&type=3&theater).
@@ -151,7 +138,7 @@ Photo shared byMarcus Ng on [facebook](https://www.facebook.com/media/set/?set=a
 ![](anthenea/091203ubnlks1m3.jpg)  
 *Pulau Ubin, Dec 09*  
 Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/12/first-time-to-ubins-other-shores.html).
+blog](http://wondercreation.blogspot.com/2009/12/first-time-to-ubins-other-shoresl).
 
 ---
 
@@ -177,7 +164,7 @@ flickr](http://www.flickr.com/photos/chimck/2694564949/).
 *Cyrene Reef,
 Jun 10*Photo
 shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/06/starry-night-trip-to-cyrene.html).
+blog](http://wondercreation.blogspot.com/2010/06/starry-night-trip-to-cyrenel).
 
   
 
@@ -186,7 +173,7 @@ blog](http://wondercreation.blogspot.com/2010/06/starry-night-trip-to-cyrene.htm
 **Links**
 
 - [*Anthenea
-  aspera*](http://www.sealifebase.org/summary/Anthenea-aspera.html)
+  aspera*](http://www.sealifebase.org/summary/Anthenea-asperal)
   on SeaLife Base: Technical fact sheet.
 
 **References**
@@ -210,14 +197,4 @@ blog](http://wondercreation.blogspot.com/2010/06/starry-night-trip-to-cyrene.htm
   stars: Echinoderms of Asia/Indo-Pacific*. Neville Coleman's
   Underwater Geographic Pty Ltd, Australia.136pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

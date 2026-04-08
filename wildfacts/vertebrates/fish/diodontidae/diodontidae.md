@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "pufferfish, puffer, fish, tetraodontidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm)
+> Subphylum Vertebrata > [fishes](../fish)
 **Porcupinefishes**  
 **Family Diodontidae***updated Sep 2020*
 
@@ -36,8 +36,8 @@ Diodontidae. According to [FishBase](http://www.fishbase.org/Summary/FamilySumma
 the family has 19 genera and 121 species. They are found in tropical
 and subtropical ares of the Atlantic, Indian and Pacific oceans. Other
 similar fishes belong to different families: boxfishes and cowfishes
-to [Family Ostraciidae](../ostraciidae/ostraciidae.htm),
-and pufferfished to [Family Tetraodontidae](../tetraodontidae/tetraodontidae.htm).  
+to [Family Ostraciidae](../ostraciidae/ostraciidae),
+and pufferfished to [Family Tetraodontidae](../tetraodontidae/tetraodontidae).  
  **Features:** About 15cm but can grow to 50cm. Like more familiar pufferfishes, the porcupinefish can also inflate its body which is covered in well-developed sharp spines. In some species the spines erect only when the body is inflated. Jaws with 2 fused teeth (parrotlike). They are poor swimmers.
 ![](diodontidae/200623chgsbr.jpg)  
 Freckled porcupinefish *(Diodon holacanthus*)  
@@ -77,7 +77,7 @@ Diodon holacanthus*(Freckled porcupinefish) *\**Diodon liturosus** (Black-blotch
 
 **Links**  
 
-- [Longspine porcupinefish (*Diodon holacanthus*)](https://www.fishbase.se/summary/Diodon-holocanthus.html) and [Black-blotched porcupinefish (*Diodon liturosus*)](https://www.fishbase.se/summary/6552) from [FishBase](http://www.fishbase.org/):
+- [Longspine porcupinefish (*Diodon holacanthus*)](https://www.fishbase.se/summary/Diodon-holocanthusl) and [Black-blotched porcupinefish (*Diodon liturosus*)](https://www.fishbase.se/summary/6552) from [FishBase](http://www.fishbase.org/):
   Technical fact sheet on the family.
 
 **References**
@@ -85,9 +85,9 @@ Diodon holacanthus*(Freckled porcupinefish) *\**Diodon liturosus** (Black-blotch
 - Adib Adris. 31 August 2020. *A freckled porcupinefish at Changi*. Singapore Biodiversity Records 2020: 117 ISSN 2345-7597
 - Yong How Jonathan Tan. 30 April 2020. *Black-blotched porcupinefish at Cyrene Reef*. Singapore Biodiversity Records 2020: 40 ISSN 2345-7597
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

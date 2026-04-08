@@ -4,25 +4,12 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "eight, armed, sand, sea star, seastar, starfish, star, fish, luidia, maculata, luidiidae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 sea
-stars [text index](../echinodermindex.htm) | [photo
-index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm) > Class Stelleroida > Subclass [Asteroidea](asteroidea.htm) > Genus [*Luidia*](luidia.htm)
+stars [text index](../echinodermindex) | [photo
+index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata) > Class Stelleroida > Subclass [Asteroidea](asteroidea) > Genus [*Luidia*](luidia)
 **Eight-armed
 Luidia sea star  
 *Luidia maculata*  
@@ -48,7 +35,7 @@ blue, to brown and beige, but usually with a darker star-shaped pattern
 in the centre, and dark irregular bars along the length of the arms.  
   
 **Sometimes mistaken for** the [Common
-sea star](archaster.htm). The Common sea star has large
+sea star](archaster). The Common sea star has large
 tube feet with sucker-shaped tips, while the Eight-armed sand star
 has large tube feet with pointed tips.
 
@@ -127,7 +114,7 @@ With five arms. *Changi, May 16*Photo shared by Marcus Ng on [facebook](https://
 *Changi, Jun
 09*Photo
 shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/07/beyond-murky-waters-of-changi.html).
+blog](http://wondercreation.blogspot.com/2009/07/beyond-murky-waters-of-changil).
 
 ![](luimaculata/090721skdd7607m3.jpg)  
 *Pulau Sekudu,
@@ -141,7 +128,7 @@ shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/14172
 
 ![](luimaculata/150320tuslks1m3.JPG)  
 *Tuas, Mar 15*Photo
-shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/12/tuas-shore-with-stars-surprise.html).
+shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/12/tuas-shore-with-stars-surprisel).
 
 ![](luimaculata/210529ecpblks10.jpg)  
  *East Coast Park, May 21*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10159233458518158&set=a.10159233461703158).
@@ -153,13 +140,13 @@ Pulau Semakau, Aug 11*
 
 *![](luimaculata/110814smkjk4m3a.jpg)*Photo
 shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2011/08/110814-semakau.html).
+blog](http://sgn090608.blogspot.com/2011/08/110814-semakaul).
 
 ---
 
 **Links**
 
-- [Learning about *Luidia*! 5 Things about The OTHER Sand Star!](http://echinoblog.blogspot.sg/2014/04/learning-about-luidia-5-things-about.html) by Dr Christopher Mah on Echinoblog
+- [Learning about *Luidia*! 5 Things about The OTHER Sand Star!](http://echinoblog.blogspot.sg/2014/04/learning-about-luidia-5-things-aboutl) by Dr Christopher Mah on Echinoblog
 - [*Luidia maculata*](https://wiki.nus.edu.sg/display/TAX/Luidia+maculata+-+Eight-armed+Sea+Star) - Eight-armed Sea Star by Tashfia Raquib, 02 Jan 2019 on Taxo4254.
 
 **References**
@@ -193,14 +180,4 @@ blog](http://sgn090608.blogspot.com/2011/08/110814-semakau.html).
   exclusive of the vertebrates![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*
   Sea Challengers. 314pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

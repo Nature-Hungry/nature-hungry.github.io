@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "strapweed, filefish, file, fish, leather, jacket, pseudomonacanthus, monacanthus, macrurus, monacanthidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Monacanthidae](monacanthidae.htm)
+> Subphylum Vertebrate > [fishes](../fish) >
+Family [Monacanthidae](monacanthidae)
 **Strapweed
 filefish  
 *Pseudomonacanthus macrurus\****  
@@ -41,7 +41,7 @@ called the Smallspotted leatherjacket.
 about 10cm. Body with lots of small circular dots and often a broad
 white stripe or blotch along the centre of the body from the gill
 opening. May have dark blotches.
-More on [how to tell apart filefishes](monacanthidae.htm).
+More on [how to tell apart filefishes](monacanthidae).
 *![](macrurus/080523cyrd4028m3.jpg)  
 Cyrene Reef, May 08*
 *![](macrurus/080605hntd4960m6l.jpg)*  
@@ -94,7 +94,7 @@ Amy Woon on [facebook](https://www.facebook.com/amy.woon.169/posts/pfbid0AuGLf8z
 
 *![](macrurus/090510sntik6m6l.jpg)*  
 *Siloso, May 09*Photo shared by Ivan Kwan on [his
-blog](http://lazy-lizard-tales.blogspot.com/2009/05/finds-with-spines-on-siloso.html).
+blog](http://lazy-lizard-tales.blogspot.com/2009/05/finds-with-spines-on-silosol).
 
 ---
 
@@ -105,7 +105,7 @@ blog](http://lazy-lizard-tales.blogspot.com/2009/05/finds-with-spines-on-siloso.
   Technical fact sheet.
 - [Volume
   6: Bony fishes part 4 (Labridae to Latimeriidae), estuarine crocodiles,
-  sea turtles, sea snakes and marine mammals](http://www.fao.org/docrep/009/y0870e/y0870e00.htm) FAO Species Identification
+  sea turtles, sea snakes and marine mammals](http://www.fao.org/docrep/009/y0870e/y0870e00) FAO Species Identification
   Guide for Fishery Purposes The Living Marine Resources of the
   Western Central Pacific.
 
@@ -121,9 +121,9 @@ blog](http://lazy-lizard-tales.blogspot.com/2009/05/finds-with-spines-on-siloso.
   Reef Fishes of the World*
   Periplus Editions. 400pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

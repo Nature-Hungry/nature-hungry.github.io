@@ -4,35 +4,18 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "checklist, check, list, index, worm, polychaete, annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[![](../../Templates/fornatureguides.gif)](fngworm.htm)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 worms [photo
-index](wormfi.htm)
-[worms](worm.htm)
+index](wormfi)
+[worms](worm)
 in general
 **Worms
 on Singapore shores**Don't
-know the name of the worm? Try the [worm photo index](wormfi.htm) **[Intertidal and marine worms](worm.htm)**
+know the name of the worm? Try the [worm photo index](wormfi) **[Intertidal and marine worms](worm)**
 
 ---
 
 **Phylum Platyhelmintes**
- **Class Turbellaria, [Order Polycladida](polycladida/polycladida.htm)
+ **Class Turbellaria, [Order Polycladida](polycladida/polycladida)
 marine flatworms**  
 
 pgl
@@ -119,7 +102,7 @@ smk
 lfa
 
 [Phlegm
-flatworm](polycladida/phlegm.htm)  
+flatworm](polycladida/phlegm)  
 awaiting identification
 
 prp
@@ -145,7 +128,7 @@ cyr
 *smk*
 
 [Silt
-flatworm](polycladida/silt.htm)  
+flatworm](polycladida/silt)  
 awaiting identification
  
  
@@ -209,7 +192,7 @@ jng
 *tsm*
 
 [*Maritigrella
-fuscopunctata*](polycladida/fuscopunctata.htm)   
+fuscopunctata*](polycladida/fuscopunctata)   
 Punctuated flatworm
 
 *skd*
@@ -225,7 +208,7 @@ jng
 *tsm*
 
 [*Maritigrella
-virgulata*](polycladida/virgulata.htm)   
+virgulata*](polycladida/virgulata)   
 Red-lined flatworm
  
  
@@ -324,7 +307,7 @@ rfl
 
 lfa
 
-[*Acanthozoon*sp.](polycladida/acanthozoon.htm)   
+[*Acanthozoon*sp.](polycladida/acanthozoon)   
 Spangled flatworm
 
 cj
@@ -347,7 +330,7 @@ tsm
 
 *lfa*
 
-[*Nymphozoon bayeri*](polycladida/bayeri.htm)   
+[*Nymphozoon bayeri*](polycladida/bayeri)   
 Bayer's flatworm
 
 *laz*
@@ -356,7 +339,7 @@ Bayer's flatworm
 
 *tsm*
 
-[*Nymphozoon orsaki*](polycladida/orsaki.htm)   
+[*Nymphozoon orsaki*](polycladida/orsaki)   
 Orsak's flatworm
 
 *chg*
@@ -370,7 +353,7 @@ cyr
 *smk*
 
 [*Phrikoceros
-baibaiye*](polycladida/baibaiye.htm)   
+baibaiye*](polycladida/baibaiye)   
 Vermilion flatworm
 
 *skd*
@@ -406,7 +389,7 @@ rfl
 *lfa*
 
 [*Pseudobiceros
-bedfordi*](polycladida/bedfordi.htm)   
+bedfordi*](polycladida/bedfordi)   
 Persian carpet flatworm
 
 *kus*
@@ -414,7 +397,7 @@ Persian carpet flatworm
 *sis*
 
 *[Pseudobiceros
-damawan](polycladida/damawan.htm)*  
+damawan](polycladida/damawan)*  
 Damawan flatworm
 
 *chg*
@@ -443,7 +426,7 @@ smk
 
 *lfa*
 
-[*Pseudobiceros fulgor*](polycladida/fineline.htm)   
+[*Pseudobiceros fulgor*](polycladida/fineline)   
 Lightning flatworm
 
 tm
@@ -479,7 +462,7 @@ rfl
 lfa
 
 [*Pseudobiceros
-hancockanus*](polycladida/dawn.htm)  
+hancockanus*](polycladida/dawn)  
 Dawn flatworm
 
 tm
@@ -497,7 +480,7 @@ cyr
 *smk*
 
 [*Pseudobiceros
-stellae*](polycladida/stellae.htm)   
+stellae*](polycladida/stellae)   
 Starry flatworm
 
 chg
@@ -535,7 +518,7 @@ hnt
 *lfa*
 
 [*Pseudobiceros
-sp. 2*](polycladida/brownstripe.htm)   
+sp. 2*](polycladida/brownstripe)   
 Brown-stripe flatworm
 
 *snt*
@@ -558,7 +541,7 @@ hnt
 
 *lfa*
 
-[*Pseudobiceros* sp. 5](polycladida/orangewhite.htm)  
+[*Pseudobiceros* sp. 5](polycladida/orangewhite)  
 Halloween flatworm
 
 *chg*
@@ -580,7 +563,7 @@ tus
 *smk*
 
 [*Pseudoceros
-bifurcus*](polycladida/bifurcus.htm)   
+bifurcus*](polycladida/bifurcus)   
 Racing-line flatworm
 
 *chg*
@@ -625,7 +608,7 @@ tsm
 
 lfa
 
-[*Pseudoceros concinnus*](polycladida/lineblue.htm)  
+[*Pseudoceros concinnus*](polycladida/lineblue)  
 Blue-line flatworm
 
 tus
@@ -633,7 +616,7 @@ tus
 *laz*
 
 [*Pseudoceros
-caeruleocinctus*](polycladida/sapphirinus.htm)   
+caeruleocinctus*](polycladida/sapphirinus)   
 Sapphire flatworm
 
 chg
@@ -674,7 +657,7 @@ tpg
 
 *lfa*
 
-[*Pseudoceros indicus*](polycladida/indicus.htm)   
+[*Pseudoceros indicus*](polycladida/indicus)   
 Blue-dot margined flatworm
 
 chg
@@ -694,14 +677,14 @@ snt
 *tsm*
 
 [*Pseudoceros
-laingensis*](polycladida/laingensis.htm)   
+laingensis*](polycladida/laingensis)   
 Purple-spotted flatworm
 
 *jng*
 
 *lfa*
 
-*[Pseudoceros meenae](polycladida/white.htm)*  
+*[Pseudoceros meenae](polycladida/white)*  
 White
 flatworm
 
@@ -717,7 +700,7 @@ flatworm
 
 *tsm*
 
-[*Pseudoceros* cf*. prudhoei*](polycladida/silverlining.htm)  
+[*Pseudoceros* cf*. prudhoei*](polycladida/silverlining)  
 Silver-lining
 flatworm
 
@@ -731,7 +714,7 @@ sis
 
 *smk*
 
-[*Pseudoceros rubrotentaculatus*](polycladida/rubrotentaculatus.htm)  
+[*Pseudoceros rubrotentaculatus*](polycladida/rubrotentaculatus)  
 Ocher-striped flatworm
 
 *cj*
@@ -740,7 +723,7 @@ Ocher-striped flatworm
 
 *jng*
 
-*[Pseudoceros scintillatus](polycladida/scintillatus.htm)*  
+*[Pseudoceros scintillatus](polycladida/scintillatus)*  
 Scintillating flatworm
 
 *prp*
@@ -759,7 +742,7 @@ tm
 
 *sis*
 
-[*Pseudoceros* sp. 1](polycladida/ascidianbeige.htm)  
+[*Pseudoceros* sp. 1](polycladida/ascidianbeige)  
 Marbled flatworm
 
 cj
@@ -776,7 +759,7 @@ snt
 
 *smk*
 
-[*Pseudoceros* sp. 3](polycladida/lineyellow.htm)  
+[*Pseudoceros* sp. 3](polycladida/lineyellow)  
 Yellow-lined flatworm
 
 *cj*
@@ -803,7 +786,7 @@ snt
 
 *tsm*
 
-[*Pseudoceros* sp. 4](polycladida/linebraid.htm)  
+[*Pseudoceros* sp. 4](polycladida/linebraid)  
 Braided-line flatworm
 
 *tkr*
@@ -826,12 +809,12 @@ hnt
 
 rfl
 
-[*Pseudoceros*sp. 5](polycladida/triplestripe.htm)  
+[*Pseudoceros*sp. 5](polycladida/triplestripe)  
 Triple-striped flatworm
 
 lfa
 
-*[Pseudocerotid 8](polycladida/felis.htm)*  
+*[Pseudocerotid 8](polycladida/felis)*  
 Feline flatworm
 
 *chg*
@@ -854,7 +837,7 @@ cyr
 
 *smk*
 
-[*Tytthosoceros lizardensis*](polycladida/olive.htm)  
+[*Tytthosoceros lizardensis*](polycladida/olive)  
 Olive flatworm
   
 
@@ -921,7 +904,7 @@ lck
 
 *cj*
 
-[*Limnostylochus* sp.](polycladida/limnostylochus.htm)  
+[*Limnostylochus* sp.](polycladida/limnostylochus)  
 Red mangrove flatworm
 
 ---
@@ -1001,14 +984,14 @@ smk
 tsm
 
 [Acoel
-worms](acoela/acoela.htm)
+worms](acoela/acoela)
 
 ---
 
 **Phylum Annelida annelid
 worms  
-[Class Polychaeta](polychaeta/polychaeta.htm) (bristleworms)**
-including [tubeworms](tubeworm/tubeworms.htm)  
+[Class Polychaeta](polychaeta/polychaeta) (bristleworms)**
+including [tubeworms](tubeworm/tubeworms)  
 
 sbw
 
@@ -1088,7 +1071,7 @@ cyr
 smk
 
 [Gregarious
-tube worm](polychaeta/gregarious.htm)  
+tube worm](polychaeta/gregarious)  
 *awaiting identification*
  
  
@@ -1186,7 +1169,7 @@ hnt
 lfa
 
 *[Eurythoe
-complanata](polychaeta/reef.htm)*  
+complanata](polychaeta/reef)*  
 Reef bristleworm
 
 prp
@@ -1207,7 +1190,7 @@ ecp
 
 *kus*
 
-[*Chloeia* sp.](polychaeta/chloeia.htm)   
+[*Chloeia* sp.](polychaeta/chloeia)   
 Beautiful fireworm
  
  
@@ -1294,7 +1277,7 @@ smk
 
 lfa
 
-*[Diopatra](polychaeta/diopatra.htm)*[sp.](polychaeta/diopatra.htm)   
+*[Diopatra](polychaeta/diopatra)*[sp.](polychaeta/diopatra)   
 Solitary tube worm
  
  
@@ -1390,7 +1373,7 @@ rfl
 *lfa*
 
 [*Eunice
-aphroditois*](polychaeta/giant.htm)   
+aphroditois*](polychaeta/giant)   
 Giant reef worm
 
 pgl
@@ -1406,7 +1389,7 @@ cj
 ecp
 
 **[Family
-Chaetopteridae](polychaeta/strawtube.htm)**  
+Chaetopteridae](polychaeta/strawtube)**  
 Straw tube worm
 
 pgl
@@ -1422,7 +1405,7 @@ tm
 sji
 
 **[Family
-Cirratulidae](polychaeta/spaghetti.htm)**  
+Cirratulidae](polychaeta/spaghetti)**  
 Spaghetti
 worms
  
@@ -1492,7 +1475,7 @@ chg
 
 *cyr*
 
-*[Oxydromus angustifrons](polychaeta/oxydromus.htm)*   
+*[Oxydromus angustifrons](polychaeta/oxydromus)*   
 Urchin-mouth worm
 
 *chg*
@@ -1506,7 +1489,7 @@ sis
 *lfa*
 
 **[Family
-Myzostomidae](polychaeta/myzostomidae.htm)**Feather star worms
+Myzostomidae](polychaeta/myzostomidae)**Feather star worms
 
 *pgl*
 
@@ -1531,7 +1514,7 @@ tpg
 *smk*
 
 **[Family
-Polynoidae](polychaeta/scaleworm.htm)**  
+Polynoidae](polychaeta/scaleworm)**  
 Scale worms
 
 pgl
@@ -1559,7 +1542,7 @@ sis
 smk
 
 **[Family
-Serpulidae](polychaeta/serpulidae.htm)   
+Serpulidae](polychaeta/serpulidae)   
 keelworms**
 
 cj
@@ -1583,7 +1566,7 @@ tsm
 lfa
 
 **[Family
-Spionidae](polychaeta/spionidae.htm)  
+Spionidae](polychaeta/spionidae)  
 spionid worms**
  
  
@@ -1618,7 +1601,7 @@ spionid worms**
 ---
 
 **[Family
-Sabellidae](polychaeta/sabellidae.htm) (fanworms)**
+Sabellidae](polychaeta/sabellidae) (fanworms)**
   
 
 sbw
@@ -1721,7 +1704,7 @@ rfl
 lfa
 
 [Banded
-fanworm](polychaeta/sabbanded.htm)
+fanworm](polychaeta/sabbanded)
 
 *chg*
 
@@ -1736,7 +1719,7 @@ bb
 cyr
 
 [Blue
-fanworm](polychaeta/sabblue.htm)
+fanworm](polychaeta/sabblue)
 
 chg
 
@@ -1747,7 +1730,7 @@ tm
 smk
 
 [Olive
-fanworm](polychaeta/sabolive.htm)
+fanworm](polychaeta/sabolive)
 
 chg
 
@@ -1788,7 +1771,7 @@ tsm
 lfa
 
 [Orange
-fanworm](polychaeta/saborange.htm)
+fanworm](polychaeta/saborange)
 
 prp
 
@@ -1811,7 +1794,7 @@ tm
 lab
 
 [Spotted
-fanworm](polychaeta/sabspotted.htm)
+fanworm](polychaeta/sabspotted)
 
 cj
 
@@ -1840,7 +1823,7 @@ hnt
 lfa
 
 [Tiny
-sand fanworm](polychaeta/sabtinysand.htm)
+sand fanworm](polychaeta/sabtinysand)
 
 cj
 
@@ -1871,7 +1854,7 @@ hnt
 *tsm*
 
 [White
-spiral fanworm](polychaeta/sabwhite.htm)
+spiral fanworm](polychaeta/sabwhite)
 
 ---
 
@@ -1940,7 +1923,7 @@ cj
 
 *ecp*
 
- [Spoon worms](echiura/echiura.htm)
+ [Spoon worms](echiura/echiura)
  
  
  
@@ -2061,7 +2044,7 @@ cyr
 *lfa*
 
 [**Phylum
-Sipuncula**](sipuncula/sipuncula.htm)  
+Sipuncula**](sipuncula/sipuncula)  
 peanut worms
  
  
@@ -2177,7 +2160,7 @@ laz
 lfa
 
 [*Phoronis
-australis*](phoronida/phoronida.htm)  
+australis*](phoronida/phoronida)  
 Cerianthid phoronid worm
  
  
@@ -2212,7 +2195,7 @@ Cerianthid phoronid worm
 ---
 
 **[Phylum
-Nemertea](nemertea/nemertea.htm) ribbon
+Nemertea](nemertea/nemertea) ribbon
 worms**
 
 sbw
@@ -2288,7 +2271,7 @@ hnt
 *lfa*
 
 [Pink
-ribbon worm](nemertea/pink.htm)  
+ribbon worm](nemertea/pink)  
 *awaiting identification*
 
 skd
@@ -2324,7 +2307,7 @@ hnt
 *lfa*
 
 [Red
-reef ribbon worm](nemertea/redreef.htm)   
+reef ribbon worm](nemertea/redreef)   
 *awaiting identification*
 
 lck
@@ -2354,7 +2337,7 @@ hnt
 tpg
 
 [Short
-ribbon worm](nemertea/short.htm)  
+ribbon worm](nemertea/short)  
 *awaiting identification*
 
 sbw
@@ -2366,7 +2349,7 @@ chg
 *ecp*
 
 [Two-toned
-ribbon worm](nemertea/twotone.htm)  
+ribbon worm](nemertea/twotone)  
 *awaiting identification*
 
 prp
@@ -2400,7 +2383,7 @@ tsm
 lfa
 
 [Very
-long ribbon worm](nemertea/verylong.htm)   
+long ribbon worm](nemertea/verylong)   
 *Baseodiscus delineatus*
  
  
@@ -2528,7 +2511,7 @@ rfl
 lfa
 
 [Class
-Enteropneusta](enteropneusta/enteropneusta.htm)   
+Enteropneusta](enteropneusta/enteropneusta)   
 acorn worms
  
  
@@ -2632,7 +2615,7 @@ hnt
 tpg
 
 [*Coeloplana*
-sp.](../ctenophora/coeloplana.htm)   
+sp.](../ctenophora/coeloplana)   
 Leathery soft coral ctenophores
  
  
@@ -2709,41 +2692,3 @@ bemban besar, terumbu bemban, terumbu semakau, **rfl**: raffles lighthouse, **lf
 live firing area (Salu, Sudong, Pawai, Senang, Biola and submerged
 reefs in the area)
   
-[About
-citing](../about.htm) this checklist.  
-  
-  
-  
-
-photo
-index of   
-marine worms   
-on this site
-
-[all
-marine worms](wormfi.htm)  
- **Typical worms**   
- 
-[Smooth](wormfi1a.htm)
-  
-[Bristley](polychaetafi.htm)
-  
-[**Tubeworms**](tubewormfi.htm)
-  
-  
-**[Feathery
-worms](sabellidaefi.htm)**    
-  
-**[Flatworms](polycladidafi.htm)**
-
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

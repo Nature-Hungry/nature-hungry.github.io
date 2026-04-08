@@ -9,22 +9,22 @@ layout: default
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 green
-seaweeds [text index](../seaweedindex.htm) | [photo
-index](../seaweedfi.htm)
+seaweeds [text index](../seaweedindex) | [photo
+index](../seaweedfi)
 
-[Seaweeds](../seaweed.htm)
-> Division [Chlorophyta](chlorophyta.htm)
+[Seaweeds](../seaweed)
+> Division [Chlorophyta](chlorophyta)
 **Beaded
 cushion green seaweed *Valonia* sp.\*** **Family Valoniaceae  
 *updated
@@ -44,9 +44,9 @@ The entire cushion encrusts hard surfaces. Dark to light green or
 olive green.  
   
 **Sometimes mistaken for** [Bubble
-green seaweed](boergesenia.htm) (*Boergesenia forbesii*) which has much larger
+green seaweed](boergesenia) (*Boergesenia forbesii*) which has much larger
 and more loosely arranged translucent bubble-like shapes. Here's more
-on [how to tell apart some green seaweeds](cfgrapes.htm).
+on [how to tell apart some green seaweeds](cfgrapes).
   
   
 According to [AlgaeBase](http://www.algaebase.org/search/genus/detail/?genus_id=33606),
@@ -136,9 +136,9 @@ FREE photos of
 seaweeds](http://www.flickr.com/photos/54527470@N00/sets/72157600032152343).  
 Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

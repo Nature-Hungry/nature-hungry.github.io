@@ -4,26 +4,11 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 hard corals [text
-index](coralhardindex.htm) | [photo index](cnidariafi1.htm)
+index](coralhardindex) | [photo index](cnidariafi1)
 Phylum
-[Cnidaria](cnidaria.htm) >
-Class [Anthozoa](anthozoa.htm) > Subclass Zoantharia/Hexacorallia
+[Cnidaria](cnidaria) >
+Class [Anthozoa](anthozoa) > Subclass Zoantharia/Hexacorallia
 **Photo
 index of hard corals on Singapore shores** **Colony
 leafy, carnation- or cabbage-like**
@@ -33,19 +18,19 @@ leafy, carnation- or cabbage-like**
 ![](coralhard/agariciidae/pavona/060415hntd1311m.jpg)  
   
 ![](coralhard/agariciidae/pavona/060415hntd1315mb.jpg)  
-[Lettuce coral](coralhard/agariciidae/pavona.htm)  
+[Lettuce coral](coralhard/agariciidae/pavona)  
 *Pavona* sp.
 
 ![](coralhard/agariciidae/castle/110717tbd7228m.jpg)  
   
 ![](coralhard/agariciidae/castle/110717tbd7227m.jpg)  
-[Castle coral](coralhard/agariciidae/castle.htm)  
+[Castle coral](coralhard/agariciidae/castle)  
 *Pachyseris rugosa*
 
 ![](coralhard/merulinidae/pectinia/060714rlhg6527m.jpg)  
   
 ![](coralhard/merulinidae/pectinia/060714rlhg6527mb.jpg)  
-[Carnation coral](coralhard/merulinidae/pectinia.htm)  
+[Carnation coral](coralhard/merulinidae/pectinia)  
 *Pectinia* sp.
 
  
@@ -69,19 +54,19 @@ two contrasting colours. Seen on our Southern shores.
 ![](coralhard/merulinidae/geoffroyi/050724bbg0177m.jpg)  
   
 ![](coralhard/merulinidae/geoffroyi/050724bbg0177ma.jpg)  
-[Cabbage coral](coralhard/merulinidae/geoffroyi.htm)  
+[Cabbage coral](coralhard/merulinidae/geoffroyi)  
 *Trachyphyllia geoffroyi*
 
 ![](coralhard/dendrophylliidae/flowery/070615sntd2188m.jpg)  
   
 ![](coralhard/dendrophylliidae/flowery/070615sntd2188mb.jpg)  
-[Flowery disk coral](coralhard/dendrophylliidae/flowery.htm)  
+[Flowery disk coral](coralhard/dendrophylliidae/flowery)  
 *Turbinaria* sp.
 
 ![](coralhard/dendrophylliidae/ruffled/060810rlhd5593m.jpg)  
   
 ![](coralhard/dendrophylliidae/ruffled/060810rlhd5594ma.jpg)  
-[Ruffled disk coral](coralhard/dendrophylliidae/ruffled.htm)  
+[Ruffled disk coral](coralhard/dendrophylliidae/ruffled)  
 *Turbinaria* sp.
 
   
@@ -112,34 +97,34 @@ index of
 cnidarians on this site
 
 **Phylum
-Cnidaria** **[with hard skeleton](cnidariafi1.htm)  
+Cnidaria** **[with hard skeleton](cnidariafi1)  
   
 polyp shape**[long
-tentacles](coralhardfi1.htm) **colony shape**
+tentacles](coralhardfi1) **colony shape**
  
-**leafy** **[crinkled](coralhardfi4.htm)  
- [plate](coralhardfi5.htm)** **branching**
+**leafy** **[crinkled](coralhardfi4)  
+ [plate](coralhardfi5)** **branching**
  
 [thick
-branches](coralhardfi2.htm)  
-[thin branches](gorgonaceafi.htm)
+branches](coralhardfi2)  
+[thin branches](gorgonaceafi)
  
  **boulder**
  
 Corallite
 shape=   
-[ring](coralhardfi6.htm)  
-[hexagonal](coralhardfi7.htm)   
- [brain or maze](coralhardfi8.htm)   
-[others](coralhardfi9.htm)
+[ring](coralhardfi6)  
+[hexagonal](coralhardfi7)   
+ [brain or maze](coralhardfi8)   
+[others](coralhardfi9)
   
 [**colony
-unattached**](coralhardfi10.htm)   
+unattached**](coralhardfi10)   
 (mushroom hard coral)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -9,22 +9,22 @@ layout: default
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 green
-seaweeds [text index](../seaweedindex.htm) | [photo
-index](../seaweedfi.htm)
+seaweeds [text index](../seaweedindex) | [photo
+index](../seaweedfi)
 
-[Seaweeds](../seaweed.htm)
-> Division [Chlorophyta](chlorophyta.htm)
+[Seaweeds](../seaweed)
+> Division [Chlorophyta](chlorophyta)
 **'Bee
 hoon' green seaweed  
 *Chaetomorpha* sp.\*** **Family Cladophoraceae***updated
@@ -51,9 +51,9 @@ According to [AlgaeBase](http://www.algaebase.org/search/genus/detail/?genus_id=
 there are more than 50 current *Chaetomorpha* species.  
   
 **Sometimes confused with** [Hairy
-green seaweed](bryopsis.htm) (*Bryopsis* sp.) which has much shorter filaments
+green seaweed](bryopsis) (*Bryopsis* sp.) which has much shorter filaments
 and appears feathery. Here's more on [how
-to tell apart some green seaweeds](cffeathery.htm).   
+to tell apart some green seaweeds](cffeathery).   
   
 **Human uses:** It is used as animal
 feed and eaten raw by people.
@@ -135,8 +135,8 @@ Chaetomorpha spiralis*
   spp.](http://www.seaslugforum.net/factsheet.cfm?base=chaetomorpha) on the Sea Slug Forum: close up photo and description
   of the seaweed.
 - [*Chaetomorpha
-  crassa*](http://www.naturia.per.sg/cjsurvey/vegetative/text/chaetomorpha%20crassa.htm) and *[Chaetomorpha
-  linum](http://www.naturia.per.sg/cjsurvey/vegetative/text/chaetomorpha%20linum.htm)* coverage on Chek Jawa during the 2001 Chek Jawa
+  crassa*](http://www.naturia.per.sg/cjsurvey/vegetative/text/chaetomorpha%20crassa) and *[Chaetomorpha
+  linum](http://www.naturia.per.sg/cjsurvey/vegetative/text/chaetomorpha%20linum)* coverage on Chek Jawa during the 2001 Chek Jawa
   survey.
 - [*Chaetomorpha*](http://www.algaebase.org/search/genus/detail/?genus_id=35)
   on [AlgaeBase](http://www.algaebase.org/): Technical
@@ -168,9 +168,9 @@ FREE photos of
 seaweeds](http://www.flickr.com/photos/54527470@N00/sets/72157600032152343).  
 Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

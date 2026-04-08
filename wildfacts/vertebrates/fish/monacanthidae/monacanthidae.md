@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "filefish, file, fish, leather, jacket, monacanthidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm)
+> Subphylum Vertebrate > [fishes](../fish)
 **Filefishes**  **or** **Leatherjackets**  
 **Family Monacanthidae***updated
 Sep 2020*
@@ -119,10 +119,10 @@ on Singapore shores**
 
 ---
 
-***![](penicilligerus/090918tmd1029m3.jpg)* [Feathery filefish](penicilligerus.htm)**
+***![](penicilligerus/090918tmd1029m3.jpg)* [Feathery filefish](penicilligerus)**
 
 **![](anacanthus/080523cyrd3973m3.jpg)  
-[Bearded filefish](anacanthus.htm)**
+[Bearded filefish](anacanthus)**
 
 ---
 
@@ -132,7 +132,7 @@ on Singapore shores**
 ![](tomentosus/070728sisd4532m3b.jpg)
 
 **[Seagrass
-filefish](tomentosus.htm)**
+filefish](tomentosus)**
 
 An
 irregular curved yellow or white line along the front of the body
@@ -152,7 +152,7 @@ oblong patch.
 *![](chinensis/030716cjd0060m3b.jpg)*
 
 **[Fan-bellied
-filefish](chinensis.htm)**
+filefish](chinensis)**
 
 Large triangular skin flap on the belly that can be greatly expanded,
 but often tucked close to the body. Body with lots of small circular
@@ -169,7 +169,7 @@ the tail is produced into a filament.
 ***![](macrurus/080605hntd4960m3b.jpg)***
 
 **[Strapweed
-filefish](macrurus.htm)**
+filefish](macrurus)**
 
 Body with lots of small circular dots and often a broad white stripe
 along the centre of the body from the gill opening. May have dark
@@ -196,14 +196,14 @@ Monacanthidae**
 +*Aluterus scriptus* (Scrawled filefish)  
   
 +*[Anacanthus
-barbatus](anacanthus.htm)* (Bearded filefish) *Chaetodoerma penicilligera=\*\*[Chaetodermis
-penicilligerus](penicilligerus.htm)* (Feathery filefish) *[Monacanthus chinensis](chinensis.htm)* (Fan-bellied
+barbatus](anacanthus)* (Bearded filefish) *Chaetodoerma penicilligera=\*\*[Chaetodermis
+penicilligerus](penicilligerus)* (Feathery filefish) *[Monacanthus chinensis](chinensis)* (Fan-bellied
 filefish) *Monacanthus choirocephalus=\*\*Paramonacanthus* *choirocephalus*
 (Pig-faced leather jacket) *Monacanthus cryptodon=\*\*Paramonacanthus cryptodon   
 Monacanthus macrurus=\*\*[Pseudomonacanthus
-macrurus](macrurus.htm)* (Strapweed filefish) *Monacanthus nemurus=\*\*Paramonacanthus choirocephalus* (Pig-faced
+macrurus](macrurus)* (Strapweed filefish) *Monacanthus nemurus=\*\*Paramonacanthus choirocephalus* (Pig-faced
 leather jacket) *Monacanthus sulcatus=\*\*Paramonacanthus sulcatus*  *Monacanthus tomentosus=\*[Acreichthys
-tomentosus](tomentosus.htm)* (Seagrass filefish)
+tomentosus](tomentosus)* (Seagrass filefish)
 
 ---
 
@@ -214,10 +214,10 @@ tomentosus](tomentosus.htm)* (Seagrass filefish)
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
 - [*Monocanthus*
-  sp.](http://mangrove.nus.edu.sg/pub/seashore/text/237.htm) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+  sp.](http://mangrove.nus.edu.sg/pub/seashore/text/237) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
-- [Monacanthidae](http://www.ecologyasia.com/verts/fishes/filefishes.htm) from Ecology Asia.
+- [Monacanthidae](http://www.ecologyasia.com/verts/fishes/filefishes) from Ecology Asia.
 - [Family
   Monacanthidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=517) (Filefishes) and [*Anacanthus
   barbatus* (Bearded leatherjacket)](http://www.fishbase.org/summary/8178) and [*Chaetodermis
@@ -231,7 +231,7 @@ tomentosus](tomentosus.htm)* (Seagrass filefish)
   species.
 - [Volume
   6: Bony fishes part 4 (Labridae to Latimeriidae), estuarine crocodiles,
-  sea turtles, sea snakes and marine mammals](http://www.fao.org/docrep/009/y0870e/y0870e00.htm) FAO Species Identification
+  sea turtles, sea snakes and marine mammals](http://www.fao.org/docrep/009/y0870e/y0870e00) FAO Species Identification
   Guide for Fishery Purposes The Living Marine Resources of the
   Western Central Pacific.
 
@@ -257,9 +257,9 @@ tomentosus](tomentosus.htm)* (Seagrass filefish)
   Reef Fishes of the World*
   Periplus Editions. 400pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,51 +4,38 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "sponge, porifera, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
+ 
 
 arthropods
-[text index](arthropodaindex.htm)
+[text index](arthropodaindex)
 
 Phylum
-[Arthropoda](arthropoda.htm)
+[Arthropoda](arthropoda)
 **Photo
 index of other arthropods on Singapore shores**
   
-**except crustaceans**(see [crustacean photo index](../crustacea/crustaceafi.htm))
+**except crustaceans**(see [crustacean photo index](../crustacea/crustaceafi))
 
 ---
 
 ![](limulidae/carcinoscopius/050726chgg0355m.jpg)  
 [Mangrove
-horseshoecrab](limulidae/carcinoscorpius.htm)  
+horseshoecrab](limulidae/carcinoscorpius)  
 *Carcinoscorpius rotundicauda*
 
 ![](limulidae/tachypleus/050511cftd3272m.jpg)  
 [Coastal
-horseshoecrab](limulidae/tachypleus.htm)  
+horseshoecrab](limulidae/tachypleus)  
 *Tachypleus gigas*
 
 *![](../insecta/cricket/041018sntd7563m.jpg)*  
 [Shore
-cricket](../insecta/cricketshore.htm)   
+cricket](../insecta/cricketshore)   
 Family Gryllidae
 
 *![](../insecta/atlas/120215prpd7050m.jpg)*  
 [Atlas
-moth](../insecta/atlas.htm)   
+moth](../insecta/atlas)   
 *Attacus atlas*
 
 Diameter
@@ -67,17 +54,17 @@ in a variety of mangrove, coastal plants and others.
 
 *![](../arachnida/desis/031125hntd3856m.jpg)*  
 [Marine
-spider](../arachnida/desis.htm)   
+spider](../arachnida/desis)   
 *Desis martensi*
 
 *![](../insecta/skater/080831sisd0183ma.jpg)*  
 [Sea
-skater](../insecta/skater.htm)   
+skater](../insecta/skater)   
 *awaiting identification*
 
 *![](../arachnida/hyllus/090704ubnd6404m.jpg)*  
 [Heavy
-jumping spider](../arachnida/hyllus.htm)  
+jumping spider](../arachnida/hyllus)  
 *Hyllus diardi*
 
  
@@ -95,17 +82,17 @@ mangroves.
 *![](../insecta/calliphara/040108ubnd0013m.jpg)*  
   
 ![](../insecta/calliphara/030823sbwrcd0018m.jpg)  
-[Mangrove shield bug](../insecta/calliphara.htm)  
+[Mangrove shield bug](../insecta/calliphara)  
 *Calliphara nobilis*
 
 *![](../insecta/dysdercus/081206smkd2478m.jpg)*  
   
-*![](../insecta/dysdercus/090425prpd0345mb.jpg)*[Cotton stainer bug](../insecta/dysdercus.htm)  
+*![](../insecta/dysdercus/090425prpd0345mb.jpg)*[Cotton stainer bug](../insecta/dysdercus)  
 *Dysdercus decussatus*
 
 *![](../insecta/pycanum/040207ubnd0027m.jpg)*  
   
-*![](../insecta/pycanum/040214ubnd0082m.jpg)*[Giant shield bug](../insecta/pycanum.htm)  
+*![](../insecta/pycanum/040214ubnd0082m.jpg)*[Giant shield bug](../insecta/pycanum)  
 *Pycanum* sp.
 
  
@@ -130,11 +117,11 @@ on this site
 Other marine arthropods  
   
 **crustaceans**  
-[all crustaceans](../crustacea/crustaceafi.htm)
+[all crustaceans](../crustacea/crustaceafi)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

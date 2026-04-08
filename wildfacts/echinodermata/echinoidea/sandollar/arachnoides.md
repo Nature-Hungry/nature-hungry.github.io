@@ -4,30 +4,30 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "cake, sand, dollar, arachnoides, placenta, clypeasteroida, echinoidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![talking points for nature guides](../../../../Templates/fornatureguides.gif)](../../fngechinoidea.htm)
+[![talking points for nature guides](../../../../Templates/fornatureguides.gif)](../../fngechinoidea)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 echinoids
-[text index](../../echinodermindex.htm#echinoidea) |
-[photo index](../../echinoideafi1.htm)
+[text index](../../echinodermindex#echinoidea) |
+[photo index](../../echinoideafi1)
 Phylum
-[Echinodermata](../../echinodermata.htm) > Class [Echinodea](../echinoidea.htm)
+[Echinodermata](../../echinodermata) > Class [Echinodea](../echinoidea)
 > Order
-[Clypeasteroida](sandollar.htm)
+[Clypeasteroida](sandollar)
 **Cake
 sand dollar  
 *Arachnoides placenta*  
@@ -78,31 +78,31 @@ Living sand dollar moving under wet sand.
 ![](arachnoides/060612chgd2852m3b.jpg)
 ![](arachnoides/090628lazd6115m3.jpg)Living sand dollars, not moving under sand. *Lazarus Island, Jun 09*
 **What eats sand dollars?** Some snails such as the [Grey
-bonnet](../../../mollusca/gastropoda/cassidae/glaucum.htm) are believed to feed on sand dollars. A [Knobbly
-sea star](../../asteroidea/protoreaster.htm) was seen with its stomach
+bonnet](../../../mollusca/gastropoda/cassidae/glaucum) are believed to feed on sand dollars. A [Knobbly
+sea star](../../asteroidea/protoreaster) was seen with its stomach
 stuck to a sand dollar. A [Haddon's
-carpet anemone](../../../cnidaria/actiniaria/haddoni.htm) was also seen in
+carpet anemone](../../../cnidaria/actiniaria/haddoni) was also seen in
 the process of engulfing one. Kok Sheng also shared a video clip (below)
-of [hermit crabs](../../../crustacea/othercrust/anomura/hermit/hermit.htm) arguing over a sand dollar.
+of [hermit crabs](../../../crustacea/othercrust/anomura/hermit/hermit) arguing over a sand dollar.
 Tiny [parasitic
-snails](../../../mollusca/gastropoda/eulimidae/eulimidae.htm) are sometimes seen on them too.
+snails](../../../mollusca/gastropoda/eulimidae/eulimidae) are sometimes seen on them too.
 
 *![](../../../mollusca/gastropoda/cassidae/glaucum/110508cyrmng3m3.jpg)*Is
 this [Grey
-bonnet snail](../../../mollusca/gastropoda/cassidae/glaucum.htm) eating a sand dollar? *Cyrene Reef, May 11*Photo
+bonnet snail](../../../mollusca/gastropoda/cassidae/glaucum) eating a sand dollar? *Cyrene Reef, May 11*Photo
 shared by Marcus Ng on [flickr](http://www.flickr.com/photos/budak/sets/72157626681285094/).
 
 *![](../../asteroidea/protoreaster/110508cyrmng5m3.jpg)*Being
 eaten by a [Knobbly sea
-star](../../asteroidea/protoreaster.htm)? *Cyrene Reef, May 11*Photo
+star](../../asteroidea/protoreaster)? *Cyrene Reef, May 11*Photo
 shared by Marcus Ng on [flickr](http://www.flickr.com/photos/budak/sets/72157626681285094/).
 
 ![](../../../mollusca/gastropoda/eulimidae/eulimidae/110830cyrd0357m3a.jpg)  
-Tiny [parasitic snail](../../../mollusca/gastropoda/eulimidae/eulimidae.htm) on a Cake sand dollar. *Cyrene, Aug 11*
+Tiny [parasitic snail](../../../mollusca/gastropoda/eulimidae/eulimidae) on a Cake sand dollar. *Cyrene, Aug 11*
 
 ![](../../../cnidaria/actiniaria/haddonieat/040218cjd0004m3.jpg)  
 Cake sand dollar being swallowed  
-by a [Haddon's carpet anemone](../../../cnidaria/actiniaria/haddoni.htm). *Chek Jawa Feb 04*
+by a [Haddon's carpet anemone](../../../cnidaria/actiniaria/haddoni). *Chek Jawa Feb 04*
 
 **Pecked to death?** On Chek Jawa, many sand dollars are observed flipped over with their
 undersides broken. From the prints around the sand dollars, it seems
@@ -156,7 +156,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ![](arachnoides/090224lazlks02m3.jpg)  
 *Lazarus, Feb 09*Shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/02/resurrection-of-lazarus.html).
+blog](http://wondercreation.blogspot.com/2009/02/resurrection-of-lazarusl).
 
 ![](arachnoides/200820ssismn4.jpg)  
  *Small Sisters Island, Aug 20*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo?fbid=10157639265773660&set=a.10157639263998660).
@@ -165,7 +165,7 @@ blog](http://wondercreation.blogspot.com/2009/02/resurrection-of-lazarus.html).
 
 ![](arachnoides/110517tptlks6m3.jpg)  
  *Terumbu Pempang Tengah, May 11*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengah.html)*.*
+blog](http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengahl)*.*
 
 ![](arachnoides/091205sudd5468m3.jpg)  
 *Pulau Sudong, Dec 09*
@@ -188,9 +188,9 @@ Coast Park
   images and explanatory diagrams. With technical descriptions of
   [Family
   Cylpeasteridae](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/GENERA/CLYPEAST/CLYPINA/CLYPIDAE.jsp) and photos of dead [*Arachnoides*](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/GENERA/CLYPEAST/CLYPINA/ARACHNO.jsp).
-- *[Arachnoides placenta](https://singapore.biodiversity.online/taxo4254/mainSpace/Arachnoides placenta.html)* on Taxo4254.
+- *[Arachnoides placenta](https://singapore.biodiversity.online/taxo4254/mainSpace/Arachnoides placental)* on Taxo4254.
 - [*Arachnoides
-  placenta*](http://www.sealifebase.org/summary/Arachnoides-placenta.html)
+  placenta*](http://www.sealifebase.org/summary/Arachnoides-placental)
   on SeaLife Base: Technical fact sheet.
 
 **References**
@@ -201,9 +201,9 @@ Coast Park
   Guide to Sea Stars and Other Echinoderms of Singapore*.
   Singapore Science Centre. 187pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

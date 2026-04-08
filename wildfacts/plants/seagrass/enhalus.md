@@ -9,20 +9,20 @@ layout: default
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../index.html)  
+[wildfactsheets homepage](../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
+[all animals](../../animals)
+| [all plants](../../plants)
+| [concepts](../../concepts/indexl)
+| [glossary](../../glossary/indexl)
+| [search](../../search)
 
 seagrasses
-[text index](seagrassindex.htm) | [photo
-index](seagrassfi.htm)
-[Seagrasses](seagrass.htm)
+[text index](seagrassindex) | [photo
+index](seagrassfi)
+[Seagrasses](seagrass)
 > Family Hydrocharitaceae
 **Tape
 seagrass  
@@ -66,7 +66,7 @@ The roots also have wide air-channels.
   
 **Sometimes confused with** other
 ribbon-like seagrasses. Here's more on [how
-to tell apart ribbon-like seagrasses](cfribbon.htm).   
+to tell apart ribbon-like seagrasses](cfribbon).   
   
 **Flowers and fruits:** Tape seagrass
 has separate male and female plants.   
@@ -102,11 +102,11 @@ seagrasses, tape seagrass spreads mostly by vegetative reproduction.
 **Role in the habitat:** Tape seagrass
 is believed to be among the main food of the Dugong (*Dugong dugon*).
 On the seagrass blade grows a wide variety of tiny encrusting animals
-like [green gum drop ascidians](../../ascidiacea/greengumdrop.htm)
+like [green gum drop ascidians](../../ascidiacea/greengumdrop)
 and [seagrass
-hydroids](../../cnidaria/others/hydrozoa/seagrass.htm) and egg capsules. Tiny algae often grows on the leaves of this seagrass, providing food
+hydroids](../../cnidaria/others/hydrozoa/seagrass) and egg capsules. Tiny algae often grows on the leaves of this seagrass, providing food
 for grazing creatures such as the [Seagrass
-sea hare](../../mollusca/slugs/anaspidae/seagrass.htm) and snails. The mat of rhizomes also provides shelter
+sea hare](../../mollusca/slugs/anaspidae/seagrass) and snails. The mat of rhizomes also provides shelter
 for many small animals.   
   
 **Human uses:** The seeds are eaten
@@ -215,11 +215,11 @@ Pulau Sudong, Dec 09*
 *Pulau Hantu, Mar 06*
 
 ![](../seaweed/rhodophyta/encrust/081030sntd1456m3a.jpg)  
-[Encrusting red algae.](../seaweed/rhodophyta/encrust.htm) *Sentosa, Oct 08*
+[Encrusting red algae.](../seaweed/rhodophyta/encrust) *Sentosa, Oct 08*
 
 ![](enhalus/100213tmd9338m3.jpg)  
 Egg capsules of [Dubious
-nerites](../../mollusca/gastropoda/neritidae/oualaniensis.htm). *Tanah Merah, Feb 10*
+nerites](../../mollusca/gastropoda/neritidae/oualaniensis). *Tanah Merah, Feb 10*
 
 ---
 
@@ -238,7 +238,7 @@ Unidentified organisms.
 **Links**
 
 - [Tape
-  seagrass (*Enhalus acoroides*)](http://mangrove.nus.edu.sg/pub/seashore/text/108.htm) Tan, Leo W. H. & Ng, Peter
+  seagrass (*Enhalus acoroides*)](http://mangrove.nus.edu.sg/pub/seashore/text/108) Tan, Leo W. H. & Ng, Peter
   K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
@@ -248,7 +248,7 @@ Unidentified organisms.
   Proceedings of a training workshop, National Parks Board, Biodiversity
   Centre, Singapore, 24th-25th March 2007 (DPI&F, Cairns). 32pp.
 - [Identifying
-  seagrasses](http://www.seagrasswatch.org/id_seagrass.html)
+  seagrasses](http://www.seagrasswatch.org/id_seagrassl)
   on the Seagrass-Watch website.
 
 **References**
@@ -285,14 +285,4 @@ Unidentified organisms.
 **You CAN make a difference for Singapore's
 seagrasses!**[![](../../../Templates/teamsg.jpg)](http://teamseagrass.blogspot.com/)
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

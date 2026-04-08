@@ -4,26 +4,11 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 plants
-[text index](plantindex.htm) | [photo
-index](plantfi.htm)
-[mangroves](mangrove/mangroves.htm)
-| [coastal plants](coastal/coastalplants.htm)
+[text index](plantindex) | [photo
+index](plantfi)
+[mangroves](mangrove/mangroves)
+| [coastal plants](coastal/coastalplants)
 **Photo
 index of mangrove trees on Singapore shores**
   
@@ -41,7 +26,7 @@ growing at or below the high water mark
 
 small
 oval fruits and  
-[pneumatophores](mangfi6a.htm) (pencil roots)
+[pneumatophores](mangfi6a) (pencil roots)
 
 ![](mangrove/bruguiera/cylindrica/020418sbwrcpd8227ma.jpg)
 
@@ -53,7 +38,7 @@ oval fruits and
 
 long
 cylindrical fruits and  
-[knee roots](mangfi6b.htm)
+[knee roots](mangfi6b)
 
 ![](mangrove/bruguiera/sexangula/090329cjd8652m.jpg)
 
@@ -65,7 +50,7 @@ cylindrical fruits and
 
 long
 cylindrical fruits and  
-[buttressed roots](mangfi6c.htm)
+[buttressed roots](mangfi6c)
 
 ![](mangrove/ceriops/zippeliana/090301prpd7368m.jpg)
 
@@ -76,20 +61,20 @@ cylindrical fruits and
 ![](mangrove/rhizophora/stylosa/070520smkd1221ma.jpg)
 
 long
-cylindrical fruits and [stilt and prop roots](mangfi6d.htm)
+cylindrical fruits and [stilt and prop roots](mangfi6d)
 ![](mangrove/sonneratia/alba/090124ubnd5966m.jpg)
 *![](mangrove/sonneratia/alba/090411lckd9580ma.jpg)*
 ![](mangrove/xylocarpus/granatum/090111smkd4886ma.jpg)
 ![](mangrove/xylocarpus/granatum/090208smkd6458ma.jpg)
 [large
-round fruits](mangfi6f.htm)  
+round fruits](mangfi6f)  
 with various kinds of roots
 ![](mangrove/excoecaria/excoecaria/090321krjo3211569m.jpg)
 ![](mangrove/heritiera/heritiera/090328sbwrd8495ma.jpg)
 ![](mangrove/excoecaria/excoecaria/050809lckg0947ma.jpg)
 ![](mangrove/dolichandrone/dolichandrone/090214sbwrd7054m.jpg)
 [other
-mangrove trees](mangfi7a.htm)
+mangrove trees](mangfi7a)
   
   
   
@@ -100,47 +85,47 @@ index of
 plants on this site
 
 [all
-plants](plantfi.htm)  
+plants](plantfi)  
   
 **mangrove
 & seashore plants**   
-[creepers](shorefi1.htm)  
-[climbers, vines](shorefi2.htm)  
-[herbs](shorefi3.htm)  
-[ferns](shorefi7.htm)  
-[palms, pandans](shorefi4.htm)  
+[creepers](shorefi1)  
+[climbers, vines](shorefi2)  
+[herbs](shorefi3)  
+[ferns](shorefi7)  
+[palms, pandans](shorefi4)  
   
 **mangrove
 &** **seashore
   
 shrubs<2m**  
-[thick/leathery leaves](shorefi5a.htm)  
-[thin leaves](shorefi5b.htm)  
+[thick/leathery leaves](shorefi5a)  
+[thin leaves](shorefi5b)  
   
 **seashore
   
 trees>2m**   
 types of leaves  
-[small simple](shorefi6b.htm)  
-[large simple](shorefi6c.htm)  
-[compound, others](shorefi6d.htm)   
+[small simple](shorefi6b)  
+[large simple](shorefi6c)  
+[compound, others](shorefi6d)   
   
 **mangrove
 trees**  
-small oval fruits and [pneumatophores](mangfi6a.htm)  
+small oval fruits and [pneumatophores](mangfi6a)  
   
 long cylindrical fruits  
-with [knee roots](mangfi6b.htm)  
-with [buttressed roots](mangfi6c.htm)  
-with [stilt roots](mangfi6d.htm)  
+with [knee roots](mangfi6b)  
+with [buttressed roots](mangfi6c)  
+with [stilt roots](mangfi6d)  
   
-[large round fruits](mangfi6f.htm)  
+[large round fruits](mangfi6f)  
   
-[others](mangfi7a.htm)
+[others](mangfi7a)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

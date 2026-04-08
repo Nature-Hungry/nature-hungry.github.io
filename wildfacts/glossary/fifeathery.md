@@ -4,21 +4,6 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](index.html)
-| [search](../search.htm)
-
 **Photo
 index of marine life on Singapore shores**
   
@@ -26,107 +11,107 @@ index of marine life on Singapore shores**
 ---
 
 **Feathery lifeforms**see also [bristley
-lifeforms](fibristley.htm)   
+lifeforms](fibristley)   
 
 ![](../cnidaria/others/hydrozoa/sertularella/030714bbd0074m.jpg)  
-**[hydroid](../cnidaria/hydrozoafi.htm)**
+**[hydroid](../cnidaria/hydrozoafi)**
 
 ![](../cnidaria/others/hydrozoa/candy/040409tusad0141m.jpg)  
-**[hydroid](../cnidaria/hydrozoafi.htm)**
+**[hydroid](../cnidaria/hydrozoafi)**
 
-*![](../cnidaria/others/hydrozoa/stinging/050411tusd2333ma.jpg)***[hydroid](../cnidaria/hydrozoafi.htm)**
+*![](../cnidaria/others/hydrozoa/stinging/050411tusd2333ma.jpg)***[hydroid](../cnidaria/hydrozoafi)**
 
 ![](../plants/seaweed/rhodophyta/catstail/050329sntg3861ma.jpg)  
 **[red
-seaweed](../plants/seaweed/rhodophytafi2.htm)**
+seaweed](../plants/seaweed/rhodophytafi2)**
 
 ![](../cnidaria/coralsoft/nepasparagus/040605kusg0314m.jpg)  
-[**soft coral**](../cnidaria/coralsoftfi3.htm)
+[**soft coral**](../cnidaria/coralsoftfi3)
 
 ![](../cnidaria/coralsoft/neppink/060625bbd3316m.jpg)  
-[**soft coral**](../cnidaria/coralsoftfi3.htm)
+[**soft coral**](../cnidaria/coralsoftfi3)
 
 ![](../cnidaria/coralsoft/nepspiky/031124tusbd0074m.jpg)[**soft
-coral**](../cnidaria/coralsoftfi3.htm)
+coral**](../cnidaria/coralsoftfi3)
 
 ![](../cnidaria/coralsoft/feabroad/050807sjig0759m.jpg)  
-**[soft coral](../cnidaria/coralsoftfi1.htm)**
+**[soft coral](../cnidaria/coralsoftfi1)**
 
 ![](../cnidaria/actiniaria/phymanthus/plain/060716sisd4623m.jpg)  
-**[sea anemone](../cnidaria/actiniaria/phymanthus.htm)**
+**[sea anemone](../cnidaria/actiniaria/phymanthus)**
 
 ![](../cnidaria/others/pennatulacea/veretillidae/020725chgd3953m.jpg)  
 **[sea
-pen](../cnidaria/pennatulaceafi.htm)**
+pen](../cnidaria/pennatulaceafi)**
 
 ![](../cnidaria/others/pennatulacea/spiky/040720chgd2899m.jpg)  
 **[sea
-pen](../cnidaria/pennatulaceafi.htm)**
+pen](../cnidaria/pennatulaceafi)**
 
 ![](../echinodermata/holothuroidea/colochirus/031226chgd0003m.jpg)  
 [**sea
-cucumber**](../echinodermata/holothuroideafi1.htm)
+cucumber**](../echinodermata/holothuroideafi1)
 
 ![](../echinodermata/holothuroidea/phyllophorus/070731chgd4722m.jpg)  
-**[sea cucumber](holothuroidea/holothuroidea.htm)**
+**[sea cucumber](holothuroidea/holothuroidea)**
 
 ![](../echinodermata/crinoidea/blue/050820bbg1788m.jpg)  
 [**feather
-star**](../echinodermata/crinoideafi.htm)
+star**](../echinodermata/crinoideafi)
 
 ![](../echinodermata/crinoidea/purpurea/050623cjg8337m.jpg)  
 [**feather
-star**](../echinodermata/crinoideafi.htm)
+star**](../echinodermata/crinoideafi)
 
 ![](../echinodermata/crinoidea/red/080425cyrd1820m.jpg)  
 [**feather
-star**](../echinodermata/crinoideafi.htm)
+star**](../echinodermata/crinoideafi)
 
 ![](../echinodermata/ophiuroidea/flatarm/040702chgd1476m.jpg)  
 [**brittle
-star**](../echinodermata/ophuiroideafi.htm)
+star**](../echinodermata/ophuiroideafi)
 
 ![](../echinodermata/ophiuroidea/longipeda/030615cjd0228m.jpg)  
 [**brittle
-star**](../echinodermata/ophuiroideafi.htm)
+star**](../echinodermata/ophuiroideafi)
 
 ![](../worm/polychaeta/sabellidae/banded/060611cjd2781m.jpg)  
 **[feathery
-worm](../worm/sabellidaefi.htm)**
+worm](../worm/sabellidaefi)**
 
 ![](../worm/polychaeta/sabellidae/white/050526cjg6820m.jpg)  
 **[feathery
-worm](../worm/sabellidaefi.htm)**
+worm](../worm/sabellidaefi)**
 
 ![](../worm/phoronida/phoronida/031226chgd0056m.jpg)  
 **[feathery
-worm](../worm/sabellidaefi.htm)**
+worm](../worm/sabellidaefi)**
 
 ![](../worm/polychaeta/sabellidae/orange/060809skdd5505m.jpg)  
 **[feathery
-worm](../worm/sabellidaefi.htm)**
+worm](../worm/sabellidaefi)**
 
 ![](../plants/seagrass/spinulosa/030928cjd0024m.jpg)  
-[**seagrass**](../plants/seagrass/seagrassfi.htm)
+[**seagrass**](../plants/seagrass/seagrassfi)
 
 ![](../plants/seaweed/chlorophyta/taxifolia/041116labd8420m2a.jpg)  
-[**seaweed**](../plants/seaweed/chlorophytafi2.htm)
+[**seaweed**](../plants/seaweed/chlorophytafi2)
 
 ![](../plants/seaweed/chlorophyta/sertularioides/040620skdd0693m2a.jpg)  
-[**seaweed**](../plants/seaweed/chlorophytafi2.htm)
+[**seaweed**](../plants/seaweed/chlorophytafi2)
 
 ![](../plants/seaweed/chlorophyta/scalpelliformis/050428cftg5309ma.jpg)  
-[**seaweed**](../plants/seaweed/chlorophytafi2.htm)
+[**seaweed**](../plants/seaweed/chlorophytafi2)
 
 ---
 
 how to tell apart
 
-- [feathery lifeforms](feathery.htm)
-- [bristley lifeforms](wormstar.htm)
+- [feathery lifeforms](feathery)
+- [bristley lifeforms](wormstar)
 - [different kinds
-  of feathery green seaweeds](../plants/seaweed/chlorophyta/cffeathery.htm)
-- [feathery seaweeds from seagrasses](seagrassweed.htm)
+  of feathery green seaweeds](../plants/seaweed/chlorophyta/cffeathery)
+- [feathery seaweeds from seagrasses](seagrassweed)
 
   
   
@@ -139,39 +124,39 @@ animals on this site
 by shape
 
 [general
-photo index](../photoindex.htm)  
+photo index](../photoindex)  
   
-[ball-shaped](fiball.htm)  
+[ball-shaped](fiball)  
   
-[blobs](fiblobs.htm)   
+[blobs](fiblobs)   
   
-[branching](fibranching.htm)  
+[branching](fibranching)  
   
-[bristley](fibristley.htm)  
+[bristley](fibristley)  
   
-[encrusting](fiencrusting.htm)  
+[encrusting](fiencrusting)  
   
 feathery  
   
-[flat flexible](fiflatflexi.htm)   
+[flat flexible](fiflatflexi)   
   
-[flat stiff](fiflatstiff.htm)   
+[flat stiff](fiflatstiff)   
   
-[hairy](fihairy.htm)  
+[hairy](fihairy)  
   
-[leafy](fileafy.htm)  
+[leafy](fileafy)  
   
-[ribbon-like](firibbon.htm)  
+[ribbon-like](firibbon)  
   
-[sausage-like](fisausage.htm)  
+[sausage-like](fisausage)  
   
-[snake-like](fisnake.htm)   
+[snake-like](fisnake)   
   
-[worm-like](fiworm.htm)
+[worm-like](fiworm)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

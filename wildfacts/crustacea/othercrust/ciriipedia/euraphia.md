@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "star, barnacle, chthamalus, euraphia, cirripedia, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 barnacles [text
-index](../../crustaceaindex.htm#cirripedia) | [photo index](../../cirripediafi.htm)
+index](../../crustaceaindex#cirripedia) | [photo index](../../cirripediafi)
 Phylum
-[Arthropoda](../../../arthropoda/arthropoda.htm) > Subphylum
-[Crustacea](../../crustacea.htm) > Class
-[Cirripedia](cirripedia.htm)
+[Arthropoda](../../../arthropoda/arthropoda) > Subphylum
+[Crustacea](../../crustacea) > Class
+[Cirripedia](cirripedia)
 **Star
 barnacle** ***Chthamalus* sp.\*  
 Family Chthalamidae**  
@@ -37,7 +37,7 @@ Mar 2020*
 seen?** This
 little starry barnacle is sometimes seen on some of our shores. Usually
 found in small groups, in higher areas where it is too dry for [acorn
-barnacles](balanus.htm) (*Balanus* sp.). They were formerly known as *Chthamalus*.  
+barnacles](balanus) (*Balanus* sp.). They were formerly known as *Chthamalus*.  
   
 **Features:** 0.5-1cm across. The
 outer shell is rather flat, made up of several wall plates that form
@@ -87,11 +87,11 @@ Sembawang, Oct 20*Photo shared by Vincent Choo on [facebook](https://www.faceboo
 
 **Links**
 
-- [Barnacles](http://mangrove.nus.edu.sg/pub/seashore/text/219.htm)
+- [Barnacles](http://mangrove.nus.edu.sg/pub/seashore/text/219)
   Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
-- [Barnacles](http://mangrove.nus.edu.sg/guidebooks/text/2123.htm)
+- [Barnacles](http://mangrove.nus.edu.sg/guidebooks/text/2123)
   Ng, Peter K. L. & N. Sivasothi, 1999. *[A
   Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
   Singapore Science Centre. 168 pp.
@@ -105,9 +105,9 @@ Sembawang, Oct 20*Photo shared by Vincent Choo on [facebook](https://www.faceboo
   Science, Nanyang Technological University & Department of Zoology,
   the National University of Singapore. 160 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

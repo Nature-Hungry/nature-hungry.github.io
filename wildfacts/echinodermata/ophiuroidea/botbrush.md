@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "hexagon, brittle, star, brittlestar, ophiuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 brittle
-stars [text index](../echinodermindex.htm#ophiuroidea)
-| [photo index](../ophuiroideafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class Stellaroida > Subclass [Ophiuroidea](ophiuroidea.htm)
+stars [text index](../echinodermindex#ophiuroidea)
+| [photo index](../ophuiroideafi)
+Phylum [Echinodermata](../echinodermata)
+> Class Stellaroida > Subclass [Ophiuroidea](ophiuroidea)
 **Bottlebrush
 brittle star**   
 ***awaiting identification\*****updated
@@ -109,21 +96,11 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 ![](botbrush/090623ecpjk2m3.jpg)  
 *East Coast, Jun 09* ![](botbrush/090623ecpjk2m3a.jpg)  
 Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/06/east-coast.html).
+blog](http://sgn090608.blogspot.com/2009/06/east-coastl).
 
 ![](botbrush/091218tmlks5m3.jpg)  
  *Tanah Merah, Dec 09*![](botbrush/091218tmlks5m3a.jpg)  
 Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/12/tanah-merah-brightly-led.html).
+blog](http://wondercreation.blogspot.com/2009/12/tanah-merah-brightly-ledl).
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

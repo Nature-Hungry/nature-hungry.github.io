@@ -4,26 +4,11 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, crab, decapoda, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 crustacea [text
-index](crustaceaindex.htm) | [photo index](crustaceafi.htm)
-Phylum [Arthropoda](../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](crustacea.htm) > Class Malacostraca
-> Order [Decapoda](decapoda.htm)
+index](crustaceaindex) | [photo index](crustaceafi)
+Phylum [Arthropoda](../arthropoda/arthropoda)
+> Subphylum [Crustacea](crustacea) > Class Malacostraca
+> Order [Decapoda](decapoda)
 **Photo
 index of crabs on Singapore shores**  
 **Medium sized
@@ -35,20 +20,20 @@ crabs: body width 3-5cm**
 for body width*
 
 ![](crab/majoidea/retusa/030615cjd0196m.jpg)  
-[Velcro crab](crab/majoidea/retusa.htm)  *Camposcia retusa*
+[Velcro crab](crab/majoidea/retusa)  *Camposcia retusa*
 
 ![](crab/majoidea/schizophrys/060714rlhg6651m.jpg)  
-[Sea toad spider crab](crab/majoidea/schizophrys.htm)  *Schizophrys* sp.
+[Sea toad spider crab](crab/majoidea/schizophrys)  *Schizophrys* sp.
 
 ![](crab/dromiidae/dromiidae/030814skdd0200m.jpg)  
-[Sponge crab](crab/dromiidae/dromiidae.htm)   
+[Sponge crab](crab/dromiidae/dromiidae)   
 Family Dorippidae
 
 ![](crab/pilumnidae/pilumnidae/031029sntcd0024m.jpg)  
-[Common hairy crab](crab/pilumnidae/pilumnus.htm) *Pilumnus* sp.
+[Common hairy crab](crab/pilumnidae/pilumnus) *Pilumnus* sp.
 
 ![](crab/xanthidae/euxanthus/110517tptd1601m.jpg)  
-[Lumpy rock crab](crab/xanthidae/euxanthus.htm) *Euxanthus exsculptus*
+[Lumpy rock crab](crab/xanthidae/euxanthus) *Euxanthus exsculptus*
 
 3-6cm.
 Body tear-drop shaped with a pointed end between the eyes. Covers
@@ -71,20 +56,20 @@ lumps and bumps. Coral rubble area. Sometimes seen on some of our
 shores.
 
 ![](crab/matutidae/lunaris/020209cjd6343m.jpg)  
-[Moon crab](crab/matutidae/lunaris.htm)  *Matuta lunaris*
+[Moon crab](crab/matutidae/lunaris)  *Matuta lunaris*
 
 ![](crab/matutidae/planipes/050511cftd3257m.jpg)  
-[Flower moon crab](crab/matutidae/planipes.htm)  *Matuta planipes*
+[Flower moon crab](crab/matutidae/planipes)  *Matuta planipes*
 
 ![](crab/varunidae/varuna/070604chgg0129m.jpg)  
-[Paddler crab](crab/varunidae/varuna.htm)  *Varuna* sp.
+[Paddler crab](crab/varunidae/varuna)  *Varuna* sp.
 
 ![](crab/parthenopidae/fornicata/060711chgd4013m.jpg)  
-[Domed elbow crab](crab/parthenopidae/fornicata.htm)
+[Domed elbow crab](crab/parthenopidae/fornicata)
  *Cryptopodia fornicata*
 
 ![](crab/calappidae/hepatica/100417hntd1247m.jpg)  
-[Reef box crabs](crab/calappidae/hepatica.htm) *Calappa hepatica*
+[Reef box crabs](crab/calappidae/hepatica) *Calappa hepatica*
 
 2-8cm.
 Body with a pair of long spines on the sides. Squarish claws. All
@@ -106,16 +91,16 @@ About
 shore near reefs. Seen once at Pulau Hantu.
 
 ![](crab/eriphiidae/ferox/040719sntd2801ma.jpg)  
-[Ferocious reef crab](crab/eriphiidae/ferox.htm) *Eriphia ferox*
+[Ferocious reef crab](crab/eriphiidae/ferox) *Eriphia ferox*
 
 ![](crab/pilumnidae/sluiteri/060714rlhg6649m.jpg)  
-[Fuzzy reef crab](crab/pilumnidae/sluiteri.htm) *Pilumnus sluiteri*
+[Fuzzy reef crab](crab/pilumnidae/sluiteri) *Pilumnus sluiteri*
 
 ![](crab/grapsidae/albolineatus/050410kusg4254m.jpg)  
-[Sally-light-foot crab](crab/grapsidae/albolineatus.htm) *Grapsus albolineatus*
+[Sally-light-foot crab](crab/grapsidae/albolineatus) *Grapsus albolineatus*
 
 ![](crab/plagusiidae/plagusia/120703chgd6472m.jpg)  
-[Rafting crab](crab/plagusiidae/plagusia.htm)  
+[Rafting crab](crab/plagusiidae/plagusia)  
 *Plagusia* sp.
 
 5-7cm.
@@ -133,19 +118,19 @@ Rocky shores. Sometimes seen on our Northern shores.
 
 ![](crab/sesarmidae/perisesarma/090228smkd7247mb.jpg)  
 [Face-band   
-sesarmine crab](crab/sesarmidae/perisesarma.htm)  
+sesarmine crab](crab/sesarmidae/perisesarma)  
 *Perisesarma* sp.
 
 ![](crab/sesarmidae/sarmatium/110205krjd5938m.jpg)  
 [Mound
-crab](crab/sesarmidae/sarmatium.htm) *Sarmatium germaini*
+crab](crab/sesarmidae/sarmatium) *Sarmatium germaini*
 
 ![](crab/sesarmidae/episesarma/090228smkd7197m.jpg)  
-[Tree-climbing crab](crab/sesarmidae/episesarma.htm) *Episesarma* sp.
+[Tree-climbing crab](crab/sesarmidae/episesarma) *Episesarma* sp.
 
 ![](crab/sesarmidae/brockii/031128sbwrad0071m.jpg)  
 [Mangrove   
-tree-dwelling crab](crab/sesarmidae/brockii.htm) *Selatium brockii*
+tree-dwelling crab](crab/sesarmidae/brockii) *Selatium brockii*
 
  
 2-3cm. Body flat and squarish, legs flat with pointed tips. Pincers
@@ -171,31 +156,31 @@ index of
 crustaceans on this site
 
 **Crustaceans**  
-[all crustaceans](crustaceafi.htm)  
+[all crustaceans](crustaceafi)  
   
 **Crabs**  
-[all crabs](crabfi.htm) and crab-like  
- [small](crabfi1c.htm)   
+[all crabs](crabfi) and crab-like  
+ [small](crabfi1c)   
 body width <2 cm  
- [small with long eyestalks](crabfi1a.htm)  
- [small porcelain crabs](crabfi1b.htm)   
+ [small with long eyestalks](crabfi1a)  
+ [small porcelain crabs](crabfi1b)   
 3 pairs walking legs  
   
 medium   
 body width 3-5cm  
   
-[large](crabfi4.htm)   
+[large](crabfi4)   
 body width >5cm  
   
-[swimming crabs](crabfi5.htm)   
+[swimming crabs](crabfi5)   
 last pair of legs paddle-shaped  
   
-[hermit crabs](anomurafi.htm)   
+[hermit crabs](anomurafi)   
 live in shells
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

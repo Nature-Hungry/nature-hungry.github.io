@@ -4,21 +4,6 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "sclerectinia, cnidria, hard, coral, checklist, check, list, index, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 hard corals [photo
 index](cnidariafi1.htm)
 Phylum
@@ -3128,51 +3113,3 @@ bemban besar, terumbu bemban, terumbu semakau, **rfl**: raffles lighthouse, **lf
 live firing area (Salu, Sudong, Pawai, Senang, Biola and submerged
 reefs in the area)
   
-[About
-citing](../about.htm) this checklist.
-  
-  
-  
-
-photo
-index of   
-cnidarians on this site
-
-**Phylum
-Cnidaria****[with hard skeleton](cnidariafi1.htm)  
-  
-polyp shape**[long
-tentacles](coralhardfi1.htm) **colony shape**
- 
-[**leafy**](coralhardfi3.htm) **[crinkled](coralhardfi4.htm)  
- [plate](coralhardfi5.htm)** **branching**
- 
-[thick
-branches](coralhardfi2.htm)  
-[thin branches](gorgonaceafi.htm)
- 
-**boulder**
- 
-Corallite
-shape=   
-[ring](coralhardfi6.htm)  
-[hexagonal](coralhardfi7.htm)   
- [brain or maze](coralhardfi8.htm)
-  
-[others](coralhardfi9.htm)
-  
-[**colony
-unattached**](coralhardfi10.htm)   
-(mushroom hard coral)
-
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "sonneratia, lythraceae. sonneratiaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![talking points for nature guides](../../../../Templates/fornatureguides.gif)](../fngmangroves.htm)
+[![talking points for nature guides](../../../../Templates/fornatureguides.gif)](../fngmangroves)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
-plants [text index](../../plantindex.htm) | [photo
-index](../../plantfi.htm)
-[mangroves](../mangroves.htm)
+plants [text index](../../plantindex) | [photo
+index](../../plantfi)
+[mangroves](../mangroves)
 **Sonneratia   
 *Sonneratia* sp.  
 Family Lythraceae***updated
@@ -61,7 +61,7 @@ and the Proboscis monkey lives largely on them and on the leaves.
   
 **No durians without mangroves!**
 According to Tomlinson, a study in west Malaysia found that [Durian
-flowers](../../fruittrees/durio/zibethinus.htm) are pollinated almost entirely by a single species of
+flowers](../../fruittrees/durio/zibethinus) are pollinated almost entirely by a single species of
 bat *Eonycterus spelaea*. This bat roosts primarily in limestone
 caves and are fast flyers that range up to 50km each night in search
 of pollen and nectar from a wide variety of plants. Their range include
@@ -124,13 +124,13 @@ species on Singapore shores**
 
 ---
 
-[**Perepat**](alba.htm)  
+[**Perepat**](alba)  
 *Sonneratia alba*
 
-[**Berembang**](caseolaris.htm)  
+[**Berembang**](caseolaris)  
 *Sonneratia caseolaris*
 
-[**Gedabu**](ovata.htm)  
+[**Gedabu**](ovata)  
 *Sonneratia ovata*
 
 *![](alba/121216ubnd2662m3.jpg)*
@@ -216,13 +216,13 @@ lobes clasp the fruit.
   minimus](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=10)* on the NParks Flora and Fauna website: photos
   and fact sheet.
 - [Our
-  fireflies: in the latest issue of Wetlands](http://iyb2010singapore.blogspot.sg/2010/09/our-fireflies-in-latest-issue-of.html) on the Celebrating
+  fireflies: in the latest issue of Wetlands](http://iyb2010singapore.blogspot.sg/2010/09/our-fireflies-in-latest-issue-ofl) on the Celebrating
   Singapore's Biodiversity blog.
 - [Life
-  in the mangroves](http://wetlands.sbwr.org.sg/text/00-7-1-5.htm) by Halilah Ahmad in Wetland: about the the
+  in the mangroves](http://wetlands.sbwr.org.sg/text/00-7-1-5) by Halilah Ahmad in Wetland: about the the
   Common long-tongued fruit bat (*Macroglossus minimus*).
 - [No
-  bats, no durians](http://habitatnews.nus.edu.sg/pub/naturewatch/text/a062a.htm) by Lim Gaik Kee from Sahabat Alam Malaysia
+  bats, no durians](http://habitatnews.nus.edu.sg/pub/naturewatch/text/a062a) by Lim Gaik Kee from Sahabat Alam Malaysia
   in NatureWatch
 
 **References**
@@ -250,9 +250,9 @@ lobes clasp the fruit.
 FREE photos of [mangrove
 trees and plants](http://www.flickr.com/photos/54527470@N00/sets/72157600258037543). Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

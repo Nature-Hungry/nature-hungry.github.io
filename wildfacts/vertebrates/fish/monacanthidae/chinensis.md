@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "fan, bellied, filefish, file, fish, leather, jacket, monacanthus, chinensis, monacanthidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Monacanthidae](monacanthidae.htm)
+> Subphylum Vertebrate > [fishes](../fish) >
+Family [Monacanthidae](monacanthidae)
 **Fan-bellied
 filefish  
 *Monacanthus chinensis\****  
@@ -44,7 +44,7 @@ diagonal bars on the sides, in some these bars may be indistinct.
 It comes in all shades from brown to green. Tail fin large broad with thin brown
 bands. On a large adult, the upper fin rays on the tail is produced
 into a filament.
-More on [how to tell apart filefishes](monacanthidae.htm).
+More on [how to tell apart filefishes](monacanthidae).
 
 ![](chinensis/030716cjd0060m3.jpg)  
 Often with pattern of broad diagonal bars. *Chek Jawa, Jul 03*
@@ -61,7 +61,7 @@ Looks like seagrass! *Changi, Jul 07*
 
 **What
 does it eat?** It eats seagrass, seaweed and small crustaceans
-as well as immobile animals such as [bryozoans](../../../bryozoa/bryozoan.htm), [ascidians](../../../ascidiacea/ascidiacea.htm) and [hydroids](../../../cnidaria/others/hydrozoa/hydrozoa.htm).  
+as well as immobile animals such as [bryozoans](../../../bryozoa/bryozoan), [ascidians](../../../ascidiacea/ascidiacea) and [hydroids](../../../cnidaria/others/hydrozoa/hydrozoa).  
   
 **Human uses:** It is sold as seafood
 in some places.
@@ -137,7 +137,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 *Terumbu Semakau, Apr 13*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8749320127/in/album-72157624104220316/).
 
 ![](chinensis/140811trylks3m3.JPG)  
-*Terumbu Raya, Aug 14*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/08/coral-health-check-at-terumbu-raya.html).
+*Terumbu Raya, Aug 14*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/08/coral-health-check-at-terumbu-rayal).
 
 ---
 
@@ -146,12 +146,12 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Links**  
 
 - [Fan-bellied
-  Filefish (*Monacanthus chinensis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/394.htm)
+  Filefish (*Monacanthus chinensis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/394)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
 - [*Monocanthus*
-  sp.](http://mangrove.nus.edu.sg/pub/seashore/text/237.htm)  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+  sp.](http://mangrove.nus.edu.sg/pub/seashore/text/237)  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [Fan-bellied
@@ -159,7 +159,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
   Technical fact sheet.
 - [Volume
   6: Bony fishes part 4 (Labridae to Latimeriidae), estuarine crocodiles,
-  sea turtles, sea snakes and marine mammals](http://www.fao.org/docrep/009/y0870e/y0870e00.htm) FAO Species Identification
+  sea turtles, sea snakes and marine mammals](http://www.fao.org/docrep/009/y0870e/y0870e00) FAO Species Identification
   Guide for Fishery Purposes The Living Marine Resources of the
   Western Central Pacific.
 
@@ -174,9 +174,9 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
   Reef Fishes of the World*
   Periplus Editions. 400pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

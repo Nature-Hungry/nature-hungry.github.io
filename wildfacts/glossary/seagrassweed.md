@@ -4,23 +4,8 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "flat, worm, flatworm, polyclad, slug, nudibranch, nudibranchia, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](index.html)
-| [search](../search.htm)
-
-[seaweeds](../plants/seaweed/seaweed.htm)
-| [seagrasses](../plants/seagrass/seagrass.htm)
+[seaweeds](../plants/seaweed/seaweed)
+| [seagrasses](../plants/seagrass/seagrass)
 **Seagrass
 or seaweed?****How to tell them apart?**  
 *updated Apr 2020*
@@ -42,10 +27,10 @@ apart.
   
 ![](../plants/seaweed/chlorophyta/taxifolia/041116labd8420m3a.jpg)
 
-**[Seagrasses](../plants/seagrass/seagrass.htm)**
+**[Seagrasses](../plants/seagrass/seagrass)**
 
 **[Green
-seaweeds](../plants/seaweed/chlorophyta/chlorophyta.htm)**
+seaweeds](../plants/seaweed/chlorophyta/chlorophyta)**
 
 Seagrasses
 have veins.
@@ -99,52 +84,52 @@ comparisons**
 
 *![](../plants/seaweed/chlorophyta/mexicana/040901sjid6072m3.jpg)*  
 [**Mexican
-seaweed**](../plants/seaweed/chlorophyta/mexicana.htm)  
+seaweed**](../plants/seaweed/chlorophyta/mexicana)  
 *Caulerpa mexicana*
 
 *![](../plants/seaweed/chlorophyta/sertularioides/050623cjd4103m3.jpg)*  
 **[Delicate
-feathery green seaweed](../plants/seaweed/chlorophyta/sertularioides.htm)**  
+feathery green seaweed](../plants/seaweed/chlorophyta/sertularioides)**  
 *Caulerpa sertularioides*
 
 *![](../plants/seaweed/chlorophyta/taxifolia/110814smkd9055m3.jpg)*  
 **[Taxifolia
-feathery green seaweed](../plants/seaweed/chlorophyta/taxifolia.htm)**  
+feathery green seaweed](../plants/seaweed/chlorophyta/taxifolia)**  
 *Caulerpa taxifolia*
 
 ---
 
 ![](../plants/seaweed/chlorophyta/cupressoides/050621skdg7924m3a.jpg)  
 [**Zipper
-green seaweed**](../plants/seaweed/chlorophyta/cupressoides.htm)  
+green seaweed**](../plants/seaweed/chlorophyta/cupressoides)  
 *Caulerpa cuppresoides*
 
 *![](../plants/seaweed/chlorophyta/bottlebrush/080425cyrd1802m3.jpg)*  
 [**Bottlebrush
-green seaweed**](../plants/seaweed/chlorophyta/webbiana.htm) *Caulerpa webbiana*
+green seaweed**](../plants/seaweed/chlorophyta/webbiana) *Caulerpa webbiana*
 
-*![](../plants/seaweed/chlorophyta/scalpelliformis/050428cftg5309m3.jpg)***[Scalpel green seaweed](../plants/seaweed/chlorophyta/scalpelliformis.htm)** **Caulerpa scalpelliformis**
+*![](../plants/seaweed/chlorophyta/scalpelliformis/050428cftg5309m3.jpg)***[Scalpel green seaweed](../plants/seaweed/chlorophyta/scalpelliformis)** **Caulerpa scalpelliformis**
 
 ---
 
 ![](../plants/seaweed/chlorophyta/bryopsis/101109sntd2697m3.jpg)  
 [**Hairy
-green seaweed**](../plants/seaweed/chlorophyta/bryopsis.htm)  
+green seaweed**](../plants/seaweed/chlorophyta/bryopsis)  
 *Bryopsis* sp.
 
 *![](../plants/seaweed/chlorophyta/fluffy/050721cjg9759m3a.jpg)*  
 [**Fluffy
-green seaweed**](../plants/seaweed/chlorophyta/fluffy.htm)  
+green seaweed**](../plants/seaweed/chlorophyta/fluffy)  
 *Caulerpa verticillata*
 
 ---
 
 how to tell apart [different
-feathery green seaweeds](../plants/seaweed/chlorophyta/cffeathery.htm)
+feathery green seaweeds](../plants/seaweed/chlorophyta/cffeathery)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

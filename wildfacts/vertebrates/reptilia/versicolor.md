@@ -4,23 +4,10 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "changeable, lizard, calotes, versicolor, agamidae, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 vertebrates [text
-index](../vertindex.htm) | [photo index](../vertfi.htm)
+index](../vertindex) | [photo index](../vertfi)
 Phylum Chordata
 > Subphylum Vertebrata > Class Reptilia
 **Changeable
@@ -39,7 +26,7 @@ bushes and trees. It is believed to have been introduced to Singapore
 possibly in the 1980's and has since spread almost everywhere, including
 in parks and urban areas. It is native to continental Asia up to the
 northern Peninsular Malaysia. In Singapore, it has displaced the [Green
-crested lizard](cristatella.htm) (*Bronchodela cristatella*) a native lizard
+crested lizard](cristatella) (*Bronchodela cristatella*) a native lizard
 which used to be commonly seen.   
   
 **Features:**Total length
@@ -86,7 +73,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Links**
 
 - [Changeable
-  lizard](http://www.ecologyasia.com/verts/lizards/changeable_lizard.htm) on Nick Baker's EcologyAsia website: fact sheet with
+  lizard](http://www.ecologyasia.com/verts/lizards/changeable_lizard) on Nick Baker's EcologyAsia website: fact sheet with
   photos.
 
 **References**
@@ -106,14 +93,4 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
   Malaysia and Singapore*
   New Holland.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

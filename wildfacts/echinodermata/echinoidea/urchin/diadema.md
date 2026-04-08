@@ -4,29 +4,29 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "long, spine, spined, urchin, diadema, setosum, echinoid, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![](../../../../Templates/fornatureguides.gif)](../../fngechinoidea.htm)
+[![](../../../../Templates/fornatureguides.gif)](../../fngechinoidea)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 echinoids
-[text index](../../echinodermindex.htm#echinoidea) |
-[photo index](../../echinoideafi2.htm)
-Phylum [Echinodermata](../../echinodermata.htm)
-> Class [Echinodea](../echinoidea.htm) > [sea
-urchins](urchin.htm)
+[text index](../../echinodermindex#echinoidea) |
+[photo index](../../echinoideafi2)
+Phylum [Echinodermata](../../echinodermata)
+> Class [Echinodea](../echinoidea) > [sea
+urchins](urchin)
 **Diadema
 sea urchin  
 *Diadema setosum*  
@@ -82,14 +82,14 @@ Spines may be
 black, banded or even white.
 
 **May be confused with** the [Black
-sea urchin](temnopleurus.htm) (*Temnopleurus* sp.) with much shorter spines
+sea urchin](temnopleurus) (*Temnopleurus* sp.) with much shorter spines
 is more commonly seen on our Northern shores, sometimes in large numbers. Thanks to Dr Frederic Ducarme for more on how to tell apart *Diadema setosum* and *Diadema savignyi*. "The orange ring is unique to *Diadema setosum*, even if in some cases it can be pale, and *D. savignyi* can, in exceptional cases, also have a pale ring around the anal papilla. But the five white dots indicate *D. setosum*, as well as the blue dots pattern of the iridophores, whereas *D. savignyi* has lines. Indeed *D. savignyi* generally has a thicker body with shorter spines, but the length of the spines vary according to the site, and in some places *D. setosum* has shorter spines as well."  **What does it eat?** It feeds on
 algae, grazing these from dead corals or rubble areas. It may also
 trap tiny suspended food particles with its long spines, transferring
 these to the mouth with tube feet.  
   
 **Prickly home:** The sea urchin is
-sometimes home to other animals such as [cardinalfish](../../../vertebrates/fish/apogonidae/apogonidae.htm) (Family Apogonidae), [razorfishes](../../../vertebrates/fish/centriscidae/centriscidae.htm) (Family Centriscidae) and shrimps (*Saron marmoratus*) and anemones
+sometimes home to other animals such as [cardinalfish](../../../vertebrates/fish/apogonidae/apogonidae) (Family Apogonidae), [razorfishes](../../../vertebrates/fish/centriscidae/centriscidae) (Family Centriscidae) and shrimps (*Saron marmoratus*) and anemones
 (*Coeloplana* sp.). Small white parasitic snails are also said
 to be associated with it.  
   
@@ -146,13 +146,13 @@ shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/posts
 *![](diadema/090706tmtch2m3.jpg)  
 Tanah Merah, Jul 09*Photo
 shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2009/07/crabby-day-tanah-merah.html).
+blog](http://colorclouds.blogspot.com/2009/07/crabby-day-tanah-merahl).
 
 *![](diadema/090807tmlks2m3.jpg)*  
-*Tanah Merah, Aug 09*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.com/2009/08/back-to-tanah-merah.html).
+*Tanah Merah, Aug 09*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.com/2009/08/back-to-tanah-merahl).
 
 *![](diadema/140518tmlks.JPG)*  
-*Tanah Merah, May 14*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/05/coral-overdose-at-tanah-merah.html).
+*Tanah Merah, May 14*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/05/coral-overdose-at-tanah-merahl).
 
 ---
 
@@ -174,7 +174,7 @@ shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=101587
 *![](diadema/120407lazlks9m3.jpg)*  
 *Seringat
 Kias, Apr 12*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2012/04/lobster-at-seringat-kias.html).
+blog](http://wondercreation.blogspot.com/2012/04/lobster-at-seringat-kiasl).
 
 ---
 
@@ -199,28 +199,28 @@ shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=101586
 ![](diadema/091118cyrgl1m3.JPG)  
 *Cyrene Reef,
 Nov 09*Photo shared by Geraldine Lee on [her
-blog](http://starryfinds.blogspot.com/2009/11/knobblies-galore-at-cyrene-reef.html).
+blog](http://starryfinds.blogspot.com/2009/11/knobblies-galore-at-cyrene-reefl).
 
 *![](diadema/081114cyrlks03m3.jpg)  
 Cyrene Reef,
 Nov 08  
 Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2008/11/evening-with-cyrene.html).*
+blog](http://wondercreation.blogspot.com/2008/11/evening-with-cyrenel).*
 
 ![](diadema/120707jnglks1m3.JPG)  
  *Pulau Jong, Jun 12*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2012/07/slugs-galore-at-pulau-jong.html).
+blog](http://wondercreation.blogspot.sg/2012/07/slugs-galore-at-pulau-jongl).
 
 ---
 
 ![](diadema/100627hntjk1m3.jpg)  
 *Pulau Hantu,
 Jun 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/06/100627-pulau-hantu.html).
+blog](http://sgn090608.blogspot.com/2010/06/100627-pulau-hantul).
 
 ![](diadema/130628thntlks.JPG)  
 *Terumbu
-Hantu, Jun 13*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2013/06/first-visit-to-terumbu-hantu.html).
+Hantu, Jun 13*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2013/06/first-visit-to-terumbu-hantul).
 
 ---
 
@@ -237,7 +237,7 @@ Semakau, May 10*Photo shared by Loh Kok Sheng on [his flickr](http://www.flickr.
 Terumbu Bemban,
 Apr 11*  
 Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/04/corals-galore-at-terumbu-bemban.html).
+blog](http://wondercreation.blogspot.com/2011/04/corals-galore-at-terumbu-bembanl).
 
 *![](diadema/200310bbbmn3.jpg)  
 Beting Bemban Besar,
@@ -248,7 +248,7 @@ Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo.php?fbid=
 
 ![](diadema/120721tptlks.JPG)  
 *Terumbu
-Pempang Tengah, Jul 12*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2012/07/underwater-splendor-of-terumbu-pempang.html).
+Pempang Tengah, Jul 12*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2012/07/underwater-splendor-of-terumbu-pempangl).
 
 ![](diadema/210502tpttch2.jpg)  
 *Terumbu
@@ -299,15 +299,15 @@ Thanks to Dr Frederic Ducarme for more on how to tell apart *Diadema setosum* an
 **Links**
 
 - [Black
-  sea urchin (*Diadema setosum*)](http://mangrove.nus.edu.sg/pub/seashore/text/223.htm) Tan, Leo W. H. & Ng, Peter
+  sea urchin (*Diadema setosum*)](http://mangrove.nus.edu.sg/pub/seashore/text/223) Tan, Leo W. H. & Ng, Peter
   K. L., 1988. *A Guide to Seashore Life*. The Singapore Science
   Centre, Singapore. 160 pp.
 - [The
   Echinoid Directory](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/) by Dr. Andrew B. Smith on the London Natural
   History Museum website
 - [*Diadema
-  savignyi* (Savigny's long-spine sea urchin)](http://www.sealifebase.org/summary/Diadema-savignyi.html) and *[Diadema
-  setosum](http://www.sealifebase.org/summary/Diadema-setosum.html)* on SeaLife Base: Technical fact sheet.
+  savignyi* (Savigny's long-spine sea urchin)](http://www.sealifebase.org/summary/Diadema-savignyil) and *[Diadema
+  setosum](http://www.sealifebase.org/summary/Diadema-setosuml)* on SeaLife Base: Technical fact sheet.
 
 **References**
 
@@ -336,9 +336,9 @@ Thanks to Dr Frederic Ducarme for more on how to tell apart *Diadema setosum* an
   Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
   exclusive of the vertebrates.* Sea Challengers. 314pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

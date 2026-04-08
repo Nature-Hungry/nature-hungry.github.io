@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "notable, cucumber, seacucumber, holothuria, notabilis, holothuriidae, holothuroidae, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 sea
-cucumbers [text index](../echinodermindex.htm#holothuroidea)
-| [photo index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class [Holothuroidea](holothuroidea.htm)
+cucumbers [text index](../echinodermindex#holothuroidea)
+| [photo index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
+> Class [Holothuroidea](holothuroidea)
 **Remarkable
 sea cucumber  
 *Holothuria notabilis*  
@@ -87,7 +74,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 ![](notabilis/071027cjlks01m3.jpg)  
 *Chek Jawa, Oct 07*  
 Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2008/08/changi-shore-with-lunar-eclipse.html).
+blog](http://wondercreation.blogspot.com/2008/08/changi-shore-with-lunar-eclipsel).
 
 ![photo courtesy of Robin Ngiam Wen Jiang](notabilis/pic6a.jpg)  
 Ossicles of the sea cucumber  
@@ -105,7 +92,7 @@ see also [his blog](http://singaporefauna.blogspot.com/).
 
 ![](notabilis/100612chglks2m3.jpg)  
 *Changi, Jun 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/06/changi-still-as-charming-as-ever.html).
+blog](http://wondercreation.blogspot.com/2010/06/changi-still-as-charming-as-everl).
 
 ![](notabilis/230605chg7lks6.jpg)  
 *Changi Carpark 7, Jun 23*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10160711619253158&set=a.10160711621108158).
@@ -143,13 +130,13 @@ shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?vanity=mar
 
 ![](notabilis/100713cyrtch3m6l.jpg)  
 *Cyrene Reef, Jul 10*Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2010/07/predawn-trip-to-cyrene-reef-again.html).
+blog](http://colorclouds.blogspot.com/2010/07/predawn-trip-to-cyrene-reef-againl).
 
 ---
 
 ![](notabilis/100711cyrlks8m6l.jpg)  
 *Cyrene Reef, Jul 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/07/cyrene-in-dark.html).
+blog](http://wondercreation.blogspot.com/2010/07/cyrene-in-darkl).
 
 ---
 
@@ -159,23 +146,13 @@ and providing photos of the ossicles.
  **Links**
 
 - [*Holothuria
-  notabilis*](http://www.sealifebase.org/summary/Holothuria-notabilis.html)
+  notabilis*](http://www.sealifebase.org/summary/Holothuria-notabilisl)
   on SeaLife Base: Technical fact sheet.
 - [*Holothuria
   notabilis*](http://species-identification.org/species.php?species_group=nasc&id=70) in North Australian Sea Cucumbers on Marine
   Species Identification Portal: Technical fact sheet.
 - [*Holothuria
   notabilis*](http://www.iucnredlist.org/details/180340/0) on the IUCN Red List.
-- *Holothuria notabilis* on [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00.htm), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
+- *Holothuria notabilis* on [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

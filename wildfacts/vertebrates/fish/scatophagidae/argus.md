@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "spotted, scat, fish, scatophagus, argus, scatophagidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm) >
+> Subphylum Vertebrata > [fishes](../fish) >
 Family Scatophagidae
 **Spotted
 scat**  
@@ -93,17 +93,17 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ![](argus/160706skdlks4.jpg)  
 *Pulau Sekudu, Jul 16*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2016/07/baby-knobblies-at-pulau-sekudu.html).
+blog](http://wondercreation.blogspot.sg/2016/07/baby-knobblies-at-pulau-sekudul).
 
 ---
 
 ![](argus/091008tmjk2m3.jpg)  
 *Tanah Merah, Oct 09*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/10/tanah-merah-add-stingray-to-list.html).
+blog](http://sgn090608.blogspot.com/2009/10/tanah-merah-add-stingray-to-listl).
 
 ![](argus/091008tmjk3m3.jpg)  
 *Tanah Merah, Oct 09*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/10/tanah-merah-add-stingray-to-list.html).
+blog](http://sgn090608.blogspot.com/2009/10/tanah-merah-add-stingray-to-listl).
 
 ---
 
@@ -132,21 +132,21 @@ argus* (Spotted scat)
 **Links**  
 
 - [Spotted
-  Scat (*Scatophagus argus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/326.htm) Lim, Kelvin K. P. & Jeffrey
+  Scat (*Scatophagus argus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/326) Lim, Kelvin K. P. & Jeffrey
   K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
 - [Scat
-  or Butterfish (*Scatophagus argus*)](http://mangrove.nus.edu.sg/pub/seashore/text/244.htm) Tan, Leo W. H. &
+  or Butterfish (*Scatophagus argus*)](http://mangrove.nus.edu.sg/pub/seashore/text/244) Tan, Leo W. H. &
   Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [Spotted
-  scat (*Scatophagus argus*)](http://mangrove.nus.edu.sg/guidebooks/text/2110.htm) Ng, Peter K. L. & N. Sivasothi,
+  scat (*Scatophagus argus*)](http://mangrove.nus.edu.sg/guidebooks/text/2110) Ng, Peter K. L. & N. Sivasothi,
   1999. *[A Guide
   to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
   Science Centre. 168 pp
-- [*Scatophagus argus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Scatophagus%20argus.html) (Perciformes: Scatophagidae) Spotted Scat by Joleen Chan, 2014, on taxo4254
+- [*Scatophagus argus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Scatophagus%20argusl) (Perciformes: Scatophagidae) Spotted Scat by Joleen Chan, 2014, on taxo4254
 - [*Scatophagus argus*](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=1223) on NParks Flora and Fauna website.
 - [Family
   Scatophagidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=341) from [FishBase](http://www.fishbase.org/):
@@ -169,9 +169,9 @@ argus* (Spotted scat)
   Reef Fishes of the World*
   Periplus Editions. 400pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

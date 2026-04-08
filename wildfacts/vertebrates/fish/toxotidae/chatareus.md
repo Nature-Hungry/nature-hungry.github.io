@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "spotted, acherfish, archer, fish, toxotidae, toxotes, chatareus, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm) >
-Family [Toxotidae](toxotidae.htm)
+> Subphylum Vertebrata > [fishes](../fish) >
+Family [Toxotidae](toxotidae)
 **Spotted
 archerfish**  
 ***Toxotes
@@ -34,7 +34,7 @@ Oct 2020*
 ---
 
 **Where
-seen?** It is not seen as often as [Banded archerfishes](jaculatrix.htm), but sometimes seen together with these.
+seen?** It is not seen as often as [Banded archerfishes](jaculatrix), but sometimes seen together with these.
 Under jetties, bridges in streams near mangroves.  
  **Features:** About 20cm, to about
 40cm long. Smaller black spots between the broad black bands. Sometimes
@@ -48,7 +48,7 @@ eyes don't have the golden sheen.
 
 **What does it eat?** The Spotted
 archerfish feeds on floating titbits including insects and vegetation,
-as well as crustaceans and small fishes. [More](toxotidae.htm) about the archerfishes' infamous ability to shoot down insects.  
+as well as crustaceans and small fishes. [More](toxotidae) about the archerfishes' infamous ability to shoot down insects.  
   
 **Spotted babies:** A female Spotted
 archerfish can produce lots of floating eggs, 20,000-150,000 of them.  
@@ -81,7 +81,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
   archerfish (*Toxotes chatareus*)](http://fishbase.org/summary/8079) from [FishBase](http://www.fishbase.org/):
   Technical fact sheet
 - [Seven-spot
-  archerfish (*Toxotes chatareus*)](http://www.amonline.net.au/fishes/fishfacts/fish/tchatar.htm) from the [Australian
+  archerfish (*Toxotes chatareus*)](http://www.amonline.net.au/fishes/fishfacts/fish/tchatar) from the [Australian
   Museum Fish Site](http://www.amonline.net.au/fishes/fishfacts/): fact sheet with photo of fish and closeup
   of the structure of the fish's mouth with groove on the roof and
   shape of tongue.
@@ -93,9 +93,9 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
   Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
   Periplus Editions. 292 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "crown, sea star, seastar, starfish, star, fish, aquilonastra, asterina, coronata, asterinidae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 sea
-stars [text index](../echinodermindex.htm) | [photo
-index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class Stelleroida > Subclass [Asteroidea](asteroidea.htm)
+stars [text index](../echinodermindex) | [photo
+index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
+> Class Stelleroida > Subclass [Asteroidea](asteroidea)
 **Crown
 sea star  
 *Aquilonastra coronata*  
@@ -117,7 +104,7 @@ Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=1
 
 ![](asterina/160210nsrcclks3.JPG)  
 *East Coast Park, Feb 16*  
-Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2016/02/cny-day-3-tanah-merah-sandflat.html).
+Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2016/02/cny-day-3-tanah-merah-sandflatl).
 
 ![](asterina/151031ecpmblks.JPG)  
 *East Coast Park, Marina Bay, Oct 15*  
@@ -142,14 +129,4 @@ Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo.php?fbi
   table and illustrated identification to the species*. The Raffles
   Bulletin of Zoology 1998 46(2): 431-470.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

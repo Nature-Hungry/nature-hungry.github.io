@@ -4,28 +4,28 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "prawn, shrimp, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![talking points for nature guides](../../../../Templates/fornatureguides.gif)](../../fngshrimps.htm)
+[![talking points for nature guides](../../../../Templates/fornatureguides.gif)](../../fngshrimps)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 shrimps [text
-index](../../crustaceaindex.htm#shrimps) | [photo index](../../shrimpfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
+index](../../crustaceaindex#shrimps) | [photo index](../../shrimpfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
 **Prawns
 and shrimps***updated
 Apr 2020*
@@ -49,7 +49,7 @@ common on almost every shore. However, they are difficult to spot
 as they are often small, and hide in burrows or just beneath the sand.
 Even those in plain sight disappear from view as many are nearly transparent.
 They are adapted for bottom dwelling.   
- **What are prawns and shrimps?** Prawns and shrimps are [crustaceans](../../crustacea.htm) that belong to various groups in the larger Order [Decapoda](../../decapoda.htm).
+ **What are prawns and shrimps?** Prawns and shrimps are [crustaceans](../../crustacea) that belong to various groups in the larger Order [Decapoda](../../decapoda).
 There are no clear scientific differences between prawns and shrimps.
 Generally, smaller ones are called shrimps while larger ones prawns.  
   
@@ -67,15 +67,15 @@ deeper water.
 **What do they eat?** Larger shrimps
 are mostly scavengers or eat small plants and animals. Smaller ones
 feed on plankton and algae.
-*![](penbluetail/070615sntrg0335m3.jpg)*The [Blue-tail prawn](penbluetail.htm) like other shrimps  
+*![](penbluetail/070615sntrg0335m3.jpg)*The [Blue-tail prawn](penbluetail) like other shrimps  
 contracts its abdomen to swim backwards.
 *![](rednose/040919sntd7078m3.jpg)* [Red-nose
-shrimps](rednose.htm) are also found among   
+shrimps](rednose) are also found among   
 seaweeds, and living hard and soft corals.
 ![](../../../echinodermata/holothuroidea/colochirus/050821bbg1857m3b.jpg)  
-A tiny transparent [commensal shrimp](palaemonidae.htm), several seen on
+A tiny transparent [commensal shrimp](palaemonidae), several seen on
 a [Thorny
-sea cucumber](../../../echinodermata/holothuroidea/colochirus.htm).  
+sea cucumber](../../../echinodermata/holothuroidea/colochirus).  
 *Beting Bronok, Aug 05*
 **How do they mate?** Shrimps have
 separate genders. To mate, a male inserts his sperm packet into a
@@ -105,13 +105,13 @@ juvenile
 ![](meta3.gif)  
 adult*
 
-*![](alphballsoft/110518bbd1955m3.jpg)*[White snapping shrimps](alphballsoft.htm) live in   
+*![](alphballsoft/110518bbd1955m3.jpg)*[White snapping shrimps](alphballsoft) live in   
 Ball flowery soft corals. *Beting Bronok, May 11*
 ![](../../../vertebrates/fish/gobiidae/leptocephalus/080830kusd9939m3.jpg)  
 A [Many-band
-snapping shrimp](../../../crustacea/othercrust/shrimp/alphmanyband.htm) sharing a burrow with a [Pink-speckled shrimp-goby](../../../vertebrates/fish/gobiidae/leptocephalus.htm). *Kusu Island, Aug 08*
+snapping shrimp](../../../crustacea/othercrust/shrimp/alphmanyband) sharing a burrow with a [Pink-speckled shrimp-goby](../../../vertebrates/fish/gobiidae/leptocephalus). *Kusu Island, Aug 08*
 *![](brevicarpalis/040731kusd3491m3.jpg)*A
-pair of [Five-spot anemone shrimps](brevicarpalis.htm) is commonly   
+pair of [Five-spot anemone shrimps](brevicarpalis) is commonly   
 found in our carpet anemones.
 **Role in the habitat:** Shrimps are
 numerous and eaten by a wide variety of larger creatures. In coral
@@ -119,7 +119,7 @@ reefs, some species of shrimps act as cleaners, picking parasites
 and dead skin off fishes. The fish 'clients' allow the cleaner shrimps
 to do their job without eating them. These cleaners are often brightly
 marked. Some shrimps also live with other sea creatures. [Anemone
-shrimps](palaemonidae.htm), for example, frolick happily among the tentacles of a
+shrimps](palaemonidae), for example, frolick happily among the tentacles of a
 sea anemone that would kill and eat other creatures.  
   
 **Human uses:** Shrimps and prawns
@@ -130,7 +130,7 @@ Tiny shrimps are used as condiments, and shrimps flavour crackers,
 balls and other delicacies. While traditional farming and harvesting
 methods are sustainable, large-scale commercial prawn farms and prawn
 trawling are more destructive and unsustainable. [More
-about prawn farming](../../../concepts/prawnfarms.htm) and trawling.
+about prawn farming](../../../concepts/prawnfarms) and trawling.
 
 **Status
 and threats:** Some of our shrimps and prawns are listed
@@ -145,20 +145,20 @@ and over-collection can also have an impact on local populations.
 
 ---
 
-*![](penbanded/050721cjg9666m3.jpg)*[**Penaeid prawn**](penaeidae.htm)
+*![](penbanded/050721cjg9666m3.jpg)*[**Penaeid prawn**](penaeidae)
 
 ***![](alphsmooth/050621skdg7874m3.jpg)***[**Snapping
-shrimps**](alpheidae.htm)
+shrimps**](alpheidae)
 
-***![](carpet/050621skdg8007m3.jpg)*[Commensal shrimps](palaemonidae.htm)**
+***![](carpet/050621skdg8007m3.jpg)*[Commensal shrimps](palaemonidae)**
 
 ---
 
-***![](redband/060130hntg4350m3.jpg)*[Red-banded shrimp](redband.htm)**
+***![](redband/060130hntg4350m3.jpg)*[Red-banded shrimp](redband)**
 
-***![](saron/090818tmd9180m3.jpg)*[Saron shrimp](saron.htm)**
+***![](saron/090818tmd9180m3.jpg)*[Saron shrimp](saron)**
 
-***![](humped/111002sisd2124m3.jpg)*[Humpbacked shrimp](hippolytidae.htm)**
+***![](humped/111002sisd2124m3.jpg)*[Humpbacked shrimp](hippolytidae)**
 
 ---
 
@@ -184,19 +184,19 @@ are difficult to positively identify without close examination
 of small features. On this website, they are grouped by external
 features for convenience of display.*
  
-[Red-banded shrimps](redband.htm)   
-[Humpbacked shrimps](humped.htm)
+[Red-banded shrimps](redband)   
+[Humpbacked shrimps](humped)
   
  
 **[Family
-Penaeidae](penaeidae.htm) (penaeid prawns)** with list of species recorded
+Penaeidae](penaeidae) (penaeid prawns)** with list of species recorded
 for Singapore
   
 **Infraorder
 Caridea**
  
 **[Family
-Alpheidae](alpheidae.htm) (snapping shrimps)** with list of species recorded
+Alpheidae](alpheidae) (snapping shrimps)** with list of species recorded
 for Singapore
  
 **Family
@@ -212,10 +212,10 @@ Caridina weberi sumtrensis
 Caridina temasek* (Temasek
 shrimp) (EN: Endangered)
  
-**[Family Hippolytidae](hippolytidae.htm) (humpbacked shrimps, cleaner shrimps, saron shrimps)**with list of species recorded for Singapore
+**[Family Hippolytidae](hippolytidae) (humpbacked shrimps, cleaner shrimps, saron shrimps)**with list of species recorded for Singapore
  
 **[Family
-Palaemonidae](palaemonidae.htm) (glass shrimps and commensal shrimps)**with list of species recorded for Singapore
+Palaemonidae](palaemonidae) (glass shrimps and commensal shrimps)**with list of species recorded for Singapore
  
 **Family
 Pandalidae (marine carid shrimps)**
@@ -250,15 +250,15 @@ hispidus*
 **Links**
 
 - [Belachan
-  Shrimp (Family Sergestidae)](http://mangrove.nus.edu.sg/pub/seashore/text/179.htm), [Glass
-  Shrimp (Family Palaemonidae)](http://mangrove.nus.edu.sg/pub/seashore/text/180.htm), [prawns](http://mangrove.nus.edu.sg/pub/seashore/text/182.htm)
+  Shrimp (Family Sergestidae)](http://mangrove.nus.edu.sg/pub/seashore/text/179), [Glass
+  Shrimp (Family Palaemonidae)](http://mangrove.nus.edu.sg/pub/seashore/text/180), [prawns](http://mangrove.nus.edu.sg/pub/seashore/text/182)
   Tan, Leo W. H. & Ng, Peter K. L., 1988, *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [Marine
-  prawns (*Penaeus and Metapenaeus* spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2038.htm), [Estuarine
-  prawn (*Macrobrachium equidens)*](http://mangrove.nus.edu.sg/guidebooks/text/2037.htm), [Mangrove
-  hairy-handed prawn (*Caridina propinqua*)](http://mangrove.nus.edu.sg/guidebooks/text/2039.htm) Ng, Peter K.
+  prawns (*Penaeus and Metapenaeus* spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2038), [Estuarine
+  prawn (*Macrobrachium equidens)*](http://mangrove.nus.edu.sg/guidebooks/text/2037), [Mangrove
+  hairy-handed prawn (*Caridina propinqua*)](http://mangrove.nus.edu.sg/guidebooks/text/2039) Ng, Peter K.
   L. & N. Sivasothi, 1999. *[A
   Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
   Singapore Science Centre. 168 pp.
@@ -277,9 +277,9 @@ hispidus*
   Encyclopedia of Malaysia (Vol. 6): The Seas
   Didier Millet, Malaysia. 144 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

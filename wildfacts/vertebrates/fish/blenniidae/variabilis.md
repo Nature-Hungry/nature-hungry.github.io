@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "variable, fang, blenny, fish, petroscirtes, variabilis, blenniidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Blennidae](blenniidae.htm)
+> Subphylum Vertebrate > [fishes](../fish) >
+Family [Blennidae](blenniidae)
 **Variable
 fang-blenny  
 *Petroscirtes variabilis*   
@@ -57,10 +57,10 @@ seagrasses.
 
   
 **Blenny babies:** It lays adhesive
-eggs. It has been seen to guard eggs laid inside empty [Fan shell clams](../../../mollusca/bivalvia/pinnidae/pinnidae.htm) and other large empty snail shells. Once, a pair were seen with the eggs.
+eggs. It has been seen to guard eggs laid inside empty [Fan shell clams](../../../mollusca/bivalvia/pinnidae/pinnidae) and other large empty snail shells. Once, a pair were seen with the eggs.
 
 *![](variabilis/210502tptvc1b.jpg)*Guarding eggs in an empty [Fan
-shell](../../../mollusca/bivalvia/pinnidae/pinnidae.htm) clam. *Terumbu Pempang Tengah, May 21*Photo
+shell](../../../mollusca/bivalvia/pinnidae/pinnidae) clam. *Terumbu Pempang Tengah, May 21*Photo
 shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=10158447591457945&set=a.10158447654442945).
 
 ![](variabilis/210502tptvc1a.jpg)  
@@ -73,7 +73,7 @@ Guarding
 eggs laid inside a large snail shell. *Pulau Pawai, Dec 09* 
 
 *![](variabilis/210402tmskvc5.jpg)*A pair seen with eggs inside an empty [Fan
-shell](../../../mollusca/bivalvia/pinnidae/pinnidae.htm) clam. *Terumbu Semakau, Apr 21*Photo
+shell](../../../mollusca/bivalvia/pinnidae/pinnidae) clam. *Terumbu Semakau, Apr 21*Photo
 shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158381221192945&set=a.10158381328717945).
 
 ---
@@ -149,7 +149,7 @@ flickr](http://www.flickr.com/photos/37823682@N04/4171065335/).
 **Links**  
 
 - [Variable
-  Fang-blenny (*Petroscirtes variabilis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/357.htm) Lim, Kelvin K.
+  Fang-blenny (*Petroscirtes variabilis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/357) Lim, Kelvin K.
   P. & Jeffrey K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
@@ -169,9 +169,9 @@ flickr](http://www.flickr.com/photos/37823682@N04/4171065335/).
   Reef Fishes of the World*
   Periplus Editions. 400pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

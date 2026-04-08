@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "seahore, hippocampus, comes, kuda, syngnathidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../../fishindex.htm) | [photo index](../../fishfi.htm)
-[fishes](../fish.htm)
-Family [Syngnathidae](syngnathidae.htm) > Genus [Hippocampus](hippocampus.htm)
+index](../../fishindex) | [photo index](../../fishfi)
+[fishes](../fish)
+Family [Syngnathidae](syngnathidae) > Genus [Hippocampus](hippocampus)
 **Tiger-tailed
 and estuarine seahorses  
 How
@@ -33,9 +33,9 @@ Oct 2020*
 
 It is hard to
 tell apart these two kinds of seahorses. According to the Singapore
-Red Data Book, the [Tiger-tailed seahorse](comes.htm) (*Hippocampus
+Red Data Book, the [Tiger-tailed seahorse](comes) (*Hippocampus
 comes*) is usually found in coral reefs, while the [Estuarine
-seahorse](kuda.htm) (*Hippocampus kuda*) is found mainly in seagrass
+seahorse](kuda) (*Hippocampus kuda*) is found mainly in seagrass
 areas near sources of freshwater. In Singapore, the Tiger-tailed seahorse
 is mainly found around the Southern Islands, while the Estuarine seahorse
 is found all around Singapore in shallow waters.   
@@ -57,7 +57,7 @@ and World Wildlife Fund.
 **Links**  
 
 - [Project
-  Seahorse](http://seahorse.fisheries.ubc.ca/relatives.html): Lourie, S. A., Sarah J. Foster, Ernest W. T. Cooper,
+  Seahorse](http://seahorse.fisheries.ubc.ca/relativesl): Lourie, S. A., Sarah J. Foster, Ernest W. T. Cooper,
   and Amanda C. J. Vincent, 2004. A
   Guide to the Identification of Seahorses. Project Seahorse
   and TRAFFIC North America. Washington D.C.: University of British
@@ -72,9 +72,9 @@ and World Wildlife Fund.
 
   
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

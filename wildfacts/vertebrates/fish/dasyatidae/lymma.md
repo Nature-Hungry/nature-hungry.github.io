@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "blue, spotted, fantail, sting, ray, stingray, taeniura, lymma, fish, rajiformes, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Order [Rajiformes](rajiformes.htm) > Family [Dasyatidae](dasyatidae.htm)
+> Subphylum Vertebrate > [fishes](../fish) >
+Order [Rajiformes](rajiformes) > Family [Dasyatidae](dasyatidae)
 **Blue-spotted
 fantail ray  
 *Taeniura lymma*  
@@ -103,7 +103,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ![](lymma/091008tmjk4m3.jpg)  
 Hidden under ledges and rocks. *Tanah Merah, Oct 09*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/10/tanah-merah-add-stingray-to-list.html).
+blog](http://sgn090608.blogspot.com/2009/10/tanah-merah-add-stingray-to-listl).
  
  
 
@@ -138,7 +138,7 @@ blog](http://sgn090608.blogspot.com/2009/10/tanah-merah-add-stingray-to-list.htm
 
 ![](lymma/080510smklksm3.jpg)  
 *Pulau Semakau, May 08*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2008/05/exploring-northern-semakau.html).
+blog](http://wondercreation.blogspot.com/2008/05/exploring-northern-semakaul).
 
 ---
 
@@ -175,7 +175,7 @@ flickr](http://www.flickr.com/photos/37823682@N04/4171958782/in/pool-1329734@N22
 **Links**  
 
 - [Blue-spotted
-  Fantail Ray (*Taeniura lymma*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/204.htm) Lim, Kelvin K. P. & Jeffrey
+  Fantail Ray (*Taeniura lymma*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/204) Lim, Kelvin K. P. & Jeffrey
   K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
@@ -185,7 +185,7 @@ flickr](http://www.flickr.com/photos/37823682@N04/4171958782/in/pool-1329734@N22
   Technical fact sheet.
 - [Volume
   3: Batoid fishes, chimaeras and bony fishes part 1 (Elopidae to
-  Linophrynidae)](http://www.fao.org/docrep/009/x2401e/x2401e00.htm) FAO Species Identification Guide for Fishery
+  Linophrynidae)](http://www.fao.org/docrep/009/x2401e/x2401e00) FAO Species Identification Guide for Fishery
   Purposes The Living Marine Resources of the Western Central Pacific.
 - *[Taeniura lymma](http://www.iucnredlist.org/details/39412/0)* from IUCN Red List.
 
@@ -210,9 +210,9 @@ flickr](http://www.flickr.com/photos/37823682@N04/4171958782/in/pool-1329734@N22
   Ewald and Robert Myers. 2001. *Coral
   Reef Fishes of the World* Periplus Editions. 400pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

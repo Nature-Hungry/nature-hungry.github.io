@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "spiky, pen, seapen, pteroeides, pteroeididae, pennatulidae, pennatulacea, anthozoa, cnidaria, pteroides, cavernularia, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 sea pens [text
-index](../../cnidariaindex.htm#pennatulacea) | [photo index](../../pennatulaceafi.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Alcyonaria/Octocorallia > Order [Pennatulacea](pennatulacea.htm)
+index](../../cnidariaindex#pennatulacea) | [photo index](../../pennatulaceafi)
+Phylum [Cnidaria](../../cnidaria)
+> Class [Anthozoa](../../anthozoa) > Subclass
+Alcyonaria/Octocorallia > Order [Pennatulacea](pennatulacea)
 **Spiky
 sea pen**  
 ***Pteroeides* sp.\*  
@@ -66,26 +66,26 @@ Changi, Jul 12*
 *![](spiky/130820skdd1405m3.jpg)*Tiny polyps. *Pulau Sekudu, Aug 13*
 
 **Pen pals:** The tiny [Painted
-porcelain crab](../../../crustacea/othercrust/anomura/porcellanidae/picta.htm) (*Porcellanella picta*) is often found in this sea pen. Sometimes a pair is seen in one sea pen, at other times, many are seen. Washed
+porcelain crab](../../../crustacea/othercrust/anomura/porcellanidae/picta) (*Porcellanella picta*) is often found in this sea pen. Sometimes a pair is seen in one sea pen, at other times, many are seen. Washed
 up sea pens sometimes seen with [colourful
-brittle stars](../../../echinodermata/ophiuroidea/tinycolourful.htm) and other brittle stars. Less friendly animals associated with it are nudibranchs that eat them!
+brittle stars](../../../echinodermata/ophiuroidea/tinycolourful) and other brittle stars. Less friendly animals associated with it are nudibranchs that eat them!
 
 *![](spiky/040716chgd2523m3.jpg)*Bent
 over at low tide *Changi, Jul 04*
 
 *![](spiky/040716chgd2523m3a.jpg)*The
 [Painted
-porcellain crab](../../../crustacea/othercrust/anomura/porcellanidae/picta.htm) is often   
+porcellain crab](../../../crustacea/othercrust/anomura/porcellanidae/picta) is often   
 seen in this sea pen.
 
 *![](spiky/111031chgd3404m3a.jpg)*Tiny
 [coloutful
-brittle stars](../../../echinodermata/ophiuroidea/tinycolourful.htm).  
+brittle stars](../../../echinodermata/ophiuroidea/tinycolourful).  
 *Changi,
 Oct 11*
 
 ![](../../../mollusca/slugs/nudibranchia/semperi/180616chgm3.jpg)  
-A [nudibranch that eats sea pens](../../../mollusca/slugs/nudibranchia/semperi.htm) is lurking near this one. *Beting Bronok, Jun 18*
+A [nudibranch that eats sea pens](../../../mollusca/slugs/nudibranchia/semperi) is lurking near this one. *Beting Bronok, Jun 18*
 *![](spiky/081216prpd3387m3.jpg)*Sometimes
 seen uprooted with orange foot. *Pasir Ris, Dec 08*
  
@@ -117,7 +117,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 *![](spiky/100615tustch4m3.jpg)  
 Tuas, Jun 10*Photo
 shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2010/06/it-has-been-three-years.html).
+blog](http://colorclouds.blogspot.com/2010/06/it-has-been-three-yearsl).
 
 *![](spiky/260103prpyls8.jpg)  
 Pasir Ris Park, Jan 26*Photo
@@ -132,7 +132,7 @@ shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/23521
 *![](spiky/091203ubnjk6m3.jpg)  
 Pulau Ubin, Dec 09*Photo
 shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/12/pulau-ubin-new-shore.html).
+blog](http://sgn090608.blogspot.com/2009/12/pulau-ubin-new-shorel).
 
 *![](spiky/250627bbal2.jpg)  
 Beting Bronok, Jun 25*Photo
@@ -153,12 +153,12 @@ East Coast, NSRCC, Nov 20*Photo shared by Richard Kuah on [facebook](https://www
 
 *![](spiky/090207tmlks09m3.jpg)*  
 Shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/02/tanah-merah-surprises.html).
+blog](http://wondercreation.blogspot.com/2009/02/tanah-merah-surprisesl).
 
 *![](spiky/090821tmjk1m3.jpg)  
 Tanah Merah, Aug 09*Photo
 shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/08/tanah-merah-suicidal.html).
+blog](http://sgn090608.blogspot.com/2009/08/tanah-merah-suicidall).
 
   
 
@@ -187,9 +187,9 @@ shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/85197
   Indo-Pacific Field Guide*
   IKAN-Unterwasserachiv, Frankfurt. 305 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

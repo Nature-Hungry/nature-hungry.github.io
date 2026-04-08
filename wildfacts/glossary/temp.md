@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../Templates/wildfactsheet3.gif)](../index.html)
+[![](../../Templates/wildfactsheet3.gif)](../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../index.html)  
+[wildfactsheets homepage](../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](index.html)
-| [search](../search.htm)
+[all animals](../animals)
+| [all plants](../plants)
+| [concepts](../concepts/indexl)
+| [glossary](indexl)
+| [search](../search)
 
 cnidarians [text
-index](../cnidaria/cnidariaindex.htm) | [photo index](../cnidaria/cnidariafi2.htm)
-Phylum [Cnidaria](../cnidaria/cnidaria.htm)
-> Class [Anthozoa](../cnidaria/anthozoa.htm) > Order [Actiniaria](../cnidaria/actiniaria/actiniaria.htm)
+index](../cnidaria/cnidariaindex) | [photo index](../cnidaria/cnidariafi2)
+Phylum [Cnidaria](../cnidaria/cnidaria)
+> Class [Anthozoa](../cnidaria/anthozoa) > Order [Actiniaria](../cnidaria/actiniaria/actiniaria)
 
 **Photo
 index of cnidarians on Singapore shores** **sea
@@ -38,28 +38,28 @@ given is the diameter with tentacles expanded*
   
 ![](../cnidaria/actiniaria/beadbanded/050527srbd3486m.jpg)  
 [Banded bead   
-anemone](../cnidaria/actiniaria/beadbanded.htm)  
+anemone](../cnidaria/actiniaria/beadbanded)  
 *awaiting identification*
 
 ![](../cnidaria/actiniaria/beadstriped/031128sbwrad0028m.jpg)  
   
 ![](../cnidaria/actiniaria/beadstriped/031128sbwrad0028ma.jpg)  
 [Striped   
-bead anemone](../cnidaria/actiniaria/beadstriped.htm)   
+bead anemone](../cnidaria/actiniaria/beadstriped)   
 *awaiting identification*
 
 ![](../cnidaria/actiniaria/hermitbig/040701chgd1385m.jpg)  
   
 ![](../crustacea/othercrust/anomura/hermit/diogenes/050426cftg5066mb.jpg)  
 [Hermit crab  
-anemone](../cnidaria/actiniaria/hermitsmall.htm)  
+anemone](../cnidaria/actiniaria/hermitsmall)  
 *awaiting identification*
 
 ![](../cnidaria/actiniaria/posy/060429skdd1426m.jpg)  
   
 ![](../cnidaria/actiniaria/posy/060429skdd1421mb.jpg)  
 [Posy  
-anemone](../cnidaria/actiniaria/posy.htm)  
+anemone](../cnidaria/actiniaria/posy)  
 *awaiting identification*
 
 ![](../cnidaria/actiniaria/tapetum/080720cjd7934m.jpg)  
@@ -67,7 +67,7 @@ anemone](../cnidaria/actiniaria/posy.htm)
 ![](../cnidaria/actiniaria/tapetum/050428cftg5283m.jpg)  
 [Mini
 carpet   
-anemone](../cnidaria/actiniaria/tapetum.htm)  
+anemone](../cnidaria/actiniaria/tapetum)  
 *Stichodactyal tapetum*
 
 1-2cm.
@@ -92,17 +92,17 @@ centre. On seagrasses on our Northern shore.
 ![](../cnidaria/others/zoanthid/tuberculosa/050410kusg4284m.jpg)  
   
 ![](../cnidaria/others/zoanthid/tuberculosa/050410kusg4285ma.jpg)  
-[Sea mat zoanthids](../cnidaria/others/zoanthid/tuberculosa.htm)  *Platyhoa tuberculosa*
+[Sea mat zoanthids](../cnidaria/others/zoanthid/tuberculosa)  *Platyhoa tuberculosa*
 
 ![](../cnidaria/others/zoanthid/mutuki/050708labg9179m.jpg)  
   
 ![](../cnidaria/others/zoanthid/mutuki/050708labg9179ma.jpg)  
-[Broad disk zoanthids](../cnidaria/others/zoanthid/mutuki.htm) *Platyhoa mutuki*
+[Broad disk zoanthids](../cnidaria/others/zoanthid/mutuki) *Platyhoa mutuki*
 
 ![](../cnidaria/others/zoanthid/zoanthus/short/multicolour/040828skdd5545ma.jpg)  
   
 ![](../cnidaria/others/zoanthid/zoanthus/short/multicolour/040828skdd5545mb.jpg)  
-[Button zoanthids](../cnidaria/others/zoanthid/zoanthus.htm) *Zoanthus* sp.
+[Button zoanthids](../cnidaria/others/zoanthid/zoanthus) *Zoanthus* sp.
 
 Colony
 20-40cm, encrusts rocks and rubble like a rubbery mat. Polyps
@@ -124,7 +124,7 @@ split into two. Commonly seen on many of our shores.
 ---
 
 how to tell apart [animals
-with a ring of smooth tentacles](../cnidaria/cfringtentacles.htm)
+with a ring of smooth tentacles](../cnidaria/cfringtentacles)
 
 ---
 
@@ -138,30 +138,30 @@ index of
 cnidarians on this site
 
 **Phylum Cnidaria   
- [with soft body](../cnidaria/cnidariafi2.htm)   
+ [with soft body](../cnidaria/cnidariafi2)   
   
-[sea anemones and anemone-like](../cnidaria/anemonefi1.htm)**  
+[sea anemones and anemone-like](../cnidaria/anemonefi1)**  
   
 Diameter < 3cm  
   
 Diameter 3-5cm  
  
 [long
-tentacles](../cnidaria/anemonefi3.htm)  
-[short tentacles](../cnidaria/anemonefi4.htm)
- [Diameter 5-10cm](../cnidaria/anemonefi5.htm)  
+tentacles](../cnidaria/anemonefi3)  
+[short tentacles](../cnidaria/anemonefi4)
+ [Diameter 5-10cm](../cnidaria/anemonefi5)  
   
 Diameter >10cm  
  
 [smooth
-tentacles](../cnidaria/anemonefi7.htm)  
-[frilly tentacles](../cnidaria/anemonefi6.htm)
+tentacles](../cnidaria/anemonefi7)  
+[frilly tentacles](../cnidaria/anemonefi6)
   
-[Tube anemones](../cnidaria/anemonefi8.htm)
+[Tube anemones](../cnidaria/anemonefi8)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

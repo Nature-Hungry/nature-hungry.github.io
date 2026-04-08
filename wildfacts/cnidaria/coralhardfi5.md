@@ -4,26 +4,11 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 hard corals [text
-index](coralhardindex.htm) | [photo index](cnidariafi1.htm)
+index](coralhardindex) | [photo index](cnidariafi1)
 Phylum
-[Cnidaria](cnidaria.htm) >
-Class [Anthozoa](anthozoa.htm) > Subclass Zoantharia/Hexacorallia
+[Cnidaria](cnidaria) >
+Class [Anthozoa](anthozoa) > Subclass Zoantharia/Hexacorallia
 **Photo
 index of hard corals on Singapore shores** **Colony
 plate-shaped**
@@ -33,26 +18,26 @@ plate-shaped**
 ![](coralhard/dendrophylliidae/thin/070615sntd2199m.jpg)  
   
 ![](coralhard/dendrophylliidae/thin/070615sntrg0310ma.jpg)  
-[Thin disk coral](coralhard/dendrophylliidae/thin.htm)  
+[Thin disk coral](coralhard/dendrophylliidae/thin)  
 *Turbinaria* sp.
 
 ![](coralhard/dendrophylliidae/flowery/070615sntd2188m.jpg)  
   
 ![](coralhard/dendrophylliidae/flowery/070615sntd2188mb.jpg)  
-[Flowery disk coral](coralhard/dendrophylliidae/flowery.htm)  
+[Flowery disk coral](coralhard/dendrophylliidae/flowery)  
 *Turbinaria peltata*
 
 ![](coralhard/dendrophylliidae/encrust/050113sntd9749m.jpg)  
   
 ![](coralhard/dendrophylliidae/encrust/050113sntg2811ma.jpg)  
 [Encrusting disk
-coral](coralhard/dendrophylliidae/encrust.htm)  
+coral](coralhard/dendrophylliidae/encrust)  
 *Turbinaria* sp.
 
 ![](coralhard/dendrophylliidae/ruffled/060810rlhd5593m.jpg)  
   
 ![](coralhard/dendrophylliidae/ruffled/060810rlhd5594ma.jpg)  
-[Ruffled disk coral](coralhard/dendrophylliidae/ruffled.htm)  
+[Ruffled disk coral](coralhard/dendrophylliidae/ruffled)  
 *Turbinaria* sp.
 
  
@@ -79,19 +64,19 @@ edges. Seen on many of our shores.
 ![](coralhard/acroporidae/monplate/051204sisg3262m.jpg)  
   
 ![](coralhard/acroporidae/monplate/051204sisg3263mb.jpg)  
-[Plate montipora coral](coralhard/acroporidae/monplate.htm)  
+[Plate montipora coral](coralhard/acroporidae/monplate)  
 *Montipora* sp.
 
 ![](coralhard/merulinidae/echinopora/040507rflbd0129m.jpg)  
   
 ![](coralhard/merulinidae/echinopora/040507rflbd0129mc.jpg)  
-[Hedgehog coral](coralhard/merulinidae/echinopora.htm)  
+[Hedgehog coral](coralhard/merulinidae/echinopora)  
 *Echinopora* sp.
 
 ![](coralhard/merulinidae/mycedium/140518tmlksm.jpg)  
   
 ![](coralhard/merulinidae/mycedium/140518tmlksma.jpg)  
-[Elephant-nose plate coral](coralhard/merulinidae/mycedium.htm)  
+[Elephant-nose plate coral](coralhard/merulinidae/mycedium)  
 *Mycedium elephantotus*
 
  
@@ -111,27 +96,27 @@ about 20cm, plate-like encrusting. Large cup-shaped corallites (1.5cm) that look
 ![](coralhard/agariciidae/pachyseris/090625bsrd5316m.jpg)  
   
 ![](coralhard/agariciidae/pachyseris/090625bsrd5316ma.jpg)  
-[Ringed plate coral](coralhard/agariciidae/pachyseris.htm)  
+[Ringed plate coral](coralhard/agariciidae/pachyseris)  
 *Pachyseris speciosa*
 
 ![](coralhard/merulinidae/merulina/050611kusg7759m.jpg)  
   
 ![](coralhard/merulinidae/merulina/050611kusg7760ma.jpg)  
-[Ridged plate coral](coralhard/merulinidae/merulina.htm)  
+[Ridged plate coral](coralhard/merulinidae/merulina)  
 *Merulina* sp.
 
 ![](coralhard/fungiidae/bracket/060402ulrd1192m.jpg)  
   
 ![](coralhard/fungiidae/bracket/060402ulrd1193mb.jpg)  
 [Bracket  
-mushroon coral](coralhard/fungiidae/bracket.htm)  
+mushroon coral](coralhard/fungiidae/bracket)  
 *Podabacia* sp.
 
 ![](coralhard/fungiidae/lithophyllon/070324cyrd9365m.jpg)  
   
 ![](coralhard/fungiidae/lithophyllon/070324cyrd9365mb.jpg)  
 [Lithophyllon   
-mushroon coral](coralhard/fungiidae/lithophyllon.htm)  
+mushroon coral](coralhard/fungiidae/lithophyllon)  
 *Lithophyllon undulatum*
 
  
@@ -163,36 +148,36 @@ index of
 cnidarians on this site
 
 **Phylum
-Cnidaria****[with hard skeleton](cnidariafi1.htm)  
+Cnidaria****[with hard skeleton](cnidariafi1)  
   
 polyp shape**[long
-tentacles](coralhardfi1.htm)  **colony shape**
+tentacles](coralhardfi1)  **colony shape**
  
-[**leafy**](coralhardfi3.htm) **[crinkled](coralhardfi4.htm)  
+[**leafy**](coralhardfi3) **[crinkled](coralhardfi4)  
   
 plate** **branching**
  
 [thick
-branches](coralhardfi2.htm)  
-[thin branches](gorgonaceafi.htm)
+branches](coralhardfi2)  
+[thin branches](gorgonaceafi)
  
 **boulder**
  
 Corallite
 shape=   
-[ring](coralhardfi6.htm)  
-[hexagonal](coralhardfi7.htm)   
- [brain or maze](coralhardfi8.htm)
+[ring](coralhardfi6)  
+[hexagonal](coralhardfi7)   
+ [brain or maze](coralhardfi8)
   
-[others](coralhardfi9.htm)
+[others](coralhardfi9)
   
 [**colony
-unattached**](coralhardfi10.htm)   
+unattached**](coralhardfi10)   
 (mushroom hard coral)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

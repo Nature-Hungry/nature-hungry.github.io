@@ -4,25 +4,12 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "sickle, grass, thalassia, hemprichii, hydrocharitaceae, seagrass, grass, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 seagrasses
-[text index](seagrassindex.htm) | [photo
-index](seagrassfi.htm)
-[Seagrasses](seagrass.htm)
+[text index](seagrassindex) | [photo
+index](seagrassfi)
+[Seagrasses](seagrass)
 > Family Hydrocharitaceae
 **Sickle
 seagrass  
@@ -44,7 +31,7 @@ is eaten by sea turtles and dugongs.
 **Where seen?**
 This seagrass only abundant on Labrador, which has quite a large patch.
 On Chek Jawa, it is found in small patches. The [preliminary
-results of a transact survey of Chek Jawa](http://www.naturia.per.sg/cjsurvey/vegetative/text/thalassia%20hemprichii.htm) suggest it is found
+results of a transact survey of Chek Jawa](http://www.naturia.per.sg/cjsurvey/vegetative/text/thalassia%20hemprichii) suggest it is found
 mainly in the centre of the seagrass lagoon there. On some of our
 Southern Islands, there are also scattered patches of this seagrass.  
   
@@ -75,7 +62,7 @@ It also produces relatively larger fruits.
   
 **Sometimes
 confused with** other ribbon-like seagrasses. Here's more
-on [how to tell apart ribbon-like seagrasses](cfribbon.htm).
+on [how to tell apart ribbon-like seagrasses](cfribbon).
   
   
 **Role
@@ -155,9 +142,9 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
   Guidelines for TeamSeagrass Singapore Participants](http://www.seagrasswatch.org/Training/proceedings/TeamSeagrass_Singapore_workshop_Mar07.pdf)* (PDF).
   Proceedings of a training workshop, National Parks Board, Biodiversity
   Centre, Singapore, 24th-25th March 2007 (DPI&F, Cairns). 32pp.
-- *[Thalassia hemprichii](https://singapore.biodiversity.online/taxo4254/mainSpace/Thalassia%20hemprichii.html)* (Hydrocharitales: Hydrocharitaceae) by Cheok Zi Yu, 2016, on taxo4254.
+- *[Thalassia hemprichii](https://singapore.biodiversity.online/taxo4254/mainSpace/Thalassia%20hemprichiil)* (Hydrocharitales: Hydrocharitaceae) by Cheok Zi Yu, 2016, on taxo4254.
 - [Identifying
-  seagrasses](http://www.seagrasswatch.org/id_seagrass.html) on the Seagrass-Watch website.
+  seagrasses](http://www.seagrasswatch.org/id_seagrassl) on the Seagrass-Watch website.
 
 **References**
 
@@ -185,14 +172,4 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **You CAN make a difference for Singapore's
 seagrasses!**[![](../../../Templates/teamsg.jpg)](http://teamseagrass.blogspot.com/)
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

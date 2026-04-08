@@ -4,24 +4,24 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "ceriops, rhizophoraceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
-plants [text index](../../plantindex.htm) | [photo
-index](../../plantfi.htm)
-[mangroves](../mangroves.htm)
+plants [text index](../../plantindex) | [photo
+index](../../plantfi)
+[mangroves](../mangroves)
 **Tengar   
 *Ceriops* sp.  
 Family Rhizophoraceae***updated
@@ -34,16 +34,16 @@ Jan 2013*
 **Features:** A short tree sometimes
 just a bush, older plants may have well developed knee roots. The
 leaves are thick and spatula-shaped so they are sometimes mistaken
-for [Teruntum](../lumnitzera/lumnitzera.htm) (*Lumnitzera*
-sp.). Tengar (*Ceriops* sp.) have a flattened knife-like stipule (leaf bud at the tip of a branch). For young plants, it is difficult to be sure whether they are Tengar putih or Tengar merah without the flowers and propagules. To distinguish from [Pisang-pisang](../kandelia/kandelia.htm) (*Kandelia candel*), Tengar leaf stalks usually not pinkish.  
+for [Teruntum](../lumnitzera/lumnitzera) (*Lumnitzera*
+sp.). Tengar (*Ceriops* sp.) have a flattened knife-like stipule (leaf bud at the tip of a branch). For young plants, it is difficult to be sure whether they are Tengar putih or Tengar merah without the flowers and propagules. To distinguish from [Pisang-pisang](../kandelia/kandelia) (*Kandelia candel*), Tengar leaf stalks usually not pinkish.  
   
 **Human
 uses:** Tengar (*Ceriops tagal*) is valued as timber,
 firewood and a source of dyes. It is also used in traditional medicine.  
   
-**Status and threats:** [Tengar putih](tagal.htm)
+**Status and threats:** [Tengar putih](tagal)
 (*Ceriops tagal*) is listed as 'Vulnerable' and [Tengar
-merah](zippeliana.htm) (*Ceriops zippeliana*) as 'Endangered' on the Red List
+merah](zippeliana) (*Ceriops zippeliana*) as 'Endangered' on the Red List
 of threatened plants of Singapore.
 
 ![](tagal/090117smkd5478m6l.jpg)  
@@ -65,7 +65,7 @@ flattened knife-like stipule.
 ---
 
 **[Tengar
-putih](tagal.htm)** *Ceriops tagal*
+putih](tagal)** *Ceriops tagal*
 
 ![](tagal/081211smkd2783m3b.jpg)  
 Leaves spatula-shaped.
@@ -80,7 +80,7 @@ White collar on 'ripe' propagule.
 ---
 
 [**Tengar
-merah**](zippeliana.htm) *Ceriops zippeliana*
+merah**](zippeliana) *Ceriops zippeliana*
 
 *![](zippeliana/090704ubnd6338m3.jpg)*  
 Leaves oval.
@@ -97,7 +97,7 @@ Red collar on 'ripe' propagule.
 **Links**
 
 - [Tengar
-  (*Ceriops tagal*)](http://mangrove.nus.edu.sg/guidebooks/text/1056.htm) Ng, Peter K. L. & N. Sivasothi,
+  (*Ceriops tagal*)](http://mangrove.nus.edu.sg/guidebooks/text/1056) Ng, Peter K. L. & N. Sivasothi,
   1999. *[A Guide
   to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*. Singapore
   Science Centre. 168 pp.
@@ -132,9 +132,9 @@ Red collar on 'ripe' propagule.
   3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
   Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

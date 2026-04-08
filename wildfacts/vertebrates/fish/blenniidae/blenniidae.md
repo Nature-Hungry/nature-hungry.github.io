@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "blenny, fish, blenniidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm)
+> Subphylum Vertebrate > [fishes](../fish)
 **Blennies  
 Family Blenniidae***updated Sep 2020*
 
@@ -75,7 +75,7 @@ animals.
 
 *![](variabilis/090918tmd0989m6l.jpg)*Guarding
 eggs laid inside a [Fan
-shell](../../../mollusca/bivalvia/pinnidae/pinnidae.htm). *Tanah Merah, Sep 09*
+shell](../../../mollusca/bivalvia/pinnidae/pinnidae). *Tanah Merah, Sep 09*
 
 ![](variabilis/091204pawd5376.jpg)  
 Guarding
@@ -93,9 +93,9 @@ on Singapore shores**
 
 ---
 
-![](variabilis/091009tmd2618m3.jpg) **[Variable fang-blenny](variabilis.htm)**
-*![](oyster/090819ecpd9415m3c.jpg)***[Oyster-blenny](oyster.htm)**
-*![](rockskipper/190831kusjc2.jpg)* **[Rockskipper blenny](rockskipper.htm)**
+![](variabilis/091009tmd2618m3.jpg) **[Variable fang-blenny](variabilis)**
+*![](oyster/090819ecpd9415m3c.jpg)***[Oyster-blenny](oyster)**
+*![](rockskipper/190831kusjc2.jpg)* **[Rockskipper blenny](rockskipper)**
   
 
 ---
@@ -115,23 +115,23 @@ Common Marine Fishes of Singapore*.
 seen awaiting identification**
  
 [Oyster
-blenny](oyster.htm) 
+blenny](oyster) 
   
  
 **Family
 Blenniidae**
  
-*+Enchelyurus flavipes* (Yellowfin blenny)[Rockskipper blenny](rockskipper.htm) *\*Entomacrodus
+*+Enchelyurus flavipes* (Yellowfin blenny)[Rockskipper blenny](rockskipper) *\*Entomacrodus
 lighti=Entomacrodus
 stellifer lighti* (Stellar rockskipper blenny) *+Entomacrodus striatus* (Black-spotted rockskipper blenny) *\*Meiacanthus grammistes* (Striped
-fang-blenny) [Oyster-blenny](oyster.htm) *+Omobranchus elongatus* (Elongate oyster-blenny) *Omobranchus ferox* (Whitebar
+fang-blenny) [Oyster-blenny](oyster) *+Omobranchus elongatus* (Elongate oyster-blenny) *Omobranchus ferox* (Whitebar
 oyster-blenny)  
 *Omobranchus smithi* (Crescent oyster blenny)  *+Parablennius thysanius* (Taselled blenny) *Petroscirtes bankanensis  
 +Petroscirtes breviceps*(Shorthead fang-blenny) *Petroscirtes dussumieri  
 Petroscirtes eretes  
 Petroscirtes flavipes  
 Petroscirtes kranjinensis  
-[Petroscirtes variabilis](variabilis.htm)* (Variable
+[Petroscirtes variabilis](variabilis)* (Variable
 fang-blenny) *Petroscirtes zebra=\*\*Omobranchus zebra  
   
 Salarias ceramensis  
@@ -145,9 +145,9 @@ Salarias lineatus=\*\*Istiblennius lineatus*
 **Links**  
 
 - [Striped
-  Fang-blenny (*Meiacanthus grammistes*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/356.htm), [Whitebar
-  Oyster-blenny (*Omobranchus ferox*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/355.htm), [Variable
-  Fang-blenny (*Petroscirtes variabilis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/357.htm) Lim, Kelvin K.
+  Fang-blenny (*Meiacanthus grammistes*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/356), [Whitebar
+  Oyster-blenny (*Omobranchus ferox*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/355), [Variable
+  Fang-blenny (*Petroscirtes variabilis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/357) Lim, Kelvin K.
   P. & Jeffrey K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
@@ -166,7 +166,7 @@ Salarias lineatus=\*\*Istiblennius lineatus*
   lineatus* (Lined rockskipper)](http://www.fishbase.org/summary/6050) from [FishBase](http://www.fishbase.org/):
   Technical fact sheet on the family.
 - [The
-  sneaky fangblenny has changeable disguises](http://wildshores.blogspot.com/2009/02/sneaky-fangblenny-has-changeable.html) on the wild shores
+  sneaky fangblenny has changeable disguises](http://wildshores.blogspot.com/2009/02/sneaky-fangblenny-has-changeablel) on the wild shores
   of singapore blog.
 
 **References**
@@ -196,9 +196,9 @@ Salarias lineatus=\*\*Istiblennius lineatus*
   Reef Fishes of the World*
   Periplus Editions. 400pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

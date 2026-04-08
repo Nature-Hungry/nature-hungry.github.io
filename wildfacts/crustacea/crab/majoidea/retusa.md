@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "velcro, crab, camposcia, retusa, majidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info,  photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> Brachyurans > Superfamily [Majoidea](majoidea.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> Brachyurans > Superfamily [Majoidea](majoidea)
 **Velcro
 crab**  
 ***Camposcia retusa***  
@@ -89,7 +89,7 @@ Chek Jawa, Jun 03*
 [![Velcro crab (Camposcia retusa)](https://live.staticflickr.com/4580/23979805717_50c817cf46_z.jpg)](https://www.flickr.com/photos/wildsingapore/23979805717/ "Velcro crab (Camposcia retusa)")  
 Upside down crab (showing its small undecorated pincers) righting itself. *Changi, Dec 17*
 
-*![](retusa/240821skd2.jpg)*Crabs decorated with [Stinging hydroids](../../../cnidaria/others/hydrozoa/stinging.htm). *Pulau Sekudu, Aug 24*
+*![](retusa/240821skd2.jpg)*Crabs decorated with [Stinging hydroids](../../../cnidaria/others/hydrozoa/stinging). *Pulau Sekudu, Aug 24*
 
 *![](retusa/240821skd1.jpg)  
 Pulau Sekudu, Aug 24*
@@ -144,7 +144,7 @@ East Coast Park-Marina East, May 22*Photo shared by Kelvin Yong on [facebook](ht
 Sentosa, Apr 13*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/8684190437/in/album-72157633345351507/).
 
 *![](retusa/120818lazlks2.JPG)  
-Seringat Kias, Aug 12*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2012/08/exploring-new-stretch-of-seringat-kias.html).
+Seringat Kias, Aug 12*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2012/08/exploring-new-stretch-of-seringat-kiasl).
 
 ---
 
@@ -153,21 +153,21 @@ Little Sisters Island, Jul 17*Photo shared by Jianlin Liu on [facebook](https://
 
 *![](retusa/101224sislks2m3.JPG)  
 Sisters Island, Dec 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/12/christmas-eve-with-big-sister.html).
+blog](http://wondercreation.blogspot.com/2010/12/christmas-eve-with-big-sisterl).
 
 *![](retusa/110123sislks1m3.JPG)  
 Sisters Island, Jan 11*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/01/colours-of-big-sisters-shore.html).
+blog](http://wondercreation.blogspot.com/2011/01/colours-of-big-sisters-shorel).
 
 ---
 
 *![](retusa/100710sistch3m3.jpg)  
 St. John's Island, Jul 10*Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2010/07/hawksbill-turtle-big-sisters-island.html).
+blog](http://colorclouds.blogspot.com/2010/07/hawksbill-turtle-big-sisters-islandl).
 
 *![](retusa/070902sjilks01m3.jpg)  
 St. John's Island, Sep 07*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2007/09/evening-with-saint.html).
+blog](http://wondercreation.blogspot.com/2007/09/evening-with-saintl).
 
 *![](retusa/070901sjimn.jpg)  
 St. John's Island, Sep 07*Photo shared by Marcus Ng on [flickr.](https://www.flickr.com/photos/budak/1300529486/)
@@ -195,7 +195,7 @@ Island, Dec 10
 **Links**
 
 - [Velcro
-  and Decorator crab of the Family Majidae](http://mangrove.nus.edu.sg/pub/seashore/text/188.htm) Tan,
+  and Decorator crab of the Family Majidae](http://mangrove.nus.edu.sg/pub/seashore/text/188) Tan,
   Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
@@ -206,7 +206,7 @@ Island, Dec 10
 - [Decorator
   crab (*Camposcia retusa*)](http://species-identification.org/species.php?species_group=crabs_of_japan&id=856) on Crabs of Japan in Marine
   Species Identification Portal: Technical fact sheet
-- [*Camposcia retusa*](https://singapore.biodiversity.online/taxo4254/mainSpace/Camposcia%20retusa.html) (Decapoda: Inachidae) Velcro crab by Loo Nicolette, 2016, on taxo4254
+- [*Camposcia retusa*](https://singapore.biodiversity.online/taxo4254/mainSpace/Camposcia%20retusal) (Decapoda: Inachidae) Velcro crab by Loo Nicolette, 2016, on taxo4254
 
 **References**
 
@@ -225,9 +225,9 @@ Island, Dec 10
   Red Data Book: Threatened plants and animals of Singapore*.
   Nature Society (Singapore). 285 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,27 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "spider, desis, martensi, arachnid, arthropod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
 
 arthropods [text
-index](../arthropoda/arthropodaindex.htm) | [photo index](../arthropoda/arthropodafi.htm)
-Phylum [Arthropoda](../arthropoda/arthropoda.htm)
+index](../arthropoda/arthropodaindex) | [photo index](../arthropoda/arthropodafi)
+Phylum [Arthropoda](../arthropoda/arthropoda)
 > Class Arachnida
-**Marine
-spider**  
+**Marine spider**  
 ***Desis martensi***  
 **Family Desidae***updated
 Nov 2019*
@@ -52,15 +38,15 @@ Mar 18*Photo shared by Liz Lim on [facebook](https://www.facebook.com/photo.php?
 ![](desis/110717tblks1m3.jpg)  
 Mating? *Terumbu Bemban, Jul 11*Photo
 shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/07/octopuses-mating-at-terumbu-bemban.html).
+blog](http://wondercreation.blogspot.com/2011/07/octopuses-mating-at-terumbu-bembanl).
 
 ![](desis/090711sjilks.JPG)  
 The spider's high tide shelter? *St John's Island, Jul 09*Photo
 shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/4172947959/in/album-72157607929563969/).
 
 **What does it eat?** These spiders have been seen clutching in their jaws all kinds of animals including [shore
-crickets](../insecta/cricketshore.htm), [sea
-slaters](../crustacea/othercrust/isopoda/ligia.htm) and little shrimps.  
+crickets](../insecta/cricketshore), [sea
+slaters](../crustacea/othercrust/isopoda/ligia) and little shrimps.  
   
 **Baby spiders:** Egg cocoons are
 placed in waterproofed tubes sealed with silk.  
@@ -74,7 +60,7 @@ Caught a shrimp
 almost as big as itself! *Tuas, May 05*
 
 *![](desis/040829kusd5626m3.jpg)*Caught
-a [shore cricket](../insecta/cricketshore.htm). *Kusu Island, Apr 08*
+a [shore cricket](../insecta/cricketshore). *Kusu Island, Apr 08*
 
 *![](desis/050329sntg3913m3.jpg)*Caught
 a Sea slater*?  
@@ -111,13 +97,13 @@ shared by Rui Quan Oh on [facebook](https://www.facebook.com/media/set/?set=a.89
 *East Coast,
 Aug 09*Photo
 shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/08/east-coast-worms-in-walls.html).
+blog](http://sgn090608.blogspot.com/2009/08/east-coast-worms-in-wallsl).
 
 ---
 
 *![](desis/101108bkomlks5m3.JPG)  
 Terumbu Bukom, Nov 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/11/first-visit-to-terumbu-bukom.html).
+blog](http://wondercreation.blogspot.com/2010/11/first-visit-to-terumbu-bukoml).
 
 ---
 
@@ -142,7 +128,7 @@ Photo shared by Yan Le Su on [facebook](https://www.facebook.com/media/set/?set=
 Terumbu
 Raya, May 10*Photo
 shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/05/100502-terumbu-raya.html).
+blog](http://sgn090608.blogspot.com/2010/05/100502-terumbu-rayal).
 
 ![](desis/150606trymn2m3.jpg)  
 *Terumbu Raya, Jun 15*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media_set?set=a.10152965513123660.1073741863.624178659&type=3).
@@ -245,9 +231,9 @@ martensi* (Reef spider) (VU:Vulnerable) *Diplocanthopoda marina*
   Red Data Book: Threatened plants and animals of Singapore*.
   Nature Society (Singapore). 285 pp.
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

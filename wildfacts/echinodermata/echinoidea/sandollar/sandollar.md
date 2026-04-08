@@ -4,28 +4,28 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "sand, dollar, clypeasteroida, echinoidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![](../../../../Templates/fornatureguides.gif)](../../fngechinoidea.htm)
+[![](../../../../Templates/fornatureguides.gif)](../../fngechinoidea)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 echinoids
-[text index](../../echinodermindex.htm#echinoidea) |
-[photo index](../../echinoideafi1.htm)
-Phylum [Echinodermata](../../../../wildshores/echinodermata/echinoidea/echinodermata.htm)
-> Class [Echinodea](../echinoidea.htm) > Order Clypeasteroida
+[text index](../../echinodermindex#echinoidea) |
+[photo index](../../echinoideafi1)
+Phylum [Echinodermata](../../../../wildshores/echinodermata/echinoidea/echinodermata)
+> Class [Echinodea](../echinoidea) > Order Clypeasteroida
 **Sand
 dollars**   
 **Order
@@ -49,7 +49,7 @@ common on Chek Jawa, Tanah Merah and some Southern shores. Usually
 half buried in the sand. Some kinds of sand dollars are more commonly seen near seagrasses. **What are sand dollars?** Sand dollars
 are animals! Seeing one for the first time, it may be hard to believe
 that these are living creatures. They are so flat and appear lifeless.
-Sand dollars belong to Phylum [Echinodermata](../../echinodermata.htm) and Class [Echinoidea](../echinoidea.htm) which includes
+Sand dollars belong to Phylum [Echinodermata](../../echinodermata) and Class [Echinoidea](../echinoidea) which includes
 sea urchins and heart urchins.  
   
 **Features:** They got their name
@@ -129,26 +129,26 @@ Slot in a Keyhole sand dollar.
 ![](echinodiscus/031122cjd0023m3.jpg)  
 A dead sand dollar has no spines. *Chek Jawa, Nov 02* 
 **Why do some sand dollars have holes in them?** The [Keyhole
-sand dollar](echinodiscus.htm) got its common name from the intriguing slot-shaped
+sand dollar](echinodiscus) got its common name from the intriguing slot-shaped
 holes in the body (called lunules). Suggestions for the function of
 these slots range from helping the animal to burrow, right itself,
 find food or to prevent the waves from lifting it out of the sand.
 The last is the most widely accepted explanation. **What eats sand dollars?** Some snails such as the [Grey
-bonnet](../../../mollusca/gastropoda/cassidae/glaucum.htm) are believed to feed on sand dollars.
+bonnet](../../../mollusca/gastropoda/cassidae/glaucum) are believed to feed on sand dollars.
 They are sometimes seen on top of a sand dollar. A [Knobbly
-sea star](../../asteroidea/protoreaster.htm) was seen with its stomach
+sea star](../../asteroidea/protoreaster) was seen with its stomach
 stuck to a sand dollar. A [Haddon's
-carpet anemone](../../../cnidaria/actiniaria/haddoni.htm) was also seen in
+carpet anemone](../../../cnidaria/actiniaria/haddoni) was also seen in
 the process of engulfing one.
 *![](../../asteroidea/protoreaster/110508cyrmng5m3.jpg)*Being
 eaten by a [Knobbly sea
-star](../../asteroidea/protoreaster.htm)? *Cyrene Reef, May 11*Photo
+star](../../asteroidea/protoreaster)? *Cyrene Reef, May 11*Photo
 shared by Marcus Ng on [flickr](http://www.flickr.com/photos/budak/sets/72157626681285094/).
 ![](../../../cnidaria/actiniaria/haddonieat/040218cjd0004m3.jpg)  
 Cake sand dollar being swallowed  
-by a [Haddon's carpet anemone](../../../cnidaria/actiniaria/haddoni.htm). *Chek Jawa Feb 04*
+by a [Haddon's carpet anemone](../../../cnidaria/actiniaria/haddoni). *Chek Jawa Feb 04*
 ![](../../../mollusca/gastropoda/cassidae/glaucum/110830cyrd0374m3.jpg)  
-[Grey bonnet snail](../../../mollusca/gastropoda/cassidae/glaucum.htm) eating a Cake sand dollar. *Cyrene, Aug 11*
+[Grey bonnet snail](../../../mollusca/gastropoda/cassidae/glaucum) eating a Cake sand dollar. *Cyrene, Aug 11*
 **Damaged dollars:** Like other echinoderms,
 sand dollars can repair minor damage. If you come across an 'uneven'
 sand dollar with a part of its body obviously chewed off, look closely
@@ -197,17 +197,17 @@ dollars on Singapore shores**
 ---
 
 ***![](arachnoides/030927cjd0033m3.jpg)*[Cake
-sand dollar](arachnoides.htm)**
+sand dollar](arachnoides)**
 
 **![](echinodiscus/080720cjd7995m3.jpg)  
-[Keyhole sand dollar](echinodiscus.htm)**
+[Keyhole sand dollar](echinodiscus)**
 
 ---
 
 **![](peronella/080704sekd6788m3.jpg)  
-[Pink sand dollar](peronella.htm)**
+[Pink sand dollar](peronella)**
 
-***![](depressum/070420sntrd0301m3.jpg)*[Thick-edged sand dollar](depressum.htm)**
+***![](depressum/070420sntrd0301m3.jpg)*[Thick-edged sand dollar](depressum)**
 
 ---
 
@@ -224,17 +224,17 @@ Singapore Red Data Book: Threatened plants and animals of Singapore*.\*\*from [W
  
 **Family Clypeasteridae**
  
-*\*[Arachnoides placenta](arachnoides.htm)*(Cake sand dollar)
+*\*[Arachnoides placenta](arachnoides)*(Cake sand dollar)
   
  
 **Family
 Laganidae**
  
 *[\*\*Jacksonaster
-depressum](depressum.htm)=Laganum depressum* (Thick-edged
+depressum](depressum)=Laganum depressum* (Thick-edged
 sand dollar) (VU: Vulnerable) *Laganum decagonale   
   
-[Peronella lesueuri](peronella.htm)* (Pink sand
+[Peronella lesueuri](peronella)* (Pink sand
 dollar) *Peronella orbicularis  
 +Peronella* sp.
   
@@ -243,7 +243,7 @@ dollar) *Peronella orbicularis
 Scutellidae=\*\*Astriclypeidae**
  
 [*Echinodiscus*
-sp.](echinodiscus.htm) (Keyhole sand dollar) *\*\*Echinodiscus bisperforatus truncatus=Echinodiscus bisperforatus=\*Echinodiscus
+sp.](echinodiscus) (Keyhole sand dollar) *\*\*Echinodiscus bisperforatus truncatus=Echinodiscus bisperforatus=\*Echinodiscus
 truncatus*  (VU: Vulnerable)
 
 ---
@@ -251,7 +251,7 @@ truncatus*  (VU: Vulnerable)
 **Links**
 
 - [Class
-  Echinoidea](http://mangrove.nus.edu.sg/pub/seashore/text/223.htm)
+  Echinoidea](http://mangrove.nus.edu.sg/pub/seashore/text/223)
   Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
@@ -261,7 +261,7 @@ truncatus*  (VU: Vulnerable)
   know about sand dollars and sea urchins with lots of large close-up
   images and explanatory diagrams.
 - [What
-  are those Holes in Sand Dollars for?](http://echinoblog.blogspot.com/2009/01/what-are-those-holes-in-sand-dollars.html) The Airplane-Sand Dollar
+  are those Holes in Sand Dollars for?](http://echinoblog.blogspot.com/2009/01/what-are-those-holes-in-sand-dollarsl) The Airplane-Sand Dollar
   Connection! on the Echinoblog: a great explanation of the function
   of lunules.
 
@@ -304,9 +304,9 @@ truncatus*  (VU: Vulnerable)
   Neville. undated. *Sea
   Stars of Australasia and their relatives*. Neville Coleman's World of Water, Australia. 64pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

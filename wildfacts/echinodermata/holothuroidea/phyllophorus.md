@@ -4,28 +4,28 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "ball, cucumber, seacucumber, phyllophorus, phyllophoridae, holothuridae, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
+[![](../../../wildfactsheet3.gif)](../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../index.html)  
+[wildfactsheets homepage](../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![talking points for nature guides](../../../Templates/fornatureguides.gif)](../fngholothuroidea.htm)
+[![talking points for nature guides](../../../Templates/fornatureguides.gif)](../fngholothuroidea)
 
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
+[all animals](../../animals)
+| [all plants](../../plants)
+| [concepts](../../concepts/indexl)
+| [glossary](../../glossary/indexl)
+| [search](../../search)
 
 sea
-cucumbers [text index](../echinodermindex.htm#holothuroidea)
-| [photo index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class [Holothuroidea](holothuroidea.htm)
+cucumbers [text index](../echinodermindex#holothuroidea)
+| [photo index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
+> Class [Holothuroidea](holothuroidea)
 **Ball
 sea cucumber**  
 ***Phyllophorus* sp.**  
@@ -115,7 +115,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 ![](phyllophorus/100912kuslks2m3.jpg)  
 *Kusu Island,
 Sep 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/09/kusu-island-anemone-city.html).
+blog](http://wondercreation.blogspot.com/2010/09/kusu-island-anemone-cityl).
 
 ![](phyllophorus/110220lazlks.JPG)  
 *Lazarus Island, Feb 11*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/5465053154/in/album-72157612002594170/).
@@ -127,12 +127,12 @@ blog](http://wondercreation.blogspot.com/2010/09/kusu-island-anemone-city.html).
 **Links**
 
 - [Sea
-  cucumbers](http://mangrove.nus.edu.sg/pub/seashore/text/222.htm)
+  cucumbers](http://mangrove.nus.edu.sg/pub/seashore/text/222)
   Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - *[Phyllophorus
-  spiculata](http://www.sealifebase.org/summary/Phyllophorus-spiculata.html)*[(Tennis-ball sea cucumber)](http://www.sealifebase.org/summary/Phyllophorus-spiculata.html) on SeaLife Base: Technical fact
+  spiculata](http://www.sealifebase.org/summary/Phyllophorus-spiculatal)*[(Tennis-ball sea cucumber)](http://www.sealifebase.org/summary/Phyllophorus-spiculatal) on SeaLife Base: Technical fact
   sheet.
 
 **References**
@@ -146,14 +146,4 @@ blog](http://wondercreation.blogspot.com/2010/09/kusu-island-anemone-city.html).
   Red Data Book: Threatened plants and animals of Singapore*.
   Nature Society (Singapore). 285 pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

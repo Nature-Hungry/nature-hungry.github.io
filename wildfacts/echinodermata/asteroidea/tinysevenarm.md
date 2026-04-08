@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "asterinidae, aquilonastra, anomala, sea star, seastar, starfish, star, fish, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 sea
-stars [text index](../echinodermindex.htm) | [photo
-index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class Stelleroida > Subclass [Asteroidea](asteroidea.htm)
+stars [text index](../echinodermindex) | [photo
+index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
+> Class Stelleroida > Subclass [Asteroidea](asteroidea)
 **Tiny
 seven-armed coral star  
 *Aquilonastra anomala*  
@@ -45,11 +32,11 @@ shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/24894
 *![](tinysevenarm/100616cyrtch1m3.jpg)  
 Cyrene Reef, Jun 10**![](tinysevenarm/100616cyrtch1m3a.jpg)*Photo
 shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2010/06/wet-day-at-cyrene-reef.html).
+blog](http://colorclouds.blogspot.com/2010/06/wet-day-at-cyrene-reefl).
 
 *![](tinysevenarm/100616cyrtch2m3a.jpg)*Photo
 shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2010/06/wet-day-at-cyrene-reef.html). *![](tinysevenarm/100616cyrtch2m3.jpg)  
+blog](http://colorclouds.blogspot.com/2010/06/wet-day-at-cyrene-reefl). *![](tinysevenarm/100616cyrtch2m3.jpg)  
 Cyrene Reef, Jun 10*
 
 ---
@@ -81,7 +68,7 @@ Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo/?fbid=1
 
 *![](tinysevenarm/130210bsislks.JPG)  
 Sisters Island, Feb 13**![](tinysevenarm/130210bsislks2.JPG)*Photo
-shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2013/02/cny-day-1-big-sisters-island.html).
+shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2013/02/cny-day-1-big-sisters-islandl).
 
 *![](tinysevenarm/200707hntdc2a.jpg)  
 Pulau Hantu, Jul 20
@@ -93,7 +80,7 @@ shared by Dyana Cheah on [facebook](https://www.facebook.com/photo.php?fbid=2949
 *![](tinysevenarm/110421jngtch1m3.jpg)  
 Pulau Jong, Apr 11*Photo
 shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2011/04/another-starry-sluggish-trip.html).
+blog](http://colorclouds.blogspot.com/2011/04/another-starry-sluggish-tripl).
 
 *![](tinysevenarm/110421jngtch2m3.jpg)*
 
@@ -105,7 +92,7 @@ blog](http://colorclouds.blogspot.com/2011/04/another-starry-sluggish-trip.html)
 Pulau Jong, May 10  
 ![](tinysevenarm/100517jngtch3m3a.jpg)*Photo
 shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2010/05/whats-at-pulau-jong-today.html).
+blog](http://colorclouds.blogspot.com/2010/05/whats-at-pulau-jong-todayl).
 
 *![](tinysevenarm/100517jngtch4m3.jpg)* Underside. *![](tinysevenarm/100517jngtch4m3a.jpg)*
 
@@ -123,7 +110,7 @@ Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo/?fbid=1
 
 **Links**
 
-- [*Aquilonastra anomala*](https://www.sealifebase.ca/summary/Aquilonastra-anomala.html) on SeaLife Base: Technical fact sheet
+- [*Aquilonastra anomala*](https://www.sealifebase.ca/summary/Aquilonastra-anomalal) on SeaLife Base: Technical fact sheet
 
 **References**
 
@@ -134,14 +121,4 @@ Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo/?fbid=1
   table and illustrated identification to the species*. The Raffles
   Bulletin of Zoology 1998 46(2): 431-470.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

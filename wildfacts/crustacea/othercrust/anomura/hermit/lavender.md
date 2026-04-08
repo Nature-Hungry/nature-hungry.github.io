@@ -4,29 +4,29 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "lavender, hermit, crab, anomura, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../../wildfactsheet3.gif)](../../../../index.html)
+[![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../../index.html)  
+[wildfactsheets homepage](../../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../../animals.htm)
-| [all plants](../../../../plants.htm)
-| [concepts](../../../../concepts/index.html)
-| [glossary](../../../../glossary/index.html)
-| [search](../../../../search.htm)
+[all animals](../../../../animals)
+| [all plants](../../../../plants)
+| [concepts](../../../../concepts/indexl)
+| [glossary](../../../../glossary/indexl)
+| [search](../../../../search)
 
 hermit crabs
-[text index](../../../crustaceaindex.htm#anomurans) | [photo
-index](../../../anomurafi.htm)
-Phylum [Arthropoda](../../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../../crustacea.htm) >
-Class Malacostraca > Order [Decapoda](../../../decapoda.htm)
+[text index](../../../crustaceaindex#anomurans) | [photo
+index](../../../anomurafi)
+Phylum [Arthropoda](../../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../../crustacea) >
+Class Malacostraca > Order [Decapoda](../../../decapoda)
 > Anomurans
-> [hermit crabs](hermit.htm)
+> [hermit crabs](hermit)
 **Lavender
 hermit crab *awaiting identification\*****updated
 Dec 2019*
@@ -45,13 +45,13 @@ Pincers and legs smooth (not hairy), pale with lavender or dark patches.
 Eyes on short thick stalks, pale. Short antennae pale, feathery tips
 pale with bluish tints. Long antennae rather short and broad feathery. Some, especially
 larger hermit crabs may have one or more [sea
-anemones on the shell](../../../../cnidaria/actiniaria/hermitsmall.htm).  
+anemones on the shell](../../../../cnidaria/actiniaria/hermitsmall).  
   
 **Human
 uses:** Hermit crabs have become popular pets and these are
 usually taken from the wild. Hermit crabs, however, belong in their
 habitats and not in our homes. More about the [impact
-of keeping hermit crabs as pets](hermit.htm#pets).
+of keeping hermit crabs as pets](hermit#pets).
 
 *![](lavender/050427tmg5127m3.jpg)  
 Tanah Merah, Apr 05*
@@ -111,9 +111,9 @@ Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo.php?fb
 With a sea anemone on its shell. *Cyrene, Jul 25*  
 Photo shared by Richard Kuah on [facebook](https://www.facebook.com/media/set/?set=a.10162818986007906&type=3&ref=embed_post).
 
-[links](../../../../links.htm)
-| [references](../../../../references.htm)
-| [about](../../../../about.htm)
+[links](../../../../links)
+| [references](../../../../references)
+| [about](../../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "penaeid, penaeidae, prawn, shrimp, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 shrimps [text
-index](../../crustaceaindex.htm#shrimps) | [photo index](../../shrimpfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> [Prawns and shrimps](shrimp.htm) > Family [Penaeidae](penaeidae.htm)
+index](../../crustaceaindex#shrimps) | [photo index](../../shrimpfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> [Prawns and shrimps](shrimp) > Family [Penaeidae](penaeidae)
 **Blue-tailed
 penaeid prawn  
 *awaiting identification*  
@@ -90,15 +90,15 @@ Pulau Hantu, Jul 15*Photo shared by Marcus Ng on [flickr](https://www.flickr.com
 
 *![](penbluetail/110517tptlks8m3.jpg)*  
  *Terumbu Pempang Tengah, May 11*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengah.html)*.*
+blog](http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengahl)*.*
 
 *![](penbluetail/091204pawikw7m3.jpg)  
 Pulau Pawai, Dec 09*Photo shared by Ivan Kwan on [his
 flickr](http://www.flickr.com/photos/hai_ren/4158068553/).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

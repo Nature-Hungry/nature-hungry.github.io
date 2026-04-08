@@ -4,29 +4,29 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "gold, spot, hermit, crab, clibanarius, cruentatus, anomura, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../../wildfactsheet3.gif)](../../../../index.html)
+[![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../../index.html)  
+[wildfactsheets homepage](../../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../../animals.htm)
-| [all plants](../../../../plants.htm)
-| [concepts](../../../../concepts/index.html)
-| [glossary](../../../../glossary/index.html)
-| [search](../../../../search.htm)
+[all animals](../../../../animals)
+| [all plants](../../../../plants)
+| [concepts](../../../../concepts/indexl)
+| [glossary](../../../../glossary/indexl)
+| [search](../../../../search)
 
 hermit crabs
-[text index](../../../crustaceaindex.htm#anomurans) | [photo
-index](../../../anomurafi.htm)
-Phylum [Arthropoda](../../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../../crustacea.htm) >
-Class Malacostraca > Order [Decapoda](../../../decapoda.htm)
+[text index](../../../crustaceaindex#anomurans) | [photo
+index](../../../anomurafi)
+Phylum [Arthropoda](../../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../../crustacea) >
+Class Malacostraca > Order [Decapoda](../../../decapoda)
 > Anomurans
-> [hermit crabs](hermit.htm) > *[Clibanarius](clibanarius.htm)*
+> [hermit crabs](hermit) > *[Clibanarius](clibanarius)*
 **Gold-spotted
 hermit crab *Clibanarius cruentatus*  
 Family Diogenidae***updated
@@ -48,7 +48,7 @@ and walking legs sparsely hairy. Eye black with tiny white spots, narrow white r
 eye where it joins the stalk. Eyestalks all yellow. Short antennae
 bright blue with orange feathery tip. Long antennae orange.  
   
-More on how to tell apart [*Clibanarius* hermit crabs](clibanarius.htm).
+More on how to tell apart [*Clibanarius* hermit crabs](clibanarius).
 
 *![](goldspot/040619sntd0568m3.jpg)  
 Sentosa, Jun 04*
@@ -109,9 +109,9 @@ flickr](http://www.flickr.com/photos/wildsingapore/2248921605/).
   of Zoology 2000 Supplement No. 8: 377-404. The National University
   of Singapore.
 
-[links](../../../../links.htm)
-| [references](../../../../references.htm)
-| [about](../../../../about.htm)
+[links](../../../../links)
+| [references](../../../../references)
+| [about](../../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

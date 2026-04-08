@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "hairy, coral, crab, cymo, andreossyi, xanthidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> Brachyurans > Family [Xanthidae](xanthidae.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> Brachyurans > Family [Xanthidae](xanthidae)
 **Hairy
 coral crab*****Cymo
 andreossyi*** **Family Xanthidae***updated
@@ -35,15 +35,15 @@ Dec 2019*
 **Where
 seen?** This tiny hairy crab with big blue eyes is sometimes
 seen on our some of our shores living in branching corals such as [Acropora
-corals](../../../cnidaria/coralhard/acroporidae/acropora.htm) (*Acropora* sp.) and [Cauliflower
-corals](../../../cnidaria/coralhard/pocilloporidae/pocillopora.htm) (*Pocillopora* sp.).They are small and well-camouflaged.  
+corals](../../../cnidaria/coralhard/acroporidae/acropora) (*Acropora* sp.) and [Cauliflower
+corals](../../../cnidaria/coralhard/pocilloporidae/pocillopora) (*Pocillopora* sp.).They are small and well-camouflaged.  
   
 **Features:** Body width about 1cm.
 Body, legs and pincers hairy, a drab beige or grey. It usually has
 a layer of algae growing on its body.  
   
-**Other tiny crabs that live in corals** include the [Red coral crab](../trapezioidea/redcoral.htm) (*Trapezia cymodoce*) and the [Bandit
-coral crab](../trapezioidea/bandit.htm) (*Tetralia nigrolineata*).  
+**Other tiny crabs that live in corals** include the [Red coral crab](../trapezioidea/redcoral) (*Trapezia cymodoce*) and the [Bandit
+coral crab](../trapezioidea/bandit) (*Tetralia nigrolineata*).  
   
 **Status
 and threats:** *Cymo andreossyi* is listed as 'Vulnerable'
@@ -76,7 +76,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 *Tanah Merah,
 Jun 10*Photo
 shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/06/100615-tanah-merah.html).
+blog](http://sgn090608.blogspot.com/2010/06/100615-tanah-merahl).
 
 ![](cymo/120507srpmn.jpg)  
 *Sentosa Serapong,
@@ -87,7 +87,7 @@ shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/7005236026/i
 *Kusu Island,
 May 10*Photo
 shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/05/100529-kusu-island.html).
+blog](http://sgn090608.blogspot.com/2010/05/100529-kusu-islandl).
 
 ---
 
@@ -121,9 +121,9 @@ shared by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media
   Red Data Book: Threatened plants and animals of Singapore*.
   Nature Society (Singapore). 285 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

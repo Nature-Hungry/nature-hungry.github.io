@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "beremban, sonneratia, caseolaris, lythraceae, sonneratiaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
-plants [text index](../../plantindex.htm) | [photo
-index](../../plantfi.htm)
-[mangroves](../mangroves.htm)
-| *[Sonneratia](sonneratia.htm)*
+plants [text index](../../plantindex) | [photo
+index](../../plantfi)
+[mangroves](../mangroves)
+| *[Sonneratia](sonneratia)*
 in general
 **Berembang   
 *Sonneratia caseolaris*  
@@ -49,7 +49,7 @@ at the base of the pneumatophore.
   
 Leaves nearly circular, oval or eye-shaped (5-13cm) narrow at the
 base, leathery, arranged opposite one another. The leaves have a 'tidy'
-appearance compared to those of [Perepat](alba.htm) (*Sonneratia
+appearance compared to those of [Perepat](alba) (*Sonneratia
 alba*).   
   
 Flowers large (10cm diameter) with petals narrow and dark red, and
@@ -68,9 +68,9 @@ According to the NParks Flora and Fauna website, Berembang is the
 preferred local food plant for caterpillars of the moths *Indarbela
 quadrinotata, Lymantria lepcha, Suana concolor, Trabala irrorata*,
 and *Trabala vishnou*. Fireflies are also associated with this
-tree (see page on [*Sonneratia*](sonneratia.htm) in
+tree (see page on [*Sonneratia*](sonneratia) in
 general).
-The [Atlas moth](../../../insecta/atlas.htm) (*Attacus
+The [Atlas moth](../../../insecta/atlas) (*Attacus
 atlas*) has been seen feeding on the tree.  
   
 **Human uses:** According to Burkill,
@@ -148,14 +148,14 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
   caseolaris](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3343)* on the NParks Flora and Fauna website: photos
   and fact sheet.
 - [Berembang
-  (*Sonneratia caseolaris*)](http://mangrove.nus.edu.sg/guidebooks/text/1074.htm) Ng, Peter K. L. & N. Sivasothi,
+  (*Sonneratia caseolaris*)](http://mangrove.nus.edu.sg/guidebooks/text/1074) Ng, Peter K. L. & N. Sivasothi,
   1999. *[A Guide
   to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*. Singapore
   Science Centre. 168 pp.
 - Giesen, Wim
   and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
   [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.htm) (PDF online downloadable).
+  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
   RAP publication 2006/07 Food and Agriculture Organization of the
   United Nations Regional Office for Asia and the Pacific Bangkok.
 
@@ -189,9 +189,9 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
   3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
   Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

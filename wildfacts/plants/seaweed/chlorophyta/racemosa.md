@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "oval, grapes, seaweed, weed, green, caulerpa, racemosa, caulerpaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
-green seaweeds [text index](../seaweedindex.htm) | [photo
-index](../seaweedfi.htm)
-[Seaweeds](../seaweed.htm)
-> Division [Chlorophyta](chlorophyta.htm) > Family
-Caulerpaceae > genus *[Caulerpa](caulerpa.htm)*
+green seaweeds [text index](../seaweedindex) | [photo
+index](../seaweedfi)
+[Seaweeds](../seaweed)
+> Division [Chlorophyta](chlorophyta) > Family
+Caulerpaceae > genus *[Caulerpa](caulerpa)*
 **Oval
 sea grapes seaweed  
 *Caulerpa racemosa\**  
@@ -50,12 +50,12 @@ onto the sand. Colours range from green to yellowish-green and bluish-green.
 Some other Caulerpa species may take forms that resemble Oval sea
 grapes. These include *Caulerpa peltata, Caulerpa macrophysa*.
 There are varieties of *Caulerpa racemosa* with [bell-shaped
-tips](bell.htm) (*Caulerpa racemosa* var *turbinata*) or flat like
-[little umbrellas](peltatasmall.htm) (*Caulerpa racemosa*var *peltata*).  
+tips](bell) (*Caulerpa racemosa* var *turbinata*) or flat like
+[little umbrellas](peltatasmall) (*Caulerpa racemosa*var *peltata*).  
   
 **Sometimes confused with** [Round
-sea grape seaweeds](lentillifera.htm) (*Caulerpa lentillifera*). Here's more
-on [how to tell apart the sea grapes seaweeds](cfgrapes.htm).  
+sea grape seaweeds](lentillifera) (*Caulerpa lentillifera*). Here's more
+on [how to tell apart the sea grapes seaweeds](cfgrapes).  
   
 **Human uses:** This seaweed is eaten
 in some places*.* In the Philippines, it is eaten fresh as a
@@ -109,7 +109,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ![](racemosa/081129ecpmlks01m3.jpg)  
 *East Coast, Nov 08* Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2008/11/intricate-and-fanciful-snails.html).
+blog](http://wondercreation.blogspot.com/2008/11/intricate-and-fanciful-snailsl).
 
 ![](racemosa/160124smkegl3.jpg)  
 *Pulau Semakau East, Jan 16*Photo shared by Geraldine Lee on [facebook](https://www.facebook.com/geraldine.lee.9081/media_set?set=a.10154477811788448.1073741834.611888447&type=3&pnref=story).
@@ -139,7 +139,7 @@ blog](http://wondercreation.blogspot.com/2008/11/intricate-and-fanciful-snails.h
 - [*Caulerpa racemosa*](http://species-identification.org/species.php?species_group=caribbean_diving_guide&id=489&menuentry=soorten) on Interactive Guide to Caribbean Diving, the Marine Species Identification
   Portal: Technical fact sheet.
 - [Seaweed
-  Mariculture](http://www.botany.uwc.ac.za/algae/StudentAssignments/natalieprins97/caulerpa.htm) by Natalie Prins from the World of Algae page
+  Mariculture](http://www.botany.uwc.ac.za/algae/StudentAssignments/natalieprins97/caulerpa) by Natalie Prins from the World of Algae page
   on the the University of the Western Cape, South Africa website:
   includes the culture and uses of *Caulerpa racemosa*.
 
@@ -171,9 +171,9 @@ blog](http://wondercreation.blogspot.com/2008/11/intricate-and-fanciful-snails.h
   Guide and Atlas of the Seaweed Resources of the Philippines.*.
   Bookmark, Inc., the Philippines. 306 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

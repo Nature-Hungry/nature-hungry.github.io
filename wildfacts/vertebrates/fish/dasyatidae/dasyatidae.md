@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "sting, ray, stingray, fish, dasyatidae, rajiformes, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Order [Rajiformes](rajiformes.htm)
+> Subphylum Vertebrate > [fishes](../fish) >
+Order [Rajiformes](rajiformes)
 **Stingrays  
 Family Dasyatidae***updated
 Sep 2020*
@@ -86,10 +86,10 @@ is then expelled through five pairs of gill slits on the underside
 of the body.   
   
 **Sometimes mistaken for** a [horseshoe
-crab](../../../arthropoda/limulidae/limulidae.htm) and visa versa. In murky waters, these two different animals
+crab](../../../arthropoda/limulidae/limulidae) and visa versa. In murky waters, these two different animals
 do have a similar profile, both being round and flat with a long tail.
 Other similarly shaped fish include the [Electric
-ray](../torpedinidae/narcine.htm).
+ray](../torpedinidae/narcine).
 
 ![](lymma/080802sjid8875.jpg)  
 *St. John's Island, Aug 08*
@@ -149,7 +149,7 @@ give birth to live, fully developed young.
 a popular seafood dish in Singapore. The large pectoral fins are barbequed
 and served with chilli, often on a banana leaf. You can see their
 cartilageous bones as you eat the flesh. The [Blue-spotted
-fantail ray](lymma.htm) (*Taeniura lymma*) is also popular in the live
+fantail ray](lymma) (*Taeniura lymma*) is also popular in the live
 aquarium trade although it does not do well in captivity. Stingrays are often seen among the fishes trapped in abandoned fishing nets and traps on our shores.
 
 ---
@@ -160,15 +160,15 @@ on Singapore shores**
 ---
 
 **![](lymma/080802sjid8804m3.jpg)  
-[Blue-spotted fantail ray](lymma.htm)**
+[Blue-spotted fantail ray](lymma)**
 
-***![](walga/110520chgd2528.jpg)*[Mangrove whipray](walga.htm)**
+***![](walga/110520chgd2528.jpg)*[Mangrove whipray](walga)**
 
-***![](kuhlii/071226chgd8385m3.jpg)*[Blue-spotted stingray](kuhlii.htm)**
+***![](kuhlii/071226chgd8385m3.jpg)*[Blue-spotted stingray](kuhlii)**
 
 ---
 
-***![](uarnak/030525cjd0112m3.jpg)*****[Honeycomb whipray](uarnak.htm)**
+***![](uarnak/030525cjd0112m3.jpg)*****[Honeycomb whipray](uarnak)**
 
 ---
 
@@ -197,12 +197,12 @@ Dasyatis zugei
 +Pastinachus atrus*(Eastern cowtail stingray) *^Pastinachus sephen*=*Hypolophus sephen**^Himantura bleekeri=Dasyatis
 bleekeri  
 ^Himantura gerrardi=Dasyatis gerrardi* *+Himantura granulata  
-+[Himantura uarnak](uarnak.htm)* (Honeycomb whipray) *+Himantura undulata* (Leopard
-whipray) *\*[Himantura walga](walga.htm)* (Mangrove whipray)  
++[Himantura uarnak](uarnak)* (Honeycomb whipray) *+Himantura undulata* (Leopard
+whipray) *\*[Himantura walga](walga)* (Mangrove whipray)  
   
-*^[Neotrygon kuhlii](kuhlii.htm)=Dasyatis kuhli* (Blue-spotted stingray)  
+*^[Neotrygon kuhlii](kuhlii)=Dasyatis kuhli* (Blue-spotted stingray)  
   
-*[Taeniura lymma](lymma.htm)* (Blue-spotted
+*[Taeniura lymma](lymma)* (Blue-spotted
 fantail ray)   
   
 **^now
@@ -232,13 +232,13 @@ Gymnura poecilura*
   species.
 - [Volume
   3: Batoid fishes, chimaeras and bony fishes part 1 (Elopidae to
-  Linophrynidae)](http://www.fao.org/docrep/009/x2401e/x2401e00.htm) FAO Species Identification Guide for Fishery
+  Linophrynidae)](http://www.fao.org/docrep/009/x2401e/x2401e00) FAO Species Identification Guide for Fishery
   Purposes The Living Marine Resources of the Western Central Pacific.
 - [13 questions answered after I got stung by a stingray](https://theceruleansea.wordpress.com/2022/01/06/13-questions-answered-after-i-got-stung-by-a-stingray/) by Crystle Wee
 - From the
   wild shores of singapore blog
   - [Savvy
-    stingrays use tools](http://wildshores.blogspot.com/2010/01/savvy-stingrays-use-tools.html)
+    stingrays use tools](http://wildshores.blogspot.com/2010/01/savvy-stingrays-use-toolsl)
 
 **References**  
 
@@ -265,9 +265,9 @@ Gymnura poecilura*
   and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
   National Council on the Environment. 163pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

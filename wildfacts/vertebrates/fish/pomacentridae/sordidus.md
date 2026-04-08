@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "black, spot, sergeant, abudefduf, sordidus, damsel, fish, damselfish, pomacentridae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm) >
-Family [Pomacentridae](pomacentridae.htm)
+> Subphylum Vertebrata > [fishes](../fish) >
+Family [Pomacentridae](pomacentridae)
 **Black-spot
 sergeant   
 *Abudefduf
@@ -40,7 +40,7 @@ fish was seen once at Sisters Islands near living reefs.
 seen about 8cm long. Head and body white. It is identified by the
 prominent black spot at the top of the tail just before the tail fin.
 Like other sergeants, it has about 6 dark or grey bars. More on [how
-to tell apart sergeants](pomacentridae.htm).
+to tell apart sergeants](pomacentridae).
 ![](sordidus/080816sisd9502m3.jpg)  
 *Sisters Island,
 Aug 08*
@@ -84,9 +84,9 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
   Reef Fishes of the World*
   Periplus Editions. 400pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

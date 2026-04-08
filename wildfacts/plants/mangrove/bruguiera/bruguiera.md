@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "bruguiera, rhizophoraceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
-plants [text index](../../plantindex.htm) | [photo
-index](../../plantfi.htm)
+plants [text index](../../plantindex) | [photo
+index](../../plantfi)
 
-[mangroves](../mangroves.htm)
+[mangroves](../mangroves)
 **Bakau  
 *Bruguiera sp.*  
 Family Rhizophoraceae***updated
@@ -30,14 +30,14 @@ Jan 2013*
 
 ---
 
-**Where seen?** While [Bakau putih](cylindrica.htm)
+**Where seen?** While [Bakau putih](cylindrica)
 (*Bruguiera cylindrica*) is one of the most commonly seen trees
 in our mangroves, others are less common, and some are quite rare.  
   
 **Features:** A tree generally with
 knee roots, sometimes without. Leaves eye-shaped, shiny green and
 stiff, lacking the tiny black spots on the underside that is typical
-of *[Rhizophora](../rhizophora/rhizophora.htm)*. Flowers
+of *[Rhizophora](../rhizophora/rhizophora)*. Flowers
 small, usually with cup-shaped calyx. Petals thin and fringed with
 hairs. The stamens are enclosed in pairs in a 'pouched petal'. When
 triggered, the pouch explodes, dousing the pollinator with pollen.
@@ -49,10 +49,10 @@ uses:** The timber and other parts of these trees have many
 traditional applications. See the fact sheets for the individual species
 for more details.  
   
-**Status and threats:** [Lenggadai](parviflora.htm)
+**Status and threats:** [Lenggadai](parviflora)
 (*Bruguiera parviflora*) is listed as 'Endangered' and [Bakau
-mata buaya](hainesii.htm) (*Bruguiera hainesii*) and [Tumu
-berau](sexangula.htm) (*Bruguiera sexangula*) are both listed as 'Critically
+mata buaya](hainesii) (*Bruguiera hainesii*) and [Tumu
+berau](sexangula) (*Bruguiera sexangula*) are both listed as 'Critically
 Endangered' in the Red List of threatened plants of Singapore.
 
 ![](gymnorrhiza/090809sjid8843m6l.jpg)  
@@ -71,7 +71,7 @@ Fallen petals.
 
 **Bakau
 putih**  
-*[Bruguiera cylindrica](cylindrica.htm)*
+*[Bruguiera cylindrica](cylindrica)*
 
 ![](cylindrica/091203ubnd4906m3.jpg)  
 Small flowers   
@@ -89,7 +89,7 @@ bend towards stalk.
 
 **Bakau
 mata buaya**  
-*[Bruguiera hainesii](hainesii.htm)*
+*[Bruguiera hainesii](hainesii)*
 
 ![](hainesii/090614ubnd4258m3.jpg)
   
@@ -106,7 +106,7 @@ Sepals held away from the propagule.
 ---
 
 **Tumu**  
-*[Bruguiera gymnorrhiza](gymnorrhiza.htm)*
+*[Bruguiera gymnorrhiza](gymnorrhiza)*
 
 ![](gymnorrhiza/090118smkd5887m3.jpg)  
 Large flowers,  
@@ -123,7 +123,7 @@ Sepals bend towards the propagule.
 
 **Tumu
 berau**  
-*[Bruguiera sexangula](sexangula.htm)*
+*[Bruguiera sexangula](sexangula)*
 
 ![](sexangula/091213ubnd5854m3.jpg)  
 Large
@@ -140,7 +140,7 @@ from the propagule.
 ---
 
 **Lenggadai**  
-*[Bruguiera parviflora](parviflora.htm)*
+*[Bruguiera parviflora](parviflora)*
 
 ![](parviflora/100411prpd1040m3.jpg)  
 Long narrow flowers,  
@@ -158,9 +158,9 @@ Sepals clasp the propagule.
 **Links**
 
 - [Bakau
-  putih (*Bruguiera cylindrica*)](http://mangrove.nus.edu.sg/guidebooks/text/1053.htm), [Tumu
-  (*Bruguiera gymnorrhiza*)](http://mangrove.nus.edu.sg/guidebooks/text/1054.htm), [Lenggadai
-  (*Bruguiera parviflora*)](http://mangrove.nus.edu.sg/guidebooks/text/1055.htm) Ng, Peter K. L. & N. Sivasothi,
+  putih (*Bruguiera cylindrica*)](http://mangrove.nus.edu.sg/guidebooks/text/1053), [Tumu
+  (*Bruguiera gymnorrhiza*)](http://mangrove.nus.edu.sg/guidebooks/text/1054), [Lenggadai
+  (*Bruguiera parviflora*)](http://mangrove.nus.edu.sg/guidebooks/text/1055) Ng, Peter K. L. & N. Sivasothi,
   1999. *[A Guide
   to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*. Singapore
   Science Centre. 168 pp.
@@ -198,9 +198,9 @@ Sepals clasp the propagule.
 FREE photos of [mangrove
 trees and plants](http://www.flickr.com/photos/54527470@N00/sets/72157600258037543). Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

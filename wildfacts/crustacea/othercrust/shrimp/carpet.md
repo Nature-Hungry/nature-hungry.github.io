@@ -4,28 +4,28 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "tiny, carpet, anemone, shrimp, periclimenes, palaemonidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 shrimps [text
-index](../../crustaceaindex.htm#shrimps) | [photo index](../../shrimpfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> [prawns and shrimps](shrimp.htm) >   
-Family [Palaemonidae](palaemonidae.htm)
+index](../../crustaceaindex#shrimps) | [photo index](../../shrimpfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> [prawns and shrimps](shrimp) >   
+Family [Palaemonidae](palaemonidae)
 **Tiny
 carpet anemone shrimp**  
 ***Periclimenes* sp.\***  
@@ -36,7 +36,7 @@ Jan 2020*
 
 **Where
 seen?** This tiny shrimp is often seen in [Haddon's
-carpet anemones](../../../cnidaria/actiniaria/haddoni.htm) (*Stichodactyla haddoni*) on our Northern
+carpet anemones](../../../cnidaria/actiniaria/haddoni) (*Stichodactyla haddoni*) on our Northern
 shores, including small anemones less than 10cm in diameter. One anemone
 may have 10 or more of these tiny shrimps! They are more active at
 night, when they move about on the surface of the sea anemone. They
@@ -92,12 +92,12 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ![](carpet/091106smkgl2m3.jpg)  
 *Pulau Semakau, Nov 09*Photo shared by Geraldine Lee on [her
-blog](http://starryfinds.blogspot.com/2009/11/back-to-pulau-semakau.html).
+blog](http://starryfinds.blogspot.com/2009/11/back-to-pulau-semakaul).
 
 *![](carpet/091203ubnjk2m3.jpg)  
 Pulau Ubin, Dec 09*Photo
 shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/12/pulau-ubin-new-shore.html).
+blog](http://sgn090608.blogspot.com/2009/12/pulau-ubin-new-shorel).
 
 ---
 
@@ -105,9 +105,9 @@ blog](http://sgn090608.blogspot.com/2009/12/pulau-ubin-new-shore.html).
 
 - Veron Pwa Keay Hoon & Jin-Ho Park. 30 November 2020. *New record of shrimp, Periclimenes cf. obscurus, on carpet anemone*. Singapore Biodiversity Records 2020: 204-205. The National University of Singapore.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

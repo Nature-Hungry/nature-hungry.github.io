@@ -4,30 +4,30 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
+[![](../../../wildfactsheet3.gif)](../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../index.html)  
+[wildfactsheets homepage](../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![talking points for nature guides](../../../Templates/fornatureguides.gif)](../../forguides/index.html)
+[![talking points for nature guides](../../../Templates/fornatureguides.gif)](../../forguides/indexl)
 
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
+[all animals](../../animals)
+| [all plants](../../plants)
+| [concepts](../../concepts/indexl)
+| [glossary](../../glossary/indexl)
+| [search](../../search)
 
 mangrove
-plants [text index](../plantindex.htm) | [photo
-index](../plantfi.htm)
+plants [text index](../plantindex) | [photo
+index](../plantfi)
 
-[Mangroves](mangroves.htm) in general
+[Mangroves](mangroves) in general
 [index
-to talking points](../../forguides/index.html) for nature guides
+to talking points](../../forguides/indexl) for nature guides
 **For
 nature guides: introducing mangroves**  
 *updated
@@ -107,7 +107,7 @@ provide food:**
 - Some animals
   can eat mangrove leaves, ***Can you see any animals that might
   eat mangrove leaves?*** Yes, crabs do! (See [tree
-  climbing crabs](../../crustacea/crab/sesarmidae/episesarma.htm)).
+  climbing crabs](../../crustacea/crab/sesarmidae/episesarma)).
 - Dead and
   decaying mangrove leaves also wash out into the seagrass meadows
   and coral reefs where they feed other creatures there.
@@ -120,12 +120,12 @@ provide shelter:**
 - The mangrove
   branches provide hiding places for birds and land animals.
 - Some animals
-  that can live in between water and land are also found here ([mudskippers](../../vertebrates/fish/gobiidae/mudskipper.htm),
+  that can live in between water and land are also found here ([mudskippers](../../vertebrates/fish/gobiidae/mudskipper),
   [tree
-  climbing crabs](../../crustacea/crab/sesarmidae/episesarma.htm)).
+  climbing crabs](../../crustacea/crab/sesarmidae/episesarma)).
 - The mat of
   roots provide firm ground for small burrowing animals ([fiddler
-  crabs](../../crustacea/crab/ocypodoidea/uca.htm)).
+  crabs](../../crustacea/crab/ocypodoidea/uca)).
 - ***Let's
   see if we can find some of these animals?***
 
@@ -142,7 +142,7 @@ favourite food depends on mangroves.
 
 - ***How
   many of you like durians?*** Durian lovers must also love
-  the [Sonneratia trees](sonneratia/sonneratia.htm).
+  the [Sonneratia trees](sonneratia/sonneratia).
   One way to tell the story with questions:
   - ***What
     do you think pollinates the durian flowers?*** If no
@@ -163,14 +163,14 @@ favourite food depends on mangroves.
 - ***What
   are YOUR favourite seafood? Let's see if we can find them here
   in this mangrove?*** Young
-  crabs, [shrimps](../../crustacea/othercrust/shrimp/shrimp.htm)
+  crabs, [shrimps](../../crustacea/othercrust/shrimp/shrimp)
   live in the mangroves before going into deeper waters as they
   grow up where they are caught by fishermen. So to get good fishing,
   it's important to have good mangroves nearby.
 - **The shrimp
   industry can be bad for mangroves.** This is quite a depressing
   story, and usually only the more nature-oriented visitor can sit
-  through [the long story](../../concepts/prawnfarms.htm).
+  through [the long story](../../concepts/prawnfarms).
 
 **Mangrove
 myths to dispel**
@@ -179,7 +179,7 @@ myths to dispel**
   are not smelly because they are full of dead decaying things.
   In fact, this 'Fart of Life' is a sign of a healthy mangrove.
   More details of this story in the [general
-  write up on mangroves](mangroves.htm).
+  write up on mangroves](mangroves).
 - ***Mangroves
   are NOT wasted land.*** They provide shelter and food to
   a wide variety of animals, many of which are among our favourite
@@ -228,14 +228,4 @@ and other aquatic animals are busy in the water.
 FREE photos of [mangrove
 trees and plants](http://www.flickr.com/photos/54527470@N00/sets/72157600258037543). Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

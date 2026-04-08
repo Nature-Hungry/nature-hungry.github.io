@@ -4,32 +4,15 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "sea star, seastar, starfish, star, fish, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
+[![talking points for nature guides](../../../Templates/fornatureguides.gif)](../fngasteroidea)
 
-[![talking points for nature guides](../../../Templates/fornatureguides.gif)](../fngasteroidea.htm)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-sea
-stars [text index](../echinodermindex.htm) | [photo
-index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
+sea stars [text index](../echinodermindex)
+| [photo index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
 > Class Stelleroida
-**Sea
-stars**   
-**Subclass Asteroidea***updated
-Apr 2020*
+**Sea stars**   
+**Subclass Asteroidea***updated Apr 2020*
 
 ---
 
@@ -48,7 +31,7 @@ small and well hidden. Others are large and colourful.
   
 **What are sea stars?** Although often
 called starfish, these creatures are not fish at all! So it is more
-correct to call them sea stars. Sea stars belong to the Phylum [Echinodermata](../echinodermata.htm) and Subclass Asteroidea. There are about 1,800 known species of sea
+correct to call them sea stars. Sea stars belong to the Phylum [Echinodermata](../echinodermata) and Subclass Asteroidea. There are about 1,800 known species of sea
 stars, of which about 300 are found in shallow waters. Sea stars form
 the second largest group of Echinoderms after the brittle stars (Subclass
 Ophiuroidea).   
@@ -58,11 +41,11 @@ what a sea star looks like! 'Asteroidea' means 'star-like'. Like other
 echinoderms, sea stars are symmetrical along five axes, have a spiny
 skin and tube feet.
 ![](protoreaster/050623cjd4122m3.jpg)  
-The large [Knobbly sea star](protoreaster.htm)  
+The large [Knobbly sea star](protoreaster)  
 is an icon of Chek Jawa. *Chek Jawa, Jun 05*
-*![](culcita/060401ulrd0750m3.jpg)*The [Cushion star](culcita.htm) is more pentangonal  
+*![](culcita/060401ulrd0750m3.jpg)*The [Cushion star](culcita) is more pentangonal  
 than star shaped. *Terumbu Ular, Apr 06*
-*![](luimaculata/070714cjg1447m3.jpg)* The [Eight-armed sand star](luimaculata.htm)   
+*![](luimaculata/070714cjg1447m3.jpg)* The [Eight-armed sand star](luimaculata)   
 has more than five arms. *Chek Jawa, Jul 07*
 **An Armful:** Sea stars have arms
 that blend into one another before joining the central disk. Some
@@ -74,7 +57,7 @@ five arms. Some kinds of sea stars are really flat, others may have
 more cylindrical arms, and some are so round that they look like cushions.
 Each arm is usually tipped with one or more sensory tube feet, and
 an eye spot that detects light and dark but does not form an image.  **Sometimes confused with** [brittle
-stars](../ophiuroidea/ophiuroidea.htm). Unlike sea stars, brittle stars have very flexible and
+stars](../ophiuroidea/ophiuroidea). Unlike sea stars, brittle stars have very flexible and
 long arms attached to a small central disk. Most brittle stars are
 much smaller than sea stars, although some have very long arms.  
  **Handicapped Stars:** Sea stars are
@@ -86,12 +69,12 @@ are known to regenerate from a piece of an arm. So you won't necessarily
 get two sea stars when an arm of a sea star is separated. So please
 don't purposely mutilate sea stars.
 ![](archaster/091009tmd2646m3.jpg)  
-[Common sea star](archaster.htm) regenerating
+[Common sea star](archaster) regenerating
 new arms.  *Tanah Merah, Oct 09*
 *![](sandplain/080702prpd6356m3.jpg)*Three
-arms regenerating on a [Plain sand star](sandplain.htm). *Pasir Ris Park, Jul 08*
+arms regenerating on a [Plain sand star](sandplain). *Pasir Ris Park, Jul 08*
 ![](sandplain/080817chgd9707m3.jpg)  
-This [Plain sand star](sandplain.htm) has 4 instead of 5 arms. *Changi, Aug 08*
+This [Plain sand star](sandplain) has 4 instead of 5 arms. *Changi, Aug 08*
 **Mouth to the ground:** The mouth
 is on the underside facing the ground. Some sea stars have jaws made
 up of five or more teeth arranged in a star around the mouth. Some
@@ -108,14 +91,14 @@ These grooves usually contain 2-4 rows of tube feet. The margins of
 the groove are guarded by moveable spines that can close over the
 groove. Out of the water, a sea star will usually retract its tube
 feet into the grooves so it looks rather lifeless.
-*![](sandplain/050402cjg4016m3c.jpg)*Long pointed tube feet of the [Sand star](astropecten.htm)   
+*![](sandplain/050402cjg4016m3c.jpg)*Long pointed tube feet of the [Sand star](astropecten)   
 helps it move quickly over the sand. *Chek Jawa, Apr 05* 
 *![](anthenea/050623cjg8452m3a.jpg)*Huge bivalved pedicellaria   
 (pincer-like structures) on the   
-underside of the [Cake sea star](anthenea.htm). *Chek Jawa, Jun 04*
+underside of the [Cake sea star](anthenea). *Chek Jawa, Jun 04*
 ![](archaster/090621hntd4606m3a.jpg)  
 The white structure
-in the middle of this [Common sea star](archaster.htm) is the madreporite.  
+in the middle of this [Common sea star](archaster) is the madreporite.  
 *Pulau Hantu, Jun 09*
 **Fancy footwork:** Sea stars use
 their tube feet to move around. Unlike brittle stars, sea stars move
@@ -157,7 +140,7 @@ or contracting chambers in the internal system, the water pressure
 in canals within the body can be directed and changed. This is how
 they move their tube feet. A study also found that the water within
 a sea star may [help
-it keep cool when exposed at low tide](http://wildshores.blogspot.com/2009/10/why-we-shouldnt-pick-up-sea-stars.html). As they rely on seawater,
+it keep cool when exposed at low tide](http://wildshores.blogspot.com/2009/10/why-we-shouldnt-pick-up-sea-starsl). As they rely on seawater,
 it is stressful for sea stars to be left out of water for too long.
 Try not to remove sea stars from the water. If you have to do so,
 please return them quickly to where you found them.  
@@ -172,15 +155,15 @@ sponges, sea anemones and corals. Some carnivorous sea stars eat detritus
 when there's nothing better to eat.   
   
 Some prey of sea stars have developed various ways to escape from
-sea stars. Bivalves such as [scallops](../../mollusca/bivalvia/pectinidae/pectinidae.htm) (Family Pectinidae) may leap, while others burrow away quickly, some
+sea stars. Bivalves such as [scallops](../../mollusca/bivalvia/pectinidae/pectinidae) (Family Pectinidae) may leap, while others burrow away quickly, some
 snails may somersault.
-*![](archaster/030105cjd6903m3.jpg)*Underside of a [Common sea star](archaster.htm).
+*![](archaster/030105cjd6903m3.jpg)*Underside of a [Common sea star](archaster).
 Greenish stomach outside the central mouth, tube feet emerging from
 groove beneath the arms. *Chek Jawa, Jan 03* 
-*![](protoreaster/110508cyrmng5m3.jpg)*Is this [Knobbly sea star](protoreaster.htm) eating
+*![](protoreaster/110508cyrmng5m3.jpg)*Is this [Knobbly sea star](protoreaster) eating
 a sand dollar? *Cyrene Reef, May 11*Photo
 shared by Marcus Ng on [flickr](http://www.flickr.com/photos/budak/sets/72157626681285094/).
-*![](luimaculata/080507skdd0061m3.jpg)*The huge [Eight-armed sand star](luimaculata.htm)   
+*![](luimaculata/080507skdd0061m3.jpg)*The huge [Eight-armed sand star](luimaculata)   
 (next to my bootie for scale)   
 is a fast moving predatory sea star. *Pulau Sekudu, May 08*
 **Stomach Turning Table Manners:** Some sea stars, especially those with long arms, can evert their stomachs.
@@ -203,11 +186,11 @@ However, sea stars with short arms usually don't push out their stomachs
 and simply swallow their prey whole and digest them in their stomachs.  **What eats them?** While some fishes
 may nibble on adult sea stars, it appears they are not considered
 tasty by most other animals.
-*![](archaster/070120cjd7622m3.jpg)*A [Common sea star](archaster.htm) disintegrating, possibly   
+*![](archaster/070120cjd7622m3.jpg)*A [Common sea star](archaster) disintegrating, possibly   
 due to flooding and a drop in salinity. *Chek Jawa, Jan 07*
 *![](sandplain/080702prpd6348m3.jpg)*Recently dead
-[Plain sand star](sandplain.htm) disintegrating. *Pasir Ris Park, Jul 08*
-*![](protoreaster/040604bbg0244m3.jpg)*On a hot day, the [Knobbly sea star](protoreaster.htm) may be contorted. It's attempting to cool off. It is not dying, there is no need to move it.  
+[Plain sand star](sandplain) disintegrating. *Pasir Ris Park, Jul 08*
+*![](protoreaster/040604bbg0244m3.jpg)*On a hot day, the [Knobbly sea star](protoreaster) may be contorted. It's attempting to cool off. It is not dying, there is no need to move it.  
 *Beting Bronok, Jun 04*
 **Dead or Alive?** All the sea stars
 that you see are probably alive. You are unlikely to come across a
@@ -233,14 +216,14 @@ sea stars were they are.
 consumes energy and if the same sea star is made to do this several
 times, it can exhaust and thus injure the animal.   
   
-**Living with a star:** [Tiny parasitic snails](sandplain.htm) may live on the upper surface of a sea star, or under their arms.
-*![](sandplain/050608chgg7360m3.jpg)*[Tiny parasitic snails](../../mollusca/gastropoda/eulimidae/eulimidae.htm) are sometimes seen on the upperside of a [Plain sand star](sandplain.htm). *Changi, Jun 05*
+**Living with a star:** [Tiny parasitic snails](sandplain) may live on the upper surface of a sea star, or under their arms.
+*![](sandplain/050608chgg7360m3.jpg)*[Tiny parasitic snails](../../mollusca/gastropoda/eulimidae/eulimidae) are sometimes seen on the upperside of a [Plain sand star](sandplain). *Changi, Jun 05*
 ![](../../mollusca/gastropoda/eulimidae/eulimidae/050608chgg7360m3a.jpg)  
 Closer look at the snails:   
 laying eggs on the sand star?
 ![](archaster/080707hntd7423m3a.jpg)  
 Parasitic
-snail on a [Common sea star](archaster.htm) .  
+snail on a [Common sea star](archaster) .  
 *Pulau Hantu, Jul 08*
 **Sea star babies:** Sea stars have
 separate genders and are usually either male or female. Eggs and sperm
@@ -248,17 +231,17 @@ are stored in their arms. Most species practice external fertilisation,
 releasing eggs and sperm simultaneously into the water while standing
 on tip toes. More
 about this spawning posture [on
-the Echinoblog](http://echinoblog.blogspot.sg/2011/08/starfish-standing-on-their-tippy-toes.html). Some
+the Echinoblog](http://echinoblog.blogspot.sg/2011/08/starfish-standing-on-their-tippy-toesl). Some
 can produce lots of eggs; a single female may produce millions! Sea
 stars undergo metamorphosis and their larvae look nothing like the
 adults. The form that first hatches from the eggs are bilaterally
 symmetrical and free-swimming, drifting with the plankton. They eventually
 settle down and develop into tiny sea stars.
-*![](protoreaster/110817cyrL1070555m3.jpg)*A [Knobbly sea star](protoreaster.htm) about to spawn?  *Cyrene Reef, Aug 11*
+*![](protoreaster/110817cyrL1070555m3.jpg)*A [Knobbly sea star](protoreaster) about to spawn?  *Cyrene Reef, Aug 11*
 ![](luimaculata/081214ecmd3201m3.jpg)  
-[Eight-armed sand star](luimaculata.htm) in spawning position? *East Coast, Dec 08*
+[Eight-armed sand star](luimaculata) in spawning position? *East Coast, Dec 08*
 ![](archaster/100912kusd1487m3.jpg)  
-Small [Common sea star](archaster.htm) male
+Small [Common sea star](archaster) male
 on
 top of   
 larger female, probably about to spawn.  
@@ -278,7 +261,7 @@ been encountered on our shores.
 not eaten, and in fact it is advised not to eat them as many are toxic.
 There are stories of pets which have eaten sea stars and died. More
 about this on [The
-Echinoblog](http://echinoblog.blogspot.com/2008/04/people-eating-starfish.html). They are also not that popular for the live aquarium
+Echinoblog](http://echinoblog.blogspot.com/2008/04/people-eating-starfishl). They are also not that popular for the live aquarium
 trade as they tend to eat their tank-mates. However, in some places,
 sea stars are harvested alive and dried to be sold as cheap ornaments.
 This is cruel indeed! In some coastal areas, sea stars are harvested
@@ -312,7 +295,7 @@ Singapore Red Data Book: Threatened Plants and Animals of Singapore*\*\*from [WO
 Archasteridae**
  
 \**[Archaster
-typicus](archaster.htm)* (Common sea star)
+typicus](archaster)* (Common sea star)
 (VU: Vulnerable)
   
  
@@ -320,14 +303,14 @@ typicus](archaster.htm)* (Common sea star)
 Asterinidae**
  
 *\*Anseropoda rosacea  
-\*Asterina anomala=\*\*[Aquilonastra anomala](tinysevenarm.htm)* (Tiny seven armed sea star) *\*Asterina
+\*Asterina anomala=\*\*[Aquilonastra anomala](tinysevenarm)* (Tiny seven armed sea star) *\*Asterina
 coronata* =\*\**[Aquilonastra
-coronata](asterina.htm)* (Crown sea star)   
+coronata](asterina)* (Crown sea star)   
   
 \*[*Cryptasterina*
-sp.](cryptasterina.htm) (Cryptic sea star)
-(VU: Vulnerable) *\*[Nepanthia belcheri](nepred.htm)* (Red scaly
-sea star) *\*[Nepanthia maculata](nepmaculata.htm)* (Pale
+sp.](cryptasterina) (Cryptic sea star)
+(VU: Vulnerable) *\*[Nepanthia belcheri](nepred)* (Red scaly
+sea star) *\*[Nepanthia maculata](nepmaculata)* (Pale
 scaly sea star)  
   
 *\*Patiriella pseudoexigua*=\*\**Cryptasterina pentagona*  
@@ -338,8 +321,8 @@ scaly sea star)
 **Family
 Astropectinidae**
  
-*[Astropecten](astropecten.htm)* [species](astropecten.htm) (Sand sea stars) with list of species recorded for
-Singapore *[Craspidaster hesperus](craspidaster.htm)* (Bordered
+*[Astropecten](astropecten)* [species](astropecten) (Sand sea stars) with list of species recorded for
+Singapore *[Craspidaster hesperus](craspidaster)* (Bordered
 sea star) *Goniodiscus articulatus=\*\*Anthenea pentagonula*
   
  
@@ -363,14 +346,14 @@ sea star) (VU: Vulnerable) *Iconaster longimanus*
 Vulnerable)  
   
 *Stellaster incei=Stellaster equestris=*\*\**[Stellaster
-childreni](equestris.htm)* (Galloping sea star)
+childreni](equestris)* (Galloping sea star)
   
  
 **Family
 Luidiidae**
  
 [*Luidia*
-species](luidia.htm) (Luidia sand star) with list of species recorded for Singapore.
+species](luidia) (Luidia sand star) with list of species recorded for Singapore.
   
  
 **Family
@@ -394,18 +377,18 @@ Ophidiasteridae**
 Oreasteridae**
  
 \*[*Anthenea
-aspera*](anthenea.htm) (Cake sea star) (VU:
+aspera*](anthenea) (Cake sea star) (VU:
 Vulnerable) *Anthenea flavescens*  
 *\*\*Anthenea pentagonula*=*Goniodiscus articulatus*
   
   
-*[Culcita novaeguineae](culcita.htm)* (Cushion
+*[Culcita novaeguineae](culcita)* (Cushion
 star) *Goniodiscaster forficulatus   
-[Goniodiscaster scaber](goniodiscaster.htm)* (Biscuit
-sea star) *[Gymnanthenea laevis](gymnanthenea.htm)* (Spiny
-sea star) *[Pentaceraster mammillatus](pentaceraster.htm)* (Pentaceraster
+[Goniodiscaster scaber](goniodiscaster)* (Biscuit
+sea star) *[Gymnanthenea laevis](gymnanthenea)* (Spiny
+sea star) *[Pentaceraster mammillatus](pentaceraster)* (Pentaceraster
 sea star) *[Protoreaster
-nodosus](protoreaster.htm)* (Knobbly sea star) (EN:
+nodosus](protoreaster)* (Knobbly sea star) (EN:
 Endangered)
   
  
@@ -420,21 +403,21 @@ insignis*  (EN: Endangered)
 **Links**
 
 - [Sea
-  stars (Class Asteroides)](http://mangrove.nus.edu.sg/pub/seashore/text/221.htm) Tan, Leo W. H. & Ng, Peter K. L.,
+  stars (Class Asteroides)](http://mangrove.nus.edu.sg/pub/seashore/text/221) Tan, Leo W. H. & Ng, Peter K. L.,
   1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [People
-  eating sea stars](http://echinoblog.blogspot.com/2008/04/people-eating-starfish.html) on [The
+  eating sea stars](http://echinoblog.blogspot.com/2008/04/people-eating-starfishl) on [The
   Echinoblog](http://echinoblog.blogspot.com/): about why it's not a good idea to eat sea stars.
 - [Wold
   Asteroidea Database](http://www.marinespecies.org/Asteroidea/) by Dr Christopher Mah.
 - From the
   wild shores of singapore blog:
   - [Some
-    stars like it hot and acid](http://wildshores.blogspot.com/2009/06/some-stars-like-it-hot-and-acid.html)
+    stars like it hot and acid](http://wildshores.blogspot.com/2009/06/some-stars-like-it-hot-and-acidl)
   - [Why
-    we should not pick up sea stars](http://wildshores.blogspot.com/2009/10/why-we-shouldnt-pick-up-sea-stars.html)
+    we should not pick up sea stars](http://wildshores.blogspot.com/2009/10/why-we-shouldnt-pick-up-sea-starsl)
 
 **References**
 
@@ -496,14 +479,4 @@ insignis*  (EN: Endangered)
   Stars of Australasia and their relatives*. Neville Coleman's
   World of Water, Australia. 64pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

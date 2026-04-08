@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "encrusting, coralline, red, seaweed, weed, algae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
+[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 red
-seaweeds [text index](../seaweedindex.htm#rhodophyta)
-| [photo index](../seaweedfi.htm)
+seaweeds [text index](../seaweedindex#rhodophyta)
+| [photo index](../seaweedfi)
 
-[Seaweeds](../seaweed.htm)
-> Division [Rhodophyta](rhodophyta.htm)
+[Seaweeds](../seaweed)
+> Division [Rhodophyta](rhodophyta)
 **Coralline
 red algae****Family
 Corallinaceae***updated
@@ -57,7 +57,7 @@ larvae.
 
 ![](encrust/050610sntg7603m3.jpg)  
 [Encrusting
-coralline algae](encrust.htm) *Sentosa, Jun 05 *![](../../../mollusca/gastropoda/trochidae/maculatus/040817sntd4622m3.jpg)**Growing
+coralline algae](encrust) *Sentosa, Jun 05 *![](../../../mollusca/gastropoda/trochidae/maculatus/040817sntd4622m3.jpg)**Growing
 on a shell of a living snail **Sentosa, Aug 04**
 
 ---
@@ -75,7 +75,7 @@ microscopic examination. On this website, they are grouped by
 external features for convenience of display.*
  
 [Encrusting
-red algae](encrust.htm)
+red algae](encrust)
   
  
 **Family
@@ -90,7 +90,7 @@ Amphiroa rigida*
 **Links**
 
 - [Red
-  Encrusting Algae](http://mangrove.nus.edu.sg/pub/seashore/text/106.htm) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+  Encrusting Algae](http://mangrove.nus.edu.sg/pub/seashore/text/106) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [Introduction
@@ -99,7 +99,7 @@ Amphiroa rigida*
   to the habitat, reproduction, taxonomy with links to other sites
   on coralline algae.
 - [Coralline
-  Algae of Pulley Ridge](http://coastal.er.usgs.gov/pulley-ridge/coralline-algae.html) on the US Geological Survey website:
+  Algae of Pulley Ridge](http://coastal.er.usgs.gov/pulley-ridge/coralline-algael) on the US Geological Survey website:
   photos of some coralline algae
 
 **References**
@@ -113,15 +113,15 @@ Amphiroa rigida*
   Centre. 128 pages.
 - Calumpong,
   H. P. & Menez, E. G., 1997.*[Field
-  Guide to the Common Mangroves, Seagrasses and Algae of the Philippines](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FField-common-mangroves-seagrasses-Philippines%2Fdp%2F9715691978%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175577689%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1).
+  Guide to the Common Mangroves, Seagrasses and Algae of the Philippines](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FField-common-mangroves-seagrasses-Philippines%2Fdp%2F9715691978%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175577689%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1).
   Bookmark, Inc., the Philippines. 197 pp.
 - Huisman,
   John M. 2000. *[Marine
-  Plants of Australia](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FMarine-Plants-Australia-John-Huisman%2Fdp%2F1876268336%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580260%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*
+  Plants of Australia](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FMarine-Plants-Australia-John-Huisman%2Fdp%2F1876268336%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580260%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*
   University of Western Australia Press. 300pp.
 - Trono, Gavino.
   C. Jr., 1997. *[Field
-  Guide and Atlas of the Seaweed Resources of the Philippines.](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FField-guide-seaweed-resources-Philippines%2Fdp%2F9715692524%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1176262450%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
+  Guide and Atlas of the Seaweed Resources of the Philippines.](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FField-guide-seaweed-resources-Philippines%2Fdp%2F9715692524%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1176262450%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
   Bookmark, Inc., the Philippines. 306 pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
@@ -135,9 +135,9 @@ in Singapore**
 [Nature's Niche](http://www.naturesniche.com/)   
 books, gifts, optics
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

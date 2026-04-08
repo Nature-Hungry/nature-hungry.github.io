@@ -4,20 +4,7 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "bryozoan, lace, moss, animal, bryozoa, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
+ 
 
 **Bryozoans  
 Phylum Bryozoa**  
@@ -106,7 +93,7 @@ Some of these chemicals are being studied for human medical applications.
 A bryozoan compound is part of the drug bryostatin which is being
 tested as an anti-cancer drug.
 *![](glass/111030skdd3345m3.jpg)*[Glassy
-branching bryozoans](glass.htm) *Pulau Sekudu, Oct 11*
+branching bryozoans](glass) *Pulau Sekudu, Oct 11*
 *![](bryozoannoid/130822cjd1835m3.jpg)  
 Chek Jawa, Aug 13*
 *![](bryozoannoid/130822cjd1835m3a.jpg)*Growing on a living horseshoe crab.
@@ -158,15 +145,15 @@ Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=
 **Links**  
 
 - [Moss
-  animals (Phylum Ectoprocta=Bryozoa)](http://mangrove.nus.edu.sg/pub/seashore/text/129.htm)
+  animals (Phylum Ectoprocta=Bryozoa)](http://mangrove.nus.edu.sg/pub/seashore/text/129)
   Tan, Leo W. H. & Ng, Peter K. L., 1988, *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [Flowers
-  of the Sea: Bryozoans](http://www.microscopy-uk.org.uk/mag/artmay01/bryozoan.html) by Jean-Marie Cavanihac on the Microscopy
+  of the Sea: Bryozoans](http://www.microscopy-uk.org.uk/mag/artmay01/bryozoanl) by Jean-Marie Cavanihac on the Microscopy
   UK website: fact sheet on bryozoans with lots of lovely super
   close look at tiny bryozoans.
-- [Bryozoa](http://www.ucmp.berkeley.edu/bryozoa/bryozoa.html) on the Museum of Paleontology, University of California, Berkeley
+- [Bryozoa](http://www.ucmp.berkeley.edu/bryozoa/bryozoal) on the Museum of Paleontology, University of California, Berkeley
   website: details with photos.
 
 **References**
@@ -182,9 +169,9 @@ Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=
   of the Invertebrates*.
   5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

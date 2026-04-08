@@ -4,27 +4,14 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "solitary, tube, worm, tubeworm, diopatra, sbristle, polychaete, annelida, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 worms
-[text index](../wormindex.htm) | [photo
-index](../wormfi.htm)
+[text index](../wormindex) | [photo
+index](../wormfi)
 
-[worms](../worm.htm) > Phylum Annelida >
-Class [Polychaeta](polychaeta.htm)
+[worms](../worm) > Phylum Annelida >
+Class [Polychaeta](polychaeta)
 
 **Solitary
 tubeworm  
@@ -42,13 +29,13 @@ are usually spaced apart from one another.
   
 **What are solitary tubeworms?** Solitary
 tubeworms are segmented bristleworms belonging to the Family Onuphidae,
-Class [Polychaeta](polychaeta.htm), Phylum Annelida. The
+Class [Polychaeta](polychaeta), Phylum Annelida. The
 polychaetes include bristleworms, and Phylum Annelida includes the
 more familiar earthworm. Most members of the Family Onuphidae build
 tubes. Some of them carry the tubes around, others are stationary
 but can leave their tubes. Not all tubeworms are polychaetes and not
 all polychaetes are tubeworms. More about [tubeworms
-in general](../tubeworm/tubeworms.htm).  
+in general](../tubeworm/tubeworms).  
   
 **Features:** The solitary tubeworm
 makes a tube 1cm in diameter. The tube can be quite long, but usually
@@ -142,11 +129,11 @@ by Michell Ng.
 ![](diopatra/081115chg7842m3a.jpg)  
 More photos of
 these worms   
- [out of their tubes](long.htm).
+ [out of their tubes](long).
 
 ---
 
-*![](diopatra/110611cjlks.JPG)*Being eaten by a mudskipper *Chek Jawa, Jun 11*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2011/06/great-day-guiding-at-chek-jawa.html).
+*![](diopatra/110611cjlks.JPG)*Being eaten by a mudskipper *Chek Jawa, Jun 11*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2011/06/great-day-guiding-at-chek-jawal).
 
 ![](diopatra/251010blytl5.jpg)  
 *Berlayar Creek, Oct 25*Photo shared by Tammy Lim on [facebook](https://www.facebook.com/media/set/?set=a.10163226156649264&type=3&ref=embed_post).
@@ -161,11 +148,11 @@ and identification of the worm out of the tube!
 **Links**  
 
 - [Tube
-  worms](http://mangrove.nus.edu.sg/guidebooks/text/2007.htm) Ng, Peter K. L. & N. Sivasothi, 1999. *[A
+  worms](http://mangrove.nus.edu.sg/guidebooks/text/2007) Ng, Peter K. L. & N. Sivasothi, 1999. *[A
   Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
   Singapore Science Centre. 168 pp.
 - [Family
-  Onuphidae](http://rmbr.nus.edu.sg/polychaete/Onuphidae.html) from [A
+  Onuphidae](http://rmbr.nus.edu.sg/polychaete/Onuphidael) from [A
   Guide to Singapore Polychaetes](http://rmbr.nus.edu.sg/polychaete/) by Lim Yun Ping 1997-2000 on
   the Raffles Museum of Biodiversity Research website: fact sheets
   and photos of tubeworms found in Singapore.
@@ -190,14 +177,4 @@ and identification of the worm out of the tube!
   (Ed.) et al. 2000. *Polychaetes and Allies: The Southern Synthesis*
   Australian Biological Resources Study, Canberra. 465pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

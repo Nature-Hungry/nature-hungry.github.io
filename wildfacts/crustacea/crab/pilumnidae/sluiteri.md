@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "crab, hairy, crustacea, pilumnus, sluiteri, pilumnidae, decapod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> Brachyurans > Family [Pilumnidae](pilumnidae.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> Brachyurans > Family [Pilumnidae](pilumnidae)
 **Fuzzy reef crab** ***Pilumnus sluiteri***  
 **Family Pilumnidae***updated
 Dec 2019*
@@ -39,7 +39,7 @@ oval, body and legs covered with sparse fuzz. Walking legs quite long, sparsely 
 pincers, with black tips. Eyes bright
 red.   
   
-**Sometimes mistaken for** the [Ferocious reef crab](../eriphiidae/ferox.htm) which is found in the same habitat and also also has red eyes but is not fuzzy.
+**Sometimes mistaken for** the [Ferocious reef crab](../eriphiidae/ferox) which is found in the same habitat and also also has red eyes but is not fuzzy.
 ![](sluiteri/060714rlhg6649m3.jpg)  
 *Raffles Lighthouse, Jul 06*
 
@@ -83,7 +83,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 *![](sluiteri/100515sjilks6m3.jpg)*  
  *St. John's Island, May 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/05/colourful-st-johns-reef.html).
+blog](http://wondercreation.blogspot.com/2010/05/colourful-st-johns-reefl).
 
 *![](sluiteri/230831sjiaks2.jpg)*  
  *St. John's Island, Aug 23*Photo shared by Arjun Sai Krishnan on [facebook](https://www.facebook.com/photo/?fbid=3489512664632130&set=a.3489518747964855).
@@ -101,9 +101,9 @@ blog](http://wondercreation.blogspot.com/2010/05/colourful-st-johns-reef.html).
 **Acknowledgement**  
 Grateful thanks to Ondrej Radosta for checking with Prof Peter Ng of the Lee Kong Chian Natural History Museum for the identity of this crab.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

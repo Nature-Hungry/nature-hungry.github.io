@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "striped, catfish, cat, fish, siluriformes, plotosidae, plotosus, lineatus, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Plotosidae](plotosidae.htm)
+> Subphylum Vertebrate > [fishes](../fish) >
+Family [Plotosidae](plotosidae)
 **Striped
 eeltail catfish  
 *Plotosus lineatus*  
@@ -53,7 +53,7 @@ the body. The white or pale yellow stripes are bright in young fishes
 and may be faded in old adults.   
   
 **Sometimes confused with** [Black
-eeltail catfishes](canius.htm) (*Plotosus canius*). The adults of these
+eeltail catfishes](canius) (*Plotosus canius*). The adults of these
 two eeltail catfishes may appear similar as the stripes on the Striped
 eeltail catfish fades with age. In Black eeltail catfish adults, the
 long barbels at the top of the snout can extend past the eyes. In
@@ -61,9 +61,9 @@ adult Striped eeltail catfishes, these barbels don't extend past the
 eyes.   
   
 **Sometimes mistaken for** [sea
-snakes](../../snakes/hydrophiidae/laticauda.htm) or [eels](../muraenidae/muraenidae.htm) (Family
+snakes](../../snakes/hydrophiidae/laticauda) or [eels](../muraenidae/muraenidae) (Family
 Muraenidae). Here's more on [how
-to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake.htm).
+to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake).
 ![](lineatus/040919sntd7020m3a.jpg)  
 'Whiskers'
 (barbels) at the top of the snout   
@@ -164,11 +164,11 @@ flickr](http://www.flickr.com/photos/koksheng/5473233321/in/datetaken/).
 *![](lineatus/100528tkklks1m3.jpg)  
 Pulau Tekukor, May 10*Photo
 shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/05/my-first-trip-to-pulau-tekukor.html).
+blog](http://wondercreation.blogspot.com/2010/05/my-first-trip-to-pulau-tekukorl).
 
 *![](lineatus/090509sislks2m3.jpg)* *Sisters Island, May 09*Photo
 shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/05/back-to-big-sisters.html).
+blog](http://wondercreation.blogspot.com/2009/05/back-to-big-sistersl).
 
 *![](lineatus/210429hntns1.jpg)*  
 *Pulau Hantu,
@@ -207,7 +207,7 @@ Hantu in Apr 10
 **Links**  
 
 - [Striped
-  eeltail catfish (*Plotosus lineatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/226.htm) Lim, Kelvin K.
+  eeltail catfish (*Plotosus lineatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/226) Lim, Kelvin K.
   P. & Jeffrey K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
@@ -239,9 +239,9 @@ Hantu in Apr 10
   Reef Fishes of the World*
   Periplus Editions. 400pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

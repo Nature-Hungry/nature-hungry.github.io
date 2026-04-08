@@ -4,24 +4,11 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "acoel, flat, worm, flatworm, acoela, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 flatworms [text
-index](../wormindex.htm) | [photo index](../polycladidafi.htm)
-[worms](../worm.htm)
+index](../wormindex) | [photo index](../polycladidafi)
+[worms](../worm)
 **Acoel
 worms  
 *awaiting identification*Order Acoela***updated Oct 2016*
@@ -30,11 +17,11 @@ worms
 
  **Where
 seen?** These tiny flattened worms are often seen on other
-animals, usually [cnidarians](../../cnidaria/cnidaria.htm) such as [hard corals](../../cnidaria/coralhard/coralhard.htm) of various species and [corallimorphs](../../cnidaria/others/corallimorphs/corallimorph.htm).  
+animals, usually [cnidarians](../../cnidaria/cnidaria) such as [hard corals](../../cnidaria/coralhard/coralhard) of various species and [corallimorphs](../../cnidaria/others/corallimorphs/corallimorph).  
   
 **What are aceol flatworms?** They
 are unsegmented worms that belong to Class Acoela. Some put them in
-Phylum Platyhelminthes like the other larger [flatworms](../polycladida/polycladida.htm).  
+Phylum Platyhelminthes like the other larger [flatworms](../polycladida/polycladida).  
   
 **Features:** 1cm long or less. Often
 circular in shape and brown, sometimes with a white stripe or short
@@ -47,7 +34,7 @@ by the host animals that they are found on.
   
 **What eats them?** Among their predators
 are [tailed
-slugs](../../mollusca/slugs/cephalaspidea/cephalaspidea.htm) (Family Aglajidae).
+slugs](../../mollusca/slugs/cephalaspidea/cephalaspidea) (Family Aglajidae).
 *![](acoela/111029smkd2994m3.jpg)*A hard coral thickly covered   
 with acoel worms. *Pulau Semakau, Oct 11*
 *![](acoela/111029smkd3000m3a.jpg)  
@@ -56,12 +43,12 @@ Pulau Semakau, Oct 11*
 
 *![](acoela/031223tused0053m3b.jpg)*  
 On [Small
-goniopora coral](../../cnidaria/coralhard/poritidae/gonsmall.htm).  
+goniopora coral](../../cnidaria/coralhard/poritidae/gonsmall).  
 *Tuas, Dec 03*
 
 *![](acoela/110802smkd8294m3.jpg)*  
 On [Anemone
-coral](../../cnidaria/coralhard/poritidae/gonbig.htm). *Pulau Semakau, Aug 11*
+coral](../../cnidaria/coralhard/poritidae/gonbig). *Pulau Semakau, Aug 11*
 
 ---
 
@@ -81,11 +68,11 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 ---
 
 *![](acoela/151225tsmktch3m3.jpg)*  
-On [Button zoanthid](../../cnidaria/others/zoanthid/zoanthus.htm).  
+On [Button zoanthid](../../cnidaria/others/zoanthid/zoanthus).  
 *Terumbu Semakau, Dec 15*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/media_set?set=a.10153848779733713.1073741996.619308712&type=3&pnref=story).
 
 *![](acoela/250515tpttl2.jpg)*  
-On [Leathery soft coral](../../cnidaria/coralsoft/alcyoniidae.htm) *Terumbu Pempang Tengah, May 25*Photo shared by Tammy Lim on [facebook](https://www.facebook.com/media/set/?set=a.10162492941969264&type=3&ref=embed_post).
+On [Leathery soft coral](../../cnidaria/coralsoft/alcyoniidae) *Terumbu Pempang Tengah, May 25*Photo shared by Tammy Lim on [facebook](https://www.facebook.com/media/set/?set=a.10162492941969264&type=3&ref=embed_post).
  
 
 ---
@@ -101,14 +88,4 @@ On [Leathery soft coral](../../cnidaria/coralsoft/alcyoniidae.htm) *Terumbu Pemp
   Flatworms: The World of Polyclads![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
   CSIRO Publishing. 97pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

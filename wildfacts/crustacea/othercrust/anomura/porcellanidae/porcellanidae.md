@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "porcelain, crab, porcellanidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../../wildfactsheet3.gif)](../../../../index.html)
+[![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../../index.html)  
+[wildfactsheets homepage](../../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../../animals.htm)
-| [all plants](../../../../plants.htm)
-| [concepts](../../../../concepts/index.html)
-| [glossary](../../../../glossary/index.html)
-| [search](../../../../search.htm)
+[all animals](../../../../animals)
+| [all plants](../../../../plants)
+| [concepts](../../../../concepts/indexl)
+| [glossary](../../../../glossary/indexl)
+| [search](../../../../search)
 
 porcelain crabs
-[text index](../../../crustaceaindex.htm#anomurans) | [photo
-index](../../../crabfi1b.htm)
-Phylum [Arthropoda](../../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../../crustacea.htm) >
-Class Malacostraca > Order [Decapoda](../../../decapoda.htm)
+[text index](../../../crustaceaindex#anomurans) | [photo
+index](../../../crabfi1b)
+Phylum [Arthropoda](../../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../../crustacea) >
+Class Malacostraca > Order [Decapoda](../../../decapoda)
 > Anomurans
 **Porcelain
 crabs**   
@@ -48,8 +48,8 @@ our rocky shores, scattering in all directions as a stone is lifted.
 Some porcelain crabs live on or with other larger animals.  
   
 **What are porcelain crabs?** Porcelain
-crabs belong to the subgroup Anomura of the Order [Decapoda](../../../decapoda.htm).
-Anomurans includes [hermit crabs](../hermit/hermit.htm).
+crabs belong to the subgroup Anomura of the Order [Decapoda](../../../decapoda).
+Anomurans includes [hermit crabs](../hermit/hermit).
 Porcelain crabs belong to Family Porcellanidae. **Features:** Body width 1cm or less. Body and pincers really
 flat, giving them a cartoonish appearance. But this form allows them
 to squeeze into nooks and crannies, and shelter in narrow places like
@@ -80,7 +80,7 @@ porcelain crab tends to shed limbs if stressed, hence its common name.
 This is a useful trait, in case a limb is trapped between rocks shifting
 in the currents, or grabbed by a predator. A dropped pincer may continue
 to move, to distract the predator while the owner makes its getaway.
-The lost limb eventually re-grows with subsequent [moults](../../../moulting.htm),
+The lost limb eventually re-grows with subsequent [moults](../../../moulting),
 but this takes time.   
   
 **Not a true crab!** The porcelain
@@ -112,8 +112,8 @@ develop into miniatures of their parents.
 **Role in the habitat:** Some porcelain
 crabs live with other animals. One kind of porcelain crab lives on
 a [sea
-pen](../../../../cnidaria/others/pennatulacea/pennatulacea.htm). Elsewhere, there are porcelain crabs that live in [a
-shell occupied by a hermit crab](../hermit/clibanarius.htm), with tubeworms, in the siphons
+pen](../../../../cnidaria/others/pennatulacea/pennatulacea). Elsewhere, there are porcelain crabs that live in [a
+shell occupied by a hermit crab](../hermit/clibanarius), with tubeworms, in the siphons
 of bivalves, among the tentacles of sea anemones, on or inside sponges,
 or up the backside of a sea cucumber!   
   
@@ -131,19 +131,19 @@ crabs on Singapore shores**
 ---
 
 **![](petrolisthes/120818lazd0353m3.jpg)  
-[Big porcelain crab](petrolisthes.htm)**
+[Big porcelain crab](petrolisthes)**
 
 **![](tinystone/080521chgd3524m3.jpg)  
-[Tiny brown porcelain crab](tinystone.htm)**
+[Tiny brown porcelain crab](tinystone)**
 
 ---
 
-***![](hermit/050315cjd1820m3.jpg)*[Hermit porcelain crab](hermit.htm)**
+***![](hermit/050315cjd1820m3.jpg)*[Hermit porcelain crab](hermit)**
 
-***![](../../../../cnidaria/others/pennatulacea/spiky/040716chgd2523m3.jpg)* [Painted porcelain crab](picta.htm)**
+***![](../../../../cnidaria/others/pennatulacea/spiky/040716chgd2523m3.jpg)* [Painted porcelain crab](picta)**
 
 **![](commensal/110715cyrd6659m3.jpg)  
-[Commensal porcelain crabs](commensal.htm)**
+[Commensal porcelain crabs](commensal)**
 
 ---
 
@@ -172,8 +172,8 @@ are difficult to positively identify without close examination.
 On this website, they are grouped by external features for convenience
 of display.* 
  
-[Hermit porcelain crab](hermit.htm)  
-[Tiny brown porcelain crab](tinystone.htm) [Commensal porcelain crabs](commensal.htm)
+[Hermit porcelain crab](hermit)  
+[Tiny brown porcelain crab](tinystone) [Commensal porcelain crabs](commensal)
   
  
 **Family
@@ -182,7 +182,7 @@ Porcellanidae**
 *++Aliaporcellana telestophila*  
   
 *Eulanaios
-cometes* (EN: Endangered) *++Lissoporcellana* sp. *Pachycheles sculptus* **[*Petrolisthes* sp.](petrolisthes.htm)
+cometes* (EN: Endangered) *++Lissoporcellana* sp. *Pachycheles sculptus* **[*Petrolisthes* sp.](petrolisthes)
 (Big porcelain crab) with species recorded in Singapore**  
  *Polyonyx biunguiculatus  
 +Polyonyx heok
@@ -198,7 +198,7 @@ Porcellana quadrilobata=^Lissoporcellana quadrilobata
 Porcellana streptochiroides  
 Porcellana corallicola=^Enosteoides ornatus  
   
-[Porcellanella picta=^Porcellanella triloba](picta.htm)*(Painted porcelain crab) (VU: Vulnerable) *Pseudoporcellanella manoliensis*
+[Porcellanella picta=^Porcellanella triloba](picta)*(Painted porcelain crab) (VU: Vulnerable) *Pseudoporcellanella manoliensis*
 (False porcelain crab) (VU: Vulnerable) *Raphidopus ciliatus* (VU: Vulnerable) *Raphidopus johnsoni*
 
 ---
@@ -206,12 +206,12 @@ Porcellana corallicola=^Enosteoides ornatus
 **Links**
 
 - [Porcelain
-  Crab (*Petrolisthes*)](http://mangrove.nus.edu.sg/pub/seashore/text/184.htm) Tan, Leo W. H. & Ng, Peter K. L.,
+  Crab (*Petrolisthes*)](http://mangrove.nus.edu.sg/pub/seashore/text/184) Tan, Leo W. H. & Ng, Peter K. L.,
   1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [Mangrove
-  porcelain crab (*Petrolisthes kranjiensis*)](http://mangrove.nus.edu.sg/guidebooks/text/2066.htm) Ng, Peter
+  porcelain crab (*Petrolisthes kranjiensis*)](http://mangrove.nus.edu.sg/guidebooks/text/2066) Ng, Peter
   K. L. & N. Sivasothi, 1999. *[A
   Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
   Singapore Science Centre. 168 pp.
@@ -256,9 +256,9 @@ Porcellana corallicola=^Enosteoides ornatus
   exclusive of the vertebrates*
   Sea Challengers. 314pp.
 
-[links](../../../../links.htm)
-| [references](../../../../references.htm)
-| [about](../../../../about.htm)
+[links](../../../../links)
+| [references](../../../../references)
+| [about](../../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

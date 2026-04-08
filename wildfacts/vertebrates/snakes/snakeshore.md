@@ -4,24 +4,11 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "water, snake, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 snakes
-[text index](snakeindex.htm) | [photo
-index](snakeshorefi.htm)
+[text index](snakeindex) | [photo
+index](snakeshorefi)
 Phylum Chordata
 > Subphylum Vertebrata > Class Reptilia
 **Snakes
@@ -58,9 +45,9 @@ in deeper waters and far out in the ocean.
 snake features:** Snakes on our shores are well adapted to
 their habitats, some are so well adapted that they can no longer move
 easily on land. Some, like the [Yellow-lipped
-sea krait](laticauda.htm) (*Laticauda colubrina*) has a paddle-like tail
+sea krait](laticauda) (*Laticauda colubrina*) has a paddle-like tail
 to swim with. Others, like the [Banded file
-snake](granulatus.htm) (*Acrochordus granulatus*) have a loose granulated
+snake](granulatus) (*Acrochordus granulatus*) have a loose granulated
 skin to better grasp slippery fish.   
   
 Like other land snakes, the snakes on our shores have scales. Although
@@ -77,7 +64,7 @@ control. Some of these snakes can also take in air through the skin.
 **Sometimes confused with** eels and
 other long fishes. Unlike fish, snakes do not have gills. Here's more
 on how to tell apart [sea snakes,
-eels and eel-like animals.](../../glossary/eelsnake.htm)  
+eels and eel-like animals.](../../glossary/eelsnake)  
   
 **Are our shore snakes dangerous?**
 Snakes that live in the sea include some with the most potent venom.
@@ -87,7 +74,7 @@ touch it, it will not harm you.
   
 **What do they eat?** Generally, snakes
 on our shores eat mostly fish. The favourite prey of the [Yellow-lipped
-sea krait](laticauda.htm) (*Laticauda colubrina*), for example, is eel! But
+sea krait](laticauda) (*Laticauda colubrina*), for example, is eel! But
 as a group, they eat a variety of prey including crabs, prawns and
 other animals. Some specialise in a particular kind of prey.  
   
@@ -103,23 +90,23 @@ dogma" is that sea snakes drink seawater, with internal salt glands
 filtering and excreting the salt. In fact, the snakes' salt gland
 may help the snakes with ion balance - moving excess salts from the
 bloodstream. [Full
-report](http://wildshores.blogspot.com/2008/11/sea-snakes-sip-freshwater-and-wont.html) on the wild shores of singapore blog.  
+report](http://wildshores.blogspot.com/2008/11/sea-snakes-sip-freshwater-and-wontl) on the wild shores of singapore blog.  
   
 **Water babies:** Most snakes on the
 shores give birth to live young. But the [Yellow-lipped
-sea krait](laticauda.htm) (*Laticauda colubrina*) lays eggs on coral reefs.
+sea krait](laticauda) (*Laticauda colubrina*) lays eggs on coral reefs.
   
 
 ![](cerberus/031128sbwrad0089m3.jpg)  
 The [Dog-faced
-watersnake](cerberus.htm) can be   
+watersnake](cerberus) can be   
 commonly in our mangroves but are   
 only active after dark. *Sungei Buloh Wetland Reserve, Nov 03  
   
-![](laticauda/060415hntd1303m3a.jpg)*The [Yellow-lipped sea krait](laticauda.htm)   
+![](laticauda/060415hntd1303m3a.jpg)*The [Yellow-lipped sea krait](laticauda)   
 is sometimes seen on our reefs. *Pulau Hantu, Apr 06  
   
-![](granulatus/050710skdg9354m3.jpg)*The [Banded file snake](granulatus.htm) is a gentle  
+![](granulatus/050710skdg9354m3.jpg)*The [Banded file snake](granulatus) is a gentle  
 creature sometimes seen in our mangroves. *Pulau Sekudu, Jul 05  
   
 ![](cerberus/070306prpd8806m3.jpg)*Snakes can swallow prey   
@@ -146,7 +133,7 @@ to help it swim in the water. *Sisters Island, Nov 03*
 
 **Marine
 and intertidal snakes on Singapore shores**[text
-index](snakeindex.htm) and [photo index](snakeshorefi.htm) of snakes
+index](snakeindex) and [photo index](snakeshorefi) of snakes
 on this site
 
 ---
@@ -156,16 +143,16 @@ on this site
 - [Singapore
   Snakes blog](http://singaporesnakes.blogspot.com/) fact sheets, checklists, about snaky adventures,
   our snakes in danger, snaky games, cartoons and more!
-- [Snakes](http://www.ecologyasia.com/verts/snakes.htm)
+- [Snakes](http://www.ecologyasia.com/verts/snakes)
   on Nick Baker's excellent [EcologyAsia
   website](http://www.ecologyasia.com/): lots of fact sheets and photos.
 - [Mangrove
-  snakes](http://mangrove.nus.edu.sg/guidebooks/text/2112.htm)
+  snakes](http://mangrove.nus.edu.sg/guidebooks/text/2112)
   Ng, Peter K. L. & N. Sivasothi, 1999. *[A
   Guide to the Mangroves of Singapore Ii (Animal Diversity](http://mangrove.nus.edu.sg/guidebooks/)*[)](http://mangrove.nus.edu.sg/guidebooks/).
   Singapore Science Centre. 168 pp.
 - [Volume
-  6: Sea snakes](http://www.fao.org/docrep/009/x2401e/x2401e00.htm) by A. R. Rasmussen, edited by Kent E. Carpenter
+  6: Sea snakes](http://www.fao.org/docrep/009/x2401e/x2401e00) by A. R. Rasmussen, edited by Kent E. Carpenter
   and Volker H. Niem FAO Species Identification Guide for Fishery
   Purposes: The Living Marine Resources of the Western Central Pacific
   on the Food and Agriculture Organization of the United Nations
@@ -173,11 +160,11 @@ on this site
 - From the
   wild shores of singapore blog
   - [Why
-    are marine snakes banded?](http://feedproxy.google.com/%7Er/WildShoresOfSingapore/%7E3/Xx-5LA6y7O0/why-are-marine-snakes-banded.html)
+    are marine snakes banded?](http://feedproxy.google.com/%7Er/WildShoresOfSingapore/%7E3/Xx-5LA6y7O0/why-are-marine-snakes-bandedl)
   - [Sea
-    snakes sip freshwater and won't touch seawater](http://wildshores.blogspot.com/2008/11/sea-snakes-sip-freshwater-and-wont.html)
+    snakes sip freshwater and won't touch seawater](http://wildshores.blogspot.com/2008/11/sea-snakes-sip-freshwater-and-wontl)
   - [Snake
-    tricks fishes to swim into its mouth](http://wildshores.blogspot.com/2009/07/snake-tricks-fishes-to-swim-into-its.html)
+    tricks fishes to swim into its mouth](http://wildshores.blogspot.com/2009/07/snake-tricks-fishes-to-swim-into-itsl)
 
 **References**
 
@@ -194,14 +181,4 @@ on this site
   Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular
   Malaysia and Singapore* New Holland.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

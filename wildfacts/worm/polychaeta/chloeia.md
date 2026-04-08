@@ -4,27 +4,14 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "chloeia, flava, fire, worm, fireworm, bristleworm, polychaete, annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 worms
-[text index](../wormindex.htm) | [photo
-index](../wormfi.htm)
+[text index](../wormindex) | [photo
+index](../wormfi)
 
-[worms](../worm.htm) > Phylum Annelida >
-Class [Polychaeta](polychaeta.htm)
+[worms](../worm) > Phylum Annelida >
+Class [Polychaeta](polychaeta)
 
 **Beautiful
 fireworm*****Chloeia* sp.   
@@ -41,7 +28,7 @@ Although it is among the most beautiful of our worms, its bristles
 can give a nasty and painful rash. Don't touch them.  
   
 **What is a fire worm?** It is a segmented
-bristleworm belonging to the Family Amphinomidae, Class [Polychaeta](polychaeta.htm),
+bristleworm belonging to the Family Amphinomidae, Class [Polychaeta](polychaeta),
 Phylum Annelida. The polychaetes include bristleworms, and Phylum
 Annelida includes the more familiar earthworm. Many members of the
 Family Amphinomidae are known as fireworms because of the burning
@@ -131,14 +118,14 @@ History Museum of Los Angeles County](http://www.nhm.org/) for comments about th
 worms. and identification of *Chloeia flava*. **Links**  
 
 - [Segmented
-  worms including *Chloeia* sp.](http://mangrove.nus.edu.sg/pub/seashore/text/126.htm) Tan, Leo W. H. & Ng, Peter
+  worms including *Chloeia* sp.](http://mangrove.nus.edu.sg/pub/seashore/text/126) Tan, Leo W. H. & Ng, Peter
   K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
-- [Family Amphinomidae](http://lkcnhm.nus.edu.sg/polychaete/Amphinomidae.html) by Lim Yun Ping 1997-2000 [A
+- [Family Amphinomidae](http://lkcnhm.nus.edu.sg/polychaete/Amphinomidael) by Lim Yun Ping 1997-2000 [A
   Guide to Singapore Polychaetes](http://rmbr.nus.edu.sg/polychaete/).
 - [*Chloeia
-  flava*](http://www.sealifebase.org/summary/Chloeia-flava.html) on SeaLife Base: Technical fact sheet.
+  flava*](http://www.sealifebase.org/summary/Chloeia-flaval) on SeaLife Base: Technical fact sheet.
 
 **References**
 
@@ -154,14 +141,4 @@ worms. and identification of *Chloeia flava*. **Links**
   Toxin Research Group, Faculty of Medicine, National University
   of Singapore. 156 pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "cucumber, seacucumber, actinopyga, holothuriidae, holothuroidae, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 sea
-cucumbers [text index](../echinodermindex.htm#holothuroidea)
-| [photo index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class [Holothuroidea](holothuroidea.htm)
+cucumbers [text index](../echinodermindex#holothuroidea)
+| [photo index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
+> Class [Holothuroidea](holothuroidea)
 **Kumquat
 sea cucumber** ***Actinopyga* sp.  
 Family Holothuriidae**  
@@ -72,7 +59,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ![](kumquat/090309cyrlks04m3.jpg)  
 *Cyrene Reef, Mar 09*![](kumquat/090309cyrlks04m3a.jpg)Shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/03/cyrene-never-fails-to-amaze.html).
+blog](http://wondercreation.blogspot.com/2009/03/cyrene-never-fails-to-amazel).
 
 ![](kumquat/130525tsmklks1.JPG)  
 *Terumbu Semakau, May 13*![](kumquat/130525tsmklks2.JPG)Shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/14175809044/in/album-72157624104220316/).
@@ -95,7 +82,7 @@ Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng
 ![](kumquat/140617tblks2m3.JPG)  
 *Terumbu Bemban, Jun 14*  
 Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2014/06/coral-bleaching-check-at-terumbu-bemban.html).
+blog](http://wondercreation.blogspot.sg/2014/06/coral-bleaching-check-at-terumbu-bembanl).
 
 ![](kumquat/230221tryrk1.jpg)  
 *Terumbu Raya, Feb 23*  
@@ -114,14 +101,4 @@ Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng
   Guide to Sea Stars and Other Echinoderms of Singapore*.
   Singapore Science Centre. 187pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

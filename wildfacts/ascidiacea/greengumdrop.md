@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
+ 
 
 ascidians
-[text index](ascidiaceaindex.htm) | [photo
-index](ascidiaceafi.htm)
+[text index](ascidiaceaindex) | [photo
+index](ascidiaceafi)
 Phylum Chordata
-| Subphylum Tunicata/Urochordata | Class [Ascidiacea](ascidiacea.htm)
+| Subphylum Tunicata/Urochordata | Class [Ascidiacea](ascidiacea)
 **Green
 gum drops ascidians  
 *Diplosoma* sp.Family Didemnidae** *updated Nov 2019*
@@ -40,7 +27,7 @@ long. Flat, irregular shapes with rounded margins so that each shape
 resembles a gum drop. Each shape appears to be made up of many individual
 zooids embedded in a common tissue. The shapes are arranged higgledy-piggledy
 in crowded clusters on seagrasses such as [Tape
-seagrass](../plants/seagrass/enhalus.htm) (*Enhalus acoroides*), seaweeds as well as on coral
+seagrass](../plants/seagrass/enhalus) (*Enhalus acoroides*), seaweeds as well as on coral
 rubble.  
   
 It's hard to identify ascidians without close examination of small
@@ -60,13 +47,13 @@ May 07![](greengumdrop/070505kusg9099m3a.jpg)*
 ---
 
 ![](greengumdrop/050309smkg3139m3.jpg)  
-Growing on [Tape seagrass](../plants/seagrass/enhalus.htm) *Pulau Semakau, Mar 05*
+Growing on [Tape seagrass](../plants/seagrass/enhalus) *Pulau Semakau, Mar 05*
 
 ![](greengumdrop/050309smkg3143m3.jpg)  
-Growing on [Tape seagrass](../plants/seagrass/enhalus.htm) *Pulau Semakau, Mar 05*
+Growing on [Tape seagrass](../plants/seagrass/enhalus) *Pulau Semakau, Mar 05*
 
 ![](greengumdrop/080722cyrd8227m3.jpg)  
-Growing on [Noodle seagrass](../plants/seagrass/syringodium.htm) *Cyrene Reef, Jul 08*
+Growing on [Noodle seagrass](../plants/seagrass/syringodium) *Cyrene Reef, Jul 08*
 
   
 *\***Species
@@ -131,9 +118,9 @@ Grateful thanks to Rene Ong for pointing out the identification of these animals
 
 - [*Diplosoma* sp. 1](https://singapore.biodiversity.online/species/A-Tunicata-000152) and [*Diplosoma* sp. 2](https://singapore.biodiversity.online/species/A-Tunicata-000153) and [Didemnidae sp. 27](https://singapore.biodiversity.online/species/A-Tunicata-000216) and [Didemnidae sp. 29](https://singapore.biodiversity.online/species/A-Tunicata-000218) and [Didemnidae sp. 31](https://singapore.biodiversity.online/species/A-Tunicata-000223) on The Biodiversity of Singapore website of the Lee Kong Chian Natural History Museum.
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

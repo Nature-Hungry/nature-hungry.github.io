@@ -4,28 +4,15 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "orange, fan, worm, fanworm, sabellid, sabellidae, polychaete, annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 worms
-[text index](../wormindex.htm) | [photo
-index](../wormfi.htm)
+[text index](../wormindex) | [photo
+index](../wormfi)
 
-[worms](../worm.htm) > Phylum Annelida >
-Class [Polychaeta](polychaeta.htm)
-> Order Sabellida > Family [Sabellidae](sabellidae.htm)
+[worms](../worm) > Phylum Annelida >
+Class [Polychaeta](polychaeta)
+> Order Sabellida > Family [Sabellidae](sabellidae)
 
 **Orange
 fanworm**  
@@ -40,12 +27,12 @@ seen?** This orange
 fanworm is commonly encountered on our Northern shores, and sometimes
 also on our Southern shores. Usually in dead coral or coral rubble
 and seldom in living corals. It is not as commonly encountered as
-the [banded fanworms](sabbanded.htm) which are usually
+the [banded fanworms](sabbanded) which are usually
 found in living corals.  
   
 **Features:** Fan 4-6cm in diameter.
 The fan is orange or yellowish, sometimes with portions that are paler
-or white. Some have white bands and might be a paler version of the [banded fanworms](sabbanded.htm). Usually found alone,
+or white. Some have white bands and might be a paler version of the [banded fanworms](sabbanded). Usually found alone,
 rarely a few next to one another.
 ![](sabellidae/orange/060809skdd5505m3.jpg) *Pulau Sekudu, Jul 07*
 
@@ -82,7 +69,7 @@ shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159
 *Seringat-Kias,
 Jun 09*Photo
 shared by Liana Tang on [her
-blog](http://nearly-lucid.blogspot.com/2009/07/life-in-man-made-bay-on-lazarus-island.html).
+blog](http://nearly-lucid.blogspot.com/2009/07/life-in-man-made-bay-on-lazarus-islandl).
 
 *![](sabellidae/orange/250909lazlks9.jpg)  
 Seringat-Kias mangrove lagoon, Sep 25*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163254114628158&type=3&ref=embed_post).
@@ -121,14 +108,4 @@ Jun 10*
 
 [non-fluorescing orange fan worm @ sekudu - Oct2011](https://vimeo.com/31487568) from [SgBeachBum](https://vimeo.com/sgbeachbum) on [Vimeo](https://vimeo.com).
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

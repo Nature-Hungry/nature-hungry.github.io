@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "seaslater, slater, ligia, ligiidae, isopod, crustacea,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 sea slaters [text
-index](../../crustaceaindex.htm#isopoda) | [photo index](../../othercrustfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
+index](../../crustaceaindex#isopoda) | [photo index](../../othercrustfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
 Malacostraca > Order Isopoda
 **Sea
 slaters**   
@@ -45,8 +45,8 @@ almost all our shores, often swarming in large numbers at low tide.
 They are common on rocky shores, also among mangroves.  
   
 **What are sea slaters?** Sea slaters
-are sometimes called sea cockroaches. Although sea slaters are also [arthropods](../../../arthropoda/arthropoda.htm), they
-are not insects! They are [crustaceans](../../crustacea.htm) like crabs and prawns; but are very happy out of water. **Features:** 2-3cm. Sea slaters have seven pairs of legs and
+are sometimes called sea cockroaches. Although sea slaters are also [arthropods](../../../arthropoda/arthropoda), they
+are not insects! They are [crustaceans](../../crustacea) like crabs and prawns; but are very happy out of water. **Features:** 2-3cm. Sea slaters have seven pairs of legs and
 move very fast! They have huge eyes and very long antennae. They are
 well adapted for life out of water, breathing air directly through
 'pseudo-lungs'.
@@ -101,7 +101,7 @@ Pulau Ubin OBS, Jan 16*Photo shared by Marcus Ng on [facebook](https://www.faceb
 *![](ligia/210822ssisvc3.jpg)  
 Small Sisters Island, Aug 21*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=10158648322517945&set=a.10158648464857945).
 
-*![](ligia/090510hntmn.jpg)*Captured by a [Purple climbing crab](../../crab/grapsidae/metopograpsus.htm). *Pulau Hantu May 09*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/3524330760/).
+*![](ligia/090510hntmn.jpg)*Captured by a [Purple climbing crab](../../crab/grapsidae/metopograpsus). *Pulau Hantu May 09*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/3524330760/).
 
 ![](ligia/200822jngjc4.jpg)  
 *Pulau Jong, Aug 20*Photo shared by Joleen Chan on [facebook](https://www.facebook.com/photo?fbid=10158476140771310&set=a.10158476213361310).
@@ -111,22 +111,22 @@ Small Sisters Island, Aug 21*Photo shared by Vincent Choo on [facebook](https://
 **Links**
 
 - [Order
-  Isopoda](http://mangrove.nus.edu.sg/pub/seashore/text/177.htm) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+  Isopoda](http://mangrove.nus.edu.sg/pub/seashore/text/177) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [Mangrove
-  sea slater (*Ligia hawaiiensis*)](http://mangrove.nus.edu.sg/guidebooks/text/2034.htm) Ng, Peter K. L. & N.
+  sea slater (*Ligia hawaiiensis*)](http://mangrove.nus.edu.sg/guidebooks/text/2034) Ng, Peter K. L. & N.
   Sivasothi, 1999. *[A
   Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
   Singapore Science Centre. 168 pp.
-- [*Ligia exotica*](https://singapore.biodiversity.online/taxo4254/mainSpace/Ligia%20exotica.html) (Isopoda: Ligiidae) Sea slater by Tan Yen Yi, 2016, on taxo4254.
+- [*Ligia exotica*](https://singapore.biodiversity.online/taxo4254/mainSpace/Ligia%20exotical) (Isopoda: Ligiidae) Sea slater by Tan Yen Yi, 2016, on taxo4254.
 - [Isopods
-  and amphipods](http://www.mesa.edu.au/friends/seashores/isopods_amphipods.html) and [Marine
-  slater](http://www.mesa.edu.au/friends/seashores/l_australiensis.html) on the [Life
-  on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1.html) by Keith Davey on the Marine Education
+  and amphipods](http://www.mesa.edu.au/friends/seashores/isopods_amphipodsl) and [Marine
+  slater](http://www.mesa.edu.au/friends/seashores/l_australiensisl) on the [Life
+  on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1l) by Keith Davey on the Marine Education
   Society of Australia website: Fact sheet, diagrams.
 - *[Ligia
-  exotica](http://www.sms.si.edu/irlspec/Ligia_exotica.htm)* by
+  exotica](http://www.sms.si.edu/irlspec/Ligia_exotica)* by
   J. Masterson on Smithsonian Marine Station at Fort Pierce.
 
 **References**
@@ -144,9 +144,9 @@ Small Sisters Island, Aug 21*Photo shared by Vincent Choo on [facebook](https://
   S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
   Australian Waters*. Reed New Holland. 224 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

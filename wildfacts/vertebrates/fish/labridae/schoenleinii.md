@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "black, spot, tuskfish, tusk, fish, choerodon, schoenleinii, labridae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Labridae](labridae.htm)
+> Subphylum Vertebrate > [fishes](../fish) >
+Family [Labridae](labridae)
 **Black-spot
 tuskfish**   
 ***Choerodon schoenleinii***  
@@ -97,7 +97,7 @@ Jonathan Tan on [facebook](https://www.facebook.com/media/set/?set=a.10155614374
 **Links**  
 
 - [Black-spot
-  Tuskfish (*Choerodon schoenleinii*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/348.htm) Lim, Kelvin K. P.
+  Tuskfish (*Choerodon schoenleinii*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/348) Lim, Kelvin K. P.
   & Jeffrey K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/).* Singapore
   Science Centre. 163 pp.
@@ -107,7 +107,7 @@ Jonathan Tan on [facebook](https://www.facebook.com/media/set/?set=a.10155614374
   Tuskfish (*Choerodon schoenleinii*)](http://www.fishbase.org/summary/SpeciesSummary.php?id=6433) from [FishBase](http://www.fishbase.org/):
   Technical fact sheet.
 - [Volume
-  6: Bony fishes part 4 (Labridae to Latimeriidae)](http://www.fao.org/docrep/009/y0870e/y0870e00.htm) FAO Species
+  6: Bony fishes part 4 (Labridae to Latimeriidae)](http://www.fao.org/docrep/009/y0870e/y0870e00) FAO Species
   Identification Guide for Fishery Purposes The Living Marine Resources
   of the Western Central Pacific
 
@@ -127,9 +127,9 @@ Jonathan Tan on [facebook](https://www.facebook.com/media/set/?set=a.10155614374
   Reef Fishes of the World*
   Periplus Editions. 400pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

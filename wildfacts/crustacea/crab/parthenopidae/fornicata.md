@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "domed, elbow, crab, cryptopodia, fornicata, parthenopidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> Brachyurans > Family [Parthenopidae](parthenopidae.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> Brachyurans > Family [Parthenopidae](parthenopidae)
 **Domed
 elbow crab**  
 ***Cryptopodia
@@ -88,10 +88,10 @@ Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/741452
 ---
 
 *![](fornicata/130325tsmklks1.JPG)**Terumbu Semakau, Mar 13**![](fornicata/130325tsmklks2.JPG)*  
-Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2013/05/terumbu-semakau-with-southern.html).
+Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2013/05/terumbu-semakau-with-southernl).
 
 *![](fornicata/111126bblks1.JPG)**Beting Bronok**, Nov 11**![](fornicata/111126bblks2.JPG)*  
-Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2011/11/sunny-day-out-at-beting-bronok.html).
+Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2011/11/sunny-day-out-at-beting-bronokl).
 
 *![](fornicata/180714cjtch1.jpg)**Chek Jawa, Jul 18*  
 Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/media_set?set=a.10156654571338713.1073742153.619308712&type=3)..
@@ -100,7 +100,7 @@ Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/me
 
 **Acknowledgement**With
 grateful thanks to [Prof
-Peter K. L. Ng](http://www.dbs.nus.edu.sg/staff/peter.htm) of the Lee Kong Chian Natural History Museum for identifying this crab.  
+Peter K. L. Ng](http://www.dbs.nus.edu.sg/staff/peter) of the Lee Kong Chian Natural History Museum for identifying this crab.  
   
 **Links**
 
@@ -119,9 +119,9 @@ Peter K. L. Ng](http://www.dbs.nus.edu.sg/staff/peter.htm) of the Lee Kong Chian
   Red Data Book: Threatened plants and animals of Singapore*.
   Nature Society (Singapore). 285 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

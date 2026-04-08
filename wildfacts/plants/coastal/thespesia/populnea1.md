@@ -4,28 +4,28 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "portia, thespesia, populnea, malvaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
+[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
-plants [text index](../../plantindex.htm) | [photo
-index](../../plantfi.htm)
+plants [text index](../../plantindex) | [photo
+index](../../plantfi)
 
 [coastal
-plants](../../coastal/coastalplants.htm) 
+plants](../../coastal/coastalplants) 
 ****Baru-baru****or****Portia tree on Singapore shores****back
-to [general info on portia trees](populnea.htm)
+to [general info on portia trees](populnea)
 
 ---
 
@@ -89,16 +89,16 @@ Ris Park, May 11
 *![](populnea/110502prpd0461m3.jpg)*****
 
   
-back to [general info on portia trees](populnea.htm)
+back to [general info on portia trees](populnea)
 
 [www.**flickr**.com](http://www.flickr.com)  
 
 FREE photos of [coastal
 plants](http://www.flickr.com/photos/54527470@N00/sets/72157600057953536). Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm) |
-[references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links) |
+[references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

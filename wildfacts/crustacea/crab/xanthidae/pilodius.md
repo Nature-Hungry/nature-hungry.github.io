@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "rock, crab, pilodius, xanthidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> Brachyurans > Family [Xanthidae](xanthidae.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> Brachyurans > Family [Xanthidae](xanthidae)
 **Pilodius
 rock crab  
 *Pilodius* sp.****Family
@@ -42,7 +42,7 @@ immobile when disturbed.
 The pincers with spoon-shaped tips. Legs with pointed tips.  
   
 **Sometimes confused with** juveniles
-of other crabs of the [Family Xanthidae](xanthidae.htm).
+of other crabs of the [Family Xanthidae](xanthidae).
 
 *![](pilodius/111001sjid1824m3.jpg)*  
 *St. John's Island, Oct 11*
@@ -66,7 +66,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Links**
 
 - [Pilodius
-  Crab (*Pilodius*)](http://mangrove.nus.edu.sg/pub/seashore/text/207.htm) Tan, Leo W. H. & Ng, Peter K. L., 1988.
+  Crab (*Pilodius*)](http://mangrove.nus.edu.sg/pub/seashore/text/207) Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide
   to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore.
   160 pp.
@@ -78,9 +78,9 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
   Red Data Book: Threatened plants and animals of Singapore*.
   Nature Society (Singapore). 285 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 
