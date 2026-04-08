@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "portia, thespesia, populnea, malvaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
+[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
-plants [text index](../../plantindex.htm) | [photo
-index](../../plantfi.htm)
+plants [text index](../../plantindex) | [photo
+index](../../plantfi)
 
 [coastal
-plants](../../coastal/coastalplants.htm) 
+plants](../../coastal/coastalplants) 
 ****Baru-baru** **or****Portia tree   
 *Thespesia populnea***  
 **Family** Malvaceae***updated
@@ -32,7 +32,7 @@ Nov 10*
 ---
 
 **Where seen?** Not as commonly seen as the [Sea
-hibiscus](../hibiscus/tiliaceus.htm) (*Hibiscus tiliceaus*), this similar looking plant
+hibiscus](../hibiscus/tiliaceus) (*Hibiscus tiliceaus*), this similar looking plant
 is sometimes seen on our shores and near our mangroves. Elsewhere,
 it is found on beaches, sandy and rocky coasts as well as back mangroves.
 It has a wide distribution as the seeds can stay alive in seawater
@@ -62,7 +62,7 @@ also float. Bark light grey becoming rugged with deep fissures.
 Pacific, the tree is considered sacred and planted near temples. He
 suggests this is because the tree was so important to sea-faring people.
 It is used interchangeably with the [Sea
-hibiscus](../hibiscus/tiliaceus.htm) (*Hibiscus tiliceaus*) for cordage. The timber is
+hibiscus](../hibiscus/tiliaceus) (*Hibiscus tiliceaus*) for cordage. The timber is
 hard and Fiji natives praise it as being "almost indestructible
 underwater". In the Philippines it is prized for making musical
 instruments. According to Hugh Tan, oil is extracted from the seeds
@@ -94,7 +94,7 @@ pollinating the flower?
 *![](populnea/080609ubnod5556m3a.jpg)  
 Pulau Ubin, Jun 08  
 ![](../../../insecta/dysdercus/080609ubnod5558m3a.jpg)*[Cotton
-stainer bugs](../../../insecta/dysdercus.htm) on the fruit.
+stainer bugs](../../../insecta/dysdercus) on the fruit.
 
 *****![](populnea/090428chgd0933m3.jpg)  
 Changi, May 09  
@@ -102,7 +102,7 @@ Changi, May 09
 
   
 [more
-photos](populnea1.htm) of portia trees on Singapore shores
+photos](populnea1) of portia trees on Singapore shores
 
 ---
 
@@ -114,7 +114,7 @@ photos](populnea1.htm) of portia trees on Singapore shores
 - Giesen, Wim
   and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
   [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.htm) (PDF online downloadable).
+  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
   RAP publication 2006/07 Food and Agriculture Organization of the
   United Nations Regional Office for Asia and the Pacific Bangkok.
 
@@ -122,7 +122,7 @@ photos](populnea1.htm) of portia trees on Singapore shores
 
 - Hsuan Keng,
   S.C. Chin and H. T. W. Tan. 1990, *[The
-  Concise Flora of Singapore: Gymnosperms and Dicotyledons](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FConcise-Flora-Singapore-Gymnosperms-Dicotyledons%2Fdp%2F9971691353%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580156%26sr%3D8-2&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
+  Concise Flora of Singapore: Gymnosperms and Dicotyledons](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FConcise-Flora-Singapore-Gymnosperms-Dicotyledons%2Fdp%2F9971691353%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580156%26sr%3D8-2&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
   Singapore University Press. 222 pp.
 - Tan, Hugh
   T.W. and T. Morgany. 2001. *[Growing
@@ -134,11 +134,11 @@ photos](populnea1.htm) of portia trees on Singapore shores
   160pp.
 - Polunin,
   Ivan. 1987. [*Plants
-  and Flowers of Singapore*](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FPlants-flowers-Singapore-Ivan-Polunin%2Fdp%2FB0007BPQQ0%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1232347888%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
+  and Flowers of Singapore*](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FPlants-flowers-Singapore-Ivan-Polunin%2Fdp%2FB0007BPQQ0%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1232347888%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
   Times Editions. 160pp.
 - Burkill,
   I. H., 1993. *[A
-  Dictionary of the Economic Products of the Malay Peninsula](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fdictionary-economic-products-Malay-Peninsula%2Fdp%2FB0006EUWTE%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175505620%26sr%3D1-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
+  Dictionary of the Economic Products of the Malay Peninsula](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fdictionary-economic-products-Malay-Peninsula%2Fdp%2FB0006EUWTE%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175505620%26sr%3D1-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
   3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
   Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 
@@ -152,9 +152,9 @@ in Singapore**
 [Nature's Niche](http://www.naturesniche.com/)   
 books, gifts, optics
 
-[links](../../../links.htm) |
-[references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links) |
+[references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

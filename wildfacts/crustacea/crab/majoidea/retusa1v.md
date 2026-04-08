@@ -4,31 +4,31 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "velcro, crab, camposcia, retusa, majidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info,  photo"
 layout: default
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
+[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> Brachyurans > Superfamily [Majoidea](majoidea.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> Brachyurans > Superfamily [Majoidea](majoidea)
 **Velcro
 crabs on Singapore shores**  
 back to [general
-info on velcro crabs](retusa.htm)
+info on velcro crabs](retusa)
 
 ---
 
@@ -41,7 +41,7 @@ on [Vimeo](http://vimeo.com).
 
   
 back to [general
-info on velcro crabs](retusa.htm)
+info on velcro crabs](retusa)
 
 [www.**flickr**.com](http://www.flickr.com)  
 
@@ -49,9 +49,9 @@ FREE photos from [wildsingapore](http://www.flickr.com/photos/54527470@N00)
 tagged with [Majoidea](http://www.flickr.com/photos/54527470@N00/tags/Majoidea).
 Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

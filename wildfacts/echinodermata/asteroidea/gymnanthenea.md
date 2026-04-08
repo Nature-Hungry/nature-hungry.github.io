@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "spiny, sea star, seastar, starfish, star, fish, gymnanthenea, laevis, oreasteridae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 sea
-stars [text index](../echinodermindex.htm) | [photo
-index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class Stelleroida > Subclass [Asteroidea](asteroidea.htm)
+stars [text index](../echinodermindex) | [photo
+index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
+> Class Stelleroida > Subclass [Asteroidea](asteroidea)
 **Spiny
 sea star  
 *Gymnanthenea laevis*Family
@@ -48,9 +35,9 @@ has huge bivalved pedicellaria (pincer-like structures). The pale
 tube feet are tipped with suckers.   
   
 **Sometimes confused with** the [Biscuit
-sea star](goniodiscaster.htm) (*Goniodiscaster scaber*) and the [Cake
-sea star](anthenea.htm) (*Anthenea aspera*). Here's more on [how
-to tell apart large sea stars](cfbigstars.htm) on our shores.
+sea star](goniodiscaster) (*Goniodiscaster scaber*) and the [Cake
+sea star](anthenea) (*Anthenea aspera*). Here's more on [how
+to tell apart large sea stars](cfbigstars) on our shores.
 
 ![](gymnanthenea/081018cjd1194m3.jpg)  
  *Chek Jawa, Oct 08*
@@ -122,12 +109,12 @@ Chek Jawa, May 25
 *![](gymnanthenea/090821tmlks2m3.jpg)  
 Tanah Merah, Aug 09**![](gymnanthenea/090821tmlks2m3a.jpg)*Photo
 shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/08/new-sandy-stretch-at-tanah-merah.html).
+blog](http://wondercreation.blogspot.com/2009/08/new-sandy-stretch-at-tanah-merahl).
 
 ---
 
 ![](gymnanthenea/090723ecplks8m3.jpg) *East Coast, Jul 09*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/07/lively-east-coast-shore.html).
+blog](http://wondercreation.blogspot.com/2009/07/lively-east-coast-shorel).
 
 ![](gymnanthenea/170527ecplks2.jpg) *East Coast, May 17*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10155346402588158&set=pcb.10155346402828158&type=3&theater).
 
@@ -140,7 +127,7 @@ blog](http://wondercreation.blogspot.com/2009/07/lively-east-coast-shore.html).
 
 ![](gymnanthenea/080508cyrlks02m3.jpg)  
 Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2008/05/more-surprises-from-cyrene-reef.html).
+blog](http://wondercreation.blogspot.com/2008/05/more-surprises-from-cyrene-reefl).
 
 ![](gymnanthenea/080508cyrlks03m3.jpg)
 
@@ -151,7 +138,7 @@ blog](http://wondercreation.blogspot.com/2008/05/more-surprises-from-cyrene-reef
 
 ![](gymnanthenea/100713cyrtch2m3a.jpg)  
 Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2010/07/predawn-trip-to-cyrene-reef-again.html).
+blog](http://colorclouds.blogspot.com/2010/07/predawn-trip-to-cyrene-reef-againl).
 
 ![](gymnanthenea/100713cyrtch2m3b.jpg)
 
@@ -160,7 +147,7 @@ blog](http://colorclouds.blogspot.com/2010/07/predawn-trip-to-cyrene-reef-again.
 **Links**
 
 - [*Gymnanthenea
-  laevis*](http://www.sealifebase.org/summary/Gymnanthenea-laevis.html) in SeaLife Base: Technical fact sheet.
+  laevis*](http://www.sealifebase.org/summary/Gymnanthenea-laevisl) in SeaLife Base: Technical fact sheet.
 
 **References**
 
@@ -178,14 +165,4 @@ blog](http://colorclouds.blogspot.com/2010/07/predawn-trip-to-cyrene-reef-again.
   stars: Echinoderms of Asia/Indo-Pacific. Neville Coleman's
   Underwater Geographic Pty Ltd, Australia.136pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

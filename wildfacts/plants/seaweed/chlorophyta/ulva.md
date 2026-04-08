@@ -9,24 +9,24 @@ layout: default
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![](../../../../Templates/fornatureguides.gif)](../fngseaweed.htm)
+[![](../../../../Templates/fornatureguides.gif)](../fngseaweed)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 green
-seaweeds [text index](../seaweedindex.htm) | [photo
-index](../seaweedfi.htm)
+seaweeds [text index](../seaweedindex) | [photo
+index](../seaweedfi)
 
-[Seaweeds](../seaweed.htm)
-> Division [Chlorophyta](chlorophyta.htm)
+[Seaweeds](../seaweed)
+> Division [Chlorophyta](chlorophyta)
 **Sea
 lettuce   
 *Ulva* sp.\*** **Family Ulvaceae***updated
@@ -112,7 +112,7 @@ lactuca, U. pertusa* and *U. reticulata*.
 It is also reported to have antibacterial properties, and to be used
 to treat goiter, gout, scrofula, burns and other irritants. Sea lettuce
 also makes good packing material to cover more valuable [*Caulerpa*
-seaweeds](caulerpa.htm) during shipping and transport, or to cover fish for sale.
+seaweeds](caulerpa) during shipping and transport, or to cover fish for sale.
 As sea lettuce tends to grow well in polluted waters, it is also used
 as an indicator of water quality.
 
@@ -131,9 +131,9 @@ blade: reproducing?
 *Labrador, May 05*  
   
 *![](../../../echinodermata/echinoidea/urchin/temnopleurus/080703chgd6690m3.jpg)*Tiny [black
-sea urchin](../../../echinodermata/echinoidea/urchin/temnopleurus.htm) in sea lettuce. *Changi, Jul 08  
+sea urchin](../../../echinodermata/echinoidea/urchin/temnopleurus) in sea lettuce. *Changi, Jul 08  
   
-![](../../../vertebrates/fish/syngnathidae/seagrass/050426cftg5087m3d.jpg)*[Pipefish](../../../vertebrates/fish/syngnathidae/seagrass.htm) camouflaged on sea lettuce. *Changi, Apr 05*
+![](../../../vertebrates/fish/syngnathidae/seagrass/050426cftg5087m3d.jpg)*[Pipefish](../../../vertebrates/fish/syngnathidae/seagrass) camouflaged on sea lettuce. *Changi, Apr 05*
 
 *![](ulva/050426cftd2745m3.jpg)*Some form sheets.
 
@@ -141,7 +141,7 @@ sea urchin](../../../echinodermata/echinoidea/urchin/temnopleurus.htm) in sea le
 
 *![](ulva/070614chgg0190m3.jpg)*  
 [Tiny
-shrimp](../../../crustacea/othercrust/shrimp/rednose.htm) on sea lettuce.  
+shrimp](../../../crustacea/othercrust/shrimp/rednose) on sea lettuce.  
 *Changi, Jun 07*
 
  *\*Species
@@ -196,7 +196,7 @@ Ulva reticulata
 **Links**
 
 - [Sea
-  Lettuce (*Ulva* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/103.htm)
+  Lettuce (*Ulva* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/103)
   Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
@@ -239,9 +239,9 @@ FREE photos of
 seaweeds](http://www.flickr.com/photos/54527470@N00/sets/72157600032152343).  
 Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

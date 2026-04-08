@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "fan, whip, coral, gorgonian, gorgonacea, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 gorgonian [text
-index](../../cnidariaindex.htm#gorgonacea) | [photo index](../../gorgonaceafi.htm)
+index](../../cnidariaindex#gorgonacea) | [photo index](../../gorgonaceafi)
 Phylum
-[Cnidaria](../../cnidaria.htm) > Class [Anthozoa](../../anthozoa.htm)
+[Cnidaria](../../cnidaria) > Class [Anthozoa](../../anthozoa)
 > Subclass Alcyonaria/Octocorallia > Order
 Gorgonacea
 **Sea
@@ -49,7 +49,7 @@ large sea fans on our Southern islands.
   
 **What are gorgonians?** These beautiful
 delicate creatures are often mistaken for plants. Gorgonians belong
-to [Phylum Cnidaria](../../cnidaria.htm) which includes
+to [Phylum Cnidaria](../../cnidaria) which includes
 the more familiar sea anemones, hard corals and jellyfishes. Gorgonians
 are members of the soft coral group (Subclass Alcyonaria/Octocorallia).
 There are about 18 families of gorgonians.  
@@ -90,7 +90,7 @@ Sea fans are most abundant and grow largest where there is a strong
 one-way current.   
   
 A few shallow-water sea fans like the [Leathery
-sea fan](leathery.htm) harbour zooxanthellae (symbiotic single-celled algae)
+sea fan](leathery) harbour zooxanthellae (symbiotic single-celled algae)
 inside their polyps. These carry out photosynthesis and contribute
 nutrients to the host polyp. But most gorgonians do not have zooxanthellae
 and are thus able to grow in shadier places or murkier water.   
@@ -108,17 +108,17 @@ off and drifts away to settle down elsewhere and expand into a new
 colony. Some sea whips reproduce by dropping off a branch tip that
 'roots' and starts a new colony.
 
-*![](../../../mollusca/bivalvia/pteriidae/pteriidae/130113chgd3570m3a.jpg)*[Winged oyster](../../../mollusca/bivalvia/pteriidae/seafan.htm) on a sea fan *Changi, Jan 13*
+*![](../../../mollusca/bivalvia/pteriidae/pteriidae/130113chgd3570m3a.jpg)*[Winged oyster](../../../mollusca/bivalvia/pteriidae/seafan) on a sea fan *Changi, Jan 13*
 
-*![](../../../mollusca/gastropoda/ovulidae/red/060626ecpd3582m3.jpg)*[Ovulid snails](../../../mollusca/gastropoda/ovulidae/ovulidae.htm) on a sea fan *East Coast, Jun 06*
+*![](../../../mollusca/gastropoda/ovulidae/red/060626ecpd3582m3.jpg)*[Ovulid snails](../../../mollusca/gastropoda/ovulidae/ovulidae) on a sea fan *East Coast, Jun 06*
 *![](../../../echinodermata/ophiuroidea/tinycolourful/100727chgd9292m3.jpg)*[Tiny
-colourful brittle stars](../../../echinodermata/ophiuroidea/tinycolourful.htm). *Changi, Jul 09*
+colourful brittle stars](../../../echinodermata/ophiuroidea/tinycolourful). *Changi, Jul 09*
 **Role in the habitat:** All kinds
 of small animals live on gorgonians including tunicates, barnacles,
-[clams](../../../mollusca/bivalvia/pteriidae/seafan.htm), snails (such as the [ovulids](../../../mollusca/gastropoda/ovulidae/ovulidae.htm)),
+[clams](../../../mollusca/bivalvia/pteriidae/seafan), snails (such as the [ovulids](../../../mollusca/gastropoda/ovulidae/ovulidae)),
 tiny shrimps, [brittle
-stars](../../../echinodermata/ophiuroidea/tinycolourful.htm) and gobies. [Hermit
-crabs](../../../crustacea/othercrust/anomura/hermit/banded.htm) have also been seen clinging to sea fans. Some of these
+stars](../../../echinodermata/ophiuroidea/tinycolourful) and gobies. [Hermit
+crabs](../../../crustacea/othercrust/anomura/hermit/banded) have also been seen clinging to sea fans. Some of these
 small animals prey on the sea fan. These animals usually take on the
 shape and colour of their host. Squids may also lay their eggs on sea fans.  
   
@@ -148,45 +148,45 @@ fans on Singapore shores**
 ---
 
 **![](skinny/060613ecpd3053m3b.jpg)  
-[Skinny sea fans](skinny.htm)**
+[Skinny sea fans](skinny)**
 
 **![](asparagus/030521bbd0232m3.jpg)  
-[Asparagus sea fan](asparagus.htm)**
+[Asparagus sea fan](asparagus)**
 
 **![](candelabra/060528bbd2416m3.jpg)  
-[Candelabra sea fan](candelabra.htm)**
+[Candelabra sea fan](candelabra)**
 
 ---
 
 **![](flatbranch/050411tusg4438m3.jpg)  
-[Flat branch sea fan](flatbranch.htm)**
+[Flat branch sea fan](flatbranch)**
 
 **![](gnarled/080705bbd7072m3.jpg)  
-[Gnarled sea fan](gnarled.htm)**
+[Gnarled sea fan](gnarled)**
 
 **![](lyre/040604bbad0076m3.jpg)  
-[Lyre sea fan](lyre.htm)**
+[Lyre sea fan](lyre)**
 
 ---
 
 **![](maze/050724bbg0161m3.jpg)  
-[Maze sea fan](maze.htm)**
+[Maze sea fan](maze)**
 
 **![](tree/030520bbd0241m3.jpg)  
-[Tree sea fan](tree.htm)**
+[Tree sea fan](tree)**
 
 **![](lemon/160804lygd6866m3.jpg)  
-[Lemon sea fan](lemon.htm)**
+[Lemon sea fan](lemon)**
 
 ---
 
 **![](blue/060516chgd2041.jpg)  
-[Blue sea fan](blue.htm)**
+[Blue sea fan](blue)**
 
 ***![](leathery/100812tpld0362m3.jpg)*  
-[Leathery sea fan](leathery.htm)**
+[Leathery sea fan](leathery)**
 **![](whip/030714bbd0067m3.jpg)  
-[Sea whip](whip.htm)**
+[Sea whip](whip)**
 
 ---
 
@@ -209,7 +209,7 @@ GROUP**
 Briareidae** 
  
 [*Briareum*
-sp.](../../coralsoft/feafine.htm) (Fine feathery soft corals)  
+sp.](../../coralsoft/feafine) (Fine feathery soft corals)  
 *Briareum excavatum*
 
  
@@ -221,13 +221,13 @@ sp.](../../coralsoft/feafine.htm) (Fine feathery soft corals)
 **Family
 Subergorgiidae**
  
-*[Subergorgia](flatbranch.htm)*[sp.](flatbranch.htm)(Flat branch
+*[Subergorgia](flatbranch)*[sp.](flatbranch)(Flat branch
 sea fan) *Subergorgia suberosa  
 Subergorgia mollis*
 
  
 **[Family
-Melithaeidae](tree.htm)** (Tree sea fan)
+Melithaeidae](tree)** (Tree sea fan)
  
 *Acabaria
 robusta  
@@ -249,9 +249,9 @@ sp. A
 **Family
 Plexauridae**
 
-*[Astrogorgia](skinny.htm)*[sp.](skinny.htm)(Skinny sea fan) *Astrogorgia* cf. *rubra   
-Astrogorgia* cf. *sinensis**Astrogorgia* sp. A *Astrogorgia* sp. B *[Echinomuricea pulchra](gnarled.htm)* (Gnarled
-sea fan) *[Echinogorgia](maze.htm)*[sp.](maze.htm)(Maze sea fan) *Echinogorgia* sp. A  
+*[Astrogorgia](skinny)*[sp.](skinny)(Skinny sea fan) *Astrogorgia* cf. *rubra   
+Astrogorgia* cf. *sinensis**Astrogorgia* sp. A *Astrogorgia* sp. B *[Echinomuricea pulchra](gnarled)* (Gnarled
+sea fan) *[Echinogorgia](maze)*[sp.](maze)(Maze sea fan) *Echinogorgia* sp. A  
 *Echinogorgia* sp. B  
 *Echinogorgia* sp. C  
 *Echinogorgia* sp. D  
@@ -259,28 +259,28 @@ sea fan) *[Echinogorgia](maze.htm)*[sp.](maze.htm)(Maze sea fan) *Echinogorgia* 
 *Echinogorgia* sp. F
 
 [*Euplexaura*
-sp.](candelabra.htm) (Candelabra sea fan)  
+sp.](candelabra) (Candelabra sea fan)  
 *Euplexaura* cf. *pinnata  
 Euplexaura* sp. A
 
   
  
 +**[Family
-Gorgoniidae](leathery.htm)** (Leathery sea fan)
+Gorgoniidae](leathery)** (Leathery sea fan)
   
  **SUBORDER CALCAXONIA**  
  
 **Family
 Ellisellidae**
  
-*[Ctenocella (Ctenocella) pectinata](lyre.htm)*
+*[Ctenocella (Ctenocella) pectinata](lyre)*
 (Lyre sea fan)  
  *Ctenocella (Ellisella) laevis  
   
 Ctenocella (Umbracella)* cf. *umbraculum  
-Ctenocella (Umbracella)* sp. A[*Junceella (Junceella)* sp. A](whip.htm)
+Ctenocella (Umbracella)* sp. A[*Junceella (Junceella)* sp. A](whip)
 (Sea whip)  
- *[Junceella (Dichotella)](asparagus.htm)* [cf.](asparagus.htm)*[gemmacea](asparagus.htm)* (Asparagus sea fan)  
+ *[Junceella (Dichotella)](asparagus)* [cf.](asparagus)*[gemmacea](asparagus)* (Asparagus sea fan)  
   
 *\*Viminella* sp. (see Sea whip)
 
@@ -329,9 +329,9 @@ Ctenocella (Umbracella)* sp. A[*Junceella (Junceella)* sp. A](whip.htm)
   Red Data Book: Threatened plants and animals of Singapore*.
   Nature Society (Singapore). 285 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

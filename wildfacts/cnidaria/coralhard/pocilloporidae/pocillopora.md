@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "pocilloporidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 hard corals [text
-index](../../coralhardindex.htm) | [photo index](../../cnidariafi1.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard.htm)
-> Family [Pocilloporidae](pocilloporidae.htm)
+index](../../coralhardindex) | [photo index](../../cnidariafi1)
+Phylum [Cnidaria](../../cnidaria)
+> Class [Anthozoa](../../anthozoa) > Subclass
+Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard)
+> Family [Pocilloporidae](pocilloporidae)
 **Cauliflower
 corals** ***Pocillopora* sp.\*  
 Family Pocilloporidae***updated
@@ -54,7 +54,7 @@ or less) that clear the surroundings of competiting corals and animals.
 Another unusual property of cauliflower corals is the inclusion of
 large amounts of chitin in the skeleton. Chitin is the substance that
 insect exoskeletons are made of. The only other group of hard corals
-with this property are the mushroom corals of the genus *[Fungia](../fungiidae/circular.htm)*.   
+with this property are the mushroom corals of the genus *[Fungia](../fungiidae/circular)*.   
   
 Colony colours seen include yellow or brown with a bluish or greenish
 tinge. It is said that pink specimens produce hard skeleton more slowly,
@@ -66,7 +66,7 @@ The pigment may have anti-predatory or immune system properties.
 of the colony provide shelter for small animals such as shrimps and
 crabs. While most just shelter among the corals, some of these eat
 the polyps. The [Red
-coral crab](../../../crustacea/crab/trapezioidea/redcoral.htm) (*Trapezia cymodoce*) is found only in Cauliflower
+coral crab](../../../crustacea/crab/trapezioidea/redcoral) (*Trapezia cymodoce*) is found only in Cauliflower
 corals. It feeds on the mucus produced by the coral, and in return,
 protects the corals from predators.  
   
@@ -87,7 +87,7 @@ in mucus. *Pulau Hantu, May 05*
 
 ![](../../../crustacea/crab/trapezioidea/redcoral/100711cyrd8229m3a.jpg)  
 [Red
-coral crab](../../../crustacea/crab/trapezioidea/redcoral.htm) in bleaching Cauliflower coral. *Cyrene Reef, Jul 10*
+coral crab](../../../crustacea/crab/trapezioidea/redcoral) in bleaching Cauliflower coral. *Cyrene Reef, Jul 10*
 
 ![](pocillopora/130511hntd6469m3.jpg)  
 *Pulau Hantu, Aug 13*
@@ -137,7 +137,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 *Tanah Merah,
 May 09**Photo
 shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/05/probably-best-mainland-reef.html).
+blog](http://wondercreation.blogspot.com/2009/05/probably-best-mainland-reefl).
 
 *![](pocillopora/100615tmlks5m3.jpg)  
 *Tanah Merah,
@@ -218,7 +218,7 @@ on the [IUCN global list](www.iucnredlist.org/).
   
  
 **[Family
-Pocilloporidae](pocilloporidae.htm)  
+Pocilloporidae](pocilloporidae)  
 Genus *Pocillopora***
  
 *Pocillopora damicornis* (Cauliflower coral)*\*\*  
@@ -235,7 +235,7 @@ Pocillopora verrucosa*
   Portal: Technical fact sheet.
 - *[Pocillopora
   damicornis](http://www.sealifebase.org/Summary/speciesSummary.php?ID=45584)* on SeaLife Base: Technical fact sheets.
-- [*Pocillopora acuta*](https://singapore.biodiversity.online/taxo4254/mainSpace/Pocillopora%20acuta.html) (Scleractinia: Pocilloporiidae) Cauliflower coral on Taxo4254.
+- [*Pocillopora acuta*](https://singapore.biodiversity.online/taxo4254/mainSpace/Pocillopora%20acutal) (Scleractinia: Pocilloporiidae) Cauliflower coral on Taxo4254.
 
 **References**
 
@@ -258,9 +258,9 @@ Pocillopora verrucosa*
   Eric H. 2001. *Aquarium
   Corals: Selection, Husbandry and Natural History* T.F. H Publications. 464 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

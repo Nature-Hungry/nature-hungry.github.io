@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "feather, star, featherstar, comatulida, crinoidea, crinoid, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 crinoids
-[text index](../echinodermindex.htm#crinoidea) | [photo
-index](../crinoideafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class Crinoidea > Order [Comatulida](crinoidea.htm)
+[text index](../echinodermindex#crinoidea) | [photo
+index](../crinoideafi)
+Phylum [Echinodermata](../echinodermata)
+> Class Crinoidea > Order [Comatulida](crinoidea)
 **Pale
 feather stars**   
 ***awaiting
@@ -114,7 +101,7 @@ Jan 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/phot
 ![](pale/080605hntlks02m3.jpg)  
 *Pulau Hantu,
 Jun 08*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2008/06/zoanthids-hunt-at-hantu.html).
+blog](http://wondercreation.blogspot.com/2008/06/zoanthids-hunt-at-hantul).
 
 ![](pale/080208hntlks.JPG)  
 *Pulau Hantu,
@@ -123,14 +110,4 @@ Feb 08*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/k
 ![](pale/200209cyrlks2.jpg)  
 *Cyrene Reef, Feb 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10157964168628158&set=a.10157964167633158&type=3&theater).
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

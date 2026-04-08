@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "pilumnid, crab, crustacea, pilumnus, pilumnidae, decapod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
 > Brachyurans
 **Piluminid
 crabs**   
@@ -34,7 +34,7 @@ Dec 2019*
 
 **Where
 seen?** The most commonly seen member of this family on our
-shores are the [Common hairy crabs](pilumnus.htm) (*Pilumnus* sp.) near rubble and reefs.  
+shores are the [Common hairy crabs](pilumnus) (*Pilumnus* sp.) near rubble and reefs.  
   
 **Features:** Not all pilumnid crabs
 are hairy. They come in a wide variety of shapes and features and
@@ -54,15 +54,15 @@ crabs on Singapore shores**
 ---
 
 **![](pilumnidae/080621labd6040m3.jpg)  
-[Common hairy crab](pilumnus.htm)**
+[Common hairy crab](pilumnus)**
 
-![](setifer/130721cjd9597m3.jpg) **[Rubble-carrying hairy crab](setifer.htm)**
+![](setifer/130721cjd9597m3.jpg) **[Rubble-carrying hairy crab](setifer)**
 
-![](sluiteri/060714rlhg6649m3.jpg) **[Fuzzy reef crab](sluiteri.htm)**
+![](sluiteri/060714rlhg6649m3.jpg) **[Fuzzy reef crab](sluiteri)**
 
 ---
 
-![](featherstar/150220lsislks2.JPG) **[Feather star crab](featherstar.htm)**
+![](featherstar/150220lsislks2.JPG) **[Feather star crab](featherstar)**
 
 ---
 
@@ -80,7 +80,7 @@ Pilumnidae**
 *Actumnus
 asper  
 Actumnus elegans  
-[Actumnus setifer](setifer.htm)* (Rubble-carrying
+[Actumnus setifer](setifer)* (Rubble-carrying
 hairy crab) *+Actumnus aff. squamosus   
   
 Bathypilumnus sinensis  
@@ -88,11 +88,11 @@ Bathypilumnus sinensis
 +Benthopanope eucratoides  
 +Benthopanope aff. eucratoides  
   
-Ceratocarcinus longimanus* ([Feather star crab](featherstar.htm)) *Ceratoplax ciliata  
+Ceratocarcinus longimanus* ([Feather star crab](featherstar)) *Ceratoplax ciliata  
   
 Galene bispinosa* (\*\*Now in Family Galenidae) *Glabropilumnus edamensis*
 (VU: Vulnerable) *Gonatonotus pentagonus* (EN:
-Endangered) *Halimede ochtodes* (\*\*Now in Family Galenidae)*Harrovia albolineata* ([Feather star crab](featherstar.htm)) (CR: Critically endangered) *Harrovia longipes* ([Feather star crab](featherstar.htm)) (CR:
+Endangered) *Halimede ochtodes* (\*\*Now in Family Galenidae)*Harrovia albolineata* ([Feather star crab](featherstar)) (CR: Critically endangered) *Harrovia longipes* ([Feather star crab](featherstar)) (CR:
 Critically endangered) *Heteropanope changensis  
 Heteropanope glabra  
   
@@ -126,8 +126,8 @@ Pilumnus rouxi
 Pilumnus rufopunctata  
 Pilumnus scabriusculus  
 +Pilumnus serenei  
-+[Pilumnus sluiteri](sluiteri.htm)* (Fuzzy reef crab) *Pilumnus spinifrons  
-[Pilumnus vespertilio](pilumnus.htm)* (Common hairy crab)  *Pronotonyx laevis  
++[Pilumnus sluiteri](sluiteri)* (Fuzzy reef crab) *Pilumnus spinifrons  
+[Pilumnus vespertilio](pilumnus)* (Common hairy crab)  *Pronotonyx laevis  
   
 Vellumnus labyrinthicus* (VU:
 Vulnerable) *Rhizopa gracilipes  
@@ -146,7 +146,7 @@ Endangered)
 **Links**
 
 - [Hairy
-  Crab (*Pilumnus vespertilio*)](http://mangrove.nus.edu.sg/pub/seashore/text/211.htm)
+  Crab (*Pilumnus vespertilio*)](http://mangrove.nus.edu.sg/pub/seashore/text/211)
   Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
@@ -176,9 +176,9 @@ Endangered)
   S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
   Australian Waters*. Reed New Holland. 224 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

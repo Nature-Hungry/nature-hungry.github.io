@@ -4,31 +4,31 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "checklist, check, list,  index, seagrass, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
+[![](../../../wildfactsheet3.gif)](../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../index.html)  
+[wildfactsheets homepage](../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![](../../../Templates/fornatureguides.gif)](fngseagrass.htm)
+[![](../../../Templates/fornatureguides.gif)](fngseagrass)
 
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
+[all animals](../../animals)
+| [all plants](../../plants)
+| [concepts](../../concepts/indexl)
+| [glossary](../../glossary/indexl)
+| [search](../../search)
 
 seagrasses
-[text index](seagrassindex.htm) | [photo
-index](seagrassfi.htm)
-[Seagrasses](seagrass.htm)
+[text index](seagrassindex) | [photo
+index](seagrassfi)
+[Seagrasses](seagrass)
 **Text
 index of seagrasses on Singapore shores**  
 Don't know the
-name of the seagrass? Try the [seagrass photo index](seagrassfi.htm).
+name of the seagrass? Try the [seagrass photo index](seagrassfi).
 
 ---
 
@@ -97,7 +97,7 @@ laz
 cyr
 
 *[Cymodocea
-rotundata](rotundata.htm)*Smooth ribbon seagrass
+rotundata](rotundata)*Smooth ribbon seagrass
 
 skd
 
@@ -112,7 +112,7 @@ smk
 tsm
 
 *[Cymodocea
-serrulata](serrulata.htm)*Serrated ribbon seagrass
+serrulata](serrulata)*Serrated ribbon seagrass
 
 tus
 
@@ -155,7 +155,7 @@ rfl
 lfa
 
 *[Enhalus
-acoroides](enhalus.htm)*Tape seagrass
+acoroides](enhalus)*Tape seagrass
 
 chg
 
@@ -180,7 +180,7 @@ smk
 tsm
 
 [*Halodule*
-sp.](halodule.htm)  
+sp.](halodule)  
 Needle seagrass
 
 sbw
@@ -188,7 +188,7 @@ sbw
 cj
 
 *[Halophila
-beccarii](beccarii.htm)*Beccari's seagrass
+beccarii](beccarii)*Beccari's seagrass
 
 pgl
 
@@ -209,7 +209,7 @@ laz
 *smk*
 
 [*Halophila
-decipiens*](decipiens.htm)  
+decipiens*](decipiens)  
 Hairy spoon seagrass
 
 tus
@@ -259,7 +259,7 @@ tsm
 lfa
 
 [*Halophila
-ovalis* complex](ovalis.htm)  
+ovalis* complex](ovalis)  
 Spoon seagrass
 
 chg
@@ -269,7 +269,7 @@ cj
 skd
 
 *[Halophila
-spinulosa](spinulosa.htm)*Fern seagrass
+spinulosa](spinulosa)*Fern seagrass
 
 *chg*
 
@@ -286,7 +286,7 @@ smk
 tsm
 
 *[Syringodium
-isoetifolium](syringodium.htm)*Noodle seagrass
+isoetifolium](syringodium)*Noodle seagrass
 
 cj
 
@@ -319,7 +319,7 @@ tsm
 lfa
 
 *[Thalassia
-hemprichii](thalassia.htm)*Sickle seagrass
+hemprichii](thalassia)*Sickle seagrass
   
 in
 red are those listed among the threatened plants of Singapore from
@@ -364,19 +364,9 @@ live firing area (Salu, Sudong, Pawai, Senang, Biola and submerged
 reefs in the area)
   
 [About
-citing](../../about.htm) this checklist.
+citing](../../about) this checklist.
 
 **You CAN make a difference for Singapore's
 seagrasses!**[![](../../../Templates/teamsg.jpg)](http://teamseagrass.blogspot.com/)
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

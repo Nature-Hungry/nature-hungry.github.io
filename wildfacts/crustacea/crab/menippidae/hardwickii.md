@@ -4,28 +4,28 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "stone, thunder, crab, myomenippe, hardwickii, eriphiidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
 Phylum
-[Arthropoda](../../../arthropoda/arthropoda.htm) > Subphylum
-[Crustacea](../../crustacea.htm) > Class Malacostraca
-> Order [Decapoda](../../decapoda.htm) > Brachyurans
-> Family [Menippidae](menippidae.htm)
+[Arthropoda](../../../arthropoda/arthropoda) > Subphylum
+[Crustacea](../../crustacea) > Class Malacostraca
+> Order [Decapoda](../../decapoda) > Brachyurans
+> Family [Menippidae](menippidae)
 **Stone** **or** **Thunder crab**  
 ***Myomenippe hardwickii***  
 **Family Menippidae**  
@@ -83,7 +83,7 @@ A tiny juvenile. *Pasir Ris Park, Jul 08*
 
 ![](hardwickii/090309cyrlks05m3.jpg)  
 *Cyrene Reef, Mar 09*Shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/01/soft-sediment-creatures-of-pasir-ris.html).
+blog](http://wondercreation.blogspot.com/2009/01/soft-sediment-creatures-of-pasir-risl).
 
 ![](hardwickii/250626ubns.jpg)  
 With eggs *Pulau Ubin (South), Jun 25*
@@ -92,10 +92,10 @@ With eggs *Pulau Ubin (South), Jun 25*
 eats snails and clams, crushing their shells with its powerful pincers. Sightings also suggest that the crab may scavange on dead animals such as fishes and jellyfishes. One was also seen eating a seahare.  
   
 **Sometimes mistaken for** the [Red
-egg crab](../xanthidae/integerrimus.htm) (*Atergatis integerrimus*) and [Maroon
-stone crab](rumphii.htm) (*Menippe rumphii*). Here's
+egg crab](../xanthidae/integerrimus) (*Atergatis integerrimus*) and [Maroon
+stone crab](rumphii) (*Menippe rumphii*). Here's
 more on how to tell apart [big crabs
-with big pincers](../../bigpincer.htm) seen on the rocky shores and coral rubble.
+with big pincers](../../bigpincer) seen on the rocky shores and coral rubble.
 
 ![](hardwickii/060528bbd2348m3.jpg)  
 Eating a jellyfish *Beting Bronok, May 06*
@@ -133,7 +133,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 ---
 
 ![](hardwickii/200917prpjt1.jpg)  
-Working on the [Mactra clam](../../../mollusca/bivalvia/mactridae/bigbrown.htm) next to it? *Pasir Ris, Sep 20*  
+Working on the [Mactra clam](../../../mollusca/bivalvia/mactridae/bigbrown) next to it? *Pasir Ris, Sep 20*  
 Photo shared by Jonathan Tan on [facebook](https://www.facebook.com/photo?fbid=10158812334398119&set=a.10158812351093119).
 
 ![](hardwickii/201020prpalks3.jpg)  
@@ -180,16 +180,16 @@ Photo shared by Jayden Kang on [facebook](https://www.facebook.com/media/set/?va
 **Links**
 
 - [Stone
-  Crab (*Myomenippe hardwicki*)](http://mangrove.nus.edu.sg/pub/seashore/text/214.htm) Tan, Leo W. H. & Ng, Peter
+  Crab (*Myomenippe hardwicki*)](http://mangrove.nus.edu.sg/pub/seashore/text/214) Tan, Leo W. H. & Ng, Peter
   K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [Stone
-  Crab (*Myomenippe hardwicki*)](http://mangrove.nus.edu.sg/guidebooks/text/2041.htm) Ng, Peter K. L. & N. Sivasothi,
+  Crab (*Myomenippe hardwicki*)](http://mangrove.nus.edu.sg/guidebooks/text/2041) Ng, Peter K. L. & N. Sivasothi,
   1999. *[A Guide
   to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
   Science Centre. 168 pp.
-- [*Myomenippe hardwickii*](https://singapore.biodiversity.online/taxo4254/mainSpace/Myomenippe%20hardwickii.html) (Decapoda: Menippidae) Thunder crab by Suhailah Binte Isnin, 2015, on taxo4254.
+- [*Myomenippe hardwickii*](https://singapore.biodiversity.online/taxo4254/mainSpace/Myomenippe%20hardwickiil) (Decapoda: Menippidae) Thunder crab by Suhailah Binte Isnin, 2015, on taxo4254.
 - [Stone
   Crab (*Myomenippe hardwicki*)](http://ranong.myspecies.info/category/clade/flora-and-fauna/crustacea/decapoda/brachyura/menippidae/myomenippe-hardwickii) on Marine Flora and Fauna
   of Ranong, Thailand
@@ -216,9 +216,9 @@ Photo shared by Jayden Kang on [facebook](https://www.facebook.com/media/set/?va
   Science, Nanyang Technological University & Department of Zoology,
   the National University of Singapore. 160 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

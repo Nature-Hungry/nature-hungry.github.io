@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "pink, button, colonial, anemone, zoanthid, zoanthus, vietnamensis, zoanthidae, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 zoanthids [text
-index](../../cnidariaindex.htm#zoanthidea) | [photo index](../../anemonefi2.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Zoanthidea](zoanthid.htm)
+index](../../cnidariaindex#zoanthidea) | [photo index](../../anemonefi2)
+Phylum [Cnidaria](../../cnidaria)
+> Class [Anthozoa](../../anthozoa) > Subclass
+Zoantharia/Hexacorallia > Order [Zoanthidea](zoanthid)
 
 **Pink
 button zoanthid  
@@ -40,7 +40,7 @@ seen?** Forming cushions or carpets on coral rubble.
 greyish blue. Bright pink ring around the top of the body column,
 most obvious when the tentacles are tucked into the body.  
   
-More about [button zoanthids in general](zoanthus.htm).
+More about [button zoanthids in general](zoanthus).
 
 *![](pink/080607chgd5260m3.jpg)**Changi, Jun 08* .*![](pink/080607chgd5260m3a.jpg)*
 
@@ -91,9 +91,9 @@ Jan 10*
 With grateful thanks to Dr James Reimer of JAMSTEC (Japan Agency for
 Marine-Earth Science and Technology) for identifying the zoanthids.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

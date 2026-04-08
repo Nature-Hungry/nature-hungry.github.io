@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "scorpionfish, scorpion, fish, scorpaenidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm)
+> Subphylum Vertebrata > [fishes](../fish)
 **Scorpionfishes  
 Family Scorpaenidae***updated
 Oct 2020*
@@ -76,20 +76,20 @@ or swim away, using its venom only as a last resort. The best way
 to avoid being stung is simply not to disturb or touch one.
 *![](picta/110730tmftd7492m3.jpg)*Perfectly camouflaged! *Tanah Merah, Jul 11* 
 ![](pterois/140809hntlks3m6l.jpg)  
-The Lionfish doesn't bother to hide! *Pulau Hantu, Aug 15*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/08/lionfish-on-lion-citys-birthday-at.html).
+The Lionfish doesn't bother to hide! *Pulau Hantu, Aug 15*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/08/lionfish-on-lion-citys-birthday-atl).
 **Scorpionfish mimic:** The [False
-scorpionfish](../centrogenyidae/vaigiensis.htm) (*Centrogenys vaigiensis*) looks and behaves
+scorpionfish](../centrogenyidae/vaigiensis) (*Centrogenys vaigiensis*) looks and behaves
 like a scorpionfish but belong to the Family Serranidae which includes
 groupers. By mimicking the more venomous scorpionfishes, the false
 scorpionfish probably manages to discourage most predators. Here's
 more on [how to tell apart fishes that
-look like stones](../cfstonefish.htm).
+look like stones](../cfstonefish).
 *![](../synanceiidae/horrida/060312hntd0311m3.jpg)*[The
-Stonefish](../synanceiidae/horrida.htm) is from a different family.
-*![](../centrogenyidae/vaigiensis/031029sntcd0014m3.jpg)*The [False scorpionfish](../centrogenyidae/vaigiensis.htm) is   
+Stonefish](../synanceiidae/horrida) is from a different family.
+*![](../centrogenyidae/vaigiensis/031029sntcd0014m3.jpg)*The [False scorpionfish](../centrogenyidae/vaigiensis) is   
 from a dffierent family. 
 ***![](longispinis/050623cjg8365m3.jpg)***The [Long-spined
-waspfish](longispinis.htm) is   
+waspfish](longispinis) is   
 now in a different family
 **What do they eat?** Most scorpionfishes
 skulk on or near the bottom, staying motionless for hours to ambush
@@ -126,11 +126,11 @@ on Singapore shores**
 ---
 
 ***![](picta/090923labd1778m3a.jpg)*[Painted
-scorpionfish](picta.htm)**
+scorpionfish](picta)**
 *![](diabolus/120818lazd0164m3c.jpg)*[**False
-stonefish**](diabolus.htm)
+stonefish**](diabolus)
 ![](pterois/140809hntlks3m3.jpg)  
-[**Lionfish**](pterois.htm)
+[**Lionfish**](pterois)
 ![](picta/090923labd1778m3.jpg)
 ![](diabolus/120818lazd0164m3a.jpg)
  
@@ -157,10 +157,10 @@ Scorpaenidae**
 brachypterus  
 Dendrochirus zebra*
 
-*[Parascorpaena picta](picta.htm)* (Painted scorpionfish) *[Pterois](pterois.htm)* [sp.](pterois.htm) (Lionfish) with species recorded for Singapore. *Scorpaenodes guamensis  
+*[Parascorpaena picta](picta)* (Painted scorpionfish) *[Pterois](pterois)* [sp.](pterois) (Lionfish) with species recorded for Singapore. *Scorpaenodes guamensis  
   
 Scorpaenopsis cirrosa  
-+[Scorpaenopsis diabolus](diabolus.htm)* (False
++[Scorpaenopsis diabolus](diabolus)* (False
 scorpionfish) *Scorpaenopsis gibbosa   
   
 Sebastapistes tristis=\*\*Sebastapistes strongia*
@@ -180,12 +180,12 @@ Family Tetrarogidae (waspfishes)**
 
 *Cottapistus cottoides* *Paracentropogon cyanocephalus   
 Paracentropogon leucoprosopon  
-[Paracentropogon longispinis](longispinis.htm)*(Longspined waspfish) *Paracentropogon bandanensis* *Vespicula trachinoides* (Mangrove waspfish)
+[Paracentropogon longispinis](longispinis)*(Longspined waspfish) *Paracentropogon bandanensis* *Vespicula trachinoides* (Mangrove waspfish)
 
   
  
 **\*\*now
-[Family Synanceiidae](../synanceiidae/horrida.htm)
+[Family Synanceiidae](../synanceiidae/horrida)
 (stonefishes)**
 
 *Chloridactylus
@@ -230,9 +230,9 @@ uranoscopus* (Stargazer waspfish)
   Reef Fishes of the World*
   Periplus Editions. 400pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

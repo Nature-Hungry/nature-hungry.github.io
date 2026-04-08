@@ -4,28 +4,28 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "pom, pom, red, seaweed, weed, algae, corallinaceae, galaxauraceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 red
-seaweeds [text index](../seaweedindex.htm#rhodophyta)
-| [photo index](../seaweedfi.htm)
+seaweeds [text index](../seaweedindex#rhodophyta)
+| [photo index](../seaweedfi)
 
-[Seaweeds](../seaweed.htm)
-> Division [Rhodophyta](rhodophyta.htm) > [Crunchy
-pom-pom red seaweeds](pompom.htm)
+[Seaweeds](../seaweed)
+> Division [Rhodophyta](rhodophyta) > [Crunchy
+pom-pom red seaweeds](pompom)
 **Flat
 crunchy pom-pom red seaweed*****Jania*** **sp.\*  
 Family Corallinaceae *updated
@@ -48,7 +48,7 @@ surface, instead of forming a spherical bushy shape that sticks
 out. Colours pink or lilac.  
   
 **May be confused with** other [pinkish seaweeds with a pom
-pom shape.](pompom.htm)
+pom shape.](pompom)
 
 *![](pomflat/070602sjig9819m3.jpg)  
 St. John's Island, Jun 07*
@@ -165,9 +165,9 @@ FREE photos of
 seaweeds](http://www.flickr.com/photos/54527470@N00/sets/72157600031841176).  
 Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "leaf, porter, crab, dorippidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
 > Brachyurans
 **Leaf
 porter crab**  
@@ -105,7 +105,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 ---
 
 *![](dorippidae/120604pgllks.JPG)  
-Punggol, Jun 12*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2012/06/colourful-marine-city-of-punggol.html).
+Punggol, Jun 12*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2012/06/colourful-marine-city-of-punggoll).
 
 *![](dorippidae/180616bblks9.jpg)  
 Beting Bronok, Jun 18*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10156450075088158&set=a.10156450071873158&type=3&theater).
@@ -152,12 +152,12 @@ Neodorippe callida*
 **Links**
 
 - [Leaf
-  Porter Crab (*Neodorippe callida*)](http://mangrove.nus.edu.sg/pub/seashore/text/204.htm) Tan, Leo W. H. & Ng,
+  Porter Crab (*Neodorippe callida*)](http://mangrove.nus.edu.sg/pub/seashore/text/204) Tan, Leo W. H. & Ng,
   Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [Leaf
-  Porter Crab (*Neodorippe callida*)](http://mangrove.nus.edu.sg/guidebooks/text/2043.htm) Ng, Peter K. L. &
+  Porter Crab (*Neodorippe callida*)](http://mangrove.nus.edu.sg/guidebooks/text/2043) Ng, Peter K. L. &
   N. Sivasothi, 1999. *[A
   Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
   Singapore Science Centre. 168 pp.
@@ -182,9 +182,9 @@ Neodorippe callida*
   Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
   The Nature Society (Singapore), Singapore. 343 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

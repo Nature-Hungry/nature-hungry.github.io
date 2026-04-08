@@ -4,23 +4,10 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "crab, eating, frog, fejervarya, rana, crancrivora, amphibian, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 vertebrates [text
-index](../vertindex.htm) | [photo index](../vertfi.htm)
+index](../vertindex) | [photo index](../vertfi)
 Phylum Chordata
 > Subphylum Vertebrata > Class Amphibia
 **Crab-eating
@@ -77,9 +64,9 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Links**
 
 - [Crab-eating
-  frog](http://www.ecologyasia.com/verts/lizards/green-crested_lizard.htm) on Nick Baker's EcologyAsia website: fact sheet with
+  frog](http://www.ecologyasia.com/verts/lizards/green-crested_lizard) on Nick Baker's EcologyAsia website: fact sheet with
   photos.
-- [*Fejervarya cancrivora*](https://singapore.biodiversity.online/taxo4254/mainSpace/Fejervarya%20cancrivora.html) (Anura: Dicroglossidae) Crab-eating Frog on Taxo4254.
+- [*Fejervarya cancrivora*](https://singapore.biodiversity.online/taxo4254/mainSpace/Fejervarya%20cancrivoral) (Anura: Dicroglossidae) Crab-eating Frog on Taxo4254.
 
 **References**
 
@@ -89,14 +76,4 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
   Amphibians and Freshwater Fishes*
   Vertebrate Study Group, Nature Society (Singapore). 180 pp..
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

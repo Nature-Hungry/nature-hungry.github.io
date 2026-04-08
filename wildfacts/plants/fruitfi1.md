@@ -4,24 +4,24 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../Templates/wildfactsheet3.gif)](../index.html)
+[![](../../Templates/wildfactsheet3.gif)](../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../index.html)  
+[wildfactsheets homepage](../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
+[all animals](../animals)
+| [all plants](../plants)
+| [concepts](../concepts/indexl)
+| [glossary](../glossary/indexl)
+| [search](../search)
 
 plants
-[text index](plantindex.htm) | [photo
-index](plantfi.htm)
+[text index](plantindex) | [photo
+index](plantfi)
 
 **Photo
 index of fruit trees of Singapore**  
@@ -32,28 +32,28 @@ index of fruit trees of Singapore**
   
 ![](fruittrees/averrhoa/carambola/091005cjd2046ma.jpg)  
   
-![](fruittrees/averrhoa/carambola/091128cjd4764ma.jpg) [Star-fruit tree](fruittrees/averrhoa/carambola.htm)*Averrhoa carambola*
+![](fruittrees/averrhoa/carambola/091128cjd4764ma.jpg) [Star-fruit tree](fruittrees/averrhoa/carambola)*Averrhoa carambola*
 
 ![](fruittrees/syzygium/malaccensis/091005cjd2130m.jpg)  
   
 ![](fruittrees/syzygium/malaccensis/091005cjd2131m.jpg)  
   
 ![](fruittrees/syzygium/malaccensis/091128cjd4768m.jpg)  
- [Jambu bol](fruittrees/syzygium/malaccensis.htm)*Syzygium malaccanse*
+ [Jambu bol](fruittrees/syzygium/malaccensis)*Syzygium malaccanse*
 
 ![](fruittrees/theobroma/cacao/091005cjd2000m.jpg)  
   
 ![](fruittrees/theobroma/cacao/091213ubnd5881m.jpg)  
   
 ![](fruittrees/theobroma/cacao/091005cjd2003m.jpg)  
- [Chocolate tree](fruittrees/theobroma/cacao.htm)*Theobroma caco*
+ [Chocolate tree](fruittrees/theobroma/cacao)*Theobroma caco*
 
 ![](fruittrees/durio/zibethinus/091005cjd2011ma.jpg)  
   
 ![](fruittrees/durio/zibethinus/080412cjd1335ma.jpg)  
   
 ![](fruittrees/durio/zibethinus/031011ubnd0019m.jpg)  
- [Durian](fruittrees/durio/zibethinus.htm)*Durio zibethinus*
+ [Durian](fruittrees/durio/zibethinus)*Durio zibethinus*
 
  
 Shrub
@@ -85,7 +85,7 @@ planted near villages.
   
   
   
-![](fruittrees/artocarpus/heterophyllus/091005cjd2015m.jpg) [Nangka tree](fruittrees/artocarpus/heterophyllus.htm)*Atrocarpus heterophyllus*
+![](fruittrees/artocarpus/heterophyllus/091005cjd2015m.jpg) [Nangka tree](fruittrees/artocarpus/heterophyllus)*Atrocarpus heterophyllus*
 
 ![](fruittrees/carica/papaya/091213ubnd5802m.jpg)  
   
@@ -99,7 +99,7 @@ planted near villages.
   
   
   
- [Papaya tree](fruittrees/carica/papaya.htm)*Carica papaya*
+ [Papaya tree](fruittrees/carica/papaya)*Carica papaya*
 
 ![](fruittrees/coffea/coffea/091213ubnd5832ma.jpg)  
   
@@ -114,7 +114,7 @@ planted near villages.
   
   
 ![](fruittrees/coffea/coffea/091213ubnd5832m.jpg)
- [Coffee bush](fruittrees/coffea/coffea.htm)*Coffea* sp.
+ [Coffee bush](fruittrees/coffea/coffea)*Coffea* sp.
 
 ![](fruittrees/manilkara/zapota/091213ubnd5790m.jpg)  
   
@@ -129,14 +129,14 @@ planted near villages.
   
   
 ![](fruittrees/manilkara/zapota/091213ubnd5789ma.jpg)  
- [Chiku tree](fruittrees/manilkara/zapota.htm)*Manilkara zapota*
+ [Chiku tree](fruittrees/manilkara/zapota)*Manilkara zapota*
 
 ![](fruittrees/psidium/guajava/091213ubnd5842m.jpg)  
   
 ![](fruittrees/psidium/guajava/091213ubnd5842ma.jpg)  
   
 ![](fruittrees/psidium/guajava/091213ubnd5844ma.jpg)  
- [Guava tree](fruittrees/psidium/guajava.htm)*Psidium guajava*
+ [Guava tree](fruittrees/psidium/guajava)*Psidium guajava*
 
 Tall
 tree (10-20m). Oval leaves. Flowers small. Fruits huge (30cm-1m).
@@ -167,11 +167,11 @@ index of
 plants on this site
 
 [all
-plants](plantfi.htm)
+plants](plantfi)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

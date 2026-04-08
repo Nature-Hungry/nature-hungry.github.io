@@ -4,30 +4,30 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "big, red, porcelain, crab, petrolisthes, porcellanidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../../wildfactsheet3.gif)](../../../../index.html)
+[![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../../index.html)  
+[wildfactsheets homepage](../../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../../animals.htm)
-| [all plants](../../../../plants.htm)
-| [concepts](../../../../concepts/index.html)
-| [glossary](../../../../glossary/index.html)
-| [search](../../../../search.htm)
+[all animals](../../../../animals)
+| [all plants](../../../../plants)
+| [concepts](../../../../concepts/indexl)
+| [glossary](../../../../glossary/indexl)
+| [search](../../../../search)
 
 porcelain crabs
-[text index](../../../crustaceaindex.htm#anomurans) | [photo
-index](../../../crabfi1b.htm)
-Phylum [Arthropoda](../../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../../crustacea.htm) >
-Class Malacostraca > Order [Decapoda](../../../decapoda.htm)
+[text index](../../../crustaceaindex#anomurans) | [photo
+index](../../../crabfi1b)
+Phylum [Arthropoda](../../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../../crustacea) >
+Class Malacostraca > Order [Decapoda](../../../decapoda)
 > Anomurans
 > Family
-[Porcellanidae](porcellanidae.htm)
+[Porcellanidae](porcellanidae)
 **Big
 porcelain crab**  
 ***Petrolisthes* sp.\*  
@@ -88,7 +88,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 ---
 
 ![](petrolisthes/110616ecplks.JPG)  
-*East Coast Park, Jun 11*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2011/06/east-coast-shore-is-still-alive.html).
+*East Coast Park, Jun 11*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2011/06/east-coast-shore-is-still-alivel).
 
 ![](petrolisthes/160210ecplks.JPG)  
 *East Coast Park, Feb 16*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/24570065909/in/album-72157663938916840/).
@@ -99,7 +99,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 *Labrador, Aug 17*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10155646582653158&set=a.10155646581903158&type=3&theater).
 
 ![](petrolisthes/101205blylks.JPG)  
-*Berlayar Creek, Dec 10*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2010/12/first-visit-to-berlayar-shore.html).
+*Berlayar Creek, Dec 10*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2010/12/first-visit-to-berlayar-shorel).
 
 ---
 
@@ -145,7 +145,7 @@ Petrolisthes teres*
 **Links**
 
 - [Porcelain
-  Crab (*Petrolisthes*)](http://mangrove.nus.edu.sg/pub/seashore/text/184.htm) Tan, Leo W. H. & Ng, Peter K. L.,
+  Crab (*Petrolisthes*)](http://mangrove.nus.edu.sg/pub/seashore/text/184) Tan, Leo W. H. & Ng, Peter K. L.,
   1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
@@ -163,9 +163,9 @@ Petrolisthes teres*
   Science, Nanyang Technological University & Department of Zoology,
   the National University of Singapore. 160 pp.
 
-[links](../../../../links.htm)
-| [references](../../../../references.htm)
-| [about](../../../../about.htm)
+[links](../../../../links)
+| [references](../../../../references)
+| [about](../../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

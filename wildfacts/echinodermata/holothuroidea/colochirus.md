@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "thorny, cucumber, seacucumber, colochirus, quadrangularis, cucumariidae, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 sea
-cucumbers [text index](../echinodermindex.htm#holothuroidea)
-| [photo index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class [Holothuroidea](holothuroidea.htm)
+cucumbers [text index](../echinodermindex#holothuroidea)
+| [photo index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
+> Class [Holothuroidea](holothuroidea)
 **Thorny
 sea cucumber  
 *Colochirus quadrangularis*  
@@ -52,7 +39,7 @@ red or orange, with shades of grey and green or bluish lines along
 the length. Feeding tentacles yellow with tiny brown speckles and branched tips sometimes red or orange.  
   
 **Sometimes mistaken for**  the [Pink
-warty sea cucumber](cercodemas.htm) which looks similar
+warty sea cucumber](cercodemas) which looks similar
 and is found in the same habitat often next to the Thorny sea cucumber. The Pink warty sea cucumber has pink warty bumps instead of soft thorns and has yellow on its body, which the Thorny sea cucumber usually lacks.
 
 ![](colochirus/031226chgd0003m3.jpg)  
@@ -81,15 +68,15 @@ with blue stripes. *Beting Bronok, Jul 05*.
 *![](colochirus/060502chgd1782m3.jpg)*This one was tinier
 than a seagrass leaf. *Changi, May 06* 
 **Living on a cucumber** Sometimes small creatures are seen on the sea cucumber. Such as parasitic snails and tiny shrimps.
-*![](colochirus/090623ecpjk3m3.jpg)*[Ulimid snails](../../mollusca/gastropoda/eulimidae/eulimidae.htm) found on the sea cucumber. *East Coast, Jun 09*Photo
+*![](colochirus/090623ecpjk3m3.jpg)*[Ulimid snails](../../mollusca/gastropoda/eulimidae/eulimidae) found on the sea cucumber. *East Coast, Jun 09*Photo
 shared by James Koh on [flickr](https://www.flickr.com/photos/jameskoh/3652682482/).
 *![](colochirus/050821bbg1857m3b.jpg)*[Commensal
-shrimp](../../crustacea/othercrust/shrimp/periclimenes.htm) seen on the sea cucumber.
+shrimp](../../crustacea/othercrust/shrimp/periclimenes) seen on the sea cucumber.
  
 **Human uses:** Thorny sea cucumbers
 are among the sea cucumbers harvested for the live aquarium trade,
 although not as popular as the more colourful [Sea
-apple sea cucumber](violaceaus.htm) (*Pseudocolochirus violaceus*). Like other
+apple sea cucumber](violaceaus) (*Pseudocolochirus violaceus*). Like other
 fish and creatures harvested from the wild, most die before they can
 reach the retailers. Without professional
 care, most die soon after they are sold. Often of starvation as owners
@@ -124,11 +111,11 @@ shared by Liz Lim on [facebook](https://www.facebook.com/photo.php?fbid=21294230
 *![](colochirus/091203ubnjk4m3.jpg)  
 Pulau Ubin, Dec 09*Photo
 shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/12/pulau-ubin-new-shore.html).
+blog](http://sgn090608.blogspot.com/2009/12/pulau-ubin-new-shorel).
 
 ![](colochirus/090821tmlks1m3.jpg) *Tanah Merah, Aug 09*Photo
 shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/08/new-sandy-stretch-at-tanah-merah.html).
+blog](http://wondercreation.blogspot.com/2009/08/new-sandy-stretch-at-tanah-merahl).
 
 ---
 
@@ -137,11 +124,11 @@ Seringat-Kias, Feb 11*Photo
 shared by Russel Low on [facebook](http://www.facebook.com/album.php?fbid=165010616883672&id=109257872458947&aid=48717).
 
 ![](colochirus/160509srpik10.jpg)  
-*Sentosa Serapong, May 16*Photo shared by Ivan Kwan on [facebook](holothuroidea/colochirus.htm).
+*Sentosa Serapong, May 16*Photo shared by Ivan Kwan on [facebook](holothuroidea/colochirus).
 
 ![](colochirus/090510sntik8m3.jpg)  
 *Sentosa Siloso, May 09*Photo shared by Ivan Kwan on [his
-blog](http://lazy-lizard-tales.blogspot.com/2009/05/finds-with-spines-on-siloso.html).
+blog](http://lazy-lizard-tales.blogspot.com/2009/05/finds-with-spines-on-silosol).
 
 ---
 
@@ -154,11 +141,11 @@ shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10
 **Links**
 
 - [Sea
-  cucumbers](http://mangrove.nus.edu.sg/pub/seashore/text/222.htm) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+  cucumbers](http://mangrove.nus.edu.sg/pub/seashore/text/222) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [*Colochirus
-  quadrangularis*](http://www.sealifebase.org/summary/Colochirus-quadrangularis.html) on SeaLife Base: Technical fact sheet.
+  quadrangularis*](http://www.sealifebase.org/summary/Colochirus-quadrangularisl) on SeaLife Base: Technical fact sheet.
 - [*Pentacta
   quadrangularis*](http://species-identification.org/species.php?species_group=nasc&id=93) in North Australian Sea Cucumbers on Marine
   Species Identification Portal: Technical fact sheet.
@@ -170,14 +157,4 @@ shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10
   Guide to Sea Stars and Other Echinoderms of Singapore*.
   Singapore Science Centre. 187pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

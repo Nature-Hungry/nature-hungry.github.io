@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "shrimp, hippolytidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 shrimps [text
-index](../../crustaceaindex.htm#shrimps) | [photo index](../../shrimpfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> [prawns and shrimps](shrimp.htm)
+index](../../crustaceaindex#shrimps) | [photo index](../../shrimpfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> [prawns and shrimps](shrimp)
 **Hippolytoid
 shrimps**  
 **Family Hippolytidae***updated
@@ -34,9 +34,9 @@ Jan 2020*
 
 **What
 are Hippolytid shrimps?** Hippolytid
-shrimps are [crustaceans](../../crustacea.htm) that belong
+shrimps are [crustaceans](../../crustacea) that belong
 to Family Hippolytidae.    
-**Features:** Tiny (under 1cm) to small (2-5cm long). This family is large and includes a wide range of shimps found in a wide range of habitats: such as cleaner shrimps, shrimps with bent backs, sometimes called 'broke-back' or humpbacked shrimps. As well as very long slender shrimps that live on [sea whips](../../../cnidaria/others/gorgonacea/whip.htm).
+**Features:** Tiny (under 1cm) to small (2-5cm long). This family is large and includes a wide range of shimps found in a wide range of habitats: such as cleaner shrimps, shrimps with bent backs, sometimes called 'broke-back' or humpbacked shrimps. As well as very long slender shrimps that live on [sea whips](../../../cnidaria/others/gorgonacea/whip).
 
 ---
 
@@ -45,11 +45,11 @@ shrimps on Singapore shores**
 
 ---
 
-***![](saron/090918tmd0927m3.jpg)*[Saron shrimp](saron.htm)**
+***![](saron/090918tmd0927m3.jpg)*[Saron shrimp](saron)**
 
-***![](lysmata/031225skdd0066m3.jpg)*[Cleaner shrimp](lysmata.htm)**
+***![](lysmata/031225skdd0066m3.jpg)*[Cleaner shrimp](lysmata)**
 
-*![](humped/111002sisd2124m3.jpg)*[**Humpbacked shrimp**](humped.htm)
+*![](humped/111002sisd2124m3.jpg)*[**Humpbacked shrimp**](humped)
 
 ---
 
@@ -74,11 +74,11 @@ Hippolyte ventricosa
 Latreutes anoplonyx  
 Latreutes mucronatus  
 Latreutes porcinus  
-Latreutes pymaeus=^Latreutes pymoeus*[*Lysmata* sp.](lysmata.htm) (Cleaner shrimp) *\*\*Lysmata vittata  
+Latreutes pymaeus=^Latreutes pymoeus*[*Lysmata* sp.](lysmata) (Cleaner shrimp) *\*\*Lysmata vittata  
   
 Mimocaris heterocarpoides  
   
-Phycocaris* sp. [*Saron* sp.](saron.htm) (Saron shrimp) *Saron marmoratus* (Marbled shrimp) *Saron neglectus  
+Phycocaris* sp. [*Saron* sp.](saron) (Saron shrimp) *Saron marmoratus* (Marbled shrimp) *Saron neglectus  
   
 Thor paschalis  
   
@@ -108,9 +108,9 @@ Tozeuma lanceolatum* (Sea whip shrimp)
   Helmut, 2001. *Crustacea
   Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean* IKAN-Unterwasserachiv, Frankfurt. 321 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

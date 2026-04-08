@@ -4,21 +4,6 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](index.html)
-| [search](../search.htm)
-
 **Photo
 index of marine life on Singapore shores**
   
@@ -26,69 +11,69 @@ index of marine life on Singapore shores**
 ---
 
 **Bristley lifeforms**see also [feathery
-lifeforms](fifeathery.htm)  
+lifeforms](fifeathery)  
 
 ![](../echinodermata/crinoidea/blue/050820bbg1788m.jpg)  
 [**feather
-star**](../echinodermata/crinoideafi.htm)
+star**](../echinodermata/crinoideafi)
 
 ![](../echinodermata/crinoidea/purpurea/050623cjg8337m.jpg)  
 [**feather
-star**](../echinodermata/crinoideafi.htm)
+star**](../echinodermata/crinoideafi)
 
 ![](../echinodermata/crinoidea/red/080425cyrd1820m.jpg)  
 [**feather
-star**](../echinodermata/crinoideafi.htm)
+star**](../echinodermata/crinoideafi)
 
 ![](../mollusca/bivalvia/ostreidae/saccostrea/030814skdd0217m.jpg)  
-[**oyster**](../mollusca/bivalviafi4.htm)
+[**oyster**](../mollusca/bivalviafi4)
 
 ![](../echinodermata/ophiuroidea/flatarm/040702chgd1476m.jpg)  
 [**brittle
-star**](../echinodermata/ophuiroideafi.htm)
+star**](../echinodermata/ophuiroideafi)
 
 ![](../echinodermata/ophiuroidea/longipeda/030615cjd0228m.jpg)  
 [**brittle
-star**](../echinodermata/ophuiroideafi.htm)
+star**](../echinodermata/ophuiroideafi)
 
 ![](../echinodermata/ophiuroidea/tinysponge/050806skdg0477mb.jpg)  
 [**brittle
-star**](../echinodermata/ophuiroideafi.htm)
+star**](../echinodermata/ophuiroideafi)
 
 ![](../echinodermata/ophiuroidea/upsidedown/050621skdg7883m.jpg)  
 [**brittle
-star**](../echinodermata/ophuiroideafi.htm)
+star**](../echinodermata/ophuiroideafi)
 
 ![](../mollusca/gastropoda/muricidae/chunky/050110skdd9489m.jpg)  
 **[snail
-eggs](../eggs/eggfi.htm)**
+eggs](../eggs/eggfi)**
 
 ![](../worm/polychaeta/chloeia/050412tusd2407m.jpg)  
-**[bristleworm](../worm/polychaetafi.htm)**
+**[bristleworm](../worm/polychaetafi)**
 
 ![](../worm/polychaeta/reef/040804skdd4129m.jpg)  
-**[bristleworm](../worm/polychaetafi.htm)**
+**[bristleworm](../worm/polychaetafi)**
 
 **![](../echinodermata/echinoidea/urchin/salmacis/050621skdg8023m.jpg)  
 [sea
-urchins](../echinodermata/echinoideafi1.htm)**
+urchins](../echinodermata/echinoideafi1)**
 
 **![](../echinodermata/echinoidea/urchin/diadema/040830hntd5872m.jpg)  
 [sea
-urchins](../echinodermata/echinoideafi1.htm)**
+urchins](../echinodermata/echinoideafi1)**
 
 ![](../echinodermata/echinoidea/urchin/temnopleurus/050411tusg4478m.jpg)  
 **[sea
-urchins](../echinodermata/echinoideafi1.htm)**
+urchins](../echinodermata/echinoideafi1)**
 
 ---
 
 how to tell apart
 
 - [bristley
-  lifeforms](wormstar.htm)
+  lifeforms](wormstar)
 - [feathery
-  lifeforms](feathery.htm)
+  lifeforms](feathery)
 
   
   
@@ -101,41 +86,41 @@ lifeforms on this site
 by shape
 
 [general
-photo index](../photoindex.htm)  
+photo index](../photoindex)  
   
-[ball-shaped](fiball.htm)  
+[ball-shaped](fiball)  
   
-[blobs](fiblobs.htm)   
+[blobs](fiblobs)   
   
-[branching](fibranching.htm)  
+[branching](fibranching)  
   
 bristley  
   
-[encrusting](fiencrusting.htm)  
+[encrusting](fiencrusting)  
   
-[feathery](fifeathery.htm)  
+[feathery](fifeathery)  
   
-[flat flexible](fiflatflexi.htm)   
+[flat flexible](fiflatflexi)   
   
-[flat stiff](fiflatstiff.htm)   
+[flat stiff](fiflatstiff)   
   
-[hairy](fihairy.htm)  
+[hairy](fihairy)  
   
-[leafy](fileafy.htm)  
+[leafy](fileafy)  
   
-[ribbon-like](firibbon.htm)  
+[ribbon-like](firibbon)  
   
-[sausage-like](fisausage.htm)  
+[sausage-like](fisausage)  
   
-[snake-like](fisnake.htm)   
+[snake-like](fisnake)   
   
-[stick-like](fistick.htm)   
+[stick-like](fistick)   
   
-[worm-like](fiworm.htm)
+[worm-like](fiworm)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

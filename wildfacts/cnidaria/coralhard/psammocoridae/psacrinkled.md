@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "sandpaper, psammocora, siderastreidae, psammocoridae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 hard corals [text
-index](../../coralhardindex.htm) | [photo index](../../cnidariafi1.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard.htm)
-> Family [Psammocoridae](psammocoridae.htm)
+index](../../coralhardindex) | [photo index](../../cnidariafi1)
+Phylum [Cnidaria](../../cnidaria)
+> Class [Anthozoa](../../anthozoa) > Subclass
+Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard)
+> Family [Psammocoridae](psammocoridae)
 **Crinkled
 sandpaper coral** ***Psammocora* sp.  
 Family Psammocoridae***updated
@@ -48,8 +48,8 @@ the colony has a furry look. Colours seen include pale blue, green
 and brown.   
   
 Among the branches can be seen tiny shrimps, [tiny
-clams](../../../mollusca/bivalvia/pectinidae/coral.htm) and sometimes, [fan
-worms](../../../worm/polychaeta/sabellidae.htm).  
+clams](../../../mollusca/bivalvia/pectinidae/coral) and sometimes, [fan
+worms](../../../worm/polychaeta/sabellidae).  
 
 ![](crinkled/050625labg8651m3.jpg)  
 *Labrador, Jun 05*
@@ -76,7 +76,7 @@ Jan 07![](crinkled/070102sisd7350m3b.jpg)*
 *Terumbu Pempang
 Laut, Aug 10  
 ![](crinkled/100812tpld0251m3a.jpg)*A
-tiny [clam](../../../mollusca/bivalvia/pectinidae/coral.htm).
+tiny [clam](../../../mollusca/bivalvia/pectinidae/coral).
 
 *![](crinkled/070630sisd2871m3.jpg)  
 *Sisters Island,
@@ -99,7 +99,7 @@ Island, Apr 12
 *Pulau Tekukor,
 May 07  
 ![](crinkled/070518tkrd0969m3a.jpg)*A
-[fan worm](../../../worm/polychaeta/sabellidae.htm) retracted
+[fan worm](../../../worm/polychaeta/sabellidae) retracted
 into its tube.
 
   
@@ -146,9 +146,9 @@ Jun 10
 *Pulau Salu,
 Jun 10**
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

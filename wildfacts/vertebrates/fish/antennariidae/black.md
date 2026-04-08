@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "black, frog, angler, fish, frogfish, anglerfish, antennariidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Antennariidae](antennariidae.htm)
+> Subphylum Vertebrate > [fishes](../fish) >
+Family [Antennariidae](antennariidae)
 **Black
 frogfish  
 *awaiting
@@ -37,14 +37,14 @@ Sep 2020*
 seen?** This all black and almost velvety frogfish is sometimes seen on our
 Southern shores. Among coral rubble. There are suggestions
 that this is a black version of juvenile [Spotted-tail
-frogfishes](trisignatus.htm).  
+frogfishes](trisignatus).  
   
 **Features:** Those seen 6-10cm. Body
 globular, all black, some have sand-coloured
 markings on the body and edges of the fins and tail. Lacks scales and has a loose prickly
 skin instead. Lying motionless on the reef flat, it
 is easily mistaken for a [black
-sponge](../../../porifera/blackbath.htm)!  
+sponge](../../../porifera/blackbath)!  
   
 **Fishing
 with a lure:** Like others in the family, it has a lure at the top of the head to
@@ -54,7 +54,7 @@ on the inside of the mouth, perhaps this also lures prey to come closer?
 **Sometimes
 mistaken for** stonefish and scorpionfishes. Here's more
 on [how to tell apart fishes that look
-like stones](../cfstonefish.htm).
+like stones](../cfstonefish).
 
 ![](black/070812sisg1958m3.jpg)  
 *Sisters Island,
@@ -135,16 +135,16 @@ Kelvin Yong on [facebook](https://www.facebook.com/734420111/videos/a.1016872066
 Toh Chay Hoon on [facebook](https://www.facebook.com/media/set/?set=a.10153401767603713.1073741962.619308712&type=3).
 
 ![](black/140909tptlks1m3.JPG)  
-*Terumbu Pempang Tengah, Sep 14*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/09/boat-graveyard-at-terumbu-pempang-tengah.html).
+*Terumbu Pempang Tengah, Sep 14*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/09/boat-graveyard-at-terumbu-pempang-tengahl).
 
 ![](black/220503tptrk2.jpg)  
 *Terumbu Pempang Tengah, May 22*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo/?fbid=10159723967272906&set=a.10159723965727906).
 
 ---
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

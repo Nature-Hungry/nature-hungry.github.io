@@ -4,27 +4,14 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "feather, star, featherstar, comatulida, crinoidea, crinoid, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 crinoids
-[text index](../echinodermindex.htm#crinoidea) | [photo
-index](../crinoideafi.htm)
+[text index](../echinodermindex#crinoidea) | [photo
+index](../crinoideafi)
 
-Phylum [Echinodermata](../echinodermata.htm)
-> Class Crinoidea > Order [Comatulida](crinoidea.htm)
+Phylum [Echinodermata](../echinodermata)
+> Class Crinoidea > Order [Comatulida](crinoidea)
 **Blue
 feather star**  
 ***awaiting
@@ -110,13 +97,13 @@ shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.
 *Changi,
 Jun 09*Photo
 shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/07/beyond-murky-waters-of-changi.html).
+blog](http://wondercreation.blogspot.com/2009/07/beyond-murky-waters-of-changil).
 
 ![](blue/080704skdlks01m3.jpg)  
 *Pulau Sekudu,
 Jul 08*Photo
 shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2008/07/back-to-sekudu-after-year.html).
+blog](http://wondercreation.blogspot.com/2008/07/back-to-sekudu-after-yearl).
 
 ---
 
@@ -152,14 +139,4 @@ shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/42477
 *Pulau Hantu, Jun 08*Photo
 shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/2911084895/).
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

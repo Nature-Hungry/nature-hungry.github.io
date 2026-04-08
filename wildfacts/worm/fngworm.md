@@ -4,30 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "seaweed, weed, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[![talking points for nature guides](../../Templates/fornatureguides.gif)](../forguides/index.html)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 worms
-[text index](wormindex.htm) | [photo
-index](wormfi.htm)
-[worms](worm.htm)
+[text index](wormindex) | [photo
+index](wormfi)
+[worms](worm)
 in general
 [index
-to talking points](../forguides/index.html) for nature guides
+to talking points](../forguides/indexl) for nature guides
 **Introducing
 worms**  
 *updated
@@ -38,8 +21,8 @@ Oct 2016*
 **Don't
 step on the tubeworms!**These
 are not plant roots or bits or rubbish. These are [tubes
-made by worms](polychaeta/diopatra.htm)! And that patch that [looks
-like a shaggy carpet](polychaeta/gregarious.htm) are actually made up of tiny tubes of worms.
+made by worms](polychaeta/diopatra)! And that patch that [looks
+like a shaggy carpet](polychaeta/gregarious) are actually made up of tiny tubes of worms.
  **What are worms?**   
 Worms are animals!
 
@@ -48,26 +31,26 @@ Worms are animals!
   Some worms on our shore look very different from the worms we
   are more familiar with.
   - Many
-    marine [worms have bristles](polychaeta/polychaeta.htm)
+    marine [worms have bristles](polychaeta/polychaeta)
     on the sides of their bodies. These bristles may poke you
     and may have toxins so don't touch them.
   - Some
-    worms have a feathery fan on their heads: like [fanworms](polychaeta/sabellidae.htm)
-    and [keelworms](polychaeta/serpulidae.htm).
+    worms have a feathery fan on their heads: like [fanworms](polychaeta/sabellidae)
+    and [keelworms](polychaeta/serpulidae).
   - Some
     worms are very long! The [Giant
-    reefworm](polychaeta/giant.htm) can reach 1m long or more!
+    reefworm](polychaeta/giant) can reach 1m long or more!
   - Some
-    worms are very flat, like the [flatworms](polycladida/polycladida.htm)
+    worms are very flat, like the [flatworms](polycladida/polycladida)
 - **Where
   do worms live on a shore?**
   - Many
     live under stones or coral rubble.
   - Some
     are buried in the sand or mud. Sometimes, they leave a [worm
-    cast](enteropneusta/enteropneusta.htm) on the surface.
+    cast](enteropneusta/enteropneusta) on the surface.
   - Many
-    build tubes for themselves: [tubeworms](tubeworm/tubeworms.htm).
+    build tubes for themselves: [tubeworms](tubeworm/tubeworms).
   - Besides
     the big worms that you can see, there are countless tiny worms,
     some of them smaller than a grain of sand, all over the shore!
@@ -109,9 +92,9 @@ or other protection.
 FREE photos of [marine
 worms](http://www.flickr.com/photos/54527470@N00/tags/worm). Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

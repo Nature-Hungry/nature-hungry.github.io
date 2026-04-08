@@ -4,28 +4,11 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, crab, decapoda, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[![talking points for nature guides](../../Templates/fornatureguides.gif)](fngshrimps.htm)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 crustacea [text
-index](crustaceaindex.htm) | [photo index](crustaceafi.htm)
-Phylum [Arthropoda](../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](crustacea.htm) > Class Malacostraca
-> Order [Decapoda](decapoda.htm)
+index](crustaceaindex) | [photo index](crustaceafi)
+Phylum [Arthropoda](../arthropoda/arthropoda)
+> Subphylum [Crustacea](crustacea) > Class Malacostraca
+> Order [Decapoda](decapoda)
 **Photo
 index of crustaceans on Singapore shores**
 
@@ -40,7 +23,7 @@ index of crustaceans on Singapore shores**
 ![](othercrust/isopoda/ligia/041018sntd7570m.jpg)
 
 [**shrimps
-and shrimp-like**](shrimpfi1.htm) **<3cm**  
+and shrimp-like**](shrimpfi1) **<3cm**  
 including snapping shrimps, anemoneshrimps
 
 ![](othercrust/shrimp/penbluetail/050509hntg5929m.jpg)
@@ -52,7 +35,7 @@ including snapping shrimps, anemoneshrimps
 ![](othercrust/shrimp/penbanded/050621skdg7955m.jpg)
 
 [**prawns,
-shrimp, lobsters**](shrimpfi2.htm) **>3cm**  
+shrimp, lobsters**](shrimpfi2) **>3cm**  
 including mudlobster, ghost shrimp, mantis shrimp
   
   
@@ -62,20 +45,20 @@ index of
 crustaceans on this site
 
 **Crustaceans**  
-[all crustaceans](crustaceafi.htm)  
+[all crustaceans](crustaceafi)  
   
 **Shrimps**  
 all shrimps, prawns, lobsters and
 shrimp-like  
   
-[small](shrimpfi1.htm)
+[small](shrimpfi1)
 <
 3cm  
- [large](shrimpfi2.htm) > 3cm
+ [large](shrimpfi2) > 3cm
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

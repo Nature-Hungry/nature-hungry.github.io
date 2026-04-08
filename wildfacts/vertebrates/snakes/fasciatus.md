@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "snake, krait, bungarus fasciatus, elapidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 snakes [text
-index](snakeindex.htm) | [photo index](snakeshorefi.htm)
+index](snakeindex) | [photo index](snakeshorefi)
 Phylum Chordata
 > Subphylum Vertebrata > Class Reptilia > [shore
-snakes](snakeshore.htm)
+snakes](snakeshore)
 **Banded
 krait  
 *Bungarus fasciatus*  
@@ -36,7 +23,7 @@ Oct 2016*
 seen?** Usually rarely seen, this beautiful snake was the
 highlight of the Chek Jawa boardwalk grand opening! The Singapore
 Snakes blog [also
-reported](http://singaporesnakes.blogspot.com/2006/05/banded-krait-bungarus-fasciatus_29.html) swimming near mangroves on an offshore island. According
+reported](http://singaporesnakes.blogspot.com/2006/05/banded-krait-bungarus-fasciatus_29l) swimming near mangroves on an offshore island. According
 to Baker, in Singapore it has also been recorded in Pulau Ubin, Pulau
 Tekong, Lim Chu Kang, Sungei Buloh and Khatib Bongsu. Widely distributed
 in Southeast Asia where it is mostly a coastal snake, but also found
@@ -56,11 +43,11 @@ been recorded as being active and dangerous at night. WARNING: more
 aggressive baby cobras (*Naja sumatrana*) have similar markings.  
   
 **Sometimes confused with** the highly
-venomous [Yellow-lipped sea snake](laticauda.htm) (*Laticauda
+venomous [Yellow-lipped sea snake](laticauda) (*Laticauda
 colubrina*). Here's [how to tell apart banded
-snakes](cfseafile.htm) seen near the coast. It may also be confused with eels.
+snakes](cfseafile) seen near the coast. It may also be confused with eels.
 Here's more on [how to tell apart
-sea snakes, eels and eel-like animals](../../glossary/eelsnake.htm).   
+sea snakes, eels and eel-like animals](../../glossary/eelsnake).   
   
 **What does it eat?** Mainly lizards
 and other snakes, as well as other small vertebrates. It considered
@@ -110,7 +97,7 @@ Distribution in Singapore on this [wildsingapore flickr map](https://www.flickr.
 *![](fasciatus/070707cjlks1m6l.jpg)  
 Chek Jawa, Jul 07*Photo shared
 by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2007/07/chek-jawa-is-now-open-any-tide.html).
+blog](http://wondercreation.blogspot.com/2007/07/chek-jawa-is-now-open-any-tidel).
 
 *![](fasciatus/070707cjlks1m3b.jpg)*
 
@@ -125,7 +112,7 @@ blog](http://wondercreation.blogspot.com/2007/07/chek-jawa-is-now-open-any-tide.
   Snakes](http://singaporesnakes.blogspot.com/) blog: fact sheet with photos and links to local sightings
   and other posts.
 - [Banded
-  Krait](http://www.ecologyasia.com/verts/snakes/banded_krait.htm) on Nick Baker's EcologyAsia website: fact sheet with
+  Krait](http://www.ecologyasia.com/verts/snakes/banded_krait) on Nick Baker's EcologyAsia website: fact sheet with
   photos.
 - [The
   Banded Krait that graced the launch of the Chek Jawa boardwalk](http://habitatnews.nus.edu.sg/index.php?entry=/marine/20070708-bungarus_fasciatus.txt)
@@ -164,14 +151,4 @@ blog](http://wondercreation.blogspot.com/2007/07/chek-jawa-is-now-open-any-tide.
 FREE photos of [snakes](http://www.flickr.com/photos/54527470@N00/sets/72157594587662941).
 Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

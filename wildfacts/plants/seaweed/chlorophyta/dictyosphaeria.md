@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "pimply, seaweed, weed, green, dictyosphaeria, siphonocladaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 green
-seaweeds [text index](../seaweedindex.htm) | [photo
-index](../seaweedfi.htm)
-[Seaweeds](../seaweed.htm)
-> Division [Chlorophyta](chlorophyta.htm)
+seaweeds [text index](../seaweedindex) | [photo
+index](../seaweedfi)
+[Seaweeds](../seaweed)
+> Division [Chlorophyta](chlorophyta)
 **Pimply
 green seaweed  
 *Dictyosphaeria* sp.\*  
@@ -46,7 +46,7 @@ spheres. Immature forms may be firm, irregularly shaped and generally
 globular. Bright green to bluish green.  
   
 According to [Marine
-Algae of Hawai`i](http://www.hawaii.edu/reefalgae/default.htm) the bubble-like structure of this seaweed allows
+Algae of Hawai`i](http://www.hawaii.edu/reefalgae/default) the bubble-like structure of this seaweed allows
 it to efficiently trap nutrient-laden sediments in the chambers. The
 seaweed then slowly taps on this nutrient store.  
   
@@ -133,8 +133,8 @@ Dictyosphaeria intermedia
   on the [Sea Slug Forum](http://www.seaslugforum.net/):
   photo and description of the seaweed and the slugs that eat it.
 - [*Dictyosphaeria
-  cavernosa*](http://www.hawaii.edu/reefalgae/invasive_algae/chloro/dictyosphaeria_cavernosa.htm) from [Marine
-  Algae of Hawai`i](http://www.hawaii.edu/reefalgae/default.htm) on the University of Hawai`i Botany Department
+  cavernosa*](http://www.hawaii.edu/reefalgae/invasive_algae/chloro/dictyosphaeria_cavernosa) from [Marine
+  Algae of Hawai`i](http://www.hawaii.edu/reefalgae/default) on the University of Hawai`i Botany Department
   website: fact sheet with photos.
 - [*Dictyosphaeria*](http://www.algaebase.org/search/genus/detail/?genus_id=35942)
   on [AlgaeBase](http://www.algaebase.org/): Technical
@@ -166,9 +166,9 @@ FREE photos of
 seaweeds](http://www.flickr.com/photos/54527470@N00/sets/72157600032152343).  
 Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

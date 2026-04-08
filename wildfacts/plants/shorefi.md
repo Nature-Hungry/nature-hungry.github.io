@@ -4,31 +4,16 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 plants
-[text index](plantindex.htm) | [photo
-index](plantfi.htm)
+[text index](plantindex) | [photo
+index](plantfi)
 
-[mangroves](mangrove/mangroves.htm)
-| [coastal plants](coastal/coastalplants.htm)
+[mangroves](mangrove/mangroves)
+| [coastal plants](coastal/coastalplants)
 **Photo
 index of seashore plants on Singapore shores**
   
-including mangrove plants (except [mangrove trees](mangfi.htm))  
+including mangrove plants (except [mangrove trees](mangfi))  
 
 ---
 
@@ -36,7 +21,7 @@ including mangrove plants (except [mangrove trees](mangfi.htm))
 ![](coastal/sesuvium/portulacastrum/090126ubnd6233ma.jpg)
 ![](coastal/ipomoea/pescaprae/090405smkd8945m.jpg)
 ![](coastal/canavalia/canavalia/090405smkd9044m.jpg)
-[creepers](shorefi1.htm)
+[creepers](shorefi1)
 
 ![](mangrove/derris/trifoliata/090321krjo3211493m.jpg)
 
@@ -47,20 +32,20 @@ including mangrove plants (except [mangrove trees](mangfi.htm))
 ![](coastal/flagellaria/indica/090111smkd4873ma.jpg)
 
 [climbers,
-vines](shorefi2.htm)  
+vines](shorefi2)  
 and rattans
  
 ![](coastal/crinum/asiaticum/090214sbwrd7060m.jpg)
 ![](coastal/crinum/asiaticum/090307blyd7421m.jpg)
 ![](coastal/tacca/leontopetaloides/090111smkd4869ma.jpg)
 [herbs
-and ground plants](shorefi3.htm)
+and ground plants](shorefi3)
 ![](others/asplenium/nidus/090613admd4177m.jpg)
 ![](others/drymoglossum/piloselloides/090408wdld9130m.jpg)
 ![](mangrove/acrostichum/speciosum/090328sbwrd0033m.jpg)
 ![](mangrove/acrostichum/aureum/090328sbwrd8453ma.jpg)
 [seashore
-ferns](shorefi7.htm)
+ferns](shorefi7)
 
 ![](mangrove/nypa/nypa/090124ubnd5977m.jpg)
 
@@ -71,7 +56,7 @@ ferns](shorefi7.htm)
 ![](coastal/pandanus/tectorius/051018smkg2732ma.jpg)
 
 [palms,
-pandans](shorefi4.htm)
+pandans](shorefi4)
 
 **seashore
 shrubs** <2m
@@ -80,13 +65,13 @@ shrubs** <2m
 ![](coastal/ximenia/americana/090117smkd5533m.jpg)
 ![](coastal/ardisia/elliptica/050626smkd4451m.jpg)
 [thick/leathery
-leaves](shorefi5a.htm)
+leaves](shorefi5a)
 ![](coastal/clerodendrum/inerme/030809ulrd0146mb.jpg)
 ![](coastal/desmodium/umbellatum/090412hntd9881m.jpg)
 ![](coastal/morinda/citrifolia/090328sbwrd8470m.jpg)
 ![](coastal/hibiscus/tiliaceus/090117smkd5536m.jpg)
 [thin
-leaves](shorefi5b.htm) 
+leaves](shorefi5b) 
  
  
  
@@ -99,21 +84,21 @@ trees** >2m
 ![](coastal/pouteria/linggensis/011106cjd395m.jpg)
 at
 the shore  
-[small simple leaves](shorefi6b.htm)
+[small simple leaves](shorefi6b)
 ![](coastal/calophyllum/inophyllum/090124ubnd5979m.jpg)
 ![](coastal/terminalia/catappa/040831sjid6040m.jpg)
 ![](coastal/cerbera/odollam/090410ubnd9387m.jpg)
 ![](coastal/barringtonia/asiatica/030910sbwrad0078ma.jpg)
 at
 the shore  
-[large simple leaves](shorefi6c.htm)
+[large simple leaves](shorefi6c)
 ![](coastal/adenanthera/pavonina/090413blyd0040m.jpg)
 ![](coastal/pongamia/pinnata/090410ubnd9423mb.jpg)
 ![](coastal/leucaena/leucocephala/090405smkd9059ma.jpg)
 ![](coastal/casuarina/equisetifolia/090314smkd8048m.jpg)
 at
 the shore  
-[compound or other leaves](shorefi6d.htm)
+[compound or other leaves](shorefi6d)
  
  
  
@@ -128,7 +113,7 @@ trees**
 ![](mangrove/rhizophora/stylosa/070520smkd1221ma.jpg)
 ![](mangrove/rhizophora/stylosa/081206smkd2573m.jpg)
 [mangrove
-trees](mangfi.htm)  
+trees](mangfi)  
 at or below the high water mark
 
 [www.**flickr**.com](http://www.flickr.com)  
@@ -141,47 +126,47 @@ index of
 plants on this site
 
 [all
-plants](plantfi.htm)  
+plants](plantfi)  
   
 **mangrove
 & seashore plants**   
-[creepers](shorefi1.htm)  
-[climbers, vines](shorefi2.htm)  
-[herbs](shorefi3.htm)  
-[ferns](shorefi7.htm)  
-[palms, pandans](shorefi4.htm)  
+[creepers](shorefi1)  
+[climbers, vines](shorefi2)  
+[herbs](shorefi3)  
+[ferns](shorefi7)  
+[palms, pandans](shorefi4)  
   
 **mangrove
 &** **seashore
   
 shrubs<2m**  
-[thick/leathery leaves](shorefi5a.htm)  
-[thin leaves](shorefi5b.htm)  
+[thick/leathery leaves](shorefi5a)  
+[thin leaves](shorefi5b)  
   
 **seashore
   
 trees>2m**   
 type of leaves  
-[small simple](shorefi6b.htm)  
-[large simple](shorefi6c.htm)  
-[compound, others](shorefi6d.htm)   
+[small simple](shorefi6b)  
+[large simple](shorefi6c)  
+[compound, others](shorefi6d)   
   
 **mangrove
 trees**  
-small oval fruits and [pneumatophores](mangfi6a.htm)  
+small oval fruits and [pneumatophores](mangfi6a)  
   
 long cylindrical fruits  
-with [knee roots](mangfi6b.htm)  
-with [buttressed roots](mangfi6c.htm)  
-with [stilt roots](mangfi6d.htm)  
+with [knee roots](mangfi6b)  
+with [buttressed roots](mangfi6c)  
+with [stilt roots](mangfi6d)  
   
-[large round fruits](mangfi6f.htm)  
+[large round fruits](mangfi6f)  
   
-[others](mangfi7a.htm)
+[others](mangfi7a)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

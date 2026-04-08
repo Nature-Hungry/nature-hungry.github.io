@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "sentinel, crab, macrophthalmus, macrophthalmidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> Brachyurans > Superfamily [Ocypodoidea](ocypodoidea.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> Brachyurans > Superfamily [Ocypodoidea](ocypodoidea)
 **Sentinel
 crab**  
 ***Macrophthalmus* sp.**  
@@ -43,10 +43,10 @@ rectangular or oval and seldom circular.
 Body is flattened, squarish or somewhat rectangular. The eye stalks
 are long and in some species can even extend outside the sides of
 the body. This feature probably gave them their common name. Both
-pincers of equal size. **Sometimes confused with** [fiddler crabs](uca.htm) (*Uca* spp.). Sentinel crabs do not have one enlarged pincer
+pincers of equal size. **Sometimes confused with** [fiddler crabs](uca) (*Uca* spp.). Sentinel crabs do not have one enlarged pincer
 like the fiddler crabs. Sentinel crabs are also not colourful, usually
 drab brown with darker mottling. Here's more on [how
-to tell apart small crabs with long eye stalks](cflongeyedcrabs.htm).  
+to tell apart small crabs with long eye stalks](cflongeyedcrabs).  
   
 **What does it eat?** It feeds on
 detritus and small worms.
@@ -161,7 +161,7 @@ Macrophthalmus travancorensis*
 **Links**
 
 - [Sentinel
-  crabs (*Macrophthalmus* spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2055.htm) Ng, Peter K. L. & N. Sivasothi,
+  crabs (*Macrophthalmus* spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2055) Ng, Peter K. L. & N. Sivasothi,
   1999. *[A Guide
   to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
   Science Centre. 168 pp.
@@ -187,9 +187,9 @@ Macrophthalmus travancorensis*
   S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
   Australian Waters*. Reed New Holland. 224 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

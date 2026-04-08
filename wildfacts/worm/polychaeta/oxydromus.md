@@ -4,27 +4,14 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "bristle, worm, oxydromus, angustifrons, hesionidae, bristleworm, polychaete, annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 worms
-[text index](../wormindex.htm) | [photo
-index](../wormfi.htm)
+[text index](../wormindex) | [photo
+index](../wormfi)
 
-[worms](../worm.htm) > Phylum Annelida >
-Class [Polychaeta](polychaeta.htm)
+[worms](../worm) > Phylum Annelida >
+Class [Polychaeta](polychaeta)
 
 **Urchin-mouth worm*****Oxydromus* cf. *angustifrons*   
 Family Hesionidae***updated
@@ -33,11 +20,11 @@ Oct 2016*
 ---
 
 **Where
-seen?** This small banded worm is seen curled around the mouth of [White salmacis sea urchins](../../echinodermata/echinoidea/urchin/sphaeroides.htm) and [Black sea urchins](../../echinodermata/echinoidea/urchin/temnopleurus.htm) on our Northern shores.  
+seen?** This small banded worm is seen curled around the mouth of [White salmacis sea urchins](../../echinodermata/echinoidea/urchin/sphaeroides) and [Black sea urchins](../../echinodermata/echinoidea/urchin/temnopleurus) on our Northern shores.  
   
 **What are Urchin-mouth worms?** They
-are segmented [worms](../worm.htm) belonging to the Family
-Eunicidae, Class [Polychaeta](polychaeta.htm), Phylum Annelida.
+are segmented [worms](../worm) belonging to the Family
+Eunicidae, Class [Polychaeta](polychaeta), Phylum Annelida.
 The polychaetes include bristleworms, and Phylum Annelida includes
 the more familiar earthworm.  
   
@@ -78,7 +65,7 @@ Chek Jawa, Dec 25*Photo shared by Kelvin Yong on [facebook](https://www.facebook
 
 .*![](../../echinodermata/echinoidea/urchin/salmacis/110830cyrjk6m3.jpg)  
 Cyrene Reef, Aug 11*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2011/08/110830-cyrene.html)
+blog](http://sgn090608.blogspot.com/2011/08/110830-cyrenel)
 
 ---
 
@@ -87,14 +74,4 @@ blog](http://sgn090608.blogspot.com/2011/08/110830-cyrene.html)
 - Chee Kong, Chim, Joyce Jia Lin Ong, and Koh Siang, Tan. Oct 2013. ["An association between a hesionid polychaete and temnopleurid echinoids from Singapore".](https://www.researchgate.net/publication/258108410_An_association_between_a_hesionid_polychaete_and_temnopleurid_echinoids_from_Singapore) Cahiers de Biologie Marine.
 - *[Salmacis sphaeroides](http://salmacissphaeroides.wikispaces.com/Salmacis+sphaeroides)* (Cameradonta: Temnopleuridae) White Sea Urchin by Phua Jun Wei, 2015, on taxo4254.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

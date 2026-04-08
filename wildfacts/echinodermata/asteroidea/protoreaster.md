@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "knobbly, chocolate, chip, sea star, seastar, star, fish, starfish, protoreaster, nodosus, nodulosus, oreasteridae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 sea
-stars [text index](../echinodermindex.htm) | [photo
-index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class Stelleroida > Subclass [Asteroidea](asteroidea.htm)
+stars [text index](../echinodermindex) | [photo
+index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
+> Class Stelleroida > Subclass [Asteroidea](asteroidea)
 **Knobbly
 sea star  
 *Protoreaster nodosus*  
@@ -99,7 +86,7 @@ large adults are seen standing on tip toes during a highish tide or
 incoming tide. They are probably getting ready to release eggs and
 sperm simultaneously! More
 about this spawning posture [on
-the Echinoblog](http://echinoblog.blogspot.sg/2011/08/starfish-standing-on-their-tippy-toes.html). Juveniles are commonly seen on Cyrene Reef among
+the Echinoblog](http://echinoblog.blogspot.sg/2011/08/starfish-standing-on-their-tippy-toesl). Juveniles are commonly seen on Cyrene Reef among
 seagrasses, as well as some of our other shores.   
   
 **Status and threats:** Knobbly sea
@@ -166,19 +153,19 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 Changi, Jun 10  
 ![](protoreaster/100612chgjk2m3.jpg)*Photo
 shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/06/100612-changi.html).
+blog](http://sgn090608.blogspot.com/2010/06/100612-changil).
 
 *![](protoreaster/100612chgjk3m3.jpg)  
 Changi, Jun 10  
 ![](protoreaster/100612chgjk4m3.jpg)*Photo
 shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/06/100612-changi.html).
+blog](http://sgn090608.blogspot.com/2010/06/100612-changil).
 
 *![](protoreaster/100908chgnml1m3.jpg)  
 Changi, Sep 10  
 ![](protoreaster/100908chgnml2m3a.jpg)*Photo
 shared by Neo Mei Lin on [her
-blog](http://psychedelic-nature.blogspot.com/2010/09/fantastic-changi.html).
+blog](http://psychedelic-nature.blogspot.com/2010/09/fantastic-changil).
 
 ---
 
@@ -187,7 +174,7 @@ Changi, Jun 10*
 
 ![](protoreaster/080522chglks02m3.jpg)  
 Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/06/changi-still-as-charming-as-ever.html).
+blog](http://wondercreation.blogspot.com/2010/06/changi-still-as-charming-as-everl).
 
 *![](protoreaster/201020chgsafmn3.jpg)  
 Changi, Oct 20*Photo
@@ -223,7 +210,7 @@ Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng
 *![](protoreaster/160705ecplks5.jpg)  
 East Coast Park, Jul 16*  
 Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2016/07/my-favourites-on-east-coasts-reclaimed.html).
+blog](http://wondercreation.blogspot.sg/2016/07/my-favourites-on-east-coasts-reclaimedl).
 
 *![](protoreaster/160210ecplks.JPG)  
 East Coast Park, Feb 16*  
@@ -279,7 +266,7 @@ Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng
 *![](protoreaster/160208smkslks5.JPG)  
 Pulau Semakau South, Feb 16*   
 Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2016/02/cny-day-1-southern-semakau.html).
+blog](http://wondercreation.blogspot.sg/2016/02/cny-day-1-southern-semakaul).
 
 ---
 
@@ -291,10 +278,10 @@ Trackers](http://startrackers.blogspot.com/) for identifying the sea stars. **Li
   Star Trackers blog](http://startrackers.blogspot.com/) all about the Knobbly sea stars of
   Singapore!
 - [*Protoreaster
-  nodosus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Protoreaster%20nodosus.html) (Valvatida: Oreasteridae) Knobbly Sea Star
+  nodosus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Protoreaster%20nodosusl) (Valvatida: Oreasteridae) Knobbly Sea Star
   by Chiu Po Wei Diana, 2011 on taxo4254.
 - [Starfish
-  conservation: *Protoreaster nodosus*](http://echinoblog.blogspot.com/2008/08/starfish-conservation-protoreaster.html) on The Echinoblog:
+  conservation: *Protoreaster nodosus*](http://echinoblog.blogspot.com/2008/08/starfish-conservation-protoreasterl) on The Echinoblog:
   about the status of the Knobbly sea star.
 
 **References**
@@ -331,14 +318,4 @@ Trackers](http://startrackers.blogspot.com/) for identifying the sea stars. **Li
   Guide to the Coral Reef Life of Singapore*. Singapore
   Science Centre. 128 pages.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

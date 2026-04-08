@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "bracket, brown, seaweed, weed, algae, lobophora, variegata, dictyotaceae, phaeophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 brown
-seaweeds [text index](../seaweedindex.htm#phaeophyta)
-| [photo index](../seaweedfi.htm)
-[Seaweeds](../seaweed.htm)
-> Division [Phaeophyta](phaeophyta.htm)
+seaweeds [text index](../seaweedindex#phaeophyta)
+| [photo index](../seaweedfi)
+[Seaweeds](../seaweed)
+> Division [Phaeophyta](phaeophyta)
 **Bracket
 brown seaweed*****Lobophora
 variegata\** Family Dictyotaceae***updated
@@ -47,7 +47,7 @@ to the edges. According to Huisman, those growing in deeper may be
 entirely upright.  
   
 **Sometimes confused with** [Scaly
-red seaweed](../rhodophyta/scaly.htm) (*Peyssonnelia* sp.) which are more encrusting
+red seaweed](../rhodophyta/scaly) (*Peyssonnelia* sp.) which are more encrusting
 and stiff with a slimy surface.  
   
 According to [AlgaeBase](http://www.algaebase.org/browse/taxonomy/?id=8716):
@@ -140,9 +140,9 @@ FREE photos of
 seaweeds](http://www.flickr.com/photos/54527470@N00/sets/72157600032287041).  
 Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

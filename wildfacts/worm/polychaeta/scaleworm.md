@@ -4,27 +4,14 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "scaleworm, scale, worm, bristleworm, polynoidae, polychaete, annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 worms
-[text index](../wormindex.htm) | [photo
-index](../wormfi.htm)
+[text index](../wormindex) | [photo
+index](../wormfi)
 
-[worms](../worm.htm) > Phylum Annelida >
-Class [Polychaeta](polychaeta.htm)
+[worms](../worm) > Phylum Annelida >
+Class [Polychaeta](polychaeta)
 
 **Scale
 worms*****awaiting identification*  
@@ -41,7 +28,7 @@ Thus, they are found in a wide variety of ecosystems but are often
 overlooked.   
   
 **What is a scale worm?** It is a
-segmented bristleworm belonging to the Family Polynoidae, Class [Polychaeta](polychaeta.htm),
+segmented bristleworm belonging to the Family Polynoidae, Class [Polychaeta](polychaeta),
 Phylum Annelida. The polychaetes include bristleworms, and Phylum
 Annelida includes the more familiar earthworm.  
   
@@ -51,7 +38,7 @@ sides, and a pattern of overlapping scales the upper side of the body.
 It has a well developed head with relatively long tentacles. It creeps
 slowly by undulating its bristles.  
   
-**Sometimes mistaken for** a [chiton](../../mollusca/polyplacophora/chiton.htm),
+**Sometimes mistaken for** a [chiton](../../mollusca/polyplacophora/chiton),
 which is a mollusc with overlapping scales but lack the tentacles
 at the head and bristles along the side of the body.  
   
@@ -103,7 +90,7 @@ Pulau Sekudu, Jul 20*Photo shared by Toh Chay Hoon on [facebook](https://www.fac
 ---
 
 *![](scaleworm/091019prplks.JPG)  
-Pasir Ris Park, Oct 09*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2009/10/hot-hot-afternoon-at-pasir-ris.html).
+Pasir Ris Park, Oct 09*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2009/10/hot-hot-afternoon-at-pasir-risl).
 
 *![](scaleworm/110616ecplks.JPG)  
 East Coast Park, Jun 11*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/5837965385/in/album-72157607719316847/).
@@ -147,12 +134,12 @@ Terumbu Pempang Tengah, Jun 20*Photo shared by Vincent Choo on [facebook](https:
 **Links**  
 
 - [Segmented
-  worms including *Chloeia* sp.](http://mangrove.nus.edu.sg/pub/seashore/text/126.htm) Tan, Leo W. H. & Ng, Peter
+  worms including *Chloeia* sp.](http://mangrove.nus.edu.sg/pub/seashore/text/126) Tan, Leo W. H. & Ng, Peter
   K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [Family
-  Polynoidae "scale worms"](http://rmbr.nus.edu.sg/polychaete/Polynoidea.html) on [A
+  Polynoidae "scale worms"](http://rmbr.nus.edu.sg/polychaete/Polynoideal) on [A
   Guide to Singapore Polychaetes](http://rmbr.nus.edu.sg/polychaete/) by Lim Yun Ping 1997-2000 on
   the Raffles Museum of Biodiversity Research website: fact sheets
   and photos of polychaetes found in Singapore.
@@ -163,14 +150,4 @@ Terumbu Pempang Tengah, Jun 20*Photo shared by Vincent Choo on [facebook](https:
   (Ed.) et al. 2000. *Polychaetes and Allies: The Southern Synthesis*
   Australian Biological Resources Study, Canberra. 465pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

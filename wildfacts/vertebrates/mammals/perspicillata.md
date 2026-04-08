@@ -4,23 +4,10 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "smooth, coated, otter, lutrogale, perspicillata, mustelidae, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 vertebrates [text
-index](../vertindex.htm) | [photo index](../vertfi.htm)
+index](../vertindex) | [photo index](../vertfi)
 Phylum Chordata
 > Subphylum Vertebrata > Class Mammalia
 **Smooth-coated
@@ -130,17 +117,17 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
   a facebook page to share your otter sightings, part of Meryl Theng's
   [study of otters in
   Singapore](http://blog.nus.edu.sg/sgotters/).
-- *[Lutrogale perspicillata](https://singapore.biodiversity.online/taxo4254/mainSpace/Lutrogale%20perspicillata.html)* (Carnivora: Mustelidae) Smooth-coated Otter by Tan Jia Xiu, 2015, on taxo4254.
+- *[Lutrogale perspicillata](https://singapore.biodiversity.online/taxo4254/mainSpace/Lutrogale%20perspicillatal)* (Carnivora: Mustelidae) Smooth-coated Otter by Tan Jia Xiu, 2015, on taxo4254.
 - [Group
   of ten smooth-coated otters (*Lutrogale perspicillata*) at
   Pulau Ubin](http://lkcnhm.nus.edu.sg/nis/sbr2014/sbr2014-064.pdf). 7 Mar 2014. Singapore Biodiversity Records 2014:
   64 on the [Lee Kong Chian Natural
   History Museum website](http://lkcnhm.nus.edu.sg/).
 - [Smooth
-  Otter](http://www.ecologyasia.com/verts/mammals/smooth_otter.htm) on Nick Baker's EcologyAsia website: fact sheet with
+  Otter](http://www.ecologyasia.com/verts/mammals/smooth_otter) on Nick Baker's EcologyAsia website: fact sheet with
   photos.
 - [Ring
-  Of Bright Water, a close encounter with the otters of Sungei Buloh](http://www.ecologyasia.com/html-loc/ring-of-bright-water.htm)
+  Of Bright Water, a close encounter with the otters of Sungei Buloh](http://www.ecologyasia.com/html-loc/ring-of-bright-water)
   on Nick Baker's EcologyAsia website
 - From [Wetlands](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/sungei-buloh-wetland-reserve/wetlands-newsletter),
   a magazine of the Sungei Buloh Wetland Reserve
@@ -155,13 +142,13 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
   - A
     Family Outing, 2006
 - [Otters
-  just out to have fun](http://wildsingaporenews.blogspot.com/2009/08/otters-just-out-to-have-fun.html) Jogger spots otters frolicking in sun
+  just out to have fun](http://wildsingaporenews.blogspot.com/2009/08/otters-just-out-to-have-funl) Jogger spots otters frolicking in sun
   at Pasir Ris Park Teh Jen Lee, The New Paper 20 Aug 09;
 - [Otters
-  disappearing in Southeast Asia: hunted out for their skins](http://wildshores.blogspot.com/2009/12/otters-disappearing-in-southeast-asia.html)
+  disappearing in Southeast Asia: hunted out for their skins](http://wildshores.blogspot.com/2009/12/otters-disappearing-in-southeast-asial)
   on the wild shores of singapore blog.
 - [Save
-  Sungei Buloh otters from dog menace](http://wildsingaporenews.blogspot.com/2009/12/save-sungei-buloh-otters-from-dog.html) Straits Times Forum 11
+  Sungei Buloh otters from dog menace](http://wildsingaporenews.blogspot.com/2009/12/save-sungei-buloh-otters-from-dogl) Straits Times Forum 11
   Dec 09 on the wildsingapore news blog.
 
 **References**
@@ -185,14 +172,4 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 FREE photos of [mammals](http://www.flickr.com/photos/54527470@N00/sets/72157600258172269).
 Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

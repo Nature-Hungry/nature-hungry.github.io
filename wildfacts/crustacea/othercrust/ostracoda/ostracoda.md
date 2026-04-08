@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "mussel, shrimp, ostracod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 other crustaceans
-[text index](../../crustaceaindex.htm#ostracoda) | [photo
-index](../../othercrustfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
+[text index](../../crustaceaindex#ostracoda) | [photo
+index](../../othercrustfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
 Ostracoda
 **Mussel
 shrimps**   
@@ -36,9 +36,9 @@ Mar 2020*
 seen?** Often seen on our Northern shores, usually only by
 the bioluminescence they produce.   
   
-**What are mussel shrimps?** They are [crustaceans](../../crustacea.htm) like crabs
+**What are mussel shrimps?** They are [crustaceans](../../crustacea) like crabs
 and prawns. But while crabs and prawns belong to Class Malacostraca,
-Order [Decapoda](../../decapoda.htm), mussel shrimps belong
+Order [Decapoda](../../decapoda), mussel shrimps belong
 to Class Ostracoda. These tiny animals are poorly known. They are
 also sometimes called seed shrimps.  
   
@@ -65,14 +65,14 @@ various species may be filter feeders, herbivores, predators and scavengers.
 **Links**
 
 - [Mussel
-  shrimps (Ostracoda)](http://mangrove.nus.edu.sg/pub/seashore/text/176.htm) Tan, Leo W. H. & Ng, Peter K. L.,
+  shrimps (Ostracoda)](http://mangrove.nus.edu.sg/pub/seashore/text/176) Tan, Leo W. H. & Ng, Peter K. L.,
   1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [Introduction
-  to the Ostracoda](http://www.ucmp.berkeley.edu/arthropoda/crustacea/maxillopoda/ostracoda.html)
+  to the Ostracoda](http://www.ucmp.berkeley.edu/arthropoda/crustacea/maxillopoda/ostracodal)
   on the [Phylogeny
-  Wing](http://www.ucmp.berkeley.edu/exhibit/phylogeny.html) on the [Museum
+  Wing](http://www.ucmp.berkeley.edu/exhibit/phylogenyl) on the [Museum
   of Paleontology, University of California Berkeley](http://www.ucmp.berkeley.edu/) website:
   fossil record, life history and ecology, systematics and more
   on morphology.
@@ -87,9 +87,9 @@ various species may be filter feeders, herbivores, predators and scavengers.
   Zoology*
   Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

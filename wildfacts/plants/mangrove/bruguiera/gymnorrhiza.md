@@ -4,24 +4,24 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "tumu, bruguiera, gymnorrhiza, rhizophoraceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
-plants [text index](../../plantindex.htm) | [photo
-index](../../plantfi.htm)
-[mangroves](../mangroves.htm) > *[Bruguiera](bruguiera.htm)* in general
+plants [text index](../../plantindex) | [photo
+index](../../plantfi)
+[mangroves](../mangroves) > *[Bruguiera](bruguiera)* in general
 **Tumu  
 *Bruguiera gymnorrhiza*  
 Family Rhizophoraceae***updated
@@ -146,7 +146,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 **Links**
 
 - [Tumu
-  (*Bruguiera gymnorrhiza*)](http://mangrove.nus.edu.sg/guidebooks/text/1054.htm) Ng, Peter K. L. & N. Sivasothi,
+  (*Bruguiera gymnorrhiza*)](http://mangrove.nus.edu.sg/guidebooks/text/1054) Ng, Peter K. L. & N. Sivasothi,
   1999. *[A Guide
   to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*. Singapore
   Science Centre. 168 pp.
@@ -160,7 +160,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 - Giesen, Wim
   and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
   [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.htm) (PDF online downloadable).
+  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
   RAP publication 2006/07 Food and Agriculture Organization of the
   United Nations Regional Office for Asia and the Pacific Bangkok.
 - [*Bruguiera
@@ -196,9 +196,9 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 FREE photos of [mangrove
 trees and plants](http://www.flickr.com/photos/54527470@N00/sets/72157600258037543). Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

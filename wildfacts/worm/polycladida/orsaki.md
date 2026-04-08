@@ -4,28 +4,15 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "orsaks, nymphozoon, orsaki, flat, worm, flatworm,  polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 flatworms
-[text index](../wormindex.htm) | [photo
-index](../polycladidafi.htm)
+[text index](../wormindex) | [photo
+index](../polycladidafi)
 
-[worms](../worm.htm) > Phylum Platyhelminthes >
+[worms](../worm) > Phylum Platyhelminthes >
 Class
-Turbellaria > [Order Polycladida](polycladida.htm)
+Turbellaria > [Order Polycladida](polycladida)
 
 **Orsak's flatworm *Nymphozoon orsaki*****Family Pseudocerotidae***updated
 Feb 2020*
@@ -39,7 +26,7 @@ seen?** This flatworm is sometimes seen on coral rubble near living reefs.
 pinkish cream. Narrow black margin with inner orange margin. Along
 the middle of the body, one fine white stripe. The underside is same colour as upper body colour and margins. It has a pair of pseudotentacles that are squarish and ruffled on the sides, with white tips.  
   
-**Sometimes mistaken for**  the [Brown-striped flatworm](brownstripe.htm) which is more brown and has a broad dark stripe in the middle of the body.
+**Sometimes mistaken for**  the [Brown-striped flatworm](brownstripe) which is more brown and has a broad dark stripe in the middle of the body.
 
 ![](orsaki/141109lazlks5m3a.JPG)  
 Pseudotentacles squarish, ruffled on the sides, with white tips.
@@ -70,14 +57,4 @@ Grateful thanks to Rene Ong for sharing details and identifying the flatworms on
 - Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018. *A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.* Nature in Singapore 2018 11: 77–125
 - D. M. Bolaños, B. Q. Gan & R. S. L. Ong. 29 Jun 2016. *First records of pseudocerotid flatworms (Platyhelminthes: Polycladida: Cotylea) from Singapore: A taxonomic report with remarks on colour variation*.(pdf) The Raffles Bulletin of Zoology Supplement No. 34: 130-169  Pp. 130-169.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

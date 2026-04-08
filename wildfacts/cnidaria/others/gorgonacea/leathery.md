@@ -4,28 +4,28 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "seafan, fan, hicksonella, princeps, gorgoniidae, gorgonian, gorgonacea, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 gorgonian
-[text index](../../cnidariaindex.htm#gorgonacea) | [photo
-index](../../gorgonaceafi.htm)
+[text index](../../cnidariaindex#gorgonacea) | [photo
+index](../../gorgonaceafi)
 
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Alcyonaria/Octocorallia > Order [Gorgonacea](gorgonacea.htm)
+Phylum [Cnidaria](../../cnidaria)
+> Class [Anthozoa](../../anthozoa) > Subclass
+Alcyonaria/Octocorallia > Order [Gorgonacea](gorgonacea)
 **Leathery
 sea fan  
 *awaiting identification\**  
@@ -41,7 +41,7 @@ at reef edges, usually among living corals. Usually only one colony is seen at a
 **Features:** Colony bushy 20-30m wide, with stems that are long and not frequently
 branched. Each stem is cylindrical, thick (about 1cm in diameter)
 and fleshy with a texture that resembles [leathery
-soft coral](/wildfacts/cnidaria/coralsoft/alcyoniidae.htm) (Family Alcyoniidae). Usually dusky pinkish beige.
+soft coral](/wildfacts/cnidaria/coralsoft/alcyoniidae) (Family Alcyoniidae). Usually dusky pinkish beige.
 Each stem has a dark, stiffly flexible wire-like central support that
 is sometimes exposed at the tips. Fat polyps are about 1cm long with
 short branched tentacles. They can retract completely leaving a smooth
@@ -80,13 +80,13 @@ Polyps.
 
 *![](leathery/250530kus2a.jpg)*
 
-**Leathery lunch:** [Spindle cowries](../../../mollusca/gastropoda/ovulidae/ovulidae.htm) eat sea fans and one was seen on a Leathery sea fan. [Sea fan winged oysters](../../../mollusca/bivalvia/pteriidae/seafan.htm) also settle on the branches of sea fans..
+**Leathery lunch:** [Spindle cowries](../../../mollusca/gastropoda/ovulidae/ovulidae) eat sea fans and one was seen on a Leathery sea fan. [Sea fan winged oysters](../../../mollusca/bivalvia/pteriidae/seafan) also settle on the branches of sea fans..
 
 *![](../../../mollusca/bivalvia/pteriidae/pteriidae/250726cyrlks5.jpg)*  
-With [Sea fan winged oyster](../../../mollusca/bivalvia/pteriidae/seafan.htm). *Cyrene, Jul 25*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163071519108158&type=3&ref=embed_post).
+With [Sea fan winged oyster](../../../mollusca/bivalvia/pteriidae/seafan). *Cyrene, Jul 25*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163071519108158&type=3&ref=embed_post).
 
 *![](../../../mollusca/gastropoda/ovulidae/nectarea/250726cyrlks1a.jpg)*  
-With [Nectar spindle cowrie](../../../mollusca/gastropoda/ovulidae/nectarea.htm) *Cyrene, Jul 25*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163071519108158&type=3&ref=embed_post).
+With [Nectar spindle cowrie](../../../mollusca/gastropoda/ovulidae/nectarea) *Cyrene, Jul 25*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163071519108158&type=3&ref=embed_post).
 
   
 *\***Species
@@ -114,7 +114,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 *Tanah Merah,
 Jun 10*Photo
 shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/06/100615-tanah-merah.html).
+blog](http://sgn090608.blogspot.com/2010/06/100615-tanah-merahl).
 
 *![](leathery/220618tmftlks16.jpg)*  
 *Tanah Merah Ferry Terminal,
@@ -224,7 +224,7 @@ shared by Loh Kok Sheng on  [flickr.](http://www.flickr.com/photos/koksheng/4711
 *![](leathery/110522bbbjk3m3.jpg)  
 Beting Bemban Besar, May 11*Photo
 shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2011/05/110522-beting-bemban-besar.html).
+blog](http://sgn090608.blogspot.com/2011/05/110522-beting-bemban-besarl).
 
 *![](leathery/200310bbbay2.jpg)  
 Beting Bemban Besar, Mar 20*Photo
@@ -263,9 +263,9 @@ Dec 09*
   Australian Institute of Marine Science and the Museum and Art
   Gallery of the Northern Territoriy. 264 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

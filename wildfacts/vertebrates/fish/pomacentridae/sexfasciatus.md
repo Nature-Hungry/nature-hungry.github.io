@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "scissor, tail, sergeant, abudefduf, sexfasciatus, damsel, fish, damselfish, pomacentridae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm) >
-Family [Pomacentridae](pomacentridae.htm)
+> Subphylum Vertebrata > [fishes](../fish) >
+Family [Pomacentridae](pomacentridae)
 **Scissortail
 sergeant   
 *Abudefduf
@@ -41,7 +41,7 @@ it is found near reefs and rocky shores, often forming schools.
 about 15cm. It is identified by the black horizontal stripes on the pointed tail fins
 so the tail resembles scissors. Like other sergeants, it
 has 4-5 broad black bars across a yellowish body. More on [how
-to tell apart sergeants](pomacentridae.htm).
+to tell apart sergeants](pomacentridae).
 ![](sexfasciatus/110418tmftd9063m3.jpg)  
 *Tanah Merah, Apr 11*   
 ![](sexfasciatus/110602tmftd3507m6l.jpg)  
@@ -65,7 +65,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Links**  
 
 - [Scissortail
-  sergeant (*Abudefduf sexfasciatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/340.htm) Lim, Kelvin K. P.
+  sergeant (*Abudefduf sexfasciatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/340) Lim, Kelvin K. P.
   & Jeffrey K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
@@ -84,9 +84,9 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
   Reef Fishes of the World*
   Periplus Editions. 400pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

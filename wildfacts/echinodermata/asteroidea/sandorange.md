@@ -4,27 +4,14 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "sand, star, seastar, sea star, starfish, fish, astropecten, astropectinidae, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 sea
-stars [text index](../echinodermindex.htm) | [photo
-index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class Stelleroida > Subclass [Asteroidea](asteroidea.htm)
-> Genera [*Astropecten*](astropecten.htm)
+stars [text index](../echinodermindex) | [photo
+index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
+> Class Stelleroida > Subclass [Asteroidea](asteroidea)
+> Genera [*Astropecten*](astropecten)
 **Orange
 sand star  
 *Astropecten* sp.  
@@ -121,7 +108,7 @@ Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=
 *Cyrene Reef,
 Aug 13*  
 Photo shared by Heng Pei Yan on [her
-blog](http://peiyansama.blogspot.sg/2013/08/new-surprises-at-cyrene-reef-with-large.html).
+blog](http://peiyansama.blogspot.sg/2013/08/new-surprises-at-cyrene-reef-with-largel).
 
 ![](sandorange/130808cyrhpy2m3.jpg)
 
@@ -144,17 +131,7 @@ Reef Aug 2013
 
   
 shared by Heng Pei Yan on [her
-blog](http://peiyansama.blogspot.sg/2013/08/new-surprises-at-cyrene-reef-with-large.html).
+blog](http://peiyansama.blogspot.sg/2013/08/new-surprises-at-cyrene-reef-with-largel).
   
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

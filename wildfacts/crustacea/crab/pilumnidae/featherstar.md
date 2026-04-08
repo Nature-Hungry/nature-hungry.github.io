@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "crab, hairy, crustacea, ceratocarcinus, longimanus, harrovia, albolineata, pilumnidae, decapod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> Brachyurans > Family [Pilumnidae](pilumnidae.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> Brachyurans > Family [Pilumnidae](pilumnidae)
 **Crinoid crabs** ***awaiting identification\****   
 **Family Pilumnidae***updated
 Dec 2019*
@@ -32,7 +32,7 @@ Dec 2019*
 ---
 
 **Where
-seen?** This tiny crab is found living in [feather stars](../../../echinodermata/crinoidea/crinoidea.htm) (Class Crinoidea) and nowhere else. It is thought that the crab does NOT eat the feather star host, and in fact, protects it from predators. Crabs that are known to live in our feather stars include *Harrovia* species and *Ceratocarcinus longimanus*.  
+seen?** This tiny crab is found living in [feather stars](../../../echinodermata/crinoidea/crinoidea) (Class Crinoidea) and nowhere else. It is thought that the crab does NOT eat the feather star host, and in fact, protects it from predators. Crabs that are known to live in our feather stars include *Harrovia* species and *Ceratocarcinus longimanus*.  
   
 **Features:** Body width 1cm. Body
 somewhat hexagonal, with long legs and long narrow pincers. Its colours and patterns usually perfectly match its feather star host. Usually, only crab is found in each feather star.  
@@ -56,7 +56,7 @@ display.*
 
 **Links**
 
-- *[Ceratocarcinus longimanus](http://www.sealifebase.org/country/CountrySpeciesSummary.php?c_code=702&Genus=Ceratocarcinus&Species=longimanus)* and *[Harrovia longipes](http://www.sealifebase.org/summary/Harrovia-longipes.html)* on [SeaLife
+- *[Ceratocarcinus longimanus](http://www.sealifebase.org/country/CountrySpeciesSummary.php?c_code=702&Genus=Ceratocarcinus&Species=longimanus)* and *[Harrovia longipes](http://www.sealifebase.org/summary/Harrovia-longipesl)* on [SeaLife
   Base](http://www.sealifebase.fisheries.ubc.ca/search.php): Technical fact sheet.
 - *[Ceratocarcinus longimanus](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1436)* and *[Harrovia albolineata](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1439)* on Crabs of Japan on Marine Species Identification
   Portal: Technical fact sheet.
@@ -72,9 +72,9 @@ display.*
   Red Data Book: Threatened plants and animals of Singapore*.
   Nature Society (Singapore). 285 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

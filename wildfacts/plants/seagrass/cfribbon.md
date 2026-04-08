@@ -4,24 +4,11 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "flat, worm, flatworm, polyclad, slug, nudibranch, nudibranchia, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 seagrasses [text
-index](seagrassindex.htm) | [photo index](seagrassfi.htm)
-[Seagrasses](seagrass.htm)
+index](seagrassindex) | [photo index](seagrassfi)
+[Seagrasses](seagrass)
 **Ribbon-like
 seagrasses****How to tell them apart?**  
 *updated
@@ -41,13 +28,13 @@ Here's some tips on telling them apart.
 ![](thalassia/050513labg6434m3.jpg)
 
 **[Smooth
-ribbon seagrass](rotundata.htm)***Cymodocea rotundata*
+ribbon seagrass](rotundata)***Cymodocea rotundata*
 
 **[Serrated
-ribbon seagrass](serrulata.htm)***Cymodocea serrulata*
+ribbon seagrass](serrulata)***Cymodocea serrulata*
 
 **[Sickle
-seagrass](thalassia.htm)** *Thalassia hemprichii*
+seagrass](thalassia)** *Thalassia hemprichii*
 
 ![](rotundata/110929tmftd1579m3.jpg)
 
@@ -89,11 +76,11 @@ thick, with leaf scars.
 ![](halodule/050822cjg2120m3.jpg)
 
 **[Tape
-seagrass](enhalus.htm)***Enhalus
+seagrass](enhalus)***Enhalus
 acoroides*
 
 **[Needle
-seagrass](halodule.htm)** *Halodule*
+seagrass](halodule)** *Halodule*
 sp.
 
 ![](enhalus/110929tmftd1586m3.jpg)
@@ -123,15 +110,15 @@ comparisons**
 ---
 
 ![](syringodium/071026cyrd7111m3a.jpg)  
-[**Noodle seagrass**](syringodium.htm)   
+[**Noodle seagrass**](syringodium)   
 *Syringodium isoetifolium*
 
 ![](ovalis/050428cftg5289m3a.jpg)  
-[**Spoon seagrass**](ovalis.htm)   
+[**Spoon seagrass**](ovalis)   
 *Halophila ovalis*
 
 ![](beccarii/030913cjd0097m3.jpg)  
-[**Beccarri's seagrass**](beccarii.htm)   
+[**Beccarri's seagrass**](beccarii)   
 *Halophila beccarri*
 
 Has
@@ -146,19 +133,9 @@ emerge in a rosette.
 
 ---
 
-how to tell apart  [seagrasses from seaweeds](../../glossary/seagrassweed.htm)
+how to tell apart  [seagrasses from seaweeds](../../glossary/seagrassweed)
 
 **You CAN make a difference for Singapore's
 seagrasses!**[![](../../../Templates/teamsg.jpg)](http://teamseagrass.blogspot.com/)
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

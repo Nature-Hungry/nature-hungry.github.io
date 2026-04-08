@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "spotted, box, crab, calappa, philargius, calappidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
 > Brachyurans
 **Box
 crabs**  
@@ -71,9 +71,9 @@ Two different kinds of pincers.
 ---
 
 **![](hepatica/100417hntd1243m3.jpg)  
-[Reef box crab](hepatica.htm)**
+[Reef box crab](hepatica)**
 **![](philargius/060529cftd2530m3.jpg)  
-[Spotted box crab](philargius.htm)**
+[Spotted box crab](philargius)**
  
 
 ---
@@ -92,12 +92,12 @@ Calappidae**
 *Calappa
 lophos* (VU: Vulnerable)  
 *[Calappa
-hepatica](hepatica.htm)*
+hepatica](hepatica)*
 (Reef
 box crab) (VU:
 Vulnerable)  
 *[Calappa
-philargius](philargius.htm)*
+philargius](philargius)*
 (Spotted
 box crab)
 (VU: Vulnerable)
@@ -124,9 +124,9 @@ box crab)
   S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
   Australian Waters*. Reed New Holland. 224 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

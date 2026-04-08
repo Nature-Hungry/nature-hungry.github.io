@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "serrated, seaweed, weed, green, caulerpa, serrulata, caulerpaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 green
-seaweeds [text index](../seaweedindex.htm) | [photo
-index](../seaweedfi.htm)
-[Seaweeds](../seaweed.htm)
-> Division [Chlorophyta](chlorophyta.htm) > Family
-Caulerpaceae > genus *[Caulerpa](caulerpa.htm)*
+seaweeds [text index](../seaweedindex) | [photo
+index](../seaweedfi)
+[Seaweeds](../seaweed)
+> Division [Chlorophyta](chlorophyta) > Family
+Caulerpaceae > genus *[Caulerpa](caulerpa)*
 **Serrated
 green seaweed  
 *Caulerpa serrulata\**  
@@ -46,7 +46,7 @@ surfaces or just under the sand. Usually bluish- or greyish-green.
   
 **Sometimes confused with** similar
 green seaweeds. Here's more on [how to tell
-apart some green seaweeds](cffeathery.htm).   
+apart some green seaweeds](cffeathery).   
   
 **Human uses:** This seaweed is reported
 to be edible and used in medicines as an antibacterial and antifungal
@@ -118,7 +118,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Links**
 
 - [*Caulerpa
-  serrulata*](http://mangrove.nus.edu.sg/pub/seashore/text/101.htm) Tan, Leo W. H. & Ng, Peter K. L., 1988.
+  serrulata*](http://mangrove.nus.edu.sg/pub/seashore/text/101) Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide
   to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore.
   160 pp.
@@ -159,9 +159,9 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
   Guide and Atlas of the Seaweed Resources of the Philippines.*.
   Bookmark, Inc., the Philippines. 306 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

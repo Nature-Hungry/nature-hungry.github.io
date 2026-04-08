@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "isopod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 sea slaters [text
-index](../../crustaceaindex.htm#isopoda) | [photo index](../../othercrustfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
+index](../../crustaceaindex#isopoda) | [photo index](../../othercrustfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
 Malacostraca > Order Isopoda
 **Marine
 isopods** **Order Isopoda***updated
@@ -34,11 +34,11 @@ Mar 2020*
 seen?** These tiny segmented animals are sometimes seen our
 shores, often swarming in numbers at low tide over rotting fruit or
 dead matter. The most commonly seen isopod on the beach are [sea
-slaters](ligia.htm) (*Ligia* sp.) or sometimes called sea cockroaches
+slaters](ligia) (*Ligia* sp.) or sometimes called sea cockroaches
 although they are not insects and look nothing like cockroaches (if
 you ask me).  
   
-**What are isopods?** They are [crustaceans](../../crustacea.htm) like crabs and prawns. There are about 4,000 described species of
+**What are isopods?** They are [crustaceans](../../crustacea) like crabs and prawns. There are about 4,000 described species of
 isopods that live in the sea. Some are found in freshwater, and some
 are terrestrial (these are usually called wood lice or pill bugs).
 Most marine isopods are tiny (5-15mm long). But one deep sea isopod *Bathynomus giganteus* can grow to 40cm long! Many may be parasites
@@ -51,7 +51,7 @@ swarming over rotting fruit. *East Coast, Aug 09*
 
 **Features:** 1cm or less.
 Their segmented body is flattened downwards (instead of sideways for
-amphipods such as [amphipods](../amphipoda/amphipoda.htm))
+amphipods such as [amphipods](../amphipoda/amphipoda))
 with legs that are more or less similar. Isopoda meaning 'same feet'
 while Amphipoda means 'different feet'. Their eyes are NOT on stalks.
 Some can give a nasty bite.  
@@ -106,17 +106,17 @@ Cyrene Reef, Aug 10*Photo shared by Marcus Ng on [flickr](https://www.flickr.com
 **Links**
 
 - [Order
-  Isopoda](http://mangrove.nus.edu.sg/pub/seashore/text/177.htm) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+  Isopoda](http://mangrove.nus.edu.sg/pub/seashore/text/177) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [Warty
-  pill-bug (*Sphaeroma terebrans*)](http://mangrove.nus.edu.sg/guidebooks/text/2035.htm) Ng, Peter K. L. & N.
+  pill-bug (*Sphaeroma terebrans*)](http://mangrove.nus.edu.sg/guidebooks/text/2035) Ng, Peter K. L. & N.
   Sivasothi, 1999. *[A
   Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
   Singapore Science Centre. 168 pp.
 - [Isopods
-  and amphipods](http://www.mesa.edu.au/friends/seashores/isopods_amphipods.html) on the [Life
-  on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1.html) by Keith Davey on the Marine Education
+  and amphipods](http://www.mesa.edu.au/friends/seashores/isopods_amphipodsl) on the [Life
+  on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1l) by Keith Davey on the Marine Education
   Society of Australia website: Fact sheet, diagrams.
 
 **References**
@@ -135,9 +135,9 @@ Cyrene Reef, Aug 10*Photo shared by Marcus Ng on [flickr](https://www.flickr.com
   S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
   Australian Waters*. Reed New Holland. 224 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

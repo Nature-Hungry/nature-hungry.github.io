@@ -4,27 +4,14 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "sand, star, seastar, sea star, starfish, fish, astropecten, vappa, astropectinidae, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 sea
-stars [text index](../echinodermindex.htm) | [photo
-index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class Stelleroida > Subclass [Asteroidea](asteroidea.htm)
-> Genera [*Astropecten*](astropecten.htm)
+stars [text index](../echinodermindex) | [photo
+index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
+> Class Stelleroida > Subclass [Asteroidea](asteroidea)
+> Genera [*Astropecten*](astropecten)
 **Painted
 sand star  
 *Astropecten vappa*  
@@ -69,7 +56,7 @@ feet.
 *Changi, Jun 06*
 
 ![](../../mollusca/gastropoda/eulimidae/eulimidae/160210ecplks.JPG)  
-Parasitic [Ulimid snail](../../mollusca/gastropoda/eulimidae/eulimidae.htm). *East Coast Park, Feb 16* Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/24642250860/in/album-72157663938916840/).
+Parasitic [Ulimid snail](../../mollusca/gastropoda/eulimidae/eulimidae). *East Coast Park, Feb 16* Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/24642250860/in/album-72157663938916840/).
 
 ---
 
@@ -119,7 +106,7 @@ shared by Adriane Lee on [facebook](https://www.facebook.com/media/set/?set=a.10
 ![](sandpainted/081214ecmlks03m3.jpg)  
 *East Coast, Dec 08*  
 Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2008/12/wow-shore-exploration.html).
+blog](http://wondercreation.blogspot.com/2008/12/wow-shore-explorationl).
 
 ![](sandpainted/210529ecpgtch7.jpg)  
 *East Coast (G), May 21*  
@@ -133,20 +120,10 @@ Photo shared by JIanlin Liu on [facebook](https://www.facebook.com/photo?fbid=10
 
 **Links**
 
-- [*Astropecten vappa*](https://www.sealifebase.ca/summary/Astropecten-vappa.html) on SeaLife Base: Technical fact sheet
+- [*Astropecten vappa*](https://www.sealifebase.ca/summary/Astropecten-vappal) on SeaLife Base: Technical fact sheet
 
 **References**
 
 - Loisette M. Marsh and Jane Fromont. *Field Guide to Shallow Water Seastars of Australia*. 2020. Western Australian Museum. 543pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

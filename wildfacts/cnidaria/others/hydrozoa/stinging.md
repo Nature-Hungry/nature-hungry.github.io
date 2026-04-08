@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "stinging, hydroid, hydrozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 hydroid [text
-index](../../cnidariaindex.htm#hydrozoa) | [photo index](../../hydrozoafi.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Hydrozoa](hydrozoa.htm)
+index](../../cnidariaindex#hydrozoa) | [photo index](../../hydrozoafi)
+Phylum [Cnidaria](../../cnidaria)
+> Class [Hydrozoa](hydrozoa)
 **Stinging
 hydroid*****awaiting
 identification\*****updated
@@ -69,12 +69,12 @@ tentacles.  *Changi, Aug 12*
 Black bits may be reproductive structures. *Beting Bronok, Aug 15*
 
 **Hydroid friends:** Despite their
-stings, sometimes, tiny animals can be found living among hydroids. These include tiny shrimps and other crustacea and nudibranchs like *Lomanotus vermiformis*. [Squid egg capsules](../../../mollusca/cephalopoda/cepeggs.htm) have also been seen laid on these hydroids.
+stings, sometimes, tiny animals can be found living among hydroids. These include tiny shrimps and other crustacea and nudibranchs like *Lomanotus vermiformis*. [Squid egg capsules](../../../mollusca/cephalopoda/cepeggs) have also been seen laid on these hydroids.
 
 *![](stinging/100614bbd5838m3.jpg)*Tiny
 shrimp.  *Beting Bronok, Jun 10*
 
-*![](stinging/120803chgd9400m3.jpg)*Tiny [amphipods](../../../crustacea/othercrust/amphipoda/amphipoda.htm) often found in large  
+*![](stinging/120803chgd9400m3.jpg)*Tiny [amphipods](../../../crustacea/othercrust/amphipoda/amphipoda) often found in large  
 numbers in this hydroid. *Tuas, Apr 05*
 
 *![](stinging/120803chgd9404m3.jpg)*Coils
@@ -122,7 +122,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 ---
 
 ![](stinging/140518tmlks3m3.JPG)  
- *Tanah Merah, May 14*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.com/2014/05/coral-overdose-at-tanah-merah.html).
+ *Tanah Merah, May 14*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.com/2014/05/coral-overdose-at-tanah-merahl).
 
 ![](stinging/160605tmlks.JPG)  
  *Tanah Merah, Jun 16*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/27198625750/in/album-72157664044624940/).
@@ -144,7 +144,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
  *Small Sisters Island, Aug 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10158555101613158&set=a.10158555102833158).
 
 ![](stinging/150422jngmn1m3.jpg)  
- *Pulau Jong, Apr 15*Photo shared by Neo Mei Lin on [her blog](http://psychedelic-nature.blogspot.com/2015/04/happy-earth-day-on-pulau-jong.html).
+ *Pulau Jong, Apr 15*Photo shared by Neo Mei Lin on [her blog](http://psychedelic-nature.blogspot.com/2015/04/happy-earth-day-on-pulau-jongl).
 
 ---
 
@@ -178,9 +178,9 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
   exclusive of the vertebrates*
   Sea Challengers. 314pp
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

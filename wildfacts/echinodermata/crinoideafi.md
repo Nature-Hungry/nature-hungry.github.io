@@ -4,26 +4,11 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, feather, star, featherstar, crinoidea, crinoid, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 echinoderms
-[text index](echinodermindex.htm) | [photo
-index](echinodermatafi.htm)
-Phylum [Echinodermata](echinodermata.htm)
-> Class Crinoidea > Order [Comatulida](crinoidea/crinoidea.htm)
+[text index](echinodermindex) | [photo
+index](echinodermatafi)
+Phylum [Echinodermata](echinodermata)
+> Class Crinoidea > Order [Comatulida](crinoidea/crinoidea)
 **Photo
 index of feather stars on Singapore shores**
 
@@ -33,15 +18,15 @@ index of feather stars on Singapore shores**
 diameter of sea star with arms*
 
 ![](crinoidea/purpurea/050623cjg8337m.jpg) [10-armed  
-feather star](crinoidea/purpurea.htm) *awaiting identification*
+feather star](crinoidea/purpurea) *awaiting identification*
 
 ![](crinoidea/blue/050820bbg1788m.jpg)  
 [Blue  
-feather star](crinoidea/blue.htm) *awaiting identification*
+feather star](crinoidea/blue) *awaiting identification*
 
 ![](crinoidea/black/050821bbg1995m.jpg)  
 [Black-and-white  
-feather star](crinoidea/black.htm) *awaiting identification*
+feather star](crinoidea/black) *awaiting identification*
 
  
  
@@ -57,15 +42,15 @@ seen on some of our shores.
 
 ![](crinoidea/brown/080920hntd0726m.jpg)  
 [Brown  
-feather star](crinoidea/brown.htm) *awaiting identification*
+feather star](crinoidea/brown) *awaiting identification*
 
 ![](crinoidea/pale/060713rlhd4327m.jpg)  
 [Pale  
-feather star](crinoidea/pale.htm) *awaiting identification*
+feather star](crinoidea/pale) *awaiting identification*
 
 ![](crinoidea/red/080425cyrd1820m.jpg)  
 [Red  
-feather star](crinoidea/red.htm) *Himerometra robustipinna*
+feather star](crinoidea/red) *Himerometra robustipinna*
 
  
  
@@ -87,17 +72,17 @@ near living reefs. Sometimes seen on some of our Southern shores.
 **These
 are NOT feather stars**
 
-![](../worm/polychaeta/reef/040804skdd4129m.jpg) [Bristleworms](../worm/polychaeta/polychaeta.htm)  
+![](../worm/polychaeta/reef/040804skdd4129m.jpg) [Bristleworms](../worm/polychaeta/polychaeta)  
 Phylum Annelida  
 Class Polychaeta
 
 ![](ophiuroidea/upsidedown/050621skdg7883m.jpg)  
-[Brittle star](ophiuroidea/ophiuroidea.htm)  
+[Brittle star](ophiuroidea/ophiuroidea)  
 Phylum Echinodermata  
 Class Ophiuroidea
 
 ![](../worm/polychaeta/sabellidae/white/050526cjg6820m.jpg)  
-[Fanworms](../worm/polychaeta/sabellidae.htm)  
+[Fanworms](../worm/polychaeta/sabellidae)  
 Phylum Annelida  
 Class Polychaeta  
 Family Sabellidae
@@ -105,12 +90,12 @@ Family Sabellidae
 ![](holothuroidea/phyllophorus/070731chgd4722m.jpg)  
 Feeding tentacles   
 of a buried   
- [sea cucumber](holothuroidea/holothuroidea.htm)
+ [sea cucumber](holothuroidea/holothuroidea)
 
 ![](../cnidaria/actiniaria/phymanthus/plain/070518tkrd1013m.jpg)  
 Tentacles of
 a   
-[frilly sea anemone](../cnidaria/actiniaria/phymanthus.htm)  
+[frilly sea anemone](../cnidaria/actiniaria/phymanthus)  
 partially tucked into  
 the body column.
 
@@ -118,8 +103,8 @@ the body column.
 
 how to tell apart
 
-- [bristley animals](../glossary/wormstar.htm)
-- [feathery animals](../glossary/feathery.htm)
+- [bristley animals](../glossary/wormstar)
+- [feathery animals](../glossary/feathery)
 
   
   
@@ -131,39 +116,39 @@ echinoderms on this site
 
 **Phylum
 Echinodermata**[all
-echinoderms](echinodermatafi.htm)  **With arms**  
+echinoderms](echinodermatafi)  **With arms**  
  
 many,
 feathery  
 feather stars  
   
 five, bristley  
-[brittle stars](ophuiroideafi.htm)  
+[brittle stars](ophuiroideafi)  
   
 sea stars  
-[small](asteroideafi1.htm) <10cm  
-[large](asteroideafi2.htm) >10cm
+[small](asteroideafi1) <10cm  
+[large](asteroideafi2) >10cm
   
  **Hard**  
  
 flat,
 coin-like  
-[sand dollars](echinoideafi1.htm)  
+[sand dollars](echinoideafi1)  
   
 spherical, spiny  
 [sea urchins  
-heart urchins](echinoideafi2.htm) 
+heart urchins](echinoideafi2) 
  **Soft**  
  
 sea
 cucumbers   
-[short](holothuroideafi1.htm)
+[short](holothuroideafi1)
 <10cm  
-[long](holothuroideafi2.htm) >10cm
+[long](holothuroideafi2) >10cm
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

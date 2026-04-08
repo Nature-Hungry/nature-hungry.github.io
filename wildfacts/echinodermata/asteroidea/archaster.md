@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "common, sea star, seastar, starfish, star, fish, archaster, typicus, archasteridae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 sea
-stars [text index](../echinodermindex.htm) | [photo
-index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class Stelleroida > Subclass [Asteroidea](asteroidea.htm)
+stars [text index](../echinodermindex) | [photo
+index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
+> Class Stelleroida > Subclass [Asteroidea](asteroidea)
 **Common
 sea star  
 *Archaster typicus*  
@@ -87,7 +74,7 @@ With six arms.
 *Kusu Island, Feb 07*
 
 **Sometimes confused with** the [Eight-armed
-sand star](luimaculata.htm). The Eight-armed sand star
+sand star](luimaculata). The Eight-armed sand star
 has, well, eight arms and large tube feet with pointed tips. While
 most Common sea stars have five arms (although some may have six),
 and all have large tube feet with sucker-shaped tips.  
@@ -130,17 +117,17 @@ new arms.  *Tanah Merah, Oct 09*
 
 ![](archaster/080707hntd7423m3a.jpg)  
 [Parasitic
-snail](../../mollusca/gastropoda/eulimidae/eulimidae.htm) on arm.  
+snail](../../mollusca/gastropoda/eulimidae/eulimidae) on arm.  
 *Pulau Hantu, Jul 08*
 
 ![](../../mollusca/gastropoda/eulimidae/eulimidae/110830cyrd0423m3b.jpg)  
 [Parasitic
-snail](../../mollusca/gastropoda/eulimidae/eulimidae.htm) on arm. *Cyrene Reef, Aug 11*
+snail](../../mollusca/gastropoda/eulimidae/eulimidae) on arm. *Cyrene Reef, Aug 11*
 
 **Living on a star:** A tiny parastic
 snail (*Parvioris fulvescens*) is said to be sometimes found
 on the underside of the common sea star. Here's some of the parasitic [Ulimid
-snails](../../mollusca/gastropoda/eulimidae/eulimidae.htm) (Family Eulimidae) seen on our Common sea stars.  
+snails](../../mollusca/gastropoda/eulimidae/eulimidae) (Family Eulimidae) seen on our Common sea stars.  
   
 **Is our sea star special?** According
 to the Singapore Red Data Book, the form found in Singapore is larger
@@ -157,7 +144,7 @@ as a teaching aid in zoology and biology. This practice can threaten
 the population if it results in overcollection.
 
 ![](../../crustacea/crab/xanthidae/pictor/251008bbbky9.jpg)  
-[Mosaic crab](../../crustacea/crab/xanthidae/pictor.htm) attempting to eat ione? *Beting Bemban Besar, Oct 25*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10173316523995112&type=3&ref=embed_post)
+[Mosaic crab](../../crustacea/crab/xanthidae/pictor) attempting to eat ione? *Beting Bemban Besar, Oct 25*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10173316523995112&type=3&ref=embed_post)
 
 [![Common sea star (Archaster typicus)](https://live.staticflickr.com/4564/38823870701_933e4c0aa9_z.jpg)](https://www.flickr.com/photos/wildsingapore/38823870701/in/photolist-2522WPa-229Jua4-XyHABh-BBuzv4-wsYKZE/ "Common sea star (Archaster typicus)")
 
@@ -213,11 +200,11 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 ![](archaster/090513sntlks3m3.jpg)  
 *Sentosa, Siloso, May 09*  
 Photos shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/05/first-time-to-siloso-islet.html).
+blog](http://wondercreation.blogspot.com/2009/05/first-time-to-siloso-isletl).
 
 ![](archaster/090510sntik9m3.jpg)  
 *Sentosa Siloso, May 09*Photo shared by Ivan Kwan on [his
-blog](http://lazy-lizard-tales.blogspot.com/2009/05/finds-with-spines-on-siloso.html).
+blog](http://lazy-lizard-tales.blogspot.com/2009/05/finds-with-spines-on-silosol).
 
 ---
 
@@ -245,7 +232,7 @@ Photo shared by Tammy Lim on [facebook](https://www.facebook.com/photo/?fbid=101
 
 *![](archaster/110517tpttch1m3.jpg)*  
  *Terumbu Pempang Tengah, May 11*Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2011/05/predawn-terumbu-pempang-tengah.html).
+blog](http://colorclouds.blogspot.com/2011/05/predawn-terumbu-pempang-tengahl).
 
 ---
 
@@ -292,13 +279,13 @@ Shared by Sean Yap
 **Links**
 
 - [Sea
-  star (*Archaster typicus*)](http://mangrove.nus.edu.sg/pub/seashore/text/221.htm) Tan, Leo W. H. & Ng, Peter
+  star (*Archaster typicus*)](http://mangrove.nus.edu.sg/pub/seashore/text/221) Tan, Leo W. H. & Ng, Peter
   K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [*Archaster
-  typicus*](http://www.sealifebase.org/summary/Archaster-typicus.html) on Sealife Base: Technical fact sheet.
-- [*Archaster typicus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Archaster%20typicus.html) (Valvatida: Archasteridae) Common Sea Star by Chan Yong Kit Samuel, 2015, on taxo4254.
+  typicus*](http://www.sealifebase.org/summary/Archaster-typicusl) on Sealife Base: Technical fact sheet.
+- [*Archaster typicus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Archaster%20typicusl) (Valvatida: Archasteridae) Common Sea Star by Chan Yong Kit Samuel, 2015, on taxo4254.
 
 **References**
 
@@ -341,14 +328,4 @@ Shared by Sean Yap
   brittle stars, sea urchins, sea cucumbers and feather stars![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
   Times Edition, Singapore. 144 pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "flat, fish, flatfish, sole, soleidae, pleuronectiformes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm) >
-Order [Pleuronectiformes](../pleuronectiformes/pleuronectiformes.htm)
+> Subphylum Vertebrata > [fishes](../fish) >
+Order [Pleuronectiformes](../pleuronectiformes/pleuronectiformes)
 **Soles**  
 **Family Soleidae***updated
 Oct 2020*
@@ -41,12 +41,12 @@ beneath the sand. Watch your step!
 seen?** Some of these flatfishes really do look like the
 sole of a shoe! Others have pretty patterns. They are often seen on
 our Northern shores, sometimes also on our Southern shores. Usually
-in sandy areas near seagrass meadows. **What are soles?** Soles are [flatfishes](../pleuronectiformes/pleuronectiformes.htm) that belong to the Family Soleidae. According to [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=441):
+in sandy areas near seagrass meadows. **What are soles?** Soles are [flatfishes](../pleuronectiformes/pleuronectiformes) that belong to the Family Soleidae. According to [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=441):
 the family has 22 genera and 89 species. They are found mainly from
 Europe to Australia and Japan. The Latin 'solea' means 'sandal'.  **Features:** 10-30cm. Eyes small and on the right side. The
 head is small. In some species, the tail fin separate from the dorsal
 and anal fins. In others, such as [Commerson's
-sole](commersoniana.htm) (*Synaptura commersoniana*), the tail fins are joined
+sole](commersoniana) (*Synaptura commersoniana*), the tail fins are joined
 to the dorsal and anal fins. The fins lack spines. These bottom-dwelling fishes over 'walk' over the sand by undulating their fins ([here's a video](https://www.facebook.com/100003979885481/videos/pcb.3219425128200118/488530404213420)).  
   
 Snout sometimes hook-shaped. Scales relatively large and sometimes
@@ -54,7 +54,7 @@ modified into skin flaps fringed with sensory filaments. Colours on
 the eyed side highly variable depending on the surroundings. May be
 uniformly brown to patterned with scattered dark spots or blotches.   
   
-Some soles such as the [Peacock sole](pavoninus.htm) (*Pardachirus
+Some soles such as the [Peacock sole](pavoninus) (*Pardachirus
 pavoninus*) have toxin glands that produce a distasteful substance.
 The Moses sole (*Pardachirus mamoratus*) found in the Red Sea
 produces an astringent, frothy, soap-like poison, called pardaxin,
@@ -62,9 +62,9 @@ that was found to repel sharks. However, the toxin proved difficult
 to package and store and could not be used to protect humans.  
   
 **Sometimes
-confused with** other [flatfishes](../pleuronectiformes/pleuronectiformes.htm).
+confused with** other [flatfishes](../pleuronectiformes/pleuronectiformes).
 Here's more on [how
-to tell apart the flatfish families](../pleuronectiformes/pleuronectiformes1.htm) commonly seen.
+to tell apart the flatfish families](../pleuronectiformes/pleuronectiformes1) commonly seen.
 ![](commersonnii/040120cjd0035m3.jpg)  
 Lurking under the sand.  
 *Chek Jawa, Jan 04*  
@@ -103,12 +103,12 @@ on Singapore shores**
 ---
 
 **![](ovata/050511cftg6220m4.jpg)  
-[Ovate sole](ovata.htm)**
+[Ovate sole](ovata)**
 
-***![](commersonnii/050818cftg1401m3.jpg)*[Commerson's sole](commersonnii.htm)**
+***![](commersonnii/050818cftg1401m3.jpg)*[Commerson's sole](commersonnii)**
 
 **![](pavoninus/050722cjg9806m3.jpg)  
- [Peacock sole](pavoninus.htm)**
+ [Peacock sole](pavoninus)**
 
 ![](ovata/050511cftg6220m4d.jpg)
 ![](commersonnii/050818cftg1401m3c.jpg)
@@ -117,10 +117,10 @@ on Singapore shores**
 ---
 
 **![](orientalis/090623ecpd4978m3.jpg)  
- [Oriental sole](orientalis.htm)**
+ [Oriental sole](orientalis)**
 
 **![](zebra/100612chgd5283m3.jpg)  
- [Zebra sole](zebra.htm)**
+ [Zebra sole](zebra)**
 
 ![](orientalis/090623ecpd4978m3a.jpg)
 ![](zebra/100612chgd5283m3b.jpg)
@@ -146,15 +146,15 @@ melanorhynchus
 Aseraggodes melanospilus=\*\*Liachirus melanospilos  
   
 Brachirus albomaculata=\*\*Synaptura albomaculata  
-[Brachirus orientalis](orientalis.htm)* (Oriental
-sole) *[Pardachirus pavoninus](pavoninus.htm)* (Peacock
-sole) *\*[Solea ovata](ovata.htm)* (Ovate sole) *[Synaptura commersonnii](commersonnii.htm)* (Commerson's
+[Brachirus orientalis](orientalis)* (Oriental
+sole) *[Pardachirus pavoninus](pavoninus)* (Peacock
+sole) *\*[Solea ovata](ovata)* (Ovate sole) *[Synaptura commersonnii](commersonnii)* (Commerson's
 sole) *Synaptura pan=\*\*Brachirus pan  
 Synaptura panoides=\*\*Brachirus panoides  
 Synaptura quagga=\*\*Zebrias quagga  
 Synaptura zebra=\*\*Zebrias zebra  
   
-[Zebrias zebra](zebra.htm)* (Zebra sole)
+[Zebrias zebra](zebra)* (Zebra sole)
 
 ---
 
@@ -179,11 +179,11 @@ Synaptura zebra=\*\*Zebrias zebra
   zebra* (Zebra sole)](http://www.fishbase.org/summary/8999) from [FishBase](http://www.fishbase.org/):
   Technical fact sheet.
 - [Volume
-  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.htm) FAO Species
+  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
   Identification Guide for Fishery Purposes The Living Marine Resources
   of the Western Central Pacific.
 - [How
-  to avoid being eaten by a shark](http://wildshores.blogspot.com/2008/09/how-to-avoid-being-eaten-by-shark.html) on the wild shores of singapore
+  to avoid being eaten by a shark](http://wildshores.blogspot.com/2008/09/how-to-avoid-being-eaten-by-sharkl) on the wild shores of singapore
   blog: about the toxin produced by the Moses sole.
 
 **References**
@@ -202,9 +202,9 @@ Synaptura zebra=\*\*Zebrias zebra
   Reef Fishes of the World*
   Periplus Editions. 400pp
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

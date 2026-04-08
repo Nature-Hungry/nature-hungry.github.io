@@ -4,24 +4,24 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "fern, acrostichum, aureum, speciosum, pteridaceae, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
-plants [text index](../../plantindex.htm) | [photo
-index](../../plantfi.htm)
-[mangroves](../mangroves.htm)
+plants [text index](../../plantindex) | [photo
+index](../../plantfi)
+[mangroves](../mangroves)
 **Mangrove
 ferns *Acrostichum* sp.  
 Family Pteridaceae***updated
@@ -31,7 +31,7 @@ Jan 2013*
 
 **Where seen?** These ferns are often seen in back mangroves,
 flourishing on [mud
-lobster mounds](../../../crustacea/othercrust/lobster/thalassina.htm) and other higher ground. Elsewhere, they naturally
+lobster mounds](../../../crustacea/othercrust/lobster/thalassina) and other higher ground. Elsewhere, they naturally
 occur in tidal swamps, muddy coasts, river banks and tidal estuaries.
 They can be common and even dominant in the understorey of back mangroves.
 '*Piai*' means 'shrimp' in Malay, and this may be because these
@@ -71,7 +71,7 @@ lasu generally smaller more elegant. *Sungei Buloh Wetland Reserve, Mar 09*
 ---
 
 [**Piai
-raya**](aureum.htm)   
+raya**](aureum)   
 *Acrostichum aureum*
 
 *![](aureum/040114sbwred0032m3a.jpg)* Larger plant with longer fronds.
@@ -86,7 +86,7 @@ sometimes with a small sharp point.
 ---
 
 [**Piai
-lasu**](speciosum.htm)   
+lasu**](speciosum)   
 *Acrostichum speciosum*
 
 ![](speciosum/090111smkd4872m3.jpg)  
@@ -104,15 +104,15 @@ tapering pointed tips.
 **Links**
 
 - [Piai
-  Raya (*Acrostichum aureum*)](http://mangrove.nus.edu.sg/guidebooks/text/1038.htm) and [Piai
-  Lasu (*Acrostichum speciosum*)](http://mangrove.nus.edu.sg/guidebooks/text/1039.htm) Ng, Peter K. L. &
+  Raya (*Acrostichum aureum*)](http://mangrove.nus.edu.sg/guidebooks/text/1038) and [Piai
+  Lasu (*Acrostichum speciosum*)](http://mangrove.nus.edu.sg/guidebooks/text/1039) Ng, Peter K. L. &
   N. Sivasothi, 1999. *[A
   Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*.
   Singapore Science Centre. 168 pp.
 - Giesen, Wim
   and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
   [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.htm) (PDF online downloadable).
+  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
   RAP publication 2006/07 Food and Agriculture Organization of the
   United Nations Regional Office for Asia and the Pacific Bangkok.
 - [*Acrostichum aureum*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=1535) and *[Acrostichum speciosum](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=1536)* on the NParks Flora and Fauna website: photos
@@ -138,9 +138,9 @@ tapering pointed tips.
 FREE photos of [mangrove
 trees and plants](http://www.flickr.com/photos/54527470@N00/sets/72157600258037543). Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

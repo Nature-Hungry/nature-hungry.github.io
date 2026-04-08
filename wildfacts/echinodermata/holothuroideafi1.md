@@ -4,28 +4,11 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, cucumber, seacucumber,  holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[![talking points for nature guides](../../Templates/fornatureguides.gif)](fngholothuroidea.htm)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 echinoderms
-[text index](echinodermindex.htm) | [photo
-index](echinodermatafi.htm)
-Phylum [Echinodermata](echinodermata.htm)
-> Class [Holothuroidea](holothuroidea/holothuroidea.htm)
+[text index](echinodermindex) | [photo
+index](echinodermatafi)
+Phylum [Echinodermata](echinodermata)
+> Class [Holothuroidea](holothuroidea/holothuroidea)
 **Photo
 index of sea cucumbers on Singapore shores**  
 **short sea
@@ -39,22 +22,22 @@ sea cucumber's length when relaxed*
 ![](holothuroidea/tinyred/020811cjd0451m.jpg)  
 [Tiny
 red  
-sea cucumbers](holothuroidea/tinyred.htm)  
+sea cucumbers](holothuroidea/tinyred)  
 Family Cucumariidae
 
 ![](holothuroidea/africana/100517jngd2842m.jpg)  
 [Little African  
-sea cucumber](holothuroidea/africana.htm)  
+sea cucumber](holothuroidea/africana)  
 *Afrocucumis africana*
 
 ![](holothuroidea/armoured/120605lygd4012m.jpg)  
 [Armoured  
-sea cucumber](holothuroidea/armoured.htm)  
+sea cucumber](holothuroidea/armoured)  
 *Psolidium* sp.
 
 ![](holothuroidea/synsponge/030717skdd0090m.jpg)  
 [Sponge synaptid  
-sea cucumbers](holothuroidea/synsponge.htm)  
+sea cucumbers](holothuroidea/synsponge)  
 Family Synaptidae
 
  
@@ -76,22 +59,22 @@ Purple, pink, maroon, white, grey. Often seen on our Northern shores.
 
 ![](holothuroidea/colochirus/031226chgd0003m.jpg)  
 [Thorny  
-sea cucumber](holothuroidea/colochirus.htm)  
+sea cucumber](holothuroidea/colochirus)  
 *Colochirus quandrangularis*
 
 ![](holothuroidea/cercodemas/030701chgd0143m.jpg)  
 [Pink warty  
-sea cucumber](holothuroidea/cercodemas.htm)  
+sea cucumber](holothuroidea/cercodemas)  
 *Cercodemas anceps*
 
 ![](holothuroidea/orange/030520bbd0309m.jpg)  
 [Orange  
-sea cucumber](holothuroidea/orange.htm)  
+sea cucumber](holothuroidea/orange)  
 *Mensamaria intercedens*
 
 ![](holothuroidea/purple/031226chgd0061m.jpg)  
 [Purple  
-sea cucumber](holothuroidea/purple.htm)  
+sea cucumber](holothuroidea/purple)  
 *awaiting identification*
 
  
@@ -114,20 +97,20 @@ Northern shores.
 
 ![](holothuroidea/beige/030518cjd0327m.jpg)  
 [Beige  
-sea cucumber](holothuroidea/beige.htm) *Holothuria albiventer*
+sea cucumber](holothuroidea/beige) *Holothuria albiventer*
 
 ![](holothuroidea/polkadot/080731chgd8384m.jpg)  
 [Polka-dotted  
-sea cucumber](holothuroidea/polkadot.htm) *Bohadschia ocellata*
+sea cucumber](holothuroidea/polkadot) *Bohadschia ocellata*
 
 ![](holothuroidea/kumquat/080321smkd0319m.jpg)  
 [Kumquat  
-sea cucumber](holothuroidea/kumquat.htm)  
+sea cucumber](holothuroidea/kumquat)  
 *Actinopyga* sp.
 
 ![](holothuroidea/hamatus/100712chgd8504m.jpg)  
 [Plasticky  
-sea cucumber](holothuroidea/hamatus.htm)  
+sea cucumber](holothuroidea/hamatus)  
  *Cladolabes hamatus*
 
  
@@ -150,32 +133,32 @@ feet. Near living reefs. Seen once on Pulau Semakau.
 are NOT sea cucumbers**  
 
 ![](../worm/sipuncula/sipuncula/031122cjd0011m.jpg)  
-[Peanut worm](../worm/sipuncula/sipuncula.htm) Phylum Spincula
+[Peanut worm](../worm/sipuncula/sipuncula) Phylum Spincula
 
 ![](../worm/enteropneusta/enteropneusta/050402cjd2070ma.jpg)  
-[Acorn worm](../worm/enteropneusta/enteropneusta.htm) Phylum Hemichordata  
+[Acorn worm](../worm/enteropneusta/enteropneusta) Phylum Hemichordata  
 Class Enteropneusta
 
 ![](../cnidaria/actiniaria/peachia/071126chgd7677m.jpg)  
-[Sea anemone](../cnidaria/actiniaria/peachia.htm)  
+[Sea anemone](../cnidaria/actiniaria/peachia)  
 Phylum Cnidaria
 
 ![](../cnidaria/others/pennatulacea/veretillidae/020501cjcpd8683m.jpg)  
 [Flower
-sea pen](../cnidaria/others/pennatulacea/vertillidae.htm)  
+sea pen](../cnidaria/others/pennatulacea/vertillidae)  
 Phylum Cnidaria
 
 ![](../cnidaria/others/ceriantharia/common/060415hntd1226m.jpg)  
 [Peacock
-anemone](../cnidaria/others/ceriantharia/ceriantharia.htm)   
+anemone](../cnidaria/others/ceriantharia/ceriantharia)   
 Phylum Cnidaria
 
 ---
 
 how to tell apart
 
-- [sausage-like animals](../glossary/sausage.htm)
-- [worm-like animals](../glossary/wormy.htm)
+- [sausage-like animals](../glossary/sausage)
+- [worm-like animals](../glossary/wormy)
 
   
   
@@ -187,39 +170,39 @@ echinoderms on this site
 
 **Phylum
 Echinodermata**[all
-echinoderms](echinodermatafi.htm)  **With arms**  
+echinoderms](echinodermatafi)  **With arms**  
  
 many,
 feathery  
-[feather stars](crinoideafi.htm)  
+[feather stars](crinoideafi)  
   
 five, bristley  
-[brittle stars](ophuiroideafi.htm)  
+[brittle stars](ophuiroideafi)  
   
 sea stars  
-[small](asteroideafi1.htm) <10cm  
-[large](asteroideafi2.htm) >10cm
+[small](asteroideafi1) <10cm  
+[large](asteroideafi2) >10cm
   
  **Hard**  
  
 flat,
 coin-like  
-[sand dollars](echinoideafi1.htm)  
+[sand dollars](echinoideafi1)  
   
 spherical, spiny  
 [sea urchins  
-heart urchins](echinoideafi2.htm) 
+heart urchins](echinoideafi2) 
  **Soft**  
  
 sea
 cucumbers   
 short
 <10cm  
-[long](holothuroideafi2.htm) >10cm
+[long](holothuroideafi2) >10cm
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

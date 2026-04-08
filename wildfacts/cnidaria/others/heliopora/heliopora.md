@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "blue, heliopora, coerulea, helioporidae, coral, alcyonaria, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 cnidarians [text
-index](../../cnidariaindex.htm#heliopora) | [photo index](../../coralhardfi4.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
+index](../../cnidariaindex#heliopora) | [photo index](../../coralhardfi4)
+Phylum [Cnidaria](../../cnidaria)
+> Class [Anthozoa](../../anthozoa) > Subclass
 Alcyonaria/Octocorallia > Order Helioporacea
 **Blue
 coral  
@@ -45,12 +45,12 @@ seen?** These living fossils are commonly seen on our Southern
 shores, sometimes forming many large colonies. Found among hard corals.  
   
 **What are blue corals?** Blue corals
-belong to [Phylum Cnidaria](../../cnidaria.htm). Although
-they produce a hard skeleton, they are NOT [hard corals](../../coralhard/coralhard.htm) and are more
+belong to [Phylum Cnidaria](../../cnidaria). Although
+they produce a hard skeleton, they are NOT [hard corals](../../coralhard/coralhard) and are more
 closely related to soft corals. Blue corals are the only members of
 the Order Helioporacea, Family Helioporidae. They are also the only
 members of the soft corals ([Subclass
-Alcyonaria](../../coralsoft/coralsoft.htm)) that contributes to reef-building, like hard corals
+Alcyonaria](../../coralsoft/coralsoft)) that contributes to reef-building, like hard corals
 do.  
   
 **Living fossil:** Blue corals are
@@ -75,7 +75,7 @@ they are usually brown because the thin layer of brownish living tissue
 that covers the outer surface of the skeleton. The skeletons are made
 of a different kind of calcium carbonate (fibro-crystalline argonite)
 that is more brittle than that of true hard corals that belong to
-Subclass [Sclerectinia](../../coralhard/coralhard.htm).
+Subclass [Sclerectinia](../../coralhard/coralhard).
 Inside the skeleton are tubes, where the long, thin polyps are found, and
 a system of canals. Blue coral colonies are usually boulder shaped
 with knobs. They may also have thick leaf-like forms or columns, and
@@ -99,7 +99,7 @@ within their bodies. The algae undergo photosynthesis to produce food
 from sunlight. The food produced is shared with the host, which in
 return provides the algae with shelter and minerals. It is the zooxanthellae
 that give the animals their brownish colour.
-However, during [mass coral bleaching](../../coralhard/coralhard.htm), while other hard corals are bleaching in numbers, we usually don't see Blue corals undergoing the same kind of drastic colour change.  
+However, during [mass coral bleaching](../../coralhard/coralhard), while other hard corals are bleaching in numbers, we usually don't see Blue corals undergoing the same kind of drastic colour change.  
   
 **Blue food:**  This coral is preyed upon by a small nudibranch *Doridomorpha gardineri* that very closely resembles the surface of the coral.  
   
@@ -209,9 +209,9 @@ coerulea*
   Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
   The Nature Society (Singapore), Singapore. 343 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "batfish, bat, fish, ephippidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm)
+> Subphylum Vertebrate > [fishes](../fish)
 **Batfishes**   
  **Family Ephippidae***updated
 Sep 2020*
@@ -57,10 +57,10 @@ Marina at Keppel Bay, Oct 09*
 **Make like a leaf:** Sometimes, may lie on the side, floating
 in the water to mimic leaves or flat against the surface mimicking
 toxic flatworms. In some species, the juveniles are found with [feather
-stars](../../../echinodermata/crinoidea/crinoidea.htm).   
+stars](../../../echinodermata/crinoidea/crinoidea).   
   
 **May be confused with** the [Silver
-moony](../monodactylidae/argenteus.htm) (Family Monodactylidae).
+moony](../monodactylidae/argenteus) (Family Monodactylidae).
 
 *![](platax/120408sjid8407m3.jpg)  
 St. John's
@@ -112,7 +112,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ![](platax/090807tmjk4m3.jpg)  
 *Tanah Merah, Aug 09*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/08/tanah-merah-more-and-more-fishes.html).
+blog](http://sgn090608.blogspot.com/2009/08/tanah-merah-more-and-more-fishesl).
 
 *![](platax/120818lazlks.JPG)  
 Seringat-Kias, Aug 12*Photo
@@ -132,7 +132,7 @@ Photo shared by Mathias Luk on [facebook](https://www.facebook.com/permalink.php
 Cyrene Reef,
 Nov 08*Photo
 shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2008/11/evening-with-cyrene.html).
+blog](http://wondercreation.blogspot.com/2008/11/evening-with-cyrenel).
 
 *![](platax/241116smksky2.jpg)  
 Pulau Semakau (South), Nov 24*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10170350037815112&type=3&ref=embed_post).
@@ -151,7 +151,7 @@ in Singapore*.+Other additions (Singapore Biodiversity Records, ect)
 **Family
 Ephippidae** (previously
 listed under [Family
-Chaetodontidae](../chaetodontidae/chaetodontidae.htm))
+Chaetodontidae](../chaetodontidae/chaetodontidae))
  
 *Platax
 batavianus* (Batavia batfish) *Platax orbicularis  
@@ -162,7 +162,7 @@ batavianus* (Batavia batfish) *Platax orbicularis
 **Links**  
 
 - [Round-faced
-  Batfish (*Platax teira*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/328.htm) Lim, Kelvin K. P. & Jeffrey
+  Batfish (*Platax teira*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/328) Lim, Kelvin K. P. & Jeffrey
   K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
@@ -172,7 +172,7 @@ batavianus* (Batavia batfish) *Platax orbicularis
   orbicularis* (Orbicular batfish)](http://www.fishbase.org/summary/5737) and [*Platax
   teira* (Longfin batfish)](http://www.fishbase.org/summary/5739) from [FishBase](http://www.fishbase.org/).
 - [Volume
-  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.htm) FAO Species
+  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
   Identification Guide for Fishery Purposes The Living Marine Resources
   of the Western Central Pacific.
 
@@ -184,9 +184,9 @@ batavianus* (Batavia batfish) *Platax orbicularis
   and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
   National Council on the Environment. 163pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

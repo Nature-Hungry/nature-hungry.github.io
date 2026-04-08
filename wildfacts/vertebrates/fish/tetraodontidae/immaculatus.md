@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "yelloweye, yellow, eye, pufferfish, puffer, arothron, immaculatus, fish, tetraodontidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm) >
-Family [Tetraodontidae](tetraodontidae.htm)
+> Subphylum Vertebrata > [fishes](../fish) >
+Family [Tetraodontidae](tetraodontidae)
 **Yelloweye
 pufferfish  
 *Arothron immaculatus***  
@@ -67,7 +67,7 @@ Changi, Aug 18*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.
 
 *![](immaculatus/140713bblks1m3.jpg)  
 Beting Bronok, Jul 14*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2015/08/hows-beting-bronok-over-two-years.html).
+blog](http://wondercreation.blogspot.sg/2015/08/hows-beting-bronok-over-two-yearsl).
 
 ---
 
@@ -78,24 +78,24 @@ Pulau Hantu, Jul 07*Photo shared by Marcus Ng on [flickr](https://www.flickr.com
 
 ![](immaculatus/110517tptlks20m3c.jpg)  
  *Terumbu Pempang Tengah, May 11*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengah.html)*.*
+blog](http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengahl)*.*
 
 *![](immaculatus/080510smktsj02m3.jpg)  
 Pulau Semakau,
 May 08*Photo shared by Tan Sijie on [his
-blog](http://naturescouter.blogspot.com/2008/05/team-seagrass-at-pulau-semakau.html).
+blog](http://naturescouter.blogspot.com/2008/05/team-seagrass-at-pulau-semakaul).
 
 ---
 
 **Links**  
 
 - [Yelloweye
-  Puffer (*Arothron immaculatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/395.htm) Lim, Kelvin K. P. & Jeffrey
+  Puffer (*Arothron immaculatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/395) Lim, Kelvin K. P. & Jeffrey
   K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/)*. Singapore
   Science Centre. 163 pp.
 - [Puffer
-  or Globe fish (*Arothron* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/253.htm) Tan, Leo W. H. & Ng, Peter
+  or Globe fish (*Arothron* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/253) Tan, Leo W. H. & Ng, Peter
   K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
@@ -115,9 +115,9 @@ blog](http://naturescouter.blogspot.com/2008/05/team-seagrass-at-pulau-semakau.h
   & Fishermen*
   New Holland Publishers. 434pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

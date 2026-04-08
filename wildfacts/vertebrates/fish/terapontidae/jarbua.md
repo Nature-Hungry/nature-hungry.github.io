@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "crescent, grunter, perch, fish, terapon, jarbua, teraponidae, theraponidae, therapontidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm) >
-Family [Terapontidae](terapontidae.htm)
+> Subphylum Vertebrata > [fishes](../fish) >
+Family [Terapontidae](terapontidae)
 **Crescent
 perch**  
 ***Terapon
@@ -83,7 +83,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ![](jarbua/090623ecpjk4m3.jpg)  
 *East Coast, Jun 09*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/06/east-coast.html).
+blog](http://sgn090608.blogspot.com/2009/06/east-coastl).
 
 ![](jarbua/150617ecplks.JPG)  
 *East Coast Park, Jun 15*  
@@ -107,7 +107,7 @@ Pulau Tekukor, Jan 25*Photo shared by Liz Lim on [facebook](https://www.facebook
 
 ![](jarbua/160409sjilks3.JPG)  
 *St Johns Island, Apr 16*  
-Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2016/04/st-johns-islands-underwater-garden.html).
+Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2016/04/st-johns-islands-underwater-gardenl).
 
 ![](jarbua/240114kusll1.jpg)  
 *Kusu Island, Jan 24*  
@@ -122,7 +122,7 @@ Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/yongszeyuenke
 **Links**  
 
 - [Crescent
-  perch (*Terapon jarbua*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/272.htm) Lim, Kelvin K. P. & Jeffrey
+  perch (*Terapon jarbua*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/272) Lim, Kelvin K. P. & Jeffrey
   K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
@@ -130,12 +130,12 @@ Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/yongszeyuenke
   perch (*Terapon jarbua*)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=4458) from [FishBase](http://www.fishbase.org/):
   Technical fact sheet.
 - [Cresent
-  perch (*Terapon jarbua*)](http://www.amonline.net.au/fishes/fishfacts/fish/tjarbua.htm) on
+  perch (*Terapon jarbua*)](http://www.amonline.net.au/fishes/fishfacts/fish/tjarbua) on
   the [Australian
   Museum Fish Site](http://www.amonline.net.au/fishes/fishfacts/) on the Australian Museum Online website:
   factsheets with photos and descriptions.
 - [Volume
-  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.htm) FAO Species
+  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
   Identification Guide for Fishery Purposes The Living Marine Resources
   of the Western Central Pacific.
 
@@ -160,9 +160,9 @@ Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/yongszeyuenke
   Science, Nanyang Technological University & Department of Zoology,
   the National University of Singapore. 160 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

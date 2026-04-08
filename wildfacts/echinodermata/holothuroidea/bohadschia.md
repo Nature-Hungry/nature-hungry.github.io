@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "brown, cucumber, seacucumber, bohadschia, vitiensis, holothuriidae, holothuroidae, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 sea
-cucumbers [text index](../echinodermindex.htm#holothuroidea)
-| [photo index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class [Holothuroidea](holothuroidea.htm)
+cucumbers [text index](../echinodermindex#holothuroidea)
+| [photo index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
+> Class [Holothuroidea](holothuroidea)
 **Brown
 sea cucumber  
 *Bohadschia vitiensis\**  
@@ -100,7 +87,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ![](bohadschia/160208smkslks3.JPG)  
 *Pulau Semakau South, Feb 16*  
-Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2016/02/cny-day-1-southern-semakau.html).
+Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2016/02/cny-day-1-southern-semakaul).
 
 ![](bohadschia/150717smkshpy5m3.jpg)  
 *Pulau Semakau South, Jul 15*  
@@ -108,7 +95,7 @@ Photo shared by Heng Pei Yan on [facebook](https://www.facebook.com/heng.pei.yan
 
 ![](bohadschia/221225smksccn1.jpg)  
 *Pulau Semakau South, Dec 22*  
-Photo shared by Che Cheng Neo on [facebook](http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia.htm).
+Photo shared by Che Cheng Neo on [facebook](http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia).
 
 ---
 
@@ -191,7 +178,7 @@ Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid
 - [*Bohadschia
   vitiensis*](http://www.iucnredlist.org/details/180352/0) on IUCN Red List: Technical fact
   sheet.
-- *Bohadschia vitiensis* on [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00.htm), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
+- *Bohadschia vitiensis* on [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
 
 **References**
 
@@ -200,14 +187,4 @@ Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid
   Guide to Sea Stars and Other Echinoderms of Singapore*.
   Singapore Science Centre. 187pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

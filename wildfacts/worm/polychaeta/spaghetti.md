@@ -4,27 +4,14 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "spaghetti, worm, bristleworm, polychaete, annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 worms
-[text index](../wormindex.htm) | [photo
-index](../wormfi.htm)
+[text index](../wormindex) | [photo
+index](../wormfi)
 
-[worms](../worm.htm) > Phylum Annelida >
-Class [Polychaeta](polychaeta.htm)
+[worms](../worm) > Phylum Annelida >
+Class [Polychaeta](polychaeta)
 
 **Spaghetti
 worms  
@@ -50,7 +37,7 @@ and had lots of long tentacles.
   
 **Sometimes mistaken for** sea anemones or cerianthids.  
   
-**What eats them?** The [Paper bubble snail](../../mollusca/slugs/cephalaspidea/hydatinidae.htm) feeds exclusively on worms from the Family Cirratulidae.
+**What eats them?** The [Paper bubble snail](../../mollusca/slugs/cephalaspidea/hydatinidae) feeds exclusively on worms from the Family Cirratulidae.
 *![](spaghetti/080801chgd8649m3.jpg)*Family Cirratulidae.
 *![](spaghetti/080801chgd8649m3a.jpg)*With
 pointed head. *Changi, Jul 08* 
@@ -66,7 +53,7 @@ Aug 05*
 Pasir Ris,
 Jul 09*Photo
 shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/07/pasir-ris-anemone-day.html).
+blog](http://sgn090608.blogspot.com/2009/07/pasir-ris-anemone-dayl).
 
 *![](spaghetti/090820prpd7574m3.jpg)  
 Pasir Ris,
@@ -118,17 +105,7 @@ and a tentative identification.
 **Links**
 
 - [Family
-  Cirratulidae](http://lkcnhm.nus.edu.sg/polychaete/Cirratulidae.html) and [Family Terebellidae](http://lkcnhm.nus.edu.sg/polychaete/Terebellidae.html) by Lim Yun Ping 1997-2000 [A
+  Cirratulidae](http://lkcnhm.nus.edu.sg/polychaete/Cirratulidael) and [Family Terebellidae](http://lkcnhm.nus.edu.sg/polychaete/Terebellidael) by Lim Yun Ping 1997-2000 [A
   Guide to Singapore Polychaetes](http://rmbr.nus.edu.sg/polychaete/).
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

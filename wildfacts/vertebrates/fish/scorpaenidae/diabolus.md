@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "false, stone, scorpion, fish, scorpaenopsis, diabolus, scorpaenidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm) >
-Family [Scorpaenidae](scorpaenidae.htm)
+> Subphylum Vertebrata > [fishes](../fish) >
+Family [Scorpaenidae](scorpaenidae)
 **False
 stonefish  
 *Scorpaenopsis diabolus*  
@@ -38,17 +38,17 @@ shores on coral rubble areas near reefs or rocky shores.
   
  **Features:** 15-30cm long with a
 humped back. Small eyes that don't stick out of the head, with small
-shallow depression near the eyes, not as large and deep as the true [Hollow-cheeked stonefish](../synanceiidae/horrida.htm) (*Synanceia horrida*). Wide horizontal mouth on a large rather
+shallow depression near the eyes, not as large and deep as the true [Hollow-cheeked stonefish](../synanceiidae/horrida) (*Synanceia horrida*). Wide horizontal mouth on a large rather
 flattened head. Large pectoral fins sometimes colourful. Spiky dorsal
 fin which carries venomous stings but it is not as dangerous as the
 real stonefish.
 When disturbed, it waddles away awkwardly on its pectoral fins.
   
   
-**Sometimes mistaken for** a [stonefish](../synanceiidae/horrida.htm) (Family Synanceiidae) or the [False
-scorpionfish](../centrogenyidae/vaigiensis.htm) (*Centrogenys vaigiensis*), a grouper, which
+**Sometimes mistaken for** a [stonefish](../synanceiidae/horrida) (Family Synanceiidae) or the [False
+scorpionfish](../centrogenyidae/vaigiensis) (*Centrogenys vaigiensis*), a grouper, which
 looks very similar. Here's more on [how
-to tell apart fishes that look like stones](../cfstonefish.htm).
+to tell apart fishes that look like stones](../cfstonefish).
 
 *![](diabolus/140810smkmn.jpg)*  
 *Pulau Semakau, Aug 14*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/14873894034/in/album-72157646319379351/).
@@ -88,7 +88,7 @@ Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo/?fbid
 **Links**  
 
 - [False
-  stonefish (*Scorpaenopsis diabolus*)](http://www.fishbase.org/summary/Scorpaenopsis-diabolus.html) from [FishBase](http://www.fishbase.org/):
+  stonefish (*Scorpaenopsis diabolus*)](http://www.fishbase.org/summary/Scorpaenopsis-diabolusl) from [FishBase](http://www.fishbase.org/):
   Technical fact sheet on the order, including a fact sheet on
 
 **References**
@@ -98,9 +98,9 @@ Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo/?fbid
   Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
   Periplus Editions. 292 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

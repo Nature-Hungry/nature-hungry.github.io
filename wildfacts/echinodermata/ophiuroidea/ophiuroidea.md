@@ -4,25 +4,12 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "brittle, star, brittlestar, ophiuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 brittle
-stars [text index](../echinodermindex.htm#ophiuroidea)
-| [photo index](../ophuiroideafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
+stars [text index](../echinodermindex#ophiuroidea)
+| [photo index](../ophuiroideafi)
+Phylum [Echinodermata](../echinodermata)
 > Class Stellaroida > Subclass Ophiuroidea
 **Brittle
 stars**   
@@ -49,12 +36,12 @@ ones shelter under rocks, beneath the sand and in even on other animals
 such as sponges.  
   
 **What are brittle stars?** Brittle
-stars belong to Phylum [Echinodermata](../echinodermata.htm) and Subclass Ophiuroidea which has about 2,100 known species. This
+stars belong to Phylum [Echinodermata](../echinodermata) and Subclass Ophiuroidea which has about 2,100 known species. This
 makes Ophiuroidea the largest group of echinoderms. About 300 brittle
 star species are found in shallow tropical waters.   
   
 **Basket case:** Included in Class
-Ophiuroidea are the [basket stars](basket.htm) (Suborder
+Ophiuroidea are the [basket stars](basket) (Suborder
 Euryalina) that have branched arms and thus appear basket-like. Large
 ones are generally found in deeper water, although small ones have
 been encountered on the intertidal.  
@@ -70,9 +57,9 @@ connected together like a vertebrate with ball-and-socket joints.
 A brittle star lengthens its arms by adding ossicles where the arm
 joins the central disk.  
   
-**Sometimes confused with** [bristleworms](../../worm/polychaeta/polychaeta.htm).
+**Sometimes confused with** [bristleworms](../../worm/polychaeta/polychaeta).
 Here's more on [how to tell them
-apart](../../glossary/wormstar.htm). [Feather stars](../crinoidea/crinoidea.htm) may also appear similar but they usually have 10 or more arms.  
+apart](../../glossary/wormstar). [Feather stars](../crinoidea/crinoidea) may also appear similar but they usually have 10 or more arms.  
   
 **What do they eat?** Many brittle
 stars feed on detritus, using their arms to gather this from the surface
@@ -98,7 +85,7 @@ released by their food.
 *![](lineocaerulea/040121chgd0056m3.jpg)*Often all that is seen of a brittle star are  
 its arms sticking out of a hiding place. *Changi, Jan 04*
 *![](longipeda/050819cjg1633m3a.jpg)*Underside of a [Blue lined brittle
-star](lineocaerulea.htm). *Chek Jawa, Aug 05*
+star](lineocaerulea). *Chek Jawa, Aug 05*
 ![](botbrush/050621skdg7962m3d.jpg)  
 Close up of tubefeet on arms *Pulau Sekudu, Jun 06*
 **Falling apart:** As its name suggests,
@@ -125,22 +112,22 @@ like their adults. The form that first hatches from the eggs are bilaterally
 symmetrical and free-swimming, drifting with the plankton. They eventually
 settle down and develop into tiny brittle stars. Some brittle stars
 brood their eggs.
-*![](lineocaerulea/040730skdd3429m3.jpg)*A [Blue lined brittle star](lineocaerulea.htm) possibly
+*![](lineocaerulea/040730skdd3429m3.jpg)*A [Blue lined brittle star](lineocaerulea) possibly
 releasing eggs *Pulau Sekudu, Jul 04*
 ![](basket/130723bbd0060m3.jpg)  
-Basket start on a [Flowery soft coral](../../cnidaria/coralsoft/neppink.htm).   
+Basket start on a [Flowery soft coral](../../cnidaria/coralsoft/neppink).   
 *Beting Bronok, Jul 13.*
 ![](flatarm/070803cjd5005m3.jpg)  
 Sometimes seen in large numbers. *Chek Jawa, Aug 07*
 **Star-spangled sponges:** Tiny brittle
-stars (1-2cm with arms) often live inside [sponges](../../porifera/porifera.htm).
+stars (1-2cm with arms) often live inside [sponges](../../porifera/porifera).
 Look closely at the holes of a sponge and you might see their little
 arms sticking out. They may also be found living with corals and even
 other echinoderms. One tiny brittle star *Ophiosphaera insignis* lives near the mouth of the sea urchin *Diadema setosum*. Here,
 the brittle star finds safety and food that is gathered by the sea
 urchin. Another tiny brittle star *[Ophiomaza
-cacaotica](featherstar.htm)* shelters near the mouth of [feather
-stars](../crinoidea/crinoidea.htm). Yet others cling to the branches of [gorgonians](../../cnidaria/others/gorgonacea/gorgonacea.htm).  
+cacaotica](featherstar)* shelters near the mouth of [feather
+stars](../crinoidea/crinoidea). Yet others cling to the branches of [gorgonians](../../cnidaria/others/gorgonacea/gorgonacea).  
   
 **Stars come out at night:** Brittle
 stars are plentiful but seldom seen. They have many predators, so
@@ -148,14 +135,14 @@ brittle stars usually only come out at night. Creatures that snack
 on brittle stars include fish, crabs, hermit crabs, mantis shrimp
 and even sea stars and other brittle stars.
 ![](featherstar/060713rlhd4318m3.jpg)  
-This [brittle star](featherstar.htm) lives only in feather
+This [brittle star](featherstar) lives only in feather
 stars!  
 *Raffles Lighthouse, Jul 06*
 ![](tinycolourful/060613ecpd3088m3.jpg)  
-[Tiny colourful brittle stars](tinycolourful.htm)   
+[Tiny colourful brittle stars](tinycolourful)   
 may live on a variety of other animals. *East Coast Park, Jun 06*
 ![](tinysponge/050709skdg9234m3.jpg)  
-[Tiny in-a-sponge brittle stars](tinysponge.htm) live
+[Tiny in-a-sponge brittle stars](tinysponge) live
 in this sponge. *Pulau Sekudu, Jul 05*
 **Speedy stars:** Brittle stars are the fastest-moving echinoderms!
 While sea stars use their tube feet to move slowly, brittle stars
@@ -179,42 +166,42 @@ stars on Singapore shores**
 ---
 
 **![](tinyorange/111029smkd2954m3.jpg)  
-[Tiny orange brittle star](tinyorange.htm)**
+[Tiny orange brittle star](tinyorange)**
 
 **![](tinycolourful/080507skdd2477m3b.jpg)  
-[Tiny colourful brittle star](tinycolourful.htm)**
+[Tiny colourful brittle star](tinycolourful)**
 
 **![](tinysponge/050621skdg8017m3a.jpg)  
-[Tiny in-a-sponge brittle star](tinysponge.htm)**
+[Tiny in-a-sponge brittle star](tinysponge)**
 
 ---
 
 ***![](white/160606chg1d3831m3.jpg)*  
-[Ghost brittle star](white.htm)**
+[Ghost brittle star](white)**
 
 **![](featherstar/060713rlhd4328m3.jpg)  
-[Feather-hitching brittle star](featherstar.htm)**
+[Feather-hitching brittle star](featherstar)**
 
 ---
 
-***![](upsidedown/050621skdg7883m3.jpg)*[Upsidedown brittle star](upsidedown.htm)**
+***![](upsidedown/050621skdg7883m3.jpg)*[Upsidedown brittle star](upsidedown)**
 
-***![](botbrush/050622chgg8160m3.jpg)*  [Bottlebrush brittle star](botbrush.htm)**
+***![](botbrush/050622chgg8160m3.jpg)*  [Bottlebrush brittle star](botbrush)**
 
-***![](flatarm/100926cjd1676m3.jpg)*  [Flat-armed brittle star](flatarm.htm)**
+***![](flatarm/100926cjd1676m3.jpg)*  [Flat-armed brittle star](flatarm)**
 
 ---
 
-***![](violet/130625ecpd8209m3.jpg)*  [Violet brittle star](violet.htm)**
+***![](violet/130625ecpd8209m3.jpg)*  [Violet brittle star](violet)**
 
-**![](longipeda/070219sisg7743m3.jpg) [Very long-armed brittle star](longipeda.htm)**
+**![](longipeda/070219sisg7743m3.jpg) [Very long-armed brittle star](longipeda)**
 
-**![](lineocaerulea/040828skdd5509m3.jpg) [Blue-lined brittle star](lineocaerulea.htm)**
+**![](lineocaerulea/040828skdd5509m3.jpg) [Blue-lined brittle star](lineocaerulea)**
 
 ---
 
 ***![](basket/120124sisd6015m3e.jpg)* [Basket
-star](basket.htm)**
+star](basket)**
 
 ---
 
@@ -248,8 +235,8 @@ are grouped by general colour and pattern for convenience of
 display.*
  
 [Bottlebrush
-brittle star](botbrush.htm) [Flat-armed brittle star](flatarm.htm)   
-[Ghost brittle star](white.htm)
+brittle star](botbrush) [Flat-armed brittle star](flatarm)   
+[Ghost brittle star](white)
   
 **BRITTLE
 STARS**    
@@ -278,7 +265,7 @@ Ophiactidae**
 Ophiactis macrolepidota   
 Ophiactis modesta   
 [Ophiactis
-savignyi](tinysponge.htm)* *[=Ophiactis versicolor, Ophiactis maculosa]* (Tiny in-a-sponge brittle star) *Ophiactis picteti [= Ophiactis sinensis]*
+savignyi](tinysponge)* *[=Ophiactis versicolor, Ophiactis maculosa]* (Tiny in-a-sponge brittle star) *Ophiactis picteti [= Ophiactis sinensis]*
   
  
 **Family
@@ -323,14 +310,14 @@ Ophiotrichidae**
  *Macrophiothrix demessa  
 Macrophiothrix fumaria= Ophiothrix (Placophiothrix) fumaria  
 Macrophiothrix galatheae  
-[Macrophiothrix hybrida](lineocaerulea.htm)=Ophiothrix (Placophiothrix) lineocaerulea*  (Blue-lined brittle star) *[Macrophiothrix longipeda](longipeda.htm)=Ophiothrix longipeda* (Very long-armed brittle star) *Macrophiothrix lorioli  
+[Macrophiothrix hybrida](lineocaerulea)=Ophiothrix (Placophiothrix) lineocaerulea*  (Blue-lined brittle star) *[Macrophiothrix longipeda](longipeda)=Ophiothrix longipeda* (Very long-armed brittle star) *Macrophiothrix lorioli  
 Macrophiothrix melanosticta=Ophiothrix (Placophiothrix) melanosticta  
-[Macrophiothrix nereidina](violet.htm)=Ophiothrix (Keystonia) nereidina* (Violet brittle star) *Macrophiothrix propinqua=Ophiothrix propinqua  
+[Macrophiothrix nereidina](violet)=Ophiothrix (Keystonia) nereidina* (Violet brittle star) *Macrophiothrix propinqua=Ophiothrix propinqua  
 Macrophiothrix robillardi  
   
 Ophiocnemis marmorata  
   
-[Ophiomaza cacaotica](featherstar.htm)* (Feather-hitching brittle star) *[Ophiothela danae](tinycolourful.htm)* (Tiny colourful brittle star) *Ophiothela venusta*[*Ophiothrix* sp](upsidedown.htm) (Upsidedown brittle star) *Ophiothrix (Acanthophiothrix) leucotrigona
+[Ophiomaza cacaotica](featherstar)* (Feather-hitching brittle star) *[Ophiothela danae](tinycolourful)* (Tiny colourful brittle star) *Ophiothela venusta*[*Ophiothrix* sp](upsidedown) (Upsidedown brittle star) *Ophiothrix (Acanthophiothrix) leucotrigona
   
 Ophiothrix (Acanthophiothrix) spinosissima  
 Ophiothrix (Ophiothrix) ciliaris  
@@ -348,7 +335,7 @@ Ophiura pteracantha*
  **BASKET STARS**
  
 **[Family
-Euryalidae](basket.htm)**(Basket star)  
+Euryalidae](basket)**(Basket star)  
 (formerly Family Gorgonocephalidae)
  
  *Euryale aspersa* (DD:
@@ -359,7 +346,7 @@ EN? Data deficient, possibly Endangered)
 **Links**
 
 - [Serpent
-  Star or Brittlestar, Family Ophiotrichidae](http://mangrove.nus.edu.sg/pub/seashore/text/224.htm) Tan, Leo W. H.
+  Star or Brittlestar, Family Ophiotrichidae](http://mangrove.nus.edu.sg/pub/seashore/text/224) Tan, Leo W. H.
   & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
@@ -420,14 +407,4 @@ EN? Data deficient, possibly Endangered)
   Stars of Australasia and their relatives*. Neville Coleman's
   World of Water, Australia. 64pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

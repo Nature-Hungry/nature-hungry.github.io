@@ -4,21 +4,6 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](index.html)
-| [search](../search.htm)
-
 **Photo
 index of marine life on Singapore shores**
   
@@ -30,58 +15,58 @@ long and thin**
 
 ![](../echinodermata/holothuroidea/synbig/071026cyrd7139m.jpg)  
 [**sea
-cucumber**](../echinodermata/holothuroideafi2.htm)
+cucumber**](../echinodermata/holothuroideafi2)
 
 ![](../echinodermata/holothuroidea/synsponge/030717skdd0090m.jpg)  
 [**sea
-cucumber**](../echinodermata/holothuroideafi1.htm)
+cucumber**](../echinodermata/holothuroideafi1)
 
 ![](../cnidaria/others/gorgonacea/whip/030714bbd0067m.jpg)  
 **[sea
-whip](../cnidaria/gorgonaceafi.htm)**
+whip](../cnidaria/gorgonaceafi)**
 
 ![](../mollusca/slugs/nudibranchia/dermatobranchus/050529sjig7198m.jpg)  
 **[sea
-slug](../mollusca/slugfi5.htm)**
+slug](../mollusca/slugfi5)**
 
 ![](../mollusca/slugs/nudibranchia/ianthina/030714bbd0018m.jpg)  
 **[sea
-slug](../mollusca/slugfi4.htm)**
+slug](../mollusca/slugfi4)**
 
 ![](../worm/polychaeta/giant/040521sntad0079m.jpg)  
-**[worm](../worm/polychaetafi.htm)**
+**[worm](../worm/polychaetafi)**
 
 ![](../worm/polychaeta/reef/040804skdd4129m.jpg)  
-**[worm](../worm/polychaetafi.htm)**
+**[worm](../worm/polychaetafi)**
 
 ![](../worm/enteropneusta/enteropneusta/050402cjd2070ma.jpg)  
-**[worm](../worm/wormfi1a.htm)**
+**[worm](../worm/wormfi1a)**
 
 ![](../worm/nemertea/redreef/060115sntg3977m.jpg)  
-**[worm](../worm/wormfi1a.htm)**
+**[worm](../worm/wormfi1a)**
 
 ![](../worm/nemertea/verylong/050325sjid1973ma.jpg)  
-**[worm](../worm/wormfi1a.htm)**
+**[worm](../worm/wormfi1a)**
 
 ![](../eggs/eggs/050726chgg0399m.jpg)  
-**[eggs](../eggs/eggfi.htm)**
+**[eggs](../eggs/eggfi)**
 
 ![](../eggs/eggs/050608cftg7378m.jpg)  
-**[eggs](../eggs/eggfi.htm)**
+**[eggs](../eggs/eggfi)**
 
 ![](../eggs/eggs/050611kusg7835m.jpg)  
-**[eggs](../eggs/eggfi.htm)**
+**[eggs](../eggs/eggfi)**
 
 ---
 
 how to tell apart
 
 - [sea
-  snakes, eels and eel-like animals](eelsnake.htm)
+  snakes, eels and eel-like animals](eelsnake)
 - [worm-like
-  animals](wormy.htm)
+  animals](wormy)
 - [animals
-  with hard coiling shells on rock](tubehard.htm)
+  with hard coiling shells on rock](tubehard)
 
   
   
@@ -94,39 +79,39 @@ animals on this site
 by shape
 
 [general
-photo index](../photoindex.htm)  
+photo index](../photoindex)  
   
-[ball-shaped](fiball.htm)  
+[ball-shaped](fiball)  
   
-[blobs](fiblobs.htm)   
+[blobs](fiblobs)   
   
-[branching](fibranching.htm)  
+[branching](fibranching)  
   
-[bristley](fibristley.htm)  
+[bristley](fibristley)  
   
-[encrusting](fiencrusting.htm)  
+[encrusting](fiencrusting)  
   
-[feathery](fifeathery.htm)  
+[feathery](fifeathery)  
   
-[flat flexible](fiflatflexi.htm)   
+[flat flexible](fiflatflexi)   
   
-[flat stiff](fiflatstiff.htm)   
+[flat stiff](fiflatstiff)   
   
-[hairy](fihairy.htm)  
+[hairy](fihairy)  
   
-[leafy](fileafy.htm)  
+[leafy](fileafy)  
   
-[ribbon-like](firibbon.htm)  
+[ribbon-like](firibbon)  
   
-[sausage-like](fisausage.htm)  
+[sausage-like](fisausage)  
   
-[snake-like](fisnake.htm)   
+[snake-like](fisnake)   
   
 worm-like
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

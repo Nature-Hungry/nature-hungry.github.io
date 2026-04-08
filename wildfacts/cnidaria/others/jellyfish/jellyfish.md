@@ -4,24 +4,24 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "jellyfish, jelly, fish, jellies,scyphozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 jellyfish [text
-index](../../cnidariaindex.htm#jellyfish) | [photo index](../../jellyfishfi.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
+index](../../cnidariaindex#jellyfish) | [photo index](../../jellyfishfi)
+Phylum [Cnidaria](../../cnidaria)
 > Class Scyphozoa
 **Jellyfish  
 Class Scyphozoa***updated
@@ -46,7 +46,7 @@ But no matter where you see them, don't touch them!
   
 **What are jellyfish?** Despite their
 name, they are not fish and are more closely related to sea anemones
-and corals. They are [Cnidarians](../../cnidaria.htm) (Phylum
+and corals. They are [Cnidarians](../../cnidaria) (Phylum
 Cnidaria).   
   
 Jellyfish may belong to various groups within the Phylum Cnidaria.
@@ -57,7 +57,7 @@ form (the polyp) in another stage.
 Other cnidarians only take the form of a jellyfish in their life cycle
 and don't take on the stationary form. These include members of the
 Class Scyphozoa; Class Cubozoa (which includes the highly venomous
-box jellies); [Class Hydrozoa](../hydrozoa/hydrozoa.htm) (which includes the highly venomous Portuguese-Man-of-War in the Order
+box jellies); [Class Hydrozoa](../hydrozoa/hydrozoa) (which includes the highly venomous Portuguese-Man-of-War in the Order
 Siphonophora which is a colony and not a solitary animal like other
 jellyfish). In Class Scyphozoa and Class Cubozoa, the jellyfish form
 is the dominant and most conspicuous form in the life cycle.  
@@ -94,7 +94,7 @@ the beach.
   
 **What do they eat?** Some jellyfish
 sting fishes and crustaceans. Others are suspension feeders, trapping
-plankton in mucus on the underside of their bell-shaped bodies. The [Upsidedown jellyfish](upsidedown.htm)has a farm in its arms - it harbours
+plankton in mucus on the underside of their bell-shaped bodies. The [Upsidedown jellyfish](upsidedown)has a farm in its arms - it harbours
 microscopic, single-celled algae (called zooxanthellae) inside its
 body. The algae undergo photosynthesis to produce food from sunlight.
 The food produced is shared with the jellyfish, which in return provides
@@ -126,7 +126,7 @@ and balloons look like jellyfish, sea turtles may eat them and eventually
 become ill and/or die. This is why it is important to dispose of plastic
 bags and balloons properly. Our litter can kill!  
   
-**Jellyfish friends:** Sometimes, small fishes can be seen near [huge jellyfishes](huge.htm) and even [Ribbon jellyfishes](ribbon.htm) including near their stinging tentacles.
+**Jellyfish friends:** Sometimes, small fishes can be seen near [huge jellyfishes](huge) and even [Ribbon jellyfishes](ribbon) including near their stinging tentacles.
 
 ![](huge/160610jngmn5.jpg)  
  *Pulau Jong,
@@ -146,7 +146,7 @@ A sudden increase in jellyfishes can also impair commercial fishing
 as they clog up nets. Explosions of jellyfish populations are considered
 to be an indicator of an imbalance in the ecosystem, or pollution.  
   
-**Status:** Except for the [Mangrove jellyfish](mangrove.htm) which is listed as Vulnerable, there is inadequate information as at 2024 to make an informed assesment of the conservation status of the recorded jellyfishes in Singapore.
+**Status:** Except for the [Mangrove jellyfish](mangrove) which is listed as Vulnerable, there is inadequate information as at 2024 to make an informed assesment of the conservation status of the recorded jellyfishes in Singapore.
 
 ---
 
@@ -155,24 +155,24 @@ to be an indicator of an imbalance in the ecosystem, or pollution.
 ---
 
 ***![](mangrove/090410ubnd9384m3.jpg)*  
-[Mangrove jellyfish](mangrove.htm)**
+[Mangrove jellyfish](mangrove)**
 
 ***![](fatarm/050426cftg5076m3.jpg)*  
-[Fat-armed jellyfish](catostylus.htm)**
+[Fat-armed jellyfish](catostylus)**
 
 ***![](ribbon/050624tusg8515m3.jpg)*  
-[Ribbon jellyfish](ribbon.htm)**
+[Ribbon jellyfish](ribbon)**
 
 ---
 
 ***![](upsidedown/080321smkd0421m3.jpg)*  
-[Upsidedown jellyfish](upsidedown.htm)**
+[Upsidedown jellyfish](upsidedown)**
 
 ***![](huge/060516chgd2021m3.jpg)*  
-[Huge jellyfish](huge.htm)**
+[Huge jellyfish](huge)**
 
 ***![](../hydrozoa/thread/040409tusad0160m3.jpg)*  
-[Thread-tentacled jellyfish](../hydrozoa/thread.htm)**
+[Thread-tentacled jellyfish](../hydrozoa/thread)**
 
 ---
 
@@ -191,11 +191,11 @@ Scyphozoa on Singapore Shores** from Checklist of Cnidaria (non-Sclerectinia) Sp
   
  
 [Huge
-jellyfishes](huge.htm)
+jellyfishes](huge)
   
  
 **[Family
-Cassiopeidae](upsidedown.htm)** (Upsidedown jellyfish)
+Cassiopeidae](upsidedown)** (Upsidedown jellyfish)
  
 *Cassiopea andromeda* (Upside-down jellyfish) *Cassiopea xamachana* (Upside-down jellyfish)
   
@@ -203,9 +203,9 @@ Cassiopeidae](upsidedown.htm)** (Upsidedown jellyfish)
 **Family
 Catostylidae**
  
-*[Acromitus](mangrove.htm)* [sp.](mangrove.htm) (Mangrove jellyfish)  
+*[Acromitus](mangrove)* [sp.](mangrove) (Mangrove jellyfish)  
 *Acromitus hardenbergi* (River jellyfish)   
-*[Catostylus](catostylus.htm)* [sp.](catostylus.htm) (Fat-armed
+*[Catostylus](catostylus)* [sp.](catostylus) (Fat-armed
 jellyfish)
   
  
@@ -224,7 +224,7 @@ Cyaneidae**
 **Family
 Pelagiidae** 
  
-[*Chrysaora* sp.](ribbon.htm) (Ribbon jellyfish) *Chrysaora chinensis*  *Chrysaora melanaster* *Pelagia sp.* (Purple-striped jellyfish)  *Sanderia malayensis* 
+[*Chrysaora* sp.](ribbon) (Ribbon jellyfish) *Chrysaora chinensis*  *Chrysaora melanaster* *Pelagia sp.* (Purple-striped jellyfish)  *Sanderia malayensis* 
   
  
 **Family
@@ -290,7 +290,7 @@ Tripedaliidae**
  
 *Tripedalia cystophora* (Mangrove Box jellyfish)
   
-Some jellyfishes are classified as [Hydroids](../hydrozoa/hydrozoa.htm).
+Some jellyfishes are classified as [Hydroids](../hydrozoa/hydrozoa).
 
 ---
 
@@ -302,8 +302,8 @@ of the jellyfishes.
 **Links**  
 
 - [Rhizostome
-  jellyfish](http://mangrove.nus.edu.sg/pub/seashore/text/115.htm) and [Sea
-  Nettle (*Chrysaora melanaster*) Order Semaeostomeae](http://mangrove.nus.edu.sg/pub/seashore/text/249.htm) Tan,
+  jellyfish](http://mangrove.nus.edu.sg/pub/seashore/text/115) and [Sea
+  Nettle (*Chrysaora melanaster*) Order Semaeostomeae](http://mangrove.nus.edu.sg/pub/seashore/text/249) Tan,
   Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
@@ -311,26 +311,26 @@ of the jellyfishes.
   Scyphozoan website](http://thescyphozoan.ucmerced.edu/) by Dr Michael N Dawson: lots of info about
   jellyfishes in Class Scyphozoa.
 - [Jellyfish:
-  Do tourists need warnings?](http://wildsingaporenews.blogspot.com/2010/11/jellyfish-do-tourists-need-warnings.html) Some say they must know risk, but
+  Do tourists need warnings?](http://wildsingaporenews.blogspot.com/2010/11/jellyfish-do-tourists-need-warningsl) Some say they must know risk, but
   others warn against panic Nirmal Ghosh, Straits Times 26 Nov 10;
 - From the
   wild shores of singapore blog.
   - [How
-    to photograph jellyfishes for identification](http://wildshores.blogspot.com/2008/08/how-to-photograph-jellyfishes-for.html)
+    to photograph jellyfishes for identification](http://wildshores.blogspot.com/2008/08/how-to-photograph-jellyfishes-forl)
   - [Our
-    jellyfishes identified](http://wildshores.blogspot.com/2008/08/our-jellyfishes-identified.html)
+    jellyfishes identified](http://wildshores.blogspot.com/2008/08/our-jellyfishes-identifiedl)
   - [Jellyfish
-    and the Nobel Prize](http://wildshores.blogspot.com/2008/10/jellyfish-and-nobel-prize.html)
+    and the Nobel Prize](http://wildshores.blogspot.com/2008/10/jellyfish-and-nobel-prizel)
   - [Jellyfish
-    stings are as fast and powerful as bullets](http://wildshores.blogspot.com/2008/12/jellyfish-stingers-are-as-fast-and.html)
+    stings are as fast and powerful as bullets](http://wildshores.blogspot.com/2008/12/jellyfish-stingers-are-as-fast-andl)
   - [A
-    plague of jellyfish](http://wildshores.blogspot.com/2008/12/plague-of-jellyfish.html)
+    plague of jellyfish](http://wildshores.blogspot.com/2008/12/plague-of-jellyfishl)
   - [The
-    truth about jellyfish swarms](http://wildshores.blogspot.com/2008/12/truth-about-jellyfish-swarms.html)
+    truth about jellyfish swarms](http://wildshores.blogspot.com/2008/12/truth-about-jellyfish-swarmsl)
   - [Silent
-    invasion of 'immortal' jellyfish](http://wildshores.blogspot.com/2009/01/silent-invasion-of-immortal-jellyfish.html)
+    invasion of 'immortal' jellyfish](http://wildshores.blogspot.com/2009/01/silent-invasion-of-immortal-jellyfishl)
   - [Mushroom
-    coral munches on jellyfish](http://wildshores.blogspot.com/2009/11/mushroom-coral-munches-on-jellyfish.html)
+    coral munches on jellyfish](http://wildshores.blogspot.com/2009/11/mushroom-coral-munches-on-jellyfishl)
 
 **References**
 
@@ -351,9 +351,9 @@ of the jellyfishes.
   of the Invertebrates*.
   5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "black, catfish, cat, fish, siluriformes, plotosidae, plotosus, canius, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Plotosidae](plotosidae.htm)
+> Subphylum Vertebrate > [fishes](../fish) >
+Family [Plotosidae](plotosidae)
 **Black
 eeltail catfish  
 *Plotosus canius*  
@@ -60,16 +60,16 @@ catfish unpleasant for bigger fish to swallow. Plain dusky-brown
 to black with a black dorsal fin tip and a pale belly. Tiny ones resemble black tadpoles.  
   
 **Sometimes confused with** [Striped
-eeltail catfishes](lineatus.htm). The adults of these
+eeltail catfishes](lineatus). The adults of these
 two eeltail catfishes may appear similar as the stripes on the Striped
 eeltail catfish fades with age. In Black eeltail catfish adults, the
 long barbels at the top of the snout can extend past the eyes. These
 barbels don't extend past the eyes in adult Striped eeltail catfishes. So far, those tiny juveniles seen schooling in dense balls on our shores turn out to be Striped eeltail catfishes.  
   
 **Sometimes mistaken for** [sea
-snakes](../../snakes/hydrophiidae/laticauda.htm) or [eels](../muraenidae/muraenidae.htm) (Family
+snakes](../../snakes/hydrophiidae/laticauda) or [eels](../muraenidae/muraenidae) (Family
 Muraenidae). Here's more on [how
-to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake.htm).
+to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake).
 
 *![](canius/050818cftg1436m3a.jpg)*'Whiskers'
 (barbels) at the top of the snout   
@@ -120,7 +120,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ![](canius/090918tmjk3m3.jpg)  
 *Tanah Merah, Sep 09*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/09/tanah-merah-thing-for-seahorses.html).
+blog](http://sgn090608.blogspot.com/2009/09/tanah-merah-thing-for-seahorsesl).
 
 ---
 
@@ -148,11 +148,11 @@ blog](http://sgn090608.blogspot.com/2009/09/tanah-merah-thing-for-seahorses.html
 ![](canius/090921sjinml1m3.jpg)  
 *St. John's Island, Sep 09*   
 Photo shared by Neo Mei Lin on [her
-blog](http://psychedelic-nature.blogspot.com/2009/09/tiny-world-at-st-johns.html).
+blog](http://psychedelic-nature.blogspot.com/2009/09/tiny-world-at-st-johnsl).
 
 ![](canius/101224sisjk1m3.jpg)  
 *Sisters Island, Dec 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/12/101224-big-sisters-island.html).
+blog](http://sgn090608.blogspot.com/2010/12/101224-big-sisters-islandl).
 
 ---
 
@@ -166,25 +166,25 @@ Terumbu Raya, Jul 25* Photo shared by Tammy Lim on [facebook](https://www.facebo
 
 ![](canius/110830cyrlks6m3.jpg)  
  *Cyrene Reef, Aug 11*Photo shared by Lok Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/09/last-morning-trip-of-2011-cyrene-reef.html).
+blog](http://wondercreation.blogspot.com/2011/09/last-morning-trip-of-2011-cyrene-reefl).
 
 ---
 
 ![](canius/110517tptlks24m3.jpg)  
  *Terumbu Pempang Tengah, May 11*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengah.html)*.*
+blog](http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengahl)*.*
 
 ---
 
 **Links**
 
 - [Black
-  eel-catfish (*Plotosus canius*)](http://mangrove.nus.edu.sg/pub/seashore/text/236.htm) Tan, Leo W. H. & Ng,
+  eel-catfish (*Plotosus canius*)](http://mangrove.nus.edu.sg/pub/seashore/text/236) Tan, Leo W. H. & Ng,
   Peter K. L., 1988, *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [Black
-  eeltail catfish (*Plotosus canius*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/225.htm) Lim, Kelvin K. P.
+  eeltail catfish (*Plotosus canius*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/225) Lim, Kelvin K. P.
   & Jeffrey K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp. online version of
@@ -193,9 +193,9 @@ blog](http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-
   Technical fact sheet, with a photo of a really HUGE specimen held
   up by two people!
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

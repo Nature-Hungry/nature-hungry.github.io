@@ -4,29 +4,29 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "banded, hermit, crab, pagurus, hedleyi, diogenidae, anomura, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../../wildfactsheet3.gif)](../../../../index.html)
+[![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../../index.html)  
+[wildfactsheets homepage](../../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../../animals.htm)
-| [all plants](../../../../plants.htm)
-| [concepts](../../../../concepts/index.html)
-| [glossary](../../../../glossary/index.html)
-| [search](../../../../search.htm)
+[all animals](../../../../animals)
+| [all plants](../../../../plants)
+| [concepts](../../../../concepts/indexl)
+| [glossary](../../../../glossary/indexl)
+| [search](../../../../search)
 
 hermit crabs
-[text index](../../../crustaceaindex.htm#anomurans) | [photo
-index](../../../anomurafi.htm)
-Phylum [Arthropoda](../../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../../crustacea.htm) >
-Class Malacostraca > Order [Decapoda](../../../decapoda.htm)
+[text index](../../../crustaceaindex#anomurans) | [photo
+index](../../../anomurafi)
+Phylum [Arthropoda](../../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../../crustacea) >
+Class Malacostraca > Order [Decapoda](../../../decapoda)
 > Anomurans
-> [hermit crabs](hermit.htm)
+> [hermit crabs](hermit)
 **Pink
 banded hermit crab *Pagurus hedleyi\******Family
 Diogenidae** *updated Dec 2019*
@@ -101,7 +101,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 ---
 
 ![](bandedpink/131107pgllks.JPG)  
-*Punggol, Nov 13*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2013/12/a-change-of-punggol-shore.html).
+*Punggol, Nov 13*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2013/12/a-change-of-punggol-shorel).
 
 ---
 
@@ -110,9 +110,9 @@ With grateful thanks to Dr Dwi Listyo Rahayu for the identification
 and [Rene
 Ong for sharing the ID](https://www.facebook.com/media/set/?set=a.568829189843450.1073741859.133291903397183&type=1).
 
-[links](../../../../links.htm)
-| [references](../../../../references.htm)
-| [about](../../../../about.htm)
+[links](../../../../links)
+| [references](../../../../references)
+| [about](../../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

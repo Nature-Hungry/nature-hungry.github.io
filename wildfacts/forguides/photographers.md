@@ -4,25 +4,8 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info,"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[![talking points for nature guides](../../Templates/fornatureguides.gif)](index.html)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 [index
-to talking points](index.html) for nature guides
+to talking points](indexl) for nature guides
 **Tips
 for handling photographers**  
 *updated
@@ -33,7 +16,7 @@ Apr 2020*
 A visitor can be
 a dream or a nightmare. It's all up to YOU!   
   
-More about [some typical visitor behaviour](difficult.htm) that guides may find difficult to handle. Be aware, that half of the
+More about [some typical visitor behaviour](difficult) that guides may find difficult to handle. Be aware, that half of the
 problem is YOU.  
   
 Photographers can be the easiest or more difficult visitors to handle.
@@ -92,12 +75,12 @@ there to take photos. Try to group these people together instead
 of spreading them out. It's easier for a guide to handle a group
 of individuals with the same purpose.   
   
-Don't be a [bad guide](badguide.htm). Be a [good
-guide](goodguide.htm) instead.
+Don't be a [bad guide](badguide). Be a [good
+guide](goodguide) instead.
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

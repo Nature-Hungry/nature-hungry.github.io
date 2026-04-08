@@ -4,35 +4,18 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "crustacea, crab, fiddler, uca, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[![talking points for nature guides](../../Templates/fornatureguides.gif)](../forguides/index.html)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 crustacea
-[text index](crustaceaindex.htm) | [photo
-index](crustaceafi.htm)
+[text index](crustaceaindex) | [photo
+index](crustaceafi)
 Phylum
-[Arthropoda](../arthropoda/arthropoda.htm) > Subphylum
-[Crustacea](crustacea.htm) > Class Malacostraca >
-Order [Decapoda](decapoda.htm) >
-Brachyurans > Family [Ocypodidae](crab/ocypodoidea/ocypodoidea.htm)
+[Arthropoda](../arthropoda/arthropoda) > Subphylum
+[Crustacea](crustacea) > Class Malacostraca >
+Order [Decapoda](decapoda) >
+Brachyurans > Family [Ocypodidae](crab/ocypodoidea/ocypodoidea)
 > Genus
-[Uca](crab/ocypodoidea/uca.htm)
+[Uca](crab/ocypodoidea/uca)
 [index
-to talking points](../forguides/index.html) for nature guides
+to talking points](../forguides/indexl) for nature guides
 **For
 nature guides: introducing fiddler crabs**  
 *updated
@@ -41,7 +24,7 @@ Apr 2020*
 ---
 
 **Don't
-step on the fiddler crab!**[Fiddler crabs](crab/ocypodoidea/uca.htm) make a
+step on the fiddler crab!**[Fiddler crabs](crab/ocypodoidea/uca) make a
 good 'first station' to sensitise visitors to the fact that every
 inch of the shore is alive.  **The Big Useless Claw Story**  
 It is important to get the sequence right or it will NOT make sense
@@ -115,9 +98,9 @@ the habitat, and encourages visitors to dig up everything they
 want to see. Instead, encourage them to be patient and wait
 for animals to come out and go about their normal business.
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,23 +4,6 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "checklist, check, list, index, molluscs, mollusks, gastropods, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[![](../../Templates/fornatureguides.gif)](../forguides/index.html)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 shelled snails
 [photo index](gastropodafi.htm)
 Phylum [Mollusca](mollusca.htm)
@@ -5142,62 +5125,3 @@ bemban besar, terumbu bemban, terumbu semakau, **rfl**: raffles lighthouse, **lf
 live firing area (Salu, Sudong, Pawai, Senang, Biola and submerged
 reefs in the area)
   
-[About
-citing](../about.htm) this checklist.
-  
-  
-  
-
-photo
-index of   
-molluscs on this site
-
-**Phylum
-Mollusca** [all
-molluscs](molluscafi.htm)  
-  
-**Class
-Gastropoda**   
-[all snails with shells](gastropodafi.htm)  
-  
-[**tiny**](gastropodafi1.htm)
-**<1cm**  
-  
-**small
-1-2cm**  
- 
-[rocks](gastropodafi12a.htm)  
-[sand & elsewhere](gastropodafi12b.htm)
-  
-**medium
-2-5cm**  
-[oval
-shell](gastropodafi25a.htm)
-  
-long shell
- 
-[rocks](gastropodafi25b.htm)  
-[sand & elsewhere](gastropodafi25c.htm)
-round shell  
- 
-[rocks](gastropodafi25d.htm)  
-[elsewhere](gastropodafi25e.htm)
-  
-[**large**](gastropodafi58.htm)**5-8cm   
-  
-[very large](gastropodafi8.htm) >8cm  
-  
-[limpets](gastropodafi9.htm)** & other
-shapes
-
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

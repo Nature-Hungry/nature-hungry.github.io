@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "heart, urchin, spatangoida, echinoidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 echinoids
-[text index](../../echinodermindex.htm#echinoidea) |
-[photo index](../../echinoideafi2.htm)
-Phylum [Echinodermata](../../echinodermata.htm)
-> Class [Echinodea](../echinoidea.htm)
+[text index](../../echinodermindex#echinoidea) |
+[photo index](../../echinoideafi2)
+Phylum [Echinodermata](../../echinodermata)
+> Class [Echinodea](../echinoidea)
 **Heart
 urchins**   
 **Order
@@ -46,8 +46,8 @@ on our other shores. These skeletons (called the test) are fragile.
 Often only pieces are seen.   
   
 **What are heart urchins?** Heart
-urchins belong to Phylum [Echinodermata](../../echinodermata.htm) and Class [Echinoidea](../echinoidea.htm) which includes [sea urchins](../urchin/urchin.htm) and [sand
-dollars](../sandollar/sandollar.htm). They got their name because they have a heart-shaped
+urchins belong to Phylum [Echinodermata](../../echinodermata) and Class [Echinoidea](../echinoidea) which includes [sea urchins](../urchin/urchin) and [sand
+dollars](../sandollar/sandollar). They got their name because they have a heart-shaped
 body. They are also sometimes called Sea potatoes, as that is what
 they resemble too.   
   
@@ -56,7 +56,7 @@ echinoderms, heart urchins have have tube feet and spines. Although
 they have a five-part symmetry, heart urchins are not strictly symmetrical
 along five axes (and thus sometimes called irregular echinoids). Heart
 urchins can be considered oval, burrowing [sea
-urchins](../urchin/urchin.htm). But unlike sea urchins, heart urchins have an obvious
+urchins](../urchin/urchin). But unlike sea urchins, heart urchins have an obvious
 'front' end and 'back' end.
 *![](lovenia/040731kusd3545m3.jpg)*Side
 view of living heart urchin   
@@ -105,7 +105,7 @@ of the sand, leaving a hole of the same shape.
 *Pulau Semakau, Feb 09*
 ![](lovenia/110517tptd1536m3b.jpg)  
 A heart urchin caught by a [swimming
-crab](../../../crustacea/crab/portunidae/portunidae.htm)! *Terumbu Pempang Laut, May 11*
+crab](../../../crustacea/crab/portunidae/portunidae)! *Terumbu Pempang Laut, May 11*
  
 **Hearty food:** Heart urchins process
 the edible bits found in the sand as they burrow. Tube feet near the
@@ -128,7 +128,7 @@ believed to funnel food particles into the central mouth. They eventually
 settle down and develop into a a tiny heart urchin.   
   
 Heart urchins are preyed upon by [Helmet
-snails](../../../mollusca/gastropoda/cassidae/cassidae.htm) (Family Cassidae) which have a gruesome way of capturing
+snails](../../../mollusca/gastropoda/cassidae/cassidae) (Family Cassidae) which have a gruesome way of capturing
 and eating the heart urchins.  
   
 **Status
@@ -146,13 +146,13 @@ urchins on Singapore shores**
 ---
 
 **![](lovenia/040731kusd3539m3.jpg)  
-[Lovenia heart urchin](lovenia.htm)**
+[Lovenia heart urchin](lovenia)**
 
 **![](planulata/090207smkd6372m3.jpg)  
-[Tiny maretia heart urchin](planulata.htm)**
+[Tiny maretia heart urchin](planulata)**
 
 **![](oval/100527tmd3541m3.jpg)  
-[Keeled heart urchin](oval.htm)**
+[Keeled heart urchin](oval)**
 
 ---
 
@@ -184,7 +184,7 @@ Guide to Sea Stars and Other Echinderms of Singapore.
 **Family
 Brissidae**
  
- *+Brissopsis luzonica* (Luzon heart urchin) *+[Brissus latecarinatus](oval.htm)* (Keeled heart urchin)*+**Metalia spatagus*
+ *+Brissopsis luzonica* (Luzon heart urchin) *+[Brissus latecarinatus](oval)* (Keeled heart urchin)*+**Metalia spatagus*
   
  
 **Family
@@ -198,20 +198,20 @@ cribellum*
 Loveniidae**
  
 *[Lovenia
-elongata](lovenia.htm)* (Lovenia heart urchin)
+elongata](lovenia)* (Lovenia heart urchin)
   
  
 **Family Maretiidae**
  
 *[\*Maretia
-planulata](planulata.htm)=Maretia ovata* (Tiny maretia heart urchin)
+planulata](planulata)=Maretia ovata* (Tiny maretia heart urchin)
 
 ---
 
 **Links**
 
 - [Class
-  Echinoidea](http://mangrove.nus.edu.sg/pub/seashore/text/223.htm)
+  Echinoidea](http://mangrove.nus.edu.sg/pub/seashore/text/223)
   Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
@@ -251,9 +251,9 @@ planulata](planulata.htm)=Maretia ovata* (Tiny maretia heart urchin)
   Caribbean![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
   Smithsonian Institution Press. 390 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

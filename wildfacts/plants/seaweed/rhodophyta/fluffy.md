@@ -9,22 +9,22 @@ layout: default
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 red
-seaweeds [text index](../seaweedindex.htm#rhodophyta)
-| [photo index](../seaweedfi.htm)
+seaweeds [text index](../seaweedindex#rhodophyta)
+| [photo index](../seaweedfi)
 
-[Seaweeds](../seaweed.htm)
-> Division [Rhodophyta](rhodophyta.htm)
+[Seaweeds](../seaweed)
+> Division [Rhodophyta](rhodophyta)
 **Cotton
 candy red seaweed****Family Ceramiaceae  
 *updated
@@ -40,7 +40,7 @@ filaments, each ball 3-5cm across, may cover an area of 15cm. Pinkish
 to maroon.  
   
 A variety of species in the Family Ceriamaceae have this form including *Centroceras*, *Corallophila* and *Gayliella*. *Polysiphonia* (Family Rhodomelaceae) also has this form. One stage
-in the life cycle of the [Cat's tail red seaweed](catstail.htm) also has a similar form.
+in the life cycle of the [Cat's tail red seaweed](catstail) also has a similar form.
 *![](fluffy/040507rlhad0084m3.jpg)  
 Raffles Lighthouse, May 04**![](fluffy/040507rlhad0084m3a.jpg)*
 ![](fluffy/101106burd2507m3.jpg)  
@@ -98,9 +98,9 @@ the Algae of Singapore*.
   of marine algae on artificial structures and intertidal flats
   in coastal waters of Singapore](http://lkcnhm.nus.edu.sg/rbz/biblio/s22/s22rbz005-040.pdf)*. Pp. 5-40. in the Raffles Bulletin of Zoology.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

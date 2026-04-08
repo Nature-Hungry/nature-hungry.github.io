@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "goniopora, anemone, poritidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 hard corals [text
-index](../../coralhardindex.htm) | [photo index](../../cnidariafi1.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard.htm)
-> Family [Poritidae](poritidae.htm)
+index](../../coralhardindex) | [photo index](../../cnidariafi1)
+Phylum [Cnidaria](../../cnidaria)
+> Class [Anthozoa](../../anthozoa) > Subclass
+Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard)
+> Family [Poritidae](poritidae)
 **Goniopora
 corals  
 *Goniopora* sp.\*  
@@ -49,11 +49,11 @@ skeleton.
   
 It's hard to distinguish the different species without close examination.
 On this website, they are grouped into [anemone
-corals](gonbig.htm) (with long polyps) and [small goniopora
-corals](gonsmall.htm) (with tiny polyps) for convenience of display.   
+corals](gonbig) (with long polyps) and [small goniopora
+corals](gonsmall) (with tiny polyps) for convenience of display.   
   
 Sometimes, tiny brown [acoel
-flatworms](../../../worm/acoela/acoela.htm) are seen on the oral disk or body columns of anemone
+flatworms](../../../worm/acoela/acoela) are seen on the oral disk or body columns of anemone
 coral polyps.   
   
 **Anemone coral babies:** Goniopora
@@ -80,11 +80,11 @@ coral.
 Circular corallites.
 
 *![](gonsmall/031223tused0053m3b.jpg)*With tiny [acoel
-flatworms](../../../worm/polycladida/acoel.htm).
+flatworms](../../../worm/polycladida/acoel).
 
 ![](gonbig/060130hntg4247m3e.jpg)  
 With [acoel
-flatworm](../../../worm/acoela/acoela.htm).
+flatworm](../../../worm/acoela/acoela).
 
 ---
 
@@ -94,12 +94,12 @@ corals on Singapore shores**
 ---
 
 ![](gonbig/100201hntd8971m3.jpg)  
-[**Anemone corals**](gonbig.htm)
+[**Anemone corals**](gonbig)
 
 ![](gonbig/051204sisd6415m3.jpg)  
-[**Anemone corals**](gonbig.htm)
+[**Anemone corals**](gonbig)
 
-***![](gonsmall/080510smkd3101m3.jpg)* [**Small goniopora corals**](gonsmall.htm)**
+***![](gonsmall/080510smkd3101m3.jpg)* [**Small goniopora corals**](gonsmall)**
 
 ![](gonbig/100201hntd8968m3a.jpg)
 
@@ -127,12 +127,12 @@ are difficult to positively identify without close examination.* *On this websit
 of display**.*
  
 [Anemone
-corals](gonbig.htm)  
-[Small goniopora corals](gonsmall.htm)
+corals](gonbig)  
+[Small goniopora corals](gonsmall)
   
  
 **[Family
-Poritidae](poritidae.htm)  
+Poritidae](poritidae)  
 Genus *Goniopora***
  
 *Goniopora columna* (Anemone coral) *Goniopora djiboutiensis (NT Near Threatened)* (Flowerpot coral) *Goniopora eclipsensis   
@@ -178,9 +178,9 @@ Goniopora stokesi (NT Near Threatened)* (Daisy coral) *Goniopora tenuidens* (Blu
   Eric H. 2001. *Aquarium
   Corals: Selection, Husbandry and Natural History* T.F. H Publications. 464 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

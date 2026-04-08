@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "arrow, head, spider, crab, spider crab, menatheius, majidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info,  photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> Brachyurans > Superfamily [Majaoidea](majoidea.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> Brachyurans > Superfamily [Majaoidea](majoidea)
 **Arrow-head
 spider crab  
 *Menatheius* sp.\***  
@@ -78,7 +78,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 ---
 
 ![](menatheius/090429chglks1.jpg) *Changi, Apr 09*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/04/crabs-fishes-and-echinoderms-at-changi.html).
+blog](http://wondercreation.blogspot.com/2009/04/crabs-fishes-and-echinoderms-at-changil).
 
 ![](menatheius/200821cjvc1.jpg) *Chek Jawa, Aug 20*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10157888694422945&set=a.10157888692007945).
 
@@ -87,17 +87,17 @@ blog](http://wondercreation.blogspot.com/2009/04/crabs-fishes-and-echinoderms-at
 ![](menatheius/090706tmtch5m3.jpg)  
 *Tanah Merah, Jul 09*  
 Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2009/07/crabby-day-tanah-merah.html).
+blog](http://colorclouds.blogspot.com/2009/07/crabby-day-tanah-merahl).
 
 ![](menatheius/110619tslgjk2m3.jpg) *Terumbu Selegie, Jun 11*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2011/06/110619-terumbu-selegi.html).
+blog](http://sgn090608.blogspot.com/2011/06/110619-terumbu-selegil).
 
 ---
 
 ![](menatheius/240211bigsisvc4.jpg) *Big Sister Island, Feb 24*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=10160224110557945&set=a.10160224174947945).
 
 ![](menatheius/150816cyrlks1.jpg) *Cyrene, Aug 15*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2015/08/seagrass-critters-of-cyrene-reef.html).
+blog](http://wondercreation.blogspot.com/2015/08/seagrass-critters-of-cyrene-reefl).
 
 ---
 
@@ -118,9 +118,9 @@ blog](http://wondercreation.blogspot.com/2015/08/seagrass-critters-of-cyrene-ree
   Science, Nanyang Technological University & Department of Zoology,
   the National University of Singapore. 160 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

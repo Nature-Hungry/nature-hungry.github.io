@@ -4,27 +4,14 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "synaptid, seacucumber, cucumber, synaptidae, apodida, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 sea
-cucumbers [text index](../echinodermindex.htm#holothuroidea)
-| [photo index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class [Holothuroidea](holothuroidea.htm) > Order
-Apodida > Family [Synaptidae](synaptid.htm)
+cucumbers [text index](../echinodermindex#holothuroidea)
+| [photo index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
+> Class [Holothuroidea](holothuroidea) > Order
+Apodida > Family [Synaptidae](synaptid)
 **Sponge
 synaptid sea cucumber  
 *awaiting identification\**  
@@ -40,9 +27,9 @@ in groups on all kinds of sponges on many of our Northern shores.
 and deep purple). Some with darker stripes made up of tiny dashes. Feeding
 tentacles short and feathery, often also with stripes.   
   
-**Sometimes mistaken for** [worms](../../worm/worm.htm).
+**Sometimes mistaken for** [worms](../../worm/worm).
 Here's more on [how to tell apart
-worm-like animals](../../glossary/wormy.htm).
+worm-like animals](../../glossary/wormy).
 
 *![](synsponge/150704cjd6990m6l.jpg)  
 Chek Jawa, Jul 05*
@@ -115,14 +102,4 @@ Photo shared by Richard Kuah on [facebook](https://www.facebook.com/media/set/?s
 
 ---
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

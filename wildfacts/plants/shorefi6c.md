@@ -4,26 +4,11 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 plants
-[text index](plantindex.htm) | [photo
-index](plantfi.htm)
+[text index](plantindex) | [photo
+index](plantfi)
 
-[mangroves](mangrove/mangroves.htm)
+[mangroves](mangrove/mangroves)
 **Photo
 index of seashore trees on Singapore shores**  
 **trees
@@ -35,7 +20,7 @@ with big simple leaves**growing on the seashore near the high water mark
   
 ![](coastal/barringtonia/asiatica/030910sbwrad0078ma.jpg)  
   
-![](coastal/barringtonia/asiatica/090410ubnd9435ma.jpg) [Putat laut](coastal/barringtonia/asiatica.htm) or   
+![](coastal/barringtonia/asiatica/090410ubnd9435ma.jpg) [Putat laut](coastal/barringtonia/asiatica) or   
 Sea poison  
 *Barringtonia asiatica*
 
@@ -43,7 +28,7 @@ Sea poison
   
 ![](coastal/barringtonia/racemosa/080720cjd8101m.jpg)  
   
-![](coastal/barringtonia/racemosa/090329cjd8703ma.jpg) [Putat sungei](coastal/barringtonia/racemosa.htm)  
+![](coastal/barringtonia/racemosa/090329cjd8703ma.jpg) [Putat sungei](coastal/barringtonia/racemosa)  
 *Barringtonia racemosa*
 
 ![](coastal/guettarda/speciosa/090405smkd9081m.jpg)  
@@ -51,7 +36,7 @@ Sea poison
 ![](coastal/guettarda/speciosa/090405smkd9077mc.jpg)  
   
 ![](coastal/guettarda/speciosa/090405smkd9077ma.jpg)  
-[Ketapang pasir](coastal/guettarda/speciosa.htm)   
+[Ketapang pasir](coastal/guettarda/speciosa)   
  *Guettarda speciosa*
 
 ![](coastal/terminalia/catappa/040831sjid6040m.jpg)  
@@ -59,14 +44,14 @@ Sea poison
 ![](coastal/terminalia/catappa/011114cjcpd725m.jpg)  
   
 ![](coastal/terminalia/catappa/090125kntd6090m.jpg)  
-[Ketapang](coastal/terminalia/catappa.htm) or Sea almond  
+[Ketapang](coastal/terminalia/catappa) or Sea almond  
  *Terminalia catappa*
 
 ![](coastal/calophyllum/inophyllum/090124ubnd5979m.jpg)  
   
 ![](coastal/calophyllum/inophyllum/090124ubnd5983m.jpg)  
   
-![](coastal/calophyllum/inophyllum/031028sntbd0101ma.jpg) [Penaga laut](coastal/calophyllum/inophyllum.htm)  
+![](coastal/calophyllum/inophyllum/031028sntbd0101ma.jpg) [Penaga laut](coastal/calophyllum/inophyllum)  
 *Calophyllum inophyllum*
 
 Tree
@@ -100,28 +85,28 @@ parks. It is Critically Endangered.
   
 ![](coastal/cerbera/manghas/080412cjd1325m.jpg)  
   
-![](coastal/cerbera/manghas/090726smkf2939ma.jpg) [Pink-eyed pong pong](coastal/cerbera/manghas.htm)  
+![](coastal/cerbera/manghas/090726smkf2939ma.jpg) [Pink-eyed pong pong](coastal/cerbera/manghas)  
 *Cerbera manghas*
 
 ![](coastal/cerbera/odollam/090117smkd5440ma.jpg)  
   
 ![](coastal/cerbera/odollam/090410ubnd9387m.jpg)  
   
-![](coastal/cerbera/odollam/090208smkd6467ma.jpg) [Yellow-eyed pong pong](coastal/cerbera/odollam.htm)  
+![](coastal/cerbera/odollam/090208smkd6467ma.jpg) [Yellow-eyed pong pong](coastal/cerbera/odollam)  
 *Cerbera odollam*
 
 ![](others/dillenia/suffruticosa/020120sbwrcpd5227m.jpg)  
   
 ![](others/dillenia/suffruticosa/031115rmbrad0082ma.jpg)  
   
-![](others/dillenia/suffruticosa/031115rmbrad0018m.jpg) [Simpoh air](others/dillenia/suffruticosa.htm)  
+![](others/dillenia/suffruticosa/031115rmbrad0018m.jpg) [Simpoh air](others/dillenia/suffruticosa)  
 *Dillenia suffroticosa*
 
 ![](coastal/syzygium/grande/091005cjd2194m.jpg)  
   
 ![](coastal/syzygium/grande/091005cjd2194ma.jpg)  
   
-![](coastal/syzygium/grande/100314cjd9990mb.jpg) [Sea apple](coastal/syzygium/grande.htm)  
+![](coastal/syzygium/grande/100314cjd9990mb.jpg) [Sea apple](coastal/syzygium/grande)  
 *Syzygium grande*
 
 ![](coastal/fagraea/auriculata/100528tkkd3981m.jpg)  
@@ -136,7 +121,7 @@ parks. It is Critically Endangered.
   
   
   
- [Pelir musang](coastal/fagraea/auriculata.htm)  
+ [Pelir musang](coastal/fagraea/auriculata)  
 *Fagraea auriculata*
 
 Tree
@@ -173,47 +158,47 @@ index of
 plants on this site
 
 [all
-plants](plantfi.htm)  
+plants](plantfi)  
   
 **mangrove
 & seashore plants**   
-[creepers](shorefi1.htm)  
-[climbers, vines](shorefi2.htm)  
-[herbs](shorefi3.htm)  
-[ferns](shorefi7.htm)  
-[palms, pandans](shorefi4.htm)  
+[creepers](shorefi1)  
+[climbers, vines](shorefi2)  
+[herbs](shorefi3)  
+[ferns](shorefi7)  
+[palms, pandans](shorefi4)  
   
 **mangrove
 &** **seashore
   
 shrubs<2m**  
-[thick/leathery leaves](shorefi5a.htm)  
-[thin leaves](shorefi5b.htm)  
+[thick/leathery leaves](shorefi5a)  
+[thin leaves](shorefi5b)  
   
 **seashore
   
 trees>2m**   
 type of leaves  
-[small simple](shorefi6b.htm)  
+[small simple](shorefi6b)  
 large simple  
-[compound, others](shorefi6d.htm)   
+[compound, others](shorefi6d)   
   
 **mangrove
 trees**  
-small oval fruits and [pneumatophores](mangfi6a.htm)  
+small oval fruits and [pneumatophores](mangfi6a)  
   
 long cylindrical fruits  
-with [knee roots](mangfi6b.htm)  
-with [buttressed roots](mangfi6c.htm)  
-with [stilt roots](mangfi6d.htm)  
+with [knee roots](mangfi6b)  
+with [buttressed roots](mangfi6c)  
+with [stilt roots](mangfi6d)  
   
-[large round fruits](mangfi6f.htm)  
+[large round fruits](mangfi6f)  
   
-[others](mangfi7a.htm)
+[others](mangfi7a)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

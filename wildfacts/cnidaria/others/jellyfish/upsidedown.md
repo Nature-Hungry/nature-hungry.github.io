@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "jellyfish, jelly, fish, jellies, cassiopea, scyphozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 jellyfish [text
-index](../../cnidariaindex.htm#jellyfish) | [photo index](../../jellyfishfi.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> [jellyfish](jellyfish.htm) > Class Scyphozoa >
+index](../../cnidariaindex#jellyfish) | [photo index](../../jellyfishfi)
+Phylum [Cnidaria](../../cnidaria)
+> [jellyfish](jellyfish) > Class Scyphozoa >
 Order Rhizostomeae
 **Upsidedown
 jellyfish  
@@ -116,7 +116,7 @@ by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media_set?se
 **![](upsidedown/090921kusjk2m3.jpg)*  
 Kusu Island, Sep 09*Shared
 by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/09/kusu-island-gymnodoris-on-desolate.html).
+blog](http://sgn090608.blogspot.com/2009/09/kusu-island-gymnodoris-on-desolatel).
 
 ---
 
@@ -129,7 +129,7 @@ blog](http://sgn090608.blogspot.com/2009/09/kusu-island-gymnodoris-on-desolate.h
 **![](upsidedown/090723tmrjk4m3.jpg)*  
 *Terumbu Raya, Jul 09**Photo
 shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/07/terumbu-raya-nemos-are-everywhere.html).
+blog](http://sgn090608.blogspot.com/2009/07/terumbu-raya-nemos-are-everywherel).
 
 **![](upsidedown/160124smkemn4.jpg)*  
 Pulau Semakau East, Jan 16*Shared
@@ -172,9 +172,9 @@ this jellyfish.
   Scyphozoan website](http://thescyphozoan.ucmerced.edu/) by Dr Michael N Dawson: lots of info about
   jellyfishes in Class Scyphozoa.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

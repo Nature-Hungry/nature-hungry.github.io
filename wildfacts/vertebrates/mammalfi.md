@@ -4,23 +4,8 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, reptile, lizards, monitors, crocodiles, sea, turtles, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 vertebrates [text
-index](vertindex.htm) | [photo index](vertfi.htm)
+index](vertindex) | [photo index](vertfi)
  
 **Mammals
 of Singapore**
@@ -28,21 +13,21 @@ of Singapore**
 ---
 
 ![](mammals/dugong/b6m.jpg)  
-[Dugong](mammals/dugong.htm)  
+[Dugong](mammals/dugong)  
 *Dugong dugon*
 
 ![](mammals/sousa/090610smknml1m.jpg)  
-[Dolphin](mammals/sousa.htm)
+[Dolphin](mammals/sousa)
   
 *Sousa chinensis*
 
 ![](mammals/perspicillata/090804sbwrbc1m.jpg)  
 [Smooth
-otter](mammals/perspicillata.htm)   
+otter](mammals/perspicillata)   
 *Lutrogale perspicillata*
 
 ![](mammals/scrofa/040925sbwrg2045m.jpg)  
-[Wild boar](mammals/scrofa.htm)   
+[Wild boar](mammals/scrofa)   
 *Sus scrofa*
 
 2.4-2.7m
@@ -64,24 +49,24 @@ seen in our forests, wild places, coastal forests and offshore islands
 like Pulau Ubin and Pulau Tekong.
 
 ![](mammals/fascicularis/070331sisg8439m.jpg)  
-[Long-tailed macaque](mammals/fascicularis.htm)   
+[Long-tailed macaque](mammals/fascicularis)   
 *Macaca fascicularis*
 
 ![](mammals/hermaphroditus/071028cjd7399m.jpg)  
-[Civet cat](mammals/hermaphroditus.htm)   
+[Civet cat](mammals/hermaphroditus)   
 *Paradoxurus   
 hermaphroditus*
 
 ![](mammals/notatus/040110sbwrd0038m.jpg)  
-[Plantain squirrel](mammals/notatus.htm)   
+[Plantain squirrel](mammals/notatus)   
 *Callosciurus notatus*
 
 ![](mammals/brachyotis/030917sbwrd0079m.jpg)  
-[Common fruit bat](mammals/brachyotis.htm)   
+[Common fruit bat](mammals/brachyotis)   
 *Cynopterus brachyotis*
 
 ![](mammals/saccolaimus/030717skdd0210m.jpg)  
-[Pouched tomb bat](mammals/saccolaimus.htm)   
+[Pouched tomb bat](mammals/saccolaimus)   
 *Saccolaimus saccolaimus*
 
 Head
@@ -120,21 +105,21 @@ index of
 vertebrates on this site
 
 [all
-vertebrates](vertfi.htm)  
+vertebrates](vertfi)  
   
-[marine fishes](fish/fishfi.htm)  
+[marine fishes](fish/fishfi)  
   
-[shore snakes](snakes/snakeshorefi.htm)  
+[shore snakes](snakes/snakeshorefi)  
   
-[other reptiles](reptilefi.htm)  
+[other reptiles](reptilefi)  
   
 mammals   
   
-[birds](birdfi.htm) 
+[birds](birdfi) 
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

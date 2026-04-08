@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, green, seaweed, chlorophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 seaweeds
-[text index](seaweedindex.htm) | [photo
-index](seaweedfi.htm)
-[Seaweeds](seaweed.htm)
-> Division [Chlorophyta](chlorophyta/chlorophyta.htm)
+[text index](seaweedindex) | [photo
+index](seaweedfi)
+[Seaweeds](seaweed)
+> Division [Chlorophyta](chlorophyta/chlorophyta)
 **Photo
 index of green seaweeds on Singapore shores**  
 **Spheres,
@@ -32,19 +19,19 @@ sausages, blobs**
 ---
 
 ![](chlorophyta/racemosa/050528kusg7058m.jpg)  
-[Oval sea grapes](chlorophyta/racemosa.htm)  *Caulerpa racemosa*
+[Oval sea grapes](chlorophyta/racemosa)  *Caulerpa racemosa*
 
 ![](chlorophyta/lentillifera/070520smkg9488ma.jpg)  
-[Round sea grapes](chlorophyta/lentillifera.htm)  *Caulerpa lentillifera*
+[Round sea grapes](chlorophyta/lentillifera)  *Caulerpa lentillifera*
 
 ![](chlorophyta/peltata/050625labd4338ma.jpg)  
-[Big parasol seaweed](chlorophyta/peltata.htm) *Caulerpa peltata*
+[Big parasol seaweed](chlorophyta/peltata) *Caulerpa peltata*
 
 ![](chlorophyta/peltatasmall/070728sisd4512mb.jpg)  
-[Small parasol seaweed](chlorophyta/peltatasmall.htm) *Caulerpa racemosa* var. *peltata*
+[Small parasol seaweed](chlorophyta/peltatasmall) *Caulerpa racemosa* var. *peltata*
 
 ![](chlorophyta/bell/060727jngd5133ma.jpg)  
-[Bell sea grapes](chlorophyta/bell.htm) *Caulerpa racemosa* var. *turbinata*
+[Bell sea grapes](chlorophyta/bell) *Caulerpa racemosa* var. *turbinata*
 
 3-8cm.
 'Grapes' are spherical, oval, conical, disk-, bell-, club-shaped without
@@ -70,18 +57,18 @@ Southern shores.
 
 ![](chlorophyta/valonia/070615sntrg0285mb.jpg)  
 [Beaded cushion   
-green seaweed](chlorophyta/valonia.htm)  *Valonia* sp.
+green seaweed](chlorophyta/valonia)  *Valonia* sp.
 
 ![](chlorophyta/boergesenia/041019labd7671m.jpg)  
-[Bubble seaweed](chlorophyta/boergesenia.htm)  *Boergesenia forbesii*
+[Bubble seaweed](chlorophyta/boergesenia)  *Boergesenia forbesii*
 
 ![](chlorophyta/bornetella/050509hntg6001m.jpg)  
 [Green sea sausage   
-seaweed](chlorophyta/bornetella.htm) *Bornetella* sp.
+seaweed](chlorophyta/bornetella) *Bornetella* sp.
 
 ![](chlorophyta/neomeris/031029sntad0038m.jpg)  
 ['Taugeh'   
-seaweed](chlorophyta/neomeris.htm) *Neomeris* sp.
+seaweed](chlorophyta/neomeris) *Neomeris* sp.
 
 Cushion
 2-5cm wide, each bead tiny, translucent sphere and are interconnected.
@@ -102,11 +89,11 @@ shores.
 
 ![](chlorophyta/codium/100401labd0296m.jpg)  
 [Codium   
-green seaweed](chlorophyta/codium.htm)  *Codium* sp.
+green seaweed](chlorophyta/codium)  *Codium* sp.
 
 ![](chlorophyta/dictyosphaeria/040507rflbd0153m.jpg)
   
-[Pimply green seaweed](chlorophyta/dictyosphaeria.htm)
+[Pimply green seaweed](chlorophyta/dictyosphaeria)
  *Dictyosphaeria* sp.
 
  
@@ -126,7 +113,7 @@ On rocks. Sometimes seen on undisturbed Southern shores.
 ---
 
 how to tell apart [blob-like
-lifeforms](../../glossary/blobs.htm)  
+lifeforms](../../glossary/blobs)  
   
   
   
@@ -138,41 +125,31 @@ index of
 seaweeds on this site
 
 [all
-seaweeds](seaweedfi.htm)  
+seaweeds](seaweedfi)  
   
 **Green seaweeds**  
   
-[sheets, ribbons, filaments](chlorophytafi1.htm)  
+[sheets, ribbons, filaments](chlorophytafi1)  
   
 [feathery,   
-serrated strips](chlorophytafi2.htm)  
+serrated strips](chlorophytafi2)  
   
 spheres, sausages, blobs  
   
-[fans, disks, branched](chlorophytafi4.htm)  
+[fans, disks, branched](chlorophytafi4)  
   
 **Red
 seaweeds**  
- [sheets, ribbons](rhodophytafi3.htm)  
+ [sheets, ribbons](rhodophytafi3)  
   
- [fleshy stems, beads](rhodophytafi1.htm)  
- [soft hairy, feathery](rhodophytafi2.htm)  
+ [fleshy stems, beads](rhodophytafi1)  
+ [soft hairy, feathery](rhodophytafi2)  
   
-[hard branching, encrusting](rhodophytafi4.htm)  
+[hard branching, encrusting](rhodophytafi4)  
   
 **Brown
 seaweeds**  
- [sheets, ribbons](phaeophytafi2.htm)  
- [disks, other shapes](phaeophytafi1.htm)
+ [sheets, ribbons](phaeophytafi2)  
+ [disks, other shapes](phaeophytafi1)
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

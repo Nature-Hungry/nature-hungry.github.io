@@ -4,28 +4,28 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "flat, pincer, snapping, shrimp, alpheus, alpheidae, alpheid, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 shrimps [text
-index](../../crustaceaindex.htm#shrimps) | [photo index](../../shrimpfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> [prawns and shrimps](shrimp.htm)
-> Family [Alpheidae](alpheidae.htm)
+index](../../crustaceaindex#shrimps) | [photo index](../../shrimpfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> [prawns and shrimps](shrimp)
+> Family [Alpheidae](alpheidae)
 **Ornamented
 snapping shrimp**  
 ***Alpheus* sp.*\**  
@@ -122,10 +122,10 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 ---
 
 *![](alphornament/110318sntlks.JPG)*  
-*Sentosa, Mar 11*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2011/03/sentosa-with-dunman-high-students.html).
+*Sentosa, Mar 11*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2011/03/sentosa-with-dunman-high-studentsl).
 
 *![](alphornament/171009blymn1.jpg)*  
-*Berlayar Creek, Oct 17*Photo shared by Marcus Ng on [facebook](http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament.htm).
+*Berlayar Creek, Oct 17*Photo shared by Marcus Ng on [facebook](http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament).
 
 ---
 
@@ -152,15 +152,15 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 *![](alphornament/100403tbbtch1m3.jpg)*  
 *Beting Bemban Besar, Apr 10*Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2010/04/hot-and-sunny-beting-bemban-besar.html).
+blog](http://colorclouds.blogspot.com/2010/04/hot-and-sunny-beting-bemban-besarl).
 
 *![](alphornament/100530pbklks3m3.jpg)*  
 *Pulau Berkas, May 10*Photo shared by Loh Kok Sheng on [his
 flickr](http://www.flickr.com/photos/koksheng/4655331021/).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

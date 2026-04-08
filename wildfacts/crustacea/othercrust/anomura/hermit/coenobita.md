@@ -4,29 +4,29 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "land, hermit, crab, coenobita, cavipes, violascens, coenobitidae, anomura, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../../wildfactsheet3.gif)](../../../../index.html)
+[![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../../index.html)  
+[wildfactsheets homepage](../../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../../animals.htm)
-| [all plants](../../../../plants.htm)
-| [concepts](../../../../concepts/index.html)
-| [glossary](../../../../glossary/index.html)
-| [search](../../../../search.htm)
+[all animals](../../../../animals)
+| [all plants](../../../../plants)
+| [concepts](../../../../concepts/indexl)
+| [glossary](../../../../glossary/indexl)
+| [search](../../../../search)
 
 hermit crabs
-[text index](../../../crustaceaindex.htm#anomurans) | [photo
-index](../../../anomurafi.htm)
-Phylum [Arthropoda](../../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../../crustacea.htm) >
-Class Malacostraca > Order [Decapoda](../../../decapoda.htm)
+[text index](../../../crustaceaindex#anomurans) | [photo
+index](../../../anomurafi)
+Phylum [Arthropoda](../../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../../crustacea) >
+Class Malacostraca > Order [Decapoda](../../../decapoda)
 > Anomurans
-> [hermit crabs](hermit.htm)
+> [hermit crabs](hermit)
 **Land
 hermit crab  
 *Coenobita* sp.  
@@ -201,19 +201,19 @@ Coenobitidae**
 **Links**
 
 - [Land
-  hermit crab (*Coenobita cavipes*) Family Coenobitidae](http://mangrove.nus.edu.sg/guidebooks/text/2063.htm)
+  hermit crab (*Coenobita cavipes*) Family Coenobitidae](http://mangrove.nus.edu.sg/guidebooks/text/2063)
   Ng, Peter K. L. & N. Sivasothi, 1999. *[A
   Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
   Singapore Science Centre. 168 pp.
 - [Hermit
-  Crabs, Order Decapoda](http://mangrove.nus.edu.sg/pub/seashore/text/186.htm) Tan, Leo W. H. & Ng, Peter K. L.,
+  Crabs, Order Decapoda](http://mangrove.nus.edu.sg/pub/seashore/text/186) Tan, Leo W. H. & Ng, Peter K. L.,
   1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [*Coenobita
-  violascens*](http://www.sealifebase.fisheries.ubc.ca/summary/Coenobita-violascens.html) and [*Coenobita
-  cavipes*](http://www.sealifebase.fisheries.ubc.ca/summary/Coenobita-cavipes.html) on SeaLife Base: Technical fact sheet with photo.
-- [*Coenobita cavipes*](https://singapore.biodiversity.online/taxo4254/mainSpace/Coenobita%20cavipes.html) (Decapoda: Coenobitidae) Land hermit crab on Taxo4254.
+  violascens*](http://www.sealifebase.fisheries.ubc.ca/summary/Coenobita-violascensl) and [*Coenobita
+  cavipes*](http://www.sealifebase.fisheries.ubc.ca/summary/Coenobita-cavipesl) on SeaLife Base: Technical fact sheet with photo.
+- [*Coenobita cavipes*](https://singapore.biodiversity.online/taxo4254/mainSpace/Coenobita%20cavipesl) (Decapoda: Coenobitidae) Land hermit crab on Taxo4254.
 
 **References**
 
@@ -231,9 +231,9 @@ Coenobitidae**
   S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
   Australian Waters*. Reed New Holland. 224 pp.
 
-[links](../../../../links.htm)
-| [references](../../../../references.htm)
-| [about](../../../../about.htm)
+[links](../../../../links)
+| [references](../../../../references)
+| [about](../../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

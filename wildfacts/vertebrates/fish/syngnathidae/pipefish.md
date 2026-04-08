@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "pipefish, pipe, fish, syngnathidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm) >
-Family [Syngnathidae](syngnathidae.htm)
+> Subphylum Vertebrata > [fishes](../fish) >
+Family [Syngnathidae](syngnathidae)
 **Pipefishes**   
 **Family Syngnathidae***updated
 Oct 2020*
@@ -48,7 +48,7 @@ the day, they remain well hidden.
   
 **What are pipefishes?** Pipefishes
 are true fish, although they don't appear very fish-like! Pipefishes
-belong to [Family Syngnathidae](syngnathidae.htm) which
+belong to [Family Syngnathidae](syngnathidae) which
 includes seahorses.  
   
 **Features:** Bodies long, cylindrical
@@ -103,7 +103,7 @@ in traditional Chinese medicine, often as a substitute for seahorses.
 Some species are also caught for the live aquarium trade.  
   
 **Status and threats:** See [Family
-Syngnathidae](syngnathidae.htm) for threats to pipefishes and seahorses.
+Syngnathidae](syngnathidae) for threats to pipefishes and seahorses.
 
 ---
 
@@ -113,10 +113,10 @@ on Singapore shores**
 ---
 
 **![](seagrass/120510chgd2756m3.jpg)  
-[Seagrass pipefish](seagrass.htm)**
+[Seagrass pipefish](seagrass)**
 
 **![](biaculeatus/080523cyrd3932m3.jpg)  
-[Alligator pipefish](biaculeatus.htm)**
+[Alligator pipefish](biaculeatus)**
 
 ---
 
@@ -142,11 +142,11 @@ Common Marine Fishes of Singapore*.
 seen awaiting identification**
  
 [Seagrass
-pipefishes](seagrass.htm)
+pipefishes](seagrass)
   
  
 **[Family
-Syngnathidae](syngnathidae.htm)**
+Syngnathidae](syngnathidae)**
  
 *Choeroichthys
 brachysoma  
@@ -155,7 +155,7 @@ brachysoma
 Corythoichthys haematopterus* (Reef-top pipefish) *Corythoichthys polynotatus* (Yellow-spotted pipefish) *+Corythoichthys schultzi*  (Schultz's pipefish) *+Doryrhamphus janssi* (Janss’ pipefish) *+Dunckerocampus dactyliophorus* (Ringed pipefish) *\*Halicampus nitidus* (Zebra or Glittering pipefish) *\*Hippichthys cyanospilos* (Blue-speckled pipefish) *\*Ichthyocampus carce* (Mangrove pipefish) *Micrognathus brevirostris=^Micrognathus brevirostris brevirostris
   
   
-[Syngnathoides biaculeatus](biaculeatus.htm)* (Alligator
+[Syngnathoides biaculeatus](biaculeatus)* (Alligator
 pipefish) *Syngnathoides spicifer  
 Syngnathoides djarong  
 Syngnathoides fasciolatus  
@@ -167,12 +167,12 @@ Trachyrhamphus bicoarctatus* *Trachyrhamphus serratus*
 **Links**  
 
 - [Pipefish
-  (Family Syngnathidae)](http://mangrove.nus.edu.sg/pub/seashore/text/230.htm) Tan, Leo W. H. & Ng, Peter K. L., 1988,
+  (Family Syngnathidae)](http://mangrove.nus.edu.sg/pub/seashore/text/230) Tan, Leo W. H. & Ng, Peter K. L., 1988,
   *[A Guide
   to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore.
   160 pp.
 - [Blue-speckled
-  Pipefish (*Hippichthys cyanospilus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/250.htm)
+  Pipefish (*Hippichthys cyanospilus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/250)
   Lim,
   Kelvin K. P. & Jeffrey K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
@@ -197,7 +197,7 @@ Trachyrhamphus bicoarctatus* *Trachyrhamphus serratus*
   Technical fact sheet on the family, including fact sheets on individual
   species
 - [Papa
-  pipefish not so motherly after all](http://wildshores.blogspot.com/2009/12/papa-pipefish-not-so-motherly-after-all.html) on the wild shores of singapore
+  pipefish not so motherly after all](http://wildshores.blogspot.com/2009/12/papa-pipefish-not-so-motherly-after-alll) on the wild shores of singapore
 
 **References**
 
@@ -223,9 +223,9 @@ Trachyrhamphus bicoarctatus* *Trachyrhamphus serratus*
   H., 2000 (English edition). *Seahorses,
   Pipefishes and their Relatives: A Comprehensive Guide to Syngnathiformes* TMC Publishing, UK. 240 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

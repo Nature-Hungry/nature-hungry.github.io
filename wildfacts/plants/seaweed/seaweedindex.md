@@ -4,37 +4,37 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "checklist, check, list,  index, seaweed, algae, chlorophyta, phaeophyta, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
+[![](../../../wildfactsheet3.gif)](../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../index.html)  
+[wildfactsheets homepage](../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![talking points for nature guides](../../../Templates/fornatureguides.gif)](fngseaweed.htm)
+[![talking points for nature guides](../../../Templates/fornatureguides.gif)](fngseaweed)
 
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
+[all animals](../../animals)
+| [all plants](../../plants)
+| [concepts](../../concepts/indexl)
+| [glossary](../../glossary/indexl)
+| [search](../../search)
 
 seaweeds
-[photo index](seaweedfi.htm)
-[seaweeds](seaweed.htm)
-in general > Division [Chlorophyta](chlorophyta/chlorophyta.htm)
-| Division [Cyanophyta](cyanobacteria/cyanobacteria.htm)
-| Division [Phaeophyta](phaeophyta/phaeophyta.htm) | Division
-[Rhodophyta](rhodophyta/rhodophyta.htm)
+[photo index](seaweedfi)
+[seaweeds](seaweed)
+in general > Division [Chlorophyta](chlorophyta/chlorophyta)
+| Division [Cyanophyta](cyanobacteria/cyanobacteria)
+| Division [Phaeophyta](phaeophyta/phaeophyta) | Division
+[Rhodophyta](rhodophyta/rhodophyta)
 **Text
 index of seaweeds on Singapore shores**Don't know
-the name of the seaweed? Try the [seaweed photo index](seaweedfi.htm)  
+the name of the seaweed? Try the [seaweed photo index](seaweedfi)  
 
 ---
 
-**Division [Chlorophyta](chlorophyta/chlorophyta.htm) green seaweeds**
+**Division [Chlorophyta](chlorophyta/chlorophyta) green seaweeds**
 
 pgl
 
@@ -123,7 +123,7 @@ tsm
 lfa
 
 [*Avrainvillea
-erecta*](chlorophyta/avrerecta.htm)   
+erecta*](chlorophyta/avrerecta)   
 Solitary fan seaweed
 
 bb
@@ -142,7 +142,7 @@ tpg
 
 lfa
 
-[*Avrainvillea lacerata*](chlorophyta/avrcluster.htm)   
+[*Avrainvillea lacerata*](chlorophyta/avrcluster)   
 Clustered fan seaweed
 
 skd
@@ -180,7 +180,7 @@ tsm
 lfa
 
 [*Boergesenia
-forbesii*](chlorophyta/boergesenia.htm)   
+forbesii*](chlorophyta/boergesenia)   
 Bubble green seaweed
 
 snt
@@ -204,7 +204,7 @@ tpg
 *lfa*
 
 [*Boodlea*
-sp.](chlorophyta/boodlea.htm)  
+sp.](chlorophyta/boodlea)  
 Fuzzy green seaweed
 
 cj
@@ -236,7 +236,7 @@ rfl
 lfa
 
 [*Bornetella*
-sp.](chlorophyta/bornetella.htm)   
+sp.](chlorophyta/bornetella)   
 Green sea sausage seaweed
 
 prp
@@ -284,7 +284,7 @@ rfl
 lfa
 
 [*Bryopsis*
-sp.](chlorophyta/bryopsis.htm)   
+sp.](chlorophyta/bryopsis)   
 Hairy green seaweed
 
  
@@ -313,7 +313,7 @@ Hairy green seaweed
  
  
  
-Genus [*Caulerpa*](chlorophyta/caulerpa.htm)
+Genus [*Caulerpa*](chlorophyta/caulerpa)
 
 chg
 
@@ -338,7 +338,7 @@ smk
 tsm
 
 [*Caulerpa
-cupressoides*](chlorophyta/cupressoides.htm)   
+cupressoides*](chlorophyta/cupressoides)   
 Zipper green seaweed
 
 prp
@@ -384,7 +384,7 @@ tsm
 lfa
 
 [*Caulerpa
-lentillifera*](chlorophyta/lentillifera.htm)   
+lentillifera*](chlorophyta/lentillifera)   
 Round sea grapes
 
 chg
@@ -396,7 +396,7 @@ tm
 snt
 
 [*Caulerpa
-mexicana*](chlorophyta/mexicana.htm)  
+mexicana*](chlorophyta/mexicana)  
 Mexican feathery green seaweed
 
 cj
@@ -432,7 +432,7 @@ tsm
 lfa
 
 [*Caulerpa
-peltata*](chlorophyta/peltata.htm)   
+peltata*](chlorophyta/peltata)   
 Big parasol green seaweed
 
 *ubn*
@@ -476,7 +476,7 @@ rfl
 lfa
 
 [*Caulerpa
-racemosa*](chlorophyta/racemosa.htm)   
+racemosa*](chlorophyta/racemosa)   
 Oval sea grapes
 
 tm
@@ -508,7 +508,7 @@ rfl
 lfa
 
 [*Caulerpa
-racemosa* var *peltata*](chlorophyta/peltatasmall.htm)  
+racemosa* var *peltata*](chlorophyta/peltatasmall)  
 Small parasol green seaweed
 
 jng
@@ -520,7 +520,7 @@ smk
 tsm
 
 [*Caulerpa
-racemosa* var *turbinata*](chlorophyta/bell.htm)  
+racemosa* var *turbinata*](chlorophyta/bell)  
 Bell sea grapes
 
 *pgl*
@@ -544,7 +544,7 @@ tm
 snt
 
 [*Caulerpa
-scalpelliformis*](chlorophyta/scalpelliformis.htm)   
+scalpelliformis*](chlorophyta/scalpelliformis)   
 Scalpel green seaweed
 
 tus
@@ -578,7 +578,7 @@ rfl
 lfa
 
 [*Caulerpa
-serrulata*](chlorophyta/serrulata.htm)   
+serrulata*](chlorophyta/serrulata)   
 Serrated green seaweed
 
 pgl
@@ -624,7 +624,7 @@ tsm
 lfa
 
 [*Caulerpa
-sertularioides*](chlorophyta/sertularioides.htm)   
+sertularioides*](chlorophyta/sertularioides)   
 Delicate feathery green seaweed
 
 *pgl*
@@ -672,7 +672,7 @@ rfl
 lfa
 
 [*Caulerpa
-taxifolia*](chlorophyta/taxifolia.htm)   
+taxifolia*](chlorophyta/taxifolia)   
 Taxifolia feathery green seaweed
 
 pgl
@@ -700,7 +700,7 @@ tsm
 rfl
 
 *[Caulerpa
-verticillata](chlorophyta/fluffy.htm)*  
+verticillata](chlorophyta/fluffy)*  
 Fluffy green seaweeds
 
 lab
@@ -708,7 +708,7 @@ lab
 cyr
 
 [*Caulerpa
-webbiana*](chlorophyta/webbiana.htm)  
+webbiana*](chlorophyta/webbiana)  
 Bottlebrush green seaweeds
 
 chg
@@ -746,7 +746,7 @@ rfl
 lfa
 
 [*Chaetomorpha*
-sp.](chlorophyta/chaetomorpha.htm)   
+sp.](chlorophyta/chaetomorpha)   
 Bee hoon green seaweed
 
 *lab*
@@ -772,7 +772,7 @@ rfl
 lfa
 
 [*Cladophoropsis
-vaucheriaeformis*](chlorophyta/spongesmooth.htm)   
+vaucheriaeformis*](chlorophyta/spongesmooth)   
 Smooth sponge green seaweed
 
 bb
@@ -814,7 +814,7 @@ rfl
 lfa
 
 [*Codium*
-sp.](chlorophyta/codium.htm)  
+sp.](chlorophyta/codium)  
 Codium green seaweeds
 
 laz
@@ -838,7 +838,7 @@ rfl
 lfa
 
 [*Dictyosphaeria*
-sp.](chlorophyta/dictyosphaeria.htm)   
+sp.](chlorophyta/dictyosphaeria)   
 Pimply green seaweed
 
 chg
@@ -868,7 +868,7 @@ jng
 tpg
 
 [*Enteromorpha*
-sp.](chlorophyta/enteromorpha.htm)
+sp.](chlorophyta/enteromorpha)
   
 Turf green seaweed
  
@@ -898,7 +898,7 @@ Turf green seaweed
  
  
 [*Halimeda*
-sp.](chlorophyta/halimeda.htm)Coin green seaweed
+sp.](chlorophyta/halimeda)Coin green seaweed
 
 cj
 
@@ -939,7 +939,7 @@ rfl
 lfa
 
 [*Halimeda*
-sp.](chlorophyta/halbig.htm)   
+sp.](chlorophyta/halbig)   
 Big coin green seaweed
 
 cj
@@ -979,7 +979,7 @@ tsm
 lfa
 
 [*Halimeda*
-sp.](chlorophyta/halsmall.htm)   
+sp.](chlorophyta/halsmall)   
 Small coin green seaweed
 
 ubn
@@ -1021,7 +1021,7 @@ rfl
 lfa
 
 [*Neomeris*
-sp.](chlorophyta/neomeris.htm)   
+sp.](chlorophyta/neomeris)   
 'Taugeh' seaweed
 
 snt
@@ -1041,7 +1041,7 @@ jng
 lfa
 
 [*Parvocaulis
-parvulus*](chlorophyta/daisy.htm)  
+parvulus*](chlorophyta/daisy)  
 Daisy green seaweed
 
 cj
@@ -1053,7 +1053,7 @@ lab
 *cyr*
 
 [*Rhipidosiphon
-javensis*](chlorophyta/rhipidosiphon.htm)  
+javensis*](chlorophyta/rhipidosiphon)  
 Pleated fan seaweed
 
 tus
@@ -1061,7 +1061,7 @@ tus
 tpg
 
 [*Udotea*
-sp.](chlorophyta/udotea.htm)   
+sp.](chlorophyta/udotea)   
 Ruffled fan green seaweed
 
 pgl
@@ -1105,7 +1105,7 @@ hnt
 smk
 
 [*Ulva*
-sp.](chlorophyta/ulva.htm)Sea lettuce
+sp.](chlorophyta/ulva)Sea lettuce
 
 lab
 
@@ -1118,12 +1118,12 @@ sji
 cyr
 
 [*Valonia*
-sp.](chlorophyta/valonia.htm)  
+sp.](chlorophyta/valonia)  
 Beaded cushion green seaweed
 
 ---
 
-**Division [Phaeophyta](phaeophyta/phaeophyta.htm) brown seaweeds**
+**Division [Phaeophyta](phaeophyta/phaeophyta) brown seaweeds**
 
 pgl
 
@@ -1200,7 +1200,7 @@ cyr
 jng
 
 [*Colpomenia
-sinuosa*](phaeophyta/colpomenia.htm)   
+sinuosa*](phaeophyta/colpomenia)   
 Puffy brown seaweed
 
 prp
@@ -1240,7 +1240,7 @@ tsm
 lfa
 
 [*Dictyota*
-sp.](phaeophyta/dictyota.htm)   
+sp.](phaeophyta/dictyota)   
 Y-branch brown seaweed
 
 lab
@@ -1260,7 +1260,7 @@ tpg
 lfa
 
 [*Dictyota
-dichotoma*](phaeophyta/ybranch.htm)  
+dichotoma*](phaeophyta/ybranch)  
 Bluish Y-branch brown seaweed
 
 snt
@@ -1276,7 +1276,7 @@ jng
 tpg
 
 [*Dictyopteris*
-sp.](phaeophyta/veinedbranch.htm)   
+sp.](phaeophyta/veinedbranch)   
 'Veined' branch brown seaweed
 
 hnt
@@ -1286,7 +1286,7 @@ smk
 tsm
 
 [*Hydroclathrus*
-sp.](phaeophyta/perforated.htm)  
+sp.](phaeophyta/perforated)  
 Perforated brown seaweed
 
 lab
@@ -1294,7 +1294,7 @@ lab
 snt
 
 [*Lobophora
-variegata*](phaeophyta/bracket.htm)  
+variegata*](phaeophyta/bracket)  
 Bracket brown seaweed
 
 chg
@@ -1338,7 +1338,7 @@ tsm
 lfa
 
 [*Padina*
-sp.](phaeophyta/padina.htm)   
+sp.](phaeophyta/padina)   
 Mermaid's fan seaweed
 
 tus
@@ -1376,7 +1376,7 @@ tsm
 lfa
 
 [*Sargassum*
-sp.](phaeophyta/sargassum.htm)   
+sp.](phaeophyta/sargassum)   
 Sargassum seaweed
 
 lab
@@ -1389,7 +1389,7 @@ sji
 
 cyr
 
-[*Stypopodium zonale*](phaeophyta/noveinbranch.htm)  
+[*Stypopodium zonale*](phaeophyta/noveinbranch)  
 Broad strap brown seaweed
 
 kus
@@ -1403,11 +1403,11 @@ smk
 rfl
 
 [*Turbinaria*
-sp.](phaeophyta/turbinaria.htm)Pyramid seaweed
+sp.](phaeophyta/turbinaria)Pyramid seaweed
 
 ---
 
-**Division [Rhodophyta](rhodophyta/rhodophyta.htm) red seaweeds**
+**Division [Rhodophyta](rhodophyta/rhodophyta) red seaweeds**
 
 pgl
 
@@ -1500,13 +1500,13 @@ tsm
 lfa
 
 [*Acanthophora*
-sp.](rhodophyta/acanthophora.htm)   
+sp.](rhodophyta/acanthophora)   
 Spiny red seaweed
 
 snt
 
 [*Acrocystis
-nana*](rhodophyta/acrocystis.htm)  
+nana*](rhodophyta/acrocystis)  
 Pimply red seaweed
 
 lab
@@ -1520,7 +1520,7 @@ sis
 rfl
 
 [*Asparagopsis
-taxiformis*](rhodophyta/catstail.htm)  
+taxiformis*](rhodophyta/catstail)  
 Cat's tail red seaweed
 
 snt
@@ -1539,7 +1539,7 @@ rfl
 
 lfa
 
-[*Amphiroa* sp.](rhodophyta/pomflat.htm)   
+[*Amphiroa* sp.](rhodophyta/pomflat)   
 Flat
 pom-pom red seaweed
 
@@ -1550,7 +1550,7 @@ snt
 jng
 
 [*Bostrychia*
-sp.](rhodophyta/bostrychia.htm)  
+sp.](rhodophyta/bostrychia)  
 Tiny fern red seaweed
 
 lab
@@ -1576,7 +1576,7 @@ tsm
 lfa
 
 [*Ceratodictyon
-spongiosum*](rhodophyta/spongeholey.htm)  
+spongiosum*](rhodophyta/spongeholey)  
 Holey sponge seaweed
 
 lab
@@ -1591,7 +1591,7 @@ sis
 
 rfl
 
- [Cotton candy red seaweed](rhodophyta/fluffy.htm)  
+ [Cotton candy red seaweed](rhodophyta/fluffy)  
 Family Ceramiaceae
 
 lab
@@ -1621,7 +1621,7 @@ tsm
 lfa
 
 [Encrusting
-coralline red seaweed](rhodophyta/encrust.htm)   
+coralline red seaweed](rhodophyta/encrust)   
 Family Corallinaceae
 
 laz
@@ -1642,7 +1642,7 @@ tsm
 
 lfa
 
-*[Eucheuma](rhodophyta/bumpy.htm)*[sp.](rhodophyta/bumpy.htm)  
+*[Eucheuma](rhodophyta/bumpy)*[sp.](rhodophyta/bumpy)  
 Bumpy finger seaweed
 
 snt
@@ -1668,7 +1668,7 @@ rfl
 lfa
 
 [Family
-Galaxauraceae](rhodophyta/pomthick.htm)   
+Galaxauraceae](rhodophyta/pomthick)   
 Thick
 pom-pom red seaweed
 
@@ -1699,7 +1699,7 @@ laz
 hnt
 
 [*Gracilaria*
-sp.](rhodophyta/gracilaria.htm)   
+sp.](rhodophyta/gracilaria)   
 Agar-agar seaweed
 
 prp
@@ -1743,7 +1743,7 @@ rfl
 lfa
 
 [*Gracilaria
-salicornia*](rhodophyta/salicornia.htm)   
+salicornia*](rhodophyta/salicornia)   
 Knobbly agar-agar red seaweed
 
 cj
@@ -1783,7 +1783,7 @@ rfl
 lfa
 
 [*Halymenia*
-sp.](rhodophyta/halymenia.htm)  
+sp.](rhodophyta/halymenia)  
 Halymenia red seaweed
 
 skd
@@ -1819,7 +1819,7 @@ rfl
 lfa
 
 [*Halymenia
-dilatata*](rhodophyta/dilatata.htm)
+dilatata*](rhodophyta/dilatata)
   
 Ruffled halymenia red seaweed
 
@@ -1846,7 +1846,7 @@ rfl
 lfa
 
 *[Halymenia
-maculata](rhodophyta/maculata.htm)*  
+maculata](rhodophyta/maculata)*  
 Frilly sheet red seaweed
 
 cj
@@ -1872,7 +1872,7 @@ tsm
 lfa
 
 [*Hypnea*
-sp.](rhodophyta/hypnea.htm)  
+sp.](rhodophyta/hypnea)  
 Prickly red seaweed
 
 lab
@@ -1894,7 +1894,7 @@ tsm
 lfa
 
 [*Hypnea
-pannosa*](rhodophyta/pannosa.htm)  
+pannosa*](rhodophyta/pannosa)  
 Bushy ball seaweed
 
 chg
@@ -1921,7 +1921,7 @@ cyr
 
 smk
 
-[*Jania* sp.](rhodophyta/pomslender.htm)   
+[*Jania* sp.](rhodophyta/pomslender)   
 Slender
 pom-pom red seaweed
 
@@ -1943,7 +1943,7 @@ rfl
 
 lfa
 
-[*Martensia elegans*](rhodophyta/lacy.htm)  
+[*Martensia elegans*](rhodophyta/lacy)  
 Lacy seaweed
 
 tm
@@ -1963,7 +1963,7 @@ sis
 cyr
 
 [*Peyssonnelia*
-sp.](rhodophyta/scaly.htm)  
+sp.](rhodophyta/scaly)  
 Scaly red seaweed
 
 sis
@@ -1973,12 +1973,12 @@ cyr
 lfa
 
 [*Portieria
-hornemannii*](rhodophyta/portieria.htm)  
+hornemannii*](rhodophyta/portieria)  
 Curled-tip red seaweed
 
 tsm
 
-[*Palisada perforata*](rhodophyta/corny.htm)  
+[*Palisada perforata*](rhodophyta/corny)  
 Corny red seaweed
 
 pgl
@@ -2014,7 +2014,7 @@ smk
 tsm
 
 [*Solieria
-robusta*](rhodophyta/soleiria.htm)   
+robusta*](rhodophyta/soleiria)   
 Robust red seaweed
 
 chg
@@ -2038,7 +2038,7 @@ smk
 lfa
 
 [*Spyridia
-filamentosa*](rhodophyta/feathery.htm)   
+filamentosa*](rhodophyta/feathery)   
 Feathery red seaweed
 
 ---
@@ -2077,7 +2077,7 @@ live firing area (Salu, Sudong, Pawai, Senang, Biola and submerged
 reefs in the area)
   
 [About
-citing](../../about.htm) this checklist.
+citing](../../about) this checklist.
   
   
   
@@ -2087,40 +2087,30 @@ index of
 seaweeds on this site
 
 [all
-seaweeds](seaweedfi.htm)  
+seaweeds](seaweedfi)  
   
 **Green seaweeds**  
   
-[sheets, ribbons, filaments](chlorophytafi1.htm)  
+[sheets, ribbons, filaments](chlorophytafi1)  
   
 [feathery,   
-serrated strips](chlorophytafi2.htm)  
+serrated strips](chlorophytafi2)  
   
- [spheres, sausages, blobs](chlorophytafi3.htm)  
+ [spheres, sausages, blobs](chlorophytafi3)  
   
-[fans, disks, branched](chlorophytafi4.htm)  
+[fans, disks, branched](chlorophytafi4)  
   
 **Red seaweeds**  
- [sheets, ribbons](rhodophytafi3.htm)  
+ [sheets, ribbons](rhodophytafi3)  
   
- [fleshy stems, beads](rhodophytafi1.htm)  
- [soft hairy, feathery](rhodophytafi2.htm)  
+ [fleshy stems, beads](rhodophytafi1)  
+ [soft hairy, feathery](rhodophytafi2)  
   
-[hard branching, encrusting](rhodophytafi4.htm)   
+[hard branching, encrusting](rhodophytafi4)   
   
 **Brown
 seaweeds**  
- [sheets, ribbons](phaeophytafi2.htm)  
- [disks, other shapes](phaeophytafi1.htm)
+ [sheets, ribbons](phaeophytafi2)  
+ [disks, other shapes](phaeophytafi1)
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

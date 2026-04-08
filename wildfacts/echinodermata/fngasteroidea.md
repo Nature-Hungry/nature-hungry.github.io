@@ -4,31 +4,14 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "starfish, star, asteroidea, echinodermata, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[![talking points for nature guides](../../Templates/fornatureguides.gif)](../forguides/index.html)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 echinoderms
-[text index](echinodermindex.htm) | [photo
-index](echinodermatafi.htm)
+[text index](echinodermindex) | [photo
+index](echinodermatafi)
 Phylum
-[Echinodermata](echinodermata.htm) > Class Stellaroida
-> Subclass [Asteroidea](asteroidea/asteroidea.htm)
+[Echinodermata](echinodermata) > Class Stellaroida
+> Subclass [Asteroidea](asteroidea/asteroidea)
 [index
-to talking points](../forguides/index.html) for nature guides
+to talking points](../forguides/indexl) for nature guides
 **For
 nature guides: introducing sea stars**  
 *updated
@@ -39,7 +22,7 @@ Apr 2020*
 **What
 are sea stars?**   
   
- [Sea stars](asteroidea/asteroidea.htm) are animals!
+ [Sea stars](asteroidea/asteroidea) are animals!
 
 - ***They
   are not fish!*** Although commonly called starfish, these
@@ -58,7 +41,7 @@ are sea stars?**
     sea star in the hand. Let's put the sea stars in the water
     and get close to them for the group photo.
   - See also [why
-    we should not pick up sea stars](http://wildshores.blogspot.com/2009/10/why-we-shouldnt-pick-up-sea-stars.html) on the wild shores of
+    we should not pick up sea stars](http://wildshores.blogspot.com/2009/10/why-we-shouldnt-pick-up-sea-starsl) on the wild shores of
     singapore blog.
 - ***Stars
   are fragile!*** When
@@ -152,9 +135,9 @@ can exhaust and thus injure the animal.
 it upside down to show the underside, turn it back around after
 quickly explaining the features.
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

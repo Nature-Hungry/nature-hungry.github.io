@@ -4,27 +4,12 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, flatworms, flat, worms, platyhelminthes, polyclad, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 worms
-[text index](wormindex.htm) | [photo
-index](wormfi.htm)
-[Worms](worm.htm)
+[text index](wormindex) | [photo
+index](wormfi)
+[Worms](worm)
 > Phylum Platyhelminthes > Class
-Turbellaria > Order [Polycladida](polycladida/polycladida.htm)
+Turbellaria > Order [Polycladida](polycladida/polycladida)
 **Photo
 index of marine flatworms on Singapore shores**  
 
@@ -34,21 +19,21 @@ index of marine flatworms on Singapore shores**
 the worm*
 
 ![](polycladida/acanthozoon/060625bbd3443m.jpg)  
-[Spangled flatworm](polycladida/acanthozoon.htm)  
+[Spangled flatworm](polycladida/acanthozoon)  
 *Acanthozoon* sp.
 
 ![](polycladida/bedfordi/040507rflad0059m.jpg)  
-[Persian carpet flatworm](polycladida/bedfordi.htm)  
+[Persian carpet flatworm](polycladida/bedfordi)  
 *Pseudobiceros bedfordi*
 
 ![](polycladida/fineline/020712cjd2141m.jpg)  
-[Lightning flatworm](polycladida/fineline.htm)  *Pseudobiceros fulgor*
+[Lightning flatworm](polycladida/fineline)  *Pseudobiceros fulgor*
 
 ![](polycladida/olive/090534tmftd2178m.jpg)  
-[Olive flatworm](polycladida/olive.htm) *Tytthosoceros lizardensis*
+[Olive flatworm](polycladida/olive) *Tytthosoceros lizardensis*
 
 ![](polycladida/stellae/060301kusg5358m.jpg)  
-[Starry flatworm](polycladida/stellae.htm)*Pseudoceros stellae*
+[Starry flatworm](polycladida/stellae)*Pseudoceros stellae*
 
 8-12cm.
 Black with bluish white margin, and many tiny spots and raised bumps
@@ -66,22 +51,22 @@ and along body edges. Coral rubble, reefs. Sometimes seen in numbers
 on our Southern shores.
 
 ![](polycladida/ascidianbeige/101221tmfts02262ma.jpg)  
-[Marbled flatworm](polycladida/ascidianbeige.htm) *Pseudoceros* sp. 1
+[Marbled flatworm](polycladida/ascidianbeige) *Pseudoceros* sp. 1
 
 ![](polycladida/fuscopunctata/050819cjg1561m.jpg)  
-[Punctuated flatworm](polycladida/fuscopunctata.htm) *Maritigrella fuscopuntata*
+[Punctuated flatworm](polycladida/fuscopunctata) *Maritigrella fuscopuntata*
 
 ![](polycladida/virgulata/060716sisg6720m.jpg)  
 [Red-lined
-flatworm](polycladida/virgulata.htm) *Maritigrella virgulata*
+flatworm](polycladida/virgulata) *Maritigrella virgulata*
 
 ![](polycladida/damawan/100103sislks1m.jpg)  
 [Damawan
-flatworm](polycladida/damawan.htm) *Pseudobiceros damawan*
+flatworm](polycladida/damawan) *Pseudobiceros damawan*
 
 ![](polycladida/felis/091205sudd5623m.jpg)  
 [Feline
-flatworm](polycladida/felis.htm)Pseudocerotid 8
+flatworm](polycladida/felis)Pseudocerotid 8
 
 1-3cm
 long. Body with thin orange margin and dark blotches at the edges.
@@ -102,24 +87,24 @@ long. Body with thin black bordered solid orange margin and long narrow
 white bars. Reefs. Rarely seen on the intertidal.
 
 ![](polycladida/dawn/060714rlhg6580ma.jpg)  
-[Dawn flatworm](polycladida/dawn.htm)  
+[Dawn flatworm](polycladida/dawn)  
 *Pseudobiceros   
 hancockanus*
 
 ![](polycladida/orangewhite/091231biolks12m.jpg)  
-[Halloween flatworm](polycladida/orangewhite.htm)*Pseudobiceros* sp. 5
+[Halloween flatworm](polycladida/orangewhite)*Pseudobiceros* sp. 5
 
 ![](polycladida/silverlining/100103sislk2m.jpg)  
-[Silver-lining flatworm](polycladida/silverlining.htm)  
+[Silver-lining flatworm](polycladida/silverlining)  
 *awaiting   
 identfication*
 
 ![](polycladida/sapphirinus/050411tusg4484m.jpg)  
-[Sapphire flatworm](polycladida/sapphirinus.htm)*Pseudoceros   
+[Sapphire flatworm](polycladida/sapphirinus)*Pseudoceros   
 caeruleocinctus*
 
 ![](polycladida/white/091231biolks10m.jpg)  
-[White flatworm](polycladida/white.htm)*Pseudoceros meenae*
+[White flatworm](polycladida/white)*Pseudoceros meenae*
 
 5-8cm.
 Dark brown to black with narrow orange border on a transparent whitish
@@ -137,20 +122,20 @@ long. White with broad bands at the margin: black, orange to transparent grey. C
 intertidal.
 
 ![](polycladida/orsaki/141109lazlks5m.jpg)  
-[Orsak's flatworm](polycladida/orsaki.htm)  
+[Orsak's flatworm](polycladida/orsaki)  
 *Nymphozoon orsaki*
 
 ![](polycladida/brownstripe/041019labd7716m.jpg)  
-[Brown-stripe flatworm](polycladida/brownstripe.htm)  
+[Brown-stripe flatworm](polycladida/brownstripe)  
 *Pseudobiceros* sp. 2
 
 ![](polycladida/bayeri/060402ulrd1024m.jpg)  
-[Bayer's flatworm](polycladida/bayeri.htm)  
+[Bayer's flatworm](polycladida/bayeri)  
 *Nymphozoon bayeri*
 
 ![](polycladida/laingensis/050623cjg8476m.jpg)  
 [Purple-spotted   
-flatworm](polycladida/laingensis.htm)*Pseudoceros   
+flatworm](polycladida/laingensis)*Pseudoceros   
 laingensis*
 
  
@@ -170,17 +155,17 @@ Cream with purple spotted margin and purple spots all over.
 Body may be yellowish if the worm has just eaten. Coral rubble. Sometimes seen on our northern shores.
 
 ![](polycladida/linebraid/100528tkklks3m.jpg)  
-[Braided-line flatworm](polycladida/linebraid.htm) *Pseudoceros* sp. 4
+[Braided-line flatworm](polycladida/linebraid) *Pseudoceros* sp. 4
 
 ![](polycladida/lineblue/030518cjd0173m.jpg)  
-[Blue-lined flatworm](polycladida/lineblue.htm) *Pseudoceros concinnus*
+[Blue-lined flatworm](polycladida/lineblue) *Pseudoceros concinnus*
 
 ![](polycladida/lineyellow/031025cjd0042m.jpg)  
-[Yellow-lined flatworm](polycladida/lineyellow.htm) *Pseudoceros* sp. 3
+[Yellow-lined flatworm](polycladida/lineyellow) *Pseudoceros* sp. 3
 
 ![](polycladida/bifurcus/031126tusad0089m.jpg)  
 [Racing-line   
-flatworm](polycladida/bifurcus.htm) *Pseudoceros   
+flatworm](polycladida/bifurcus) *Pseudoceros   
 bifurcus*
 
  
@@ -197,18 +182,18 @@ Body solid blue to bluish purple (not bluish-white). Central line white (not yel
 reefs. Sometimes seen on some of our shores.
 
 ![](polycladida/triplestripe/060212sisg4790m.jpg)  
-[Triple-striped flatworm](polycladida/triplestripe.htm) *Pseudoceros* sp. 5
+[Triple-striped flatworm](polycladida/triplestripe) *Pseudoceros* sp. 5
 
 ![](polycladida/rubrotentaculatus/200126bsisro1b.jpg)  
-[Ocher-striped flatworm](polycladida/rubrotentaculatus.htm)  
+[Ocher-striped flatworm](polycladida/rubrotentaculatus)  
 *Pseudoceros rubrotentaculatus*
 
 ![](polycladida/scintillatus/150422jngmna.jpg)  
-[Scintillating flatworm](polycladida/scintillatus.htm)*Pseudoceros scintillatus*
+[Scintillating flatworm](polycladida/scintillatus)*Pseudoceros scintillatus*
 
 ![](polycladida/indicus/050726chgg0368m.jpg)  
 [Blue-dot margined  
-flatworm](polycladida/indicus.htm) *Pseudoceros indicus*
+flatworm](polycladida/indicus) *Pseudoceros indicus*
 
 2-4cm.
 White or bluish becoming dark blue at the margin. Three lines along the centre of the body, each line yellow with a fine blue border. In juvenile worms, often only the centre line is clear. Coral rubble, reefs. Sometimes seen on our Southern shores.
@@ -223,18 +208,18 @@ intertidal.
 White with tiny blue dots along the margin. Rocky shores, under stones. Seen on many of our shores.
 
 ![](polycladida/silt/081117ecpmd2259m.jpg)  
-[Silt flatworm](polycladida/silt.htm)  
+[Silt flatworm](polycladida/silt)  
 *awaiting identification*
 
 ![](polycladida/limnostylochus/090613admd4137m.jpg)  
-[Red mangrove flatworm](polycladida/limnostylochus.htm)  
+[Red mangrove flatworm](polycladida/limnostylochus)  
 *Limnostylochus* sp.
 
 ![](polycladida/baibaiye/050621skdg7991m.jpg)  
-[Vermilion flatworm](polycladida/baibaiye.htm)*Phrikoceros baibaiye*
+[Vermilion flatworm](polycladida/baibaiye)*Phrikoceros baibaiye*
 
 ![](polycladida/phlegm/050625labg8561m.jpg)  
-[Phlegm flatworm](polycladida/phlegm.htm)  
+[Phlegm flatworm](polycladida/phlegm)  
 *awaiting identification*
 
  
@@ -255,11 +240,11 @@ Southern shores.
 flatworms**
 
 ![](acoela/acoela/050724bbg0145ma.jpg)  
-[Acoel worms](acoela/acoela.htm) *awaiting identification*
+[Acoel worms](acoela/acoela) *awaiting identification*
 
 ![](../ctenophora/coeloplana/120722cyrd8101m.jpg)  
 [Leathery soft coral  
-ctenophores](../ctenophora/coeloplana.htm)  *Coeloplana* sp.
+ctenophores](../ctenophora/coeloplana)  *Coeloplana* sp.
 
  
  
@@ -285,19 +270,19 @@ display.*
 are NOT flatworms**
 
 ![](nemertea/redreef/060115sntg3977m.jpg)  
-[Ribbon worms](nemertea/nemertea.htm)  
+[Ribbon worms](nemertea/nemertea)  
 Phylum Nemertea
 
 ![](../mollusca/slugs/nudibranchia/semperi/050524cftg6633m.jpg)  
-[Nudibranchs](../mollusca/nudibranchia.htm)   
+[Nudibranchs](../mollusca/nudibranchia)   
 Phylum Mollusca
 
 ![](../mollusca/slugs/onchidiidae/bigpimply/070323skdg8263m.jpg)  
-[Onch slugs](../mollusca/slugs/onchidiidae/onchidiidae.htm)  
+[Onch slugs](../mollusca/slugs/onchidiidae/onchidiidae)  
 Phylum Mollusca
 
 ![](../vertebrates/fish/soleidae/ovata/050511cftg6220m.jpg)  
-[Soles](../vertebrates/fish/soleidae/ovata.htm)   
+[Soles](../vertebrates/fish/soleidae/ovata)   
 Phylum Chordata
 
  
@@ -315,7 +300,7 @@ To
 ---
 
 how to tell apart [flatworms
-and slugs](../glossary/flatwormslug.htm)
+and slugs](../glossary/flatwormslug)
   
   
   
@@ -325,24 +310,24 @@ index of
 marine worms   
 on this site
 
-[all marine worms](wormfi.htm)  
+[all marine worms](wormfi)  
  **Typical worms**   
  
-[Smooth](wormfi1a.htm)
+[Smooth](wormfi1a)
   
-[Bristley](polychaetafi.htm)
+[Bristley](polychaetafi)
   
-[**Tubeworms**](tubewormfi.htm)
+[**Tubeworms**](tubewormfi)
   
   
 **[Feathery
-worms](sabellidaefi.htm)**    
+worms](sabellidaefi)**    
   
 **Flatworms**
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

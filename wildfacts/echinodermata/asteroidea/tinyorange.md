@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "sea star, seastar, starfish, star, fish, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 sea
-stars [text index](../echinodermindex.htm) | [photo
-index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class Stelleroida > Subclass [Asteroidea](asteroidea.htm)
+stars [text index](../echinodermindex) | [photo
+index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
+> Class Stelleroida > Subclass [Asteroidea](asteroidea)
 **Tiny
 orange star  
 *awaiting identification****updated
@@ -95,14 +82,4 @@ Photo shared by Jialin Liu on [facebook](https://www.facebook.com/photo/?fbid=10
 
 *![](tinyorange/250331hntjll2.jpg)**Pulau Hantu, Apr 25*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/marinelife90/posts/pfbid028WxFgaFXjM64XaWzLZGPg9psYeuyrLobxmTUrB9sdsCWs3tAhCoH5t2Y7mwTLUKl?__cft__[0]=AZUk_1TC4gMIyWhuJBUPwQQFVLLMLFMe1ifGi2T0YrVK1ko3GkaTnb9s05Yh-Sl4kRbPkq1PdVKQAvDj3TyfyhIWi-gD3V0LkaSdoAm_4qgk-mOCB2TcJO0qN9raWo8lNsLo_xdvpoxmSt2gbpEDbGnOnfEOl0NDfUulMTu1bB-smQ&__tn__=%2CO%2CP-R).
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

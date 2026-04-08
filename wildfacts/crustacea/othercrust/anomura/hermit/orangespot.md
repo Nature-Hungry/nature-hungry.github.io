@@ -4,29 +4,29 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "spotted, hermit, crab, dardanus, megistos, diogenidae, anomura, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../../wildfactsheet3.gif)](../../../../index.html)
+[![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../../index.html)  
+[wildfactsheets homepage](../../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../../animals.htm)
-| [all plants](../../../../plants.htm)
-| [concepts](../../../../concepts/index.html)
-| [glossary](../../../../glossary/index.html)
-| [search](../../../../search.htm)
+[all animals](../../../../animals)
+| [all plants](../../../../plants)
+| [concepts](../../../../concepts/indexl)
+| [glossary](../../../../glossary/indexl)
+| [search](../../../../search)
 
 hermit crabs
-[text index](../../../crustaceaindex.htm#anomurans) | [photo
-index](../../../anomurafi.htm)
-Phylum [Arthropoda](../../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../../crustacea.htm) >
-Class Malacostraca > Order [Decapoda](../../../decapoda.htm)
+[text index](../../../crustaceaindex#anomurans) | [photo
+index](../../../anomurafi)
+Phylum [Arthropoda](../../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../../crustacea) >
+Class Malacostraca > Order [Decapoda](../../../decapoda)
 > Anomurans
-> [hermit crabs](hermit.htm)
+> [hermit crabs](hermit)
 **Spotted
 orange hermit crab  
 *Dardanus megistos*  
@@ -96,7 +96,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 *![](orangespot/090712kusjk1m3.jpg)  
 Kusu Island, Jul 09*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/07/kusu-island-sandy-lagoon-with-section.html).
+blog](http://sgn090608.blogspot.com/2009/07/kusu-island-sandy-lagoon-with-sectionl).
 
 *![](orangespot/160508kuslks1.JPG)  
 Kusu Island, May 16*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10154177861293158&set=a.10152578284848158.1073741857.547198157&type=3).
@@ -126,7 +126,7 @@ shared by Rene Ong on [facebook](https://www.facebook.com/photo.php?fbid=2219127
 
 *![](orangespot/150815bsislks.JPG)  
 Sisters Island, Aug 15*Photo
-shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2015/08/baby-shark-at-big-sisters-island.html).
+shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2015/08/baby-shark-at-big-sisters-islandl).
 
 ---
 
@@ -139,14 +139,14 @@ shared by Shawne Goh on [facebook](https://www.facebook.com/photo.php?fbid=10219
 *![](orangespot/110423tpllks12m3.jpg)*  
 *Terumbu Pempang
 Laut, Apr 11*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/04/first-visit-to-terumbu-pempang-laut.html).
+blog](http://wondercreation.blogspot.com/2011/04/first-visit-to-terumbu-pempang-lautl).
 
 *![](orangespot/110423tpld0136m3.jpg)  
 Terumbu Pempang Laut, Apr 11*
 
 *![](orangespot/151225tsmklks7m3.jpg)*  
 *Terumbu Semakau, Dec 12*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2015/12/christmas-with-full-moon-at-terumbu.html).
+blog](http://wondercreation.blogspot.sg/2015/12/christmas-with-full-moon-at-terumbul).
 
 ---
 
@@ -182,9 +182,9 @@ flickr](http://www.flickr.com/photos/wildsingapore/4978818536/).
   exclusive of the vertebrates*
   Sea Challengers. 314pp.
 
-[links](../../../../links.htm)
-| [references](../../../../references.htm)
-| [about](../../../../about.htm)
+[links](../../../../links)
+| [references](../../../../references)
+| [about](../../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

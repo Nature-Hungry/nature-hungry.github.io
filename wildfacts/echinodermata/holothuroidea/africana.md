@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "cucumber, seacucumber, afrocucumis, africana, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 sea
-cucumbers [text index](../echinodermindex.htm#holothuroidea)
-| [photo index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class [Holothuroidea](holothuroidea.htm)
+cucumbers [text index](../echinodermindex#holothuroidea)
+| [photo index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
+> Class [Holothuroidea](holothuroidea)
 **Little
 African sea cucumber  
 *Afrocucumis africana\**Family Sclerodactylidae***updated
@@ -88,7 +75,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 *![](africana/140509prplks1m3.jpg)*  
 *Pasir Ris Park, May 14*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2009/05/pasir-ris-after-rain.html).
+blog](http://wondercreation.blogspot.sg/2009/05/pasir-ris-after-rainl).
 
 ---
 
@@ -104,7 +91,7 @@ flickr](http://www.flickr.com/photos/hai_ren/5068186313/).
 *![](africana/120407lazlks3m3.jpg)*  
 *Lazarus, Apr
 12*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2012/04/lobster-at-seringat-kias.html).
+blog](http://wondercreation.blogspot.com/2012/04/lobster-at-seringat-kiasl).
 
 ![](africana/240528tslvc8.jpg)  
 *Terumbu Selegie, May 24*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/media/set/?set=a.10160387281292945).
@@ -113,7 +100,7 @@ blog](http://wondercreation.blogspot.com/2012/04/lobster-at-seringat-kias.html).
 
 *![](africana/090711sjigl4m3.jpg)  
 St. John's Island, Jul 09*Photo shared by Geraldine Lee on [her
-blog](http://starryfinds.blogspot.com/2009/07/st-johns-surprises.html).
+blog](http://starryfinds.blogspot.com/2009/07/st-johns-surprisesl).
 
 *![](africana/240212sjilks3.jpg)  
 St John's Island, Feb 24*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10161195585713158&set=a.10161195589918158).
@@ -136,7 +123,7 @@ Pulau Semakau, Nov 12*Photo shared by Loh Kok Sheng on [flickr](https://www.flic
 **Links**
 
 - [*Afrocucumis
-  africana*](http://www.sealifebase.org/summary/Afrocucumis-africana.html)
+  africana*](http://www.sealifebase.org/summary/Afrocucumis-africanal)
   on SeaLife Base: Technical fact sheet.
 - [*Afrocucumis
   africana*](http://species-identification.org/species.php?species_group=nasc&id=104&menuentry=soorten) in North Australian Sea Cucumbers on Marine Species
@@ -150,14 +137,4 @@ Pulau Semakau, Nov 12*Photo shared by Loh Kok Sheng on [flickr](https://www.flic
   (Holothuroidea: Dendrochirotida: Sclerodactylidae) in Singapore*.
   Nature in Singapore, 3: 65-68.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

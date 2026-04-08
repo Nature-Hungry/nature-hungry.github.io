@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "moon, crab, matuta, lunaris,  matutitdae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> Brachyurans > Family [Matutidae](matutidae.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> Brachyurans > Family [Matutidae](matutidae)
 **Spotted
 moon crab*****Ashtoret*** ***lunaris*****Family Matutidae***updated
 Dec 2019*
@@ -78,7 +78,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 *![](lunaris/130112pgllks.JPG)  
 Punggol, Jan 13*Photos
 shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2013/01/colourful-sponge-garden-at-punggol.html).
+blog](http://wondercreation.blogspot.sg/2013/01/colourful-sponge-garden-at-punggoll).
 
 *![](lunaris/240527srpnlk1.jpg)  
 Sentosa Serapong, May 24*  
@@ -91,7 +91,7 @@ shared by Ng Leekiang on [facebook](https://www.facebook.com/photo/?fbid=1015953
 St. John's Island, Jul 09*  
 Photos
 shared by Geraldine Lee on [her
-blog](http://starryfinds.blogspot.com/2009/07/st-johns-surprises.html).
+blog](http://starryfinds.blogspot.com/2009/07/st-johns-surprisesl).
 
 *![](lunaris/201019sjijll4.jpg)  
 St. John's Island, Oct 20*  
@@ -149,7 +149,7 @@ shared by Richard Kuah on [facebook](https://www.facebook.com/photo/?fbid=101591
 grateful thanks to Ondrej Radosta for identification help with these crabs.. **Links**
 
 - [Moon
-  Crab (*Matuta lunaris*)](http://mangrove.nus.edu.sg/pub/seashore/text/205.htm)
+  Crab (*Matuta lunaris*)](http://mangrove.nus.edu.sg/pub/seashore/text/205)
   Tan, Leo W. H. & Ng, Peter K. L., 1988, *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
@@ -173,9 +173,9 @@ grateful thanks to Ondrej Radosta for identification help with these crabs.. **L
   S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
   Australian Waters*. Reed New Holland. 224 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

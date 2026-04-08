@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "fringe, eyed, flathead, flat, head, fish, cymbacephalus, nematophthalmus, platycephalidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm) >
-Family [Platycephalidae](platycephalidae.htm)
+> Subphylum Vertebrata > [fishes](../fish) >
+Family [Platycephalidae](platycephalidae)
 **Fringe-eyed
 flathead**  
 ***Cymbacephalus
@@ -40,7 +40,7 @@ seen on many of our shores, in sandy and coral rubble areas near reefs. **Featur
 It has bony ridges on the head with spines. Colours and pattern are camouflaging, with 7-8 dusky bars on the back and sides and its fins has variegated patterns. Dorsal fin large and sometimes colourful.  
   
 **Sometimes mistaken** for other flatheads in the Family such as *Thysanophrys* sp. As well as other flattened fishes that live on the sea bottom. Here's more on [how to tell apart fishes
-with flat heads](../cfflatheads.htm).
+with flat heads](../cfflatheads).
 
 ![](nematophthalmus/110602tmftd3485m3.jpg)  
 *Tanah Merah Ferry Terminal, Jun 11*
@@ -104,14 +104,14 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ![](nematophthalmus/090628lazlt2m3.jpg)  
 *Seringat-Kias, Jun 09*Photo shared by Liana Tang on [her
-blog](http://nearly-lucid.blogspot.com/2009/07/life-in-man-made-bay-on-lazarus-island.html).
+blog](http://nearly-lucid.blogspot.com/2009/07/life-in-man-made-bay-on-lazarus-islandl).
 
 *![](nematophthalmus/241019lazmn2.jpg)  
 Lazarus Island, Oct 24*Photo shared by Che Cheng Neo on [facebook](https://www.facebook.com/media/set/?vanity=checheng.neo&set=a.10161536269958654).
 
 ![](nematophthalmus/100528tkkjk8m3.jpg)  
 *Pulau Tekukor, May 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/05/100528-pulau-tekukor.html).
+blog](http://sgn090608.blogspot.com/2010/05/100528-pulau-tekukorl).
 
 ---
 
@@ -143,11 +143,11 @@ Small Sisters Island, Oct 25*Photo shared by Richard Kuah on [facebook](https://
 
 ![](nematophthalmus/110517tptlks5m3.jpg)  
  *Terumbu Pempang Tengah, May 11*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengah.html)*.*
+blog](http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengahl)*.*
 
 ![](nematophthalmus/090922labnml4m6l.jpg)  
 *Labrador, Sep 09*Photo shared by Neo Mei Lin on [her
-blog](http://psychedelic-nature.blogspot.com/2009/09/fish-galore-at-labrador.html).
+blog](http://psychedelic-nature.blogspot.com/2009/09/fish-galore-at-labradorl).
 
 ![](nematophthalmus/100613sngtch1m6l.jpg)  
 *Pulau Senang, Jun 10*Photo shared by Toh Chay Hoon on [her
@@ -174,7 +174,7 @@ Filmed in Aug
 **Links**  
 
 - [Fringe-eyed
-  Flathead (*Cymbacephalus nematophthalmus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/260.htm) Lim, Kelvin
+  Flathead (*Cymbacephalus nematophthalmus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/260) Lim, Kelvin
   K. P. & Jeffrey K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
@@ -189,9 +189,9 @@ Filmed in Aug
   Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
   Periplus Editions. 292 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,27 +4,14 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "sand, star, seastar, sea star, starfish, fish, astropecten, indicus, astropectinidae, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 sea
-stars [text index](../echinodermindex.htm) | [photo
-index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class Stelleroida > Subclass [Asteroidea](asteroidea.htm)
-> Genus [*Astropecten*](astropecten.htm)
+stars [text index](../echinodermindex) | [photo
+index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
+> Class Stelleroida > Subclass [Asteroidea](asteroidea)
+> Genus [*Astropecten*](astropecten)
 **Plain
 sand star *Astropecten indicus*  
 Family Astropectinidae***updated Mar 2020*
@@ -60,10 +47,10 @@ on the sides.
 Pointed tube feet
 
 **Feeding on a star:** Sometimes, tiny white snails are found on the upperside. These are [parasitic
-snails](../../mollusca/gastropoda/eulimidae/eulimidae.htm) (Family Eulimidae).
+snails](../../mollusca/gastropoda/eulimidae/eulimidae) (Family Eulimidae).
 
 ![](sandplain/050608chgg7360m3a.jpg)  
-[Tiny parasitic snails](../../mollusca/gastropoda/eulimidae/eulimidae.htm) sometimes seen.
+[Tiny parasitic snails](../../mollusca/gastropoda/eulimidae/eulimidae) sometimes seen.
 
 ![](sandplain/050402cjg4016m3.jpg)  
 *Chek Jawa, Apr 05*
@@ -94,7 +81,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 ---
 
 *![](sandplain/090310tuslks.JPG)  
-Tuas, Mar 09*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2009/03/soft-sediment-creatures-of-tuas.html).
+Tuas, Mar 09*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2009/03/soft-sediment-creatures-of-tuasl).
 
 *![](sandplain/201019cnyrk7.jpg)  
 Coney Island, Oct 20*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo?fbid=10158588709082906&set=a.10158588678307906).
@@ -130,11 +117,11 @@ East Coast-Marina Bay, Jan 21*Photo shared by Vincent Choo on [facebook](https:/
 **Links**
 
 - [Sand
-  star (*Astropecten* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/221.htm) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+  star (*Astropecten* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/221) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [*Astropecten
-  indicus*](http://www.sealifebase.org/summary/Astropecten-indicus.html) from Sealife Base: Technical fact sheet.
+  indicus*](http://www.sealifebase.org/summary/Astropecten-indicusl) from Sealife Base: Technical fact sheet.
 
 **References** 
 
@@ -144,7 +131,7 @@ East Coast-Marina Bay, Jan 21*Photo shared by Vincent Choo on [facebook](https:/
   and feeding in the sea star Astropecten indicus (Doderlein,
   1888)*. The Raffles Bulletin of Zoology 2011 59 (2): 251-258
   and Loh Kok Sheng's [blog
-  post about this study](http://wondercreation.blogspot.sg/2011/09/paper-published-diet-and-feeding-in-sea.html).
+  post about this study](http://wondercreation.blogspot.sg/2011/09/paper-published-diet-and-feeding-in-seal).
 - Lane, David
   J.W. and Didier Vandenspiegel. 2003*. A
   Guide to Sea Stars and Other Echinoderms of Singapore*.
@@ -155,14 +142,4 @@ East Coast-Marina Bay, Jan 21*Photo shared by Vincent Choo on [facebook](https:/
   table and illustrated identification to the species*. The Raffles
   Bulletin of Zoology 1998 46(2): 431-470.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

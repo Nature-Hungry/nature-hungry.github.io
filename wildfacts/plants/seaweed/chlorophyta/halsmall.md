@@ -9,22 +9,22 @@ layout: default
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
-green seaweeds [text index](../seaweedindex.htm) | [photo
-index](../seaweedfi.htm)
+green seaweeds [text index](../seaweedindex) | [photo
+index](../seaweedfi)
 
-[Seaweeds](../seaweed.htm)
-> Division [Chlorophyta](chlorophyta.htm) >
-Family Halimedaceae > Genus *[Halimeda](halimeda.htm)*
+[Seaweeds](../seaweed)
+> Division [Chlorophyta](chlorophyta) >
+Family Halimedaceae > Genus *[Halimeda](halimeda)*
 **Small
 coin green seaweed  
 *Halimeda* sp.\*** **Family Halimedaceae***updated
@@ -51,7 +51,7 @@ on stalks. The segments tend to develop holdfasts where they contact
 with a hard surface so that the growth habit tends to be more horizontal
 than vertical.  
   
-[Big coin green seaweeds](halbig.htm) have larger 'coins'
+[Big coin green seaweeds](halbig) have larger 'coins'
 that tend to be thinner and unwrinkled.   
   
 **Human uses:** Some species of *Halimeda*
@@ -134,7 +134,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 **Links**
 
 - [Calcified
-  seaweed (*Halimeda*)](http://mangrove.nus.edu.sg/pub/seashore/text/102.htm) Tan, Leo W. H. & Ng, Peter K.
+  seaweed (*Halimeda*)](http://mangrove.nus.edu.sg/pub/seashore/text/102) Tan, Leo W. H. & Ng, Peter K.
   L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
@@ -158,9 +158,9 @@ FREE photos of
 seaweeds](http://www.flickr.com/photos/54527470@N00/sets/72157600032152343).  
 Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

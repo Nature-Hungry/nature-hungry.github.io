@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "mangrove, mound, crab, sarmatium, germaini, sesarmidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> Brachyurans > Family [Sesarmidae](sesarmidae.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> Brachyurans > Family [Sesarmidae](sesarmidae)
 **Mound
 crab**   
 ***Sarmatium germaini*****Family Sesarmidae***updated
@@ -35,7 +35,7 @@ Dec 2019*
 **Where
 seen?** This
 spherical crab is seldom seen outside the [Mud
-lobster mounds](../../othercrust/lobster/thalassina.htm) where it lives.  
+lobster mounds](../../othercrust/lobster/thalassina) where it lives.  
   
 **Features:** Body width 3-8cm. It
 has a round body and flat legs with pointed tips. The pincers are
@@ -89,7 +89,7 @@ With grateful thanks to N. Sivasothi, Ng Ngan Kee and Pei Yan for
 identifying this crab. **Links**
 
 - [Mound
-  crab (*Sarmatium germaini*)](http://mangrove.nus.edu.sg/guidebooks/text/2048.htm) Ng, Peter K. L. & N. Sivasothi,
+  crab (*Sarmatium germaini*)](http://mangrove.nus.edu.sg/guidebooks/text/2048) Ng, Peter K. L. & N. Sivasothi,
   1999. *[A Guide
   to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
   Science Centre. 168 pp.
@@ -105,9 +105,9 @@ identifying this crab. **Links**
   crabs of the world.* The Raffles Bulletin of Zoology. Supplement
   No. 17, 31 Jan 2008. 286 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

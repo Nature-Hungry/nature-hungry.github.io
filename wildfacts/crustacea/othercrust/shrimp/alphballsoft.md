@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "snapping, shrimp, alpheidae, alpheid, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 shrimps [text
-index](../../crustaceaindex.htm#shrimps) | [photo index](../../shrimpfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> [prawns and shrimps](shrimp.htm) > Family [Alpheidae](alpheidae.htm)
+index](../../crustaceaindex#shrimps) | [photo index](../../shrimpfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> [prawns and shrimps](shrimp) > Family [Alpheidae](alpheidae)
 **White
 snapping shrimp**  
 ***awaiting
@@ -36,12 +36,12 @@ Family Alpheidae***updated Dec 2019*
 **Where
 seen?** This
 small white snapping shrimp is often found in [Ball
-flowery soft corals](../../../cnidaria/coralsoft/nepball.htm) (Family Nephtheidae). Often found in pairs.   
+flowery soft corals](../../../cnidaria/coralsoft/nepball) (Family Nephtheidae). Often found in pairs.   
   
 **Features:** Body 1-2cm long. Usually translucent white.  
   
 Other tiny snapping shrimps are sometimes found [under
-stones and living inside sponges](alphcommensal.htm).
+stones and living inside sponges](alphcommensal).
 
 *![](alphballsoft/111222tusd4735m6l.jpg)  
 Tuas, Dec 11*
@@ -85,14 +85,14 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 *![](alphballsoft/110519chglks4m3.jpg)  
 Changi, May 11*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/05/changi-shore-is-packed-with-life.html).
+blog](http://wondercreation.blogspot.com/2011/05/changi-shore-is-packed-with-lifel).
 
 *![](alphballsoft/220716bblks4.jpg)  
 Beting Bronok, Jul 22*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159991041208158&set=a.10159991052193158).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

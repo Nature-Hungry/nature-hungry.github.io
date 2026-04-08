@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "slender, seamoth, moth, robin, fish, pegasus, volitans, pegasidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm)
+> Subphylum Vertebrate > [fishes](../fish)
 **Slender
 seamoth  
 *Pegasus
@@ -55,7 +55,7 @@ to Family Pegasiidae. According to [FishBase](http://www.fishbase.org/Summary/Fa
 the family has 2 genera and 5 species. They are found in the Indo-West
 Pacific. They are sometimes also called sea robins or dragonfishes.
 Some scientists place them with the seahorse in the [Family
-Syngnathidae](../syngnathidae/syngnathidae.htm).Pegasus is the
+Syngnathidae](../syngnathidae/syngnathidae).Pegasus is the
 winged horse of Greek mythology. In one version of the myth, Pegasus
 was the son of Poseidon, God of the Sea and Medusa.  
  **Features:** 4-6cm. Body hard, enclosed by a bony skeleton
@@ -120,7 +120,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 *Pasir Ris Park, Jan 20*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo.php?fbid=10163513744165112&set=a.10163513743360112&type=3&theater).
 
 ![](volitans/141223tushpy1m3.jpg)  
-*Tuas, Dec 14*Photo shared by Heng Pei Yan on [her blog](http://peiyansesarma.blogspot.sg/2014/12/first-visit-to-tuas-merawang.html).
+*Tuas, Dec 14*Photo shared by Heng Pei Yan on [her blog](http://peiyansesarma.blogspot.sg/2014/12/first-visit-to-tuas-merawangl).
 
 ---
 
@@ -138,13 +138,13 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 *Changi, May 08*Photo shared by Toh Chay Hoon on [flickr](https://www.flickr.com/photos/ilmare77/2471151220/).
 ![](volitans/110519chglks1m3.jpg)  
 Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/05/changi-shore-is-packed-with-life.html).
+blog](http://wondercreation.blogspot.com/2011/05/changi-shore-is-packed-with-lifel).
 
 ---
 
 ![](volitans/090807tmjk6m3.jpg)  
 *Tanah Merah, Aug 09*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/08/tanah-merah-more-and-more-fishes.html).
+blog](http://sgn090608.blogspot.com/2009/08/tanah-merah-more-and-more-fishesl).
 
 ![](volitans/180812nsrtch3.jpg)  
 *East Coast Park, Aug 18*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo.php?fbid=10156734551968713&set=a.10156734548003713&type=3&theater).
@@ -168,7 +168,7 @@ Kusu Island, Jun 15*Photo shared by Marcus Ng on [flickr](https://www.flickr.com
 *![](volitans/100912kuslks1m6la.jpg)  
 Kusu Island,
 Sep 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/09/kusu-island-anemone-city.html).
+blog](http://wondercreation.blogspot.com/2010/09/kusu-island-anemone-cityl).
 
 ---
 
@@ -217,7 +217,7 @@ natans=\*\*Pegasus volitans* *+Pegasus laternarius* (Brick seamoth) *Pegasus vol
 **Links**
 
 - [Slender
-  Seamoth (*Pegasus volitans*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/247.htm) Lim, Kelvin K. P. &
+  Seamoth (*Pegasus volitans*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/247) Lim, Kelvin K. P. &
   Jeffrey K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
@@ -228,7 +228,7 @@ natans=\*\*Pegasus volitans* *+Pegasus laternarius* (Brick seamoth) *Pegasus vol
   [FishBase](http://www.fishbase.org/): Technical fact
   sheet.
 - [Vol.
-  4. Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.htm) FAO Species
+  4. Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
   Identification Guide for Fishery Purposes The Living Marine Resources
   of the Western Central Pacific.
 
@@ -252,9 +252,9 @@ natans=\*\*Pegasus volitans* *+Pegasus laternarius* (Brick seamoth) *Pegasus vol
   Reef Fishes of the World*
   Periplus Editions. 400pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

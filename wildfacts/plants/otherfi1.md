@@ -4,39 +4,24 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, trees, forest, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 plants
-[text index](plantindex.htm) | [photo
-index](plantfi.htm)
+[text index](plantindex) | [photo
+index](plantfi)
 
 **Photo
 index of other plants of Singapore**  
 
 ---
 
-![](others/ficus/benjamina/100221sbwrd9522m.jpg) [Waringin](others/ficus/benjamina.htm)*Ficus benjamina*
+![](others/ficus/benjamina/100221sbwrd9522m.jpg) [Waringin](others/ficus/benjamina)*Ficus benjamina*
 
-![](others/ficus/crassiramea/091213ubnd5788md.jpg) [Collared fig](others/ficus/crassiramea.htm)*Ficus crassimea*
+![](others/ficus/crassiramea/091213ubnd5788md.jpg) [Collared fig](others/ficus/crassiramea)*Ficus crassimea*
 
-![](others/ficus/elastica/091203ubnd5014ma.jpg) [India-rubber tree](others/ficus/elastica.htm)*Ficus crassimea*
+![](others/ficus/elastica/091203ubnd5014ma.jpg) [India-rubber tree](others/ficus/elastica)*Ficus crassimea*
 
-![](others/ficus/microcarpa/091031cjd3440mc.jpg) [Jejawi](others/ficus/microcarpa.htm)*Ficus microcarpa*
+![](others/ficus/microcarpa/091031cjd3440mc.jpg) [Jejawi](others/ficus/microcarpa)*Ficus microcarpa*
 
-![](others/ficus/variegata/091213ubnd5879m.jpg) [Common red stem-fig](others/ficus/variegata.htm)*Ficus variegata*
+![](others/ficus/variegata/091213ubnd5879m.jpg) [Common red stem-fig](others/ficus/variegata)*Ficus variegata*
 
 Large
 strangling fig. Seldom has aerial roots. Leaves (2-7cm) with sharp,
@@ -62,13 +47,13 @@ Common.
   
 ![](others/hevea/brasiliensis/090802ubind8240m.jpg)  
   
-![](others/hevea/brasiliensis/091005cjd2068ma.jpg) [Rubber tree](others/hevea/brasiliensis.htm)*Hevea brasiliensis*
+![](others/hevea/brasiliensis/091005cjd2068ma.jpg) [Rubber tree](others/hevea/brasiliensis)*Hevea brasiliensis*
 
 ![](coastal/fagraea/racemosa/070714cjd4118m.jpg)  
   
 ![](coastal/fagraea/racemosa/020714cjcpd3224m.jpg)  
   
-![](coastal/fagraea/racemosa/011021cjcpd0988m.jpg) [Sepuleh](coastal/fagraea/racemosa.htm)  
+![](coastal/fagraea/racemosa/011021cjcpd0988m.jpg) [Sepuleh](coastal/fagraea/racemosa)  
 *Fragraea racemosa*
 
  
@@ -94,11 +79,11 @@ index of
 plants on this site
 
 [all
-plants](plantfi.htm)
+plants](plantfi)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

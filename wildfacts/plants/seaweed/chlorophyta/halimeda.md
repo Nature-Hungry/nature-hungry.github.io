@@ -9,22 +9,22 @@ layout: default
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 green
-seaweeds [text index](../seaweedindex.htm) | [photo
-index](../seaweedfi.htm)
+seaweeds [text index](../seaweedindex) | [photo
+index](../seaweedfi)
 
-[Seaweeds](../seaweed.htm)
-> Division [Chlorophyta](chlorophyta.htm)
+[Seaweeds](../seaweed)
+> Division [Chlorophyta](chlorophyta)
 **Coin
 green seaweeds  
 *Halimeda* sp.\*** **Family Halimedaceae***updated
@@ -59,7 +59,7 @@ the centre of the segment. As a result, the seaweed may appear white.
   
 In addition to calcium carbonate, they also have chemicals that protect
 them from herbivores. Despite this, some slugs like the [Halimeda
-slug](../../../mollusca/slugs/sacoglossa/pusilla.htm) (*Elysiella pusilla*) actually eat the seaweed and incorporates
+slug](../../../mollusca/slugs/sacoglossa/pusilla) (*Elysiella pusilla*) actually eat the seaweed and incorporates
 these chemicals into their tissues to protect themselves!  
   
 The
@@ -76,7 +76,7 @@ next to one another  *Kusu Island, May 05*
   
 ![](halbig/050330labg3921m3a.jpg)  
 A pair of [Halimeda
-slugs](../../../mollusca/slugs/sacoglossa/pusilla.htm) on the seaweed. *Labrador, Mar 05*
+slugs](../../../mollusca/slugs/sacoglossa/pusilla) on the seaweed. *Labrador, Mar 05*
 
 **Human
 uses:** Some species of *Halimeda* are used
@@ -85,9 +85,9 @@ used as animal feed and reportedly have anti-bacterial and
 anti-fungal properties.
 
 **![](halsmall/060527sjid2273m3.jpg)  
-[Small coin green seaweed](halsmall.htm)**
+[Small coin green seaweed](halsmall)**
 
-***![](halbig/060527sjid2264m3.jpg)*[Big coin green seaweed](halbig.htm)**
+***![](halbig/060527sjid2264m3.jpg)*[Big coin green seaweed](halbig)**
 
   
 *\*Species are difficult
@@ -120,7 +120,7 @@ Halimeda tuna*
 **Links**
 
 - [Calcified
-  seaweed (*Halimeda*)](http://mangrove.nus.edu.sg/pub/seashore/text/102.htm) Tan, Leo W. H. & Ng, Peter K.
+  seaweed (*Halimeda*)](http://mangrove.nus.edu.sg/pub/seashore/text/102) Tan, Leo W. H. & Ng, Peter K.
   L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
@@ -167,9 +167,9 @@ FREE photos of
 seaweeds](http://www.flickr.com/photos/54527470@N00/sets/72157600032152343).  
 Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

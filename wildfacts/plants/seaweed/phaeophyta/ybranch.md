@@ -9,22 +9,22 @@ layout: default
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 brown
-seaweeds [text index](../seaweedindex.htm#phaeophyta)
-| [photo index](../seaweedfi.htm)
+seaweeds [text index](../seaweedindex#phaeophyta)
+| [photo index](../seaweedfi)
 
-[Seaweeds](../seaweed.htm)
-> Division [Phaeophyta](phaeophyta.htm) > Genus [Dictyota](dictyota.htm)
+[Seaweeds](../seaweed)
+> Division [Phaeophyta](phaeophyta) > Genus [Dictyota](dictyota)
 **Bluish
 y-branch brown seaweed  
 *Dictyota dichotoma*\*** **Family Dictyotaceae** ***updated
@@ -134,9 +134,9 @@ FREE photos of
 seaweeds](http://www.flickr.com/photos/54527470@N00/sets/72157600032287041).  
 Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

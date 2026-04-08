@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "mud, shrimp, upogebia, upogebiidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 lobsters [text
-index](../../crustaceaindex.htm#lobsters) | [photo index](../../shrimpfi2.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> [Lobsters](lobster.htm)
+index](../../crustaceaindex#lobsters) | [photo index](../../shrimpfi2)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> [Lobsters](lobster)
 **Mud
 shrimp**  
 **Family Upogebiidae***updated Mar 2020*
@@ -74,7 +74,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ![](upogebiidae/100615tustch1m3.jpg)  
 *Tuas, Jun 10*Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2010/06/it-has-been-three-years.html).
+blog](http://colorclouds.blogspot.com/2010/06/it-has-been-three-yearsl).
 
 ![](upogebiidae/190519prpjll2c.jpg)  
 *Pasir Ris Park, May 19*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo.php?fbid=10156384874716295&set=a.10156384873701295&type=3&theater).
@@ -91,7 +91,7 @@ Moult *Pasir Ris Park, Jan 26*Photo shared by Loh Kok Sheng on [facebook](https:
 
 ![](upogebiidae/110520chglks5m3.jpg)  
 *Changi, May 11*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/05/changi-beach-just-so-much-to-discover.html).
+blog](http://wondercreation.blogspot.com/2011/05/changi-beach-just-so-much-to-discoverl).
 
 ---
 
@@ -135,7 +135,7 @@ shared by Rui Quan Oh on [facebook](https://www.facebook.com/media/set/?set=a.89
 *Beting Bronok, Jul 19*Photo shared by Able Yeo on [facebook](https://www.facebook.com/photo.php?fbid=10216254636570835&set=a.10210920255494642&type=3&theater).
 
 ![](upogebiidae/111126bblks1.JPG)  
-*Beting Bronok, Nov 11*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2011/11/sunny-day-out-at-beting-bronok.html).
+*Beting Bronok, Nov 11*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2011/11/sunny-day-out-at-beting-bronokl).
 
 ---
 
@@ -180,9 +180,9 @@ shrimp.](http://www.flickr.com/photos/wildsingapore/7202011146/)
   Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
   IKAN-Unterwasserachiv, Frankfurt. 321 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

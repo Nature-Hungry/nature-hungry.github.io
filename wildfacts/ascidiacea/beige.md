@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "blob, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
+ 
 
 ascidians
-[text index](ascidiaceaindex.htm) | [photo
-index](ascidiaceafi.htm)
+[text index](ascidiaceaindex) | [photo
+index](ascidiaceafi)
 Phylum Chordata
-| Subphylum Tunicata/Urochordata | Class [Ascidiacea](ascidiacea.htm)
+| Subphylum Tunicata/Urochordata | Class [Ascidiacea](ascidiacea)
 **Beige
 sheet ascidians  
 *Didemnum psammatodes\**Family Didemnidae***updated
@@ -46,7 +33,7 @@ spots. Usually beige in colour.
 In Serina Lee's article, photos of *Didemnum psammatodes* closely resemble these animals, including a close up of "fecal pellets and oral siphons marked with rings of spicules on the surface of colony". According to other descriptions, the colour of *Didemnum psammatodes* comes from the dense packing of fecal pellets throughout the colony.  
   
 **What eats them?** Various kinds
-of [flatworms](../worm/polycladida/polycladida.htm) (Order
+of [flatworms](../worm/polycladida/polycladida) (Order
 Polycladida) are sometimes seen on the sheets, possibly eating them.
 
 *![](beige/090623ecpd4904m3.jpg)  
@@ -63,11 +50,11 @@ Changi, Aug 12*
 *![](beige/070714bbd3972m3.jpg)  
 Beting Bronok, Jun 10![](beige/070714bbd3972m3a.jpg)*
 
-*![](beige/050822cjg2070m3.jpg)*[Flatworm](../worm/polycladida/indicus.htm) on the ascidian. *![](beige/050822cjg2070m3b.jpg)  
+*![](beige/050822cjg2070m3.jpg)*[Flatworm](../worm/polycladida/indicus) on the ascidian. *![](beige/050822cjg2070m3b.jpg)  
 Chek Jawa, Aug 05*
 
 *![](beige/101221tmfts02262m6l.jpg)*[These
-flatworms](../worm/polycladida/ascidianbeige.htm) were seen on Beige sheet
+flatworms](../worm/polycladida/ascidianbeige) were seen on Beige sheet
 ascidians growing beneath a stone. *Tanah Merah, Dec 10*
 
   
@@ -97,9 +84,9 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 - Serina S-C Lee, Janlin Y-H Chan, Serena L-M Teo & Gretchen Lambert. *State of knowledge of ascidian diversity in South China Sea and new records for Singapore*. 29 June 2016. Raffles Bulletin of Zoology Supplement No. 34: 718–743.
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

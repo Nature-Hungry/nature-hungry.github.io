@@ -4,23 +4,10 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "toddycat, palm, civet, cat, paradoxurus, hermaphroditus, viverridae, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 vertebrates [text
-index](../vertindex.htm) | [photo index](../vertfi.htm)
+index](../vertindex) | [photo index](../vertfi)
 Phylum Chordata
 > Subphylum Vertebrata > Class Mammalia
 **Common palm civet  
@@ -77,11 +64,11 @@ the sap collected from palm trees, the same sap used to make the alcoholic
 drink called 'toddy'. The Toddycat and Palm leaf is part of the logo
 of the Raffles Museum of Biodiversity Research (RMBR) at the National
 University of Singapore. Here's [more
-about the logo](http://rmbr.nus.edu.sg/toddycats/toddycat.html). The Malay name for it is 'musang'.  
+about the logo](http://rmbr.nus.edu.sg/toddycats/toddycatl). The Malay name for it is 'musang'.  
   
 **Civet-processed coffee:** 'Kopi
 Luwak' is a type of expensive gourmet coffee made from coffee beans
-that have been 'processed' by a civet cat. In nature, the civet cat eats [coffee beans](../../plants/fruittrees/coffea/coffea.htm), among many other natural food. The coffee beans
+that have been 'processed' by a civet cat. In nature, the civet cat eats [coffee beans](../../plants/fruittrees/coffea/coffea), among many other natural food. The coffee beans
 which are excreted by the civet cat are collected to be made into coffee for humans
 to drink. Unfortunately, growing demand has resulted in cruel abuse of
 civet cats to produce this coffee. The civet cats are caged, fed nothing but coffee beans and poorly looked after. **Please do NOT support Kopi Luwak!** More details on the [Project
@@ -105,7 +92,7 @@ interaction with wildlife as we encroach on and destroy wild habitats.
 name *hermaphroditus* came about because both males and females
 have scent glands underneath the tail that resemble testicles. A noxious
 secretion is sprayed from these glands.[The
-durian](../../plants/fruittrees/durio/zibethinus.htm) is sometimes called the civet cat fruit because it too
+durian](../../plants/fruittrees/durio/zibethinus) is sometimes called the civet cat fruit because it too
 smells bad.
 
 *![](hermaphroditus/071028cjd7391m6l.jpg)* *Chek
@@ -133,25 +120,25 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 - [Paradoxurus
   hermaphroditus](http://www.iucnredlist.org/details/41693/0) on the IUCN Red List website..
 - [Common
-  Palm Civet](http://www.ecologyasia.com/verts/mammals/common_palm_civet.htm) on Nick Baker's EcologyAsia website: fact sheet
+  Palm Civet](http://www.ecologyasia.com/verts/mammals/common_palm_civet) on Nick Baker's EcologyAsia website: fact sheet
   with photos.
 - [Common
-  Palm Civet](http://www.wildsingapore.per.sg/discovery/factsheet/civetpalm.htm) on Chan Kwok Wai's Wildlife Singapore website:
+  Palm Civet](http://www.wildsingapore.per.sg/discovery/factsheet/civetpalm) on Chan Kwok Wai's Wildlife Singapore website:
   fact sheet with photos.
-- [*Paradoxurus hermaphroditus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Paradoxurus%20hermaphroditus.html) (Carnivora: Viverridae) Common Palm Civet by Alicia Ng Chiew Rong, 2015, on taxo4254
+- [*Paradoxurus hermaphroditus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Paradoxurus%20hermaphroditusl) (Carnivora: Viverridae) Common Palm Civet by Alicia Ng Chiew Rong, 2015, on taxo4254
 - [Common Palm Civets of Singapore](https://www.facebook.com/singaporecivet/) facebook page.
 - [Project
   LUWAK SG facebook page](https://www.facebook.com/projectluwaksg?fref=ts): Love oUr Wild civets, Avoid Kopi luwak.
   A movement aimed at generating awareness about the kopi luwak
   trade in Singapore.
 - [A
-  furry encounter](http://wildshores.blogspot.com/2009/07/tgif-furry-encounter.html) with a baby civet cat hand raised by Adelle
+  furry encounter](http://wildshores.blogspot.com/2009/07/tgif-furry-encounterl) with a baby civet cat hand raised by Adelle
   on the wild shores of singapore blog.
 - [Raining
-  cats at Chek Jawa](http://wildfilms.blogspot.com/2007/10/raining-cats-at-chek-jawa.html) an encounter with a civet cat on the wildfilms
+  cats at Chek Jawa](http://wildfilms.blogspot.com/2007/10/raining-cats-at-chek-jawal) an encounter with a civet cat on the wildfilms
   blog.
 - [The
-  great 'musang' stakeout](http://wildsingaporenews.blogspot.com/2009/11/great-musang-stakeout.html) The aim: To observe the Toddy Cat's
+  great 'musang' stakeout](http://wildsingaporenews.blogspot.com/2009/11/great-musang-stakeoutl) The aim: To observe the Toddy Cat's
   population size and habits Ang Yiying, Straits Times 30 Nov 09
   on the wildsingapore news blog.
 
@@ -176,14 +163,4 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 FREE photos of [mammals](http://www.flickr.com/photos/54527470@N00/sets/72157600258172269).
 Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

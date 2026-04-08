@@ -4,27 +4,14 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "giant, reef, bristle, worm, eunice, aphroditois, eunicid, bristleworm, polychaete, annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 worms
-[text index](../wormindex.htm) | [photo
-index](../wormfi.htm)
+[text index](../wormindex) | [photo
+index](../wormfi)
 
-[worms](../worm.htm) > Phylum Annelida >
-Class [Polychaeta](polychaeta.htm)
+[worms](../worm) > Phylum Annelida >
+Class [Polychaeta](polychaeta)
 
 **Giant
 reef worm*****Eunice aphroditois\**   
@@ -41,8 +28,8 @@ like an impossibly huge and scary centipede! But it is shy and will
 hide at the slightest sign of danger, and is more active at night.   
   
 **What are giant reef worms?** They
-are segmented [worms](../worm.htm) belonging to the Family
-Eunicidae, Class [Polychaeta](polychaeta.htm), Phylum Annelida.
+are segmented [worms](../worm) belonging to the Family
+Eunicidae, Class [Polychaeta](polychaeta), Phylum Annelida.
 The polychaetes include bristleworms, and Phylum Annelida includes
 the more familiar earthworm. Eunicid worms are commonly encountered
 on all our shores. They range from tiny ones only 1cm or shorter but
@@ -81,8 +68,8 @@ a mouthful of seaweed.
 eat seaweed. It creeps cautiously out of its hiding place then quickly
 snatches a mouthful before retracting back instantly. Among the seaweeds
 we have observed being gathered by the worm include: [Hairy
-green seaweed](../../plants/seaweed/chlorophyta/bryopsis.htm) (*Bryopsis* sp.) and [Sargassum
-seaweed](../../plants/seaweed/phaeophyta/sargassum.htm) (*Sargassum* sp.). Although it seems to have ferocious
+green seaweed](../../plants/seaweed/chlorophyta/bryopsis) (*Bryopsis* sp.) and [Sargassum
+seaweed](../../plants/seaweed/phaeophyta/sargassum) (*Sargassum* sp.). Although it seems to have ferocious
 jaws, these are probably used more to ensure a good grip on the food
 item. They have not been observed eating animals.   
   
@@ -130,7 +117,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 ![](giant/140518tmlks2m3.JPG)  
 *Tanah Merah, May 14*Photo
 shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2014/05/coral-overdose-at-tanah-merah.html).
+blog](http://wondercreation.blogspot.com/2014/05/coral-overdose-at-tanah-merahl).
 
 ![](giant/251108ecpblks8.jpg)  
 *East Coast Park (B), Nov 25*Photo
@@ -165,7 +152,7 @@ shared by Tammy Lim on [facebook](https://www.facebook.com/media/set/?set=a.1016
 *![](giant/070801kuslks01m3.jpg)  
 Kusu Island, Aug 07*Photo
 shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2007/08/anemones-co-at-kusu.html).
+blog](http://wondercreation.blogspot.com/2007/08/anemones-co-at-kusul).
 
 ---
 
@@ -176,7 +163,7 @@ shared by Jianlin Liu on [facebook](https://www.facebook.com/photo.php?fbid=1015
 *![](giant/090628lazlt1m3.jpg)  
 Lazarus Island, Jun 09*Photo
 shared by Liana Tang on [her
-blog](http://nearly-lucid.blogspot.com/2009/07/rock-and-reflexology-on-lazarus-island.html).
+blog](http://nearly-lucid.blogspot.com/2009/07/rock-and-reflexology-on-lazarus-islandl).
 
 ![](giant/240528tsllks5.jpg)  
 *Terumbu Selegie, May 24*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161378187758158).
@@ -198,7 +185,7 @@ Pulau Hantu, Jun 24*Photo shared by Kelvin Yong on [facebook](https://www.facebo
 *![](giant/090626cyrjk1m3.jpg)  
 Cyrene Reef, Jun 09*Photo
 shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/06/cyrene-blue-dragons-in-grass.html).
+blog](http://sgn090608.blogspot.com/2009/06/cyrene-blue-dragons-in-grassl).
 
 ![](giant/250726cyrjt3.jpg)  
 *Cyrene, Jul 25*Photo shared by Jonathan Tan on [facebook](https://www.facebook.com/media/set/?set=a.10162605146328119&type=3&ref=embed_post).
@@ -261,19 +248,19 @@ History Museum of Los Angeles County](http://www.nhm.org/) for comments about th
 worms. **Links**  
 
 - [Family
-  Eunicidae "rockworms"](http://rmbr.nus.edu.sg/polychaete/Eunicidae.html) on [A
+  Eunicidae "rockworms"](http://rmbr.nus.edu.sg/polychaete/Eunicidael) on [A
   Guide to Singapore Polychaetes](http://rmbr.nus.edu.sg/polychaete/) by Lim Yun Ping 1997-2000 on
   the Raffles Museum of Biodiversity Research website: fact sheets
   and photos of polychaetes found in Singapore.
 - [*Eunice
-  aphroditois*](http://www.mesa.edu.au/friends/seashores/e_aphroditois.html) on [Life
-  on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1.html) by Keith Davey on the Marine Education
+  aphroditois*](http://www.mesa.edu.au/friends/seashores/e_aphroditoisl) on [Life
+  on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1l) by Keith Davey on the Marine Education
   Society of Australia website: an introduction to worms (annelids,
   sipunculids) with explanations of the major parts of their bodies
   and their lifestyles. Check out the animation of a [predatory
-  annelid worm catching its prey](http://www.mesa.edu.au/friends/seashores/worm_feeds.html).
+  annelid worm catching its prey](http://www.mesa.edu.au/friends/seashores/worm_feedsl).
 - [Giant
-  worm discovered in UK aquarium](http://wildshores.blogspot.com/2009/03/giant-worm-discovered-in-uk-aquarium.html) on the wild shores of singapore
+  worm discovered in UK aquarium](http://wildshores.blogspot.com/2009/03/giant-worm-discovered-in-uk-aquariuml) on the wild shores of singapore
   blog.
 
 **References**
@@ -295,14 +282,4 @@ worms. **Links**
   (Ed.) et al. 2000. *Polychaetes and Allies: The Southern Synthesis*
   Australian Biological Resources Study, Canberra. 465pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

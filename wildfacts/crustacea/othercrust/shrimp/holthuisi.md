@@ -4,28 +4,28 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "five, spot, anemone, shrimp, ancylomenes, holthuisi, palaemonidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 shrimps [text
-index](../../crustaceaindex.htm#shrimps) | [photo index](../../shrimpfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> [prawns and shrimps](shrimp.htm) >   
-Family [Palaemonidae](palaemonidae.htm)
+index](../../crustaceaindex#shrimps) | [photo index](../../shrimpfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> [prawns and shrimps](shrimp) >   
+Family [Palaemonidae](palaemonidae)
 **'Gelek'
 anemone shrimp**  
 ***Ancylomenes holthuisi*****Family Palaemonidae***updated
@@ -52,7 +52,7 @@ and may feed on left overs. The shrimps have often been seen "hanging"
 over the edge of their anemone home with their pincers extended.
 
 ![](holthuisi/130626chgd8870m6la.jpg)  
-Seen in a [Haddon's carpet anemone](../../../cnidaria/actiniaria/haddoni.htm). *Changi, Aug 13*
+Seen in a [Haddon's carpet anemone](../../../cnidaria/actiniaria/haddoni). *Changi, Aug 13*
 
 ![](holthuisi/130626chgd8741m3.jpg)  
 Seen in a Haddon's carpet anemone. *Changi, Aug 13*
@@ -75,7 +75,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 ---
 
 ![](holthuisi/110802smkmn.jpg)  
-Seen in a [Magnificent anemone](../../../cnidaria/actiniaria/magnifica.htm). *Pulau Semakau, Aug 11*  
+Seen in a [Magnificent anemone](../../../cnidaria/actiniaria/magnifica). *Pulau Semakau, Aug 11*  
 Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/6001964272/in/photolist-a9jPDK-a9nCSC).
 
 ---
@@ -92,9 +92,9 @@ to Marcus Ng for sharing the identity of this shrimp
 
 - Toh Chay Hoon. 20 December 2013. *Shrimps and saddleback anemonefish on carpet anemone off Pulau Hantu: Holthuis’s anemone shrimp, Periclimenes holthuisi and Saddleback anemonefish, Amphiprion polymnus*. Singapore Biodiversity Records 2013: 126-127.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

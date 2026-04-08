@@ -4,28 +4,28 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "keyhole, sand, dollar, clypeasteroida, astriclypeidae, echinodiscus, truncatus, bisperforatus, echinoidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 echinoids
-[text index](../../echinodermindex.htm#echinoidea) |
-[photo index](../../echinoideafi1.htm)
+[text index](../../echinodermindex#echinoidea) |
+[photo index](../../echinoideafi1)
 Phylum
-[Echinodermata](../../echinodermata.htm) > Class [Echinodea](../echinoidea.htm)
+[Echinodermata](../../echinodermata) > Class [Echinodea](../echinoidea)
 > Order
-[Clypeasteroida](sandollar.htm)
+[Clypeasteroida](sandollar)
 **Keyhole
 sand dollar  
 *Echinodiscus* sp.Family Astriclypeidae***updated Mar 2020*
@@ -35,7 +35,7 @@ sand dollar
 **Where
 seen?** This large sand dollars with slots is sometimes seen
 sandy areas near seagrasses on Chek Jawa and Changi. It is not found
-in large groups like the [Cake sand dollar](arachnoides.htm),
+in large groups like the [Cake sand dollar](arachnoides),
 usually alone. It was previously known as *Echinodiscus bisperforatus*.  
   
  **Features:** Body diameter 8-10cm, somewhat polygonal,
@@ -109,11 +109,11 @@ keyhole sand dollar. *Tanah Merah, Feb 09*
 ![](echinodiscus/080603tmlks01m3.jpg)  
 *East Coast Park,
 Jun 08*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2008/06/sandflat-at-tanah-merah.html).
+blog](http://wondercreation.blogspot.com/2008/06/sandflat-at-tanah-merahl).
 
 ![](echinodiscus/121214chgelks.JPG)  
 *Changi East, Dec 12*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2012/12/breathtaking-trip-to-lost-coast.html).
+blog](http://wondercreation.blogspot.sg/2012/12/breathtaking-trip-to-lost-coastl).
 
 ---
 
@@ -143,7 +143,7 @@ Cyrene, Nov 24*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.
   know about sand dollars and sea urchins with lots of large close-up
   images and explanatory diagrams. With descriptions of [*Echinodiscus.*](http://www.nhm.ac.uk/research-curation/research/projects/echinoid-directory/taxa/taxon.jsp?id=846)
 - [*Echinodiscus
-  bisperforatus*](http://www.sealifebase.org/summary/Echinodiscus-bisperforatus.html) on SeaLife Base: Technical fact sheet.
+  bisperforatus*](http://www.sealifebase.org/summary/Echinodiscus-bisperforatusl) on SeaLife Base: Technical fact sheet.
 
 **References**
 
@@ -156,9 +156,9 @@ Cyrene, Nov 24*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.
   Red Data Book: Threatened plants and animals of Singapore*.
   Nature Society (Singapore). 285 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

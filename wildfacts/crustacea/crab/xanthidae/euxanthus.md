@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "lumpy, rock, crab, euxanthus, exsculptus, xanthidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> Brachyurans > Family [Xanthidae](xanthidae.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> Brachyurans > Family [Xanthidae](xanthidae)
 **Lumpy
 rock crab   
 *Euxanthus exsculptus***  
@@ -98,7 +98,7 @@ Cyrene, Sep 22*Photo shared by Che Cheng Neo on [facebook](https://www.facebook.
 Kusu Island, Aug 23![](euxanthus/230901kuslks1a.jpg)*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10160894359833158&set=a.10160894366868158).
 
 *![](euxanthus/130210bsislks.JPG)  
-Sisters Island, Feb 13![](euxanthus/130210bsislksa.JPG)*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2013/02/cny-day-1-big-sisters-island.html).
+Sisters Island, Feb 13![](euxanthus/130210bsislksa.JPG)*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2013/02/cny-day-1-big-sisters-islandl).
 
 *![](euxanthus/161117rlhlks10.jpg)  
 Raffles Lighthouse, Nov 16![](euxanthus/161117rlhlks11.jpg)*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10154735020723158.1073741927.547198157&type=3).
@@ -115,9 +115,9 @@ Raffles Lighthouse, Nov 16![](euxanthus/161117rlhlks11.jpg)*Photo shared by Loh 
   exsculptus*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1223) in Crabs of Japan on Marine Species Indentification
   Portal" Technical fact sheet.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

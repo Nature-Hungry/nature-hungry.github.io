@@ -4,21 +4,6 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](index.html)
-| [search](../search.htm)
-
 **Photo
 index of marine life on Singapore shores**
   
@@ -29,69 +14,69 @@ index of marine life on Singapore shores**
 sheets and other flat shapes  
 
 ![](../plants/seaweed/chlorophyta/avrerecta/040703sisd1798m.jpg)  
-**[seaweed](../plants/seaweed/chlorophytafi4.htm)**
+**[seaweed](../plants/seaweed/chlorophytafi4)**
 
 ![](../echinodermata/echinoidea/sandollar/echinodiscus/050206cjd9966m.jpg)  
 [**sand
-dollar**](../echinodermata/echinoideafi1.htm)
+dollar**](../echinodermata/echinoideafi1)
 
 ![](../echinodermata/echinoidea/sandollar/arachnoides/030927cjd0033m.jpg)  
 [**sand
-dollar**](../echinodermata/echinoideafi1.htm)
+dollar**](../echinodermata/echinoideafi1)
 
 ![](../echinodermata/echinoidea/sandollar/arachnoides/030927cjd0053m.jpg)  
 [**sand
-dollar**](../echinodermata/echinoideafi1.htm)
+dollar**](../echinodermata/echinoideafi1)
 
 ![](../mollusca/bivalvia/ostreidae/plain/041031cjd7933m.jpg)  
-[**oysters**](../mollusca/bivalviafi4.htm)
+[**oysters**](../mollusca/bivalviafi4)
 
 ![](../mollusca/bivalvia/anomiidae/enigmonia/020615sltard0555m.jpg)  
-[**clam**](../mollusca/bivalviafi4.htm)
+[**clam**](../mollusca/bivalviafi4)
 
 ![](../mollusca/bivalvia/anomiidae/understone/020616cjd0734m.jpg)  
-[**clam**](../mollusca/bivalviafi4.htm)
+[**clam**](../mollusca/bivalviafi4)
 
 ![](../arthropoda/limulidae/tachypleus/050511cftd3272m.jpg)  
 **[horseshoe
-crab](../arthropoda/limulidae/limulidae.htm)**
+crab](../arthropoda/limulidae/limulidae)**
 
 ![](../cnidaria/coralhard/fungiidae/circular/031224sisd0154m.jpg)  
 **[hard
-coral](../cnidaria/coralhardfi10.htm)**
+coral](../cnidaria/coralhardfi10)**
 
 ![](../cnidaria/coralhard/fungiidae/polyphyllia/050312hntg3321mb.jpg)  
 **[hard
-coral](../cnidaria/coralhardfi10.htm)**
+coral](../cnidaria/coralhardfi10)**
 
 ![](../cnidaria/coralhard/fungiidae/herpolitha/040606kusg0472m.jpg)  
 **[hard
-coral](../cnidaria/coralhardfi10.htm)**
+coral](../cnidaria/coralhardfi10)**
 
 ![](../cnidaria/coralhard/acroporidae/monplate/050625labg8644m.jpg)  
 **[hard
-coral](../cnidaria/coralhardfi5.htm)**
+coral](../cnidaria/coralhardfi5)**
 
 ![](../mollusca/bivalvia/pinnidae/pinnidae/050511cftg6307ma.jpg)  
-**[clam](../mollusca/bivalviafi2.htm)**
+**[clam](../mollusca/bivalviafi2)**
 
 ![](../mollusca/bivalvia/malleidae/malleus/090109cyrd4647m.jpg)  
-**[clam](../mollusca/bivalviafi2.htm)**
+**[clam](../mollusca/bivalviafi2)**
 
 ![](../arthropoda/limulidae/carcinoscopius/050726chgg0355m.jpg)  
 [**horseshoe
-crab**](../arthropoda/arthropodafi.htm)
+crab**](../arthropoda/arthropodafi)
 
 ![](../mollusca/cephalopoda/cepeggs/030329cjd0083m.jpg)  
-[**cuttlebone**](../mollusca/cephalopoda/sepiidae.htm)
+[**cuttlebone**](../mollusca/cephalopoda/sepiidae)
 
 ---
 
 how to tell apart
 
 - [long mushroom
-  hard corals](../cnidaria/coralhard/fungiidae/cflong.htm)
-- [shelled animals found on rocks](limpetbarnacle.htm)
+  hard corals](../cnidaria/coralhard/fungiidae/cflong)
+- [shelled animals found on rocks](limpetbarnacle)
 
   
   
@@ -104,41 +89,41 @@ lifeforms on this site
 by shape
 
 [general
-photo index](../photoindex.htm)  
+photo index](../photoindex)  
   
-[ball-shaped](fiball.htm)  
+[ball-shaped](fiball)  
   
-[blobs](fiblobs.htm)   
+[blobs](fiblobs)   
   
-[branching](fibranching.htm)  
+[branching](fibranching)  
   
-[bristley](fibristley.htm)  
+[bristley](fibristley)  
   
-[encrusting](fiencrusting.htm)  
+[encrusting](fiencrusting)  
   
-[feathery](fifeathery.htm)  
+[feathery](fifeathery)  
   
-[flat flexible](fiflatflexi.htm)   
+[flat flexible](fiflatflexi)   
   
 flat stiff   
   
-[hairy](fihairy.htm)  
+[hairy](fihairy)  
   
-[leafy](fileafy.htm)  
+[leafy](fileafy)  
   
-[ribbon-like](firibbon.htm)  
+[ribbon-like](firibbon)  
   
-[sausage-like](fisausage.htm)  
+[sausage-like](fisausage)  
   
-[snake-like](fisnake.htm)   
+[snake-like](fisnake)   
   
-[stick-like](fistick.htm)   
+[stick-like](fistick)   
   
-[worm-like](fiworm.htm)
+[worm-like](fiworm)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

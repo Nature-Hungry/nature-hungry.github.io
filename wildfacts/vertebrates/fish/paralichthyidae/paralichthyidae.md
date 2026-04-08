@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "large, tooth, flat, fish, flatfish, flounder, paralichthyidae, pleuronectiformes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Order [Pleuronectiformes](../pleuronectiformes/pleuronectiformes.htm)
+> Subphylum Vertebrate > [fishes](../fish) >
+Order [Pleuronectiformes](../pleuronectiformes/pleuronectiformes)
 **Large-tooth
 flounders**   
 **Family Paralichthyidae***updated
@@ -40,7 +40,7 @@ beneath the sand. Watch your step!
   
 **Where
 seen?** These large flatfishes are seen on some of our shores,
-on sandy areas near seagrasses or near coral reefs. **What are large-tooth flounders?** Large-tooth flounders are [flatfishes](../pleuronectiformes/pleuronectiformes.htm) belonging to the Family Paralichthyidae (they were previously placed
+on sandy areas near seagrasses or near coral reefs. **What are large-tooth flounders?** Large-tooth flounders are [flatfishes](../pleuronectiformes/pleuronectiformes) belonging to the Family Paralichthyidae (they were previously placed
 in Family Bothidae). According to [FishBase](http://fishbase.sinica.edu.tw/Summary/FamilySummary.cfm?ID=514):
 the family has 16 genera and 86 species. They are found in the Atlantic,
 Indian and Pacific oceans.   
@@ -56,10 +56,10 @@ living fish). The mouth is large, filled with teeth and many have
 enlarged canine teeth. The eyed side is usually speckled with spots
 of various sizes and matches the colour of its sandy surroundings.  
   
-**Sometimes confused with** other [flatfishes](../pleuronectiformes/pleuronectiformes.htm).
-The [Oriental sole](../soleidae/orientalis.htm) looks very similar but it is right-eyed. The [Three-spot flounder](../bothidae/polyophthalmus.htm) looks similar, is left-eyed too, but is more circular and has three large spots. Here's more
+**Sometimes confused with** other [flatfishes](../pleuronectiformes/pleuronectiformes).
+The [Oriental sole](../soleidae/orientalis) looks very similar but it is right-eyed. The [Three-spot flounder](../bothidae/polyophthalmus) looks similar, is left-eyed too, but is more circular and has three large spots. Here's more
 on [how to tell
-apart the flatfish families](../pleuronectiformes/pleuronectiformes1.htm) commonly seen.
+apart the flatfish families](../pleuronectiformes/pleuronectiformes1) commonly seen.
 
 ![](paralichthyidae/060711cftd3957m3.jpg)  
 Some species have a white patch   
@@ -107,7 +107,7 @@ Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo?fbid=1015
 
 ![](paralichthyidae/110520chgjk2m3.jpg) *Changi, May 11*Photo
 shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2011/05/110520-changi-beach.html).
+blog](http://sgn090608.blogspot.com/2011/05/110520-changi-beachl).
 
 ---
 
@@ -178,7 +178,7 @@ shared by Jianlin Liu on [facebook](https://www.facebook.com/photo.php?fbid=1015
 
 ![](paralichthyidae/100711cyrjk7m3.jpg)  
 *Cyrene Reef, Jul 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/07/100711-cyrene-reef.html)
+blog](http://sgn090608.blogspot.com/2010/07/100711-cyrene-reefl)
 
 ![](paralichthyidae/230423cyrlks3.jpg)  
 *Cyrene Reef, Apr 23*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10160612791043158&set=a.10160612798858158).
@@ -210,7 +210,7 @@ Pseudorhombus polyspilos*
 **Links**  
 
 - [Largetooth
-  Flounder (*Pseudorhombus arsius*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/384.htm) Lim, Kelvin K. P. &
+  Flounder (*Pseudorhombus arsius*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/384) Lim, Kelvin K. P. &
   Jeffrey K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
@@ -226,7 +226,7 @@ Pseudorhombus polyspilos*
   Technical fact sheet on the family and fact sheets on individual
   species.
 - [Volume
-  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.htm) FAO Species
+  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
   Identification Guide for Fishery Purposes The Living Marine Resources
   of the Western Central Pacific.
 
@@ -244,9 +244,9 @@ Pseudorhombus polyspilos*
   & Fishermen*
   New Holland Publishers. 434pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

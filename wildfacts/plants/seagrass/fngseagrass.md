@@ -9,26 +9,26 @@ layout: default
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../index.html)  
+[wildfactsheets homepage](../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![talking points for nature guides](../../../Templates/fornatureguides.gif)](../../forguides/index.html)
+[![talking points for nature guides](../../../Templates/fornatureguides.gif)](../../forguides/indexl)
 
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
+[all animals](../../animals)
+| [all plants](../../plants)
+| [concepts](../../concepts/indexl)
+| [glossary](../../glossary/indexl)
+| [search](../../search)
 
 seagrasses
-[text index](seagrassindex.htm) | [photo
-index](seagrassfi.htm)
+[text index](seagrassindex) | [photo
+index](seagrassfi)
 
-[Seagrasses](seagrass.htm)
+[Seagrasses](seagrass)
 in general
 [index
-to talking points](../../forguides/index.html) for nature guides
+to talking points](../../forguides/indexl) for nature guides
 **For
 nature guides: introducing seagrasses**  
 *updated
@@ -149,7 +149,7 @@ myths to dispel**
   of seagrasses for their nutrient cycling services and the raw
   product they provide has been estimated at US$19,000 per hectare
   per year (1994). This value would be significantly greater if
-  the other services of seagrasses were included." from [Seagrass-Watch](http://www.seagrasswatch.org/seagrass.html)
+  the other services of seagrasses were included." from [Seagrass-Watch](http://www.seagrasswatch.org/seagrassl)
 
 **Handling
 tips**  
@@ -180,14 +180,4 @@ Make your own badge [here](http://www.flickr.com/badge.gne).
 **You CAN make a difference for Singapore's
 seagrasses!**[![](../../../Templates/teamsg.jpg)](http://teamseagrass.blogspot.com/)
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

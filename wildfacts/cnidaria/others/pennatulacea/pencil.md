@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "pencil, pen, seapen, lituaria, veretillidae, pennatulacea, anthozoa, cnidaria, pteroides, cavernularia, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 sea pens [text
-index](../../cnidariaindex.htm#pennatulacea) | [photo index](../../pennatulaceafi.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Alcyonaria/Octocorallia > Order [Pennatulacea](pennatulacea.htm)
+index](../../cnidariaindex#pennatulacea) | [photo index](../../pennatulaceafi)
+Phylum [Cnidaria](../../cnidaria)
+> Class [Anthozoa](../../anthozoa) > Subclass
+Alcyonaria/Octocorallia > Order [Pennatulacea](pennatulacea)
 **Sea
 pencil**   
 ***Lituaria* sp.****Family Veretillidae**   
@@ -54,16 +54,16 @@ Changi, May 11*.![](pencil/050722cjg9824m3b.jpg) *Chek Jawa, Jul 05*
 ![](pencil/060502cftd1783m3a.jpg)*Skeleton
 of the central stalk *Changi, May 06*
 
-**Pencil snacks?** The [Armina nudibranch](../../../mollusca/slugs/nudibranchia/bumpyface.htm) eats sea pens, and sometimes, they can be seen near sea pencils.
+**Pencil snacks?** The [Armina nudibranch](../../../mollusca/slugs/nudibranchia/bumpyface) eats sea pens, and sometimes, they can be seen near sea pencils.
 
 ![](../../../crustacea/othercrust/anomura/porcellanidae/picta/071002chngtch.jpg)  
-[Painted porcelain crab](../../../crustacea/othercrust/anomura/porcellanidae/picta.htm) seen on a Sea pencil. *Changi, Oct 07*Photo shared by Toh Chay Hoon on [flickr](https://www.flickr.com/photos/ilmare77/1485157754/).
+[Painted porcelain crab](../../../crustacea/othercrust/anomura/porcellanidae/picta) seen on a Sea pencil. *Changi, Oct 07*Photo shared by Toh Chay Hoon on [flickr](https://www.flickr.com/photos/ilmare77/1485157754/).
 
-*![](../../../mollusca/slugs/nudibranchia/bumpyface/050622chgg8137m3.jpg)*[Armina nudibranch](../../../mollusca/slugs/nudibranchia/bumpyface.htm) next to a sea pencil*.  
+*![](../../../mollusca/slugs/nudibranchia/bumpyface/050622chgg8137m3.jpg)*[Armina nudibranch](../../../mollusca/slugs/nudibranchia/bumpyface) next to a sea pencil*.  
 Changi, Jun 05*
 
 ![](../../../mollusca/slugs/nudibranchia/semperi/200722chgtch1.jpg)  
-[Armina nudibranchs](../../../mollusca/slugs/nudibranchia/semperi.htm) next to a Sea pencil. *Changi, Jul 20*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo.php?fbid=10158679096808713&set=a.10158679165568713&type=3&theater).
+[Armina nudibranchs](../../../mollusca/slugs/nudibranchia/semperi) next to a Sea pencil. *Changi, Jul 20*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo.php?fbid=10158679096808713&set=a.10158679165568713&type=3&theater).
 
   
 *\*Species
@@ -103,13 +103,13 @@ flickr](http://www.flickr.com/photos/koksheng/3841568723/).
 Tanah Merah Ferry Terminal, Jun 15*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10153416967613158.1073741882.547198157&type=3).
 
 *![](pencil/141224tusmn4m3.jpg)  
-Tuas, Dec 14*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/12/tuas-shore-with-stars-surprise.html).
+Tuas, Dec 14*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/12/tuas-shore-with-stars-surprisel).
 
 ---
 
 **Acknoweldgements**  
 Grateful thanks to
-[Dr. Bjorn Berning and Dr Dennis P. Gordon](http://wildshores.blogspot.sg/2013/11/singapores-sea-pencil-helps-solve.html) for identifying this sea pen.  
+[Dr. Bjorn Berning and Dr Dennis P. Gordon](http://wildshores.blogspot.sg/2013/11/singapores-sea-pencil-helps-solvel) for identifying this sea pen.  
   
 **Links**
 
@@ -123,9 +123,9 @@ Grateful thanks to
   Harry and Daniel Knop. 2005. *Corals:
   Indo-Pacific Field Guide* IKAN-Unterwasserachiv, Frankfurt. 305 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,27 +4,10 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "intertidal, zone, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[![](../../Templates/fornatureguides.gif)](../forguides/index.html)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
-[index](index.html)
+[index](indexl)
 of concepts
-[tides](tides.htm)
-| intertidal zone | [zonation](zonation.htm) | [ecosystems](ecosystems.htm)
+[tides](tides)
+| intertidal zone | [zonation](zonation) | [ecosystems](ecosystems)
 **What
 is an intertidal zone?***updated
 Dec 2019*
@@ -35,7 +18,7 @@ At the edge of
 land and sea, there is a zone that is submerged at high tide, but
 is dry and exposed to air at low tide. This coastal area affected
 by the tides is called the intertidal zone. More [about
-the tides](tides.htm).  
+the tides](tides).  
   
 This intertidal zone is rich in life because high concentrations of
 nutrients flow from the land. Sunlight penetrates the shallow waters,
@@ -69,22 +52,22 @@ The intertidal zone is often busier after the sun sets, when it's
 cool and dark.  
   
 The influence of the tides results in zones of different lifeforms
-on a sea shore. [More about zonation](zonation.htm).
+on a sea shore. [More about zonation](zonation).
 
 ![](../crustacea/crab/ocypodoidea/dotilla/070616cjg0403m3.jpg)  
-[Soldier crab](../crustacea/crab/ocypodoidea/dotilla.htm)
+[Soldier crab](../crustacea/crab/ocypodoidea/dotilla)
 burrowing into the sand   
 just before the tide comes in.   
 *Chek Jawa, Jun 07*
 
 ![](../cnidaria/actiniaria/haddoni/060711chgd3968m3.jpg)  
-A [carpet anemone](../cnidaria/actiniaria/haddoni.htm)
+A [carpet anemone](../cnidaria/actiniaria/haddoni)
 submerged   
 in water with anemone shrimp.  
 *Changi, Jul 06*
 
 ![](../cnidaria/actiniaria/haddoni/020225cjd7429m3.jpg)  
-A [carpet anemone](../cnidaria/actiniaria/haddoni.htm)
+A [carpet anemone](../cnidaria/actiniaria/haddoni)
 exposed at low tide  
 *Chek Jawa, Feb 02*
 
@@ -92,14 +75,14 @@ exposed at low tide
 spring and neap tides profoundly influences life on the intertidal
 zone. For example, eggs and larvae are usually released at spring
 tide so that they can be carried far out to sea. [More
-about the tides](tides.htm) and what causes them.   
+about the tides](tides) and what causes them.   
   
 The slope of a shore determines the extent of the intertidal zone.
 A gentle gradient means a larger area is affected by the tides. Such
 large shallow areas allows a wider variety of ecosystems and thus
 richer biodiversity.   
   
-Unfortunately, such shallow areas are among the first to be buried  [by reclamation](loss.htm). The resulting reclaimed shore
+Unfortunately, such shallow areas are among the first to be buried  [by reclamation](loss). The resulting reclaimed shore
 is often steeply sloping with a narrow intertidal, or bound by seawalls.
 But some marvelous natural intertidal areas have escaped development.
 While some man-made lagoons and seawalls are slowly being recolonised
@@ -112,33 +95,33 @@ sunrise. (Thus, the intertidal is not often exposed to full sun at
 low spring tide. This perhaps is one reason why Singapore's intertidal
 is so rich.) Nevertheless, enjoyable exploration is possible on some
 not-so-low tides during daylight, when guided shore walks are held
-at various locations. [More about the tides](tides.htm) and visiting our shores.
+at various locations. [More about the tides](tides) and visiting our shores.
 
 ---
 
 **Links**
 
 - [Seashore
-  environment](http://mangrove.nus.edu.sg/pub/seashore/text/002.htm)
+  environment](http://mangrove.nus.edu.sg/pub/seashore/text/002)
   Tan, Leo W. H. & Ng, Peter K. L., 1988. *A Guide to Seashore
   Life*. The Singapore Science Centre, Singapore. 160 pp
 - [Tide
-  Levels](http://www.mesa.edu.au/friends/seashores/tide_levels.html) on [Life
-  on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1.html) by Keith Davey on the Marine Education
+  Levels](http://www.mesa.edu.au/friends/seashores/tide_levelsl) on [Life
+  on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1l) by Keith Davey on the Marine Education
   Society of Australia website: about tides and how tide heights
   affect zonation.
 - [What
-  causes some tides to be 'plus tides' or 'minus tides'?](http://www.madsci.org/posts/archives/apr2002/1019251356.Es.r.html) on
+  causes some tides to be 'plus tides' or 'minus tides'?](http://www.madsci.org/posts/archives/apr2002/1019251356.Es.rl) on
   the [Mad Scientist](http://www.madsci.org/) website:
   Rob Campbell explains with lots of diagrams.
 - On the wild shores of singapore
   blog
   - [What's
-    behind the fresh smell of the sea?](http://wildshores.blogspot.com/2009/08/whats-behind-fresh-smell-of-sea.html).
+    behind the fresh smell of the sea?](http://wildshores.blogspot.com/2009/08/whats-behind-fresh-smell-of-seal).
   - [The
-    ocean's mysterious skin](http://wildshores.blogspot.com/2009/07/oceans-mysterious-skin.html)
+    ocean's mysterious skin](http://wildshores.blogspot.com/2009/07/oceans-mysterious-skinl)
   - [What
-    is seawater?](http://wildshores.blogspot.com/2009/07/what-is-seawater.html)
+    is seawater?](http://wildshores.blogspot.com/2009/07/what-is-seawaterl)
 
 **References**
 
@@ -147,9 +130,9 @@ at various locations. [More about the tides](tides.htm) and visiting our shores.
   Natural Heritage of Singapore.
   Second edition. Prentice Hall. 271 pp.
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

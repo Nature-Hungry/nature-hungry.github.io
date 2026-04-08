@@ -4,28 +4,28 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "stalk, eye, crab, ocypodidae, ocypodoidea, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![talking points for nature guides](../../../../Templates/fornatureguides.gif)](../../fngfiddlers.htm)
+[![talking points for nature guides](../../../../Templates/fornatureguides.gif)](../../fngfiddlers)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
 > Brachyurans
 **Stalk-eyed
 crabs**   
@@ -46,8 +46,8 @@ on them!
 **Where
 seen?** Crabs belonging to this family include some of the
 most commonly encountered on our shores during the day: [fiddler
-crabs](uca.htm) (*Uca* sp.), [sand bubbler crabs](scopimera.htm) (*Scopimera* and *Dotilla* spp.) and [soldier crabs](dotilla.htm) (*Dotilla myctiroides*). Others like the [ghost
-crabs](ceratophthalmus.htm) (*Ocypode* sp.) are only active at night.  
+crabs](uca) (*Uca* sp.), [sand bubbler crabs](scopimera) (*Scopimera* and *Dotilla* spp.) and [soldier crabs](dotilla) (*Dotilla myctiroides*). Others like the [ghost
+crabs](ceratophthalmus) (*Ocypode* sp.) are only active at night.  
   
 **Features:** Members of the family
 Ocypodidae are distinguished by eyes on stalks, usually set close
@@ -78,39 +78,39 @@ crabs on Singapore shores**
 ---
 
 **![](ceratophthalmus/060713rlhd4149m3.jpg)  
-[Horn-eyed ghost crab](ceratophthalmus.htm)**
+[Horn-eyed ghost crab](ceratophthalmus)**
 
 **![](cordimanus/110903sntd1078m3.jpg)  
-[Smooth-eyed ghost crab](cordimanus.htm)**
+[Smooth-eyed ghost crab](cordimanus)**
 
-***![](macrophthalmus/050525hntg6712m3.jpg)*[Sentinel crab](macrophthalmus.htm)**
-
----
-
-***![](scopimera/050326cjg3733m3a.jpg)*[Sand bubbler crab](scopimera.htm)**
-
-***![](dotilla/041127cjd8656m3.jpg)*[Soldier crab](dotilla.htm)**
-
-***![](ilyoplax/040101lckd0135m3.jpg)*[Semaphore crab](ilyoplax.htm)**
+***![](macrophthalmus/050525hntg6712m3.jpg)*[Sentinel crab](macrophthalmus)**
 
 ---
 
-***![](uca/annulipes/040103sjid0059m3a.jpg)*[Porcelain fiddler crab](annulipes.htm)**
+***![](scopimera/050326cjg3733m3a.jpg)*[Sand bubbler crab](scopimera)**
 
-*![](uca/vocans/090510hntd1140m3.jpg)*[**Orange fiddler crab**](vocans.htm)
+***![](dotilla/041127cjd8656m3.jpg)*[Soldier crab](dotilla)**
+
+***![](ilyoplax/040101lckd0135m3.jpg)*[Semaphore crab](ilyoplax)**
+
+---
+
+***![](uca/annulipes/040103sjid0059m3a.jpg)*[Porcelain fiddler crab](annulipes)**
+
+*![](uca/vocans/090510hntd1140m3.jpg)*[**Orange fiddler crab**](vocans)
 
 ***![](uca/rosea/021008cjd6155m3.jpg)*  
-[Rosy fiddler crab](rosea.htm)**
+[Rosy fiddler crab](rosea)**
 
 ---
 
-***![](uca/stoutpincer/090816sbwrd9021m3.jpg)*[Stout pincered fiddler crab](stoutpincer.htm)**
+***![](uca/stoutpincer/090816sbwrd9021m3.jpg)*[Stout pincered fiddler crab](stoutpincer)**
 
 ***![](uca/tinycolourful/110327cjd7979m3.jpg)*  
-[Tiny colourful fiddler crab](tinycolourful.htm)**
+[Tiny colourful fiddler crab](tinycolourful)**
 
 *![](uca/noid/110327cjd7977m3.jpg)*  
-[**Other unidentified fiddler crabs**](uca.htm)
+[**Other unidentified fiddler crabs**](uca)
 
 ---
 
@@ -144,10 +144,10 @@ crab) *\*\*\*Ilyogynis sp. (Mud feeder crab)*
 Dotillidae** (previously Ocypodidae)
  
 ***Dotilla* sp.**  
-*Dotilla myctiroides* (VU: Vulnerable) ([Soldier crab](dotilla.htm))  
+*Dotilla myctiroides* (VU: Vulnerable) ([Soldier crab](dotilla))  
 *Dotilla wichmanni*   
   
-[***Ilyoplax* sp.**](ilyoplax.htm) **semaphore crabs**  
+[***Ilyoplax* sp.**](ilyoplax) **semaphore crabs**  
 *\*Ilyoplax delsmani* (VU: Vulnerable) (White semaphore crab)   
 *Ilyoplax lingulata  
 +Ilyoplax longicarpa
@@ -156,7 +156,7 @@ Ilyoplax obliqua* (Tweedie's semaphore crab)
 *Ilyoplax orientalis  
 Ilyoplax punctata*  
   
-[***Scopimera* sp.**](scopimera.htm) **(Sand bubbler crabs)**  
+[***Scopimera* sp.**](scopimera) **(Sand bubbler crabs)**  
 *Scopimera globossa  
 Scopimera intermedia  
   
@@ -164,15 +164,15 @@ Scopimera intermedia
   
  
 **[Family
-Macrophthalmidae](macrophthalmus.htm)** (previously Ocypodidae) with list of
+Macrophthalmidae](macrophthalmus)** (previously Ocypodidae) with list of
 species recorded for Singapore
   
  
 **Family
 Ocypodidae**
  
-[*Ocypode ceratophthalmus*](ceratophthalmus.htm)
-(Horn-eyed ghost crab) *\*[Ocypode cordimanus](cordimanus.htm)*(Smooth-eye ghost crab) (VU: Vulnerable)[***Uca*** **sp.**](uca.htm) **fiddler
+[*Ocypode ceratophthalmus*](ceratophthalmus)
+(Horn-eyed ghost crab) *\*[Ocypode cordimanus](cordimanus)*(Smooth-eye ghost crab) (VU: Vulnerable)[***Uca*** **sp.**](uca) **fiddler
 crabs**see species page for list of species
 
 ---
@@ -180,27 +180,27 @@ crabs**see species page for list of species
 **Links**
 
 - [Soldier
-  crab (*Dotilla myctiroides*)](http://mangrove.nus.edu.sg/guidebooks/text/2052.htm), [Fiddler
-  crabs (*Uca* spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2053.htm), [Semaphore
-  crabs (*Ilyoplax* spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2054.htm), [Sentinel
-  crabs (*Macrophthalmus* spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2055.htm), [Shen
-  crab (*Shenius anomalum*)](http://mangrove.nus.edu.sg/guidebooks/text/2056.htm) Ng,
+  crab (*Dotilla myctiroides*)](http://mangrove.nus.edu.sg/guidebooks/text/2052), [Fiddler
+  crabs (*Uca* spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2053), [Semaphore
+  crabs (*Ilyoplax* spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2054), [Sentinel
+  crabs (*Macrophthalmus* spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2055), [Shen
+  crab (*Shenius anomalum*)](http://mangrove.nus.edu.sg/guidebooks/text/2056) Ng,
   Peter K. L. & N. Sivasothi, 1999. *[A
   Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
   Singapore Science Centre. 168 pp.
 - [Ghost
-  Crab (*Ocypoda* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/191.htm) and [Fiddler
-  crabs (*Uca* spp.)](http://mangrove.nus.edu.sg/pub/seashore/text/190.htm) Tan, Leo W. H. & Ng, Peter K. L.,
+  Crab (*Ocypoda* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/191) and [Fiddler
+  crabs (*Uca* spp.)](http://mangrove.nus.edu.sg/pub/seashore/text/190) Tan, Leo W. H. & Ng, Peter K. L.,
   1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [Animal
-  Olympians](http://www.pbrc.hawaii.edu/%7Epetra/animal_olympians.html) by Petra H. Lenz on the University of Hawaii website:
+  Olympians](http://www.pbrc.hawaii.edu/%7Epetra/animal_olympiansl) by Petra H. Lenz on the University of Hawaii website:
   listing of records of animal performance, and the Ghost crab ranks
   among the top fastest terrestrial animals.
 - [Deposit
-  feeders](http://www.mesa.edu.au/friends/seashores/deposit_feeders.html) on [Life
-  on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1.html) by Keith Davey on the Marine Education
+  feeders](http://www.mesa.edu.au/friends/seashores/deposit_feedersl) on [Life
+  on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1l) by Keith Davey on the Marine Education
   Society of Australia website: Fact sheet on deposit feeders including
   crabs.
 
@@ -224,9 +224,9 @@ crabs**see species page for list of species
   Red Data Book: Threatened plants and animals of Singapore*.
   Nature Society (Singapore). 285 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

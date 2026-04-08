@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "orange, blob, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
+ 
 
 ascidians
-[text index](ascidiaceaindex.htm) | [photo
-index](ascidiaceafi.htm)
+[text index](ascidiaceaindex) | [photo
+index](ascidiaceafi)
 Phylum Chordata
-| Subphylum Tunicata/Urochordata | Class [Ascidiacea](ascidiacea.htm)
+| Subphylum Tunicata/Urochordata | Class [Ascidiacea](ascidiacea)
 **Orange
 lobed ascidians  
 *awaiting identification\**Family Styelidae***updated
@@ -123,9 +110,9 @@ Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media_set?set=a
 
 - [*Botryllus* sp.](https://singapore.biodiversity.online/species/A-Tunicata-000211) and [Family Styelidae](https://singapore.biodiversity.online/taxon/A-Tuni-Asci-Stol-Styelidae) on The Biodiversity of Singapore website of the Lee Kong Chian Natural History Museum.
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

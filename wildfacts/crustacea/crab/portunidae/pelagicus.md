@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "flower, crab, crustacea, portunidae, portunus, pelagicus, decapod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> Brachyurans > Family [Portunidae](portunidae.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> Brachyurans > Family [Portunidae](portunidae)
 **Flower
 crab**  
 ***Portunus pelagicus***  
@@ -86,7 +86,7 @@ its moulted shell (bottom)
 *Sentosa, Jul 04*
 ![](pelagicus/050621skdg8000m3.jpg)  
 Mating crabs, male on top. *Pulau Sekudu, Jun 05*
-[Smaller juvenile flower crabs](tiny.htm) (1-2cm) may have
+[Smaller juvenile flower crabs](tiny) (1-2cm) may have
 a wide variety of colours and patterns including bold bars and blotches.   
   
 **What does it eat?** The flower crab
@@ -95,9 +95,9 @@ eat mostly slow moving, bottom-dwelling creatures such as snails and
 clams, and worms. It may also eat fish, shrimps and other crabs.  
   
 **Flowering crabs:** Some flower crabs
-may have a 'garden' of various living seaweed and [barnacles](../../othercrust/ciriipedia/balanus.htm) growing on their bodies, pincers and legs. These crabs are usually
+may have a 'garden' of various living seaweed and [barnacles](../../othercrust/ciriipedia/balanus) growing on their bodies, pincers and legs. These crabs are usually
 those infected by a [parasitic
-barnacle](../../othercrust/ciriipedia/thompsonia.htm) (*Thompsonia* sp.)   
+barnacle](../../othercrust/ciriipedia/thompsonia) (*Thompsonia* sp.)   
   
 **Role in the habitat:** Flower crabs
 are predators. In turn, they are eaten by animals higher up in the
@@ -110,7 +110,7 @@ resource with 740 tonnes, valued at around $2.2 million, harvested
 in 1997/98.
 ![](../../othercrust/ciriipedia/parasitic/060429skdd1418m3.jpg)  
 Those infected with [parasitic
-barnacles](../../othercrust/ciriipedia/thompsonia.htm)  
+barnacles](../../othercrust/ciriipedia/thompsonia)  
 tend to be covered with seaweeds*.  
 Pulau Sekudu, Apr 06*
 
@@ -118,7 +118,7 @@ Pulau Sekudu, Apr 06*
 Buried in sand. *Tuas, Oct 10*
 
 ![](pelagicus/050428cftd2923m3.jpg)  
-[Tiny ones](tiny.htm) are also seen. This one is   
+[Tiny ones](tiny) are also seen. This one is   
 hardly bigger than a Button snail. *Changi, Apr 05*
 
 ---
@@ -147,12 +147,12 @@ Pasir Ris-Loyang, Oct 20*Photo shared by Loh Kok Sheng on [facebook](https://www
 Pulau Tekukor
 , May 10*Photo
 shared by Neo Mei Lin on [her
-blog](http://psychedelic-nature.blogspot.com/2010/05/land-of-all-zoanthids-includes-some.html).
+blog](http://psychedelic-nature.blogspot.com/2010/05/land-of-all-zoanthids-includes-somel).
 
 *![](pelagicus/110423tpllks1m3.jpg)  
 Terumbu Pempang
 Laut, Apr 11*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/04/first-visit-to-terumbu-pempang-laut.html).
+blog](http://wondercreation.blogspot.com/2011/04/first-visit-to-terumbu-pempang-lautl).
 
 *![](pelagicus/151001blylks11m3.jpg)  
 Berlayar Creek, Oct 15*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10153670768683158.1073741895.547198157&type=3&pnref=story).
@@ -171,18 +171,18 @@ flickr](http://www.flickr.com/photos/koksheng/4889338305/).
 **Links**
 
 - [Flower
-  Crab (*Portunus pelagicus*)](http://mangrove.nus.edu.sg/pub/seashore/text/202.htm)
+  Crab (*Portunus pelagicus*)](http://mangrove.nus.edu.sg/pub/seashore/text/202)
   Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [Flower
-  Crab (*Portunus pelagicus*)](http://mangrove.nus.edu.sg/guidebooks/text/2045.htm)
+  Crab (*Portunus pelagicus*)](http://mangrove.nus.edu.sg/guidebooks/text/2045)
   Ng, Peter K. L. & N. Sivasothi, 1999. *[A
   Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
   Singapore Science Centre. 168 pp.
-- *[Portunus pelagicus](https://singapore.biodiversity.online/taxo4254/mainSpace/Portunus%20pelagicus.html)* (Decapoda: Portunidae) Blue Swimming crab by Sharifah Nadia Alsagoff, 2015, on taxo4254.
+- *[Portunus pelagicus](https://singapore.biodiversity.online/taxo4254/mainSpace/Portunus%20pelagicusl)* (Decapoda: Portunidae) Blue Swimming crab by Sharifah Nadia Alsagoff, 2015, on taxo4254.
 - [Flower
-  Crab (*Portunus pelagicus*)](http://mangrove.nus.edu.sg/guidebooks/text/2045.htm) on Crabs of Japan in Marine
+  Crab (*Portunus pelagicus*)](http://mangrove.nus.edu.sg/guidebooks/text/2045) on Crabs of Japan in Marine
   Species Identification Portal: Technical fact sheet.
 - [*Portunus
   pelagicus*](http://www.fao.org/fishery/species/2629/en) on the FAO Fisheries and Aquaculture Department:
@@ -218,9 +218,9 @@ flickr](http://www.flickr.com/photos/koksheng/4889338305/).
   Zoology![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*
   Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

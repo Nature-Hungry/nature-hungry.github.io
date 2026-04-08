@@ -4,24 +4,24 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "rhizophora, rhizophoraceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
-plants [text index](../../plantindex.htm) | [photo
-index](../../plantfi.htm)
-[mangroves](../mangroves.htm)
+plants [text index](../../plantindex) | [photo
+index](../../plantfi)
+[mangroves](../mangroves)
 **Bakau  
 *Rhizophora sp.*  
 Family Rhizophoraceae***updated
@@ -65,7 +65,7 @@ is the ease in which the timber can be split. So the seller taking
 it from door to door can split it to meet the needs of the buyer.
 It also burns evenly and produces good quality heat, even comparable
 to coal. It was also used to [make
-charcoal](http://wildshores.blogspot.com/2009/04/how-is-charcoal-made-from-mangroves.html). It is also valued as a source of tannins. In fact, the
+charcoal](http://wildshores.blogspot.com/2009/04/how-is-charcoal-made-from-mangrovesl). It is also valued as a source of tannins. In fact, the
 use of mangrove trees in tanning leather has been recorded by early
 Arab traders. Besides tanning leather, the bark was originally used
 by fishermen to toughen their fishing lines and ropes. The tree is
@@ -87,15 +87,15 @@ Pulau Semakau, May 07*
 ---
 
 **[Bakau
-minyak](apiculata.htm)**   
+minyak](apiculata)**   
 *Rhizophora apiculata*
 
 **[Bakau
-kurap](mucronata.htm)**   
+kurap](mucronata)**   
 *Rhizophora mucronata*
 
 **[Bakau
-pasir](stylosa.htm)**   
+pasir](stylosa)**   
 *Rhizophora stylosa*
 
 ![](apiculata/070520smkd1226m3.jpg)  
@@ -150,7 +150,7 @@ Hypocotyl not so long.
 **Links**
 
 - [Bakau
-  (*Rhizophora*](http://mangrove.nus.edu.sg/guidebooks/text/1069.htm)) Ng, Peter K. L. & N. Sivasothi, 1999.
+  (*Rhizophora*](http://mangrove.nus.edu.sg/guidebooks/text/1069)) Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to
   the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*. Singapore
   Science Centre. 168 pp.
@@ -161,7 +161,7 @@ Hypocotyl not so long.
   and fact sheet.
 - Giesen,
   Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006. [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.htm) (PDF online downloadable).
+  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
   RAP publication 2006/07 Food and Agriculture Organization of the
   United Nations Regional Office for Asia and the Pacific Bangkok.
 - [Cork
@@ -199,9 +199,9 @@ references**
   3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
   Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

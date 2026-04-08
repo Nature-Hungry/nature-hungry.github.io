@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "cucumber, seacucumber, bohadschia, holothuria, ocellata, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 sea
-cucumbers [text index](../echinodermindex.htm#holothuroidea)
-| [photo index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class [Holothuroidea](holothuroidea.htm)
+cucumbers [text index](../echinodermindex#holothuroidea)
+| [photo index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
+> Class [Holothuroidea](holothuroidea)
 **Polka-dotted
 sea cucumber  
 *Bohadschia ocellata\** Family Holothuriidae***updated
@@ -104,14 +91,14 @@ shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.1016
 
 ![](polkadot/090628lazlt6m3.jpg)  
 *Seringat-Kias, Jun 09*Photo shared by Liana Tang on [her
-blog](http://nearly-lucid.blogspot.com/2009/07/life-in-man-made-bay-on-lazarus-island.html).
+blog](http://nearly-lucid.blogspot.com/2009/07/life-in-man-made-bay-on-lazarus-islandl).
 
 ---
 
 **Links**
 
 - [*Holothuria
-  ocellata*](http://www.sealifebase.org/summary/Holothuria-ocellata.html)
+  ocellata*](http://www.sealifebase.org/summary/Holothuria-ocellatal)
   on SeaLife Base: Technical fact sheet.
 - [*Holothuria
   ocellata*](http://species-identification.org/species.php?species_group=nasc&id=71) in North Australian Sea Cucumbers on Marine Species
@@ -126,14 +113,4 @@ blog](http://nearly-lucid.blogspot.com/2009/07/life-in-man-made-bay-on-lazarus-i
 
 ---
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

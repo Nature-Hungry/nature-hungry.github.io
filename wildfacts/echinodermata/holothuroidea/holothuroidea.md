@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "cucumber, seacucumber, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
+[![](../../../wildfactsheet3.gif)](../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../index.html)  
+[wildfactsheets homepage](../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![](../../../Templates/fornatureguides.gif)](../fngholothuroidea.htm)
+[![](../../../Templates/fornatureguides.gif)](../fngholothuroidea)
 
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
+[all animals](../../animals)
+| [all plants](../../plants)
+| [concepts](../../concepts/indexl)
+| [glossary](../../glossary/indexl)
+| [search](../../search)
 
 sea
-cucumbers [text index](../echinodermindex.htm#holothuroidea)
-| [photo index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
+cucumbers [text index](../echinodermindex#holothuroidea)
+| [photo index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
 > Class Holothuroidea
 **Sea
 cucumbers   
@@ -52,7 +52,7 @@ sand, only their feeding tentacles emerging above ground.
 **What are sea cucumbers?** Sea cucumbers
 are animals and NOT vegetables as their common name suggests. Often
 mistaken for worms, sea cucumbers are related to sea stars and belong
-to Phylum [Echinodermata](../echinodermata.htm). Class
+to Phylum [Echinodermata](../echinodermata). Class
 Holothuroidea has about 1,200 known species. Some are colourful and
 easily seen, others are well camouflaged or hidden under stones or
 in the sand. Sea cucumbers can be round as balls, long and worm-like,
@@ -68,21 +68,21 @@ like sea stars, brittle stars, sand dollars and sea urchins, sea cucumbers
 lie on their sides with their mouths on one end and backsides on the
 other.
 *![](violaceus/031225skdd0129m3.jpg)*The
-striking colours of the [Sea apple](violaceaus.htm)   
+striking colours of the [Sea apple](violaceaus)   
 warns of its toxic nature. *Pulau Sekudu, Dec 03*
 ![](tinyred/020811cjd0451m3.jpg)  
-These [tiny red sea cucumbers](tinyred.htm) are   
+These [tiny red sea cucumbers](tinyred) are   
 often mistaken for worms. *Chek Jawa, Aug 02*
 *![](synsponge/030717skdd0090m3.jpg)*Often mistaken for worms,   
-[Sponge synaptid sea cucumbers](synsponge.htm) are   
-commonly seen [on a sponge](synsponge.htm). *Pulau Sekudu, Jul 03* 
+[Sponge synaptid sea cucumbers](synsponge) are   
+commonly seen [on a sponge](synsponge). *Pulau Sekudu, Jul 03* 
 **Sometimes mistaken for** worms or
 other sausage-shaped animals. Here's more on how to tell apart [worm-like
-animals](../../glossary/wormy.htm) and [sausage-shaped
-animals](../../glossary/sausage.htm). Sometimes, the feeding tentacles of a buried or hidden
+animals](../../glossary/wormy) and [sausage-shaped
+animals](../../glossary/sausage). Sometimes, the feeding tentacles of a buried or hidden
 sea cucumber is mistaken for a sea anemone or other feathery animals.
 Here's more on how to tell apart [feathery
-animals](../../glossary/feathery.htm).  
+animals](../../glossary/feathery).  
   
 **Feeding with their feet!** Most
 sea cucumbers have tube feet. The tube feet around the mouth are modified
@@ -109,12 +109,12 @@ a wondrous variety of delicate shapes and are used to identify sea
 cucumber species!
 ![](cercodemas/120705chgd7120m3b.jpg)  
 Three rows of tube feet on the underside of   
-a [Pink warty sea cucumber](cercodemas.htm).  
+a [Pink warty sea cucumber](cercodemas).  
 *Changi, Jul 12*  
-*![](scabra/120618tmnbd5434.jpg)*Half buried [Garlic Bread sea cucumber](scabra.htm)  
+*![](scabra/120618tmnbd5434.jpg)*Half buried [Garlic Bread sea cucumber](scabra)  
 'breathing' through its backside. *Tanah Merah, Jun 12*
 ![photo courtesy of Robin Ngiam Wen Jiang](notabilis/pic6a.jpg)  
-Ossicles of the [Remarkable sea cucumber](purple.htm)  
+Ossicles of the [Remarkable sea cucumber](purple)  
 Photos shared Robin Ngiam Wen Jiang,  
 see also [his blog](http://singaporefauna.blogspot.com/).
 **Breathing through their backsides!** A unique feature of some sea cucumbers is an internal breathing system
@@ -139,11 +139,11 @@ leaving behind them a trail of sausage-like lumps of processed sediments.
 Some sea cucumbers have been estimated to process 130kg of sediments
 per year!
 *![](colochirus/031226chgd0003m3.jpg)*Feeding tentacles of   
-the [Thorny sea cucumber](colochirus.htm). *Changi, Dec 03*
+the [Thorny sea cucumber](colochirus). *Changi, Dec 03*
 ![](phyllophorus/070731chgd4722m3.jpg)  
-Feeding tentacles of a buried [Ball sea cucumber](phyllophorus.htm) emerges above the sand. *Changi, Jul 07*
+Feeding tentacles of a buried [Ball sea cucumber](phyllophorus) emerges above the sand. *Changi, Jul 07*
 ![](lecanora/070701hntg0857m3a.jpg)  
-The backside of the [White-rumped sea cucumber](lecanora.htm)   
+The backside of the [White-rumped sea cucumber](lecanora)   
 is guarded by five 'teeth'.  
 *Pulau Hantu, Jul 07*
 **Repulsive vomiting:** Being soft
@@ -162,14 +162,14 @@ Please don't make sea cucumbers expel their intestines. Not all do
 this. Those that do cannot eat until they re-grow their innards. The
 guts or other noxious substances may irritate your skin and may hurt
 you if these get into your eyes or mouth.
-*![](fuscocinerea/090625bsrd5364m3.jpg)*The [Ashy pink cucumber](fuscocinerea.htm) can eject  
+*![](fuscocinerea/090625bsrd5364m3.jpg)*The [Ashy pink cucumber](fuscocinerea) can eject  
 its intestines to deter predators.  
 *Beting Bemban Besar, Jun 09*
 ![](bohadschia/091202cyrlks1m3.jpg)  
-The [Brown sea cucumber](bohadschia.htm) can also eject its intestines. *Cyrene Reef, Dec 09*Photo shared by Loh Kok Sheng on [his
+The [Brown sea cucumber](bohadschia) can also eject its intestines. *Cyrene Reef, Dec 09*Photo shared by Loh Kok Sheng on [his
 flickr](http://www.flickr.com/photos/koksheng/4170541205/).
 *![](paracaudina/030928cjd0009m3.jpg)*Some sea cucumbers are   
-[smooth and transparent](paracaudina.htm)! *Chek Jawa, Sep 03* 
+[smooth and transparent](paracaudina)! *Chek Jawa, Sep 03* 
 **Cucumber babies:** Most sea cucumbers
 have separate genders and are usually either male or female. Their
 reproductive organs are near the front of their body. In most species,
@@ -196,12 +196,12 @@ important in plankton-based food chains. The constant processing of
 sediment by countless sea cucumbers possibly plays a role in nutrient
 recycling.
 ![](phyllophorus/050315cjd1805m3.jpg)  
-The [Ball sea cucumber](phyllophorus.htm) is sometimes found in large numbers buried just beneath the sand. *Chek Jawa, Mar 05*
+The [Ball sea cucumber](phyllophorus) is sometimes found in large numbers buried just beneath the sand. *Chek Jawa, Mar 05*
 *![](110802smkd8331m3.jpg)*Poop produced by a sea cucumber. *Pulau Semakau, Aug 11*
-*![](scabra/080720cjd8038m3.jpg)*The [Garlic Bread sea cucumber](scabra.htm) is among those harvested for food. But must be properly prepared before they are safe for humans to eat. *Chek Jawa, Jul 08*
+*![](scabra/080720cjd8038m3.jpg)*The [Garlic Bread sea cucumber](scabra) is among those harvested for food. But must be properly prepared before they are safe for humans to eat. *Chek Jawa, Jul 08*
 **Human uses:** Some large sea cucumbers
 are considered delicacies and harvested for food. The harmless [Garlic
-bread sea cucumber](scabra.htm) is among those species
+bread sea cucumber](scabra) is among those species
 of sea cucumbers that are collected as a Chinese delicacy. They are
 gutted and dried for sale as 'trepang' or 'beche-de-mer'. Sandfish,
 which can grow up to 40cm and weigh 1.5kg, are the most widely collected
@@ -245,11 +245,11 @@ plants and animals of Singapore*.
 **Family
 Caudinidae**
  
- *[Acaudina](smooth.htm)* [sp.](smooth.htm) (Smooth sea cucumbers) *Acaudina leucoprocta  
+ *[Acaudina](smooth)* [sp.](smooth) (Smooth sea cucumbers) *Acaudina leucoprocta  
 Acaudina molpadioides  
 +Acaudina rosettis   
 Acaudina* sp. *Acaudina* sp.  
- *[Paracaudina australis](paracaudina.htm)* (See-through
+ *[Paracaudina australis](paracaudina)* (See-through
 sea cucumber)  
 *Paracaudina chilensis*
   
@@ -259,43 +259,43 @@ Cucumariidae**
  
 *Actinocucumis cf. typica  
 Actinocucumis* sp. *[Cercodemas
-anceps](cercodemas.htm)* (Pink
+anceps](cercodemas)* (Pink
 warty sea cucumbers)  
   
-*[Colochirus quadrangularis](colochirus.htm)* (Thorny
+*[Colochirus quadrangularis](colochirus)* (Thorny
 sea cucumber) *Colochirus* sp.Cucumarid species 1Cucumarid species 2  
 Cucumarid species 3  *Leptopentacta imbricata  
   
-[Mensamaria intercedens](orange.htm)* (Orange sea cucumber) *Pentacta* sp.*Plesiocolochirus* cf. *australis* *Plesiocolochirus* sp. *[Pseudocolochirus
-violaceus](violaceus.htm)* (Sea apple sea cucumber) (VU:
+[Mensamaria intercedens](orange)* (Orange sea cucumber) *Pentacta* sp.*Plesiocolochirus* cf. *australis* *Plesiocolochirus* sp. *[Pseudocolochirus
+violaceus](violaceus)* (Sea apple sea cucumber) (VU:
 Vulnerable)  
   
 Cucumarid sea cucumbers commonly seen awaiting identification  
-[Purple sea cucumber](purple.htm)  
-[Tiny red sea cucumber](tinyred.htm)
+[Purple sea cucumber](purple)  
+[Tiny red sea cucumber](tinyred)
   
  
 **Family
 Holothuriidae**
  
 *[Actinopyga
-lecanora](lecanora.htm)* (White-rumped sea cucumber)[*Actinopyga* sp.](kumquat.htm) (Kumquat
+lecanora](lecanora)* (White-rumped sea cucumber)[*Actinopyga* sp.](kumquat) (Kumquat
 sea cucumber)  
-*[Bohadschia ocellata](polkadot.htm) (Polka dot sea cucumber)**[Bohadschia vitiensis](bohadschia.htm)* (Brown
+*[Bohadschia ocellata](polkadot) (Polka dot sea cucumber)**[Bohadschia vitiensis](bohadschia)* (Brown
 sea cucumber)  
  *Holothuria (Halodeima) edulis   
   
-Holothuria (Lessonothuria) pardalis**Holothuria (Lessonothuria)* sp.*[Holothuria (Mertensiothuria) leucospilota](leucospilota.htm)* (Black long sea cucumber) (VU:
+Holothuria (Lessonothuria) pardalis**Holothuria (Lessonothuria)* sp.*[Holothuria (Mertensiothuria) leucospilota](leucospilota)* (Black long sea cucumber) (VU:
 Vulnerable)  
-*Holothuria (Mertensiothuria)* sp. *[Holothuria (Metriatyla) albiventer](beige.htm)* (Beige sea cucumber) *Holothuria (Metriatyla) martensi**[Holothuria
-(Metriatyla) scabra](scabra.htm)* (Garlic bread sea cucumber) (VU: Vulnerable)  
+*Holothuria (Mertensiothuria)* sp. *[Holothuria (Metriatyla) albiventer](beige)* (Beige sea cucumber) *Holothuria (Metriatyla) martensi**[Holothuria
+(Metriatyla) scabra](scabra)* (Garlic bread sea cucumber) (VU: Vulnerable)  
 **Holothuria (Metriatyla)** sp.  
   
 *Holothuria (Platyperona) crosnieri*   
 *Holothuria (Platyperona) difficilis*  
   
-*+**[Holothuria (Stauropora) fuscocinerea](fuscocinerea.htm)* (Ashy pink sea cucumber)*+[Holothuria
-(Theelothuria) notabilis](notabilis.htm)* (Remarkable sea cucumber)   
+*+**[Holothuria (Stauropora) fuscocinerea](fuscocinerea)* (Ashy pink sea cucumber)*+[Holothuria
+(Theelothuria) notabilis](notabilis)* (Remarkable sea cucumber)   
   
 *Holothuria (Thymiosycia) impatiens*
   
@@ -311,7 +311,7 @@ Pelagothuriidae**
 *Hemithyone semperi   
 Hemithyone sp.  
   
-[Phyllophorus](phyllophorus.htm)* [sp.](phyllophorus.htm) (Ball sea cucumber)*Phyllophorus (Phyllophorella) spiculata* (VU: Vulnerable)  
+[Phyllophorus](phyllophorus)* [sp.](phyllophorus) (Ball sea cucumber)*Phyllophorus (Phyllophorella) spiculata* (VU: Vulnerable)  
  *Phyllophorella kohkutiensis  
   
 Stolus buccalis  
@@ -323,17 +323,17 @@ Thorsonia* sp.
 **Family
 Psolidae**
  
- *[Psolidium](armoured.htm)* [sp.](armoured.htm) (Armoured sea cucumber) *Psolidium* sp. a  *Psolidium* sp. b
+ *[Psolidium](armoured)* [sp.](armoured) (Armoured sea cucumber) *Psolidium* sp. a  *Psolidium* sp. b
   
  
 **Family
 Sclerodactylidae**
  
 *[Afrocucumis
-africana](africana.htm)* (Little African sea cucumber) previously *Pseudocucumis
+africana](africana)* (Little African sea cucumber) previously *Pseudocucumis
 africanus  
   
-[Cladolabes hamatus](hamatus.htm)* (Plasticky sea cucumber) *Globosita* sp.  
+[Cladolabes hamatus](hamatus)* (Plasticky sea cucumber) *Globosita* sp.  
   
 *Havelockia* sp.
   
@@ -343,13 +343,13 @@ Stichopodidae**
  
 *Stichopus chloronotus  
 [Stichopus
-herrmanni](herrmanni.htm)* (Hermann's sea cucumber) *[Stichopus horrens](horrens.htm)* (Durian sea
+herrmanni](herrmanni)* (Hermann's sea cucumber) *[Stichopus horrens](horrens)* (Durian sea
 cucumber) *Stichopus* aff. *monotuberculatus   
-[Stichopus ocellatus](ocellatus.htm)* (Eye-spotted sea cucumber) (VU: Vulnerable) *Stichopus vastus*
+[Stichopus ocellatus](ocellatus)* (Eye-spotted sea cucumber) (VU: Vulnerable) *Stichopus vastus*
   
  
 **[Family
-Synaptidae](synaptid.htm)**(Synaptid sea cucumbers) with list of species
+Synaptidae](synaptid)**(Synaptid sea cucumbers) with list of species
 recorded for Singapore.
 
 ---
@@ -370,12 +370,12 @@ recorded for Singapore.
 **Links**
 
 - [Sea
-  cucumbers](http://mangrove.nus.edu.sg/pub/seashore/text/222.htm) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+  cucumbers](http://mangrove.nus.edu.sg/pub/seashore/text/222) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
-- [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00.htm), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
+- [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
 - [Sea
-  cucumber ranching](http://wildshores.blogspot.com/2009/02/sea-cucumber-ranching.html) about cultivation of *Holothuria scabra*
+  cucumber ranching](http://wildshores.blogspot.com/2009/02/sea-cucumber-ranchingl) about cultivation of *Holothuria scabra*
   on the wild shores of singapore blog.
 
 **References**
@@ -437,14 +437,4 @@ recorded for Singapore.
   Coral Reef Field Guide![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
   Tropical Reef Research. 378pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

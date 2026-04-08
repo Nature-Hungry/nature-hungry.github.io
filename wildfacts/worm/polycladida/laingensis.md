@@ -4,28 +4,15 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "flat, worm, flatworm, pseudoceros, laingensis, polycladida, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 flatworms
-[text index](../wormindex.htm) | [photo
-index](../polycladidafi.htm)
+[text index](../wormindex) | [photo
+index](../polycladidafi)
 
-[worms](../worm.htm) > Phylum Platyhelminthes >
+[worms](../worm) > Phylum Platyhelminthes >
 Class
-Turbellaria > [Order Polycladida](polycladida.htm)
+Turbellaria > [Order Polycladida](polycladida)
 
 **Purple-spotted
 flatworm  
@@ -91,7 +78,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 ---
 
 ![](laingensis/131213chglks1m3.JPG)  
-*Changi, Dec 13*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2012/12/changi-rocky-shore-in-rain.html).
+*Changi, Dec 13*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2012/12/changi-rocky-shore-in-rainl).
 
 ![](laingensis/170528chg7lks2.jpg)  
 *Changi, May 17*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/posts/10155349682483158).
@@ -103,7 +90,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ![](laingensis/101009cjnml1m3.jpg)  
  *Chek Jawa, Oct 10*Photo shared by Neo Mei Lin on [her
-blog](http://psychedelic-nature.blogspot.com/2010/10/im-seagrasser-chek-jawa.html).
+blog](http://psychedelic-nature.blogspot.com/2010/10/im-seagrasser-chek-jawal).
 
 ![](laingensis/250529cjvc1.jpg)  
  *Chek Jawa, May 25*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/media/set/?set=a.10161610311592945&type=3&ref=embed_post).
@@ -112,7 +99,7 @@ blog](http://psychedelic-nature.blogspot.com/2010/10/im-seagrasser-chek-jawa.htm
 
 ![](laingensis/110518bbtch1m6l.jpg)  
 *Beting Bronok, May 11*Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2011/05/nudibranch-galore-beting-bronok.html).
+blog](http://colorclouds.blogspot.com/2011/05/nudibranch-galore-beting-bronokl).
 
 *![](laingensis/250627bbal1.jpg)  
 Betint Bronok, Jun 25*Photo
@@ -121,7 +108,7 @@ shared by Adriane Lee on [facebook](https://www.facebook.com/media/set/?set=a.10
 ---
 
 ![](laingensis/150706skdlks1m3.JPG)  
-*Pulau Sekudu, Jul 15*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2015/07/back-at-sekudu-for-coral-rubble-survey.html).
+*Pulau Sekudu, Jul 15*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2015/07/back-at-sekudu-for-coral-rubble-surveyl).
 
 ![](laingensis/170723ubnay2.jpg)  
 *Pulau Ubin, Jul 17*Photo shared by Abel Yeo on [facebook](https://www.facebook.com/photo.php?fbid=10211189602308144&set=a.10211189580467598&type=3&theater)..
@@ -138,11 +125,11 @@ shared by Adriane Lee on [facebook](https://www.facebook.com/media/set/?set=a.10
 
 ![](laingensis/080510smktsj01m3.jpg)  
 *Pulau Semakau, May 08*Photo shared by Tan Sijie on [his
-blog](http://naturescouter.blogspot.com/2008/05/team-seagrass-at-pulau-semakau.html).
+blog](http://naturescouter.blogspot.com/2008/05/team-seagrass-at-pulau-semakaul).
 
 ![](laingensis/110731trylks7m3.jpg)  
  *Terumbu Raya, Jul 11*Photo shared by Lok Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/07/back-to-great-reef-terumbu-raya.html).
+blog](http://wondercreation.blogspot.com/2011/07/back-to-great-reef-terumbu-rayal).
 
 ![](laingensis/150606tryrl2m3.jpg)  
  *Terumbu Raya, Jun 15*Photo shared by Russel Low on [facebook](https://www.facebook.com/media/set/?set=a.949142245137168.1073741842.109257872458947&type=3).
@@ -179,14 +166,4 @@ Grateful thanks to Rene Ong for sharing details and identifying the flatworms on
   H and Helmut Debelius. 2009. *World
   Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

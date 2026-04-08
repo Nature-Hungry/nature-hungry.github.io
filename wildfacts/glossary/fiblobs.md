@@ -4,21 +4,6 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](index.html)
-| [search](../search.htm)
-
 **Photo
 index of marine life on Singapore shores**
   
@@ -26,105 +11,105 @@ index of marine life on Singapore shores**
 ---
 
  **Blobs and bubbles:**
-see also [ball-shaped lifeforms](fiball.htm) and [sausage-like
-lifeforms](fisausage.htm)  
+see also [ball-shaped lifeforms](fiball) and [sausage-like
+lifeforms](fisausage)  
 
 ![](../ascidiacea/jelly/100726chgd9196m.jpg)  
-**[ascidian](../ascidiacea/ascidiaceafi.htm)**
+**[ascidian](../ascidiacea/ascidiaceafi)**
 
 ![](../ascidiacea/pink/081114cyrd1908m.jpg)  
-**[ascidian](../ascidiacea/ascidiaceafi.htm)**
+**[ascidian](../ascidiacea/ascidiaceafi)**
 
 ![](../porifera/bloborange/040506cjd0125m.jpg)  
-[**sponge**](../porifera/poriferafi3.htm)
+[**sponge**](../porifera/poriferafi3)
 
 ![](../plants/seaweed/phaeophyta/colpomenia/051103sisg2851m.jpg)  
-[**seaweed**](../plants/seaweed/phaeophytafi1.htm)
+[**seaweed**](../plants/seaweed/phaeophytafi1)
 
 ![](../ascidiacea/polycarpa/050510tusg6134m.jpg)  
-**[ascidian](../ascidiacea/ascidiaceafi.htm)**
+**[ascidian](../ascidiacea/ascidiaceafi)**
 
 ![](../cnidaria/others/ceriantharia/common/080708cyrd7579m.jpg)  
-[**cerianthid**](../cnidaria/anemonefi8.htm)
+[**cerianthid**](../cnidaria/anemonefi8)
 
 ![](../cnidaria/actiniaria/peachia/080506chgd2348m.jpg)  
 **[sea
-anemone](../cnidaria/actiniaria/peachia.htm)**
+anemone](../cnidaria/actiniaria/peachia)**
 
 ![](../cnidaria/actiniaria/tiger/080703chgd6667m.jpg)  
 **[sea
-anemone](../cnidaria/actiniaria/tiger.htm)**
+anemone](../cnidaria/actiniaria/tiger)**
 
 ![](../eggs/eggs/110418tmftd8998m.jpg)  
-[**eggs**](../eggs/blobs.htm)
+[**eggs**](../eggs/blobs)
 
 ![](../mollusca/slugs/nudibranchia/spongiosa/020713cjd2437m.jpg)  
 **[sea
-slug](../mollusca/slugfi9.htm)**
+slug](../mollusca/slugfi9)**
 
 ![](../mollusca/slugs/nudibranchia/actinocyclus/040520sntbd0052m.jpg)  
 **[sea
-slug](../mollusca/slugfi9.htm)**
+slug](../mollusca/slugfi9)**
 
 ![](../mollusca/slugs/anaspidae/bursatella/090428chgd0698m.jpg)  
 **[sea
-slug](../mollusca/slugfi1.htm)**
+slug](../mollusca/slugfi1)**
 
 *![](../mollusca/slugs/onchidiidae/bigpimply/050807sjig0770m.jpg)*  
 **[sea
-slug](../mollusca/slugfi2.htm)**
+slug](../mollusca/slugfi2)**
 
 ![](../ascidiacea/pink/060716sisd4597m.jpg)  
-**[ascidian](../ascidiacea/ascidiaceafi.htm)**
+**[ascidian](../ascidiacea/ascidiaceafi)**
 
 ![](../ascidiacea/white/050709skdg9250m.jpg)  
-**[ascidian](../ascidiacea/ascidiaceafi.htm)**
+**[ascidian](../ascidiacea/ascidiaceafi)**
 
 ![](../ascidiacea/blob/060516chgd2028m.jpg)  
-**[ascidian](../ascidiacea/ascidiaceafi.htm)**
+**[ascidian](../ascidiacea/ascidiaceafi)**
 
 ![](../ascidiacea/eudistoma/050311labg3270m.jpg)  
-**[ascidian](../ascidiacea/ascidiaceafi.htm)**
+**[ascidian](../ascidiacea/ascidiaceafi)**
 
 ![](../ascidiacea/bubble/120820sisd0781m.jpg)  
-**[ascidian](../ascidiacea/ascidiaceafi.htm)**
+**[ascidian](../ascidiacea/ascidiaceafi)**
 
 ![](../plants/seaweed/chlorophyta/boergesenia/041019labd7671m.jpg)  
-[**seaweed**](../plants/seaweed/chlorophytafi3.htm)
+[**seaweed**](../plants/seaweed/chlorophytafi3)
 
 ![](../plants/seaweed/chlorophyta/lentillifera/070520smkg9488ma.jpg)  
-[**seaweed**](../plants/seaweed/chlorophytafi3.htm)
+[**seaweed**](../plants/seaweed/chlorophytafi3)
 
 ![](../cnidaria/actiniaria/beadbanded/050527srbd3486m.jpg)  
 [**sea
-anemone**](../cnidaria/anemonefi2.htm)
+anemone**](../cnidaria/anemonefi2)
 
 ![](../cnidaria/actiniaria/hermitbig/040701chgd1385m.jpg)  
 [**anemone on
-shell**](../cnidaria/anemonefi2.htm)
+shell**](../cnidaria/anemonefi2)
 
 ![](../cnidaria/others/zoanthid/pink/100130brkd8486ma.jpg)  
-[**zoanthids**](../cnidaria/anemonefi2.htm)
+[**zoanthids**](../cnidaria/anemonefi2)
 
 ![](../cnidaria/others/zoanthid/mutuki/050822cjd5877ma.jpg)  
-[**zoanthids**](../cnidaria/anemonefi2.htm)
+[**zoanthids**](../cnidaria/anemonefi2)
 
-![](../cnidaria/others/corallimorphs/balltip/120410chgd9048m.jpg)[**corallimorphs**](../cnidaria/anemonefi4.htm)
+![](../cnidaria/others/corallimorphs/balltip/120410chgd9048m.jpg)[**corallimorphs**](../cnidaria/anemonefi4)
 
-![](../cnidaria/others/corallimorphs/beaded/100710sisd8107m.jpg)[**corallimorphs**](../cnidaria/anemonefi4.htm)
+![](../cnidaria/others/corallimorphs/beaded/100710sisd8107m.jpg)[**corallimorphs**](../cnidaria/anemonefi4)
 
 ![](../ascidiacea/greengumdrop/050309smkg3143m.jpg)  
-**[ascidian](../ascidiacea/ascidiaceafi.htm)**
+**[ascidian](../ascidiacea/ascidiaceafi)**
 
 ![](../mollusca/cephalopoda/cepeggs/020715chgd3359m.jpg)  
-[**eggs**](../mollusca/cephalopoda/cepeggs.htm)
+[**eggs**](../mollusca/cephalopoda/cepeggs)
 
 ---
 
 how to tell apart
 
-- [blob-like lifeforms](blobs.htm)
-- animals that live in [soft tubes](tubesoft.htm)
+- [blob-like lifeforms](blobs)
+- animals that live in [soft tubes](tubesoft)
 
   
   
@@ -137,41 +122,41 @@ lifeforms on this site
 by shape
 
 [general
-photo index](../photoindex.htm)  
+photo index](../photoindex)  
   
-[ball-shaped](fiball.htm)  
+[ball-shaped](fiball)  
   
 blobs   
   
-[branching](fibranching.htm)  
+[branching](fibranching)  
   
-[bristley](fibristley.htm)  
+[bristley](fibristley)  
   
-[encrusting](fiencrusting.htm)  
+[encrusting](fiencrusting)  
   
-[feathery](fifeathery.htm)  
+[feathery](fifeathery)  
   
-[flat flexible](fiflatflexi.htm)   
+[flat flexible](fiflatflexi)   
   
-[flat stiff](fiflatstiff.htm)   
+[flat stiff](fiflatstiff)   
   
-[hairy](fihairy.htm)  
+[hairy](fihairy)  
   
-[leafy](fileafy.htm)  
+[leafy](fileafy)  
   
-[ribbon-like](firibbon.htm)  
+[ribbon-like](firibbon)  
   
-[sausage-like](fisausage.htm)  
+[sausage-like](fisausage)  
   
-[snake-like](fisnake.htm)   
+[snake-like](fisnake)   
   
-[stick-like](fistick.htm)   
+[stick-like](fistick)   
   
-[worm-like](fiworm.htm)
+[worm-like](fiworm)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

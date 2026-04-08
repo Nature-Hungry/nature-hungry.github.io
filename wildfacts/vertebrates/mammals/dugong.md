@@ -4,23 +4,10 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "dugong, seacow, cow, dugongnidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 vertebrates [text
-index](../vertindex.htm) | [photo index](../vertfi.htm)
+index](../vertindex) | [photo index](../vertfi)
 Phylum Chordata
 > Subphylum Vertebrata > Class Mammalia
 **Dugong  
@@ -78,9 +65,9 @@ While the manatee has a circular tail fluke, dugongs have a forked
 tail fluke.
 *![](dugong/b6m6l.jpg)*Gracie
 the captive dugong at Underwater World Sentosa on her 12th birthday *Jan 09, from [Channel
-NewsAsia](http://wildsingaporenews.blogspot.com/2009/01/rescued-dugong-at-underwater-world.html).*
+NewsAsia](http://wildsingaporenews.blogspot.com/2009/01/rescued-dugong-at-underwater-worldl).*
  
-**What does it eat?** [Seagrass](../../../wildshores/vertebrata/others/g002.htm) is the dugong's main food. So
+**What does it eat?** [Seagrass](../../../wildshores/vertebrata/others/g002) is the dugong's main food. So
 not surprisingly, it is also sometimes called the Sea Cow! It pulls
 out a mouthful of seagrasses with its thick lips, shakes it to get
 rid of the sand and then swallows. Dugong feeding trails are formed when dugongs chomp up seagrasses including their roots, leaving a shallow meandering furrow of about equal width and depth. A dugong often 'cultivates' a favourite
@@ -130,63 +117,63 @@ dugong sightings in Singapore**
 - From the
   wild shores of singapore blog.
   - All sighting now compiled under the tag: ['mega fauna'](http://wildshores.blogspot.sg/search/label/mega-fauna)
-  - [Happy National Day with dolphins, sea turtles and dugongs! (Aug 2018)](http://wildshores.blogspot.com/2018/08/happy-national-day-with-dolphins-sea.html)
-  - [YES! Singapore got dugongs (May 2018)](http://wildshores.blogspot.com/2018/06/yes-singapore-got-dugongs.html)
-  - [YES! Singapore got dolphins, sea turtles and dugongs (Aug-Sep 2017)](http://wildshores.blogspot.com/2017/10/yes-singapore-got-dolphins-sea-turttles.html)
-  - [Wild celebrations with dolphins, sea turtle and dugong (Aug 2017)](http://wildshores.blogspot.com/2017/08/wild-celebrations-with-dolphins-and-sea.html)
-  - [Singapore got wild dolphins and dugongs too (May 2017)](http://wildshores.blogspot.com/2017/06/singapore-got-wild-dolphins-and-dugongs.html)
-  - [Singapore got sea turtles, dolphins (April 2017)](http://wildshores.blogspot.com/2017/05/singapore-got-sea-turtles-dolphins.html)
-  - [Dugong feeding trails at Terumbu Pempang Laut](http://wildshores.blogspot.sg/2016/08/mass-coral-bleaching-at-terumbu-pempang.html) (6 Aug 16)
-  - [Dugong feeding trails at Chek Jawa](http://wildshores.blogspot.sg/2016/07/mass-coral-bleaching-at-chek-jawa.html) (4 Jul 16)
-  - [Dugong feeding trails at Changi](http://wildshores.blogspot.sg/2015/05/babylonia-aplenty-at-changi.html) (18 May 15)
-  - [Singapore has wild dolphins, otters, dugongs, sea turtles and more!](http://wildshores.blogspot.sg/2013/03/singapore-has-wild-dolphins-otters.html) (18 Mar 13)
-  - [Dugong feeding trails at Pulau Sekudu](http://wildshores.blogspot.sg/2014/06/spongeless-on-sekudu.html) (16 Jun 14)
-  - [Dugong feeding trails at Changi](http://wildshores.blogspot.sg/2013/06/new-finds-at-changi.html) (26 Jun 13)
-  - [Signs of dugong in the South!](http://wildshores.blogspot.sg/2012/05/signs-of-dugong-in-south.html) (11 May 2012)
-  - [Special sightings since 2010: dugong, dolphin, sea turtles and more!](http://wildshores.blogspot.sg/2013/10/special-sightings-since-2010-dugongs.html)
-  - [Dugong feeding trails at Pulau Sekudu](http://wildshores.blogspot.sg/2013/08/curious-caterpillars-at-sekudu.html) (20 Aug 13)
-  - [Dugong feeding trails at Chek Jawa](http://wildshores.blogspot.sg/2013/08/alive-at-chek-jawa-beacon.html) (21 Aug 13)
-  - [Dugong feeding trails at Changi](http://wildshores.blogspot.sg/2013/07/sea-fan-garden-with-signs-of-dugong.html) (26 Jul 13)
-  - [Dugong feeding trails at Chek Jawa](http://wildshores.blogspot.sg/2013/07/predawn-at-chek-jawa-after-10-years.html) (21 Jul 13)
-  - [Dugong feeding trails at Changi](http://wildshores.blogspot.sg/2013/06/new-finds-at-changi.html) (26 Jun 13)
-  - [Dugong feeding trails at Chek Jawa](http://wildshores.blogspot.sg/2013/04/seagrass-watch-check-up-on-chek-jawa.html) (15 Apr 13)
-  - [Dugong feeding trails at Cyrene Reef](http://wildshores.blogspot.sg/2013/04/seagrasswatch-check-up-on-cyrene.html) (14 Apr 13)
-  - [Singapore has wild dolphins, otters, dugongs, sea turtles and more!](http://wildshores.blogspot.sg/2013/03/singapore-has-wild-dolphins-otters.html) (18 Mar 13)
-  - [Dugong feeding trails at Changi](http://wildshores.blogspot.sg/2013/01/dugong-signs-on-changi-with-sea-fan.html) (14 Jan 13)
-  - [Dugong feeding trails at Pulau Sekudu](http://wildshores.blogspot.sg/2012/10/otters-and-special-crabs-and-snail-at.html) (18 Oct 12)
-  - [Dugong feeding trails at Changi](http://wildshores.blogspot.sg/2012/08/changis-best-seagrass-meadows-being.html) (3 Aug 12)
-  - [Dugong feeding trails at Chek Jawa](http://wildshores.blogspot.sg/2012/05/bleaching-anemones-uprooted-sea.html) (13 May 12)
-  - [Dugong feeding trails at Cyrene Reef](http://wildshores.blogspot.sg/2012/04/dugong-feeding-trails-at-cyrene.html) (16 Apr 12)
-  - [Dugong feeding trails at Chek Jawa](http://wildshores.blogspot.sg/2012/04/seagrassy-at-chek-jawa-with-new-wild.html) (13 Apr 12)
-  - [Dugong feeding trails at Chek Jawa](http://wildshores.blogspot.sg/2012/01/signs-of-dugongs-at-chek-jawa.html) (8 Jan 12)
-  - [Dugong feeding trails at Changi](http://wildshores.blogspot.sg/2011/07/large-star-and-stargazer-at-changi.html) (5 Jul 11)
-  - [Dugong feeding trails at Chek Jawa](http://wildshores.blogspot.sg/2011/07/seagrass-sunrise-at-chek-jawa.html) (20 Jul 11)
+  - [Happy National Day with dolphins, sea turtles and dugongs! (Aug 2018)](http://wildshores.blogspot.com/2018/08/happy-national-day-with-dolphins-seal)
+  - [YES! Singapore got dugongs (May 2018)](http://wildshores.blogspot.com/2018/06/yes-singapore-got-dugongsl)
+  - [YES! Singapore got dolphins, sea turtles and dugongs (Aug-Sep 2017)](http://wildshores.blogspot.com/2017/10/yes-singapore-got-dolphins-sea-turttlesl)
+  - [Wild celebrations with dolphins, sea turtle and dugong (Aug 2017)](http://wildshores.blogspot.com/2017/08/wild-celebrations-with-dolphins-and-seal)
+  - [Singapore got wild dolphins and dugongs too (May 2017)](http://wildshores.blogspot.com/2017/06/singapore-got-wild-dolphins-and-dugongsl)
+  - [Singapore got sea turtles, dolphins (April 2017)](http://wildshores.blogspot.com/2017/05/singapore-got-sea-turtles-dolphinsl)
+  - [Dugong feeding trails at Terumbu Pempang Laut](http://wildshores.blogspot.sg/2016/08/mass-coral-bleaching-at-terumbu-pempangl) (6 Aug 16)
+  - [Dugong feeding trails at Chek Jawa](http://wildshores.blogspot.sg/2016/07/mass-coral-bleaching-at-chek-jawal) (4 Jul 16)
+  - [Dugong feeding trails at Changi](http://wildshores.blogspot.sg/2015/05/babylonia-aplenty-at-changil) (18 May 15)
+  - [Singapore has wild dolphins, otters, dugongs, sea turtles and more!](http://wildshores.blogspot.sg/2013/03/singapore-has-wild-dolphins-ottersl) (18 Mar 13)
+  - [Dugong feeding trails at Pulau Sekudu](http://wildshores.blogspot.sg/2014/06/spongeless-on-sekudul) (16 Jun 14)
+  - [Dugong feeding trails at Changi](http://wildshores.blogspot.sg/2013/06/new-finds-at-changil) (26 Jun 13)
+  - [Signs of dugong in the South!](http://wildshores.blogspot.sg/2012/05/signs-of-dugong-in-southl) (11 May 2012)
+  - [Special sightings since 2010: dugong, dolphin, sea turtles and more!](http://wildshores.blogspot.sg/2013/10/special-sightings-since-2010-dugongsl)
+  - [Dugong feeding trails at Pulau Sekudu](http://wildshores.blogspot.sg/2013/08/curious-caterpillars-at-sekudul) (20 Aug 13)
+  - [Dugong feeding trails at Chek Jawa](http://wildshores.blogspot.sg/2013/08/alive-at-chek-jawa-beaconl) (21 Aug 13)
+  - [Dugong feeding trails at Changi](http://wildshores.blogspot.sg/2013/07/sea-fan-garden-with-signs-of-dugongl) (26 Jul 13)
+  - [Dugong feeding trails at Chek Jawa](http://wildshores.blogspot.sg/2013/07/predawn-at-chek-jawa-after-10-yearsl) (21 Jul 13)
+  - [Dugong feeding trails at Changi](http://wildshores.blogspot.sg/2013/06/new-finds-at-changil) (26 Jun 13)
+  - [Dugong feeding trails at Chek Jawa](http://wildshores.blogspot.sg/2013/04/seagrass-watch-check-up-on-chek-jawal) (15 Apr 13)
+  - [Dugong feeding trails at Cyrene Reef](http://wildshores.blogspot.sg/2013/04/seagrasswatch-check-up-on-cyrenel) (14 Apr 13)
+  - [Singapore has wild dolphins, otters, dugongs, sea turtles and more!](http://wildshores.blogspot.sg/2013/03/singapore-has-wild-dolphins-ottersl) (18 Mar 13)
+  - [Dugong feeding trails at Changi](http://wildshores.blogspot.sg/2013/01/dugong-signs-on-changi-with-sea-fanl) (14 Jan 13)
+  - [Dugong feeding trails at Pulau Sekudu](http://wildshores.blogspot.sg/2012/10/otters-and-special-crabs-and-snail-atl) (18 Oct 12)
+  - [Dugong feeding trails at Changi](http://wildshores.blogspot.sg/2012/08/changis-best-seagrass-meadows-beingl) (3 Aug 12)
+  - [Dugong feeding trails at Chek Jawa](http://wildshores.blogspot.sg/2012/05/bleaching-anemones-uprooted-seal) (13 May 12)
+  - [Dugong feeding trails at Cyrene Reef](http://wildshores.blogspot.sg/2012/04/dugong-feeding-trails-at-cyrenel) (16 Apr 12)
+  - [Dugong feeding trails at Chek Jawa](http://wildshores.blogspot.sg/2012/04/seagrassy-at-chek-jawa-with-new-wildl) (13 Apr 12)
+  - [Dugong feeding trails at Chek Jawa](http://wildshores.blogspot.sg/2012/01/signs-of-dugongs-at-chek-jawal) (8 Jan 12)
+  - [Dugong feeding trails at Changi](http://wildshores.blogspot.sg/2011/07/large-star-and-stargazer-at-changil) (5 Jul 11)
+  - [Dugong feeding trails at Chek Jawa](http://wildshores.blogspot.sg/2011/07/seagrass-sunrise-at-chek-jawal) (20 Jul 11)
   - [Quick
-    Chek Jawa check up with otter and dugong on 3 Jul 2011](http://wildshores.blogspot.com/2011/07/quick-chek-jawa-check-up-with-otters.html)
+    Chek Jawa check up with otter and dugong on 3 Jul 2011](http://wildshores.blogspot.com/2011/07/quick-chek-jawa-check-up-with-ottersl)
   - [Mollusc
-    marvels on Changi, and more signs of dugong? on 20 May 2011](http://wildshores.blogspot.com/2011/05/mollusc-marvels-on-changi-and-more.html)
+    marvels on Changi, and more signs of dugong? on 20 May 2011](http://wildshores.blogspot.com/2011/05/mollusc-marvels-on-changi-and-morel)
   - [Pregnant
-    papas on Changi with signs of dugong? on 19 May 2011](http://wildshores.blogspot.com/2011/05/pregnant-papas-on-changi-with-signs-of.html)
+    papas on Changi with signs of dugong? on 19 May 2011](http://wildshores.blogspot.com/2011/05/pregnant-papas-on-changi-with-signs-ofl)
   - [Signs
-    of dugong at Chek Jawa? on 24 Apr 2011](http://wildshores.blogspot.com/2011/04/signs-of-dugong-at-chek-jawa.html)
+    of dugong at Chek Jawa? on 24 Apr 2011](http://wildshores.blogspot.com/2011/04/signs-of-dugong-at-chek-jawal)
   - [Dugong
-    sighting on Chek Jawa? on 20 Mar 2011](http://wildshores.blogspot.com/2011/03/dugong-sighting-at-chek-jawa.html)
+    sighting on Chek Jawa? on 20 Mar 2011](http://wildshores.blogspot.com/2011/03/dugong-sighting-at-chek-jawal)
   - [Dugong
-    sighting at Chek Jawa? on 20 Mar 2011](http://wildshores.blogspot.com/2011/03/dugong-sighting-at-chek-jawa.html)
-- [Dugong feeding trails at Chek Jawa](http://wondercreation.blogspot.sg/2016/01/northern-chek-jawa-survey.html) (11 Jan 16) on wonder creations blog.
-- [Dugong and more at Chek Jawa!](http://nakedhermitcrabs.blogspot.sg/2013/10/dugong-and-more-at-chek-jawa.html) on the Naked Hermit Crab blog (6 Oct 13)
+    sighting at Chek Jawa? on 20 Mar 2011](http://wildshores.blogspot.com/2011/03/dugong-sighting-at-chek-jawal)
+- [Dugong feeding trails at Chek Jawa](http://wondercreation.blogspot.sg/2016/01/northern-chek-jawa-surveyl) (11 Jan 16) on wonder creations blog.
+- [Dugong and more at Chek Jawa!](http://nakedhermitcrabs.blogspot.sg/2013/10/dugong-and-more-at-chek-jawal) on the Naked Hermit Crab blog (6 Oct 13)
 - [Dugong
-  feeding trails at Southern Semakau on 27 May 2011](http://wondercreation.blogspot.com/2011/05/dugong-feeding-trails-at-southern.html) on wonderful
+  feeding trails at Southern Semakau on 27 May 2011](http://wondercreation.blogspot.com/2011/05/dugong-feeding-trails-at-southernl) on wonderful
   creation blog.
 - [Dugong
-  ivory at Changi Beach on 26 Mar 2011](http://funwithnature.blogspot.com/2011/04/dugong-ivory-at-changi-beach.html) on the Fun with Nature
+  ivory at Changi Beach on 26 Mar 2011](http://funwithnature.blogspot.com/2011/04/dugong-ivory-at-changi-beachl) on the Fun with Nature
   blog.
 - [Dugong
-  feeding trail seen on Chek Jawa, 20 Jan 07](http://teamseagrass.blogspot.com/2007/01/first-teamseagrass-field-orientation.html) on the teamseagrass
+  feeding trail seen on Chek Jawa, 20 Jan 07](http://teamseagrass.blogspot.com/2007/01/first-teamseagrass-field-orientationl) on the teamseagrass
   blog.
 - [Dugong
   spotted at Chek Jawa by contractors building the boardwalk, May
-  06](http://uvp.blogspot.com/2006/06/house-no-1-location-where-mermaid-was.html) on the Ubin volunteers blog.
+  06](http://uvp.blogspot.com/2006/06/house-no-1-location-where-mermaid-wasl) on the Ubin volunteers blog.
 - [Dugong
   carcass washed ashore on southern Tekong, 6 Jun 06](http://rmbr.nus.edu.sg/news/index.php?entry=/news/20060608-dugong_tekong.txt) on the
   Raffles Museum news blog.
@@ -214,19 +201,19 @@ dugong sightings in Singapore**
   full details on global distribution, conservation and legislation
   on dugongs.
 - [Rescued
-  dugong at Underwater World celebrates 12th birthday](http://wildsingaporenews.blogspot.com/2009/01/rescued-dugong-at-underwater-world.html) Imelda
+  dugong at Underwater World celebrates 12th birthday](http://wildsingaporenews.blogspot.com/2009/01/rescued-dugong-at-underwater-worldl) Imelda
   Saad, Channel NewsAsia 13 Jan 09.
-- *[Dugong dugon](https://singapore.biodiversity.online/taxo4254/mainSpace/Dugong%20dugon.html)* (Sirenia: Dugongidae) Dugong by Nguyen Kieu Trang, 2014, on taxo4254.
+- *[Dugong dugon](https://singapore.biodiversity.online/taxo4254/mainSpace/Dugong%20dugonl)* (Sirenia: Dugongidae) Dugong by Nguyen Kieu Trang, 2014, on taxo4254.
 - From the
   wild shores of singapore blog
   - [2011
-    is Pacific Year of the Dugong](http://wildshores.blogspot.com/2011/03/2011-is-pacific-year-of-dugong.html)
+    is Pacific Year of the Dugong](http://wildshores.blogspot.com/2011/03/2011-is-pacific-year-of-dugongl)
   - [Dugongs
-    hunted in Thailand are smuggled to Singapore](http://wildshores.blogspot.com/2009/03/dugongs-hunted-in-thailand-are-smuggled.html)
+    hunted in Thailand are smuggled to Singapore](http://wildshores.blogspot.com/2009/03/dugongs-hunted-in-thailand-are-smuggledl)
   - [Dugong's
-    last moments a frantic fight for survival](http://wildshores.blogspot.com/2009/10/dugongs-last-moments-frantic-fight-for.html)
+    last moments a frantic fight for survival](http://wildshores.blogspot.com/2009/10/dugongs-last-moments-frantic-fight-forl)
   - [Dugong
-    blimp cam survey at Sungai Pulai](http://wildshores.blogspot.com/2010/01/dugong-blimp-cam-survey-at-sungai-pulai.html)
+    blimp cam survey at Sungai Pulai](http://wildshores.blogspot.com/2010/01/dugong-blimp-cam-survey-at-sungai-pulail)
 
 **References**
 
@@ -247,14 +234,4 @@ dugong sightings in Singapore**
   of South-East Asia*
   New Holland Publishers. 128 pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

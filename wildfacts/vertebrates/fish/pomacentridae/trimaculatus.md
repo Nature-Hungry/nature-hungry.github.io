@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "black, anemonefish, three, spot, dascyllus, trimaculatus, pomacentridae, amphiprion,  amphiprioninae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm) >
-Family [Pomacentridae](pomacentridae.htm)
+> Subphylum Vertebrata > [fishes](../fish) >
+Family [Pomacentridae](pomacentridae)
 **Three-spot
 dascyllus   
 *Dascyllus trimaculatus*** **Family Pomacentridae***updated
@@ -35,7 +35,7 @@ Oct 2020*
 seen?** This
 black anemonefish with white spots is sometimes seen on our submerged
 reefs, living in a [Giant
-carpet anemone](../../../cnidaria/actiniaria/gigantea.htm), often sharing the anemone with [Peacock anemoneshrimps](../../../crustacea/othercrust/shrimp/brevicarpalis.htm). Elsewhere, juveniles are often seen living in large sea anemones, sea urchins, or branching corals.
+carpet anemone](../../../cnidaria/actiniaria/gigantea), often sharing the anemone with [Peacock anemoneshrimps](../../../crustacea/othercrust/shrimp/brevicarpalis). Elsewhere, juveniles are often seen living in large sea anemones, sea urchins, or branching corals.
 Adults found in pairs or small groups around coral mounds or rocks.  
   
 **Features:** To 11cm. Juveniles are
@@ -44,7 +44,7 @@ upperside of the body. As they age, the spots fade. Adults are greyish
 with variable 'spottiness', some with no spot on forehead; or very
 reduced side spot.
 ![](trimaculatus/110619tslgd4444m3.jpg)  
-Often seen together with [Peacock anemoneshrimps](../../../crustacea/othercrust/shrimp/brevicarpalis.htm). *Terumbu Selegie, Jun 11* 
+Often seen together with [Peacock anemoneshrimps](../../../crustacea/othercrust/shrimp/brevicarpalis). *Terumbu Selegie, Jun 11* 
 *![](trimaculatus/110619tslgd4444m6l.jpg)  
 Terumbu Selegie, Jun 11* 
 **What does it eat?** It feeds on
@@ -84,7 +84,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 ![](trimaculatus/110508cyrlks2m3.jpg)  
 Juvenile fish
 in Giant carpet anemone *Cyrene Reef, May 11* Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/05/lovely-surprises-from-cyrene-reef.html).
+blog](http://wondercreation.blogspot.com/2011/05/lovely-surprises-from-cyrene-reefl).
 
 ---
 
@@ -102,9 +102,9 @@ blog](http://wondercreation.blogspot.com/2011/05/lovely-surprises-from-cyrene-re
   dascyllus (*Dascyllus trimaculatus*)](http://www.fishbase.org/summary/speciessummary.php?id=5112) from [FishBase](http://www.fishbase.org/):
   fact sheet
 - [*Dascyllus
-  trimaculatus*](http://www.nhm.ku.edu/inverts/ebooks/ch2.html#trima) from the
+  trimaculatus*](http://www.nhm.ku.edu/inverts/ebooks/ch2l#trima) from the
   [the
-  Field Guide to Anemone Fishes and their host Sea Anemones](http://www.nhm.ku.edu/inverts/ebooks/intro.html)
+  Field Guide to Anemone Fishes and their host Sea Anemones](http://www.nhm.ku.edu/inverts/ebooks/introl)
   by Dr Daphne
   G. Fautin and Dr Gerald R. Allen: brief fact sheet
   with photo.
@@ -126,9 +126,9 @@ blog](http://wondercreation.blogspot.com/2011/05/lovely-surprises-from-cyrene-re
   Science, Nanyang Technological University & Department of Zoology,
   the National University of Singapore. 160 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,24 +4,24 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "bakau, rhizophora, mucronata, rhizophoraceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
-plants [text index](../../plantindex.htm) | [photo
-index](../../plantfi.htm)
-[mangroves](../mangroves.htm) > [*Rhizophora*](rhizophora.htm) in general
+plants [text index](../../plantindex) | [photo
+index](../../plantfi)
+[mangroves](../mangroves) > [*Rhizophora*](rhizophora) in general
 **Bakau
 kurap   
 *Rhizophora mucronata*  
@@ -61,7 +61,7 @@ is more pimply, compared to that of *R. stylosa* and grows very
 long (50-70cm).   
   
 **Sometimes mistaken for** [Bakau
-pasir](stylosa.htm) (*R. stylosa*) which has smaller leaves and shorter,
+pasir](stylosa) (*R. stylosa*) which has smaller leaves and shorter,
 less pimply propagules. The two species can only be distinguished
 with certainty by looking at the details of the flowers: *R. stylosa*
 has a longer style.  
@@ -128,7 +128,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 **Links**
 
 - [Bakau
-  kurap (*Rhizophora mucronata*](http://mangrove.nus.edu.sg/guidebooks/text/1070.htm)) Ng, Peter K. L. &
+  kurap (*Rhizophora mucronata*](http://mangrove.nus.edu.sg/guidebooks/text/1070)) Ng, Peter K. L. &
   N. Sivasothi, 1999. *[A
   Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*.
   Singapore Science Centre. 168 pp.
@@ -138,7 +138,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 - Giesen, Wim
   and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
   [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.htm) (PDF online downloadable).
+  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
   RAP publication 2006/07 Food and Agriculture Organization of the
   United Nations Regional Office for Asia and the Pacific Bangkok.
 
@@ -168,9 +168,9 @@ references**
 FREE photos of [mangrove
 trees and plants](http://www.flickr.com/photos/54527470@N00/sets/72157600258037543). Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

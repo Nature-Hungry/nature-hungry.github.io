@@ -4,28 +4,28 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "seafan, fan, subergorgia, subergorgiidae, gorgonian, gorgonacea, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 gorgonian
-[text index](../../cnidariaindex.htm#gorgonacea) | [photo
-index](../../gorgonaceafi.htm)
+[text index](../../cnidariaindex#gorgonacea) | [photo
+index](../../gorgonaceafi)
 
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Alcyonaria/Octocorallia > Order [Gorgonacea](gorgonacea.htm)
+Phylum [Cnidaria](../../cnidaria)
+> Class [Anthozoa](../../anthozoa) > Subclass
+Alcyonaria/Octocorallia > Order [Gorgonacea](gorgonacea)
 **Flat
 branch sea fan**  
 ***Subergorgia*** **sp.\*  
@@ -79,7 +79,7 @@ Beting Bronok, Jul 03
 *![](flatbranch/090723ecplks6m3.JPG)  
 East Coast Park, Jul 09  
 ![](flatbranch/090723ecplks6m3a.JPG)*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/07/east-coast-is-packed-with-sea-fans.html).
+blog](http://wondercreation.blogspot.com/2009/07/east-coast-is-packed-with-sea-fansl).
 
 *![](flatbranch/050411tusg4438m3.jpg)  
 Tuas, Apr 05  
@@ -98,9 +98,9 @@ An ovulid snail on the sea fan.
 **Links**
 
 - [*Subergorgia
-  suberosa*](http://www.sealifebase.fisheries.ubc.ca/summary/Subergorgia-suberosa.html)
+  suberosa*](http://www.sealifebase.fisheries.ubc.ca/summary/Subergorgia-suberosal)
   and *[Subergorgia
-  mollis](http://www.sealifebase.fisheries.ubc.ca/summary/Subergorgia-mollis.html)* on SeaLife Base: technical fact sheet.
+  mollis](http://www.sealifebase.fisheries.ubc.ca/summary/Subergorgia-mollisl)* on SeaLife Base: technical fact sheet.
 - [*Subergorgia*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Subergorgia)
   on [Reef
   Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
@@ -120,9 +120,9 @@ An ovulid snail on the sea fan.
   Indo-West Pacific*. Raffles
   Museum Bulletin of Zoology Pp. 435-459.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

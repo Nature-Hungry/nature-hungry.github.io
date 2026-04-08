@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "tiny, orange, brittle, star, brittlestar, ophiothela, mirabilis, ophiuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 brittle
-stars [text index](../echinodermindex.htm#ophiuroidea)
-| [photo index](../ophuiroideafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class Stellaroida > Subclass [Ophiuroidea](ophiuroidea.htm)
+stars [text index](../echinodermindex#ophiuroidea)
+| [photo index](../ophuiroideafi)
+Phylum [Echinodermata](../echinodermata)
+> Class Stellaroida > Subclass [Ophiuroidea](ophiuroidea)
 **Tiny
 orange brittle stars**   
 ***Ophiothela mirabilis*\*  
@@ -35,29 +22,29 @@ Oct 2024*
 **Where
 seen?** These
 tiny brittle stars are sometimes seen on [Asparagus
-soft corals](../../cnidaria/coralsoft/nephtheidae.htm), various soft corals and other cnidarians. A single host
+soft corals](../../cnidaria/coralsoft/nephtheidae), various soft corals and other cnidarians. A single host
 can be home to many of these tiny brittle stars.  
   
 **Features:** Whole
-animal about 1cm wide. 5-6 arms with very small spines, held flat, along the sides of the arm. Uniformly bright orange. Sometimes confused with the [Tiny colourful brittle star](tinyorange.htm) which are more colorful and found on a wider variety of animals.
+animal about 1cm wide. 5-6 arms with very small spines, held flat, along the sides of the arm. Uniformly bright orange. Sometimes confused with the [Tiny colourful brittle star](tinyorange) which are more colorful and found on a wider variety of animals.
 
 ![](tinyorange/111029smkd2954m3.jpg)  
 *Pulau Semakau, Oct 11*  
 In [asparagus
-soft coral](../../cnidaria/coralsoft/nepasparagus.htm).
+soft coral](../../cnidaria/coralsoft/nepasparagus).
 
 ![](tinyorange/200822jng.jpg)  
 *Pulau Jong,* Aug 20  
 In [asparagus
-soft coral](../../cnidaria/coralsoft/nepasparagus.htm).
+soft coral](../../cnidaria/coralsoft/nepasparagus).
 
- **Sometimes confused with** the [Tiny colourful brittle star](tinycolourful.htm) which
+ **Sometimes confused with** the [Tiny colourful brittle star](tinycolourful) which
 have colourful bands on their arms and central disk also with colourful markings. The two kinds of tiny brittle stars are sometimes seen together.
 
 ![](tinycolourful/160209cyrlks4.JPG)  
-On [pencil sea urchin](../echinoidea/urchin/prionocidaris.htm) spine.  
+On [pencil sea urchin](../echinoidea/urchin/prionocidaris) spine.  
 *Cyrene Reef, Feb 16*  
-Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2016/02/cny-day-2-cyrene-reef.html).
+Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2016/02/cny-day-2-cyrene-reefl).
 
 ![](tinyorange/161012cj.jpg)  
 *Chek Jawa, Oct 16*   
@@ -90,11 +77,11 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 ---
 
 ![](tinyorange/230805thntjt1.jpg)  
-On [Black-and-white leathery soft coral](../../cnidaria/coralsoft/letblackwhite.htm). *Terumbu Hantu, Aug 23*   
+On [Black-and-white leathery soft coral](../../cnidaria/coralsoft/letblackwhite). *Terumbu Hantu, Aug 23*   
 Photo shared by Johnathan Tan on [facebook](https://www.facebook.com/photo/?fbid=10160899391108119&set=a.10160899431628119) .
 
 .![](tinyorange/200919bsisvc3.jpg)  
-On [Black-and-white leathery soft coral](../../cnidaria/coralsoft/letblackwhite.htm). *Big Sisters Island, Sep 20*  
+On [Black-and-white leathery soft coral](../../cnidaria/coralsoft/letblackwhite). *Big Sisters Island, Sep 20*  
 Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10157957421047945&set=a.10157957417432945)
 
 ![](tinyorange/210822ssislks1.jpg)  
@@ -104,7 +91,7 @@ Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid
 ---
 
 ![](tinyorange/250430sjilll5.jpg)  
-On [Leathery sea fan](../../cnidaria/others/gorgonacea/leathery.htm). *St John's Island, Apr 25*  
+On [Leathery sea fan](../../cnidaria/others/gorgonacea/leathery). *St John's Island, Apr 25*  
 Photo shared by Low Liong Leong on [facebook](https://www.facebook.com/media/set/?set=a.2723442181180571&type=3&ref=embed_post) .
 
 ![](tinyorange/240113lazky2.jpg)  
@@ -125,17 +112,7 @@ Photo shared by Che Cheng Neo on [facebook](https://www.facebook.com/photo/?fbid
 **Acknowlegement**Thanks to Dr Neo Mei Lin for [the identifcation](https://www.facebook.com/meilin86/posts/pfbid02KTht7yxs2bgoLZZ8Ba2bKU41y8LvkzEaP1RDpgaSMaSTi7uRijGb44dDz8zf2vool?__cft__[0]=AZVQn4T_Ul_dZKDhp9UKdgzHpTOxW6xeHuJsaJWoQCZ1YlwRMLUFvwW73mlQbtVwDN4fBmoNVdddH_h2efU6ldaSAJC5SdPLp-omPaV-ttvDyU5H70BUZLlkQyD5lMIDQpE&__tn__=%2CO%2CP-R). **Links**
 
 - [*Ophiothela
-  danae*](https://www.sealifebase.se/summary/Ophiothela-mirabilis.html)
+  danae*](https://www.sealifebase.se/summary/Ophiothela-mirabilisl)
   on SeaLife Base: Technical fact sheet.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

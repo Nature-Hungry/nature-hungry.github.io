@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "coral, ghost, shrimp, glypturus, corallianassa, callianassidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 lobsters [text
-index](../../crustaceaindex.htm#lobsters) | [photo index](../../shrimpfi2.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> [Lobsters](lobster.htm)
+index](../../crustaceaindex#lobsters) | [photo index](../../shrimpfi2)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> [Lobsters](lobster)
 **Coral
 ghost shrimp**  
 ***Corallianassa* sp.**  
@@ -95,7 +95,7 @@ Sentosa Tg Rimau, Jan 26*Photo shared by Rui Quan Oh on [facebook](https://www.f
 
 ![](glypturus/080831sismn01m3.jpg)  
 *Sisters Island, Aug 08*Photo shared by Marcus Ng on [his
-blog](http://budak.blogs.com/the_annotated_budak/2008/09/ghost-shrimp.html).
+blog](http://budak.blogs.com/the_annotated_budak/2008/09/ghost-shrimpl).
 
 ![](glypturus/180519ssisdc3.jpg)  
 *Small Sisters Island, May 18*Photo shared by Dayna Cheah on [facebook](https://www.facebook.com/photo.php?fbid=1588497451267025&set=a.1588495367933900&type=3&theater)..
@@ -146,9 +146,9 @@ Grateful thanks to Dominik Kneer for correcting the identification of these anim
   Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
   IKAN-Unterwasserachiv, Frankfurt. 321 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

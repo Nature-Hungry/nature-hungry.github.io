@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "pen, seapen, pennatulacea, anthozoa, cnidaria, pteroides, cavernularia, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 seapens [text
-index](../../cnidariaindex.htm#pennatulacea) | [photo index](../../pennatulaceafi.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
+index](../../cnidariaindex#pennatulacea) | [photo index](../../pennatulaceafi)
+Phylum [Cnidaria](../../cnidaria)
 > Class
-[Anthozoa](../../anthozoa.htm)
+[Anthozoa](../../anthozoa)
 > Subclass Alcyonaria/Octocorallia > Order Pennatulacea
 **Sea
 pens**   
@@ -50,12 +50,12 @@ Please do not step on or pull sea pens out of the sand. You will hurt
 a whole colony of animals and the small creatures that live on them.  
   
 **What are sea pens?** Sea pens belong
-to [Phylum Cnidaria](../../cnidaria.htm) which includes
+to [Phylum Cnidaria](../../cnidaria) which includes
 the more familiar sea anemones, hard corals and jellyfishes. Sea pens
-are members of the same [Class Anthozoa](../../anthozoa.htm) as sea anemones. Unlike sea anemones which are large solitary polyps,
+are members of the same [Class Anthozoa](../../anthozoa) as sea anemones. Unlike sea anemones which are large solitary polyps,
 each sea pen is a colony of polyps. Sea pens belong to the Subclass
 Alcyonaria (Octocorallia) that includes the [soft
-corals](../../coralsoft/coralsoft.htm). Members of this subclass have tentacles which are branched
+corals](../../coralsoft/coralsoft). Members of this subclass have tentacles which are branched
 and in multiples of eight. There are about 300 species of known sea
 pens.  
   
@@ -76,7 +76,7 @@ this bone washed ashore.
 *![](spiky/081216prpd3387m3.jpg)*The orange foot is visible in this Spiky sea fan that washed ashore.  
 *Chek Jawa, Jul 05*
 
-*![](pencil/060502cftd1783m3.jpg)*Half dead [sea pencil](pencil.htm) washed ashore,
+*![](pencil/060502cftd1783m3.jpg)*Half dead [sea pencil](pencil) washed ashore,
 showing the stick-like skeleton in the centre. *Changi, May 06*
 
 ![](veretillidae/050524chgg6589m3c.jpg)  
@@ -113,15 +113,15 @@ move along the bottom by looping their bodies.
 
 ![](spiky/050726chgg0426m3.jpg)  
 [Tiny
-porcelain crabs](../../../crustacea/othercrust/anomura/porcellanidae/picta.htm) are often   
+porcelain crabs](../../../crustacea/othercrust/anomura/porcellanidae/picta) are often   
 seen in pairs in a sea pen.  
 *Changi, Jul 05*
 
 ![](../../../mollusca/slugs/nudibranchia/semperi/190802chglks2.jpg)  
-A [nudibranch that eats sea pens](../../../mollusca/slugs/nudibranchia/semperi.htm) is lurking near this one. *Changi, Aug 19*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10157406245013158&type=3).
+A [nudibranch that eats sea pens](../../../mollusca/slugs/nudibranchia/semperi) is lurking near this one. *Changi, Aug 19*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10157406245013158&type=3).
 
 *![](veretillidae/050524cftg6598m3b.jpg)*[Commensal
-shrimp](../../../crustacea/othercrust/shrimp/palaemonidae.htm) on a sea pen.   
+shrimp](../../../crustacea/othercrust/shrimp/palaemonidae) on a sea pen.   
 All that can often be seen are a pair of eyes! *Changi, May 05*
 
 **What do they eat?** A few sea pens
@@ -129,15 +129,15 @@ may harbour zooxanthellae (symbiotic algae) inside their bodies. These
 carry out photosynthesis and may contribute nutrients to the host
 polyp. But most gather edible bits from the water. **Snacking on sea pens:** Sea pens are preyed upon by some
 snails and nudibranchs. The striped [Armina
-nudibranch](../../../mollusca/slugs/nudibranchia/arminina/arminidaenoida.htm) (*Armina* sp.) is among those seen near [sea
-pencils](pencil.htm), and appear to feed on these sea pencils.  
+nudibranch](../../../mollusca/slugs/nudibranchia/arminina/arminidaenoida) (*Armina* sp.) is among those seen near [sea
+pencils](pencil), and appear to feed on these sea pencils.  
   
 **Pen pals:** Sea pens are often homes
 to other small creatures. The tiny [Painted
-porcelain crab](../../../crustacea/othercrust/anomura/porcellanidae/picta.htm) (*Porcellanella picta*) is often found in
-the [Common sea pen](pteroides.htm) (*Pteroides* sp.).
+porcelain crab](../../../crustacea/othercrust/anomura/porcellanidae/picta) (*Porcellanella picta*) is often found in
+the [Common sea pen](pteroides) (*Pteroides* sp.).
 Sometimes, tiny transparent shrimps are seen on [Flowery
-sea pens](veretillidae.htm) (Family Vertillidae)  
+sea pens](veretillidae) (Family Vertillidae)  
   
 **Human uses:** These beautiful animals
 are sometimes taken for the live aquarium trade. However, they usually
@@ -161,7 +161,7 @@ on Singapore shores**
 ---
 
 *![](veretillidae/050609chgg7516m3.jpg)*  
-**[Flowery sea pen](veretillidae.htm)**  
+**[Flowery sea pen](veretillidae)**  
 Family Veretillidae
 
 *![](veretillidae/050609chgg7516m3a.jpg)*
@@ -169,7 +169,7 @@ Family Veretillidae
 ---
 
 ![](pencil/050426cftg5070m3.jpg)  
-**[Sea pencil](pencil.htm)**  
+**[Sea pencil](pencil)**  
 (*Lituaria* sp.)
 
 ![](pencil/050722cjg9824m3b.jpg)
@@ -177,7 +177,7 @@ Family Veretillidae
 ---
 
 *![](spiky/120705chgd7083m3.jpg)*  
-[**Spiky sea pen**](spiky.htm)  
+[**Spiky sea pen**](spiky)  
 (*Pteroeides* sp.)
 
 *![](spiky/120705chgd7086m3b.jpg)*
@@ -185,7 +185,7 @@ Family Veretillidae
 ---
 
 *![](virgularia/090722chgd7702m3.jpg)*  
-[Slender sea pen](virgularia.htm)  
+[Slender sea pen](virgularia)  
 (*Virgularia* sp.)
 
 *![](virgularia/120703chgd6506m3a.jpg)*
@@ -204,18 +204,18 @@ Field Guide*.
 +**Family
 Veretillidae** (Flowery sea pens)
  
-[Flowery sea pen](veretillidae.htm)  
-[*Lituaria* sp.](pencil.htm) (Sea pencil)
+[Flowery sea pen](veretillidae)  
+[*Lituaria* sp.](pencil) (Sea pencil)
   
  
 **Family
 Pennatulidae**
  
-*[Pteroides](spiky.htm)*[sp.](spiky.htm) (Spiky sea pens)
+*[Pteroides](spiky)*[sp.](spiky) (Spiky sea pens)
   
  
 +**[Family
-Virgulariidae](virgularia.htm)** (Slender sea pens)
+Virgulariidae](virgularia)** (Slender sea pens)
 
 ---
 
@@ -226,11 +226,11 @@ Virgulariidae](virgularia.htm)** (Slender sea pens)
   Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
   Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
 - [Introduction
-  to Pennatulacea](http://www.ucmp.berkeley.edu/cnidaria/pennatulacea.html) on the Museum of Paleontology, University
+  to Pennatulacea](http://www.ucmp.berkeley.edu/cnidaria/pennatulaceal) on the Museum of Paleontology, University
   of California, Berkeley website: a brief introduction with some
   photos.
 - [Sea
-  Pens](http://www.lanecc.edu/science/zonation/seapen.htm) on the Lane Community College website: short fact sheet
+  Pens](http://www.lanecc.edu/science/zonation/seapen) on the Lane Community College website: short fact sheet
   on sea pens with lots of photos.
 
 **References**
@@ -255,9 +255,9 @@ Virgulariidae](virgularia.htm)** (Slender sea pens)
   Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
   The Nature Society (Singapore), Singapore. 343 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

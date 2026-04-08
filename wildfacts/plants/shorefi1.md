@@ -4,27 +4,12 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 plants
-[text index](plantindex.htm) | [photo
-index](plantfi.htm)
+[text index](plantindex) | [photo
+index](plantfi)
 
-[mangroves](mangrove/mangroves.htm)
-| [coastal plants](shorefi.htm)
+[mangroves](mangrove/mangroves)
+| [coastal plants](shorefi)
 **Photo
 index of mangrove and seashore plants on Singapore shores**  
 **seashore
@@ -45,14 +30,14 @@ creepers**growing near the high water mark
   
   
   
- [Gelang laut](coastal/sesuvium/portulacastrum.htm)*Sesuvium portulacastrum*
+ [Gelang laut](coastal/sesuvium/portulacastrum)*Sesuvium portulacastrum*
 
 ![](coastal/ipomoea/pescaprae/090405smkd8945m.jpg)  
   
 ![](coastal/ipomoea/pescaprae/090118smkd5670ma.jpg)  
   
 ![](coastal/ipomoea/pescaprae/090118smkd5717m.jpg)  
- [Beach morning glory](coastal/ipomoea/pescaprae.htm)  
+ [Beach morning glory](coastal/ipomoea/pescaprae)  
  *Ipomoea pes-caprae*
 
 ![](coastal/canavalia/canavalia/090405smkd9044m.jpg)  
@@ -60,7 +45,7 @@ creepers**growing near the high water mark
 ![](coastal/canavalia/canavalia/090405smkd9043m.jpg)  
   
 ![](coastal/canavalia/canavalia/090405smkd9041ma.jpg)  
-[Sea bean](coastal/canavalia/maritima.htm)  
+[Sea bean](coastal/canavalia/maritima)  
 *Canavalia maritima*
 
 ![](coastal/canavalia/cathartica/091019prpd2912m.jpg)  
@@ -68,7 +53,7 @@ creepers**growing near the high water mark
 ![](coastal/canavalia/cathartica/091019prpd2916ma.jpg)  
   
 ![](coastal/canavalia/cathartica/090124ubnd6076m.jpg)  
-[Poisonous sea bean](coastal/canavalia/cathartica.htm)  
+[Poisonous sea bean](coastal/canavalia/cathartica)  
 *Canavalia cathartica*
 
  
@@ -100,47 +85,47 @@ index of
 plants on this site
 
 [all
-plants](plantfi.htm)  
+plants](plantfi)  
   
 **mangrove
 & seashore plants**   
 creepers  
-[climbers, vines](shorefi2.htm)  
-[herbs](shorefi3.htm)  
-[ferns](shorefi7.htm)  
-[palms, pandans](shorefi4.htm)  
+[climbers, vines](shorefi2)  
+[herbs](shorefi3)  
+[ferns](shorefi7)  
+[palms, pandans](shorefi4)  
   
 **mangrove
 &** **seashore
   
 shrubs<2m**  
-[thick/leathery leaves](shorefi5a.htm)  
-[thin leaves](shorefi5b.htm)  
+[thick/leathery leaves](shorefi5a)  
+[thin leaves](shorefi5b)  
   
 **seashore
   
 trees>2m**   
 type of leaves  
-[small simple](shorefi6b.htm)  
-[large simple](shorefi6c.htm)  
-[compound, others](shorefi6d.htm)   
+[small simple](shorefi6b)  
+[large simple](shorefi6c)  
+[compound, others](shorefi6d)   
   
 **mangrove
 trees**  
-small oval fruits and [pneumatophores](mangfi6a.htm)  
+small oval fruits and [pneumatophores](mangfi6a)  
   
 long cylindrical fruits  
-with [knee roots](mangfi6b.htm)  
-with [buttressed roots](mangfi6c.htm)  
-with [stilt roots](mangfi6d.htm)  
+with [knee roots](mangfi6b)  
+with [buttressed roots](mangfi6c)  
+with [stilt roots](mangfi6d)  
   
-[large round fruits](mangfi6f.htm)  
+[large round fruits](mangfi6f)  
   
-[others](mangfi7a.htm)
+[others](mangfi7a)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

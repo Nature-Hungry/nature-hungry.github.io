@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "black, long, seacucumber, cucumber, holothuria, leucospilota, cucumariidae, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 sea
-cucumbers [text index](../echinodermindex.htm#holothuroidea)
-| [photo index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class [Holothuroidea](holothuroidea.htm)
+cucumbers [text index](../echinodermindex#holothuroidea)
+| [photo index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
+> Class [Holothuroidea](holothuroidea)
 **Black
 long sea cucumber   
 *Holothuria leucospilota*  
@@ -101,7 +88,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 *Chek Jawa,
 Aug 13*Photo
 shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2013/08/a-glimpse-of-glorious-beacon-area-at.html).
+blog](http://wondercreation.blogspot.sg/2013/08/a-glimpse-of-glorious-beacon-area-atl).
 
 .![](leucospilota/240722lygrk1.jpg)  
 *Changi (Fairy Point), Jul 24*  
@@ -118,7 +105,7 @@ shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media
 ![](leucospilota/100518lablks1m3.jpg)  
 *Labrador, May 10*Photo
 shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2010/05/nie-fieldtrip-to-labrador-rocky-shore.html).
+blog](http://wondercreation.blogspot.sg/2010/05/nie-fieldtrip-to-labrador-rocky-shorel).
 
 ![](leucospilota/170822labjt2.jpg)  
 *Labrador, Aug 17*Photo
@@ -152,7 +139,7 @@ shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.1015
 ![](leucospilota/130628thntlks.JPG)  
 *Terumbu Hantu, Jun 13*Photo
 shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2013/06/first-visit-to-terumbu-hantu.html).
+blog](http://wondercreation.blogspot.sg/2013/06/first-visit-to-terumbu-hantul).
 
 ![](leucospilota/210428slutch1.jpg)  
 *Pulau Salu, Apr 21*Photo
@@ -183,12 +170,12 @@ Tekukor, Jan 10
 
 **Links**
 
-- *[Holothuria leucospilota](https://singapore.biodiversity.online/taxo4254/mainSpace/Holothuria%20leucospilota.html)* (Aspidochirotida: Holothuriidae) Black Sea Cucumber by Hazel Peh Huiqi, 2014, on taxo4254
+- *[Holothuria leucospilota](https://singapore.biodiversity.online/taxo4254/mainSpace/Holothuria%20leucospilotal)* (Aspidochirotida: Holothuriidae) Black Sea Cucumber by Hazel Peh Huiqi, 2014, on taxo4254
 - *[Holothuria
-  leucospilota](http://coralreef.nus.edu.sg/gallery/ot045.htm)* on the Coral Reefs of Singapore website:
+  leucospilota](http://coralreef.nus.edu.sg/gallery/ot045)* on the Coral Reefs of Singapore website:
   photo and brief facts
 - [*Holothuria
-  leucospilota* (White threads fish)](http://www.sealifebase.org/summary/Holothuria-leucospilota.html) on SeaLife Base: Technical
+  leucospilota* (White threads fish)](http://www.sealifebase.org/summary/Holothuria-leucospilotal) on SeaLife Base: Technical
   fact sheet.
 - [*Holothuria
   leucospilota*](http://species-identification.org/species.php?species_group=nasc&id=65) in North Australian Sea Cucumbers on Marine
@@ -196,7 +183,7 @@ Tekukor, Jan 10
 - [*Holothuria
   leucospilota*](http://www.iucnredlist.org/details/180375/0) on the IUCN Red List: Technical fact sheet.
 - *Holothuria
-  leucospilota* on [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00.htm), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
+  leucospilota* on [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
 
 **References**
 
@@ -218,14 +205,4 @@ Tekukor, Jan 10
   Coral Reef Field Guide![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
   Tropical Reef Research. 378pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

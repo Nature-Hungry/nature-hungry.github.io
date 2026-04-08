@@ -4,28 +4,28 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "seafan, fan, euplexaura, plexauridae, gorgonian, gorgonacea, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 gorgonian
-[text index](../../cnidariaindex.htm#gorgonacea) | [photo
-index](../../gorgonaceafi.htm)
+[text index](../../cnidariaindex#gorgonacea) | [photo
+index](../../gorgonaceafi)
 
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Alcyonaria/Octocorallia > Order [Gorgonacea](gorgonacea.htm)
+Phylum [Cnidaria](../../cnidaria)
+> Class [Anthozoa](../../anthozoa) > Subclass
+Alcyonaria/Octocorallia > Order [Gorgonacea](gorgonacea)
 **Candelabra
 sea fan**  
  ***Euplexaura* sp.*\**  
@@ -49,7 +49,7 @@ usually orange, although the colony may appear whitish if the polyps are fully e
 emerge all around the stem. The white polyps can retract completely
 into the stem.  
   
-Animals seen on the sea fan include [Winged oysters,](../../../mollusca/bivalvia/pteriidae/seafan.htm) [tiny colourful brittle stars](../../../echinodermata/ophiuroidea/tinycolourful.htm) and [squid egg capsules](../../../mollusca/cephalopoda/cepeggs.htm).
+Animals seen on the sea fan include [Winged oysters,](../../../mollusca/bivalvia/pteriidae/seafan) [tiny colourful brittle stars](../../../echinodermata/ophiuroidea/tinycolourful) and [squid egg capsules](../../../mollusca/cephalopoda/cepeggs).
 
 *![](candelabra/060528bbd2416m3.jpg)  
 Beting Bronok, May 06*
@@ -61,13 +61,13 @@ Tuas, Dec 11*
 
 ---
 
-*![](candelabra/170714chgsafo7130425m3a.jpg)*[Squid egg capsules](../../../mollusca/cephalopoda/cepeggs.htm) attached to the sea fan. *Changi, Jul 17*
+*![](candelabra/170714chgsafo7130425m3a.jpg)*[Squid egg capsules](../../../mollusca/cephalopoda/cepeggs) attached to the sea fan. *Changi, Jul 17*
 
 ![](../../../mollusca/bivalvia/pteriidae/pteriidae/150802bbd8848m3a.jpg)  
-[Winged oyster](../../../mollusca/bivalvia/pteriidae/seafan.htm) on the sea fan. *Beting Bronok, Aug 15*
+[Winged oyster](../../../mollusca/bivalvia/pteriidae/seafan) on the sea fan. *Beting Bronok, Aug 15*
 
 ![](../../../echinodermata/ophiuroidea/tinycolourful/150704cjd6780m3.jpg)[Tiny colourful
-brittle stars](../../../echinodermata/ophiuroidea/tinycolourful.htm) on the sea fan. *Chek Jawa, Jul 15*
+brittle stars](../../../echinodermata/ophiuroidea/tinycolourful) on the sea fan. *Chek Jawa, Jul 15*
 
  *\***Species
 are difficult to positively identify without close examination.**On this website, they are grouped by external
@@ -107,9 +107,9 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
   Indo-West Pacific*. Raffles
   Museum Bulletin of Zoology Pp. 435-459.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,26 +4,11 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 plants
-[text index](plantindex.htm) | [photo
-index](plantfi.htm)
-[mangroves](mangrove/mangroves.htm)
-| [coastal plants](coastal/coastalplants.htm)
+[text index](plantindex) | [photo
+index](plantfi)
+[mangroves](mangrove/mangroves)
+| [coastal plants](coastal/coastalplants)
 **Photo
 index of plants on Singapore shores**
   
@@ -37,19 +22,19 @@ index of plants on Singapore shores**
 ![](mangrove/sonneratia/alba/090124ubnd5966m.jpg)
 ![](mangrove/rhizophora/stylosa/070520smkd1221ma.jpg)
 **[Mangrove
-trees](mangfi.htm)** 
+trees](mangfi)** 
 ![](coastal/canavalia/canavalia/090405smkd9044m.jpg)
 ![](coastal/pandanus/tectorius/051018smkg2732m.jpg)
 ![](coastal/flagellaria/indica/090111smkd4873ma.jpg)
 ![](coastal/calophyllum/inophyllum/090124ubnd5979m.jpg)
 **[Other
 seashore  
-and mangrove plants](shorefi.htm)**
+and mangrove plants](shorefi)**
 ![](others/asplenium/nidus/090613admd4177m.jpg)
 ![](others/drymoglossum/piloselloides/090408wdld9130m.jpg)
 ![](mangrove/acrostichum/speciosum/090328sbwrd0033m.jpg)
 ![](mangrove/acrostichum/aureum/090328sbwrd8453ma.jpg)
-[**Ferns**](shorefi7.htm)
+[**Ferns**](shorefi7)
 
 ![](mangrove/nypa/nypa/090124ubnd5977m.jpg)
 
@@ -61,44 +46,44 @@ and mangrove plants](shorefi.htm)**
 
 [**Palms,
 pandans  
-and rattans**](shorefi4.htm)
+and rattans**](shorefi4)
 
 ![](fruittrees/theobroma/cacao/091005cjd2003m.jpg)
 ![](fruittrees/durio/zibethinus/090704ubnd6367m.jpg)
 ![](fruittrees/syzygium/malaccense/091005cjd2131m.jpg)
 ![](fruittrees/averrhoa/carambola/091128cjd4764ma.jpg)
 **[Fruit
-trees](fruitfi1.htm)**
+trees](fruitfi1)**
 ![](others/ficus/benjamina/100221sbwrd9522m.jpg)
 ![](others/ficus/variegata/091213ubnd5879m.jpg)
 ![](coastal/fagraea/racemosa/020714cjcpd3224m.jpg)
 ![](others/hevea/brasiliensis/091005cjd2068ma.jpg)
 **[Other
-plants](otherfi1.htm)** including figs
+plants](otherfi1)** including figs
 
 ---
 
 **These
 are seagrasses**   
 see the [seagrass
-photo index](seagrass/seagrassfi.htm)  
+photo index](seagrass/seagrassfi)  
 
-![](seagrass/ovalis/040523sjiad0057m.jpg) [Spoon seagrass](seagrass/ovalis.htm)  *Halophila ovalis* complex
+![](seagrass/ovalis/040523sjiad0057m.jpg) [Spoon seagrass](seagrass/ovalis)  *Halophila ovalis* complex
 
-![](seagrass/halodule/050611kusd4016m.jpg) [Needle seagrass](seagrass/halodule.htm)  *Halodule pinifolia*and *H. univervis*
+![](seagrass/halodule/050611kusd4016m.jpg) [Needle seagrass](seagrass/halodule)  *Halodule pinifolia*and *H. univervis*
 
-![](seagrass/enhalus/040620skdd0750m.jpg) [Tape seagrass](seagrass/enhalus.htm)
+![](seagrass/enhalus/040620skdd0750m.jpg) [Tape seagrass](seagrass/enhalus)
 
-![](seagrass/thalassia/041019labd7736m.jpg) [Sickle seagrass](seagrass/thalassia.htm)  *Thalassia hemprichii*
+![](seagrass/thalassia/041019labd7736m.jpg) [Sickle seagrass](seagrass/thalassia)  *Thalassia hemprichii*
 
-![](seagrass/spinulosa/030928cjd0024m.jpg) [Fern seagrass](seagrass/spinulosa.htm) *Halophila spinulosa*
+![](seagrass/spinulosa/030928cjd0024m.jpg) [Fern seagrass](seagrass/spinulosa) *Halophila spinulosa*
 
 ---
 
 **These
 are seaweeds**   
 see the [seaweed
-photo index](seaweed/seaweedfi.htm)  
+photo index](seaweed/seaweedfi)  
 
 ![](seaweed/chlorophyta/sertularioides/050623cjd4103m.jpg)  
 Green seaweed
@@ -128,18 +113,18 @@ plants on this site
 all
 plants  
   
-[mangrove trees](mangfi.htm)  
+[mangrove trees](mangfi)  
   
-[other seashore](shorefi.htm) and mangrove
+[other seashore](shorefi) and mangrove
 plants  
   
-[fruits](fruitfi1.htm)  
+[fruits](fruitfi1)  
   
-[other plants](otherfi1.htm)
+[other plants](otherfi1)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -21,7 +21,7 @@ of the National Parks Board: checklists and more.
 [Seashore Life of Singapore](http://mangrove.nus.edu.sg/pub/seashore/)
 A full on-line version of the complete BP-Science Centre guide by Leo W H Tan and Peter K L Ng. Includes fact sheets on the flora and fauna of Singapore seashores, an introduction to the shore environment in general, Singapore shores to visit, preparing for a visit, dangerous animals, introduction to special communities on the shore, the strand line, symbiosis Intro and Man and the Sea.  
   
-[Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/index.htm)
+[Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/index)
 A full on-line version of the complete BP-Science Centre guide by Peter K L Ng and N. Sivasothi (eds.). Includes fact sheets on the flora and fauna of Singapore mangroves, an introduction to mangroves in general and mangroves in Singapore, history and biodiversity, mangroves in Singapore to visit (Pasir Ris and Sungei Buloh), mangrove conservation in Singapore, general introduction to the mangrove ecosystem (abiotic and biotic components), economic value of mangroves.  
   
 [Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)
@@ -29,7 +29,7 @@ A full on-line version of the complete BP-Science Centre guide by Kelvin K P Lim
 
 # Online guides to specific flora and fauna groups in Singapore
  
-[A Guide to Singapore Nudibranchs](http://rmbr.nus.edu.sg/nudibranch/main.html)
+[A Guide to Singapore Nudibranchs](http://rmbr.nus.edu.sg/nudibranch/mainl)
 by Uma Sachidhanandam: though without any description of the nudibranchs, there are lots of photos and locations where the species are found and a list of Singapore nudibranchs.
 
 [A Guide to Singapore Polychaetes](http://rmbr.nus.edu.sg/polychaete/)
@@ -51,7 +51,7 @@ of. Many with photos.
 
 # Shore Creatures in General
  
-[Life on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1.html)
+[Life on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1l)
 by Keith Davey on the Marine Education Society of Australia website: Fact sheets with photos, diagrams, and even animated gifs with details on various species found in Australia.
   
 ## Cnidarians
@@ -61,7 +61,7 @@ website by Dr Daphne Fautin: all about sea
 anemones, corals and their allies with classification, distribution,
 biological associations and more.  
   
-[Field guide to anemone fishes and their host sea anemones](http://www.nhm.ku.edu/inverts/ebooks/intro.html)
+[Field guide to anemone fishes and their host sea anemones](http://www.nhm.ku.edu/inverts/ebooks/introl)
 Fautin, Daphne G. and Gerald R. Allen, 1992. Western Australian Museum.  
   
 [The Scyphozoan website](http://thescyphozoan.ucmerced.edu/)
@@ -69,20 +69,20 @@ by Dr Michael N Dawson: lots of info about jellyfishes in Class Scyphozoa.
 
 ## Crustaceans
  
-[Marine Crustaceans of Southern Australia](http://www.museum.vic.gov.au/crust/page1a.html)
+[Marine Crustaceans of Southern Australia](http://www.museum.vic.gov.au/crust/page1al)
 page on the Museum Victoria website: photos and brief fact sheets on a small selection of crabs, shrimps, barnacles and their relatives.
   
 ## Molluscs
  
 [Man and Mollusc/Mollusk](http://manandmollusc.net/)
 The Resource Site for Students, Educators, and anyone wanting to learn about molluscs. Includes an introduction to the major classes, molluscs as food, medicine, other uses, religious significance, kid's zone, teacher's zone.
-Includes a detailed introduction to the [Phylum Mollusca](http://www.manandmollusc.net/advanced_introduction/mollusca_101_intro.html) with a glossary and links to major groups of molluscs.
+Includes a detailed introduction to the [Phylum Mollusca](http://www.manandmollusc.net/advanced_introduction/mollusca_101_introl) with a glossary and links to major groups of molluscs.
   
   
-[The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)
+[The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollectionl)
 at Washington State University Tri-Cities Natural History Museum website: introductions to major features of molluscs with lots of photos of shells and diagrams and details on the individual classes and species.  
   
-[The Seashells of New South Wales](http://seashellsofnsw.org.au/index.htm)
+[The Seashells of New South Wales](http://seashellsofnsw.org.au/index)
 by Des Beechey Research Associate, Australian Museum: family introductions with photos of shells and detailed fact sheets for many species.  
   
 [The Sea Slug Forum](http://www.seaslugforum.net/)
@@ -118,9 +118,9 @@ by Christopher Mah: taxonomic database.
 technical fact sheets on almost all families and individual species with photos and details on environment, climate, economic importance, resilience, distribution, biology, red list status, whether dangerous.  
   
 [Australian Museum Fish Site](http://www.amonline.net.au/fishes/fishfacts/) with find-a-fish section which links to factsheets with photos
-[Fishes of Libong Island](http://research.kahaku.go.jp/zoology/Fishes_of_Libong/index.html) (West Coast of Southern Thailand) by Keiichi Matsuura and Seishi Kimura (eds.);
-[Fishes of Bitung](http://research.kahaku.go.jp/zoology/Fishes_of_Bitung/index.html) (Northern Tip of Sulawesi Indonesia) by Seishi Kimura and Keiichi Matsuura (eds.);
-[Coastal Fishes of Indonesia: Field Guide to Lombok Island](http://research.kahaku.go.jp/zoology/FishGuide/index.html) by Keiichi Matsuura, Seishi Kimura and Teguh Peristiwady on the National Science Museum, Tokyo website: factsheets with photos and descriptions with details on similar families found in the area.
+[Fishes of Libong Island](http://research.kahaku.go.jp/zoology/Fishes_of_Libong/indexl) (West Coast of Southern Thailand) by Keiichi Matsuura and Seishi Kimura (eds.);
+[Fishes of Bitung](http://research.kahaku.go.jp/zoology/Fishes_of_Bitung/indexl) (Northern Tip of Sulawesi Indonesia) by Seishi Kimura and Keiichi Matsuura (eds.);
+[Coastal Fishes of Indonesia: Field Guide to Lombok Island](http://research.kahaku.go.jp/zoology/FishGuide/indexl) by Keiichi Matsuura, Seishi Kimura and Teguh Peristiwady on the National Science Museum, Tokyo website: factsheets with photos and descriptions with details on similar families found in the area.
   
 ## Ascidians
  
@@ -133,16 +133,16 @@ on the The Smithsonian Institution's National Museum of Natural History website:
 
 
 # Other sites with general info
-[Tree of Life](http://tolweb.org/tree/phylogeny.html) web project hosted by The University of Arizona College
+[Tree of Life](http://tolweb.org/tree/phylogenyl) web project hosted by The University of Arizona College
 of Agriculture and Life Sciences and The University of Arizona Library: introduction, characteristics, phylogeny, evolution, links.   
   
-[Phylogeny Wing](http://www.ucmp.berkeley.edu/exhibit/phylogeny.html) on the [Museum of Paleontology, University of California Berkeley](http://www.ucmp.berkeley.edu/) website: fossil
+[Phylogeny Wing](http://www.ucmp.berkeley.edu/exhibit/phylogenyl) on the [Museum of Paleontology, University of California Berkeley](http://www.ucmp.berkeley.edu/) website: fossil
 record, life history and ecology, systematics and more on morphology.  
   
-[Animal Diversity Web](http://animaldiversity.ummz.umich.edu/site/index.html) on the University of Michigan Museum of Zoology website: information, pictures, specimens and classification.  
+[Animal Diversity Web](http://animaldiversity.ummz.umich.edu/site/indexl) on the University of Michigan Museum of Zoology website: information, pictures, specimens and classification.  
   
 [Canada's Aquatic Environments](http://www.aquatic.uoguelph.ca/) webpage on the University of Guelph website: an easy introduction to the more technical aspects of marine plants,
 animals, habitats, human interactions. Includes lots of details on the major phyla and classes including morphology, biodiversity, ecology and habitat.  
   
-[Biomedia](http://www-biol.paisley.ac.uk/courses/Tatner/biomedia/home/museum.htm) by the Glasgow University Zoological Museum on the Biological Sciences, University
+[Biomedia](http://www-biol.paisley.ac.uk/courses/Tatner/biomedia/home/museum) by the Glasgow University Zoological Museum on the Biological Sciences, University
 of Paisley, Scotland website: a brief introduction, a glossary of terms and diagrams and photos.

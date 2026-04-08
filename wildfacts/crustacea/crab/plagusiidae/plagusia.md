@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "plagusia. squamosa, plagusiidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
 > Brachyurans
 **Rafting crab**  
 ***Plagusia* sp.**  
@@ -35,8 +35,8 @@ Dec 2019*
 
 **Where
 seen?** This bumpy crab that resembles the [Sally-light-foot
-crab](../grapsidae/albolineatus.htm) (*Grapsus albolineatus*) is sometimes seen on rocky shores in the North and South. Previously placed in [Family
-Grapsidae](../grapsidae/grapsidae.htm).  
+crab](../grapsidae/albolineatus) (*Grapsus albolineatus*) is sometimes seen on rocky shores in the North and South. Previously placed in [Family
+Grapsidae](../grapsidae/grapsidae).  
   
 **Features:** Body width 5-6cm. Body
 oval (not so circular), convex (not flat), covered with small bumps. Pincers short slender. Walking legs
@@ -46,7 +46,7 @@ waves, and can scramble quickly among slippery rocks. Mottled body
 and legs. Colours seen include shades of brown, blue, purple, orange.  
   
 **Sometimes mistaken for** the [Sally-light-foot
-crab](../grapsidae/albolineatus.htm) (*Grapsus albolineatus*) which has a more circular flatter
+crab](../grapsidae/albolineatus) (*Grapsus albolineatus*) which has a more circular flatter
 smoother body.
 
 *![](plagusia/120703chgd6472m3.jpg)  
@@ -160,9 +160,9 @@ Grateful thanks to Ondřej Radosta from [ID Please (Marine Creatures) facebook p
   S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
   Australian Waters*. Reed New Holland. 224 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

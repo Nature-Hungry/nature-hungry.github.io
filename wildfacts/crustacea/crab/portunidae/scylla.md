@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "mud, crab, scylla, crustacea, portunidae, decapod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> Brachyurans > Family [Portunidae](portunidae.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> Brachyurans > Family [Portunidae](portunidae)
 **Mud
 crab*****Scylla* sp.** **Family Portunidae**  
 *updated Dec 2019*
@@ -42,7 +42,7 @@ in unsuitable habitats.
 **Features:** Body width to about
 20cm. Body somewhat fan-shaped with 9 spines on the sides but the
 last tooth is not enlarged as it is in [flower
-crabs](pelagicus.htm).
+crabs](pelagicus).
 Mud crabs belong to the same family as swimming crabs and their last
 pair of legs are paddle-shaped. But because they are such large, heavy
 crabs, they don't use these legs to swim. Instead, the legs are used
@@ -112,7 +112,7 @@ Punggol, Jun 12*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com
 
 *![](scylla/081107prplks01m3.JPG)  
 Pasir Ris Park, Nov 08*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2008/11/stars-without-five-arms-at-pasir-ris.html).
+blog](http://wondercreation.blogspot.com/2008/11/stars-without-five-arms-at-pasir-risl).
 
 *![](scylla/140613skdmn1m6l.jpg)  
 Pulau Sekudu, Jun 14*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo.php?fbid=10152202743998660&set=a.10152202740248660.1073741838.624178659&type=3&theater).
@@ -121,11 +121,11 @@ Pulau Sekudu, Jun 14*Photo shared by Marcus Ng on [facebook](https://www.faceboo
 
 *![](scylla/100528tkkgl1m3.jpg)  
 Pulau Tekukor, May 10*Photo shared byGeraldin Lee on [her
-blog](http://starryfinds.blogspot.com/2010/05/slugs-of-pulau-tekukor.html).
+blog](http://starryfinds.blogspot.com/2010/05/slugs-of-pulau-tekukorl).
 
 *![](scylla/081227smkmc01m3.jpg)  
 Pulau Semakau, Dec 08*Photo shared by Marcus Ng on [his
-blog](http://budak.blogs.com/the_annotated_budak/2009/01/crabby-new-year.html).
+blog](http://budak.blogs.com/the_annotated_budak/2009/01/crabby-new-yearl).
 
 *![](scylla/091204pawd0064m3.jpg)**Pulau Pawai, Dec 09*
 
@@ -134,7 +134,7 @@ blog](http://budak.blogs.com/the_annotated_budak/2009/01/crabby-new-year.html).
 **Links**
 
 - [Mud
-  Crab (*Scylla serrata*)](http://mangrove.nus.edu.sg/pub/seashore/text/203.htm)
+  Crab (*Scylla serrata*)](http://mangrove.nus.edu.sg/pub/seashore/text/203)
   Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
@@ -143,11 +143,11 @@ blog](http://budak.blogs.com/the_annotated_budak/2009/01/crabby-new-year.html).
   the Crabs section by Peter K. L. Ng in the FAO Species Identification
   Guide for Fishery Purposes: The Living Marine Resources of the
   Western Central Pacific [Volume
-  2: Cephalopods, crustaceans, holothurians and sharks](http://www.fao.org/docrep/009/w7192e/w7192e00.htm) on the
+  2: Cephalopods, crustaceans, holothurians and sharks](http://www.fao.org/docrep/009/w7192e/w7192e00) on the
   Food and Agriculture Organization of the United Nations (FAO)
   website.
 - [Mud
-  Crabs (*Scylla* sp)](http://mangrove.nus.edu.sg/guidebooks/text/2044.htm) descriptions of various species of
+  Crabs (*Scylla* sp)](http://mangrove.nus.edu.sg/guidebooks/text/2044) descriptions of various species of
   Mud crabs.
   Ng, Peter K. L. & N. Sivasothi, 1999. *[A
   Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
@@ -175,9 +175,9 @@ blog](http://budak.blogs.com/the_annotated_budak/2009/01/crabby-new-year.html).
   S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
   Australian Waters*. Reed New Holland. 224 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

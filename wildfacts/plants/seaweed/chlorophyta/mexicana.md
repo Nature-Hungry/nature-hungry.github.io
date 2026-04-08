@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "mexican, feathery, seaweed, weed, green, caulerpa, mexicana, caulerpaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 green
-seaweeds [text index](../seaweedindex.htm) | [photo
-index](../seaweedfi.htm)
-[Seaweeds](../seaweed.htm)
-> Division [Chlorophyta](chlorophyta.htm) > Family
-Caulerpaceae > genus *[Caulerpa](caulerpa.htm)*
+seaweeds [text index](../seaweedindex) | [photo
+index](../seaweedfi)
+[Seaweeds](../seaweed)
+> Division [Chlorophyta](chlorophyta) > Family
+Caulerpaceae > genus *[Caulerpa](caulerpa)*
 **Mexican
 green seaweed  
 *Caulerpa mexicana\** Family Caulerpaceae***updated
@@ -47,10 +47,10 @@ name is mexicana because the seaweed was originally described from
 specimens from Mexico.  
   
 **Sometimes confused with** other
-feathery green seaweeds or with [seagrasses](../../seagrass/seagrass.htm).
+feathery green seaweeds or with [seagrasses](../../seagrass/seagrass).
 Here's more on [how to tell apart different
-feathery green seaweeds](cffeathery.htm) and how to tell apart [feathery
-green seaweeds and seagrasses](../../../glossary/seagrassweed.htm).
+feathery green seaweeds](cffeathery) and how to tell apart [feathery
+green seaweeds and seagrasses](../../../glossary/seagrassweed).
 
 *![](mexicana/040901sjid6072m3.jpg)*In small clumps on rocky areas. *St John's Island, Sep 04*
 
@@ -114,9 +114,9 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
   John M. 2000. *Marine
   Plants of Australia* University of Western Australia Press. 300pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

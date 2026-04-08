@@ -4,24 +4,11 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "heavy, jumper, spider, hyllus, diardi, salticidae, arachnid, arthropod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
+ 
 
 arthropods [text
-index](../arthropoda/arthropodaindex.htm) | [photo index](../arthropoda/arthropodafi.htm)
-Phylum [Arthropoda](../arthropoda/arthropoda.htm)
+index](../arthropoda/arthropodaindex) | [photo index](../arthropoda/arthropodafi)
+Phylum [Arthropoda](../arthropoda/arthropoda)
 > Class Arachnida
 **Heavy
 jumper spider  
@@ -89,11 +76,11 @@ shared by Rui Quan Oh on [facebook](https://www.facebook.com/media/set/?vanity=1
 
 **Links**
 
-- [Heavy jumper (*Hyllus diardi*)](http://habitatnews.nus.edu.sg/guidebooks/spiders/text/Hyllus_diardi.htm) Koh, Joseph
+- [Heavy jumper (*Hyllus diardi*)](http://habitatnews.nus.edu.sg/guidebooks/spiders/text/Hyllus_diardi) Koh, Joseph
   K. H., 1989. A Guide to Common Singapore Spiders. Singapore Science
   Centre, 160pp. online
   version
-- [Heavy jumper (*Hyllus diardii*)](http://mangrove.nus.edu.sg/guidebooks/text/2071.htm) Ng, Peter
+- [Heavy jumper (*Hyllus diardii*)](http://mangrove.nus.edu.sg/guidebooks/text/2071) Ng, Peter
   K. L. & N. Sivasothi, 1999. A Guide to the Mangroves of Singapore
   II (Animal Diversity). Singapore Science Centre. 168 pp.
 
@@ -111,9 +98,9 @@ shared by Rui Quan Oh on [facebook](https://www.facebook.com/media/set/?vanity=1
   Red Data Book: Threatened plants and animals of Singapore*.
   Nature Society (Singapore). 285 pp.
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

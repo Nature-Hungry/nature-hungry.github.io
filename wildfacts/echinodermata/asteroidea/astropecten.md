@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "sand, star, seastar, sea star, starfish, fish, astropecten, astropectinidae, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 sea
-stars [text index](../echinodermindex.htm) | [photo
-index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class Stelleroida > Subclass [Asteroidea](asteroidea.htm)
+stars [text index](../echinodermindex) | [photo
+index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
+> Class Stelleroida > Subclass [Asteroidea](asteroidea)
 **Sand
 sea stars  
 *Astropecten* sp.  
@@ -85,7 +72,7 @@ bits such as the shells.
   
 Sometimes, many tiny white snails are found on the upperside of a
 sand sea star. These are [parasitic
-snails](../../mollusca/gastropoda/eulimidae/eulimidae.htm) (Family Eulimidae).
+snails](../../mollusca/gastropoda/eulimidae/eulimidae) (Family Eulimidae).
 
 ---
 
@@ -95,7 +82,7 @@ sea stars on Singapore shores**
 ---
 
 ![](sandpainted/050622chgg8118m3.jpg)  
-[**Painted sand star**](sandpainted.htm)  
+[**Painted sand star**](sandpainted)  
 6-8cm in diameter
 
 ![](sandpainted/050622chgg8118m3d.jpg)
@@ -107,7 +94,7 @@ larger marginal plates.
 ---
 
 ![](sandplain/050426chgg5064m3.jpg)  
-[**Plain sand star**](sandplain.htm)  
+[**Plain sand star**](sandplain)  
 4-6cm in diameter
 
 ![](sandplain/050426chgg5064m3d.jpg)
@@ -119,7 +106,7 @@ smaller marginal plates
 ---
 
 ![](sandorange/130809smkd1086m3.jpg)  
-[**Orange sand star**](sandorange.htm)  
+[**Orange sand star**](sandorange)  
 10-15cm in diameter
 
 ![](sandorange/130809smkd1087m3a.jpg)  
@@ -132,7 +119,7 @@ Bright orange underside.
   
 shared by Neo Mei
 Lin on [her
-blog](http://psychedelic-nature.blogspot.com/2011/11/videos-echinoderms-on-our-shores.html)
+blog](http://psychedelic-nature.blogspot.com/2011/11/videos-echinoderms-on-our-shoresl)
 
 ---
 
@@ -153,7 +140,7 @@ species commonly seen awaiting identification***Species
 are difficult to positively identify without close examination.*  *On this website, they are grouped by external features for convenience
 of display**.*
  
-[Orange sand star](sandorange.htm)
+[Orange sand star](sandorange)
   
  
 **Family
@@ -161,30 +148,30 @@ Astropectinidae**
  
  *Astropecten koehleri=\*\*Astropecten indicus  
 \*Astropecten bengalensis   
-\*[Astropecten indicus](sandplain.htm)* (Plain sand star) *\*Astropecten novaeguineae  
-+[Astropecten vappa](sandpainted.htm)* (Painted sand star)
+\*[Astropecten indicus](sandplain)* (Plain sand star) *\*Astropecten novaeguineae  
++[Astropecten vappa](sandpainted)* (Painted sand star)
 
 ---
 
 **Links**
 
 - [Sand
-  star (*Astropecten* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/221.htm)
+  star (*Astropecten* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/221)
   Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - *[Astropecten
-  bengalensis](http://www.sealifebase.fisheries.ubc.ca/summary/Astropecten-bengalensis.html)* and [*Astropecten
-  indicus*](http://www.sealifebase.org/summary/Astropecten-indicus.html) from Sealife Base: Technical fact sheet.
+  bengalensis](http://www.sealifebase.fisheries.ubc.ca/summary/Astropecten-bengalensisl)* and [*Astropecten
+  indicus*](http://www.sealifebase.org/summary/Astropecten-indicusl) from Sealife Base: Technical fact sheet.
 - From The
   Echinoblog by Dr Chris Mah
   - [Telling
     Apart Sand Stars: Archaster vs. Astropecten! Two Common Trade
-    Species](http://echinoblog.blogspot.sg/2011/04/telling-apart-sand-stars-archaster-vs.html)
+    Species](http://echinoblog.blogspot.sg/2011/04/telling-apart-sand-stars-archaster-vsl)
   - [What
-    are the FASTEST known Starfish??](http://echinoblog.blogspot.sg/2012/07/what-are-fastest-known-starfish.html)
+    are the FASTEST known Starfish??](http://echinoblog.blogspot.sg/2012/07/what-are-fastest-known-starfishl)
   - [SAND
-    ANGELS! Astropecten The starfish that dig it!](http://echinoblog.blogspot.sg/2013/12/sand-angels-astropectnen-starfish-that.html)
+    ANGELS! Astropecten The starfish that dig it!](http://echinoblog.blogspot.sg/2013/12/sand-angels-astropectnen-starfish-thatl)
 
 **References**
 
@@ -194,7 +181,7 @@ Astropectinidae**
   and feeding in the sea star Astropecten indicus (Doderlein,
   1888)*. The Raffles Bulletin of Zoology 2011 59 (2): 251-258
   and Loh Kok Sheng's [blog
-  post about this study](http://wondercreation.blogspot.sg/2011/09/paper-published-diet-and-feeding-in-sea.html).
+  post about this study](http://wondercreation.blogspot.sg/2011/09/paper-published-diet-and-feeding-in-seal).
 - Lane, David
   J.W. and Didier Vandenspiegel. 2003*. A
   Guide to Sea Stars and Other Echinoderms of Singapore*.
@@ -222,14 +209,4 @@ Astropectinidae**
   Guide to the Coral Reef Life of Singapore*. Singapore Science
   Centre. 128 pages.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "crab, eating, water, snake, fordonia, leucobalia, homalopsidae, colubridae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 snakes [text
-index](snakeindex.htm) | [photo index](snakeshorefi.htm)
+index](snakeindex) | [photo index](snakeshorefi)
 Phylum
 Chordata > Subphylum Vertebrata > Class Reptilia > [shore
-snakes](snakeshore.htm)
+snakes](snakeshore)
 **Crab-eating
 water snake  
 *Fordonia leucobalia*  
@@ -35,7 +22,7 @@ Oct 2016*
 **Where
 seen?** Rarely seen, usually in mangroves such as Pasir Ris
 and Sungei Buloh, often near [mud
-lobster mounds](../../crustacea/othercrust/lobster/thalassina.htm). This snake is nocturnal and is seldom seen
+lobster mounds](../../crustacea/othercrust/lobster/thalassina). This snake is nocturnal and is seldom seen
 during the day.  
   
 **Features:**To about 90cm long. The head is rounded and not distinct from
@@ -119,7 +106,7 @@ prey.
 **Links**
 
 - [Crab-eating
-  Water Snake](http://www.ecologyasia.com/verts/snakes/crab-eating_water-snake.htm)on
+  Water Snake](http://www.ecologyasia.com/verts/snakes/crab-eating_water-snake)on
   Nick Baker's EcologyAsia website: fact sheet with photos.
 - [*Fordonia
   leucobalia*](http://www.iucnredlist.org/details/176694/0)
@@ -150,14 +137,4 @@ prey.
 FREE photos of [snakes](http://www.flickr.com/photos/54527470@N00/sets/72157594587662941).
 Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

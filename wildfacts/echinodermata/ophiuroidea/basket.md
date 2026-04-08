@@ -4,25 +4,12 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "basket, star, ophiuroidea, euryalidae, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 crinoids [text
-index](../echinodermindex.htm#crinoidea) | [photo index](../crinoideafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class Crinoidea > Order [Ophiuroidea](ophiuroidea.htm)
+index](../echinodermindex#crinoidea) | [photo index](../crinoideafi)
+Phylum [Echinodermata](../echinodermata)
+> Class Crinoidea > Order [Ophiuroidea](ophiuroidea)
 **Basket
 star**   
 ***Awaiting identification*  
@@ -66,11 +53,11 @@ aspersa* is the only species of basket star is so far listed for
 Singapore. It is listed as "DD: EN? Data deficient, possibly
 Endangered" in the Red List of threatened animals.
 ![](basket/130625ecpd8186m3.jpg)  
-On a [sea fan](../../cnidaria/others/gorgonacea/gorgonacea.htm) growing on a jetty leg.  
+On a [sea fan](../../cnidaria/others/gorgonacea/gorgonacea) growing on a jetty leg.  
 ![](basket/130625ecpd8186m3a.jpg)  
 *Beting Bronok, Jul 13.*
 ![](basket/130723bbd0060m3.jpg)  
-On a [Flowery soft coral](../../cnidaria/coralsoft/neppink.htm).   
+On a [Flowery soft coral](../../cnidaria/coralsoft/neppink).   
 ![](basket/130723bbd0060m3a.jpg)  
 *Beting Bronok, Jul 13.*
 ![](basket/091108hntjk5m3.jpg)  
@@ -79,7 +66,7 @@ On seagrass.
 *Pulau Hantu,
 Nov 09*  
 Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/11/091107-hantu-pooping-slug.html).
+blog](http://sgn090608.blogspot.com/2009/11/091107-hantu-pooping-slugl).
 
 ---
 
@@ -114,13 +101,13 @@ Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo/?fbid=1
 *Beting Bronok,
 Jun 10*![](basket/100614bbtch5m3.jpg)  
 Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2010/06/return-to-beting-bronok.html).
+blog](http://colorclouds.blogspot.com/2010/06/return-to-beting-bronokl).
 
 ![](basket/140713bblks5m3.jpg)  
 *Beting Bronok,
 Jul 14*![](basket/140713bblks6m3.jpg)  
 Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2015/08/hows-beting-bronok-over-two-years.html).
+blog](http://wondercreation.blogspot.sg/2015/08/hows-beting-bronok-over-two-yearsl).
 
 ![](basket/170625bblks1.jpg)  
 *Beting Bronok,
@@ -163,7 +150,7 @@ Bronok Jun 10
 **Links**
 
 - [*Euryale
-  aspera*](http://www.sealifebase.org/summary/Euryale-aspera.html)
+  aspera*](http://www.sealifebase.org/summary/Euryale-asperal)
   on SeaLife Base: Technical fact sheet.
 
 **References**
@@ -182,14 +169,4 @@ Bronok Jun 10
   Red Data Book: Threatened plants and animals of Singapore*.
   Nature Society (Singapore). 285 pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

@@ -4,24 +4,24 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "bakau, bruguiera, hainesiirhizophoraceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
-plants [text index](../../plantindex.htm) | [photo
-index](../../plantfi.htm)
-[mangroves](../mangroves.htm) > *[Bruguiera](bruguiera.htm)* in general
+plants [text index](../../plantindex) | [photo
+index](../../plantfi)
+[mangroves](../mangroves) > *[Bruguiera](bruguiera)* in general
 **Bakau
 mata buaya  
 *Bruguiera hainesii*  
@@ -134,7 +134,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 - Giesen, Wim
   and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
   [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.htm) (PDF online downloadable).
+  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
   RAP publication 2006/07 Food and Agriculture Organization of the
   United Nations Regional Office for Asia and the Pacific Bangkok.
 - [*Bruguiera
@@ -148,14 +148,14 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 - On the wild
   shores of singapore blog
   - [Mangroves
-    of the world and Singapore](http://wildshores.blogspot.com/2010/04/mangroves-of-world-and-singapore.html)
+    of the world and Singapore](http://wildshores.blogspot.com/2010/04/mangroves-of-world-and-singaporel)
   - [IUCN
-    features Singapore's rare mangrove tree](http://wildshores.blogspot.com/2010/05/iucn-features-singapores-rare-mangrove.html)
+    features Singapore's rare mangrove tree](http://wildshores.blogspot.com/2010/05/iucn-features-singapores-rare-mangrovel)
   - [Rare
-    mangroves at Kranji, with special find?](http://wildshores.blogspot.com/2010/12/rare-mangroves-at-kranji-with-special.html) first encounter
+    mangroves at Kranji, with special find?](http://wildshores.blogspot.com/2010/12/rare-mangroves-at-kranji-with-speciall) first encounter
     with the tree at Kranji.
   - [Homage
-    to the hainesii](http://wildshores.blogspot.com/2010/12/homage-to-hainesii.html) revisiting the tree at Kranji
+    to the hainesii](http://wildshores.blogspot.com/2010/12/homage-to-hainesiil) revisiting the tree at Kranji
 
 **References**
 
@@ -179,9 +179,9 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 FREE photos of [mangrove
 trees and plants](http://www.flickr.com/photos/54527470@N00/sets/72157600258037543). Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

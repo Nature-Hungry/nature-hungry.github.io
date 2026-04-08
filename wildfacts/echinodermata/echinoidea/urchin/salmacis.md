@@ -4,29 +4,29 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "white, urchin, salmacis, echinoid, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![](../../../../Templates/fornatureguides.gif)](../../fngechinoidea.htm)
+[![](../../../../Templates/fornatureguides.gif)](../../fngechinoidea)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 echinoids
-[text index](../../echinodermindex.htm#echinoidea) |
-[photo index](../../echinoideafi2.htm)
-Phylum [Echinodermata](../../../../wildshores/echinodermata/echinoidea/echinodermata.htm)
-> Class [Echinodea](../echinoidea.htm) > [sea
-urchins](urchin.htm)
+[text index](../../echinodermindex#echinoidea) |
+[photo index](../../echinoideafi2)
+Phylum [Echinodermata](../../../../wildshores/echinodermata/echinoidea/echinodermata)
+> Class [Echinodea](../echinoidea) > [sea
+urchins](urchin)
 **Salmacis sea urchins  
 *Salmacis* sp.  
 Family Temnopleuridae***updated
@@ -48,7 +48,7 @@ or shield it from sunlight.
 **What does it eat?** It eats seaweeds.  
   
 **Role in the habitat:** Despite being prickly, come animals can eat them. Examination of tests (skeleton of a dead sea
-urchin) suggest that large snails might prey on them. Other animals live on the urchin, including [Parasitic snails](../../../mollusca/gastropoda/eulimidae/eulimidae.htm), the Zebra crab and sometimes, the [Urchin-mouth worm](../../../worm/polychaeta/oxydromus.htm) is found curled around the mouth.
+urchin) suggest that large snails might prey on them. Other animals live on the urchin, including [Parasitic snails](../../../mollusca/gastropoda/eulimidae/eulimidae), the Zebra crab and sometimes, the [Urchin-mouth worm](../../../worm/polychaeta/oxydromus) is found curled around the mouth.
 
 ![](salmacis/070421cyrd0440m3.jpg)  
 Sometimes gathered
@@ -62,7 +62,7 @@ stuff. *Beting Bronok, May 06*
 Hole with 'burn'
 mark suggests the urchin   
 was attacked by a [Helmet
-snail](../../../mollusca/gastropoda/cassidae/cassidae.htm). *Changi, May 08*
+snail](../../../mollusca/gastropoda/cassidae/cassidae). *Changi, May 08*
 
 ![](salmacis/101011chgd2159m3.jpg)  
 Worm-like thing
@@ -87,7 +87,7 @@ sea urchins on Singapore shores**
 ---
 
 ![](salmacis/080506chgd2260m3.jpg)  
-[**White salmacis urchin**](sphaeroides.htm)   
+[**White salmacis urchin**](sphaeroides)   
 (*Salmacis sphaeroides*)
 
 ![](salmacis/080506chgd2263m3b.jpg)  
@@ -100,7 +100,7 @@ Underside
 ---
 
 ![](virgulata/060529chgd2487m3.jpg)  
-[**Passion salmacis urchin**](virgulata.htm)   
+[**Passion salmacis urchin**](virgulata)   
 (*Salmacis virgulata*)
 
 ![](virgulata/060529chgd2487m3d.jpg)  
@@ -114,7 +114,7 @@ Underside
 ---
 
 ![](bicolor/090528mecpd2807m3.jpg)  
-[**Two-toned salmacis urchin**](bicolor.htm)   
+[**Two-toned salmacis urchin**](bicolor)   
 (*Salmacis bicolor*)
 
 ![](bicolor/090528mecpd2807m3b.jpg)  
@@ -138,10 +138,10 @@ Singapore*.
 **Family
 Temnopleuridae**
  
-*[Salmacis bicolor](bicolor.htm)  
+*[Salmacis bicolor](bicolor)  
 Salmacis dussumieri=\*\*Salmaciella dussumieri  
-[Salmacis sphaeroides](sphaeroides.htm)  
-[Salmacis virgulata](virgulata.htm)*
+[Salmacis sphaeroides](sphaeroides)  
+[Salmacis virgulata](virgulata)*
 
 ---
 
@@ -150,14 +150,14 @@ Grateful thanks to Dr Frederic Ducarme for identifying these sea urchins.
  **Links**
 
 - [Banded
-  urchin (*Salmacis*)](http://mangrove.nus.edu.sg/pub/seashore/text/223.htm) Tan, Leo W. H. & Ng, Peter
+  urchin (*Salmacis*)](http://mangrove.nus.edu.sg/pub/seashore/text/223) Tan, Leo W. H. & Ng, Peter
   K. L., 1988. *A Guide to Seashore Life*. The Singapore
   Science Centre, Singapore. 160 pp.
 - [*Salmacis
   bicolor*](http://www.sealifebase.org/Summary/SpeciesSummary.php?ID=139110) and [*Salmacis
-  sphaeroides*](http://www.sealifebase.org/summary/Salmacis-sphaeroides.html) and [*Salmacis
-  virgulata*](http://www.sealifebase.org/summary/Salmacis-virgulata.html) and *[Salmaciella
-  dussumieri](http://www.sealifebase.org/summary/Salmaciella-dussumieri.html)* on SeaLife Base: Technical fact sheet.
+  sphaeroides*](http://www.sealifebase.org/summary/Salmacis-sphaeroidesl) and [*Salmacis
+  virgulata*](http://www.sealifebase.org/summary/Salmacis-virgulatal) and *[Salmaciella
+  dussumieri](http://www.sealifebase.org/summary/Salmaciella-dussumieril)* on SeaLife Base: Technical fact sheet.
 - P. Satheeshkumar, [First Record of Regular Sea Urchin *Salmacis virgulata* (L. Agassiz and Desor 1846) from the Pondicherry Coast, India](http://www.idosi.org/wjfms/wjfms3(2)11/7.pdf) World Journal of Fish and Marine Sciences 3 (2): 126-128, 2011 ISSN 2078-4589 © IDOSI Publications, 2011
 
 **References**
@@ -171,9 +171,9 @@ Grateful thanks to Dr Frederic Ducarme for identifying these sea urchins.
   Ashely. 2002. *Sea Urchins of Australia and the Indo-Pacific*.
   Capricornia Publications. 180pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

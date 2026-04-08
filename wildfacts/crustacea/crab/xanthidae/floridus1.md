@@ -4,45 +4,45 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "floral, egg, xanthid, crab, atergatis, floridus, xanthidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
+[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> Brachyurans > Family [Xanthidae](xanthidae.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> Brachyurans > Family [Xanthidae](xanthidae)
 **Floral
 egg crabs on Singapore shores**   
 back to [general
-info on floral egg crabs](floridus.htm)
+info on floral egg crabs](floridus)
 
 ---
 
 ![](floridus/110517tptlks25m3.jpg)  
  *Terumbu Pempang Tengah, May 11*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengah.html)*.*
+blog](http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengahl)*.*
 
 ![](floridus/100617tbtch2m3.jpg)  
 *Terumbu Bemban, Jun 10*Photo shared by Toh Chay Hoom on [her
-blog](http://colorclouds.blogspot.com/2010/06/patch-reef-hopping.html).
+blog](http://colorclouds.blogspot.com/2010/06/patch-reef-hoppingl).
 
 ![](floridus/100518bbbjk6m3.jpg)  
 *Beting Bemban Besar, May 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/05/100518-beting-bemban-besar.html).
+blog](http://sgn090608.blogspot.com/2010/05/100518-beting-bemban-besarl).
 
 ---
 
@@ -67,7 +67,7 @@ flickr](http://www.flickr.com/photos/37823682@N04/4231655960/in/set-721576228420
 
   
 back to [general
-info on floral egg crabs](floridus.htm)
+info on floral egg crabs](floridus)
 
 [www.**flickr**.com](http://www.flickr.com)  
 
@@ -75,9 +75,9 @@ FREE photos from [wildsingapore](http://www.flickr.com/photos/54527470@N00)
 tagged with [Xanthidae](http://www.flickr.com/photos/54527470@N00/tags/Xanthidae).
 Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

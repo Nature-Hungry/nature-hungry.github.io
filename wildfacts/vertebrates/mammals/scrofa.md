@@ -4,23 +4,10 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "wild, boar, pig, sus, scrofa, suidae, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 vertebrates [text
-index](../vertindex.htm) | [photo index](../vertfi.htm)
+index](../vertindex) | [photo index](../vertfi)
 Phylum Chordata
 > Subphylum Vertebrata > Class Mammalia
 **Wild boar   
@@ -79,7 +66,7 @@ and blood coming from her nostrils". She was buried where she was
 found, next to the access to Chek Jawa's shoreline. Her final resting
 place may be unmarked, but her mark on many of our hearts remains
 till this day. [More
-about Priscilla](http://wildshores.blogspot.com/2008/09/memories-of-priscilla-pig-of-chek-jawa.html) on the wild shores of singapore blog.  
+about Priscilla](http://wildshores.blogspot.com/2008/09/memories-of-priscilla-pig-of-chek-jawal) on the wild shores of singapore blog.  
 
 *![](scrofa/011007cjcpd142m3.jpg)*Priscilla
 the Pig.  
@@ -119,14 +106,14 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 **Links**
 
 - [Wild
-  Pig](http://www.ecologyasia.com/verts/mammals/wild_pig.htm)  on Nick Baker's EcologyAsia website: fact sheet with
+  Pig](http://www.ecologyasia.com/verts/mammals/wild_pig)  on Nick Baker's EcologyAsia website: fact sheet with
   photos.
 - [*Sus
-  scrofa*](https://singapore.biodiversity.online/taxo4254/mainSpace/Sus%20Scrofa%20-%20Wild%20Boar.html)
+  scrofa*](https://singapore.biodiversity.online/taxo4254/mainSpace/Sus%20Scrofa%20-%20Wild%20Boarl)
   (Artiodactyla: Suidae) Wild Boar by Teo Li Young, 2013 on taxo4254.
 - [Memories
-  of Priscilla the Pig](http://wildshores.blogspot.com/2008/09/memories-of-priscilla-pig-of-chek-jawa.html) on the wild shores of singapore blog.
-- [Chek Jawa wild boar: Thousands of peaceful interactions](http://wildshores.blogspot.sg/2012/09/chek-jawa-wild-boar-thousands-of.html) on the wild shores of singapore blog.
+  of Priscilla the Pig](http://wildshores.blogspot.com/2008/09/memories-of-priscilla-pig-of-chek-jawal) on the wild shores of singapore blog.
+- [Chek Jawa wild boar: Thousands of peaceful interactions](http://wildshores.blogspot.sg/2012/09/chek-jawa-wild-boar-thousands-ofl) on the wild shores of singapore blog.
 
 **References**
 
@@ -146,14 +133,4 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 FREE photos of [mammals](http://www.flickr.com/photos/54527470@N00/sets/72157600258172269).
 Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

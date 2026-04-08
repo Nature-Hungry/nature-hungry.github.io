@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "snapping, shrimp, alpheidae, alpheid, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 shrimps [text
-index](../../crustaceaindex.htm#shrimps) | [photo index](../../shrimpfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> [prawns and shrimps](shrimp.htm) > Family [Alpheidae](alpheidae.htm)
+index](../../crustaceaindex#shrimps) | [photo index](../../shrimpfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> [prawns and shrimps](shrimp) > Family [Alpheidae](alpheidae)
 **Many-band
 snapping shrimp**  
 ***awaiting
@@ -43,8 +43,8 @@ coral rubble near reefs.
 one or two more prominent white or orange bands.   
   
 These snapping shrimps are often seen with shrimp gobies such as the [Slender-lined
-shrimp-goby](../../../vertebrates/fish/gobiidae/leptocephalus.htm) (*Cryptocentrus leptocephalus*) and [Saddled
-shrimp-goby](../../../vertebrates/fish/gobiidae/maudae.htm) (*Cryptocentrus maudae*).
+shrimp-goby](../../../vertebrates/fish/gobiidae/leptocephalus) (*Cryptocentrus leptocephalus*) and [Saddled
+shrimp-goby](../../../vertebrates/fish/gobiidae/maudae) (*Cryptocentrus maudae*).
 
 *![](alphmanyband/080705bbd7018m3.jpg)  
 Beting Bronok, Jul 08*
@@ -100,7 +100,7 @@ shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/3048451722/)
 Tanah Merah,
 Dec 09*Photo
 shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/12/tanah-merah-brightly-led.html).
+blog](http://wondercreation.blogspot.com/2009/12/tanah-merah-brightly-ledl).
 
 *![](alphmanyband/220716bblks6.jpg)  
 Beting Bronok, Jul 22*   
@@ -140,9 +140,9 @@ thanks to [Dr Arthur
 Anker](http://www.flickr.com/photos/artour_a/) for identifying [this
 shrimp.](http://www.flickr.com/photos/wildsingapore/2938171024/)
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

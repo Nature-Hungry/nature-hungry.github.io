@@ -9,21 +9,21 @@ layout: default
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../index.html)  
+[wildfactsheets homepage](../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
+[all animals](../../animals)
+| [all plants](../../plants)
+| [concepts](../../concepts/indexl)
+| [glossary](../../glossary/indexl)
+| [search](../../search)
 
 seagrasses
-[text index](seagrassindex.htm) | [photo
-index](seagrassfi.htm)
+[text index](seagrassindex) | [photo
+index](seagrassfi)
 
-[Seagrasses](seagrass.htm)
+[Seagrasses](seagrass)
 > Family Cymodoceaceae
 **Needle
 seagrass *Halodule* sp.   
@@ -46,7 +46,7 @@ seagrass is sometimes seen on some of our shores, often mixed with
 other seagrasses. But luxuriant growths are more commonly seen on
 large natural shores such as Chek Jawa, where it is commonly found
 on the seaward side of the sand bars. The [preliminary
-results of a transact survey of Chek Jawa](http://www.naturia.per.sg/cjsurvey/vegetative/text/halodule%20uninervis.htm) shows it is widely distributed
+results of a transact survey of Chek Jawa](http://www.naturia.per.sg/cjsurvey/vegetative/text/halodule%20uninervis) shows it is widely distributed
 in the seagrass lagoon there.   
   
 Needle seagrass is found throughout tropical Indo-West Pacific. It
@@ -69,7 +69,7 @@ suggests the two are not actually separate species.
   
 **Sometimes confused with** other
 ribbon-like seagrasses. Here's more on [how
-to tell apart ribbon-like seagrasses](cfribbon.htm).   
+to tell apart ribbon-like seagrasses](cfribbon).   
   
 **Flowers and fruits:** Needle seagrass
 has separate male and female plants. The flowers are tiny, usually
@@ -153,9 +153,9 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
   Proceedings of a training workshop, National Parks Board, Biodiversity
   Centre, Singapore, 24th-25th March 2007 (DPI&F, Cairns). 32pp.
 - [Identifying
-  seagrasses](http://www.seagrasswatch.org/id_seagrass.html) on the Seagrass-Watch website.
+  seagrasses](http://www.seagrasswatch.org/id_seagrassl) on the Seagrass-Watch website.
 - [Fruits
-  of the Sea: Seeds of Coastal Seagrasses](http://www.reef.crc.org.au/publications/explore/feat32.html) on the CRC Reef Research
+  of the Sea: Seeds of Coastal Seagrasses](http://www.reef.crc.org.au/publications/explore/feat32l) on the CRC Reef Research
   Centre website: brief introduction to the ways seagrasses reproduce
   and re-establish themselves if affected by natural disturbances,
   and how *Halodule uninervis* 'stores' its seeds in the sediments.
@@ -187,14 +187,4 @@ Make your own badge [here](http://www.flickr.com/badge.gne).
 **You CAN make a difference for Singapore's
 seagrasses!**[![](../../../Templates/teamsg.jpg)](http://teamseagrass.blogspot.com/)
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

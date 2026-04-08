@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "commerson, flat, fish, flatfish, sole, synaptura, commersonnii, soleidae, pleuronectiformes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm) >
-Order [Pleuronectiformes](../pleuronectiformes/pleuronectiformes.htm)
-> Family [Soleidae](soleidae.htm)
+> Subphylum Vertebrata > [fishes](../fish) >
+Order [Pleuronectiformes](../pleuronectiformes/pleuronectiformes)
+> Family [Soleidae](soleidae)
 **Commerson's
 sole**  
 ***Synaptura commersonnii***  
@@ -41,7 +41,7 @@ The tail fin is joined to the dorsal and anal fins. Fins are dark
 with a conspicuous white outer margin. Body usually a plain brown
 or beige without any markings.  
   
-**What does it eat?** In Singapore, those seen appear to eat long [bristleworms](../../../worm/polychaeta/polychaeta.htm). Elsewhere, it is said to hunt small
+**What does it eat?** In Singapore, those seen appear to eat long [bristleworms](../../../worm/polychaeta/polychaeta). Elsewhere, it is said to hunt small
 animals living on the bottom of the sea, especially small crustaceans.   
   
 **Human uses:** It is economically
@@ -102,7 +102,7 @@ Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid
   [FishBase](http://www.fishbase.org/): Technical fact
   sheet.
 - [Volume
-  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.htm) FAO Species
+  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
   Identification Guide for Fishery Purposes The Living Marine Resources
   of the Western Central Pacific.
 
@@ -110,9 +110,9 @@ Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid
 
 - Tan Heok Hui & Jeremy Yeo Wei Liang. 25 Jan 2017. *Polychaetes in the diet of the Commerson’s sole*. Singapore Biodiversity Records 2017: 11-12.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

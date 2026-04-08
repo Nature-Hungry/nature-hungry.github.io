@@ -4,28 +4,15 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "flat, worm, flatworm, pseudoceros, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 flatworms
-[text index](../wormindex.htm) | [photo
-index](../polycladidafi.htm)
+[text index](../wormindex) | [photo
+index](../polycladidafi)
 
-[worms](../worm.htm) > Phylum Platyhelminthes >
+[worms](../worm) > Phylum Platyhelminthes >
 Class
-Turbellaria > [Order Polycladida](polycladida.htm)
+Turbellaria > [Order Polycladida](polycladida)
 
 **Halloween
 flatworm  
@@ -114,7 +101,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 *Terumbu Semakau, May 18*Photo shared by Lisa Lim on [facebook](https://www.facebook.com/lim.lisa/media_set?set=a.10156099495698964.1073741936.716233963&type=3).
 
 ![](orangewhite/121115tsmklks1m3.JPG)  
-*Terumbu Semakau, Dec 12*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2012/12/surprises-among-seaweed-bloom-at.html).
+*Terumbu Semakau, Dec 12*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2012/12/surprises-among-seaweed-bloom-atl).
 
 ---
 
@@ -159,14 +146,4 @@ Grateful thanks to Rene Ong for sharing details and identifying the flatworms on
 
 - Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018. *A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.* Nature in Singapore 2018 11: 77–125.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

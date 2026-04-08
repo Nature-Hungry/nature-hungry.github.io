@@ -4,28 +4,15 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "fan, worm, fanworm, sabellid, sabellidae, polychaete, annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 worms
-[text index](../wormindex.htm) | [photo
-index](../wormfi.htm)
+[text index](../wormindex) | [photo
+index](../wormfi)
 
-[worms](../worm.htm) > Phylum Annelida >
-Class [Polychaeta](polychaeta.htm)
-> Order Sabellida > Family [Sabellidae](sabellidae.htm)
+[worms](../worm) > Phylum Annelida >
+Class [Polychaeta](polychaeta)
+> Order Sabellida > Family [Sabellidae](sabellidae)
 
 **Spotted
 fanworm**  
@@ -93,7 +80,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 ![](sabellidae/spotted/090824tusjk1m3.jpg)  
 *Tuas, Aug
 09*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/08/tuas-soft-coral-and-zoanthids.html).
+blog](http://sgn090608.blogspot.com/2009/08/tuas-soft-coral-and-zoanthidsl).
 
 ![](sabellidae/spotted/140616bbrl.jpg)  
 *Beting Bronok**, Jun 14*Photo shared by Russel Low on [facebook](https://www.facebook.com/singaporereefwatch/photos/a.751583111559750.1073741836.109257872458947/751585138226214/?type=3&theater).
@@ -101,14 +88,4 @@ blog](http://sgn090608.blogspot.com/2009/08/tuas-soft-coral-and-zoanthids.html).
 ![](sabellidae/spotted/251206chgerqo4.jpg)  
 *Changi East (Lost Coast), Dec 25*Photo shared by Rui Quan Oh on [facebook](https://www.facebook.com/media/set/?set=a.897750219408386&type=3&ref=embed_post).
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

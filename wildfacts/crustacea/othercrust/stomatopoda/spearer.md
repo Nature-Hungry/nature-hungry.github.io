@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "mantis, shrimp, stomatopod, stomatopoda, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 mantis shrimps
-[text index](../../crustaceaindex.htm#stomatopoda) | [photo
-index](../../shrimpfi2.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Stomatopoda](stomatopoda.htm)
+[text index](../../crustaceaindex#stomatopoda) | [photo
+index](../../shrimpfi2)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Stomatopoda](stomatopoda)
 **Spearer
 mantis shrimp*****awaiting identification***  
 **Family Squillidae***updated
@@ -96,7 +96,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 *![](spearer/090310tuslks01m3.jpg)  
 Tuas, Mar 09*Shared
 by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/03/soft-sediment-creatures-of-tuas.html).
+blog](http://wondercreation.blogspot.com/2009/03/soft-sediment-creatures-of-tuasl).
 
 ---
 
@@ -107,7 +107,7 @@ by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=1015862585842
 *![](spearer/090514prplks2m3.jpg)  
 Pasir Ris, May 09*Shared
 by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/05/pasir-ris-after-rain.html).
+blog](http://wondercreation.blogspot.com/2009/05/pasir-ris-after-rainl).
 
 ---
 
@@ -124,7 +124,7 @@ shared by Tammy Lim on [facebook](https://www.facebook.com/media/set/?vanity=tam
 *![](spearer/100516skdtch1m3.jpg)  
 Pulau Sekudu, May 10*Photo
 shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2010/05/checking-up-pulau-sekudu.html).
+blog](http://colorclouds.blogspot.com/2010/05/checking-up-pulau-sekudul).
 
 *![](noid/030412cjd0105m3.jpg)  
 Chek Jawa, Apr 02*
@@ -182,7 +182,7 @@ shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.1015
 
 *![](noid/090509sislksm6l.JPG)* *Sisters Island, May 09*Photo shared
 by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/05/back-to-big-sisters.html).
+blog](http://wondercreation.blogspot.com/2009/05/back-to-big-sistersl).
 
 ---
 
@@ -193,7 +193,7 @@ blog](http://wondercreation.blogspot.com/2009/05/back-to-big-sisters.html).
 **Links**
 
 - [Order
-  Stomatopoda](http://mangrove.nus.edu.sg/pub/seashore/text/217.htm)
+  Stomatopoda](http://mangrove.nus.edu.sg/pub/seashore/text/217)
   Tan, Leo W. H. & Ng, Peter K. L., 1988, *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
@@ -218,9 +218,9 @@ blog](http://wondercreation.blogspot.com/2009/05/back-to-big-sisters.html).
   exclusive of the vertebrates*
   Sea Challengers. 314pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

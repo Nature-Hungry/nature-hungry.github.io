@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "brain, mussidae, lobophylliidae, symphyllia, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 hard corals [text
-index](../../coralhardindex.htm) | [photo index](../../cnidariafi1.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard.htm)
-> Family [Lobophylliidae](mussidae.htm)
+index](../../coralhardindex) | [photo index](../../cnidariafi1)
+Phylum [Cnidaria](../../cnidaria)
+> Class [Anthozoa](../../anthozoa) > Subclass
+Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard)
+> Family [Lobophylliidae](mussidae)
 **Grooved
 brain coral**  
 ***Lobophyllia* sp.\*  
@@ -147,12 +147,12 @@ by Loh Kok Sheng on  [flickr](https://www.flickr.com/photos/koksheng/13989039990
 ![](symphyllia/090512tmlks17m3.jpg)  
 *Tanah Merah,
 May 09*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/05/probably-best-mainland-reef.html)
+blog](http://wondercreation.blogspot.com/2009/05/probably-best-mainland-reefl)
 
 ---
 
 *![](symphyllia/150520ecpbslks2m3.jpg)  
-East Coast Park (B), May 15*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2015/05/coral-garden-on-reclaimed-east-coast.html).
+East Coast Park (B), May 15*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2015/05/coral-garden-on-reclaimed-east-coastl).
 
 ![](symphyllia/251108ecpblks12.jpg)  
 *East Coast Park (B), Nov 25*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163545987708158&type=3&ref=embed_post).
@@ -161,13 +161,13 @@ East Coast Park (B), May 15*Photo shared by Loh Kok Sheng on [his blog](http://w
 
 ![](symphyllia/100519tsmjk9m3.jpg)  
  *Terumbu Semakau, May 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/05/100519-terumbu-semakau.html).
+blog](http://sgn090608.blogspot.com/2010/05/100519-terumbu-semakaul).
 
 ![](symphyllia/100629tpdjk19m3.jpg)  
 *Terumbu Pempang
 Darat, Jun 10*Photo
 shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/06/100629-terumbu-pempang-darat.html).
+blog](http://sgn090608.blogspot.com/2010/06/100629-terumbu-pempang-daratl).
 
 ---
 
@@ -234,9 +234,9 @@ Jun 10
   Corals: Selection, Husbandry and Natural History*
   T.F. H Publications. 464 pp
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

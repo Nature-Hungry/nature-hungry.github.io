@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "curryfish, zebrafish, cucumber, seacucumber, stichopus, vastus, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 sea
-cucumbers [text index](../echinodermindex.htm#holothuroidea)
-| [photo index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class [Holothuroidea](holothuroidea.htm)
+cucumbers [text index](../echinodermindex#holothuroidea)
+| [photo index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
+> Class [Holothuroidea](holothuroidea)
 **Zebrafish
 sea cucumber  
 *Stichopus vastus*Family Stichopodidae***updated
@@ -36,7 +23,7 @@ seen?** This large sea cucumber is sometimes seen on Pulau
 Semakau, in deeper water coral rubble. It is also called the Curryfish as it
 is among the sea cucumbers that are edible and harvested for the restaurant
 trade.
-Elsewhere, it is found in seagrass meadows, particularly [Tape seagrass](../../plants/seagrass/enhalus.htm) and [Sickle seagrass](../../plants/seagrass/thalassia.htm). It is also found under [coralline algae](../../plants/seaweed/rhodophyta/corallinaceae.htm). Larger individuals live in deeper soft coral rubble areas outside of seagrass habitats. Also said to live on hard bottom and rubble.  
+Elsewhere, it is found in seagrass meadows, particularly [Tape seagrass](../../plants/seagrass/enhalus) and [Sickle seagrass](../../plants/seagrass/thalassia). It is also found under [coralline algae](../../plants/seaweed/rhodophyta/corallinaceae). Larger individuals live in deeper soft coral rubble areas outside of seagrass habitats. Also said to live on hard bottom and rubble.  
   
 **Features:** 20-30cm. Body
 hard heavy, squarish in cross-section, blunt at the ends, With large conical bumps in 5 to 6 irregular rows, the base of these bumps surrounded by fine dark lines. Smaller bumps all over the upper surface. Colour usually sandy with darker patches and variable dark brown stripes between and around the large conical bumps. May also brownish, yellowish, reddish, greenish or greyish. Distinct flat underside is brown or yellow with short
@@ -65,14 +52,14 @@ Short tube feet.
 **Links**
 
 - [*Stichopus
-  vastus* (Zebrafish)](http://www.sealifebase.org/summary/Stichopus-vastus.html) on [SeaLifeBase](http://www.sealifebase.org/search.php):
+  vastus* (Zebrafish)](http://www.sealifebase.org/summary/Stichopus-vastusl) on [SeaLifeBase](http://www.sealifebase.org/search.php):
   Technical fact sheet.
 - [*Stichopus
   vastus* (Curryfish)](http://www.iucnredlist.org/details/180545/0) on the IUCN Red List: Techinal fact
   sheet
-- *Stichopus vastus* on [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00.htm), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
+- *Stichopus vastus* on [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
 - [Fisheries,
-  trade and utilization of sea cucumbers in Malaysia](http://www.fao.org/docrep/007/y5501e/y5501e0b.htm)
+  trade and utilization of sea cucumbers in Malaysia](http://www.fao.org/docrep/007/y5501e/y5501e0b)
   by Choo Poh-Sze WorldFish Center, Penang, Malaysia on the FAO
   website.
 
@@ -83,14 +70,4 @@ Short tube feet.
   Guide to Sea Stars and Other Echinoderms of Singapore*.
   Singapore Science Centre. 187pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

@@ -4,28 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, feathery, fan, fanworm, worm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 worms
-[text index](wormindex.htm) | [photo
-index](wormfi.htm)
+[text index](wormindex) | [photo
+index](wormfi)
 
-[Worms](worm.htm) > Phylum Annelida > Class
-[Polychaeta](polychaeta/polychaeta.htm)
-> Order Sabellida > Family [Sabellidae](polychaeta/sabellidae.htm)
+[Worms](worm) > Phylum Annelida > Class
+[Polychaeta](polychaeta/polychaeta)
+> Order Sabellida > Family [Sabellidae](polychaeta/sabellidae)
 
 **Photo
 index of feathery marine worms on Singapore shores**  
@@ -40,22 +25,22 @@ with fan extended*
 ![](polychaeta/sabellidae/banded/060611cjd2781m.jpg)  
   
 ![](polychaeta/sabellidae/banded/060611cjd2781mc.jpg)  
-[Banded fanworm](polychaeta/sabbanded.htm) *awaiting identification*
+[Banded fanworm](polychaeta/sabbanded) *awaiting identification*
 
 ![](polychaeta/sabellidae/blue/050623cjg8275m.jpg)  
   
 ![](polychaeta/sabellidae/blue/050623cjg8275mc.jpg)  
-[Blue fanworm](polychaeta/sabblue.htm)  *awaiting identification*
+[Blue fanworm](polychaeta/sabblue)  *awaiting identification*
 
 ![](polychaeta/sabellidae/olive/091009tmd2683m.jpg)  
   
 ![](polychaeta/sabellidae/olive/091009tmd2683ma.jpg)  
-[Olive fanworm](polychaeta/sabolive.htm)  *awaiting identification*
+[Olive fanworm](polychaeta/sabolive)  *awaiting identification*
 
 ![](polychaeta/sabellidae/orange/060809skdd5505m.jpg)  
   
 ![](polychaeta/sabellidae/orange/060809skdd5505mb.jpg)  
-[Orange fanworm](polychaeta/saborange.htm)  *awaiting identification*
+[Orange fanworm](polychaeta/saborange)  *awaiting identification*
 
  
 6-8cm.
@@ -77,22 +62,22 @@ fan worm**
 ![](polychaeta/sabellidae/spotted/050429cftg5386m.jpg)  
   
 ![](polychaeta/sabellidae/spotted/050429cftg5386mb.jpg)  
-[Spotted fanworm](polychaeta/sabspotted.htm)  *awaiting identification*
+[Spotted fanworm](polychaeta/sabspotted)  *awaiting identification*
 
 ![](polychaeta/sabellidae/tinysand/070505kusg9102m.jpg)  
   
 ![](polychaeta/sabellidae/tinysand/070505kusg9102mb.jpg)  
-[Tiny sand fanworm](polychaeta/sabtinysand.htm)  *awaiting identification*
+[Tiny sand fanworm](polychaeta/sabtinysand)  *awaiting identification*
 
 ![](polychaeta/sabellidae/white/050526cjg6820m.jpg)  
   
 ![](polychaeta/sabellidae/white/050526cjg6820mb.jpg)  
-[White spiral fanworm](polychaeta/sabwhite.htm)  *awaiting identification*
+[White spiral fanworm](polychaeta/sabwhite)  *awaiting identification*
 
 ![](phoronida/phoronida/031226chgd0056m.jpg)  
   
 ![](phoronida/phoronida/031226chgd0056mb.jpg)  
-[Cerianthid phoronid worm](phoronida/phoronida.htm) 
+[Cerianthid phoronid worm](phoronida/phoronida) 
  *Phoronis australis*  
 Phylum Phoronida
 
@@ -121,7 +106,7 @@ display.*
 ---
 
 How to tell apart [feathery
-lifeforms](../glossary/feathery.htm)
+lifeforms](../glossary/feathery)
 
 [www.**flickr**.com](http://www.flickr.com)  
 
@@ -133,24 +118,24 @@ index of
 marine worms   
 on this site
 
-[all marine worms](wormfi.htm)  
+[all marine worms](wormfi)  
  **Typical worms**   
  
-[Smooth](wormfi1a.htm)
+[Smooth](wormfi1a)
   
-[Bristley](polychaetafi.htm)
+[Bristley](polychaetafi)
   
-[**Tubeworms**](tubewormfi.htm)
+[**Tubeworms**](tubewormfi)
   
   
 **Feathery
 worms**    
   
-**[Flatworms](polycladidafi.htm)**
+**[Flatworms](polycladidafi)**
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "flat, worm, flatworm, tytthosoceros, lizardensis, polyclad, polycladida, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 flatworms [text
-index](../wormindex.htm) | [photo index](../polycladidafi.htm)
-[worms](../worm.htm)
+index](../wormindex) | [photo index](../polycladidafi)
+[worms](../worm)
 > Phylum Platyhelminthes > Class
-Turbellaria > [Order Polycladida](polycladida.htm)
+Turbellaria > [Order Polycladida](polycladida)
 **Olive
 flatworm  
 *Tytthosoceros lizardensis*\*  
@@ -84,15 +71,15 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 ---
 
 ![](olive/090526bblks1m3.JPG)  
-*Beting Bronok, May 09*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2009/05/struck-at-beting-bronok.html).
+*Beting Bronok, May 09*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2009/05/struck-at-beting-bronokl).
 
 ![](olive/110518bblks1m3.JPG)  
-*Beting Bronok, May 11*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2011/05/pretty-creatures-of-beting-bronok.html).
+*Beting Bronok, May 11*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2011/05/pretty-creatures-of-beting-bronokl).
 
 ---
 
 ![](olive/111126bblks1m3.JPG)  
-*Beting Bronok, Nov 11*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2011/11/sunny-day-out-at-beting-bronok.html).
+*Beting Bronok, Nov 11*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2011/11/sunny-day-out-at-beting-bronokl).
 
 ![](olive/160607bbro1.jpg)  
 *Beting Bronok, Jun 16*Photo shared by Rene Ong on [facebook](https://www.facebook.com/media/set/?set=a.1127273513999012.1073741882.133291903397183&type=3).
@@ -143,14 +130,4 @@ Grateful thanks to Rene Ong for sharing details and identifying the flatworms on
   497pp.
 - Newman, L.J and Cannon, L.R.G. 1996. *Bulaceros, new genus, and Tytthosoceros, new genus, (Platyhelminthes: Polycladida) from the Great Barrier Reef, Australia and Papua New Guinea*. The Raffles Bulletin of Zoology 44(2): 479-492.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

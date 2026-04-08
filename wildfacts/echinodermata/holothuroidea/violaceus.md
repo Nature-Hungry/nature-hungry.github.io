@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "apple, seacucumber, cucumber, pseudocolochirus, axiologus, violaceus, cucumariidae, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 sea
-cucumbers [text index](../echinodermindex.htm#holothuroidea)
-| [photo index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class [Holothuroidea](holothuroidea.htm)
+cucumbers [text index](../echinodermindex#holothuroidea)
+| [photo index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
+> Class [Holothuroidea](holothuroidea)
 **Sea
 apple sea cucumber**  
 ***Pseudocolochirus violaceus***  
@@ -109,11 +96,11 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Links**
 
 - [Sea
-  apples](http://www.advancedaquarist.com/issues/mar2003/invert.htm) on Aquarium Invertebrates by Dr Rob Toonen on the Advanced
+  apples](http://www.advancedaquarist.com/issues/mar2003/invert) on Aquarium Invertebrates by Dr Rob Toonen on the Advanced
   Aquarist's Online Magazine: details the toxic nature and low success
   rate of keeping these animals in captivity.
-- *[Pseudocolochirus violaceus](https://singapore.biodiversity.online/taxo4254/mainSpace/Pseudocolochirus%20violaceus%20%28Th%C3%A9el%2C%201886%29.html)* (Dendrochirotida: Cucumariidae) Sea Apple Cucumber by Lee Sui Kei Rachel, 2016, on taxo4254.
-- [*Pseudocolochirus violaceus*](http://www.sealifebase.org/summary/Pseudocolochirus-violaceus.html) on SeaLife Base: Technical
+- *[Pseudocolochirus violaceus](https://singapore.biodiversity.online/taxo4254/mainSpace/Pseudocolochirus%20violaceus%20%28Th%C3%A9el%2C%201886%29l)* (Dendrochirotida: Cucumariidae) Sea Apple Cucumber by Lee Sui Kei Rachel, 2016, on taxo4254.
+- [*Pseudocolochirus violaceus*](http://www.sealifebase.org/summary/Pseudocolochirus-violaceusl) on SeaLife Base: Technical
   fact sheet.
 
 **References**
@@ -127,14 +114,4 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
   Red Data Book: Threatened plants and animals of Singapore*.
   Nature Society (Singapore). 285 pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

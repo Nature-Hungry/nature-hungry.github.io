@@ -4,26 +4,12 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "mangrove, horseshoe, king, crab, carcinoscorpius, rotundicauda,  limulidae,  xiphosura, merostomata, chelicerate, arthropod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 arthropods
-[text index](../arthropodaindex.htm) | [photo
-index](../arthropodafi.htm)
-Phylum [Arthropoda](../arthropoda.htm)
-| Class Merostomata | Order Xiphosura > Family [Limulidae](limulidae.htm)
+[text index](../arthropodaindex) | [photo
+index](../arthropodafi)
+Phylum [Arthropoda](../arthropoda)
+| Class Merostomata | Order Xiphosura > Family [Limulidae](limulidae)
 **Mangrove
 horseshoe crab  
 *Carcinoscorpius rotundicauda*  
@@ -44,12 +30,12 @@ on the upperside. The male's special legs for holding on to the female
 has two 'fingers'.   
   
 The underside is sometimes encrusted with [Flat
-slipper snails](../../mollusca/gastropoda/calyptraeidae/crepidula.htm) (*Crepidula walshi*) and [bryozoans](../../bryozoa/bryozoan.htm).  
+slipper snails](../../mollusca/gastropoda/calyptraeidae/crepidula) (*Crepidula walshi*) and [bryozoans](../../bryozoa/bryozoan).  
   
 **Sometimes
 confused with** the [Coastal horseshoe
-crab](tachypleus.htm) (*Tachypleus gigas*). More on [how
-to tell them apart](limulidae.htm).  
+crab](tachypleus) (*Tachypleus gigas*). More on [how
+to tell them apart](limulidae).  
   
 **Status and threats:** This horseshoe
 crab is listed as 'Vulnerable' in the Red List of threatened animals
@@ -123,13 +109,13 @@ Pasir Ris Park, Mar 18
 **Links**
 
 - [Mangrove
-  horseshoe crab *Carcinoscorpius rotundicauda*](http://mangrove.nus.edu.sg/guidebooks/text/2076.htm)
+  horseshoe crab *Carcinoscorpius rotundicauda*](http://mangrove.nus.edu.sg/guidebooks/text/2076)
   Ng,
   Peter K. L. & N. Sivasothi, 1999. *[A
   Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
   Singapore Science Centre. 168 pp.
 - [*Carcinoscorpius
-  rotundicauda*](https://singapore.biodiversity.online/taxo4254/mainSpace/Carcinoscorpius%20rotundicauda.html) (Xiphosura: Limulidae) Mangrove Horseshoe
+  rotundicauda*](https://singapore.biodiversity.online/taxo4254/mainSpace/Carcinoscorpius%20rotundicaudal) (Xiphosura: Limulidae) Mangrove Horseshoe
   Crab by Oh Rui Ying, Rachel, 2011 on taxo4254.
 - *[Carcinoscorpius
   rotundicauda](http://www.iucnredlist.org/details/3856/0)*
@@ -144,14 +130,4 @@ Pasir Ris Park, Mar 18
   Red Data Book: Threatened plants and animals of Singapore*.
   Nature Society (Singapore). 285 pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

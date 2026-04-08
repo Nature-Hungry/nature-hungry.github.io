@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "red, egg, xanthid, crab, atergatis, integerrimus, xanthidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> Brachyurans > Family [Xanthidae](xanthidae.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> Brachyurans > Family [Xanthidae](xanthidae)
 **Red
 egg crab   
 *Atergatis integerrimus***  
@@ -65,7 +65,7 @@ both about equal in size, smooth (no pimples) with black tips that
 are spoon-shaped. Males may have larger pincers. Walking legs not
 hairy. Juveniles are light brown with a white band around
 the edge of the body. Like most other Xanthid crabs, it is [highly
-poisonous](xanthidae.htm) and should not be eaten.
+poisonous](xanthidae) and should not be eaten.
 
 ![](floridus/031124tusad0012m3.jpg)  
 A juvenile Red egg crab. *Tuas, Nov 03*
@@ -76,10 +76,10 @@ A pair of mating egg crabs. *Sentosa, Aug 06*
 *![](integerrimus/230805thntrk1.jpg)*A pair of mating egg crabs. *Terumbu Hantu, Aug 23*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo/?fbid=10160652001947906&set=a.10160651996017906).
 
 **Sometimes mistaken for** [Stone
-crabs](../menippidae/hardwicki.htm) (*Myomenippe hardwicki*) and [Maroon
-stone crab](rumphii.htm) (*Menippe rumphii*). Here's
+crabs](../menippidae/hardwicki) (*Myomenippe hardwicki*) and [Maroon
+stone crab](rumphii) (*Menippe rumphii*). Here's
 more on how to tell apart [big crabs
-with big pincers](../../bigpincer.htm) seen on the rocky shores and coral rubble.  
+with big pincers](../../bigpincer) seen on the rocky shores and coral rubble.  
   
 **Status and threats:** This crab
 is listed as 'Vulnerable' in the Red Data list of threatened animals
@@ -87,7 +87,7 @@ of Singapore.
 
 *![](integerrimus/090606tmftd3138m3a.jpg)*Eating
 a [White
-sea urchin](../../../echinodermata/echinoidea/urchin/salmacis.htm). *Tanah Merah, Jun 09*
+sea urchin](../../../echinodermata/echinoidea/urchin/salmacis). *Tanah Merah, Jun 09*
 
 *![](integerrimus/060515labd1881m3.jpg)*Manipulating
 an algae covered stone. *Labrador, May 06*
@@ -175,7 +175,7 @@ Sentosa Tg Rimau, Jan 26*Photo shared by Rui Quan Oh on [facebook](https://www.f
 
 ![](integerrimus/120818lazlks1.JPG)  
 *Seringat-Kias, Aug 12*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2012/08/exploring-new-stretch-of-seringat-kias.html).
+blog](http://wondercreation.blogspot.sg/2012/08/exploring-new-stretch-of-seringat-kiasl).
 
 ![](integerrimus/240624sjitt1.jpg)  
 *St John's Island, Jun 24*Photo shared by Tommy Tan on [facebook](https://www.facebook.com/media/set/?set=a.10234437757423464).
@@ -261,15 +261,15 @@ Grateful thanks to Ondřej Radosta and Ryanskiy Andrey from [ID Please (Marine C
 **Links**
 
 - [Red
-  Egg Crab (*Atergatis integerrimus*)](http://mangrove.nus.edu.sg/pub/seashore/text/209.htm), [Poisonous
-  Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252.htm) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+  Egg Crab (*Atergatis integerrimus*)](http://mangrove.nus.edu.sg/pub/seashore/text/209), [Poisonous
+  Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [Bashful
   crab *(Atergatis integerrimus)*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1276&menuentry=soorten) Crabs of Japan, on Marine
   Species Identification Portal: Technical fact sheet.
 - [*Atergatis
-  integerrimus*](http://www.sealifebase.fisheries.ubc.ca/summary/Atergatis-integerrimus.html) on SeaLife Base: technical fact sheet.
+  integerrimus*](http://www.sealifebase.fisheries.ubc.ca/summary/Atergatis-integerrimusl) on SeaLife Base: technical fact sheet.
 
 **References**
 
@@ -297,9 +297,9 @@ Grateful thanks to Ondřej Radosta and Ryanskiy Andrey from [ID Please (Marine C
 
 U
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

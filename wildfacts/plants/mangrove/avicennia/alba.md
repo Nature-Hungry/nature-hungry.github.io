@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "api, putih, puteh, avicennia, alba, acanthaceae, avicenniaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 plants
-[text index](../../plantindex.htm) | [photo
-index](../../plantfi.htm)
-[mangroves](../mangroves.htm) > [*Avicennia*](avicennia.htm) in general
+[text index](../../plantindex) | [photo
+index](../../plantfi)
+[mangroves](../mangroves) > [*Avicennia*](avicennia) in general
 **Api-api
 putih   
 *Avicennia alba*  
@@ -129,7 +129,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 **Links**
 
 - [Api-api
-  putih (*Avicennia alba*)](http://mangrove.nus.edu.sg/guidebooks/text/1049.htm) Ng, Peter K. L. & N. Sivasothi,
+  putih (*Avicennia alba*)](http://mangrove.nus.edu.sg/guidebooks/text/1049) Ng, Peter K. L. & N. Sivasothi,
   1999. *[A Guide
   to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*. Singapore
   Science Centre. 168 pp.
@@ -139,11 +139,11 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 - [*Avicennia
   alba*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3263) on NParks Flora and Fauna website: photos and fact
   sheet.
-- [*Avicennia alba*](https://singapore.biodiversity.online/taxo4254/mainSpace/Avicennia%20alba.html) (Lamiales: Avicenniaceae) Api-Api Putih by Tay Ying Ling Jessica, 2014, on taxo4254.
+- [*Avicennia alba*](https://singapore.biodiversity.online/taxo4254/mainSpace/Avicennia%20albal) (Lamiales: Avicenniaceae) Api-Api Putih by Tay Ying Ling Jessica, 2014, on taxo4254.
 - Giesen, Wim
   and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
   [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.htm) (PDF online downloadable).
+  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
   RAP publication 2006/07 Food and Agriculture Organization of the
   United Nations Regional Office for Asia and the Pacific Bangkok.
 
@@ -164,9 +164,9 @@ FREE photos from [wildsingapore](http://www.flickr.com/photos/54527470@N00)
 tagged with [Avicennia](http://www.flickr.com/photos/54527470@N00/tags/Avicennia).
 Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

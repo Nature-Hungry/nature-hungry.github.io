@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "feathery, filefish, file, fish, chaetodoerma, penicilligera, chaetodermis, penicilligerus, leather, jacket, monacanthidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Monacanthidae](monacanthidae.htm)
+> Subphylum Vertebrate > [fishes](../fish) >
+Family [Monacanthidae](monacanthidae)
 **Feathery
 filefish  
 *Chaetodermis penicilligerus***  
@@ -82,7 +82,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ![](penicilligerus/090510sntik2m3.jpg)  
 *Siloso, May 09*Photo shared by Ivan Kwan on [his
-blog](http://lazy-lizard-tales.blogspot.com/2009/05/finds-with-spines-on-siloso.html).
+blog](http://lazy-lizard-tales.blogspot.com/2009/05/finds-with-spines-on-silosol).
 
 ![](penicilligerus/080816bsistch.jpg)  
 *Big Sisters Island, Aug 08*Photo shared by Toh Chay Hoon on [flickr](https://www.flickr.com/photos/ilmare77/2770529206/).
@@ -95,7 +95,7 @@ blog](http://lazy-lizard-tales.blogspot.com/2009/05/finds-with-spines-on-siloso.
 ![](penicilligerus/090627tmjk2m3.jpg)  
 *Tanah Merah,
 Jun 09*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/06/tanah-merah-making-babies.html).
+blog](http://sgn090608.blogspot.com/2009/06/tanah-merah-making-babiesl).
 
 ---
 
@@ -105,7 +105,7 @@ blog](http://sgn090608.blogspot.com/2009/06/tanah-merah-making-babies.html).
 ![](penicilligerus/100627hntlks5m6l.jpg)  
 *Pulau Hantu,
 Jun 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/06/bleaching-at-hantu.html).
+blog](http://wondercreation.blogspot.com/2010/06/bleaching-at-hantul).
 
 ---
 
@@ -116,7 +116,7 @@ blog](http://wondercreation.blogspot.com/2010/06/bleaching-at-hantu.html).
   Technical fact sheet.
 - [Volume
   6: Bony fishes part 4 (Labridae to Latimeriidae), estuarine crocodiles,
-  sea turtles, sea snakes and marine mammals](http://www.fao.org/docrep/009/y0870e/y0870e00.htm) FAO Species Identification
+  sea turtles, sea snakes and marine mammals](http://www.fao.org/docrep/009/y0870e/y0870e00) FAO Species Identification
   Guide for Fishery Purposes The Living Marine Resources of the
   Western Central Pacific.
 
@@ -131,9 +131,9 @@ blog](http://wondercreation.blogspot.com/2010/06/bleaching-at-hantu.html).
   Reef Fishes of the World*
   Periplus Editions. 400pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

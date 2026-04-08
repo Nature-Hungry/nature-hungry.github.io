@@ -4,30 +4,30 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "fiddler, crab, uca, ocypodidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![talking points for nature guides](../../../../Templates/fornatureguides.gif)](../../fngfiddlers.htm)
+[![talking points for nature guides](../../../../Templates/fornatureguides.gif)](../../fngfiddlers)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crustaceans [text
-index](../../crustaceaindex.htm) | [photo index](../../crustaceafi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> Brachyurans > Superfamily [Ocypodoidea](ocypodoidea.htm)
-> Genus [Uca](uca.htm)
+index](../../crustaceaindex) | [photo index](../../crustaceafi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> Brachyurans > Superfamily [Ocypodoidea](ocypodoidea)
+> Genus [Uca](uca)
 **Tiny
 colourful fiddler crab**  
 ***awaiting identification\******Family Ocypodidae***updated
@@ -78,9 +78,9 @@ Chek Jawa, Dec 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebo
 *![](uca/tinycolourful/201216cjlks2.jpg)  
 Chek Jawa, Dec 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10158833147063158&set=a.10158833162093158).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

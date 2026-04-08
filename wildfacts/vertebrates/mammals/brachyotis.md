@@ -4,23 +4,10 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "fruit, bat, cynopterus, brachyotis, pteropodidae, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 vertebrates [text
-index](../vertindex.htm) | [photo index](../vertfi.htm)
+index](../vertindex) | [photo index](../vertfi)
 Phylum Chordata
 > Subphylum Vertebrata > Class Mammalia
 **Lesser dog-faced fruit bat  
@@ -45,7 +32,7 @@ fruit bat and Lesser Short-nosed fruit bat. Generally brown, the male
 has a reddish collar while the female has a yellowish collar.  
   
 Several bats (6-12) may roost together. Sometimes under [Bird's
-nest ferns](../../plants/others/asplenium/nidus.htm) (*Asplenium nidus*) creating a sheltered area
+nest ferns](../../plants/others/asplenium/nidus) (*Asplenium nidus*) creating a sheltered area
 by chewing off some of the inner portions of the 'skirt' of dead leaves
 under the fern. They also create a shelter out of a palm leaf by biting
 the ribs of so portions of the leaf droop to form an umbrella. They
@@ -95,10 +82,10 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 **Links**
 
 - [Lesser
-  Dog-faced Fruit Bat](http://www.ecologyasia.com/verts/bats/lesser_dog-faced_fruit-bat.htm) on Nick Baker's EcologyAsia website: fact
+  Dog-faced Fruit Bat](http://www.ecologyasia.com/verts/bats/lesser_dog-faced_fruit-bat) on Nick Baker's EcologyAsia website: fact
   sheet with photos.
 - [*Cynopterus
-  brachyotis*](https://singapore.biodiversity.online/taxo4254/mainSpace/Cynopterus%20brachyotis.html) (Chiroptera: Pteropodidae) Lesser Dog-faced
+  brachyotis*](https://singapore.biodiversity.online/taxo4254/mainSpace/Cynopterus%20brachyotisl) (Chiroptera: Pteropodidae) Lesser Dog-faced
   Fruit Bat by Tan Xiao Rui Joanna, 2013 on taxo4254.
 
 **References**
@@ -121,14 +108,4 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 FREE photos of [mammals](http://www.flickr.com/photos/54527470@N00/sets/72157600258172269).
 Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

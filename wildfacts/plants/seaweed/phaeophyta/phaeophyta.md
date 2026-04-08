@@ -9,22 +9,22 @@ layout: default
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![talking points for nature guides](../../../../Templates/fornatureguides.gif)](../fngseaweed.htm)
+[![talking points for nature guides](../../../../Templates/fornatureguides.gif)](../fngseaweed)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
-brown seaweeds [text index](../seaweedindex.htm#phaeophyta) | [photo
-index](../seaweedfi.htm)
+brown seaweeds [text index](../seaweedindex#phaeophyta) | [photo
+index](../seaweedfi)
 
-[Seaweeds](../seaweed.htm) in general
+[Seaweeds](../seaweed) in general
 **Brown
 seaweeds**   
 **Division Phaeophyta***updated
@@ -63,13 +63,13 @@ Brown seaweeds are only found in the sea and are not found in freshwater.
 provide shelter and food for small animals. The large sargassum seaweeds
 in particular may shelter tiny octopuses, shrimps and fishes. The
 [Crosslandia
-slug](../../../mollusca/slugs/nudibranchia/crosslandia.htm) (*Crosslandia* sp.) looks exactly like a sargassum blade! **Human uses:** Unlike [red
-seaweeds](../rhodophyta/rhodophyta.htm) and [green seaweeds](../chlorophyta/chlorophyta.htm),
+slug](../../../mollusca/slugs/nudibranchia/crosslandia) (*Crosslandia* sp.) looks exactly like a sargassum blade! **Human uses:** Unlike [red
+seaweeds](../rhodophyta/rhodophyta) and [green seaweeds](../chlorophyta/chlorophyta),
 few brown seaweeds are eaten directly by people. There are records
-that in the Philippines, *[Sargassum](sargassum.htm)*
+that in the Philippines, *[Sargassum](sargassum)*
 is widely used in the Ilocos region to enhance the taste of boiled
 rice or stewed fish. Some species of *Sargassum* and probably
-*[Turbinaria](turbinaria.htm)* and *Hormophysa*
+*[Turbinaria](turbinaria)* and *Hormophysa*
 are used as feritilisers and additives in poultry and cattle feed.
 *Sargassum* is also used as fish bait in basket traps and insect
 repellent. Various species of brown seaweed are also used as medicine
@@ -103,24 +103,24 @@ seaweeds *Sentosa, Apr 04*
 ![](noveinbranch/060115sntg3912m.jpg)
 ![](turbinaria/040507flhcd0150ma.jpg)
 
-![](../../../mollusca/slugs/nudibranchia/crosslandia/060131sjig4508m3.jpg)The [Crosslandia nudibranch](../../../mollusca/slugs/nudibranchia/crosslandia.htm) looks   
+![](../../../mollusca/slugs/nudibranchia/crosslandia/060131sjig4508m3.jpg)The [Crosslandia nudibranch](../../../mollusca/slugs/nudibranchia/crosslandia) looks   
 just like sargassum! *St. John's Island, Jan 06*
 
 ---
 
 **Division Phaeophyta on Singapore shores**  
-[text index](../seaweedindex.htm) and [photo
-index](../seaweedfi.htm) of brown seaweeds on this site
+[text index](../seaweedindex) and [photo
+index](../seaweedfi) of brown seaweeds on this site
 
 ---
 
 **Links**
 
-- [Algae](http://mangrove.nus.edu.sg/pub/seashore/flora.htm)
+- [Algae](http://mangrove.nus.edu.sg/pub/seashore/flora)
   Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
-- [Algae](http://mangrove.nus.edu.sg/guidebooks/text/1032.htm)
+- [Algae](http://mangrove.nus.edu.sg/guidebooks/text/1032)
   Ng, Peter K. L. & N. Sivasothi, 1999. *[A
   Guide to the Mangroves of Singapore I (Plant Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
   Singapore Science Centre. 168 pp.
@@ -167,9 +167,9 @@ FREE photos of
 seaweeds](http://www.flickr.com/photos/54527470@N00/sets/72157600032287041).  
 Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

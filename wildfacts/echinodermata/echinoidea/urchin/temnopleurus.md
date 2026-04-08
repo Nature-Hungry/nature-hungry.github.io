@@ -4,29 +4,29 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "black, urchin, temnoplerus, toreumaticus, temnopleuridae, echinoid, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![](../../../../Templates/fornatureguides.gif)](../../fngechinoidea.htm)
+[![](../../../../Templates/fornatureguides.gif)](../../fngechinoidea)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 echinoids
-[text index](../../echinodermindex.htm#echinoidea) |
-[photo index](../../echinoideafi2.htm)
-Phylum [Echinodermata](../../echinodermata.htm)
-> Class [Echinodea](../echinoidea.htm) > [sea
-urchins](urchin.htm)
+[text index](../../echinodermindex#echinoidea) |
+[photo index](../../echinoideafi2)
+Phylum [Echinodermata](../../echinodermata)
+> Class [Echinodea](../echinoidea) > [sea
+urchins](urchin)
 **Black
 sea urchin  
 *Temnopleurus toreumaticus*  
@@ -51,10 +51,10 @@ other debris. This behaviour may help camouflage it or shield it from
 sunlight.   
   
 **May be confused with** the [Long-spined
-black sea urchin](diadema.htm) (*Diadema* sp.) which has much longer spines
+black sea urchin](diadema) (*Diadema* sp.) which has much longer spines
 and is not often seen on the Northern shores.   
   
-**Prickly Home:** Sometimes, an [Urchin-mouth worm](../../../worm/polychaeta/oxydromus.htm) is seen curled around the mouth of the sea
+**Prickly Home:** Sometimes, an [Urchin-mouth worm](../../../worm/polychaeta/oxydromus) is seen curled around the mouth of the sea
 urchin.
 
 *![](temnopleurus/050524chgg6608m3.jpg)  
@@ -109,13 +109,13 @@ Jun 10*
 
 ![](temnopleurus/100614bbtch2m3a.jpg)  
 Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2010/06/return-to-beting-bronok.html).
+blog](http://colorclouds.blogspot.com/2010/06/return-to-beting-bronokl).
 
 ![](temnopleurus/080507ecplks04m3.jpg)  
  *East Coast,
 May 08*  
 Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2008/05/seafans-return-to-east-coast.html).
+blog](http://wondercreation.blogspot.com/2008/05/seafans-return-to-east-coastl).
 
 ---
 
@@ -143,8 +143,8 @@ Temnopleurus siamensis=^Temnotrema siamense?*
   know about sand dollars and sea urchins with lots of large close-up
   images and explanatory diagrams. With descriptions of [*Temnopleurus*](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/GENERA/TEMNOPLE/TEMNOPLE.jsp)
 - [*Temnopleurus
-  toreumaticus* (Striped spine urchin)](http://www.sealifebase.org/summary/Temnopleurus-toreumaticus.html) and *[Temnotrema
-  siamense](http://www.sealifebase.org/summary/Temnotrema-siamense.html)* on SeaLife Base: Technical fact sheet.
+  toreumaticus* (Striped spine urchin)](http://www.sealifebase.org/summary/Temnopleurus-toreumaticusl) and *[Temnotrema
+  siamense](http://www.sealifebase.org/summary/Temnotrema-siamensel)* on SeaLife Base: Technical fact sheet.
 
 **References**
 
@@ -154,9 +154,9 @@ Temnopleurus siamensis=^Temnotrema siamense?*
   Other Echinoderms of Singapore*. Singapore Science Centre.
   187pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

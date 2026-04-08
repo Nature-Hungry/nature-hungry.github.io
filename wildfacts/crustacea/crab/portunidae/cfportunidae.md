@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "swimming, crab, portunidae, portunus, charybdis, thalamita, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> Brachyurans > Family [Portunidae](portunidae.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> Brachyurans > Family [Portunidae](portunidae)
 **Swimming
 crabs   
 How to tell them apart?***updated
@@ -46,7 +46,7 @@ how to tell them apart.
 ![](pelagicus/050622cftg8190m3b.jpg)
 
 **[Flower
-crab](pelagicus.htm)**  
+crab](pelagicus)**  
 (*Portunus pelagicus*)  
 Body fan-shaped
 
@@ -66,7 +66,7 @@ are not far apart.
 ![](scylla/070716chgd4233m3d.jpg)
 
 [**Mud
-crab**](scylla.htm)   
+crab**](scylla)   
 (*Scylla* sp.)  
 Body fan-shaped
 
@@ -86,7 +86,7 @@ not far apart
 ![](purpleleg/050621skdg7959m3c.jpg)
 
 [**Purple-legged
-swimming crab**](purpleleg.htm)  
+swimming crab**](purpleleg)  
 (*Charybdis hellerii*)   
 Body fan-shaped
 
@@ -106,7 +106,7 @@ are not far apart.
 ![](spinimana/050623cjg8260m3b.jpg)
 
 [**Red
-swimming crab**](spinimana.htm)  
+swimming crab**](spinimana)  
 (*Thalamita spinimana*)  
 Body is rather rectangular.
 
@@ -126,7 +126,7 @@ eyes are very wide apart
 ![](blue/041019labd7612m3b.jpg)
 
 [**Blue
-swimming crab**](blue.htm)  
+swimming crab**](blue)  
 (*Thalamita danae*)  
 Body rather rectangular
 
@@ -143,7 +143,7 @@ eyes are wide apart
 
 ![](mottled/100613sngd5595m3d.jpg)
 
-**[Mottled swimming crab](mottled.htm)**  
+**[Mottled swimming crab](mottled)**  
 (*Thalamita* sp.)  
 Body rather rectangular
 
@@ -161,7 +161,7 @@ eyes are wide apart
 ![](bluespined/040818sntd4739m3c.jpg)
 
 [**Blue-spined
-swimming crab**](bluespined.htm)  
+swimming crab**](bluespined)  
 (*Thalamita prymna*)  
 Body rather rectangular
 
@@ -180,17 +180,17 @@ comparisons**
 ---
 
 **![](annulata/041215labd8963m3.jpg)  
-[Banded-leg swimming crab](blue.htm)**
+[Banded-leg swimming crab](blue)**
 
-***![](tiny/050428cftd2923m3.jpg)*[Tiny swimming crabs](tiny.htm)**
+***![](tiny/050428cftd2923m3.jpg)*[Tiny swimming crabs](tiny)**
 
 **![](powderblue/110730tmd7500m3.jpg)  
 [Powder blue-clawed  
-swimming crab](powderblue.htm)**
+swimming crab](powderblue)**
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

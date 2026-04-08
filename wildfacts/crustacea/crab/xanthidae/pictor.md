@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "mosaic, xanthid, crab, lophozozymus, pictor, xanthidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> Brachyurans > Family [Xanthidae](xanthidae.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> Brachyurans > Family [Xanthidae](xanthidae)
 **Mosaic
 reef crab   
 *Lophozozymus pictor***  
@@ -46,7 +46,7 @@ patterns of large white spots. Pincers short, both about equal in size, with bla
 legs hairy with pointed tips.  
   
 **Crab of Death:** It
-is the [most poisonous crab](xanthidae.htm) of Singapore!
+is the [most poisonous crab](xanthidae) of Singapore!
 There are several documented deaths caused by eating this crab. Cooking
 does not destroy the toxins. The crab is believed to obtain the toxins
 from the food it eats, including a poisonous sea cucumber.  
@@ -59,24 +59,24 @@ Singapore.
 
 ![](pictor/100725hnttch2m6l.jpg)  
 Eating a clam. *Pulau Hantu, Jul 10*Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2010/07/careful-where-you-put-your-next-step.html).
+blog](http://colorclouds.blogspot.com/2010/07/careful-where-you-put-your-next-stepl).
 
 ![](pictor/091106smkd3813m3.jpg)  
 *Pulau Semakau, Nov 09*
 
 ![](pictor/090509sisjg1m3.jpg)  
 Eating a [Long-spined
-black sea urchin](../../../echinodermata/echinoidea/urchin/diadema.htm). *Sisters Island, May 09*Photo shared by Janette Goh on [her
-blog](http://janette-to-nature.blogspot.com/2009/05/sisters-island-9-may-09-430-730am.html).
+black sea urchin](../../../echinodermata/echinoidea/urchin/diadema). *Sisters Island, May 09*Photo shared by Janette Goh on [her
+blog](http://janette-to-nature.blogspot.com/2009/05/sisters-island-9-may-09-430-730aml).
 
 ![](pictor/090510hntjg2m3.jpg)  
 Eating a [Common
-sea star](../../../echinodermata/asteroidea/archaster.htm). *Pulau Hantu, May 09*Photo shared by Janette Goh on [her
-blog](http://janette-to-nature.blogspot.com/2009/05/pulau-hantu-10may-09-abt-5-730am.html).
+sea star](../../../echinodermata/asteroidea/archaster). *Pulau Hantu, May 09*Photo shared by Janette Goh on [her
+blog](http://janette-to-nature.blogspot.com/2009/05/pulau-hantu-10may-09-abt-5-730aml).
 
 ![](pictor/251008bbbky9.jpg)  
 Eating a [Common
-sea star](../../../echinodermata/asteroidea/archaster.htm). *Beting Bemban Besar, Oct 25*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10173316523995112&type=3&ref=embed_post)
+sea star](../../../echinodermata/asteroidea/archaster). *Beting Bemban Besar, Oct 25*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10173316523995112&type=3&ref=embed_post)
 
 ---
 
@@ -130,7 +130,7 @@ Pulau Tekukor, Jan 25*Photo shared by Liz Lim on [facebook](https://www.facebook
 
 ![](pictor/090430jnglks01m3.JPG)  
 *Pulau Jong, Apr 09*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/04/back-to-jong.html).
+blog](http://wondercreation.blogspot.com/2009/04/back-to-jongl).
 
 ![](pictor/150219cyrlks.JPG)  
 *Cyrene Reef, Feb 15*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/25548338485/in/album-72157607718672165/).
@@ -144,11 +144,11 @@ Photo shared by Tammy Lim on [facebook](https://www.facebook.com/photo/?fbid=101
 ![](pictor/100627hntjk4m3.jpg)  
 *Pulau Hantu,
 Jun 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/06/100627-pulau-hantu.html).
+blog](http://sgn090608.blogspot.com/2010/06/100627-pulau-hantul).
 
 ![](pictor/090208smklksp13m3.jpg)  
 *Pulau Semakau, Feb 09*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/02/first-2009-semakau-guided-walk.html).
+blog](http://wondercreation.blogspot.com/2009/02/first-2009-semakau-guided-walkl).
 
 ---
 
@@ -165,7 +165,7 @@ blog](http://wondercreation.blogspot.com/2009/02/first-2009-semakau-guided-walk.
 
 ![](pictor/110517tptlks21m3.jpg)  
  *Terumbu Pempang Tengah, May 11*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengah.html)*.*
+blog](http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengahl)*.*
 
 ![](pictor/181223tplll3.jpg)  
  *Terumbu Pempang Laut, Dec 18*Photo shared by Liz Lim on [facebook](https://www.facebook.com/photo.php?fbid=2065382530151742&set=a.2065381310151864&type=3&theater).
@@ -208,7 +208,7 @@ flickr](http://www.flickr.com/photos/37823682@N04/4171192581/).
 **Links**  
 
 - [Poisonous
-  Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252.htm) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+  Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [Mosaic
@@ -242,9 +242,9 @@ flickr](http://www.flickr.com/photos/37823682@N04/4171192581/).
   S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
   Australian Waters*. Reed New Holland. 224 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

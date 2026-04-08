@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "tiny, red, coral, crab, trapezia. cymodoce, trapeziidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info,  photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> Brachyurans > Superfamily [Trapezioidea](trapezioidea.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> Brachyurans > Superfamily [Trapezioidea](trapezioidea)
 **Red
 coral crab  
 *Trapezia cymodoce***  
@@ -35,7 +35,7 @@ Dec 2019*
 
 **Where
 seen?** This tiny red crab is sometimes seen in [Cauliflower
-corals](../../../cnidaria/coralhard/pocilloporidae/pocillopora.htm) (*Pocillopora* sp.) on our Southern shores.  
+corals](../../../cnidaria/coralhard/pocilloporidae/pocillopora) (*Pocillopora* sp.) on our Southern shores.  
   
 **Features:** Body width about 1cm,
 body flat, claws large with pointed pincers usually dark at the tips.
@@ -43,7 +43,7 @@ Usually red or dark orange. Often, more than one crab is seen in a
 single colony. They are hard to spot and photograph.  
   
 This crab lives only in [Cauliflower
-corals](../../../cnidaria/coralhard/pocilloporidae/pocillopora.htm) (*Pocillopora* sp.). The crab feeds on the mucus produced
+corals](../../../cnidaria/coralhard/pocilloporidae/pocillopora) (*Pocillopora* sp.). The crab feeds on the mucus produced
 by the coral, gathering these with the minute comb-like structures
 at the tips of their feet. In turn, it protects the coral from predators
 such as the Crown-of-Thorns sea star and sea snails that eat corals. It discourages the sea star
@@ -113,15 +113,15 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ![](redcoral/100627hntlks1m3.jpg)  
 *Pulau Hantu, Jun 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/06/bleaching-at-hantu.html).
+blog](http://wondercreation.blogspot.com/2010/06/bleaching-at-hantul).
 
 ![](redcoral/150717smksnml2m3.jpg)  
-*Pulau Semakau South, Jul 15*Photo shared by Neo Mei Lin on [her blog](http://psychedelic-nature.blogspot.sg/2015/07/trilogy-of-pulau-semakau-17072015.html).
+*Pulau Semakau South, Jul 15*Photo shared by Neo Mei Lin on [her blog](http://psychedelic-nature.blogspot.sg/2015/07/trilogy-of-pulau-semakau-17072015l).
 
 ![](redcoral/110423tpllks11m3.jpg)  
 *Terumbu Pempang
 Laut, Apr 11*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/04/first-visit-to-terumbu-pempang-laut.html).
+blog](http://wondercreation.blogspot.com/2011/04/first-visit-to-terumbu-pempang-lautl).
 
 ---
 
@@ -153,9 +153,9 @@ blog](http://wondercreation.blogspot.com/2011/04/first-visit-to-terumbu-pempang-
   S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
   Australian Waters*. Reed New Holland. 224 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,23 +4,10 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "tree, bush, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
 
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
-
-plants [text index](../plantindex.htm) | [photo
-index](../plantfi.htm)
+plants [text index](../plantindex) | [photo
+index](../plantfi)
 ****Coastal
 plants*****updated
 Dec 2019*
@@ -33,7 +20,7 @@ have to withstand strong winds that blow salty water on them, and
 for those that grow on rocky cliffs, precarious perches with not much
 soil and have a tendency to crumble away.   
   
-Coastal plants don't grow with their roots in the sea, unlike [mangroves](../mangrove/mangroves.htm).
+Coastal plants don't grow with their roots in the sea, unlike [mangroves](../mangrove/mangroves).
 You can see that they are mostly found with their roots above the
 high water mark. Although sometimes, their branches and even trunks
 lean well over the water.
@@ -42,12 +29,12 @@ lean well over the water.
 
 ![](pandanus/tectorius/051018smkg2732m3.jpg)  
 The [seashore
-panda](pandanus/tectorius.htm)n can form   
+panda](pandanus/tectorius)n can form   
 prickly thickets near the shore.
 
 *![](tacca/leontopetaloides/081206smkd2502m3.jpg)*  
 The critically
-endangered [Seashore tacca](tacca/leontopetaloides.htm)   
+endangered [Seashore tacca](tacca/leontopetaloides)   
 is only found near shores.
 
 ![](ipomoea/pescaprae/090118smkd5798m3.jpg)  
@@ -71,7 +58,7 @@ plants and animals, including humans. Coastal plants provide food
 and shelter for birds and other terrestrial creatures. When their
 leaves and fruits and other parts fall on the shore, these also contribute
 to nutrients in the marine habitats. One study found that [clown
-anemonefishes](../../vertebrates/fish/pomacentridae/amphiprion.htm) find their way to anemones by the smell of the forest
+anemonefishes](../../vertebrates/fish/pomacentridae/amphiprion) find their way to anemones by the smell of the forest
 leaves in the water.
 
 ---
@@ -88,7 +75,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/) for free download.
 
 **Coastal
 plants on Singapore shores**[text
-index](../coastalindex.htm) and [photo index](coastalfi.htm) of coastal plants
+index](../coastalindex) and [photo index](coastalfi) of coastal plants
 on this site.
 
 ---
@@ -103,15 +90,15 @@ Red Data Book: Threatened plants and animals of Singapore*.
 Amaryllidaceae**
  
 [*Crinum
-asiaticum*](crinum/asiaticum.htm) (CR: Critically Endangered)
+asiaticum*](crinum/asiaticum) (CR: Critically Endangered)
   
  
 **Family
 Apocynacea**
  
 *[Cerbera
-manghas](cerbera/manghas.htm)* (CR: Critically Endangered)  
-*[Cerbera odollam](cerbera/odollam.htm)* (VU:
+manghas](cerbera/manghas)* (CR: Critically Endangered)  
+*[Cerbera odollam](cerbera/odollam)* (VU:
 Vulnerable)
   
  
@@ -119,13 +106,13 @@ Vulnerable)
 Clusiaceae** 
  
 [*Calophyllum
-inophyllum*](calophyllum/inophyllum.htm) (CR: Critically Endangered)
+inophyllum*](calophyllum/inophyllum) (CR: Critically Endangered)
   
  
 **Family
 Fabaceae** 
  
-*[Pongamia pinnata](pongamia/pinnata.htm)* (EN:
+*[Pongamia pinnata](pongamia/pinnata)* (EN:
 Endangered)
   
  
@@ -133,44 +120,44 @@ Endangered)
 Lecythidaceae**
  
 *[Barringtonia
-asiatica](barringtonia/asiatica.htm)* (CR: Critically Endangered)  
+asiatica](barringtonia/asiatica)* (CR: Critically Endangered)  
 *Barringtonia conoidea*  (NE: Nationally Extinct)  
 *Barringtonia macrostachya*  (CR: Critically Endangered)   
-*[Barringtonia racemosa](barringtonia/racemosa.htm)*  (CR: Critically Endangered)   
+*[Barringtonia racemosa](barringtonia/racemosa)*  (CR: Critically Endangered)   
 *Barringtonia reticulata*  (CR: Critically Endangered)
   
  
  **Family Melastomataceae**
  
 [*Memecylon
-edule*](memecylon/edule.htm) (CR: Critically Endangered)
+edule*](memecylon/edule) (CR: Critically Endangered)
   
  
  **Family Myristicaceae**
  
 [*Knema
-globularia*](knema/globularia.htm) (CR: Critically Endangered)
+globularia*](knema/globularia) (CR: Critically Endangered)
   
  
 **Family
 Myrsinaceae**
  
 *[Ardisia
-elliptica](ardisia/elliptica.htm)* (EN: Endangered)
+elliptica](ardisia/elliptica)* (EN: Endangered)
   
  
 **Family
 Podocarpaceae**
  
 [*Podocarpus
-polystachyus*](podocarpus/polystachyus.htm) (CR: Critically Endangered)
+polystachyus*](podocarpus/polystachyus) (CR: Critically Endangered)
   
  
 **Family
 Sapotaceae** 
  
 *[Pouteria
-linggensis](pouteria/linggensis.htm)* (CR: Critically Endangered)  
+linggensis](pouteria/linggensis)* (CR: Critically Endangered)  
 *Pouteria maingayi*  (EN: Endangered)   
 *Pouteria malaccensis*  (VU: Vulnerable)
   
@@ -179,7 +166,7 @@ linggensis](pouteria/linggensis.htm)* (CR: Critically Endangered)
 Taccaceae** 
  
 *[Tacca
-leontopetaloides](tacca/leontopetaloides.htm)* (CR: Critically Endangered)
+leontopetaloides](tacca/leontopetaloides)* (CR: Critically Endangered)
 
 ---
 
@@ -190,14 +177,4 @@ leontopetaloides](tacca/leontopetaloides.htm)* (CR: Critically Endangered)
   Red Data Book: Threatened plants and animals of Singapore*.
   Nature Society (Singapore). 285 pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

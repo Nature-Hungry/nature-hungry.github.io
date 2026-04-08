@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "sea, apple, syzygium, grande, myrtaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
-plants [text index](../../plantindex.htm) | [photo
-index](../../plantfi.htm)
+plants [text index](../../plantindex) | [photo
+index](../../plantfi)
 [coastal
-plants](../coastalplants.htm) 
+plants](../coastalplants) 
 **Jambu
 air laut or Sea
 apple  
@@ -128,7 +128,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 - *[Syzygium
   grande](http://floraofsingapore.wordpress.com/2010/04/10/syzygium-grande/)* on Total Vascular Flora of Singapore Online: photos
   and fact sheet.
-- *[Syzygium grande](https://singapore.biodiversity.online/taxo4254/mainSpace/Syzygium%20grande.html)* (Myrtales: Myrtaceae) Sea Apple by Tan Wen Ai Lorraine, 2016, on taxo4254.
+- *[Syzygium grande](https://singapore.biodiversity.online/taxo4254/mainSpace/Syzygium%20grandel)* (Myrtales: Myrtaceae) Sea Apple by Tan Wen Ai Lorraine, 2016, on taxo4254.
 - [Know
   10 trees in Singapore](http://www.nparks.gov.sg/cms/index.php?option=com_content&view=article&id=180&Itemid=161)
   on the NParks website: fact sheet with lots of photos of various
@@ -165,9 +165,9 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 FREE photos of [coastal
 plants](http://www.flickr.com/photos/54527470@N00/sets/72157600057953536). Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

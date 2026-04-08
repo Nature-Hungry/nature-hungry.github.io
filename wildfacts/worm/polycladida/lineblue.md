@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "elegant, striped, blue, lined, flat, worm, flatworm, pseudoceros, concinnus, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 flatworms [text
-index](../wormindex.htm) | [photo index](../polycladidafi.htm)
-[worms](../worm.htm)
+index](../wormindex) | [photo index](../polycladidafi)
+[worms](../worm)
 > Phylum Platyhelminthes > Class
-Turbellaria > [Order Polycladida](polycladida.htm)
+Turbellaria > [Order Polycladida](polycladida)
 **Blue-lined
 flatworm  
 *Pseudoceros concinnus\****Family
@@ -41,7 +28,7 @@ encountered on many of our shores, on coral rubble near living reefs.
 a pair of pseudotentacles made up of simple folded edges
 of the body.  
   
-**Sometimes mistaken for** similar flatworms. Here's more on how to tell apart small flatworms with [one central line and three central lines](cfstriped.htm).  
+**Sometimes mistaken for** similar flatworms. Here's more on how to tell apart small flatworms with [one central line and three central lines](cfstriped).  
   
 **Good mother:** One study has found this worm to display long-term parental care.
 
@@ -85,7 +72,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 ---
 
 ![](lineblue/160706skdlks3.jpg)  
- *Pulau Sekudu, Jul 16*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2016/07/baby-knobblies-at-pulau-sekudu.html).
+ *Pulau Sekudu, Jul 16*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2016/07/baby-knobblies-at-pulau-sekudul).
 
 ![](lineblue/200723bbvc1.jpg)  
  *Beting Bronok, Jul 20*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo.php?fbid=10157818938422945&set=a.10157818937637945&type=3&theater).
@@ -97,13 +84,13 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ![](lineblue/101009cjnml1m3a.jpg)  
  *Chek Jawa, Oct 10*Photo shared by Neo Mei Lin on [her
-blog](http://psychedelic-nature.blogspot.com/2010/10/im-seagrasser-chek-jawa.html).
+blog](http://psychedelic-nature.blogspot.com/2010/10/im-seagrasser-chek-jawal).
 
 ![](lineblue/140114cjlks2m3a.jpg)  
- *Chek Jawa, Jan 14*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/01/any-impact-on-chek-jawa-from-dec-flood.html).
+ *Chek Jawa, Jan 14*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/01/any-impact-on-chek-jawa-from-dec-floodl).
 
 ![](lineblue/130721cjlks1m3.jpg)  
- *Chek Jawa, Jul 13*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2013/07/chek-jawa-coral-rubble-survey-after-4.html).
+ *Chek Jawa, Jul 13*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2013/07/chek-jawa-coral-rubble-survey-after-4l).
 
 ---
 
@@ -144,7 +131,7 @@ blog](http://psychedelic-nature.blogspot.com/2010/10/im-seagrasser-chek-jawa.htm
 
 ![](lineblue/150815sislks1m3.JPG)  
 *Seringat-Kias, Aug 15*Shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2015/08/baby-shark-at-big-sisters-island.html).
+blog](http://wondercreation.blogspot.sg/2015/08/baby-shark-at-big-sisters-islandl).
 
 ![](lineblue/210430sjijll4.jpg)  
 *St. John's Island, Apr 21*Shared by Jianlin Liu on [facebook](https://www.facebook.com/photo?fbid=10158238598096295&set=a.10158238590001295).
@@ -161,11 +148,11 @@ blog](http://wondercreation.blogspot.sg/2015/08/baby-shark-at-big-sisters-island
 
 ![](lineblue/090224lazlks08m3.jpg)  
 *Lazarus, Feb 09*Shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/02/resurrection-of-lazarus.html).
+blog](http://wondercreation.blogspot.com/2009/02/resurrection-of-lazarusl).
 
 ![](lineblue/110702lzrlks1m3.jpg)  
 *Lazarus, Jul 11*Shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/07/walk-around-lazarus-island.html).
+blog](http://wondercreation.blogspot.com/2011/07/walk-around-lazarus-islandl).
 
 ![](lineblue/200126bsisjll4.jpg)  
 *Big Sisters Island, Jan 20*Shared by Jianlin Liu on [facebook](https://www.facebook.com/photo.php?fbid=10157035134806295&set=a.10157035131206295&type=3&theater).
@@ -180,7 +167,7 @@ blog](http://wondercreation.blogspot.com/2011/07/walk-around-lazarus-island.html
 
 ![](lineblue/100517jngjk2m3.jpg)  
  *Pulau Jong, May 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/05/100517-jong.html).
+blog](http://sgn090608.blogspot.com/2010/05/100517-jongl).
 
 ---
 
@@ -195,7 +182,7 @@ blog](http://sgn090608.blogspot.com/2010/05/100517-jong.html).
 ![](lineblue/100627hntlks2m3.jpg)  
 *Pulau Hantu,
 Jun 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/06/bleaching-at-hantu.html).
+blog](http://wondercreation.blogspot.com/2010/06/bleaching-at-hantul).
 
 ![](lineblue/210429hntjll2.jpg)  
 *Pulau Hantu,
@@ -210,26 +197,26 @@ Apr 21*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo?
 Terumbu
 Bemban, Apr 11*  
 Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/04/corals-galore-at-terumbu-bemban.html).
+blog](http://wondercreation.blogspot.com/2011/04/corals-galore-at-terumbu-bembanl).
 
 ![](lineblue/100519tsmjk1m3.jpg)  
  *Terumbu Semakau, May 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/05/100519-terumbu-semakau.html).
+blog](http://sgn090608.blogspot.com/2010/05/100519-terumbu-semakaul).
 
 ![](lineblue/110522bbblks11m3.jpg)  
 *Beting Bemban Besar, May 11*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/05/knobblies-at-beting-bemban-besar.html).
+blog](http://wondercreation.blogspot.com/2011/05/knobblies-at-beting-bemban-besarl).
 
 ---
 
 ![](lineblue/110517tptlks28m3.jpg)  
  *Terumbu Pempang Tengah, May 11*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengah.html)*.*
+blog](http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengahl)*.*
 
 ![](lineblue/110423tpllks7m3.jpg)  
 *Terumbu
 Pempang Laut, Apr 11*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/04/first-visit-to-terumbu-pempang-laut.html).
+blog](http://wondercreation.blogspot.com/2011/04/first-visit-to-terumbu-pempang-lautl).
 
 ![](lineblue/240310tplvc2.jpg)  
 *Terumbu
@@ -305,14 +292,4 @@ Grateful thanks to Rene Ong for sharing details and identifying the flatworms on
   Flatworms: The World of Polyclads*.
   CSIRO Publishing. 97pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

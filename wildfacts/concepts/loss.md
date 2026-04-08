@@ -4,22 +4,7 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "reclamation, dredging, shipping, petrochemicals, pollution, development, works, conservation, conserve, protect, reef, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
-[index](index.html)
+[index](indexl)
 of concepts
 **Loss
 of coastal ecosystems***updated
@@ -31,7 +16,7 @@ Dec 2019*
 much have we lost?**  
 Land reclamation which increased Singapore's land area by 17% has
 buried much of Singapore's coasts. Most of our natural [sandy
-shores](sandy.htm) have been lost to reclamation. Construction of reservoirs
+shores](sandy) have been lost to reclamation. Construction of reservoirs
 by damming rivers and draining wetlands have also badly affected the
 habitats near river mouths and on intertidal shores.   
   
@@ -47,7 +32,7 @@ lost up to 65% of their live coral cover.
 ![](pix/map2002640small.jpg)  
 **Singapore's coastline in 2002**  
 *from [Singapore
-Waters: Unveiling our Seas](http://singaporewaters.nss.org.sg/Gallery.htm)  
+Waters: Unveiling our Seas](http://singaporewaters.nss.org.sg/Gallery)  
   
 ![](pix/reclaimedland.gif)***Past and future reclamation works**  
 *from [Encyclopedia
@@ -58,7 +43,7 @@ of Coastal Science](http://books.google.com.sg/books?id=VWnxpAxp6TMC) by Maurice
 *from the [Ministry
 of National Development,](http://www.mnd.gov.sg/landuseplan/) Jan 2013  
 more about [the
-shores lost in this plan](http://wildshores.blogspot.sg/2013/01/what-shores-will-singapore-lose-in-7.html).*
+shores lost in this plan](http://wildshores.blogspot.sg/2013/01/what-shores-will-singapore-lose-in-7l).*
 The massive changes to our shoreline means than many of our coastal
 areas are no longer complete ecosystems. The original habitats are
 fragmented and separated from one another. Animals at the top of the
@@ -125,13 +110,13 @@ download.
 **Links**
 
 - [What
-  shores will Singapore lose in 7 million population plan?](http://wildshores.blogspot.sg/2013/01/what-shores-will-singapore-lose-in-7.html) on
+  shores will Singapore lose in 7 million population plan?](http://wildshores.blogspot.sg/2013/01/what-shores-will-singapore-lose-in-7l) on
   the wild shores of singapore blog.
 - [Latest
   coastal works on our shores](http://wildshores.blogspot.com/search/label/mpa-notice)
   on the wild shores of singapore blog.
 - [History
-  and Biodiversity of Singapore's Mangroves](http://mangrove.nus.edu.sg/guidebooks/text/1003.htm)
+  and Biodiversity of Singapore's Mangroves](http://mangrove.nus.edu.sg/guidebooks/text/1003)
   Ng, Peter K. L. & N. Sivasothi, 1999. *[A
   Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore Science
   Centre. 168 pp.
@@ -139,28 +124,28 @@ download.
   Reefs of Singapore](http://coralreef.nus.edu.sg/) by the Marine Biology Lab, NUS. A comprehensive
   site with lots of photos and maps, tons of info on all our southern
   islands, and all about reef conservation efforts in Singapore.
-- [Singapore Waters: Unveiling our Seas](http://singaporewaters.nss.org.sg/Gallery.htm) a book by the Marine
+- [Singapore Waters: Unveiling our Seas](http://singaporewaters.nss.org.sg/Gallery) a book by the Marine
   Conservation Group of the Nature Society (Singapore) with photos
   and maps of coastal changes.
 - [Land
-  reclamation in Singapore](http://library.thinkquest.org/C006891/reclamation.html)
+  reclamation in Singapore](http://library.thinkquest.org/C006891/reclamationl)
   on thinkquest.
 - [Bedok
-  land reclamation](http://infopedia.nl.sg/articles/SIP_999_2008-10-28.html) by Marsita Omar on the Singapore Infopedia
+  land reclamation](http://infopedia.nl.sg/articles/SIP_999_2008-10-28l) by Marsita Omar on the Singapore Infopedia
   of the National Library.
 - [Encyclopedia
   of Coastal Science](http://books.google.com.sg/books?id=VWnxpAxp6TMC) by Maurice L. Schwartz, has excerpts on
   Singapore reclamation, on google book search.
 - [Erosion
-  on Singapore's shores](http://wildshores.blogspot.com/2008/08/erosion-on-singapores-shores.html) on the wild shores of singapore blog.
+  on Singapore's shores](http://wildshores.blogspot.com/2008/08/erosion-on-singapores-shoresl) on the wild shores of singapore blog.
 - [Faster,
-  cheaper land reclamation in Singapore](http://wildshores.blogspot.com/2008/12/faster-cheaper-land-reclamation-in.html) on the wild shores of
+  cheaper land reclamation in Singapore](http://wildshores.blogspot.com/2008/12/faster-cheaper-land-reclamation-inl) on the wild shores of
   singapore blog.
 - [Is
-  more reclamation on Singapore possible?](http://wildshores.blogspot.com/2008/12/is-more-reclamation-in-singapore.html) on the wild shores
+  more reclamation on Singapore possible?](http://wildshores.blogspot.com/2008/12/is-more-reclamation-in-singaporel) on the wild shores
   of singapore blog.
 - [Singapore-Delft
-  Water Alliance: help for our reefs, seagrasses and mangroves?](http://wildshores.blogspot.com/2008/12/singapore-delft-water-alliance-help-for.html)
+  Water Alliance: help for our reefs, seagrasses and mangroves?](http://wildshores.blogspot.com/2008/12/singapore-delft-water-alliance-help-forl)
   on the wild shores of singapore blog.
 
 **Media
@@ -168,7 +153,7 @@ articles**
 
 - [Singapore's
   Garden City concept may be extended further to encompass ecosystems
-  that encourage biodiversity](http://wildsingaporenews.blogspot.com/2008/04/singapores-garden-city-concept-may-be.html) Attracting the birds and the bees
+  that encourage biodiversity](http://wildsingaporenews.blogspot.com/2008/04/singapores-garden-city-concept-may-bel) Attracting the birds and the bees
   Business Times 8 Apr 08;
 
 **References**
@@ -178,9 +163,9 @@ articles**
   Natural Heritage of Singapore. Second edition. Prentice
   Hall. 271 pp.
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

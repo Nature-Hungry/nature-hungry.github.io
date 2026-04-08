@@ -4,27 +4,12 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, worms, polychaeta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 worms
-[text index](wormindex.htm) | [photo
-index](wormfi.htm)
+[text index](wormindex) | [photo
+index](wormfi)
 
-[Worms](worm.htm) > Phylum Annelida > Class
-[Polychaeta](polychaeta/polychaeta.htm)
+[Worms](worm) > Phylum Annelida > Class
+[Polychaeta](polychaeta/polychaeta)
 
 **Photo
 index of marine worms on Singapore shores**  
@@ -34,21 +19,21 @@ worm-shaped with bristles**\*
 ---
 
 ![](polychaeta/giant/040521sntad0079m.jpg)  
-[Giant reef worm](polychaeta/giant.htm) *Eunice aphroditois*Class Polychaeta
+[Giant reef worm](polychaeta/giant) *Eunice aphroditois*Class Polychaeta
 
-![](polychaeta/reef/040804skdd4129m.jpg) [Reef bristleworm](polychaeta/reef.htm) *Eurythoe complanata*Class Polychaeta
+![](polychaeta/reef/040804skdd4129m.jpg) [Reef bristleworm](polychaeta/reef) *Eurythoe complanata*Class Polychaeta
 
 ![](polychaeta/diopatra/030105cjd7015m.jpg)  
-[Solitary tubeworm](polychaeta/diopatra.htm) *Diopatra* sp.  
+[Solitary tubeworm](polychaeta/diopatra) *Diopatra* sp.  
 Class Polychaeta
 
 ![](polychaeta/chloeia/050412tusd2407m.jpg)  
-[Beautiful fireworm](polychaeta/chloeia.htm)  
+[Beautiful fireworm](polychaeta/chloeia)  
 *Chloeia* sp,  
 Class Polychaeta
 
 ![](polychaeta/scaleworm/120511tpld3253m.jpg)  
-[Scale worm](polychaeta/scaleworm.htm)  
+[Scale worm](polychaeta/scaleworm)  
 Family Polynoidae
 
 To
@@ -73,13 +58,13 @@ upper side. Commensal with other animals or hidden. Probably common
 on many shores.
 
 ![](polychaeta/spaghetti/100429prpd1929m.jpg)  
-[Spaghetti worm](polychaeta/diopatra.htm) *awaiting identification*
+[Spaghetti worm](polychaeta/diopatra) *awaiting identification*
 
 ![](../echinodermata/echinoidea/urchin/salmacis/110830cyrjk6m.jpg)  
-[Urchin-mouth worm](polychaeta/oxydromus.htm) *Oxydromus cf. angustifrons*
+[Urchin-mouth worm](polychaeta/oxydromus) *Oxydromus cf. angustifrons*
 
 ![](polychaeta/myzostomidae/120820sisd0906m.jpg)  
-[Feather star worm](polychaeta/myzostomidae.htm)  
+[Feather star worm](polychaeta/myzostomidae)  
 Family Myzostomidae
 
  
@@ -104,17 +89,17 @@ display.*
 are NOT bristleworms**
 
 ![](../echinodermata/ophiuroidea/longipeda/030615cjd0228m.jpg)  
-[Brittlestars](../echinodermata/ophiuroidea/ophiuroidea.htm)  
+[Brittlestars](../echinodermata/ophiuroidea/ophiuroidea)  
 Phylum Echinodermata
 
 ![](../echinodermata/ophiuroidea/tinysponge/050806skdg0477mb.jpg)  
 [Tiny brittlestars  
-in a sponge](../echinodermata/ophiuroidea/tinysponge.htm)  
+in a sponge](../echinodermata/ophiuroidea/tinysponge)  
 Phylum Echinodermata
 
 ![](../mollusca/slugs/nudibranchia/ianthina/030714bbd0018m.jpg)  
  [Blue dragon
-nudibranch](../mollusca/slugs/nudibranchia/ianthina.htm)  
+nudibranch](../mollusca/slugs/nudibranchia/ianthina)  
 Phylum Mollusca
 
 ---
@@ -122,9 +107,9 @@ Phylum Mollusca
 how to tell apart
 
 - [bristley
-  lifeforms](../glossary/wormstar.htm)
+  lifeforms](../glossary/wormstar)
 - [feathery
-  lifeform](../glossary/feathery.htm)
+  lifeform](../glossary/feathery)
 
 [www.**flickr**.com](http://www.flickr.com)  
 
@@ -136,24 +121,24 @@ index of
 marine worms   
 on this site
 
-[all marine worms](wormfi.htm)  
+[all marine worms](wormfi)  
  **Typical worms**   
  
-[Smooth](wormfi1a.htm)
+[Smooth](wormfi1a)
   
 Bristley
   
-[**Tubeworms**](tubewormfi.htm)
+[**Tubeworms**](tubewormfi)
   
   
 **[Feathery
-worms](sabellidaefi.htm)**    
+worms](sabellidaefi)**    
   
 **Flatworms**
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

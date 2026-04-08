@@ -4,28 +4,28 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "knobbly, agar, gracilaria, salicornia, red, seaweed, weed, algae, gracilariaceae, rhodophyceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 red
-seaweeds [text index](../seaweedindex.htm#rhodophyta)
-| [photo index](../seaweedfi.htm)
+seaweeds [text index](../seaweedindex#rhodophyta)
+| [photo index](../seaweedfi)
 
-[Seaweeds](../seaweed.htm)
-> Division [Rhodophyta](rhodophyta.htm) >
-Family Gracilariaceae > Genus [Gracilaria](gracilaria.htm)
+[Seaweeds](../seaweed)
+> Division [Rhodophyta](rhodophyta) >
+Family Gracilariaceae > Genus [Gracilaria](gracilaria)
 **Knobbly
 agar-agar seaweed   
 *Gracilaria salicornia*  
@@ -51,7 +51,7 @@ brown.
 **Human uses:** It is used as animal
 feed, and fertiliser for coconut trees and coffee bushes in China,
 India and Sri Lanka. Like other *Gracilaria* species, it is also
-a [source of agar-agar](gracilaria.htm) and is eaten as
+a [source of agar-agar](gracilaria) and is eaten as
 a jelly and as a 'crunchy' snack. Other uses include as an insect
 repellant and to treat knee joints, sores, heart complaints, stomach
 and intestinal disorders. It is reported to have anti-bacterial and
@@ -116,8 +116,8 @@ Pulau Pawai, Dec 09*
 **Links**
 
 - *[Gracilaria
-  salicornia](http://www.hawaii.edu/reefalgae/invasive_algae/rhodo/gracilaria_salicornia.htm)* from [Marine
-  Algae of Hawai`i](http://www.hawaii.edu/reefalgae/default.htm) on the University of Hawai`i Botany Department
+  salicornia](http://www.hawaii.edu/reefalgae/invasive_algae/rhodo/gracilaria_salicornia)* from [Marine
+  Algae of Hawai`i](http://www.hawaii.edu/reefalgae/default) on the University of Hawai`i Botany Department
   website: fact sheet with photos.
 - [*Gracilaria
   salicornia*](http://www.algaebase.org/search/species/detail/?species_id=1928) on
@@ -160,9 +160,9 @@ FREE photos of
 seaweeds](http://www.flickr.com/photos/54527470@N00/sets/72157600031841176).  
 Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

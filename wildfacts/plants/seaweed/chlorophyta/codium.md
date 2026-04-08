@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "knobbly, codium, codiaceae, seaweed, weed, green, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 green
-seaweeds [text index](../seaweedindex.htm) | [photo
-index](../seaweedfi.htm)
-[Seaweeds](../seaweed.htm)
-> Division [Chlorophyta](chlorophyta.htm)
+seaweeds [text index](../seaweedindex) | [photo
+index](../seaweedfi)
+[Seaweeds](../seaweed)
+> Division [Chlorophyta](chlorophyta)
 **Codium
 green seaweed *Codium* sp.\*** **Family Codiaceae  
 *updated
@@ -47,10 +47,10 @@ to olive.
 According to [AlgaeBase](http://www.algaebase.org/search/genus/detail/?genus_id=39),
 there are more than 140 current *Codium* species.  
   
-Lumpy blobby Codium green seaweed **may be confused with** [Puffy brown seaweed](../phaeophyta/colpomenia.htm) (*Colpomenia sinuosa*) which is golden brown.  
+Lumpy blobby Codium green seaweed **may be confused with** [Puffy brown seaweed](../phaeophyta/colpomenia) (*Colpomenia sinuosa*) which is golden brown.  
   
 **Role in the habitat:** Some *Codium* species are eaten by [sea
-turtles](../../../vertebrates/reptilia/seaturtle.htm).  
+turtles](../../../vertebrates/reptilia/seaturtle).  
   
 **Invasive Codium:** Some species
 of *Codium* are considered invasive alien introduced species
@@ -192,9 +192,9 @@ Codium tomentosum*
   Guide and Atlas of the Seaweed Resources of the Philippines.*.
   Bookmark, Inc., the Philippines. 306 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

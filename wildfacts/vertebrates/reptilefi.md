@@ -9,18 +9,18 @@ layout: default
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../index.html)  
+[wildfactsheets homepage](../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
+[all animals](../animals)
+| [all plants](../plants)
+| [concepts](../concepts/indexl)
+| [glossary](../glossary/indexl)
+| [search](../search)
 
 vertebrates [text
-index](vertindex.htm) | [photo index](vertfi.htm)
+index](vertindex) | [photo index](vertfi)
  
 **Other
 reptiles of Singapore****lizards,
@@ -29,15 +29,15 @@ monitors, crocodiles, sea turtles**
 ---
 
 ![](reptilia/cristatella/041003btnrd7398m.jpg)  
-[Green crested lizard](reptilia/cristatella.htm)  
+[Green crested lizard](reptilia/cristatella)  
 *Bronchocela cristatella*
 
 ![](reptilia/versicolor/020306sbwrcpd7650m.jpg)  
-[Changeable lizard](reptilia/versicolor.htm)  
+[Changeable lizard](reptilia/versicolor)  
 *Calotes versicolor*
 
 ![](reptilia/multifasciata/090905sbwrd0091m.jpg)  
-[Common sun skink](reptilia/multifasciata.htm)  
+[Common sun skink](reptilia/multifasciata)  
 *Eutropis multifasciata*
 
  
@@ -55,15 +55,15 @@ bronzey brown with various patterns. Common seen on the ground in
 many of our wild places.
 
 ![](reptilia/salvator/030630chgd0093m.jpg)  
-[Malayan water monitor](reptilia/salvator.htm)  
+[Malayan water monitor](reptilia/salvator)  
 *Varanus salvator*
 
 ![](reptilia/porosus/090913sbwrtsy1ma.jpg)  
-[Estuarine crocodile](reptilia/porosus.htm)  
+[Estuarine crocodile](reptilia/porosus)  
 *Crocodylus porosus*
 
 ![](reptilia/seaturtle/071112smktsy1m.jpg)  
-[Sea turtle](reptilia/seaturtle.htm)  
+[Sea turtle](reptilia/seaturtle)  
 Family Cheloniidae
 
  
@@ -96,21 +96,21 @@ index of
 vertebrates on this site
 
 [all
-vertebrates](vertfi.htm)  
+vertebrates](vertfi)  
   
-[marine fishes](fish/fishfi.htm)  
+[marine fishes](fish/fishfi)  
   
-[shore snakes](snakes/snakeshorefi.htm)  
+[shore snakes](snakes/snakeshorefi)  
   
 other reptiles  
   
-[mammals](mammalfi.htm)   
+[mammals](mammalfi)   
   
-[birds](birdfi.htm)
+[birds](birdfi)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

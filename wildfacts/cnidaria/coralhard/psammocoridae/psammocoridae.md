@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "sandpaper, psammocora, siderastreidae, psammocoridae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 hard corals [text
-index](../../coralhardindex.htm) | [photo index](../../cnidariafi1.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard.htm)
+index](../../coralhardindex) | [photo index](../../cnidariafi1)
+Phylum [Cnidaria](../../cnidaria)
+> Class [Anthozoa](../../anthozoa) > Subclass
+Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard)
 **Sandpaper
 corals**  **Family Psammocoridae***updated
 Nov 2019*
@@ -46,8 +46,8 @@ holes of the corallite look like tiny petals of a flower. Polyps tiny
 the colony has a furry look.   
   
 It's hard to distinguish the different species of *Psammocora* without close examination of small features. On this website, they
-are grouped into [boulder sandpaper coral](psaboulder.htm) (colony is boulder-shaped) and [crinkled
-sand paper coral](psacrinkled.htm) (colony has short crinkled branches).  
+are grouped into [boulder sandpaper coral](psaboulder) (colony is boulder-shaped) and [crinkled
+sand paper coral](psacrinkled) (colony has short crinkled branches).  
   
 **Sandpapery home:** Those that are branching often have tiny
 animals among their branches.  
@@ -70,11 +70,11 @@ A tiny shrimp.
 
 ![](crinkled/060312hntd0199m3a.jpg)  
 A tiny [scallop
-clam](../../../mollusca/bivalvia/pectinidae/coral.htm).  
+clam](../../../mollusca/bivalvia/pectinidae/coral).  
 *Pulau Hantu, Mar 06*
 
 *![](../../../worm/polychaeta/sabellidae/banded/060810rlhd5679m3.jpg)*A
-[fan worm](../../../worm/polychaeta/sabellidae.htm). *Raffles Lighthouse, Aug 06*
+[fan worm](../../../worm/polychaeta/sabellidae). *Raffles Lighthouse, Aug 06*
 
 ---
 
@@ -84,13 +84,13 @@ corals on Singapore shores**
 ---
 
 **![](crinkled/120408sjid8447m3.jpg)  
-[Crinkled sandpaper coral](psacrinkled.htm)**
+[Crinkled sandpaper coral](psacrinkled)**
 
 **![](crinkled/060102sisg3676m3.jpg)  
-[Crinkled sandpaper coral](psacrinkled.htm)**
+[Crinkled sandpaper coral](psacrinkled)**
 
 **![](boulder/120508skdd1948m3.jpg)  
-[Boulder sandpaper coral](psaboulder.htm)**
+[Boulder sandpaper coral](psaboulder)**
 
 *![](crinkled/120408sjid8450m3d.jpg)*
 *![](crinkled/060102sisg3677m3.jpg)*
@@ -113,11 +113,11 @@ are difficult to positively identify without close examination.* *On this websit
 of display**.*
  
 [Boulder
-sandpaper coral](psaboulder.htm)  [Crinkled sand paper coral](psacrinkled.htm)
+sandpaper coral](psaboulder)  [Crinkled sand paper coral](psacrinkled)
   
  
 **[Family
-Psammocoridae](psammocoridae.htm)**
+Psammocoridae](psammocoridae)**
  
 *Psammocora contigua* (Near
 Threatened) *Psammocora digitata\*\** (Near
@@ -157,9 +157,9 @@ Psammocora superficialis*
   Eric H. 2001. *Aquarium
   Corals: Selection, Husbandry and Natural History* T.F. H Publications. 464 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

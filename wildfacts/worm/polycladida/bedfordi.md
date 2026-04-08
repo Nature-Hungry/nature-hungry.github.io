@@ -4,28 +4,15 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "persian, carpet, flat, worm, flatworm, pseudobiceros, bedfordi, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 flatworms
-[text index](../wormindex.htm) | [photo
-index](../polycladidafi.htm)
+[text index](../wormindex) | [photo
+index](../polycladidafi)
 
-[worms](../worm.htm) > Phylum Platyhelminthes >
+[worms](../worm) > Phylum Platyhelminthes >
 Class
-Turbellaria > [Order Polycladida](polycladida.htm)
+Turbellaria > [Order Polycladida](polycladida)
 
 **Persian
 carpet flatworm  
@@ -47,7 +34,7 @@ with tiny white dots. The stripes curve from the centre of the body
 to the sides. Black wide margin with white dots. The underside
 is uniformly pale pink with a wide black margin. It has a pair of
 pseudotentacles made up of simple folded edges of
-the body. **What does it eat?** It eats [ascidians](../../ascidiacea/ascidiacea.htm).
+the body. **What does it eat?** It eats [ascidians](../../ascidiacea/ascidiacea).
 ![](bedfordi/070324cyrd9371m3.jpg)  
 *Cyrene Reef, Mar 07*
 
@@ -90,7 +77,7 @@ shared by Jianlin Liu on [facebook](https://www.facebook.com/photo?fbid=10159781
 ![](bedfordi/090607tmik1m3.jpg)  
  *Tanah Merah, Jun 09* Photo
 shared by Ivan Kwan on [his
-blog](http://lazy-lizard-tales.blogspot.com/2009/06/more-tanah-merah-surprises.html).
+blog](http://lazy-lizard-tales.blogspot.com/2009/06/more-tanah-merah-surprisesl).
 
 ![](bedfordi/220517sntrk1.jpg)  
  *Sentosa Tg Rimau, May 22* Photo
@@ -114,7 +101,7 @@ shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=101588
 
 ![](bedfordi/140503sislks1m3.JPG)  
  *Sisters Island, May 14* Photo
-shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/05/living-reefs-of-big-sisters-island.html).
+shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/05/living-reefs-of-big-sisters-islandl).
 
 ![](bedfordi/230122jngvc1.jpg)  
  *Pulau Jong, Jan 23* Photo
@@ -128,7 +115,7 @@ shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=101580
 
 ![](bedfordi/070507sjid1m3.jpg)  
  *St John's Island, May 07* Photo
-shared by Dickson on [his blog](http://thebluheaven.blogspot.sg/2007/05/saint-of-south.html).
+shared by Dickson on [his blog](http://thebluheaven.blogspot.sg/2007/05/saint-of-southl).
 
 ---
 
@@ -145,7 +132,7 @@ shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo.php?fbid=10
 ![](bedfordi/081001smklksm3.jpg)  
  *Pulau Semakau, Oct 08* Photo
 shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2008/10/semakau-shore-walk-with-fun-children.html).
+blog](http://wondercreation.blogspot.com/2008/10/semakau-shore-walk-with-fun-childrenl).
 
 ![](bedfordi/200111smksjll2.jpg)  
  *Pulau Semakau South, Jan 20* Photo
@@ -165,7 +152,7 @@ shared by James Koh on [facebook](https://www.facebook.com/photo/?fbid=754465653
 
 ![](bedfordi/121105tsmkhpy1m3.jpg)  
  *Terumbu Semakau, Nov 12* Photo
-shared by Heng Pei Yan on [her blog](http://peiyansama.blogspot.sg/2012/11/magnificently-terumbu-semakau.html).
+shared by Heng Pei Yan on [her blog](http://peiyansama.blogspot.sg/2012/11/magnificently-terumbu-semakaul).
 
 ![](bedfordi/180717tbll6.jpg)  
  *Terumbu Bemban, Jul 18* Photo
@@ -208,8 +195,8 @@ Grateful thanks to Rene Ong for sharing details and identifying the flatworms on
 **Links**
 
 - [*Pseudobiceros
-  bedfordi*](http://seaslugs.free.fr/flatworm/planaire/pseudobiceros_bedfordi_a.htm) on the [South-west
-  Indian Ocean Flatworm site](http://seaslugs.free.fr/flatworm/planaire/a_intro.htm): fact sheets and photos with references.
+  bedfordi*](http://seaslugs.free.fr/flatworm/planaire/pseudobiceros_bedfordi_a) on the [South-west
+  Indian Ocean Flatworm site](http://seaslugs.free.fr/flatworm/planaire/a_intro): fact sheets and photos with references.
 - [*Pseudobiceros
   bedfordi*](http://polycladida.lifedesks.org/pages/3182) on Encyclopedia of Life, LifeDesks, Marine Flatworms
   - Polycladida: Technical fact sheet.
@@ -239,14 +226,4 @@ Grateful thanks to Rene Ong for sharing details and identifying the flatworms on
   Atlas of Marine Fauna*![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=as2&o=1&a=3939767255)*
   . IKAN-Unterwasserachiv. 723pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

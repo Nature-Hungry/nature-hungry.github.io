@@ -4,28 +4,28 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "hairy, seaweed, weed, green, bryopsis, bryopsidaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![](../../../../Templates/fornatureguides.gif)](../fngseaweed.htm)
+[![](../../../../Templates/fornatureguides.gif)](../fngseaweed)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 green
-seaweeds [text index](../seaweedindex.htm) | [photo
-index](../seaweedfi.htm)
-[Seaweeds](../seaweed.htm)
-> Division [Chlorophyta](chlorophyta.htm)
+seaweeds [text index](../seaweedindex) | [photo
+index](../seaweedfi)
+[Seaweeds](../seaweed)
+> Division [Chlorophyta](chlorophyta)
 **Hairy
 green seaweed  
 *Bryopsis* sp.\*** **Family Bryopsidaceae  
@@ -65,16 +65,16 @@ According to [AlgaeBase](http://www.algaebase.org/search/genus/detail/?genus_id=
 there are more than 60 current *Bryopsis* species.  
   
 **Sometimes confused with** similar
-green seaweeds such as [Turf green seaweeds](enteromorpha.htm) (*Enteromorpha* sp.) and small turfing species of *Cladophoropsis*. **Role in the habitat:** Although some Bryopsis species produces
+green seaweeds such as [Turf green seaweeds](enteromorpha) (*Enteromorpha* sp.) and small turfing species of *Cladophoropsis*. **Role in the habitat:** Although some Bryopsis species produces
 chemicals to defend against herbivores, when hairy green seaweeds
 are abundant on the shores, there is also an abundance of some sea
 slugs such as the [Leaf
-slug](../../../mollusca/slugs/sacoglossa/ornata.htm) (*Elysia ornata*) and tiny [Bryopsis
-slugs](../../../mollusca/slugs/sacoglossa/bryopsis.htm) (*Placida dendritica*).These sap-sucking slugs probably
+slug](../../../mollusca/slugs/sacoglossa/ornata) (*Elysia ornata*) and tiny [Bryopsis
+slugs](../../../mollusca/slugs/sacoglossa/bryopsis) (*Placida dendritica*).These sap-sucking slugs probably
 eat the seaweed. Sometimes, the seaweed is thick with tiny little
-[beachfleas](../../../crustacea/othercrust/amphipoda/amphipoda.htm)
+[beachfleas](../../../crustacea/othercrust/amphipoda/amphipoda)
 (Order Amphipoda). We have also seen the [Giant
-reef worm](../../../worm/polychaeta/giant.htm) (*Eunice aphroditois*) snatching this seaweed back
+reef worm](../../../worm/polychaeta/giant) (*Eunice aphroditois*) snatching this seaweed back
 to its lair.   
 
 ![](bryopsis/081017sntd0996m6l.jpg)  
@@ -86,7 +86,7 @@ Hairy green seaweeds of different structures
 may be seen together*.  
 Sentosa, Nov 10*
 
-*![](../../../worm/polychaeta/giant/040410sisbd0011m3.jpg)*A [Giant reef worm](../../../worm/polychaeta/giant.htm) snatching   
+*![](../../../worm/polychaeta/giant/040410sisbd0011m3.jpg)*A [Giant reef worm](../../../worm/polychaeta/giant) snatching   
 a mouthful of seaweed back into its lair. *Sisters Island, Apr 04*
 
 `![](bryopsis/091104sntd3635m3.jpg)  
@@ -96,7 +96,7 @@ often seen on this seaweed.
 
 ![](../../../mollusca/slugs/sacoglossa/bryopsis/080919sntd0665m3.jpg)  
 Tiny [Bryopsis
-slugs](../../../mollusca/slugs/sacoglossa/bryopsis.htm) are   
+slugs](../../../mollusca/slugs/sacoglossa/bryopsis) are   
 often abundant on this seaweed. *Sentosa, Sep 08*
 
 ![](bryopsis/080720cjd7926m3.jpg)  
@@ -206,9 +206,9 @@ FREE photos of
 seaweeds](http://www.flickr.com/photos/54527470@N00/sets/72157600032152343).  
 Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

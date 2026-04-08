@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "durian, durio, zibethinus, bombacaceae, tree, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 plants
-[text index](../../plantindex.htm) | [photo
-index](../../plantfi.htm)
+[text index](../../plantindex) | [photo
+index](../../plantfi)
 [coastal
-plants](../../coastal/coastalplants.htm) 
+plants](../../coastal/coastalplants) 
 **Durian  
 *Durio zibethinus*  
 Family Bombacaceae***updated
@@ -38,7 +38,7 @@ long since been cleared. Pulau Ubin has lots of durian trees. The
 durian is native of Southeast Asia, with 28 species, mostly in Borneo.
 There are 13 species in Malaya found in lowland forest. The scientific
 name comes from the Italian 'zibetto' or [civet
-cat](../../../vertebrates/mammals/hermaphroditus.htm) which also has a noxious smell.  
+cat](../../../vertebrates/mammals/hermaphroditus) which also has a noxious smell.  
   
  **Features:** Tall tree with sparse,
 long branches. Leaves narrow and pointed, silvery or coppery scales
@@ -61,8 +61,8 @@ pollinated almost entirely by a single species of bat *Eonycterus
 spelaea*. This bat roosts primarily in limestone caves and are
 fast flyers that range up to 50km each night in search of pollen and
 nectar from a wide variety of plants. Their range include mangroves
-and the mangrove *[Sonneratia](../../mangrove/sonneratia/sonneratia.htm)*[species](../../mangrove/sonneratia/sonneratia.htm) especially *[S.
-alba](../../mangrove/sonneratia/alba.htm)* are important sources of food for these bats.   
+and the mangrove *[Sonneratia](../../mangrove/sonneratia/sonneratia)*[species](../../mangrove/sonneratia/sonneratia) especially *[S.
+alba](../../mangrove/sonneratia/alba)* are important sources of food for these bats.   
  **Human uses:** The durian fruit evokes extreme reactions.
 People either love it or hate it, few are indifferent to it. Burkill
 declares 'many writers have attempted to describe the taste, and differ
@@ -125,7 +125,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
   photos and fact sheet.
 - *[Eonycteris spelaea](http://taxo4254.wikispaces.com/Eonycteris+spelaea+%28Cave+Nectar+Bat%29+%28Kelly+Tan%2C+2014%29)* (Chiroptera: Pteropodidae) Cave Nectar Bat by Kelly Tan Siang Ting, 2014, on taxo4254.
 - [If
-  you drink, don't durian](http://wildshores.blogspot.com/2009/09/if-you-drink-dont-durian.html) on the wild shores of singapore blog:
+  you drink, don't durian](http://wildshores.blogspot.com/2009/09/if-you-drink-dont-durianl) on the wild shores of singapore blog:
   Your mom was right: eating durians and drinking booze at the same
   time can kill!
 
@@ -155,9 +155,9 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 FREE photos of [fruit
 trees](http://www.flickr.com/photos/54527470@N00/sets/72157622451919911). Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

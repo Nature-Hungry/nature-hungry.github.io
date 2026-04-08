@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "entomacrodus, blenniidae, rockskipper, blenny, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Blennidae](blenniidae.htm)
+> Subphylum Vertebrate > [fishes](../fish) >
+Family [Blennidae](blenniidae)
 **Rockskipper blenny  
 *awaiting identification*  
 Family Blenniidae***updated
@@ -48,7 +48,7 @@ Kusu Island, Jun 15*Photo shared by Marcus Ng on [flickr](https://www.flickr.com
 ---
 
 ![](../../../crustacea/crab/portunidae/blue/251011ssisyls6.jpg)  
-Rockskipper (*Istiblennius* sp.) ID by Yan Le*,* caught by a [Blue swimming crab](../../../crustacea/crab/portunidae/blue.htm) *Small Sisters Island, Oct 25*Photo shared by Yan Le Su on [facbeook](https://www.facebook.com/media/set/?set=a.122103418101062825&type=3&ref=embed_post).
+Rockskipper (*Istiblennius* sp.) ID by Yan Le*,* caught by a [Blue swimming crab](../../../crustacea/crab/portunidae/blue) *Small Sisters Island, Oct 25*Photo shared by Yan Le Su on [facbeook](https://www.facebook.com/media/set/?set=a.122103418101062825&type=3&ref=embed_post).
 
 ![](../../../crustacea/crab/portunidae/blue/251011ssisyls6a.jpg)  
 Close up of fish caught. *Small Sisters Island, Oct 25*Photo shared by Yan Le Su on [facbeook](https://www.facebook.com/media/set/?set=a.122103418101062825&type=3&ref=embed_post).
@@ -129,9 +129,9 @@ Small Sisters Island, Oct 25*Photo shared by Yan Le Su on [facebook](https://www
   . 26 June 2015. *New record of the black-spotted rockskipper blenny in Singapore*. Singapore Biodiversity Records 2015: 87
 - Ron K. H. Yeo & Kelvin K. P. Lim. 28 March 2014. *Stellar rockskipper blenny at Big Sister Island*. Singapore Biodiversity Records 2014: 86.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

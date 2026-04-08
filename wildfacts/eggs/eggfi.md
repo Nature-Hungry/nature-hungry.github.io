@@ -4,23 +4,8 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "small, snail, shell, gastropod, mollusc, mollusk, mollusca, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 eggs [text
-index](eggindex.htm)
+index](eggindex)
 **Photo
 index of marine eggs on Singapore shores**
 
@@ -28,22 +13,22 @@ index of marine eggs on Singapore shores**
 
 ![](../mollusca/gastropoda/melogenidae/cochlidium/050806skdg0609m.jpg)  
 [Spiral   
-melongena snail](../mollusca/gastropoda/melogenidae/cochlidium.htm)   
+melongena snail](../mollusca/gastropoda/melogenidae/cochlidium)   
 *Pugilina cochlidium*
 
 ![](../mollusca/gastropoda/muricidae/chunky/050110skdd9489m.jpg)  
-[Drills](../mollusca/gastropoda/muricidae/muricidae.htm)  
+[Drills](../mollusca/gastropoda/muricidae/muricidae)  
 Family Muricidae
 
 ![](eggs/050608cftg7378ma.jpg)  
-[Egg string](string.htm)  *awaiting identification*
+[Egg string](string)  *awaiting identification*
 
 ![](eggs/050726chgg0399m.jpg)  
 [Egg
-string](string.htm)  *awaiting identification*
+string](string)  *awaiting identification*
 
 ![](eggs/050611kusg7835m.jpg)  
-[Egg string](string.htm)  *awaiting identification*
+[Egg string](string)  *awaiting identification*
 
 Capsules
 about 1.5cm tall, yellow or beige. Laid upright in rows on hard surfaces.
@@ -63,14 +48,14 @@ Sausage-like
 Seasonally common on all our shores.
 
 ![](../mollusca/slugs/nudibranchia/eggs/050309smkg3146m.jpg)[Nudibranch  
-egg mass](../mollusca/slugs/nudibranchia/eggs.htm)   
+egg mass](../mollusca/slugs/nudibranchia/eggs)   
 Order Nudibranchia
 
 ![](../mollusca/gastropoda/naticidae/sandcollar/030703skdd0250m.jpg)  
-[Sand collar](../mollusca/gastropoda/naticidae/sandcollar.htm)   
+[Sand collar](../mollusca/gastropoda/naticidae/sandcollar)   
 Family Naticidae
 
-![](eggs/110418tmftd8998m.jpg) [Egg blobs](blobs.htm)   
+![](eggs/110418tmftd8998m.jpg) [Egg blobs](blobs)   
 possibly sea slugs
 
 Egg
@@ -87,15 +72,15 @@ long. Translucent blob, when submerged teardrop or light-bulb shaped.
 Sometimes seen in mudflats and sandflats.
 
 ![](../mollusca/gastropoda/volutidae/nobilis/030619bbd0247ma.jpg)  
-[Noble volute](../mollusca/gastropoda/volutidae/nobilis.htm)   
+[Noble volute](../mollusca/gastropoda/volutidae/nobilis)   
 *Cymbiola nobilis*
 
 ![](../mollusca/cephalopoda/cepeggs/020715chgd3359m.jpg)[Cephalopod  
-egg capsules](../mollusca/cephalopoda/cepeggs.htm)   
+egg capsules](../mollusca/cephalopoda/cepeggs)   
 Order Cephalopoda
 
 ![](../mollusca/cephalopoda/cepeggs/031030sntd0022m.jpg)[Cephalopod  
-egg capsules](../mollusca/cephalopoda/cepeggs.htm)   
+egg capsules](../mollusca/cephalopoda/cepeggs)   
 Order Cephalopoda
 
  
@@ -116,14 +101,14 @@ Sometimes seen on many of our shores.
 eggs**
 
 ![](../ascidiacea/bubble/120820sisd0781m.jpg)  
-[Bubble ascidians](bubble.htm) *awaiting identification*
+[Bubble ascidians](bubble) *awaiting identification*
 
 ![](../ascidiacea/jelly/100726chgd9196m.jpg)  
-[Jelly sea squirt](jelly.htm) *awaiting identification*
+[Jelly sea squirt](jelly) *awaiting identification*
 
 ![](../ascidiacea/eudistoma/050311labg3270m.jpg)  
 [Yellow clustered   
-bead ascidians](eudistoma.htm) *Eudistoma* sp.
+bead ascidians](eudistoma) *Eudistoma* sp.
 
  
  
@@ -138,9 +123,9 @@ blob about 1cm across. Clusters of blobs on boulders and larger rocks,
 usually near base and under overhands. Also on jetty pilings. Commonly
 seen on our Northern shores.
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

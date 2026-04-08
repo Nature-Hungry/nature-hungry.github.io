@@ -4,21 +4,6 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "barnacles, limpets, oysters, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](index.html)
-| [search](../search.htm)
-
 **Limpet
 or barnacle?  
 How to tell them apart?***updated
@@ -30,7 +15,7 @@ Mar 2020*
 shells on the rocks** These kinds of animals are often mistaken
 for one another. They have conical shells and are found on hard surfaces such as rocks and
 seawalls. See also [animals
-with hard coiling shells found on rocks](tubehard.htm).
+with hard coiling shells found on rocks](tubehard).
 
 ---
 
@@ -40,18 +25,18 @@ with hard coiling shells found on rocks](tubehard.htm).
 
 ![](../mollusca/bivalvia/ostreidae/zigzag/050611kusd3993m3.jpg)
 
-**[Barnacles](../crustacea/othercrust/ciriipedia/cirripedia.htm)**Phylum
-[Arthropoda](../arthropoda/arthropoda.htm)  
-SubPhylum [Crustacea](../crustacea/crustacea.htm)  
-Class [Cirripedia](../crustacea/othercrust/ciriipedia/cirripedia.htm)
+**[Barnacles](../crustacea/othercrust/ciriipedia/cirripedia)**Phylum
+[Arthropoda](../arthropoda/arthropoda)  
+SubPhylum [Crustacea](../crustacea/crustacea)  
+Class [Cirripedia](../crustacea/othercrust/ciriipedia/cirripedia)
 
-**[Limpets](../mollusca/gastropoda/limpets/limpet.htm)**Phylum
-[Mollusca](../mollusca/mollusca.htm)  
-Class [Gastropoda](../mollusca/gastropoda.htm)
+**[Limpets](../mollusca/gastropoda/limpets/limpet)**Phylum
+[Mollusca](../mollusca/mollusca)  
+Class [Gastropoda](../mollusca/gastropoda)
 
-[**Oysters**](../mollusca/bivalvia/ostreidae/osteridae.htm)  
-Phylum [Mollusca](../mollusca/mollusca.htm)  
-Class [Bivalvia](../mollusca/bivalvia.htm).
+[**Oysters**](../mollusca/bivalvia/ostreidae/osteridae)  
+Phylum [Mollusca](../mollusca/mollusca)  
+Class [Bivalvia](../mollusca/bivalvia).
 
 Barnacles
 don't move once they settle down as a tiny larvae on their chosen
@@ -103,17 +88,17 @@ comparisons**
 ---
 
 *![](../mollusca/gastropoda/limpets/keyhole/130426tkkd5687.jpg)*The [Keyhole
-limpet](../mollusca/gastropoda/limpets/keyhole.htm) is a snail.   
+limpet](../mollusca/gastropoda/limpets/keyhole) is a snail.   
 Its shell has a hole at the top.
 
 *![](../mollusca/gastropoda/calyptraeidae/crepidula/050315cjd1823m3a.jpg)*[Slipper
-snails](../mollusca/gastropoda/calyptraeidae/calyptraeidae.htm) are [gastropods](../mollusca/gastropoda.htm)
+snails](../mollusca/gastropoda/calyptraeidae/calyptraeidae) are [gastropods](../mollusca/gastropoda)
 with  
 thick chalky shells that settle   
 inside shells occupied by hermit crabs.
 
 ![](../mollusca/polyplacophora/chiton/110803chgd8435m3.jpg)  
-[Chitons](../mollusca/polyplacophora/chiton.htm)  
+[Chitons](../mollusca/polyplacophora/chiton)  
 are strange molluscs sometimes found on   
 rocks and shells and other hard surfaces.
 
@@ -121,28 +106,28 @@ rocks and shells and other hard surfaces.
 
 ![](../mollusca/bivalvia/anomiidae/understone/020616cjd0734m3.jpg)  
 [Under-a-stone
-jingle clams](../mollusca/bivalvia/anomiidae/anomiidae.htm)   
+jingle clams](../mollusca/bivalvia/anomiidae/anomiidae)   
 are found on the underside of stones.
 
 *![](../mollusca/bivalvia/anomiidae/enigmonia/040101lckd0024m3.jpg)*[Jingle
-shells](../mollusca/bivalvia/anomiidae/anomiidae.htm) are [bivalves](../mollusca/bivalvia.htm) with
+shells](../mollusca/bivalvia/anomiidae/anomiidae) are [bivalves](../mollusca/bivalvia) with
   
 thin lustrous shells that settle on   
 mangrove tree leaves and trunks.
 
 ![](../mollusca/gastropoda/nassariidae/olivaceaus/050609cftg7531m3.jpg)  
-[Barnacles](../crustacea/othercrust/ciriipedia/cirripedia.htm) may even   
+[Barnacles](../crustacea/othercrust/ciriipedia/cirripedia) may even   
 settle on living
 snails!
 
 ---
 
 how to tell apart [different
-kinds of limpets](../mollusca/gastropoda/limpets/cflimpets.htm)
+kinds of limpets](../mollusca/gastropoda/limpets/cflimpets)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,24 +4,24 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "derris, trifoliata, fabaceae, leguminosae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
-plants [text index](../../plantindex.htm) | [photo
-index](../../plantfi.htm)
-[mangroves](../mangroves.htm)
+plants [text index](../../plantindex) | [photo
+index](../../plantfi)
+[mangroves](../mangroves)
 **Common
 derris   
 *Derris trifoliata*  
@@ -69,11 +69,11 @@ local food plant for caterpillars of the dark caerulean butterfly
 eggs in the space between the flower buds, or in the spaces between
 the flower stalks and the axis of the flowering shoot. According to
 Butterfly Circle, it is also the host plant for the [Sumatran
-sunbeam](http://butterflycircle.blogspot.com/2010/08/life-history-of-sumatran-sunbeam.html) (*Curetis saronis sumatrana*), [Common
-Awl](http://butterflycircle.blogspot.sg/2009/12/life-history-of-common-awl.html) (*Hasora badra badra*), [White
+sunbeam](http://butterflycircle.blogspot.com/2010/08/life-history-of-sumatran-sunbeaml) (*Curetis saronis sumatrana*), [Common
+Awl](http://butterflycircle.blogspot.sg/2009/12/life-history-of-common-awll) (*Hasora badra badra*), [White
 Banded Awl](http://www.butterflycircle.com/checklist%20V2/CI/index.php/start-page/startpage/showbutterfly/239) (*Hasora taminatus malayana*), *[Nacaduba
 pavana singapura](http://www.butterflycircle.com/checklist%20V2/CI/index.php/start-page/startpage/showbutterfly/192)* and [Short
-Banded Sailor](http://butterflycircle.blogspot.sg/2010/05/life-history-of-short-banded-sailor.html) (*Phaedyma columella singa*).  
+Banded Sailor](http://butterflycircle.blogspot.sg/2010/05/life-history-of-short-banded-sailorl) (*Phaedyma columella singa*).  
   
 **Human
 uses:** According to Burkill, the plant roots are also used
@@ -154,14 +154,14 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
   trifoliata*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=5882) on the NParks Flora and Fauna website: photos
   and fact sheet.
 - [Common
-  derris (*Derris trifoliata*)](http://mangrove.nus.edu.sg/guidebooks/text/1057.htm) Ng, Peter K. L. & N.
+  derris (*Derris trifoliata*)](http://mangrove.nus.edu.sg/guidebooks/text/1057) Ng, Peter K. L. & N.
   Sivasothi, 1999. *[A
   Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*.
   Singapore Science Centre. 168 pp.
 - Giesen, Wim
   and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
   [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.htm) (PDF online downloadable).
+  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
   RAP publication 2006/07 Food and Agriculture Organization of the
   United Nations Regional Office for Asia and the Pacific Bangkok.
 
@@ -186,9 +186,9 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 FREE photos of [mangrove
 trees and plants](http://www.flickr.com/photos/54527470@N00/sets/72157600258037543). Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

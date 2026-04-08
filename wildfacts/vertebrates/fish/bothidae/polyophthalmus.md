@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "many, eyed, flat, fish, flatfish, flounder, bothidae, grammatobothus, polyophthalmus, soleidae, pleuronectiformes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm) >
-Order [Pleuronectiformes](../pleuronectiformes/pleuronectiformes.htm)
+> Subphylum Vertebrata > [fishes](../fish) >
+Order [Pleuronectiformes](../pleuronectiformes/pleuronectiformes)
 **Three-spot flounder**  
 ***Grammatobothus polyophthalmus***  
 **Family Bothidae***updated
@@ -36,10 +36,10 @@ seen?** This a small specimen of this flattened fish was seen once at Cyrene Ree
 Dorsal and anal fins separated from the tail fin. Dorsal fin near the head has elongated fin rays.
 The eyed-side with three large eye-like spots.  
   
-**Sometimes confused with** other [flatfishes](../pleuronectiformes/pleuronectiformes.htm).
+**Sometimes confused with** other [flatfishes](../pleuronectiformes/pleuronectiformes).
 The [Large-toothed
-flounder](../paralichthyidae/paralichthyidae.htm) (Family Paralichthyidae) looks very similar but is more oval and has more smaller spots. Here's more on [how
-to tell apart the flatfish families](../pleuronectiformes/pleuronectiformes1.htm) commonly seen.
+flounder](../paralichthyidae/paralichthyidae) (Family Paralichthyidae) looks very similar but is more oval and has more smaller spots. Here's more on [how
+to tell apart the flatfish families](../pleuronectiformes/pleuronectiformes1) commonly seen.
 ![](polyophthalmus/080509cyrd2745m3.jpg)  
 *Cyrene Reef,
 May 08*
@@ -91,9 +91,9 @@ filiger**+Engyprosopon grandisquama* (Largescale flounder) *Grammatobothus polyo
 - Kelvin K. P. Lim and Ria Tan. 11 Jul 2014. *New record of many-eyed flounder (Grammatobothus polyophthalmus) in Singapore*. Singapore Biodiversity Records 2014: 187.
 - Toh Chay Hoon & Kelvin K. P. Lim. 28 March 2014. *New record of intermediate flounder in Singapore*. Singapore Biodiversity Records 2014: 84-85
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

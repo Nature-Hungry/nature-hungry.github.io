@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "horn, eyed, ghost, crab, ocypode, cordimanus, ocypodidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm) > Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm) > Brachyurans > Superfamily [Ocypodoidea](ocypodoidea.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda) > Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda) > Brachyurans > Superfamily [Ocypodoidea](ocypodoidea)
 **Smooth-eyed
 ghost crab**  
 ***Ocypode cordimanus***  
@@ -42,7 +42,7 @@ on the inside of the 'palm'. Legs long with pointed tips. Large eyes
 on very short stalks, without 'horns' on top of the eye.   
   
 **May be mistaken for** the [Horn-eyed
-ghost crab](ceratophthalmus.htm) (*Ocypode ceratophthalmus*): the Smooth-eyed ghost
+ghost crab](ceratophthalmus) (*Ocypode ceratophthalmus*): the Smooth-eyed ghost
 crab lacks 'horns' on its eyes and seems a little slower and less
 skittish. It lacks ridges on the inner palm. But juvenile Long-eyed
 ghost crabs also lack 'horns' and tend to remain immobile when spotted. **Status and threats:** The Smooth-eyed ghost crab is listed
@@ -80,7 +80,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Links**
 
 - [Ghost
-  Crab (*Ocypoda* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/191.htm) with brief details on *Ocypode
+  Crab (*Ocypoda* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/191) with brief details on *Ocypode
   ceratophthalmus* and *Ocypode cordimana* Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
@@ -101,9 +101,9 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
   S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
   Australian Waters*. Reed New Holland. 224 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

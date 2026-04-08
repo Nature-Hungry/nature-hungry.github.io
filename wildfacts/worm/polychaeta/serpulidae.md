@@ -4,27 +4,14 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "keelworm, keel, worm, polychaete, annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 worms
-[text index](../wormindex.htm) | [photo
-index](../wormfi.htm)
+[text index](../wormindex) | [photo
+index](../wormfi)
 
-[worms](../worm.htm) > Phylum Annelida >
-Class [Polychaeta](polychaeta.htm)
+[worms](../worm) > Phylum Annelida >
+Class [Polychaeta](polychaeta)
 
 **Keelworms  
 Family Serpulidae***updated
@@ -41,12 +28,12 @@ shells and bodies of hard animals. For this reason, they are often
 considered pests.  
   
 **What are keelworms?** Keelworms
-are segmented worms belonging to the Family Serpulidae, Class [Polychaeta](polychaeta.htm),
+are segmented worms belonging to the Family Serpulidae, Class [Polychaeta](polychaeta),
 Phylum Annelida. The polychaetes include bristleworms, and Phylum
 Annelida includes the more familiar earthworm.
 Not all tubeworms are polychaetes and not all polychaetes are
 tubeworms. More about [tubeworms
-in general](../tubeworm/tubeworms.htm).   
+in general](../tubeworm/tubeworms).   
   
  **Features:** Tubes about 0.5cm in diameter and 5-8cm long,
 usually under stones. The keelworm secretes a hard tube out of calcium
@@ -60,13 +47,13 @@ through these feathery tentacles.
   
 **Sometimes confused with**
 [vermetid
-snails](../../mollusca/gastropoda/vermetidae/vermetidae.htm) that also build tubes on rocks. Tubes made by worms such
+snails](../../mollusca/gastropoda/vermetidae/vermetidae) that also build tubes on rocks. Tubes made by worms such
 as keelworms are dull on the inside and made up of two layers. Tube
 worms have segmented bodies. Tubes made by snails such as vermetids
 are glossy on the inside because of a deposit of nacre, and made up
 of three layers. Vermetid snails do not have segmented bodies. Here's
 more on how to tell apart [animals
-that make hard coiling tubes](../../glossary/tubehard.htm).  
+that make hard coiling tubes](../../glossary/tubehard).  
   
 **What does it eat?** The keelworm
 is a filter feeder, using its feathery tentacles to gather edible
@@ -77,7 +64,7 @@ tree fan worms' that are often photographed by divers belong to this
 family. These worms have large spiral fans and build hard tubes out
 of calcium in rocks and dead and living corals. The fan worms that
 we see more often on the intertidal belong to the [Family
-Sabellidae](sabellidae.htm) and these build soft tubes out of mucus.  
+Sabellidae](sabellidae) and these build soft tubes out of mucus.  
   
 **Human uses:** Keelworms are among
 the important animals that form the fouling community. These encrusting
@@ -87,7 +74,7 @@ these structures and equipment and thus affect human activities.
 
 ![](serpulidae/080731chgd8454m3.jpg)  
 On a living [Window-pane
-shell.](../../mollusca/bivalvia/anomiidae/placuna.htm) *Changi, Jul 08  
+shell.](../../mollusca/bivalvia/anomiidae/placuna) *Changi, Jul 08  
 ![](serpulidae/080731chgd8452m3d.jpg)  
   
 ![](serpulidae/080731chgd8452m3c.jpg)  
@@ -100,12 +87,12 @@ Growing on a living small crab. *Changi, Oct 11*
 
 ![](../../mollusca/bivalvia/pinnidae/pinnidae/060624skdd3239m3d.jpg)  
 Growing on a [fan
-shell](../../mollusca/bivalvia/pinnidae/pinnidae.htm).  
+shell](../../mollusca/bivalvia/pinnidae/pinnidae).  
 *Pulau Sekudu, Jun 06*
 
 ![](serpulidae/080731chgd8492m3.jpg)  
 Growing on a shell occupied by a [hermit
-crab](../../crustacea/othercrust/anomura/hermit/hermit.htm). *Changi, Jul 08*
+crab](../../crustacea/othercrust/anomura/hermit/hermit). *Changi, Jul 08*
 
   
 *\***Species are
@@ -134,23 +121,23 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 **Links**  
 
 - [Keelworm
-  (Family Serpulidae)](http://mangrove.nus.edu.sg/pub/seashore/text/126.htm)
+  (Family Serpulidae)](http://mangrove.nus.edu.sg/pub/seashore/text/126)
   Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [Tubeworms
-  and Keelworms (Phylum Annelida)](http://mangrove.nus.edu.sg/guidebooks/text/2007.htm) Ng, Peter K. L. & N. Sivasothi,
+  and Keelworms (Phylum Annelida)](http://mangrove.nus.edu.sg/guidebooks/text/2007) Ng, Peter K. L. & N. Sivasothi,
   1999. *[A Guide
   to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
   Science Centre. 168 pp.
 - [Family
-  Serpulidae: 'Plume Worms'](http://rmbr.nus.edu.sg/polychaete/Serpulidae.html) from [A
+  Serpulidae: 'Plume Worms'](http://rmbr.nus.edu.sg/polychaete/Serpulidael) from [A
   Guide to Singapore Polychaetes](http://rmbr.nus.edu.sg/polychaete/) by Lim Yun Ping 1997-2000 on
   the Raffles Museum of Biodiversity Research website: fact sheets
   and photos of polychaetes found in Singapore.: brief introduction
   and photos, as well as distribution in Singapore.
 - [Family
-  Serpulidae](http://personal.cityu.edu.hk/%7Ebhworm/sedentary/serpulidae.htm) from [Marine
+  Serpulidae](http://personal.cityu.edu.hk/%7Ebhworm/sedentary/serpulidae) from [Marine
   Sedentary Polychaetes in Hong Kong](http://personal.cityu.edu.hk/%7Ebhworm/sedentary/) by Man Chun Ho on the City
   University of Hong Kong website: brief introduction with photos
   of the worm out of its tube.
@@ -174,14 +161,4 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 FREE photos of [other
 worms](http://www.flickr.com/photos/54527470@N00/sets/72157600042022425). Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

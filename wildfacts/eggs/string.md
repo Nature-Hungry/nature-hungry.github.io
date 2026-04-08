@@ -4,23 +4,8 @@ description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
 keywords: "encrusting, sponge, porifera, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 eggs [text
-index](eggindex.htm) | [photo index](eggfi.htm)
+index](eggindex) | [photo index](eggfi)
 **Egg
 strings and coils**  
  *updated Apr 2020*
@@ -45,7 +30,7 @@ seaweeds in clumps.
 0.3cm wide, very long and noodle-like. These may be laid in clumps
 among seagrasses and seaweeds, on on rocks and hard surfaces. Others
 may be very tiny, laid in neat spirals on seagrass blades.
-Possible animals responsible for laying these eggs include [seahares](../mollusca/slugs/anaspidae/anaspidea.htm) and [snails](../mollusca/gastropoda.htm).
+Possible animals responsible for laying these eggs include [seahares](../mollusca/slugs/anaspidae/anaspidea) and [snails](../mollusca/gastropoda).
 
 ![](eggs/050917smkg2414m3.jpg)  
 Among seaweeds.  *Pulau Semakau, Sep 05*
@@ -85,24 +70,24 @@ blade.  *Changi, Jun 05**![](eggs/050726chgg0399m3a.jpg)*
 ---
 
 ![](eggs/101222chgd3867m3c.jpg)  
-Laid on seawall, probably by [limpets](../mollusca/gastropoda/limpets/limpet.htm).  
+Laid on seawall, probably by [limpets](../mollusca/gastropoda/limpets/limpet).  
 ![](eggs/101222chgd3867m3b.jpg)  
 *Changi,
 Dec 10*
 
-*![](../mollusca/gastropoda/strombidae/canarium/100728tmd9438m3.jpg)*[Gong gong snail](../mollusca/gastropoda/strombidae/canarium.htm) laying fine beige egg string.  
+*![](../mollusca/gastropoda/strombidae/canarium/100728tmd9438m3.jpg)*[Gong gong snail](../mollusca/gastropoda/strombidae/canarium) laying fine beige egg string.  
 *![](../mollusca/gastropoda/strombidae/canarium/100728tmd9438m3b.jpg)  
 Tanah Merah, Jul
 10*
 
 ![](../mollusca/gastropoda/limpets/javanica/110829ecpd0209m3b.jpg)  
-[Limpet](limpets/limpet.htm) with its egg capsule.  
+[Limpet](limpets/limpet) with its egg capsule.  
 ![](../mollusca/gastropoda/limpets/javanica/110829ecpd0209m3a.jpg)  
 *East Coast Park, Aug 11*
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

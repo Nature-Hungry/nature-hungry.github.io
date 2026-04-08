@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "purple, climber, crab, metopograpsus, grapsidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> Brachyurans > Family [Grapsidae](grapsidae.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> Brachyurans > Family [Grapsidae](grapsidae)
 **Purple
 climber crab**  
 ***Metopograpsus* sp.\***  
@@ -107,7 +107,7 @@ to the boardwalk legs. *Chek Jawa, Jan 10*
 ![](metopograpsus/090720skdjk6m3.jpg)  
 *Pulau Sekudu, Jul 09*  
 Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/07/pulau-sekudu-deceptively-deep-anemones.html).
+blog](http://sgn090608.blogspot.com/2009/07/pulau-sekudu-deceptively-deep-anemonesl).
 
 ---
 
@@ -132,7 +132,7 @@ Big Sisters, Aug 25*Photo shared by Kelvin Yong on [facebook](https://www.facebo
 ![](metopograpsus/100515sjid2485m3.jpg)  
 A pair, getting ready to mate? *St. John's Island, May 10*
 
-*![](../../othercrust/isopoda/ligia/090510hntmn.jpg)*Captured a [Shore cricket](../../../insecta/cricketshore.htm) *Pulau Hantu May 09*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/3524330760/).
+*![](../../othercrust/isopoda/ligia/090510hntmn.jpg)*Captured a [Shore cricket](../../../insecta/cricketshore) *Pulau Hantu May 09*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/3524330760/).
 
 ![](metopograpsus/251207hntky8.jpg)  
 *Pulau Hantu, Dec 2025*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10173789043915112&type=3&ref=embed_post).
@@ -143,7 +143,7 @@ A pair, getting ready to mate? *St. John's Island, May 10*
 
 ![](metopograpsus/100711cyrlks1m3.jpg)  
 *Cyrene Reef, Jul 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/07/cyrene-in-dark.html).
+blog](http://wondercreation.blogspot.com/2010/07/cyrene-in-darkl).
 
 ![](metopograpsus/101009smklks.JPG)  
 *Pulau Semakau, Oct 10*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/5067342841/in/album-72157607751329669/).
@@ -179,11 +179,11 @@ Metopograpsus quadridentatus*
 **Links**
 
 - [Purple
-  Climber Crabs (*Metopograpsus* sp.)](http://mangrove.nus.edu.sg/guidebooks/text/2047.htm) Ng, Peter K. L.
+  Climber Crabs (*Metopograpsus* sp.)](http://mangrove.nus.edu.sg/guidebooks/text/2047) Ng, Peter K. L.
   & N. Sivasothi, 1999. *[A
   Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
   Singapore Science Centre. 168 pp.
-- [*Metopograpsus*](http://mangrove.nus.edu.sg/pub/seashore/text/196.htm)
+- [*Metopograpsus*](http://mangrove.nus.edu.sg/pub/seashore/text/196)
   Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
@@ -209,9 +209,9 @@ Metopograpsus quadridentatus*
   S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans
   of Australian Waters*. Reed New Holland. 224 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "almond, terminalia, catappa, combretaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
-plants [text index](../../plantindex.htm) | [photo
-index](../../plantfi.htm)
+plants [text index](../../plantindex) | [photo
+index](../../plantfi)
 [coastal
-plants](../../coastal/coastalplants.htm) 
+plants](../../coastal/coastalplants) 
 **Ketapang or Sea
 almond   
 *Terminalia catappa*  
@@ -80,7 +80,7 @@ besides bats, the fruits are also dispersed by monkeys and by water.
   
 **Sometimes other similar trees are mistaken**
 for Sea almond. Here's more on [how to
-tell apart Sea almond and other similar trees on the shores](../cfketapang.htm).   
+tell apart Sea almond and other similar trees on the shores](../cfketapang).   
   
 **Human uses:** In Singapore, aquarists often put the leaves
 in their aquariums as they have an antibacterial effect due to the
@@ -88,7 +88,7 @@ release of tannic and humic acid, which is believed to promote the
 fish health and provide a calming effect. According to Burkill, the
 timber is considered good as it is elastic, easy to work and seasons
 well. It is used interchangeably in some places as [Penaga
-Laut](../calophyllum/inophyllum.htm) (*Callophyllum innophylum*) for building things that
+Laut](../calophyllum/inophyllum) (*Callophyllum innophylum*) for building things that
 need to be tough and durable such as houses, boats and carts. Although
 the embryo is edible, tasting like almonds, it is not worth the effort
 to extract. Medicinal uses include the bark to treat dysentery, leaves
@@ -150,7 +150,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 - *[Terminalia
   catappa](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3181)* on the NParks Flora and Fauna website: photos
   and fact sheet.
-- *[Terminalia catappa](https://singapore.biodiversity.online/taxo4254/mainSpace/Terminalia%20catappa.html)* (Myrtales: Combretaceae) Sea Almond by Chua Ziying Emily, 2014, on taxo4254.
+- *[Terminalia catappa](https://singapore.biodiversity.online/taxo4254/mainSpace/Terminalia%20catappal)* (Myrtales: Combretaceae) Sea Almond by Chua Ziying Emily, 2014, on taxo4254.
 - [Know
   10 trees in Singapore](http://www.nparks.gov.sg/cms/index.php?option=com_content&view=article&id=183&Itemid=161)
   on the NParks website: fact sheet with lots of photos of various
@@ -158,12 +158,12 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 - Giesen, Wim
   and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
   [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.htm) (PDF online downloadable).
+  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
   RAP publication 2006/07 Food and Agriculture Organization of the
   United Nations Regional Office for Asia and the Pacific Bangkok.
 - [Autumn
-  colours on our shores](http://wildshores.blogspot.com/2009/03/autumn-colours-on-our-shores.html) on the wild shores of singapore blob.
-- [Larval host plant for butterflies: Sea Almond](http://butterflycircle.blogspot.com/2017/05/larval-host-plant-for-butterflies-sea.html) on the Butterflies of Singapore blog.
+  colours on our shores](http://wildshores.blogspot.com/2009/03/autumn-colours-on-our-shoresl) on the wild shores of singapore blob.
+- [Larval host plant for butterflies: Sea Almond](http://butterflycircle.blogspot.com/2017/05/larval-host-plant-for-butterflies-seal) on the Butterflies of Singapore blog.
 
 **References**
 
@@ -198,9 +198,9 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 FREE photos of [coastal
 plants](http://www.flickr.com/photos/54527470@N00/sets/72157600057953536). Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

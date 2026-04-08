@@ -9,22 +9,22 @@ layout: default
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![talking points for nature guides](../../../../Templates/fornatureguides.gif)](../fngseaweed.htm)
+[![talking points for nature guides](../../../../Templates/fornatureguides.gif)](../fngseaweed)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
-green seaweeds [text index](../seaweedindex.htm) | [photo
-index](../seaweedfi.htm)
+green seaweeds [text index](../seaweedindex) | [photo
+index](../seaweedfi)
 
-[Seaweeds](../seaweed.htm) in general
+[Seaweeds](../seaweed) in general
 **Green
 seaweed   
 Division Chlorophyta***updated
@@ -49,8 +49,8 @@ on boulders, coral rubble and other hard surfaces. Others are found
 entwined around seagrasses.  
   
 Like other seaweeds, some green seaweeds are seasonal (such as [sea
-lettuce](ulva.htm), *Ulva* sp. or the [hairy green
-seaweed](bryopsis.htm), *Bryopsis* sp.). Sometimes one kind of seaweed can
+lettuce](ulva), *Ulva* sp. or the [hairy green
+seaweed](bryopsis), *Bryopsis* sp.). Sometimes one kind of seaweed can
 be so abundant that it blankets vast areas of a shore in a green carpet.
 A few weeks later, the shore may be bare of this seaweed.  
   
@@ -71,21 +71,21 @@ Green seaweeds come in a wide range of shapes: translucent bubbles,
 flat sheets, hard flattened coins, bunches of long thin filaments,
 bunches of grapes, branched furry stems, coiled strips and more!  
   
-**Sometimes confused with** [seagrasses](../../seagrass/seagrass.htm).
+**Sometimes confused with** [seagrasses](../../seagrass/seagrass).
 Some feathery green seaweeds are also confused for one another. Here's
 more on how to tell apart [green seaweeds that
-look like grapes](cfgrapes.htm), and [different feathery
-green seaweeds](cffeathery.htm) and [feathery
-green seaweeds and seagrasses](../../../glossary/seagrassweed.htm).  
+look like grapes](cfgrapes), and [different feathery
+green seaweeds](cffeathery) and [feathery
+green seaweeds and seagrasses](../../../glossary/seagrassweed).  
   
 **Human uses:** Many green seaweeds
 are eaten directly by people. In the Philippines, [sea
-grapes](lentillifera.htm) (*Caulerpa lentillifera*) is cultivated as food and
+grapes](lentillifera) (*Caulerpa lentillifera*) is cultivated as food and
 sold fresh or salted. Some species are used as feritilisers and additives
 in animal feed (poultry, cattle, fish).  
   
-Unlike [brown seaweeds](../phaeophyta/phaeophyta.htm) and
-[red seaweeds](../rhodophyta/rhodophyta.htm), green seaweeds
+Unlike [brown seaweeds](../phaeophyta/phaeophyta) and
+[red seaweeds](../rhodophyta/rhodophyta), green seaweeds
 are not a major source of extracts used commercially.  
   
 **Role in the habitat:** Like other
@@ -94,12 +94,12 @@ of marine animals.
   
 Some of the animals that eat green seaweeds look like the seaweeds!
 Those commonly seen include the [Ornate
-leaf slug](../../../mollusca/slugs/sacoglossa/ornata.htm) (*Elysia ornata*) and a tiny hairy [Bryopsis
-slug](../../../mollusca/slugs/sacoglossa/bryopsis.htm) that is still awaiting identification and is often seen on
-the [Hairy green seaweed](bryopsis.htm) (*Bryopsis*
+leaf slug](../../../mollusca/slugs/sacoglossa/ornata) (*Elysia ornata*) and a tiny hairy [Bryopsis
+slug](../../../mollusca/slugs/sacoglossa/bryopsis) that is still awaiting identification and is often seen on
+the [Hairy green seaweed](bryopsis) (*Bryopsis*
 sp.) and the tiny [Halimeda
-slug](../../../mollusca/slugs/sacoglossa/pusilla.htm) (*Pusilla* sp.) often seen on [Big
-coin green seaweed](halbig.htm) (*Halimeda* sp.)  
+slug](../../../mollusca/slugs/sacoglossa/pusilla) (*Pusilla* sp.) often seen on [Big
+coin green seaweed](halbig) (*Halimeda* sp.)  
   
 During a seaweed 'bloom' there can be a corresponding explosion in
 the number and variety of animals that eat that particular seaweed.
@@ -128,18 +128,18 @@ green seaweed that it probably feeds on *Sentosa, Nov 03*
 ---
 
 **Division Chlorophyta on Singapore shores**  
-[text index](../seaweedindex.htm) and [photo
-index](../seaweedfi.htm) of green seaweeds on this site
+[text index](../seaweedindex) and [photo
+index](../seaweedfi) of green seaweeds on this site
 
 ---
 
 **Links**
 
-- [Algae](http://mangrove.nus.edu.sg/pub/seashore/flora.htm)
+- [Algae](http://mangrove.nus.edu.sg/pub/seashore/flora)
   Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
-- [Algae](http://mangrove.nus.edu.sg/guidebooks/text/1032.htm)
+- [Algae](http://mangrove.nus.edu.sg/guidebooks/text/1032)
   Ng, Peter K. L. & N. Sivasothi, 1999. *[A
   Guide to the Mangroves of Singapore I (Plant Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
   Singapore Science Centre. 168 pp.
@@ -184,9 +184,9 @@ FREE photos of
 seaweeds](http://www.flickr.com/photos/54527470@N00/sets/72157600032152343).  
 Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

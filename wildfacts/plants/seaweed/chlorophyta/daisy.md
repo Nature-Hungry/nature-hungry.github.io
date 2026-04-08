@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "seaweed, weed, green, parvocaulis, parvulus, acetabularia, polyphysaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 green
-seaweeds [text index](../seaweedindex.htm) | [photo
-index](../seaweedfi.htm)
-[Seaweeds](../seaweed.htm)
-> Division [Chlorophyta](chlorophyta.htm)
+seaweeds [text index](../seaweedindex) | [photo
+index](../seaweedfi)
+[Seaweeds](../seaweed)
+> Division [Chlorophyta](chlorophyta)
 **Daisy
 green seaweed  
 *Parvocaulis parvulus\**** **Family Polyphysaceae  
@@ -35,7 +35,7 @@ Oct 2016***
 **Where
 seen?**
 This tiny seaweed is often overlooked. It grows on stones and coral
-rubble, often near the ['Taugeh' seaweed](neomeris.htm)
+rubble, often near the ['Taugeh' seaweed](neomeris)
 (*Neomeris* sp.)  
   
 **Features:** Tiny cap that is shaped
@@ -48,7 +48,7 @@ it ages.
 *Sentosa, Dec 10*
 
 ![](daisy/090922sjid1590m3.jpg)  
-Growing among ['Taugeh' seaweed](neomeris.htm) *St. John's Island, Sep 09*
+Growing among ['Taugeh' seaweed](neomeris) *St. John's Island, Sep 09*
 
 ![](daisy/101223sntd3940m3b.jpg)
 
@@ -132,9 +132,9 @@ FREE photos of
 seaweeds](http://www.flickr.com/photos/54527470@N00/sets/72157600032152343).  
 Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

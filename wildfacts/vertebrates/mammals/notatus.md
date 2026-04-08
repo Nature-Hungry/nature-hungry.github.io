@@ -4,23 +4,10 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "plantain, squirrel, callosciurus, notatus, sciuridae, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 vertebrates [text
-index](../vertindex.htm) | [photo index](../vertfi.htm)
+index](../vertindex) | [photo index](../vertfi)
 Phylum Chordata
 > Subphylum Vertebrata > Class Mammalia
 **Plantain
@@ -83,12 +70,12 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 **Links**
 
 - [Plantain
-  Squirrel](http://www.ecologyasia.com/verts/mammals/plantain_squirrel.htm) on Nick Baker's EcologyAsia website: fact sheet with
+  Squirrel](http://www.ecologyasia.com/verts/mammals/plantain_squirrel) on Nick Baker's EcologyAsia website: fact sheet with
   photos.
 - [Plantain
-  Squirrel](http://www.wildsingapore.per.sg/discovery/factsheet/squirrelplantain.htm) on Chan Kwok Wai's Wildlife Singapore website: fact
+  Squirrel](http://www.wildsingapore.per.sg/discovery/factsheet/squirrelplantain) on Chan Kwok Wai's Wildlife Singapore website: fact
   sheet with photos.
-- [*Callosciurus notatus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Callosciurus%20notatus.html) (Rodentia: Sciuridae) Plantain Squirrel by Ee Yong Liang, 2012, on taxo4254.
+- [*Callosciurus notatus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Callosciurus%20notatusl) (Rodentia: Sciuridae) Plantain Squirrel by Ee Yong Liang, 2012, on taxo4254.
 
 **References**
 
@@ -103,14 +90,4 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
   of South-East Asia*
   New Holland Publishers. 128 pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

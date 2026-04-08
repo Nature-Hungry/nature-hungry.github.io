@@ -4,21 +4,6 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](index.html)
-| [search](../search.htm)
-
 **Photo
 index of marine life on Singapore shores**
   
@@ -30,87 +15,87 @@ sheets, attached to a hard surface**
 
 ![](../plants/seaweed/rhodophyta/halymenia/050311labg3243m.jpg)  
 [**red
-seaweed**](../plants/seaweed/rhodophytafi3.htm)
+seaweed**](../plants/seaweed/rhodophytafi3)
 
 ![](../plants/seaweed/rhodophyta/maculata/050413labg4689m.jpg)  
 [**red
-seaweed**](../plants/seaweed/rhodophytafi3.htm)
+seaweed**](../plants/seaweed/rhodophytafi3)
 
 ![](../plants/seaweed/chlorophyta/ulva/040501cjd0041m.jpg)  
 **[green
-seaweed](../plants/seaweed/chlorophytafi1.htm)**
+seaweed](../plants/seaweed/chlorophytafi1)**
 
 ![](../plants/seaweed/chlorophyta/ulva/050426cftd2804m.jpg)  
 **[green
-seaweed](../plants/seaweed/chlorophytafi1.htm)**
+seaweed](../plants/seaweed/chlorophytafi1)**
 
 ![](../cnidaria/others/corallimorphs/stubby/040705sisd2131m.jpg)  
-[**corallimorphs**](../cnidaria/anemonefi4.htm)
+[**corallimorphs**](../cnidaria/anemonefi4)
 
 ![](../cnidaria/others/corallimorphs/beaded/060527sjig6070m.jpg)  
-[**corallimorphs**](../cnidaria/anemonefi4.htm)
+[**corallimorphs**](../cnidaria/anemonefi4)
 
  **Flat flexible: thin sheets, moving and/or not attached to a hard surface**  
 
 ![](../mollusca/slugs/nudibranchia/boholiensis/060212sisg4800m.jpg)  
 **[sea
-slug](../mollusca/slugfi.htm)**
+slug](../mollusca/slugfi)**
 
 ![](../worm/polycladida/brownstripe/041019labd7716m.jpg)  
-**[flatworm](../worm/polycladidafi.htm)**
+**[flatworm](../worm/polycladidafi)**
 
 ![](../worm/polycladida/lineblue/030518cjd0173m.jpg)  
-**[flatworm](../worm/polycladidafi.htm)**
+**[flatworm](../worm/polycladidafi)**
 
 ![](../mollusca/slugs/nudibranchia/babai/020724chdd3827m.jpg)  
 **[sea
-slug](../mollusca/slugfi5.htm)**
+slug](../mollusca/slugfi5)**
 
 ![](../mollusca/slugs/sacoglossa/ornata/070602sjig9801m.jpg)  
 **[sea
-slug](../mollusca/slugfi1.htm)**
+slug](../mollusca/slugfi1)**
 
 ![](../vertebrates/fish/soleidae/ovata/050511cftg6220m.jpg)  
-**[flatfish](../vertebrates/fish/fishfi12.htm)**
+**[flatfish](../vertebrates/fish/fishfi12)**
 
 ![](../vertebrates/fish/dasyatidae/lymma/080802sjid8804m.jpg)  
-[**stingrays**](../vertebrates/fish/fishfi11.htm)
+[**stingrays**](../vertebrates/fish/fishfi11)
 
 ![](../arthropoda/limulidae/carcinoscopius/050726chgg0355m.jpg)  
 [**horseshoe
-crab**](../arthropoda/arthropodafi.htm)
+crab**](../arthropoda/arthropodafi)
 
 ![](../mollusca/gastropoda/naticidae/sandcollar/030703skdd0250m.jpg)  
 [**sand
-collar**](../eggs/eggfi.htm)
+collar**](../eggs/eggfi)
 
  **Flat flexible: thick or large sheets**  
 
 ![](../cnidaria/coralsoft/letpinwheel/060402ulrd0988m.jpg)  
-**[soft coral](../cnidaria/coralsoftfi1.htm)**
+**[soft coral](../cnidaria/coralsoftfi1)**
 
 ![](../cnidaria/coralsoft/letomelette/050807sjig0617ma.jpg)  
-**[soft coral](../cnidaria/coralsoftfi1.htm)**
+**[soft coral](../cnidaria/coralsoftfi1)**
 
 ![](../cnidaria/coralsoft/letstar/050411tus4d2259m.jpg)  
-**[soft coral](../cnidaria/coralsoftfi1.htm)**
+**[soft coral](../cnidaria/coralsoftfi1)**
 
 ![](../cnidaria/actiniaria/haddoni/040222cjd0126m.jpg)  
 **[sea
-anemone](../cnidaria/anemonefi7.htm)**
+anemone](../cnidaria/anemonefi7)**
 
 ---
 
 how to tell apart
 
 - [flatworms
-  and slugs](flatwormslug.htm)
+  and slugs](flatwormslug)
 - [the
-  flatfish families commonly seen](../vertebrates/fish/pleuronectiformes/pleuronectiformes1.htm)
+  flatfish families commonly seen](../vertebrates/fish/pleuronectiformes/pleuronectiformes1)
 - [fishes
-  with flat heads](../vertebrates/fish/cfflatheads.htm)
+  with flat heads](../vertebrates/fish/cfflatheads)
 - [large
-  'hairy' cnidarians](../cnidaria/cflargecnidarians.htm)
+  'hairy' cnidarians](../cnidaria/cflargecnidarians)
 
   
   
@@ -123,41 +108,41 @@ lifeforms on this site
 by shape
 
 [general
-photo index](../photoindex.htm)  
+photo index](../photoindex)  
   
-[ball-shaped](fiball.htm)  
+[ball-shaped](fiball)  
   
-[blobs](fiblobs.htm)   
+[blobs](fiblobs)   
   
-[branching](fibranching.htm)  
+[branching](fibranching)  
   
-[bristley](fibristley.htm)  
+[bristley](fibristley)  
   
-[encrusting](fiencrusting.htm)  
+[encrusting](fiencrusting)  
   
-[feathery](fifeathery.htm)  
+[feathery](fifeathery)  
   
 flat flexible   
   
-[flat stiff](fiflatstiff.htm)   
+[flat stiff](fiflatstiff)   
   
-[hairy](fihairy.htm)  
+[hairy](fihairy)  
   
-[leafy](fileafy.htm)  
+[leafy](fileafy)  
   
-[ribbon-like](firibbon.htm)  
+[ribbon-like](firibbon)  
   
-[sausage-like](fisausage.htm)  
+[sausage-like](fisausage)  
   
-[snake-like](fisnake.htm)   
+[snake-like](fisnake)   
   
-[stick-like](fistick.htm)   
+[stick-like](fistick)   
   
-[worm-like](fiworm.htm)
+[worm-like](fiworm)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

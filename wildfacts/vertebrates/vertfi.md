@@ -4,27 +4,12 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 vertebrates
-[text index](vertindex.htm) | [photo
-index](vertfi.htm)
-[fishes](fish/fish.htm)
-| [shore birds](birds/shorebirds.htm) | [shore
-snakes](snakes/snakeshore.htm)
+[text index](vertindex) | [photo
+index](vertfi)
+[fishes](fish/fish)
+| [shore birds](birds/shorebirds) | [shore
+snakes](snakes/snakeshore)
 **Photo
 index of vertebrates of Singapore**  
 **marine or in habitats near the coast**
@@ -40,7 +25,7 @@ index of vertebrates of Singapore**
 ![](fish/syngnathidae/kuda/050511cftg6328m.jpg)
 
 **[marine
-fishes](fish/fishfi.htm)**
+fishes](fish/fishfi)**
 
 ![](snakes/laticauda/060415hntd1303m.jpg)
 
@@ -51,7 +36,7 @@ fishes](fish/fishfi.htm)**
 ![](snakes/cerberus/031128sbwrad0089m.jpg)
 
 **[shore
-snakes](snakes/snakeshorefi.htm)**and snakes near shores
+snakes](snakes/snakeshorefi)**and snakes near shores
 
 ![](reptilia/salvator/030630chgd0093m.jpg)
 
@@ -62,18 +47,18 @@ snakes](snakes/snakeshorefi.htm)**and snakes near shores
 ![](reptilia/versicolor/020306sbwrcpd7650m.jpg)
 
 **[other
-reptiles](reptilefi.htm)**lizards, monitors,   
+reptiles](reptilefi)**lizards, monitors,   
 crocodiles, sea turtles
 ![](mammals/sousa/090610smknml1m.jpg)
 ![](mammals/perspicillata/090804sbwrbc1m.jpg)
 ![](mammals/scrofa/040925sbwrg2045m.jpg)
 ![](mammals/brachyotis/030917sbwrd0079m.jpg)
-**[mammals](mammalfi.htm)**marine mammals and some common coastal mammals
+**[mammals](mammalfi)**marine mammals and some common coastal mammals
  
  
 ![](birds/albirostris/050126cjd9848m.jpg)
 ![](birds/gallus/090906prpd0489m.jpg)
-**[birds](birdfi.htm)**  
+**[birds](birdfi)**  
 shore and coastal birds
   
   
@@ -87,19 +72,19 @@ vertebrates on this site
 all
 vertebrates  
   
-[marine fishes](fish/fishfi.htm)  
+[marine fishes](fish/fishfi)  
   
-[shore snakes](snakes/snakeshorefi.htm)  
+[shore snakes](snakes/snakeshorefi)  
   
-[other reptiles](reptilefi.htm)  
+[other reptiles](reptilefi)  
   
-[mammals](mammalfi.htm)   
+[mammals](mammalfi)   
   
-[birds](birdfi.htm)
+[birds](birdfi)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

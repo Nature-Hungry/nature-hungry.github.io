@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "kuiter, dragonet, fish, callionymidae, dactylopus, kuiteri, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Callionymidae](callionymidae.htm)
+> Subphylum Vertebrate > [fishes](../fish) >
+Family [Callionymidae](callionymidae)
 **Kuiter's
 dragonet  
 *Dactylopus kuiteri***  
@@ -59,8 +59,8 @@ the pelvic fin. The fingered dragonet differs in having long filamentous
 rays on the first dorsal fin and distinct stripes on the second dorsal
 fin.  
   
-**Sometimes mistaken** for [flatheads](../platycephalidae/platycephalidae.htm) (Family Platycephalidae). Here's more on [how
-to tell apart fish with flat heads](../cfflatheads.htm).
+**Sometimes mistaken** for [flatheads](../platycephalidae/platycephalidae) (Family Platycephalidae). Here's more on [how
+to tell apart fish with flat heads](../cfflatheads).
 ![](dactylopus/170513tpltch1.jpg)  
 *Terumbu Pempang Laut, May 17*  
 Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/media_set?set=a.10155365446728713.1073742085.619308712&type=3&pnref=story).
@@ -95,7 +95,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 ![](dactylopus/110508crylks1m6l.jpg)  
 *Cyrene Reef, May 11*  
 Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/05/lovely-surprises-from-cyrene-reef.html).
+blog](http://wondercreation.blogspot.com/2011/05/lovely-surprises-from-cyrene-reefl).
 
 ---
 
@@ -156,9 +156,9 @@ Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/me
   Reef Fishes of the World*
   Periplus Editions. 400pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

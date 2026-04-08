@@ -4,23 +4,10 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "green, crested, lizard, bronchocela, cristatella, agamidae, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 vertebrates [text
-index](../vertindex.htm) | [photo index](../vertfi.htm)
+index](../vertindex) | [photo index](../vertfi)
 Phylum Chordata
 > Subphylum Vertebrata > Class Reptilia
 **Green
@@ -56,7 +43,7 @@ such as beetles, flies and ants.
  **Status and threats:** It is not listed among our threatened
 animals. But it is no longer as commonly seen as in the past. It has
 been displaced by the more aggressive [Changeable
-lizard](versicolor.htm) (*Calotes versicolor*).
+lizard](versicolor) (*Calotes versicolor*).
 
 ---
 
@@ -73,9 +60,9 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Links**
 
 - [Green
-  Crested Lizard](http://www.ecologyasia.com/verts/lizards/green-crested_lizard.htm) on Nick Baker's EcologyAsia website: fact sheet
+  Crested Lizard](http://www.ecologyasia.com/verts/lizards/green-crested_lizard) on Nick Baker's EcologyAsia website: fact sheet
   with photos.
-- [*Bronchocela cristatella*](https://singapore.biodiversity.online/taxo4254/mainSpace/Bronchocela%20cristatella.html) (Squamata: Agamidae) Green Crested Lizard By Leem Jia Min, Cheryl, 2016, on taxo4254.
+- [*Bronchocela cristatella*](https://singapore.biodiversity.online/taxo4254/mainSpace/Bronchocela%20cristatellal) (Squamata: Agamidae) Green Crested Lizard By Leem Jia Min, Cheryl, 2016, on taxo4254.
 
 **References**
 
@@ -98,14 +85,4 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
   Pocket Guide: Lizards of Borneo*
   Natural History Publications (Borneo). 83 pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

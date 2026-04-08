@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "broad, feathery, seaweed, weed, green, caulerpa, sertularioides, caulerpaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 green
-seaweeds [text index](../seaweedindex.htm) | [photo
-index](../seaweedfi.htm)
-[Seaweeds](../seaweed.htm)
-> Division [Chlorophyta](chlorophyta.htm) > Family
-Caulerpaceae > genus *[Caulerpa](caulerpa.htm)*
+seaweeds [text index](../seaweedindex) | [photo
+index](../seaweedfi)
+[Seaweeds](../seaweed)
+> Division [Chlorophyta](chlorophyta) > Family
+Caulerpaceae > genus *[Caulerpa](caulerpa)*
 **Delicate
 feathery green seaweed  
 *Caulerpa sertularioides* Family Caulerpaceae***updated
@@ -47,14 +47,14 @@ the tip.These feathery structures emerge along the length of a horizontal
 green to olive green.   
   
 **Sometimes confused with** other
-feathery green seaweeds or with [seagrasses](../../seagrass/seagrass.htm).
+feathery green seaweeds or with [seagrasses](../../seagrass/seagrass).
 Here's more on [how to tell apart different
-feathery green seaweeds](cffeathery.htm) and how to tell apart [feathery
-green seaweeds and seagrasses](../../../glossary/seagrassweed.htm).  
+feathery green seaweeds](cffeathery) and how to tell apart [feathery
+green seaweeds and seagrasses](../../../glossary/seagrassweed).  
   
 **Role in the habitat:** The seaweed
 is said to be eaten by some species of [sea
-hares](../../../mollusca/slugs/anaspidae/anaspidea.htm).  
+hares](../../../mollusca/slugs/anaspidae/anaspidea).  
   
 **Human uses:** This seaweed is reported
 to be edible, to have antibacterial, antifungal and antitumor properties,
@@ -120,14 +120,14 @@ Terumbu Berkas, Jan 10*
 **Links**
 
 - *[Caulerpa
-  sertularioides](http://www.hawaii.edu/reefalgae/invasive_algae/chloro/caulerpa_sertularioides.htm)* from [Marine
-  Algae of Hawai`i](http://www.hawaii.edu/reefalgae/default.htm) on the University of Hawai`i Botany Department
+  sertularioides](http://www.hawaii.edu/reefalgae/invasive_algae/chloro/caulerpa_sertularioides)* from [Marine
+  Algae of Hawai`i](http://www.hawaii.edu/reefalgae/default) on the University of Hawai`i Botany Department
   website: fact sheet with photos.
 - [*Caulerpa
-  sertularioides*](http://www.sms.si.edu/IRLSpec/Cauler_sertul.htm) by the Smithsonian Marine Station at Fort
+  sertularioides*](http://www.sms.si.edu/IRLSpec/Cauler_sertul) by the Smithsonian Marine Station at Fort
   Pierce: fact sheet with photos.
 - [*Caulerpa
-  settularioides*](http://www.naturia.per.sg/cjsurvey/vegetative/text/caulerpa%20sertularioides.htm) coverage on Chek Jawa during the 2001 Chek
+  settularioides*](http://www.naturia.per.sg/cjsurvey/vegetative/text/caulerpa%20sertularioides) coverage on Chek Jawa during the 2001 Chek
   Jawa survey.
 - [*Caulerpa
   sertularioides*](http://www.algaebase.org/search/species/detail/?species_id=1412) on [AlgaeBase](http://www.algaebase.org/):
@@ -161,9 +161,9 @@ Terumbu Berkas, Jan 10*
   Guide and Atlas of the Seaweed Resources of the Philippines.*.
   Bookmark, Inc., the Philippines. 306 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, green, seaweed, chlorophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 seaweeds
-[text index](seaweedindex.htm) | [photo
-index](seaweedfi.htm)
-[Seaweeds](seaweed.htm)
-> Division [Chlorophyta](chlorophyta/chlorophyta.htm)
+[text index](seaweedindex) | [photo
+index](seaweedfi)
+[Seaweeds](seaweed)
+> Division [Chlorophyta](chlorophyta/chlorophyta)
 **Photo
 index of green seaweeds on Singapore shores**  
 **Sheets,
@@ -33,15 +20,15 @@ ribbons, filaments**
 
 ![](chlorophyta/chaetomorpha/050720sntd5087ma.jpg)  
 [Bee hoon  
-seaweed](chlorophyta/chaetomorpha.htm)   
+seaweed](chlorophyta/chaetomorpha)   
 *Chaetomorpha* sp.
 
 ![](chlorophyta/bryopsis/040919sntd7088m.jpg)  
 [Hairy  
-seaweed](chlorophyta/bryopsis.htm)  *Bryopsis* sp.
+seaweed](chlorophyta/bryopsis)  *Bryopsis* sp.
 
 ![](chlorophyta/boodlea/070322cyrd9149mb.jpg)  
-[Fuzzy green seaweed](chlorophyta/boodlea.htm)   
+[Fuzzy green seaweed](chlorophyta/boodlea)   
 *Boodlea* sp.
 
  
@@ -60,14 +47,14 @@ Clump
 Bright green. Near reefs. Sometimes seen on some of our shores.
 
 ![](chlorophyta/ulva/040501cjd0041m.jpg)  
-[Sea lettuce](chlorophyta/ulva.htm)   *Ulva* sp.
+[Sea lettuce](chlorophyta/ulva)   *Ulva* sp.
 
 ![](chlorophyta/ulva/050426cftd2804m.jpg)  
-[Sea lettuce](chlorophyta/ulva.htm)   *Ulva* sp.
+[Sea lettuce](chlorophyta/ulva)   *Ulva* sp.
 
 ![](chlorophyta/enteromorpha/50326cjg3730mb.jpg)  
 [Turf   
-green seaweed](chlorophyta/enteromorpha.htm)  *Enteromorpha* sp.
+green seaweed](chlorophyta/enteromorpha)  *Enteromorpha* sp.
 
  
  
@@ -96,41 +83,31 @@ index of
 seaweeds on this site
 
 [all
-seaweeds](seaweedfi.htm)  
+seaweeds](seaweedfi)  
   
 **Green seaweeds**  
   
 sheets, ribbons, filaments  
   
 [feathery,   
-serrated strips](chlorophytafi2.htm)  
+serrated strips](chlorophytafi2)  
   
- [spheres, sausages, blobs](chlorophytafi3.htm)  
+ [spheres, sausages, blobs](chlorophytafi3)  
   
-[fans, disks, branched](chlorophytafi4.htm)  
+[fans, disks, branched](chlorophytafi4)  
   
 **Red
 seaweeds**  
- [sheets, ribbons](rhodophytafi3.htm)  
+ [sheets, ribbons](rhodophytafi3)  
   
- [fleshy stems, beads](rhodophytafi1.htm)  
- [soft hairy, feathery](rhodophytafi2.htm)  
+ [fleshy stems, beads](rhodophytafi1)  
+ [soft hairy, feathery](rhodophytafi2)  
   
-[hard branching, encrusting](rhodophytafi4.htm)  
+[hard branching, encrusting](rhodophytafi4)  
   
 **Brown
 seaweeds**  
- [sheets, ribbons](phaeophytafi2.htm)  
- [disks, other shapes](phaeophytafi1.htm)
+ [sheets, ribbons](phaeophytafi2)  
+ [disks, other shapes](phaeophytafi1)
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

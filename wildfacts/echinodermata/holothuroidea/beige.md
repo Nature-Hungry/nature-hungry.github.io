@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "beige, cucumber, seacucumber, holothuria, albiventer, holothuriidae, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 sea
-cucumbers [text index](../echinodermindex.htm#holothuroidea)
-| [photo index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class [Holothuroidea](holothuroidea.htm)
+cucumbers [text index](../echinodermindex#holothuroidea)
+| [photo index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
+> Class [Holothuroidea](holothuroidea)
 **Beige
 sea cucumber  
 *Holothuria albiventer\**Family Holothuriidae***updated
@@ -99,7 +86,7 @@ East Coast-Marina Bay, Oct 15*Photo shared by Loh Kok Sheng on [flickr](https://
 ---
 
 *![](beige/150829laznml1m3.jpg)  
-Seringat-Kias, Aug 15*Photo shared by Neo Mei Lin on [her blog](http://psychedelic-nature.blogspot.sg/2015/08/seringat-kias-29082015.html).
+Seringat-Kias, Aug 15*Photo shared by Neo Mei Lin on [her blog](http://psychedelic-nature.blogspot.sg/2015/08/seringat-kias-29082015l).
 
 *![](beige/150618tmftlks4m3.jpg)  
 Tanah Merah Ferry Terminal, Jun 15*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10153416967613158.1073741882.547198157&type=3).
@@ -121,7 +108,7 @@ Pulau Semakau, Aug 11*Photo shared by Loh Kok Sheng on [flickr](https://www.flic
 
 **Links**
 
-- [*Holothuria albiventer*](http://www.sealifebase.org/summary/Holothuria-albiventer.html) on SeaLife Base: Technical
+- [*Holothuria albiventer*](http://www.sealifebase.org/summary/Holothuria-albiventerl) on SeaLife Base: Technical
   fact sheet.
 - [*Holothuria albiventer*](http://species-identification.org/species.php?species_group=nasc&id=53) in North Australian Sea Cucumbers on Marine
   Species Identification Portal: Technical fact sheet.
@@ -130,14 +117,4 @@ Pulau Semakau, Aug 11*Photo shared by Loh Kok Sheng on [flickr](https://www.flic
 
 - Ong J. Y. & H. P. S. Wong. *Sea cucumbers (Echinodermata: Holothuroidea) from the Johor Straits, Singapore*. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 273-291.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

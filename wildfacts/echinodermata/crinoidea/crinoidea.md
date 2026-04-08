@@ -4,25 +4,12 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "feather, star, featherstar, crinoidea, crinoid, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 crinoids
-[text index](../echinodermindex.htm#crinoidea) | [photo
-index](../crinoideafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
+[text index](../echinodermindex#crinoidea) | [photo
+index](../crinoideafi)
+Phylum [Echinodermata](../echinodermata)
 > Class Crinoidea > Order Comatulida
 **Feather
 stars** **Order Comatulida***updated Apr 2020*
@@ -45,7 +32,7 @@ only come out to feed at night. During the day, they hide in crevices
 or among coral, curling up their arms in tight coils.   
   
 **What are feather stars?** Feather
-stars belong to Phylum [Echinodermata](../echinodermata.htm).
+stars belong to Phylum [Echinodermata](../echinodermata).
 Although they may look similar to brittle stars, feather stars belong
 to a different Class Crinoidea. 'Crinoidea' means 'lily-like' in Greek.
 There are about 600 known living species of feather stars. Shallow-water
@@ -77,9 +64,9 @@ Tiny
 tube feet on the pinnules. *Pulau Hantu, Jan 12*
 *![](crinoid/120820sisd0810m3a.jpg)*Channels along the pinnules and arm. *Sisters Island, Aug 12*
 **Sometimes confused with** [brittle
-stars](../ophiuroidea/ophiuroidea.htm) which also have bristley arms. But brittle stars usually
+stars](../ophiuroidea/ophiuroidea) which also have bristley arms. But brittle stars usually
 only have 5 or 6 arms. More on how to tell apart [bristley
-animals](../../glossary/wormstar.htm) and [feathery animals](../../glossary/feathery.htm).  
+animals](../../glossary/wormstar) and [feathery animals](../../glossary/feathery).  
   
 **An armful:** Juvenile feather stars
 start with 5 arms but repeatedly grow back two arms in place of each
@@ -143,21 +130,21 @@ settle down and develop into tiny stalked feather stars. After a few
 weeks, the cirri form and the little feather star breaks free from
 the stalk to become a free-moving adult.
 ![](../../crustacea/crab/pilumnidae/featherstar/150220lsislks2.JPG)  
-[Crab](../../crustacea/crab/pilumnidae/featherstar.htm)  
+[Crab](../../crustacea/crab/pilumnidae/featherstar)  
 *Sisters Island, Feb 15*Photo shared by James Koh on  [flickr](https://www.flickr.com/photos/koksheng/27780286456/in/album-72157607725632221/)
-*![](../../crustacea/othercrust/shrimp/crinoid/120408hntmn3.jpg)* [Shrimp](../../crustacea/othercrust/shrimp/crinoid.htm) **St John's Island,
+*![](../../crustacea/othercrust/shrimp/crinoid/120408hntmn3.jpg)* [Shrimp](../../crustacea/othercrust/shrimp/crinoid) **St John's Island,
 Apr 12**Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/7614911698/).
-*![](../../worm/polychaeta/myzostomidae/120820sisd0906m3.jpg)*[Worm](../../worm/polychaeta/myzostomidae.htm) *Sisters Island, Aug 12*
-**Living off a star:** Various small [crabs](../../crustacea/crab/pilumnidae/featherstar.htm), [shrimps](../../crustacea/othercrust/shrimp/crinoid.htm), [worms](../../worm/polychaeta/myzostomidae.htm), [brittle stars](../ophiuroidea/featherstar.htm) and other tiny animals may live on a feather
+*![](../../worm/polychaeta/myzostomidae/120820sisd0906m3.jpg)*[Worm](../../worm/polychaeta/myzostomidae) *Sisters Island, Aug 12*
+**Living off a star:** Various small [crabs](../../crustacea/crab/pilumnidae/featherstar), [shrimps](../../crustacea/othercrust/shrimp/crinoid), [worms](../../worm/polychaeta/myzostomidae), [brittle stars](../ophiuroidea/featherstar) and other tiny animals may live on a feather
 star. Some are found no where else.
 
-*![](pale/060713rlhd4317m3d.jpg)* [Brittle star](../ophiuroidea/featherstar.htm) *Raffles Lighthouse, Jul 06*
+*![](pale/060713rlhd4317m3d.jpg)* [Brittle star](../ophiuroidea/featherstar) *Raffles Lighthouse, Jul 06*
 
 ![](../ophiuroidea/featherstar/130626ecplks.JPG)  
-[Brittle star](../ophiuroidea/featherstar.htm) *East Coast Park, Jun 13*
+[Brittle star](../ophiuroidea/featherstar) *East Coast Park, Jun 13*
 
 ![](../ophiuroidea/featherstar/130625ecpd8222.jpg)  
-[Brittle star](../ophiuroidea/featherstar.htm) *East Coast Park, Jun 13*
+[Brittle star](../ophiuroidea/featherstar) *East Coast Park, Jun 13*
 
 **Old stars:** Feather stars are the most ancient and considered
 the most primitive of echinoderms. In the fossil records, there were
@@ -189,23 +176,23 @@ stars on Singapore shores**
 
 ---
 
-***![](blue/091203ubnd5078m3.jpg)*[Blue feather star](blue.htm)**
+***![](blue/091203ubnd5078m3.jpg)*[Blue feather star](blue)**
 
-***![](red/090822sisd9753m3.jpg)*[Red feather star](red.htm)**
+***![](red/090822sisd9753m3.jpg)*[Red feather star](red)**
 
 **![](brown/080209htnlks01m3.jpg)  
-[Brown feather star](brown.htm)**
+[Brown feather star](brown)**
 
 ---
 
 **![](black/040604bbg0240m3.jpg)  
-[Black-and-white feather star](black.htm)**
+[Black-and-white feather star](black)**
 
 **![](pale/080605hntlks02m3.jpg)  
-[Pale feather star](pale.htm)**
+[Pale feather star](pale)**
 
 ***![](purpurea/050623cjg8337m3.jpg)*[Purple
-feather star](purpurea.htm)**
+feather star](purpurea)**
 
   
 
@@ -231,11 +218,11 @@ this website, they are grouped by external features for convenience
 of display.*
  
 [Black-and-white
-feather star](black.htm)  
-[Blue feather star](blue.htm)  
-[Brown feather star](brown.htm)  
-[Pale feather star](pale.htm)   
-[Purple feather star](purpurea.htm)
+feather star](black)  
+[Blue feather star](blue)  
+[Brown feather star](brown)  
+[Pale feather star](pale)   
+[Purple feather star](purpurea)
   
  
 **Family
@@ -299,7 +286,7 @@ Heterometra quinduplicava
 Heterometra schlegelii  
 Heterometra singularis  
   
-[Himerometra robustipinna](red.htm)* (Red feather star) (DD: Data deficient)  *Himerometra bartschi*
+[Himerometra robustipinna](red)* (Red feather star) (DD: Data deficient)  *Himerometra bartschi*
   
  
 **Family
@@ -323,7 +310,7 @@ Zygometridae**
 **Links**
 
 - [Class
-  Echinoidea](http://mangrove.nus.edu.sg/pub/seashore/text/223.htm)
+  Echinoidea](http://mangrove.nus.edu.sg/pub/seashore/text/223)
   Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
@@ -369,14 +356,4 @@ Zygometridae**
   Stars of Australasia and their relatives*. Neville Coleman's
   World of Water, Australia. 64pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

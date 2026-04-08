@@ -4,26 +4,11 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 plants
-[text index](plantindex.htm) | [photo
-index](plantfi.htm)
+[text index](plantindex) | [photo
+index](plantfi)
 
-[mangroves](mangrove/mangroves.htm)
+[mangroves](mangrove/mangroves)
 **Photo
 index of mangrove trees on Singapore shores**  
  **trees with no specialised roots**  
@@ -35,7 +20,7 @@ index of mangrove trees on Singapore shores**
 ![](mangrove/excoecaria/excoecaria/090321krjo3211569m.jpg)  
   
 ![](mangrove/excoecaria/excoecaria/050809lckg0947ma.jpg)  
-[Blind-your-eye](mangrove/excoecaria/excoecaria.htm)
+[Blind-your-eye](mangrove/excoecaria/excoecaria)
   
 or Buta-buta  
 *Excoecaria algallocha*
@@ -44,7 +29,7 @@ or Buta-buta
   
 ![](mangrove/heritiera/heritiera/090328sbwrd8495ma.jpg)  
   
-![](mangrove/heritiera/heritiera/110901krjL1020247m.jpg)[Dungun](mangrove/heritiera/heritiera.htm)  
+![](mangrove/heritiera/heritiera/110901krjL1020247m.jpg)[Dungun](mangrove/heritiera/heritiera)  
 *Heritiera littoralis*
 
 ![](mangrove/dolichandrone/dolichandrone/090328sbwrd8450mc.jpg)  
@@ -53,7 +38,7 @@ or Buta-buta
   
 ![](mangrove/dolichandrone/dolichandrone/090214sbwrd7054m.jpg)  
 [Mangrove
-trumpet tree](mangrove/dolichandrone/dolichandrone.htm)   
+trumpet tree](mangrove/dolichandrone/dolichandrone)   
 or Tui  
 *Dolichandrone spathacea*
 
@@ -63,7 +48,7 @@ or Tui
   
 ![](mangrove/cassine/cassine/090905sbwrd0135mb.jpg)  
 [Kempudang
-baran](mangrove/cassine/cassine.htm)   
+baran](mangrove/cassine/cassine)   
  *Cassine viburnifolia*
 
  
@@ -98,47 +83,47 @@ index of
 plants on this site
 
 [all
-plants](plantfi.htm)  
+plants](plantfi)  
   
 **mangrove
 & seashore plants**   
-[creepers](shorefi1.htm)  
-[climbers, vines](shorefi2.htm)  
-[herbs](shorefi3.htm)  
-[ferns](shorefi7.htm)  
-[palms, pandans](shorefi4.htm)  
+[creepers](shorefi1)  
+[climbers, vines](shorefi2)  
+[herbs](shorefi3)  
+[ferns](shorefi7)  
+[palms, pandans](shorefi4)  
   
 **mangrove
 &** **seashore
   
 shrubs<2m**  
-[thick/leathery leaves](shorefi5a.htm)  
-[thin leaves](shorefi5b.htm)  
+[thick/leathery leaves](shorefi5a)  
+[thin leaves](shorefi5b)  
   
 **seashore
   
 trees>2m**   
 type of leaves  
-[small simple](shorefi6b.htm)  
-[large simple](shorefi6c.htm)  
-[compound, others](shorefi6d.htm)   
+[small simple](shorefi6b)  
+[large simple](shorefi6c)  
+[compound, others](shorefi6d)   
   
 **mangrove
 trees**  
-small oval fruits and [pneumatophores](mangfi6a.htm)  
+small oval fruits and [pneumatophores](mangfi6a)  
   
 long cylindrical fruits  
-with [knee roots](mangfi6b.htm)  
-with [buttressed roots](mangfi6c.htm)  
-with [stilt roots](mangfi6d.htm)  
+with [knee roots](mangfi6b)  
+with [buttressed roots](mangfi6c)  
+with [stilt roots](mangfi6d)  
   
-[large round fruits](mangfi6f.htm)  
+[large round fruits](mangfi6f)  
   
 others
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

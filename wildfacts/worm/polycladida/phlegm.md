@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "flat, worm, flatworm, acotylea, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 flatworms [text
-index](../wormindex.htm) | [photo index](../polycladidafi.htm)
-[worms](../worm.htm)
+index](../wormindex) | [photo index](../polycladidafi)
+[worms](../worm)
 > Phylum Platyhelminthes > Class
-Turbellaria > [Order Polycladida](polycladida.htm)
+Turbellaria > [Order Polycladida](polycladida)
 **Phlegm
 flatworm  
 *awaiting identification**\**Suborder Acotylea***updated
@@ -88,13 +75,13 @@ shared by Jianlin Liu on [facebook](https://www.facebook.com/media/set/?set=a.10
 *![](phlegm/091010tmjk5m3.jpg)  
 Tanah Merah, Oct 09*Photo
 shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/10/tanah-merah-saron.html).
+blog](http://sgn090608.blogspot.com/2009/10/tanah-merah-saronl).
 
 ---
 
 ![](phlegm/090210lablks01m3.jpg)  
 *Labrador, Feb 09*Shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/02/to-see-labrador-for-myself.html).
+blog](http://wondercreation.blogspot.com/2009/02/to-see-labrador-for-myselfl).
 
 ![](phlegm/240309tkrvc1.jpg)  
 *Pulau Tekukor, Mar 24*Shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=10160253041382945&set=a.10160253108937945).
@@ -107,12 +94,12 @@ blog](http://wondercreation.blogspot.com/2009/02/to-see-labrador-for-myself.html
 ![](phlegm/120407lazlks5m3.jpg)  
 *Lazarus, Apr
 12*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2012/04/lobster-at-seringat-kias.html).
+blog](http://wondercreation.blogspot.com/2012/04/lobster-at-seringat-kiasl).
 
 ![](phlegm/120407lazlks4m3.jpg)  
 *Lazarus, Apr
 12*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2012/04/lobster-at-seringat-kias.html).
+blog](http://wondercreation.blogspot.com/2012/04/lobster-at-seringat-kiasl).
 
 *![](phlegm/241019lazvc2.jpg)*  
 *Lazarus, Oct 24*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/media/set/?set=a.10160738772987945).
@@ -120,12 +107,12 @@ blog](http://wondercreation.blogspot.com/2012/04/lobster-at-seringat-kias.html).
 ---
 
 ![](phlegm/110830cyrjk4m3.jpg) *Cyrene Reef, Aug 11*Photo shared byJames Koh on [his
-blog](http://sgn090608.blogspot.com/2011/08/110830-cyrene.html).
+blog](http://sgn090608.blogspot.com/2011/08/110830-cyrenel).
 
 ![](phlegm/120123hntlks1m3.JPG)  
 *Pulau Hantu**, Jan
 12*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2012/01/happy-cny-from-pulau-hantu.html).
+blog](http://wondercreation.blogspot.sg/2012/01/happy-cny-from-pulau-hantul).
 
 ---
 
@@ -140,7 +127,7 @@ shared by Rene Ong on [facebook](http://www.facebook.com/media/set/fbx/?set=a.16
 ---
 
 ![](phlegm/080804rlhlksm3.jpg)  
-*Raffles Lighthouse, Aug 08*Photo shared by Loh Kok Sheng on  [his blog](http://wondercreation.blogspot.com/2008/08/reef-animals-of-raffles-lighthouse.html).
+*Raffles Lighthouse, Aug 08*Photo shared by Loh Kok Sheng on  [his blog](http://wondercreation.blogspot.com/2008/08/reef-animals-of-raffles-lighthousel).
 
 *![](phlegm/091205sudjk1m3.jpg)  
 Pulau Sudong, Dec 09*Photo
@@ -159,14 +146,4 @@ Grateful thanks to Rene Ong for sharing details and identifying the flatworms on
 
 - Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018. *A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.* Nature in Singapore 2018 11: 77–125
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

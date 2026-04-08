@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "yellow, clustered, bead, ascidian, eudistoma, polycitoridae, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
+ 
 
 ascidians
-[text index](ascidiaceaindex.htm) | [photo
-index](ascidiaceafi.htm)
+[text index](ascidiaceaindex) | [photo
+index](ascidiaceafi)
 Phylum Chordata
-| Subphylum Tunicata/Urochordata | Class [Ascidiacea](ascidiacea.htm)
+| Subphylum Tunicata/Urochordata | Class [Ascidiacea](ascidiacea)
 **Yellow
 clustered bead ascidians   
 *Eudistoma* sp.\*  
@@ -42,14 +29,14 @@ blob about 1cm across, somewhat columnar with a rounded top. Clusters
 of blobs form on boulders and larger rocks, usually near the base
 and under overhangs. Also on jetty pilings.  
   
-[Blue-dot margined flatworms](../worm/polycladida/indicus.htm) have been seen near them, appearing to envelope a similarly shaped
+[Blue-dot margined flatworms](../worm/polycladida/indicus) have been seen near them, appearing to envelope a similarly shaped
 object. Do these worms eat the ascidian?
 ![](eudistoma/050311labg3270m3.jpg) *Labrador,
 Mar 05*
 
 ![](eudistoma/080619chgd5684m3.jpg)
 Are they eaten by the [Blue-dot margined
-flatworm](../worm/polycladida/indicus.htm)? *Changi, Jun 08*
+flatworm](../worm/polycladida/indicus)? *Changi, Jun 08*
 
 ![](eudistoma/050311labg3270m3a.jpg)
 
@@ -118,9 +105,9 @@ Photo shared by Liz Lim on [facebook](https://www.facebook.com/photo.php?fbid=20
   Coral Reef Field Guide*.
   Tropical Reef Research. 378pp.
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

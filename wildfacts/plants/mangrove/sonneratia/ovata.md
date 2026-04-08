@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "gedabu, sonneratia, ovata, lythraceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
-plants [text index](../../plantindex.htm) | [photo
-index](../../plantfi.htm)
-[mangroves](../mangroves.htm)
-| *[Sonneratia](sonneratia.htm)* in general
+plants [text index](../../plantindex) | [photo
+index](../../plantfi)
+[mangroves](../mangroves)
+| *[Sonneratia](sonneratia)* in general
 **Gedabu  
 *Sonneratia ovata*  
 Family Lythraceae***updated
@@ -56,7 +56,7 @@ Fruit globular (7.5cm) leathery with calyx lobes that clasp the fruit
 and do not bend away as in other *Sonneratia* species. When ripe,
 the fruit falls and smashes open releasing the seeds.   
   
-Similar to [Perepat](alba.htm) (*S. alba*) except
+Similar to [Perepat](alba) (*S. alba*) except
 that it tends to be a shorter tree with shiny, dark green leaves and
 the flowers have no petals.   
   
@@ -122,17 +122,17 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
   ovata](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=4740)*
   on the NParks Flora and Fauna website: photos and fact sheet.
 - [Gedabu
-  (*Sonneratia ovata*)](http://mangrove.nus.edu.sg/guidebooks/text/1075.htm) Ng, Peter K. L. & N. Sivasothi,
+  (*Sonneratia ovata*)](http://mangrove.nus.edu.sg/guidebooks/text/1075) Ng, Peter K. L. & N. Sivasothi,
   1999. *[A Guide
   to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*. Singapore
   Science Centre. 168 pp.
 - Giesen,
   Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006. [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.htm) (PDF online downloadable).
+  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
   RAP publication 2006/07 Food and Agriculture Organization of the
   United Nations Regional Office for Asia and the Pacific Bangkok.
 - [Special
-  mangrove tree at Ubin: *Sonneratia ovata*](http://wildshores.blogspot.com/2009/04/special-ubin-mangrove-sonneratia-ovata.html) on the wild
+  mangrove tree at Ubin: *Sonneratia ovata*](http://wildshores.blogspot.com/2009/04/special-ubin-mangrove-sonneratia-ovatal) on the wild
   shores of singapore blog.
 
 **References**
@@ -164,9 +164,9 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 FREE photos of [mangrove
 trees and plants](http://www.flickr.com/photos/54527470@N00/sets/72157600258037543). Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

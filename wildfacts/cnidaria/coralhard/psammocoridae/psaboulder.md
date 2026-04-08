@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "boulder, sandpaper, psammocora, siderastreidae, psammocoridae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 hard corals [text
-index](../../coralhardindex.htm) | [photo index](../../cnidariafi1.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard.htm)
-> Family [Psammocoridae](psammocoridae.htm)
+index](../../coralhardindex) | [photo index](../../cnidariafi1)
+Phylum [Cnidaria](../../cnidaria)
+> Class [Anthozoa](../../anthozoa) > Subclass
+Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard)
+> Family [Psammocoridae](psammocoridae)
 **Boulder
 sandpaper coral** ***Psammocora* sp.\*  
 Family Psammocoridae***updated
@@ -105,7 +105,7 @@ shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media
 *![](boulder/130821cjlks4m3.jpg)  
 Chek Jawa, Aug 13*Photo
 shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2013/08/a-glimpse-of-glorious-beacon-area-at.html).
+blog](http://wondercreation.blogspot.sg/2013/08/a-glimpse-of-glorious-beacon-area-atl).
 
 ---
 
@@ -119,7 +119,7 @@ shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.
 
 ![](boulder/090726tmlks3m3.jpg) *Tanah Merah, Jul 09*![](boulder/090726tmlks3m3a.jpg)  
 Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/07/coral-garden-at-tanah-merah.html).
+blog](http://wondercreation.blogspot.com/2009/07/coral-garden-at-tanah-merahl).
 
 ![](boulder/220618tmftdc3.jpg) *Tanah Merah Ferry Terminal, Jun 22*![](boulder/220618tmftdc3a.jpg)  
 Photo shared by Dayna Cheah on [facebook](https://www.facebook.com/photo/?fbid=5020267594756643&set=a.5020288291421240).
@@ -127,9 +127,9 @@ Photo shared by Dayna Cheah on [facebook](https://www.facebook.com/photo/?fbid=5
 ![](boulder/220618tmftdc5.jpg) *Tanah Merah Ferry Terminal, Jun 22*![](boulder/220618tmftdc5a.jpg)  
 Photo shared by Dayna Cheah on [facebook](https://www.facebook.com/photo/?fbid=5020268811423188&set=a.5020288291421240).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

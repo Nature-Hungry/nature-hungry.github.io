@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "transparent, sea-through, cucumber, seacucumber, paracaudina, australis, caudinidae, holothuroidae, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 sea
-cucumbers [text index](../echinodermindex.htm#holothuroidea)
-| [photo index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class [Holothuroidea](holothuroidea.htm)
+cucumbers [text index](../echinodermindex#holothuroidea)
+| [photo index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
+> Class [Holothuroidea](holothuroidea)
 **See-through
 sea cucumber  
 *Paracaudina australis\**  
@@ -85,7 +72,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 Pasir Ris Park, Jan 09*
 
 ![](paracaudina/090113prplks2m3.jpg)  
-Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2009/01/soft-sediment-creatures-of-pasir-ris.html).
+Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2009/01/soft-sediment-creatures-of-pasir-risl).
 
 ---
 
@@ -113,14 +100,4 @@ Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/20
   Guide to Sea Stars and Other Echinoderms of Singapore*.
   Singapore Science Centre. 187pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

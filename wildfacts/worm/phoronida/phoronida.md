@@ -4,25 +4,12 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "ceriantharia, cerianthid, phoronid, worm, phoronis, australis, phoronida, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 worms
-[text index](../wormindex.htm) | [photo
-index](../wormfi.htm)
-[worms](../worm.htm)
+[text index](../wormindex) | [photo
+index](../wormfi)
+[worms](../worm)
 > Phylum Phoronida
 **Cerianthid
 phoronid worm *Phoronis australis\******Phylum
@@ -45,12 +32,12 @@ exoskeleton is made of.
 **Where
 seen?** Literally
 overshadowed by their more glamorous hosts, this tiny fluffy worm
-is commonly seen with [cerianthids](../../cnidaria/others/ceriantharia/ceriantharia.htm) on our northern shores. Often several can be seen near one cerianthid.
+is commonly seen with [cerianthids](../../cnidaria/others/ceriantharia/ceriantharia) on our northern shores. Often several can be seen near one cerianthid.
 Very shy, the worms retract at the slightest sign of danger. There's
 a better chance of seeing them at night.  
   
 **What are phoronid worms?** Phoronid
-worms are unsegmented [worms](../worm.htm) belonging to
+worms are unsegmented [worms](../worm) belonging to
 Phylum Phoronida. This is a small phylum with less than 20 species. They build and live inside tubes made of chitin. *Phoronis australis* is thus far, the only phoronid known to
 be encountered with cerianthids and it is found in all warm temperate
 to tropical coasts from the intertidal to deeper waters.  
@@ -60,12 +47,12 @@ The body is long, unsegemented and worm-like. Those seen on our shores
 are grey or pinkish black, but elsewhere white ones are also seen.
 Most phoronids build a tube that is made of chitin (the same substance
 that insect skeletons are made of). More about [tubeworms
-in general](../tubeworm/tubeworms.htm).   
+in general](../tubeworm/tubeworms).   
   
 **Sometimes confused with** [fan
-worms](../polychaeta/sabellidae.htm). Fan worms are segmented worms belonging to Phylum Annelida, [Class Polychaeta](../polychaeta/polychaeta.htm). More
+worms](../polychaeta/sabellidae). Fan worms are segmented worms belonging to Phylum Annelida, [Class Polychaeta](../polychaeta/polychaeta). More
 on how to tell apart [animals
-with a ring of feathery tentacles](../../glossary/feathery.htm).  
+with a ring of feathery tentacles](../../glossary/feathery).  
   
 According to Gosliner, the body of *Phoronis australis* penetrates
 the tissues of the cerianthid but the phoronid worm is not parasitic
@@ -145,11 +132,11 @@ With grateful thanks to Leslie H. Harris of the [Natural
 History Museum of Los Angeles County](http://www.nhm.org/) for comments on the identity
 of this worm. **Links**  
 
-- [Phoronis australis](http://paleopolis.rediris.es/LOPH-Album/PHO/P_australis.html) on [Phoronidnet](http://paleopolis.rediris.es/Phoronida/)
+- [Phoronis australis](http://paleopolis.rediris.es/LOPH-Album/PHO/P_australisl) on [Phoronidnet](http://paleopolis.rediris.es/Phoronida/)
   by Christian C Emig: everything you could possibly want to know
   about Phoronids.
 - [*Phoronis
-  australis*](http://www.sealifebase.org/summary/Phoronis-australis.html) on SeaLife Base: Technical fact sheet.
+  australis*](http://www.sealifebase.org/summary/Phoronis-australisl) on SeaLife Base: Technical fact sheet.
 
 **References**
 
@@ -181,14 +168,4 @@ of this worm. **Links**
   Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
   Sea Challengers. 314pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

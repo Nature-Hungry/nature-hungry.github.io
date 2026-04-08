@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "mangrove, whip, whipray, sting, ray, stingray, himantura, walga, fish, rajiformes, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Order [Rajiformes](rajiformes.htm) > Family [Dasyatidae](dasyatidae.htm)
+> Subphylum Vertebrate > [fishes](../fish) >
+Order [Rajiformes](rajiformes) > Family [Dasyatidae](dasyatidae)
 **Mangrove
 whipray  
 *Himantura walga*  
@@ -46,7 +46,7 @@ spines on the tail which can cause a painful wound by injecting a
 venom.  
   
 **Sometimes mistaken for** a [horseshoe
-crab](../../../arthropoda/limulidae/limulidae.htm) and visa versa. In murky waters, these two different animals
+crab](../../../arthropoda/limulidae/limulidae) and visa versa. In murky waters, these two different animals
 do have a similar profile, both being round and flat with a long tail.
 But the horseshoe crab moves very differently- creeping slowly, while the stingray can dash away quickly.
 
@@ -57,7 +57,7 @@ This one seems to have a broken tail. *Pulau Sekudu, Apr 09*
 
 *![](walga/040509skddd0030m3.jpg)*Underside. *Pulau Sekudu, May 04*
 ![](kuhlii/060430skdd1550m3a.jpg)  
-[Blue-spotted stingrays](kuhlii.htm) and Mangrove whiprays  
+[Blue-spotted stingrays](kuhlii) and Mangrove whiprays  
 in a sandy lagoon.  
 *Pulau Sekudu, Apr 06*
 ![](walga/110705chgL1060451.jpg)  
@@ -105,7 +105,7 @@ Beting Bronok, May 09*Photo shared by Marcus Ng on [flickr](http://www.flickr.co
 **Links**  
 
 - [Mangrove
-  Whipray (*Himantura walga*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/205.htm). Lim, Kelvin K. P. & Jeffrey
+  Whipray (*Himantura walga*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/205). Lim, Kelvin K. P. & Jeffrey
   K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
@@ -114,7 +114,7 @@ Beting Bronok, May 09*Photo shared by Marcus Ng on [flickr](http://www.flickr.co
   Technical fact sheet.
 - [Volume
   3: Batoid fishes, chimaeras and bony fishes part 1 (Elopidae to
-  Linophrynidae)](http://www.fao.org/docrep/009/x2401e/x2401e00.htm) FAO Species Identification Guide for Fishery
+  Linophrynidae)](http://www.fao.org/docrep/009/x2401e/x2401e00) FAO Species Identification Guide for Fishery
   Purposes The Living Marine Resources of the Western Central Pacific.
 
 **References**  
@@ -126,9 +126,9 @@ Beting Bronok, May 09*Photo shared by Marcus Ng on [flickr](http://www.flickr.co
   Science, Nanyang Technological University & Department of Zoology,
   the National University of Singapore. 160 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

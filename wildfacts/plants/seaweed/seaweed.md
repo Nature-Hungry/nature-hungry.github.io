@@ -4,30 +4,30 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "seaweed, weed, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
+[![](../../../wildfactsheet3.gif)](../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../index.html)  
+[wildfactsheets homepage](../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![talking points for nature guides](../../../Templates/fornatureguides.gif)](fngseaweed.htm)
+[![talking points for nature guides](../../../Templates/fornatureguides.gif)](fngseaweed)
 
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
+[all animals](../../animals)
+| [all plants](../../plants)
+| [concepts](../../concepts/indexl)
+| [glossary](../../glossary/indexl)
+| [search](../../search)
 
 seaweeds
-[text index](seaweedindex.htm) | [photo
-index](seaweedfi.htm)
-Division [Chlorophyta](chlorophyta/chlorophyta.htm)
-| Division [Cyanophyta](cyanobacteria/cyanobacteria.htm)
-| Division [Phaeophyta](phaeophyta/phaeophyta.htm) | Division
-[Rhodophyta](rhodophyta/rhodophyta.htm)
+[text index](seaweedindex) | [photo
+index](seaweedfi)
+Division [Chlorophyta](chlorophyta/chlorophyta)
+| Division [Cyanophyta](cyanobacteria/cyanobacteria)
+| Division [Phaeophyta](phaeophyta/phaeophyta) | Division
+[Rhodophyta](rhodophyta/rhodophyta)
 **What
 are seaweeds?**   
 *updated
@@ -91,10 +91,10 @@ The whole seaweed is called the thallus. Unlike land plants, photosynthesis
 takes place in all parts of the seaweed and not just the 'leafy' parts.
 Nutrients are also absorbed with all parts of the seaweed.   
   
-**Sometimes confused with** [seagrasses](../seagrass/seagrass.htm).
+**Sometimes confused with** [seagrasses](../seagrass/seagrass).
 Green seaweeds are easily confused for seagrasses. Here's more on
 [how to apart seagrasses
-and green seaweeds](../../glossary/seagrassweed.htm).  
+and green seaweeds](../../glossary/seagrassweed).  
   
 **Why are seaweeds slimy?** A slimy
 coating reduces water loss when exposed at low tide. Being leathery
@@ -112,7 +112,7 @@ and dominating the shore at different times of the year. These 'blooms'
 may be due to changes in nutrients or other conditions on the shores.
 Tiny algae
 may also bloom, colouring the seawater. [Red
-tide](redtide.htm) is a bloom of harmful algae.   
+tide](redtide) is a bloom of harmful algae.   
   
 **Seaweed reproduction:** Algae do
 not have flowers, fruits or seeds. Instead, they have a complex method
@@ -121,13 +121,13 @@ It is usually impossible to tell if a seaweed is reproductively mature
 without examining it under a microscope. Seaweed can also grow from
 fragments of the parent plant.   
   
-**Role in the habitat:**Unlike [seagrasses](../seagrass/seagrass.htm),
+**Role in the habitat:**Unlike [seagrasses](../seagrass/seagrass),
 seaweeds are eaten by a wide range of creatures from snails to fish,
 crabs to [sea
-urchins](../../echinodermata/echinoidea/urchin/urchin.htm) and special animals such as [sea
-turtles](../../vertebrates/reptilia/seaturtle.htm). Small algae provide food for tiny grazers such as snails.
+urchins](../../echinodermata/echinoidea/urchin/urchin) and special animals such as [sea
+turtles](../../vertebrates/reptilia/seaturtle). Small algae provide food for tiny grazers such as snails.
 Larger herbivores such as [sea
-hares](../../mollusca/slugs/anaspidae/anaspidea.htm) munch on bigger seaweeds. During a seaweed 'bloom' there
+hares](../../mollusca/slugs/anaspidae/anaspidea) munch on bigger seaweeds. During a seaweed 'bloom' there
 can be a corresponding explosion in the number and variety of animals
 that eat that particular seaweed. As well as the predators that eat
 the seaweed-eaters.  
@@ -139,7 +139,7 @@ may also lay their egg capsules on seaweeds.
 Seaweeds can also affect the growth of other animals. Studies have
 shown that [some
 seaweeds release chemicals that prevent coral larvae from settling
-down](http://wildshores.blogspot.com/2008/09/seaweeds-wage-chemical-warfare-on.html). Thus animals that eat seaweeds play a role in the balance
+down](http://wildshores.blogspot.com/2008/09/seaweeds-wage-chemical-warfare-onl). Thus animals that eat seaweeds play a role in the balance
 of life on a reef.  
   
 **Intimate friends of algae:** Many
@@ -149,12 +149,12 @@ from sunlight. The food produced is shared with the host, which in
 return provides the algae with shelter and minerals.   
   
 This symbiotic relationship between [hard
-corals](../../cnidaria/coralhard/coralhard.htm) and zooxanthallae provides the corals with extra nutrition
+corals](../../cnidaria/coralhard/coralhard) and zooxanthallae provides the corals with extra nutrition
 needed to build their skeletons more quickly in the clear, nutrient-poor
 waters of the tropics. Thus algae are important in reef building!
 Other animals that harbour zooxanthallae include [carpet
-anemones](../../cnidaria/actiniaria/haddoni.htm) and [giant
-clams](../../mollusca/bivalvia/tridacnidae/tridacnidae.htm).  
+anemones](../../cnidaria/actiniaria/haddoni) and [giant
+clams](../../mollusca/bivalvia/tridacnidae/tridacnidae).  
   
 Algae may also have a symbiotic relationship with fungus, to form
 lichen.  
@@ -170,7 +170,7 @@ or side dish.
   
 Other uses of seaweeds including as fertiliser to grow food crops,
 and as part of livestock feed. In the past, [Sea
-lettuce](chlorophyta/ulva.htm) (*Ulva* sp.) were collected in boatloads in the Straits
+lettuce](chlorophyta/ulva) (*Ulva* sp.) were collected in boatloads in the Straits
 of Johor, washed in freshwater then cooked and fed to pigs.  
   
 Some seaweeds are cultivated for commercial uses. It is estimated
@@ -187,11 +187,11 @@ on developing seaweeds as a source of biofuel.
 are generally classified by their colours! All seaweeds have green
 chlorophyll, but some also have other pigments.   
   
-**Green seaweeds** (Division [Chlorophyta](chlorophyta/chlorophyta.htm))
+**Green seaweeds** (Division [Chlorophyta](chlorophyta/chlorophyta))
 are usually found closer to shore because they generally can tolerate
 more sun and drying out.   
   
-**Red seaweeds** (Division [Rhodophyta](rhodophyta/rhodophyta.htm))
+**Red seaweeds** (Division [Rhodophyta](rhodophyta/rhodophyta))
 can grow in deeper waters where green seaweeds may not survive. This
 is because their red colour allows them to photosynthesise in lower
 light levels. The 'Nori' used in Japanese sushi is a red seaweed (*Porphyra*
@@ -200,12 +200,12 @@ make delicious jellies (agar-agar); and carrageenans, natural gums
 used to gel and stabilise food such as chocolate milk and yoghurt.
   
   
-**Brown seaweeds** (Division [Phaeophyta](phaeophyta/phaeophyta.htm))
+**Brown seaweeds** (Division [Phaeophyta](phaeophyta/phaeophyta))
 are more common in colder waters. They are a source of alginates used
 to make water-based products thicker, creamier and more stable. For
 example, alginates make smoother ice cream.   
   
-**Blue-green algae** (Division [Cyanophyta](cyanobacteria/cyanobacteria.htm))
+**Blue-green algae** (Division [Cyanophyta](cyanobacteria/cyanobacteria))
 form fine hair-like filaments or mats.  
   
 Seaweeds species are difficult to positively identify without close
@@ -224,7 +224,7 @@ in the ecosystem.
 ![](060131sjig4439m3.jpg)  
 Red, brown and green seaweeds *St. John's Island, Jan 06  
   
-![](phaeophyta/others/040423snted0087m3.jpg)*Various [brown seaweeds](phaeophyta/phaeophyta.htm) *Sentosa, Apr 04   
+![](phaeophyta/others/040423snted0087m3.jpg)*Various [brown seaweeds](phaeophyta/phaeophyta) *Sentosa, Apr 04   
   
 ![](chlorophyta/sertularioides/050623cjd4103m3.jpg)*Some green seaweeds are   
 easily mistaken for seagrasses. *Pulau Sekudu, Apr 06  
@@ -257,32 +257,32 @@ Hair-like cyanobacteria growing on rocks.
 
 **Seaweeds
 on Singapore shores**[text
-index](seaweedindex.htm) and [photo index](seaweedfi.htm) of seaweeds
+index](seaweedindex) and [photo index](seaweedfi) of seaweeds
 on this site
 
 ---
 
 **Links**
 
-- [Algae](http://mangrove.nus.edu.sg/pub/seashore/flora.htm)
+- [Algae](http://mangrove.nus.edu.sg/pub/seashore/flora)
   Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
-- [Algae](http://mangrove.nus.edu.sg/guidebooks/text/1032.htm)
+- [Algae](http://mangrove.nus.edu.sg/guidebooks/text/1032)
   Ng, Peter K. L. & N. Sivasothi, 1999. *[A
   Guide to the Mangroves of Singapore I (Plant Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
   Singapore Science Centre. 168 pp.
 - [Seaweeds
-  used as Human Food](http://www.fao.org/docrep/006/y4765e/y4765e0b.htm)
+  used as Human Food](http://www.fao.org/docrep/006/y4765e/y4765e0b)
   by the Fisheries and Aquaculture Department, FAO: descriptions
   with photos of seaweed cultivation.
 - [Common
-  Underwater Plants in Coastal Areas of Thailand](http://www.jircas.affrc.go.jp/project/aquacult_Thailand/index.html) by Japan International
+  Underwater Plants in Coastal Areas of Thailand](http://www.jircas.affrc.go.jp/project/aquacult_Thailand/indexl) by Japan International
   Center for Agricultural Sciences: photos and fact sheets of seaweeds.
 - [Algae
   of Taiwan](http://algae.biota.biodiv.tw/catalog) on BiotaTaiwanica: photos and fact sheets of seaweeds.
 - [The
-  Seaweed Site](http://www.seaweed.ie/index.html): An easy introduction to seaweeds (focusing on
+  Seaweed Site](http://www.seaweed.ie/indexl): An easy introduction to seaweeds (focusing on
   Australian and NE Atlantic species), including fact sheets and
   recipes!
 - [AlgaeBase](http://www.algaebase.org/):
@@ -290,17 +290,17 @@ on this site
 - From the
   wild shores of singapore blog
   - [Seaweeds
-    are NOT weeds](http://wildshores.blogspot.com/2009/03/seaweeds-are-not-weeds.html)
+    are NOT weeds](http://wildshores.blogspot.com/2009/03/seaweeds-are-not-weedsl)
   - [Seaweeds
-    wage chemical warfare on corals](http://wildshores.blogspot.com/2008/09/seaweeds-wage-chemical-warfare-on.html)
+    wage chemical warfare on corals](http://wildshores.blogspot.com/2008/09/seaweeds-wage-chemical-warfare-onl)
   - [Seaweeds
-    as biofuel: the pros and cons](http://wildshores.blogspot.com/2008/11/seaweed-as-biofuel-pros-and-cons.html)
+    as biofuel: the pros and cons](http://wildshores.blogspot.com/2008/11/seaweed-as-biofuel-pros-and-consl)
   - [Can
-    algae save the world - again?](http://wildshores.blogspot.com/2009/02/can-algae-save-world-again.html)
+    algae save the world - again?](http://wildshores.blogspot.com/2009/02/can-algae-save-world-againl)
   - [Seaweed
-    cultivation helps poor fishermen in Indonesia](http://wildshores.blogspot.com/2009/02/seaweed-cultivation-helps-poor.html)
+    cultivation helps poor fishermen in Indonesia](http://wildshores.blogspot.com/2009/02/seaweed-cultivation-helps-poorl)
   - [Tiniest
-    marine algae may play big planetary role](http://wildshores.blogspot.com/2009/08/tiniest-marine-algae-may-play-big.html)
+    marine algae may play big planetary role](http://wildshores.blogspot.com/2009/08/tiniest-marine-algae-may-play-bigl)
 
 **References**
 
@@ -347,14 +347,4 @@ FREE photos of
   
 Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

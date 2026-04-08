@@ -4,24 +4,7 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "prawn, shrimp, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[![talking points for nature guides](../../Templates/fornatureguides.gif)](../crustacea/fngshrimps.htm)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
-[index](index.html)
+[index](indexl)
 of concepts
 **Prawn
 farming is destructive***updated
@@ -150,9 +133,9 @@ and overharvesting can also have an impact on local populations.
 - on the
   wild shores of singapore blog.
   - [Prawn
-    'sex tapes' reveals lust is lacking in captive breds](http://wildshores.blogspot.com/2009/03/prawn-sex-tapes-reveals-lust-is-lacking.html)
+    'sex tapes' reveals lust is lacking in captive breds](http://wildshores.blogspot.com/2009/03/prawn-sex-tapes-reveals-lust-is-lackingl)
   - [Shrimp
-    trawling may raise toxic mercury levels in the fish we eat](http://wildshores.blogspot.com/2008/11/shrimp-trawling-may-raise-toxic-mercury.html)
+    trawling may raise toxic mercury levels in the fish we eat](http://wildshores.blogspot.com/2008/11/shrimp-trawling-may-raise-toxic-mercuryl)
 
 **References**
 
@@ -161,9 +144,9 @@ and overharvesting can also have an impact on local populations.
   Encyclopedia of Malaysia (Vol. 6): The Seas![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)
   Didier Millet, Malaysia. 144 pp.
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

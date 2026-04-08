@@ -4,24 +4,11 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
+ 
 
 ascidians
-[text index](ascidiaceaindex.htm) | [photo
-index](ascidiaceafi.htm)
+[text index](ascidiaceaindex) | [photo
+index](ascidiaceafi)
 Phylum Chordata
 > Subphylum Tunicata/Urochordata
 **Ascidians  
@@ -72,14 +59,14 @@ contract, water squirts out of the animal. So they are sometimes also
 called sea squirts. They may do this to get rid of something in them,
 or when they are disturbed.
 ![](polycarpa/050510tusg6134m3.jpg)  
-[Solitary sea squirt](polycarpa.htm) growing on hard surfaces.  
+[Solitary sea squirt](polycarpa) growing on hard surfaces.  
 *Tuas, May 05*
 ![](ascidiaceanoid/solitary.gif)
 
   
 Cross-section of   
 a solitary ascidian
-*![](jelly/100726chgd9196m3.jpg)*[Solitary sea squirt](jelly.htm) growing under stones. *Changi, Jul 10*
+*![](jelly/100726chgd9196m3.jpg)*[Solitary sea squirt](jelly) growing under stones. *Changi, Jul 10*
 **Colonial ascidians:** Some ascidians
 form as solitary animals, sometimes called simple ascidians. Other
 ascidians may form colonies with many individual animals called zooids.
@@ -101,17 +88,17 @@ also contain symbiotic cyanobacteria. It is believed that the symbionts
 share the products of photosynthesis with the host ascidian. At least
 one species of *Didemnum* can slowly move over the surface, perhaps
 to maximise the sunlight for the symbionts.
-*![](greengumdrop/050309smkg3139m3.jpg)*[Colonial ascidians](greengumdrop.htm) on seagrasses.  
+*![](greengumdrop/050309smkg3139m3.jpg)*[Colonial ascidians](greengumdrop) on seagrasses.  
 *Pulau Semakau, Mar 05*
 ![](ascidiaceanoid/colonial.gif)  
 Colonial ascidian   
   
 Arrows show the flow of water   
 through the animals.  
-*![](beige/090623ecpd4904m3.jpg)*[Colonial ascidians](beige.htm) forming a sheet over hard surfaces. *East Coast, Jun 09* 
-**Sometimes confused with** [sponges](../porifera/porifera.htm).
+*![](beige/090623ecpd4904m3.jpg)*[Colonial ascidians](beige) forming a sheet over hard surfaces. *East Coast, Jun 09* 
+**Sometimes confused with** [sponges](../porifera/porifera).
 More on how to tell apart [blob-like
-animals](../glossary/blobs.htm).However, while sponges are simple
+animals](../glossary/blobs).However, while sponges are simple
 animals without specialised organs, ascidians are more complex animals.
 While ascidians tend to be smooth and slimy, sponges tend to be rough
 and are usually not slimy.  
@@ -142,13 +129,13 @@ ascidians may contain substances that are distasteful to deter predators.
 They may also produce substances to repel other organisms that try
 to grow near or on them. This repulsive character is exploited by
 other small animals. Tiny creatures may live inside or on large ascidians. Some [sponge
-crabs](../crustacea/crab/dromiidae/dromiidae.htm) make their living disguises out of ascidians instead of
+crabs](../crustacea/crab/dromiidae/dromiidae) make their living disguises out of ascidians instead of
 sponges. But nevertheless, ascidians still do get eaten by some creatures
-such as [flatworms](../worm/polycladida/polycladida.htm) and [nudibranchs](../mollusca/nudibranchia.htm) and Lamellaria snails.
-*![](../crustacea/crab/dromiidae/dromiidae/050819cjg1656m3.jpg)*[Sponge crab](../crustacea/crab/dromiidae/dromiidae.htm) using an ascidian disguise.  
+such as [flatworms](../worm/polycladida/polycladida) and [nudibranchs](../mollusca/nudibranchia) and Lamellaria snails.
+*![](../crustacea/crab/dromiidae/dromiidae/050819cjg1656m3.jpg)*[Sponge crab](../crustacea/crab/dromiidae/dromiidae) using an ascidian disguise.  
 *Chek Jawa, Aug 05*
 ![](../worm/polycladida/indicus/080619chgd5684m3.jpg)  
-A [flatworm](../worm/polycladida/indicus.htm) eating
+A [flatworm](../worm/polycladida/indicus) eating
 an ascidian? *Changi, Jun 08*
  
 **Human uses:** As ascidians are closely
@@ -166,8 +153,8 @@ visitors may also have an impact on local populations.
 
 **Class
 Ascidiacea on Singapore shores**   
-[text index](ascidiaceaindex.htm) and [photo
-index](ascidiaceafi.htm) of ascidians seen on Singapore shores
+[text index](ascidiaceaindex) and [photo
+index](ascidiaceafi) of ascidians seen on Singapore shores
 
 ---
 
@@ -184,7 +171,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Links**  
 
 - [Sea
-  Squirt *Polycarpa*](http://mangrove.nus.edu.sg/pub/seashore/text/226.htm)
+  Squirt *Polycarpa*](http://mangrove.nus.edu.sg/pub/seashore/text/226)
   Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
@@ -194,10 +181,10 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
   Dutch Ascidians Homepage](http://www.ascidians.com/) by Arjan Gittenberger: general introduction
   and photos of a wide range of ascidians.
 - [Ascidians:
-  Sea Squirts, Tunicates](http://www.seaslugforum.net/ascidian.htm) on the Sea Slug Forum by Dr Bill Rudman:
+  Sea Squirts, Tunicates](http://www.seaslugforum.net/ascidian) on the Sea Slug Forum by Dr Bill Rudman:
   an introduction with close-up photos.
-- [Ascidians](http://www.mesa.edu.au/friends/seashores/ascidians.html) on [Life
-  on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1.html) by Keith Davey on the Marine Education
+- [Ascidians](http://www.mesa.edu.au/friends/seashores/ascidiansl) on [Life
+  on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1l) by Keith Davey on the Marine Education
   Society of Australia website: a fabulous goldmine of a site which
   covers various kinds of intertidal habitats and their inhabitants.
   Fact sheet on ascidians with lovely diagrams showing the changes
@@ -206,7 +193,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 - on
   the wild shores of singapore blog
   - [Blobs
-    in the sea help us understand human health issues](http://wildshores.blogspot.com/2011/04/blobs-in-sea-help-us-understand-human.html)
+    in the sea help us understand human health issues](http://wildshores.blogspot.com/2011/04/blobs-in-sea-help-us-understand-humanl)
 
 **References**
 
@@ -231,9 +218,9 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
   Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
   The Nature Society (Singapore), Singapore. 343 pp.
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

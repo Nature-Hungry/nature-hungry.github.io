@@ -4,27 +4,12 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 plants
-[text index](plantindex.htm) | [photo
-index](plantfi.htm)
+[text index](plantindex) | [photo
+index](plantfi)
 
-[mangroves](mangrove/mangroves.htm)
-| [coastal plants](coastal/coastalplants.htm)
+[mangroves](mangrove/mangroves)
+| [coastal plants](coastal/coastalplants)
 **Photo
 index of mangrove and seashore plants on Singapore shores**  
 **shrubs
@@ -39,7 +24,7 @@ at or above the high water mark near the sea shore
   
 ![](coastal/hibiscus/tiliaceus/090117smkd5536m.jpg)  
   
-![](../insecta/dysdercus/081206smkd2478m.jpg) [Sea hibiscus](coastal/hibiscus/tiliaceus.htm)  
+![](../insecta/dysdercus/081206smkd2478m.jpg) [Sea hibiscus](coastal/hibiscus/tiliaceus)  
 *Hibiscus tiliaceus*
 
 ![](coastal/thespesia/populnea/081206smkd2642m.jpg)  
@@ -47,7 +32,7 @@ at or above the high water mark near the sea shore
 ![](coastal/thespesia/populnea/031019ubnd0029ma.jpg)  
   
 ![](coastal/thespesia/populnea/031019ubnd0005m.jpg)  
- [Baru-baru](coastal/thespesia/populnea.htm)  
+ [Baru-baru](coastal/thespesia/populnea)  
 *Thespesia populnea*
 
 ![](coastal/morinda/citrifolia/090124ubnd5992m.jpg)  
@@ -55,7 +40,7 @@ at or above the high water mark near the sea shore
 ![](coastal/morinda/citrifolia/090328sbwrd8470m.jpg)  
   
 ![](coastal/morinda/citrifolia/090124ubnd5994m.jpg)  
-[Noni](coastal/morinda/citrifolia.htm) or Mengkudu  
+[Noni](coastal/morinda/citrifolia) or Mengkudu  
  *Morinda citrifolia*
 
 ![](coastal/allophylus/cobbe/091005cjd2099ma.jpg)  
@@ -63,7 +48,7 @@ at or above the high water mark near the sea shore
 ![](coastal/allophylus/cobbe/090905sbwrd0287ma.jpg)  
   
 ![](coastal/allophylus/cobbe/130102kntd2955m.jpg)  
-[Tit-berry](coastal/allophylus/cobbe.htm)   
+[Tit-berry](coastal/allophylus/cobbe)   
 *Allophylus cobbe*
 
 ![](coastal/desmodium/umbellatum/090412hntd9881m.jpg)  
@@ -71,7 +56,7 @@ at or above the high water mark near the sea shore
 ![](coastal/desmodium/umbellatum/090412hntd9886m.jpg)  
   
 ![](coastal/desmodium/umbellatum/090412hntd9888m.jpg)  
-[Petai laut](coastal/desmodium/umbellatum.htm)   
+[Petai laut](coastal/desmodium/umbellatum)   
 *Desmodium umbellatum*
 
 Shrub
@@ -104,7 +89,7 @@ clusters. Pod brown, short (3-4cm). Sometimes seen on our shores.
 ![](coastal/premna/corymbosa/081206smkd2473m.jpg)  
   
 ![](coastal/premna/corymbosa/090822sisd9802ma.jpg)  
-[Buas buas](coastal/premna/corymbosa.htm)  
+[Buas buas](coastal/premna/corymbosa)  
 *Premna corymbosa*
 
 ![](coastal/clerodendrum/inerme/030809ulrd0011m.jpg)  
@@ -112,14 +97,14 @@ clusters. Pod brown, short (3-4cm). Sometimes seen on our shores.
 ![](coastal/clerodendrum/inerme/030809ulrd0146mb.jpg)  
   
 ![](coastal/clerodendrum/inerme/090517ubnd1946ma.jpg)  
-[Gambir laut](coastal/clerodendrum/inerme.htm)*Clerodendrum inerme*
+[Gambir laut](coastal/clerodendrum/inerme)*Clerodendrum inerme*
 
 ![](coastal/colubrina/asiatica/090412hntd9854m.jpg)  
   
 ![](coastal/colubrina/asiatica/090412hntd9847m.jpg)  
   
 ![](coastal/colubrina/asiatica/090412hntd9857m.jpg)  
- [Peria laut](coastal/colubrina/asiatica.htm)*Colubrina asiatica*
+ [Peria laut](coastal/colubrina/asiatica)*Colubrina asiatica*
 
 ![](coastal/eurycoma/longifolia/090331sntd8824m.jpg)  
   
@@ -127,7 +112,7 @@ clusters. Pod brown, short (3-4cm). Sometimes seen on our shores.
   
 ![](coastal/eurycoma/longifolia/090331sntd8830m.jpg)  
  [Tongkat
-ali](coastal/eurycoma/longifolia.htm)*Eurycoma longifolia*
+ali](coastal/eurycoma/longifolia)*Eurycoma longifolia*
 
  
 First
@@ -155,21 +140,21 @@ rocky cliffs and shores. It is Critically endangered.
 ![](others/melastoma/malabathricum/090410ubnd9354m.jpg)  
   
 ![](others/melastoma/malabathricum/090906prpd0484m.jpg)  
- [Sendudok](others/melastoma/malabathricum.htm)*Melastoma malabathricum*
+ [Sendudok](others/melastoma/malabathricum)*Melastoma malabathricum*
 
 ![](coastal/rhodomyrtus/tomentosa/090531cjd3075ma.jpg)  
   
 ![](coastal/rhodomyrtus/tomentosa/090531cjd3072m.jpg)  
   
 ![](coastal/rhodomyrtus/tomentosa/090531cjd3074ma.jpg)  
- [Kemunting](coastal/rhodomyrtus/tomentosa.htm)*Rhodomyrtus tomentosa*
+ [Kemunting](coastal/rhodomyrtus/tomentosa)*Rhodomyrtus tomentosa*
 
 ![](others/ixora/congesta/090926cjd1832m.jpg)  
   
 ![](others/ixora/congesta/090926cjd1827m.jpg)  
   
 ![](others/ixora/congesta/090926cjd1846m.jpg)  
- [Jarum-jarum](others/ixora/congesta.htm)*Ixora congesta*
+ [Jarum-jarum](others/ixora/congesta)*Ixora congesta*
 
 ![](coastal/flemingia/strobilifera/090531cjd3066m.jpg)  
   
@@ -184,7 +169,7 @@ rocky cliffs and shores. It is Critically endangered.
   
   
   
-[Serengan](coastal/flemingia/flemingia.htm)   
+[Serengan](coastal/flemingia/flemingia)   
 *Flemingia strobilifera*
 
  
@@ -215,47 +200,47 @@ index of
 plants on this site
 
 [all
-plants](plantfi.htm)  
+plants](plantfi)  
   
 **mangrove
 & seashore plants**   
-[creepers](shorefi1.htm)  
-[climbers, vines](shorefi2.htm)  
-[herbs](shorefi3.htm)  
-[ferns](shorefi7.htm)  
-[palms, pandans](shorefi4.htm)  
+[creepers](shorefi1)  
+[climbers, vines](shorefi2)  
+[herbs](shorefi3)  
+[ferns](shorefi7)  
+[palms, pandans](shorefi4)  
   
 **mangrove
 &** **seashore
   
 shrubs<2m**  
-[thick/leathery leaves](shorefi5a.htm)  
+[thick/leathery leaves](shorefi5a)  
 thin leaves  
   
 **seashore
   
 trees>2m**   
 type of leaves  
-[small simple](shorefi6b.htm)  
-[large simple](shorefi6c.htm)  
-[compound, others](shorefi6d.htm)   
+[small simple](shorefi6b)  
+[large simple](shorefi6c)  
+[compound, others](shorefi6d)   
   
 **mangrove
 trees**  
-small oval fruits and [pneumatophores](mangfi6a.htm)  
+small oval fruits and [pneumatophores](mangfi6a)  
   
 long cylindrical fruits  
-with [knee roots](mangfi6b.htm)  
-with [buttressed roots](mangfi6c.htm)  
-with [stilt roots](mangfi6d.htm)  
+with [knee roots](mangfi6b)  
+with [buttressed roots](mangfi6c)  
+with [stilt roots](mangfi6d)  
   
-[large round fruits](mangfi6f.htm)  
+[large round fruits](mangfi6f)  
   
-[others](mangfi7a.htm)
+[others](mangfi7a)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

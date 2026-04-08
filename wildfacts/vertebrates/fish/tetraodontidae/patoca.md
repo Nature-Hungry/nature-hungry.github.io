@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "milk, spotted, pufferfish, puffer, fish, chelonodon, patoca, tetraodontidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm) >
-Family [Tetraodontidae](tetraodontidae.htm)
+> Subphylum Vertebrata > [fishes](../fish) >
+Family [Tetraodontidae](tetraodontidae)
 **Milk-spotted
 pufferfish  
 *Chelonodon patoca***  
@@ -91,7 +91,7 @@ Chek Jawa, Dec 2024*Photo shared by Marcus Ng on [facebook](https://www.facebook
 ---
 
 ![](patoca/160705ecplks3.jpg)  
-*East Coast Park, Jul 16*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2016/07/my-favourites-on-east-coasts-reclaimed.html).
+*East Coast Park, Jul 16*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2016/07/my-favourites-on-east-coasts-reclaimedl).
 
 ![](patoca/180909ecpdc2.jpg)  
 *East Coast Park, Sep 19*Photo shared by Dayna Cheah on [facebook](https://www.facebook.com/photo.php?fbid=1744179082365527&set=a.1744178422365593&type=3&theater).
@@ -109,7 +109,7 @@ Chek Jawa, Dec 2024*Photo shared by Marcus Ng on [facebook](https://www.facebook
 **Links**  
 
 - [Milk-spotted
-  Puffer (*Chelonodon patoca*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/397.htm) Lim, Kelvin K. P. & Jeffrey
+  Puffer (*Chelonodon patoca*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/397) Lim, Kelvin K. P. & Jeffrey
   K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/)*. Singapore
   Science Centre. 163 pp.
@@ -130,9 +130,9 @@ Chek Jawa, Dec 2024*Photo shared by Marcus Ng on [facebook](https://www.facebook
   & Fishermen*
   New Holland Publishers. 434pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

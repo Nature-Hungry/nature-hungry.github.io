@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "feather, star, featherstar, himerometra. robustipinna, comatulida, crinoidea, crinoid, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 crinoids
-[text index](../echinodermindex.htm#crinoidea) | [photo
-index](../crinoideafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class Crinoidea > Order [Comatulida](crinoidea.htm)
+[text index](../echinodermindex#crinoidea) | [photo
+index](../crinoideafi)
+Phylum [Echinodermata](../echinodermata)
+> Class Crinoidea > Order [Comatulida](crinoidea)
 **Red
 feather star**  
 ***Himerometra
@@ -43,12 +30,12 @@ With more than 30 arms. The cirri on the underside is banded. The
 entire animal usually uniformly red, sometimes bright red, sometimes
 very dark red. Or mostly red with some yellowish body parts.  
   
-**Feather friend:** Sometimes, a tiny [Crinoid shrimp](../../crustacea/othercrust/shrimp/crinoid.htm) is seen living in this feather star. It closely resembles the feather star in colour and pattern.
+**Feather friend:** Sometimes, a tiny [Crinoid shrimp](../../crustacea/othercrust/shrimp/crinoid) is seen living in this feather star. It closely resembles the feather star in colour and pattern.
 ![](red/080425cyrd1818m3.jpg)  
  *Cyrene Reef, Apr 08*
 
 ![](../../crustacea/othercrust/shrimp/crinoid/120123hntd5749m3.jpg)  
-Well-camouflaged [Crinoid shrimp](../../crustacea/othercrust/shrimp/crinoid.htm). *Pulau Hantu,
+Well-camouflaged [Crinoid shrimp](../../crustacea/othercrust/shrimp/crinoid). *Pulau Hantu,
 Jan 12*
 
 ![](red/120123hntd5773m3.jpg)  
@@ -104,7 +91,7 @@ shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/54644
 *![](red/110220lazjk2m3.jpg)  
 Lazarus Island, Feb 11*Photo
 shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2011/02/110220-lazarus-and-seringat-kias.html)
+blog](http://sgn090608.blogspot.com/2011/02/110220-lazarus-and-seringat-kiasl)
 
 ---
 
@@ -122,7 +109,7 @@ shared by Jianlin Liu on [facebook](https://www.facebook.com/photo.php?fbid=1015
 *Kusu Island,
 Jun 10*Photo
 shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/05/spectacular-coral-reef-of-kusu.html).
+blog](http://wondercreation.blogspot.com/2010/05/spectacular-coral-reef-of-kusul).
 
 ![](red/120408sjirl1m3.jpg)  
 *St. John's
@@ -137,7 +124,7 @@ shared by Russel Low on [facebook](https://www.facebook.com/media/set/?set=a.355
 ![](red/070812sislks01m3.jpg)  
  *Sisters Island, Aug 07*  
 Photos shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2007/08/predawn-at-little-sisters.html).
+blog](http://wondercreation.blogspot.com/2007/08/predawn-at-little-sistersl).
 
 ![](red/240528tslrk3.jpg)  
 *Terumbu Selegie, May 24*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/media/set/?set=a.10161168216927906).
@@ -161,7 +148,7 @@ shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media
 Terumbu Bemban,
 Apr 11*  
 Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/04/corals-galore-at-terumbu-bemban.html).
+blog](http://wondercreation.blogspot.com/2011/04/corals-galore-at-terumbu-bembanl).
 
 ![](red/150620tbrl1m3.jpg)  
 *Terumbu Bemban, Jun 15*Photo
@@ -216,7 +203,7 @@ Hantu, Apr 10
 **Links**
 
 - [*Himerometra
-  robustipinna*](http://www.sealifebase.org/summary/Himerometra-robustipinna.html) on SeaLife Base: Technical fact sheet.
+  robustipinna*](http://www.sealifebase.org/summary/Himerometra-robustipinnal) on SeaLife Base: Technical fact sheet.
 
 **References**
 
@@ -225,14 +212,4 @@ Hantu, Apr 10
   Guide to Sea Stars and Other Echinoderms of Singapore*.
   Singapore Science Centre. 187pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

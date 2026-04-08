@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "tripodfish, tripod, fish, triacanthidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm)
+> Subphylum Vertebrata > [fishes](../fish)
 **Tripodfishes**  
 **Family Triacanthidae***updated
 Nov 2020*
@@ -110,7 +110,7 @@ by Richard Kuah on [facebook](https://www.facebook.com/photo?fbid=10158588709317
 *![](triacanthidae/090514prplks3m3.jpg)  
 Pasir Ris, May 09*Shared
 by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/05/pasir-ris-after-rain.html).
+blog](http://wondercreation.blogspot.com/2009/05/pasir-ris-after-rainl).
 
 *![](triacanthidae/260103prpezxh7.jpg)**Pasir Ris Park (E), Jan 26*Photo shared by Zen Xuan He on [facebook](https://www.facebook.com/chen.octavius/posts/pfbid02Xk1FZFUNxFyzNF79p7xKKrgSHQwtny66aMjd53N1FqTt8LYgzVE2YBCJhm6kLwWVl?__cft__[0]=AZaMLvwm5dU4ewsFygUWTtA6CvZ-9DYZ4EAMT3iO5-R669bhl4Ak8-nuU9x4NGTDfcnRAeyYu9tvPcKddFAtTlQmIhnHq7yJddmQV6vDErZvsiIeuUoto3kIRMf-ftVxqBQ&__tn__=%2CO%2CP-R).
 
@@ -144,7 +144,7 @@ by Che Cheng Neo on [facebook](https://www.facebook.com/photo/?fbid=101598225926
 
 *![](triacanthidae/090918tmjk8m3.jpg)*  
 *Tanah Merah, Sep 09*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/09/tanah-merah-thing-for-seahorses.html).
+blog](http://sgn090608.blogspot.com/2009/09/tanah-merah-thing-for-seahorsesl).
 
 ---
 
@@ -178,12 +178,12 @@ Tripodichthys blochii* (Longtail tripodfish)
 **Links**  
 
 - [Longtail
-  Tripodfish (*Tripodichthys blochii*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/391.htm) Lim, Kelvin K. P.
+  Tripodfish (*Tripodichthys blochii*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/391) Lim, Kelvin K. P.
   & Jeffrey K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
 - [Tripodfish
-  (*Triacanthus* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/238.htm) Tan, Leo W. H. & Ng, Peter K. L.,
+  (*Triacanthus* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/238) Tan, Leo W. H. & Ng, Peter K. L.,
   1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
@@ -196,7 +196,7 @@ Tripodichthys blochii* (Longtail tripodfish)
   blochii* (Long-tail tripodfish)](http://www.fishbase.org/summary/8413) from [FishBase](http://www.fishbase.org/):
   Technical fact sheet on the family.
 - [Volume
-  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.htm) FAO Species
+  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
   Identification Guide for Fishery Purposes The Living Marine Resources
   of the Western Central Pacific.
 
@@ -210,9 +210,9 @@ Tripodichthys blochii* (Longtail tripodfish)
   Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
   Periplus Editions. 292 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

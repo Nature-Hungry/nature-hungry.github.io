@@ -9,25 +9,25 @@ layout: default
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../index.html)  
+[wildfactsheets homepage](../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
+[all animals](../../animals)
+| [all plants](../../plants)
+| [concepts](../../concepts/indexl)
+| [glossary](../../glossary/indexl)
+| [search](../../search)
 
 seagrasses
-[text index](seagrassindex.htm) | [photo
-index](seagrassfi.htm)
+[text index](seagrassindex) | [photo
+index](seagrassfi)
 
-[Seagrasses](seagrass.htm)
+[Seagrasses](seagrass)
 > Family Hydrocharitaceae
 **Tape
 seagrass on Singapore shores**  
-back to [general info on tape seagrass](enhalus.htm)  
+back to [general info on tape seagrass](enhalus)  
 
 ---
 
@@ -35,11 +35,11 @@ back to [general info on tape seagrass](enhalus.htm)
 *Pulau Hantu, Mar 06*
 
 ![](../seaweed/rhodophyta/encrust/081030sntd1456m3a.jpg)  
-[Encrusting red algae.](../seaweed/rhodophyta/encrust.htm) *Sentosa, Oct 08*
+[Encrusting red algae.](../seaweed/rhodophyta/encrust) *Sentosa, Oct 08*
 
 ![](enhalus/100213tmd9338m3.jpg)  
 Egg capsules of [Dubious
-nerites](../../mollusca/gastropoda/neritidae/oualaniensis.htm). *Tanah Merah, Feb 10*
+nerites](../../mollusca/gastropoda/neritidae/oualaniensis). *Tanah Merah, Feb 10*
 
 ---
 
@@ -54,7 +54,7 @@ Unidentified organisms.
 *Pulau Semakau, Feb 09*
 
 back to
-[general info on tape seagrass](enhalus.htm)
+[general info on tape seagrass](enhalus)
 
 [www.**flickr**.com](http://www.flickr.com)  
 
@@ -65,14 +65,4 @@ Make your own badge [here](http://www.flickr.com/badge.gne).
 **You CAN make a difference for Singapore's
 seagrasses!**[![](../../../Templates/teamsg.jpg)](http://teamseagrass.blogspot.com/)
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "dragonet, fish, callionymidae, callionymus, enneactis,field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Callionymidae](callionymidae.htm)
+> Subphylum Vertebrate > [fishes](../fish) >
+Family [Callionymidae](callionymidae)
 **Mosaic
 dragonet  
 *Callionymus enneactis\****  
@@ -45,8 +45,8 @@ According to Ng, this species is distinguished from the other dragonets
 of Singapore in having a combination of a narrow snout, dark saddles
 on the body, and dark markings on the anal fin.  
   
-**Sometimes mistaken** for [flatheads](../platycephalidae/platycephalidae.htm) (Family Platycephalidae). Here's more on [how
-to tell apart fish with flat heads](../cfflatheads.htm).
+**Sometimes mistaken** for [flatheads](../platycephalidae/platycephalidae) (Family Platycephalidae). Here's more on [how
+to tell apart fish with flat heads](../cfflatheads).
 ![](mosaic/140418sntd4610m3.jpg)  
 Tiny one among seaweeds. *Sentosa, Apr 14*
 ![](mosaic/091008tmd2380m6l.jpg)  
@@ -78,7 +78,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 ![](mosaic/091104sntjk2m3.jpg)  
 *Sentosa,
 Nov 09*Photos shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/11/091104-sentosa-peering-into-algae.html).
+blog](http://sgn090608.blogspot.com/2009/11/091104-sentosa-peering-into-algael).
 
 ![](mosaic/200112sjimn3.jpg)  
 *St. John's Island, Jan 20*Photos shared by Marcus Ng on [facebook](https://www.facebook.com/photo.php?fbid=10156971331138660&set=a.10156971328013660&type=3&theater).
@@ -140,9 +140,9 @@ fishes.**Links**
   dragonets of Singapore (Actinopterygii: Perciformes: Callionymidae)*.
   Nature in Singapore, 5: 27-38. [PDF, 1.55 MB]
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

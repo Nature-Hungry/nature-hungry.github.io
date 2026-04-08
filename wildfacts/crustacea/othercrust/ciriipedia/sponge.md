@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "sponge, barnacle, membranobalanus, longirostrum, archaeobalanidae, cirripedia, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 barnacles [text
-index](../../crustaceaindex.htm#cirripedia) | [photo index](../../cirripediafi.htm)
+index](../../crustaceaindex#cirripedia) | [photo index](../../cirripediafi)
 Phylum
-[Arthropoda](../../../arthropoda/arthropoda.htm) > Subphylum
-[Crustacea](../../crustacea.htm) > Class
-[Cirripedia](cirripedia.htm)
+[Arthropoda](../../../arthropoda/arthropoda) > Subphylum
+[Crustacea](../../crustacea) > Class
+[Cirripedia](cirripedia)
 **Sponge
 barnacle  
 *Membranobalanus longirostrum*  
@@ -90,7 +90,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 **Links**
 
-- *[Membranobalanus longirostrum](http://www.sealifebase.org/summary/Membranobalanus-longirostrum.html)* on SeaLife Base: Technical fact sheet.
+- *[Membranobalanus longirostrum](http://www.sealifebase.org/summary/Membranobalanus-longirostruml)* on SeaLife Base: Technical fact sheet.
 
 **References**
   
@@ -100,9 +100,9 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
   Guide to Sponges of Singapore*. Singapore Science Centre.
   173pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

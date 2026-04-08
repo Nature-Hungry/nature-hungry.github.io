@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "white, stem, sausage, seaweed, weed, green, neomeris, dasycladaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 green
-seaweeds [text index](../seaweedindex.htm) | [photo
-index](../seaweedfi.htm)
-[Seaweeds](../seaweed.htm)
-> Division [Chlorophyta](chlorophyta.htm)
+seaweeds [text index](../seaweedindex) | [photo
+index](../seaweedfi)
+[Seaweeds](../seaweed)
+> Division [Chlorophyta](chlorophyta)
 **'Taugeh'
 seaweed  
 *Neomeris* sp.\*  
@@ -56,7 +56,7 @@ that produce spores (sporangium).
 According to [AlgaeBase](http://www.algaebase.org/search/genus/detail/?genus_id=35954),
 there are 7 current *Neomeris* species. The species are hard to tell apart in the field.  
   
-**Sometimes confused with** [green sea sausage seaweeds](bornetella.htm) (*Bornetella* sp.) but these are completely green and don't have white stems.   
+**Sometimes confused with** [green sea sausage seaweeds](bornetella) (*Bornetella* sp.) but these are completely green and don't have white stems.   
   
 Neomeris is the name of one of the 50 Greek nymphs or sea
 goddesses collectively called the Nereides.
@@ -170,9 +170,9 @@ Neomeris vanbosseae*
   Guide and Atlas of the Seaweed Resources of the Philippines.*.
   Bookmark, Inc., the Philippines. 306 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,26 +4,11 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 hard corals [text
-index](coralhardindex.htm) | [photo index](cnidariafi1.htm)
+index](coralhardindex) | [photo index](cnidariafi1)
 Phylum
-[Cnidaria](cnidaria.htm) >
-Class [Anthozoa](anthozoa.htm) > Subclass Zoantharia/Hexacorallia
+[Cnidaria](cnidaria) >
+Class [Anthozoa](anthozoa) > Subclass Zoantharia/Hexacorallia
 **Photo
 index of hard corals on Singapore shores** **Colony
 unattached to the bottom** (mushroom corals)
@@ -34,19 +19,19 @@ unattached to the bottom** (mushroom corals)
   
 ![](coralhard/fungiidae/circular/031224sisd0090ma.jpg)  
 [Circular  
-mushroom coral](coralhard/fungiidae/circular.htm)  
+mushroom coral](coralhard/fungiidae/circular)  
 *Fungia* sp.
 
 ![](coralhard/fungiidae/heliofungia/040801hntd3805m.jpg)  
   
 ![](coralhard/fungiidae/heliofungia/040801hntd3805ma.jpg)  
 [Sunflower   
-mushroom coral](coralhard/fungiidae/heliofungia.htm)  
+mushroom coral](coralhard/fungiidae/heliofungia)  
 *Heliofungia actiniformi*s
 
 ![](coralhard/merulinidae/geoffroyi/051204sisg3272m.jpg)  
   
-![](coralhard/merulinidae/geoffroyi/051204sisg3272ma.jpg) [Cabbage brain coral](coralhard/merulinidae/geoffroyi.htm)  
+![](coralhard/merulinidae/geoffroyi/051204sisg3272ma.jpg) [Cabbage brain coral](coralhard/merulinidae/geoffroyi)  
 *Trachyphyllia   
 geoffroyi*
 
@@ -73,28 +58,28 @@ the polyp inflates into smooth curved shapes. Seen on our Southern shores.
   
 ![](coralhard/fungiidae/ctenactis/051204sisg3261m.jpg)  
 [Feather  
-mushroom coral](coralhard/fungiidae/ctenactis.htm)  
+mushroom coral](coralhard/fungiidae/ctenactis)  
 *Ctenactis* sp.
 
 ![](coralhard/fungiidae/oval/060402ulrd0962m.jpg)  
   
 ![](coralhard/fungiidae/oval/060402ulrd0962ma.jpg)  
 [Oval fungia  
-mushroom coral](coralhard/fungiidae/oval.htm)  
+mushroom coral](coralhard/fungiidae/oval)  
 *Fungia* sp.
 
 ![](coralhard/fungiidae/herpolitha/040606kusg0472m.jpg)  
   
 ![](coralhard/fungiidae/herpolitha/040606kusg0472ma.jpg)  
 [Tongue  
-mushroom coral](coralhard/fungiidae/herpolitha.htm)  
+mushroom coral](coralhard/fungiidae/herpolitha)  
 *Herpolitha* sp.
 
 ![](coralhard/fungiidae/polyphyllia/050312hntg3321mb.jpg)  
   
 ![](coralhard/fungiidae/polyphyllia/050312hntg3321m.jpg)  
 [Mole  
-mushroom coral](coralhard/fungiidae/polyphyllia.htm)  
+mushroom coral](coralhard/fungiidae/polyphyllia)  
 *Polyphyllia* sp.
 
  
@@ -127,7 +112,7 @@ Seen on our Southern shores.
 ---
 
 **how to tell apart** [long
-mushroom corals](coralhard/fungiidae/cflong.htm)
+mushroom corals](coralhard/fungiidae/cflong)
   
   
   
@@ -137,35 +122,35 @@ index of
 cnidarians on this site
 
 **Phylum
-Cnidaria****[with hard skeleton](cnidariafi1.htm)  
+Cnidaria****[with hard skeleton](cnidariafi1)  
   
 polyp shape**[long
-tentacles](coralhardfi1.htm)  **colony shape**
+tentacles](coralhardfi1)  **colony shape**
  
-[**leafy**](coralhardfi3.htm) **[crinkled](coralhardfi4.htm)  
- [plate](coralhardfi5.htm)** **branching**
+[**leafy**](coralhardfi3) **[crinkled](coralhardfi4)  
+ [plate](coralhardfi5)** **branching**
  
 [thick
-branches](coralhardfi2.htm)  
-[thin branches](gorgonaceafi.htm)
+branches](coralhardfi2)  
+[thin branches](gorgonaceafi)
  
 **boulder**
  
 Corallite
 shape=   
-[ring](coralhardfi6.htm)  
-[hexagonal](coralhardfi7.htm)   
- [brain or maze](coralhardfi8.htm)
+[ring](coralhardfi6)  
+[hexagonal](coralhardfi7)   
+ [brain or maze](coralhardfi8)
   
-[others](coralhardfi9.htm)
+[others](coralhardfi9)
   
 **colony
 unattached**   
 (mushroom hard coral)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

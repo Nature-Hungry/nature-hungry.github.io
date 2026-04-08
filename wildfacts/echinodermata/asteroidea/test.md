@@ -9,20 +9,20 @@ layout: default
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../index.html)  
+[wildfactsheets homepage](../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
+[all animals](../../animals)
+| [all plants](../../plants)
+| [concepts](../../concepts/indexl)
+| [glossary](../../glossary/indexl)
+| [search](../../search)
 
 sea
-stars [text index](../echinodermindex.htm) | [photo
-index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm) > Class Stelleroida > Subclass [Asteroidea](asteroidea.htm)
+stars [text index](../echinodermindex) | [photo
+index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata) > Class Stelleroida > Subclass [Asteroidea](asteroidea)
 **Biscuit
 sea star  
 *Goniodiscaster scaber*  
@@ -58,9 +58,9 @@ have been observed clasping coral rubble coated with encrusting animals.
 They may be feeding on these organisms. We don't really know for sure.  
   
 **Sometimes confused with** the [Spiny
-sea star](gymnanthenea.htm) (*Gymnanthenea laevis*) and the [Cake
-sea star](anthenea.htm) (*Anthenea aspera*). Here's more on [how
-to tell apart large sea stars](cfbigstars.htm) seen on our shores.
+sea star](gymnanthenea) (*Gymnanthenea laevis*) and the [Cake
+sea star](anthenea) (*Anthenea aspera*). Here's more on [how
+to tell apart large sea stars](cfbigstars) seen on our shores.
 
 *![](goniodiscaster/050624tusg8536m3.jpg)  
 Tuas, Jun 05   
@@ -112,14 +112,14 @@ Sightings shared by others:
 *![](goniodiscaster/081114cyrlks01m3.jpg)  
 Cyrene Reef, Nov 08  
 ![](goniodiscaster/081114cyrlks02m3.jpg)*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2008/11/evening-with-cyrene.html).
+blog](http://wondercreation.blogspot.com/2008/11/evening-with-cyrenel).
 
 ---
 
 **Links**
 
 - [*Goniodiscaster
-  scaber*](http://www.sealifebase.org/summary/Goniodiscaster-scaber.html)
+  scaber*](http://www.sealifebase.org/summary/Goniodiscaster-scaberl)
   on SeaLife Base: Technical fact sheet
 
 **References**
@@ -137,14 +137,4 @@ blog](http://wondercreation.blogspot.com/2008/11/evening-with-cyrene.html).
 
 FREE photos of  [sea stars](http://www.flickr.com/photos/54527470@N00/sets/72157594585788029). Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

@@ -4,27 +4,14 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "horseshoe, king, crab, limulidae,  xiphosura, merostomata, chelicerate, arthropod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 arthropods
-[text index](../arthropodaindex.htm) | [photo
-index](../arthropodafi.htm)
-Phylum [Arthropoda](../arthropoda.htm)
+[text index](../arthropodaindex) | [photo
+index](../arthropodafi)
+Phylum [Arthropoda](../arthropoda)
 | Class Merostomata | Order Xiphosura > Family Limulidae | about
-[moulting](../../crustacea/moulting.htm)
+[moulting](../../crustacea/moulting)
 **Horseshoe
 crabs   
 Family Limulidae***updated
@@ -46,13 +33,13 @@ mangroves.
   
 **What is a horseshoe crab?** The
 horseshoe crab is a strange, ancient creature that has been around
-since before the dinosaurs. It is not a crab or even a [crustacean](../../crustacea/crustacea.htm).
+since before the dinosaurs. It is not a crab or even a [crustacean](../../crustacea/crustacea).
 It is more closely related to spiders and scorpions of the Class Arachnida.   
   
 There are only four species of living horseshoes crabs in the world. *Limulus polyphemus* is found on the Atlantic coast. In Southeast
 Asia there are three: the [Mangrove horseshoe
-crab](carcinoscorpius.htm) (*Carcinoscorpius rotundicauda*) which is also the smallest
-horseshoe, and the [Coastal horseshoe crab](tachypleus.htm) (*Tachypleus gigas*) and in Japan, China and southern Sabah are
+crab](carcinoscorpius) (*Carcinoscorpius rotundicauda*) which is also the smallest
+horseshoe, and the [Coastal horseshoe crab](tachypleus) (*Tachypleus gigas*) and in Japan, China and southern Sabah are
 found the Chinese horseshoe (*Tachypleus tridentatus*).  **Features:** Adult body 15-25cm in diameter. Its shape is
 ideal for bulldozing through the mud and sand, and clinging to the
 bottom in rough water. It probably got its common name because its
@@ -67,8 +54,8 @@ It takes about 7 years to reach maximum size. Sometimes, you might
 come across what appears to be dead horseshoe crabs on the shore.
 These might just be moults. Moults are lightweight, have transparent
 eyes and no bad smell. [More
-about moulting](../../crustacea/moulting.htm).  
- **Sometimes confused with** [stingrays](../../vertebrates/fish/dasyatidae/dasyatidae.htm).
+about moulting](../../crustacea/moulting).  
+ **Sometimes confused with** [stingrays](../../vertebrates/fish/dasyatidae/dasyatidae).
 In murky waters, these two different animals do have a similar profile,
 both being round and flat with a long tail. Stingrays are fishes that
 are related to sharks.  
@@ -164,16 +151,16 @@ Although the adults have few natural predators (apparently, only sharks
 and turtles will eat adults), their eggs and hatchlings are eaten
 by many creatures. Various creatures may settle on a horseshoe crab
 including [slipper
-snails](../../mollusca/gastropoda/calyptraeidae/calyptraeidae.htm), [barnacles](../../crustacea/othercrust/ciriipedia/cirripedia.htm), [keelworms](../../worm/polychaeta/serpulidae.htm) and other
+snails](../../mollusca/gastropoda/calyptraeidae/calyptraeidae), [barnacles](../../crustacea/othercrust/ciriipedia/cirripedia), [keelworms](../../worm/polychaeta/serpulidae) and other
 encrusting plants and animals.  
   
 **Why
 are there so many 'dead' horseshoe crabs?** You might come across what
 appears to be dead horseshoe crabs strewn on the shore. These are often not dead horseshoe crabs but merely their discarded skins!
-Like other [arthropods](../arthropoda/arthropoda.htm),
+Like other [arthropods](../arthropoda/arthropoda),
 they a hard exoskeleton (external skeleton) and need to shed
 their exoskeleton in order to grow bigger. Called moulting, this also
-allows the animal to regenerate lost limbs. More about [moulting](moulting.htm).  
+allows the animal to regenerate lost limbs. More about [moulting](moulting).  
   
 **Human
 uses:** Horseshoe crab blood has a substance that is so sensitive
@@ -181,7 +168,7 @@ to bacteria that purified extracts of the blood are used to test for
 the presence of bacteria in human medication (e.g., intravenous fluids)
 and in medical tests. For more on how this test was discovered and
 exactly how it works, see the [Horseshoe
-Crab website](http://www.horseshoecrab.org/med/med.html). About 200,000 crabs are bled every year for this
+Crab website](http://www.horseshoecrab.org/med/medl). About 200,000 crabs are bled every year for this
 substance. About 20% of a horseshoe's blood is extracted and in the
 US, laws require that the animal be returned to the sea. But about
 10% die in the process. A team from the National University of Singapore's
@@ -193,8 +180,8 @@ Much of the basic principles of vision is based on studies of the
 horseshoe crab's eyes.  
   
 **Status and threats:** The [Coastal
-horseshoe crab](tachypleus.htm) (*Tachypleus gigas*) is listed as 'Endangered'
-and the [Mangrove horseshoe crab](carcinoscorpius.htm) (*Carcinoscorpius rotundicauda*) as 'Vulnerable' on the Red List
+horseshoe crab](tachypleus) (*Tachypleus gigas*) is listed as 'Endangered'
+and the [Mangrove horseshoe crab](carcinoscorpius) (*Carcinoscorpius rotundicauda*) as 'Vulnerable' on the Red List
 of threatened animals of Singapore. Populations of these ancient creatures
 in Singapore have been severely reduced over the last two decades
 due to habitat loss.  
@@ -229,11 +216,11 @@ crabs on Singapore shores**
 ![](tachypleus/090428chgd0767m3e.jpg)
 
 **[Mangrove
-horseshoe crab](carcinoscorpius.htm)**  
+horseshoe crab](carcinoscorpius)**  
 (*Carcinoscorpius rotundicauda*)
 
 **[Coastal
-horseshoe crab](tachypleus.htm)**  
+horseshoe crab](tachypleus)**  
 (*Tachypleus gigas*)
 
 *![](carcinoscopius/050726chgg0358m3a.jpg)*
@@ -281,7 +268,7 @@ special legs for holding onto the female
 has one 'finger'.
 
   
-These distinguishing features from [taxo4254](https://singapore.biodiversity.online/taxo4254/mainSpace/Carcinoscorpius%20rotundicauda.html)  
+These distinguishing features from [taxo4254](https://singapore.biodiversity.online/taxo4254/mainSpace/Carcinoscorpius%20rotundicaudal)  
 
 ---
 
@@ -297,8 +284,8 @@ animals of Singapore from Ng, P. K. L. & Y. C. Wee, 1994.
 Limulidae**
  
 *[Carcinoscopius
-rotundicauda](carcinoscorpius.htm)* (Mangrove horseshoe crab) (VU:
-Vulnerable) *[Tachypleus gigas](tachypleus.htm)*(Coastal horseshoe crab) (EN: Endangered)
+rotundicauda](carcinoscorpius)* (Mangrove horseshoe crab) (VU:
+Vulnerable) *[Tachypleus gigas](tachypleus)*(Coastal horseshoe crab) (EN: Endangered)
 
 ---
 
@@ -308,17 +295,17 @@ Vulnerable) *[Tachypleus gigas](tachypleus.htm)*(Coastal horseshoe crab) (EN: En
 crabs in general**
 
 - [Tai
-  Ho Wan: breeding and nursery ground of horseshoe crabs](http://www.hku.hk/ecology/porcupine/por20/arthropods.htm) by
+  Ho Wan: breeding and nursery ground of horseshoe crabs](http://www.hku.hk/ecology/porcupine/por20/arthropods) by
   Terence Ching-wai Fong on the University of Hong Kong website:
   a study of breeding of *Tachypleus* and *Carcinoscorpius*.
 - [Nursery
-  beaches for Horseshoe crabs in Hong Kong](http://www.hku.hk/ecology/porcupine/por18/crabs.htm) by Huang Qin, Helen
+  beaches for Horseshoe crabs in Hong Kong](http://www.hku.hk/ecology/porcupine/por18/crabs) by Huang Qin, Helen
   Chiu and Brian Morton on the Porcupine Homepage of the Department
   of Ecology & Biodiversity, The University of Hong Kong website:
   examines some of the possible causes of the decline in horseshoe
   crabs in Hong Kong.
 - [Oldest
-  Horseshoe Crab Fossil Discovered](http://wildsingaporenews.blogspot.com/2008/01/oldest-horseshoe-crab-fossil-discovered.html) Jeanna Bryner, LiveScience
+  Horseshoe Crab Fossil Discovered](http://wildsingaporenews.blogspot.com/2008/01/oldest-horseshoe-crab-fossil-discoveredl) Jeanna Bryner, LiveScience
   Yahoo News 28 Jan 08;
 
 **About the
@@ -329,10 +316,10 @@ Singapore breakthrough in cloning Factor C**
 **More about
 Singapore's horseshoe crabs**
 
-- [Project to save horseshoe crab wins green prize in Singapore](http://wildsingaporenews.blogspot.sg/2017/02/project-to-save-horseshoe-crab-wins.html) Toh Wen Li, Straits Times 23 Feb 17.
-- [Nature Society on mission to save horseshoe crabs](http://wildsingaporenews.blogspot.sg/2016/10/nature-society-on-mission-to-save.html) To conserve them better, society finds out more about the animals, urges other countries to do so too,
+- [Project to save horseshoe crab wins green prize in Singapore](http://wildsingaporenews.blogspot.sg/2017/02/project-to-save-horseshoe-crab-winsl) Toh Wen Li, Straits Times 23 Feb 17.
+- [Nature Society on mission to save horseshoe crabs](http://wildsingaporenews.blogspot.sg/2016/10/nature-society-on-mission-to-savel) To conserve them better, society finds out more about the animals, urges other countries to do so too,
   Audrey Tan Straits Times 10 Oct 16
-- [Nature Society horseshoe crab survey](http://wildsingaporenews.blogspot.sg/2012/03/nature-society-horseshoe-crab-survey.html) Keeping tabs on coastal scavengers,
+- [Nature Society horseshoe crab survey](http://wildsingaporenews.blogspot.sg/2012/03/nature-society-horseshoe-crab-surveyl) Keeping tabs on coastal scavengers,
   Nature Society survey finds all stages of horseshoe crab along the shores,
   Jose Hong Straits Times 31 Mar 12.
 - Oh Rui Ying, Rachel, 2011. [*Carcinoscorpius rotundicauda* (Xiphosura: Limulidae) Mangrove Horseshoe Crab](https://taxo4254.wikispaces.com/Carcinoscorpius+rotundicauda). Taxo4254.
@@ -342,13 +329,13 @@ Singapore's horseshoe crabs**
   Cartwright-Taylor, Yap Von Bing, Hsu Chia Chi, Lou Sieu Tee, Aquatic
   Biology Vol. 13: 127-136, 2011 doi: 10.3354/ab00346
 - [Mangrove
-  horseshoe crab *Carcinoscorpius rotundicauda*](http://mangrove.nus.edu.sg/guidebooks/text/2076.htm)
+  horseshoe crab *Carcinoscorpius rotundicauda*](http://mangrove.nus.edu.sg/guidebooks/text/2076)
   Ng,
   Peter K. L. & N. Sivasothi, 1999. *[A
   Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
   Singapore Science Centre. 168 pp.
 - [Horseshoe
-  Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/175.htm) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+  Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/175) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [Horseshoe
@@ -361,22 +348,22 @@ Singapore's horseshoe crabs**
 - On the wild
   shores of singapore blog
   - [Results
-    of Horseshoe Crab Survey by Nature Society (Singapore)](http://wildshores.blogspot.sg/2009/05/results-of-horseshoe-crab-survey-by.html)
+    of Horseshoe Crab Survey by Nature Society (Singapore)](http://wildshores.blogspot.sg/2009/05/results-of-horseshoe-crab-survey-byl)
   - [Bivalve
-    Workshop at Kranji with horseshoe crab rescue](http://wildshores.blogspot.sg/2012/07/bivalve-workshop-at-kranji-with.html)
+    Workshop at Kranji with horseshoe crab rescue](http://wildshores.blogspot.sg/2012/07/bivalve-workshop-at-kranji-withl)
   - [Horseshoe
-    crab eggs seen at Mandai mangroves!](http://wildshores.blogspot.sg/2011/04/horseshoe-crab-eggs-seen-at-mandai.html)
+    crab eggs seen at Mandai mangroves!](http://wildshores.blogspot.sg/2011/04/horseshoe-crab-eggs-seen-at-mandail)
   - [Horseshoe
-    crabs at Kranji: what are they up to?](http://wildshores.blogspot.sg/2011/02/horseshoe-crabs-at-kranji-what-are-they.html)
+    crabs at Kranji: what are they up to?](http://wildshores.blogspot.sg/2011/02/horseshoe-crabs-at-kranji-what-are-theyl)
 
 **About other
 horseshoe crab species not found in Singapore**
 
 - [US
-  bans harves of horseshoe crabs to save rare shore bird](http://wildsingaporenews.blogspot.com/2008/03/us-bans-harves-of-horseshoe-crabs-to.html) Jon
+  bans harves of horseshoe crabs to save rare shore bird](http://wildsingaporenews.blogspot.com/2008/03/us-bans-harves-of-horseshoe-crabs-tol) Jon
   Hurdle, Reuters 25 Mar 08;
 - [East
-  coast horseshoe crabs poised for recovery](http://wildsingaporenews.blogspot.com/2008/05/east-coast-horseshoe-crabs-poised-for.html) Jon Hurdle, Reuters
+  coast horseshoe crabs poised for recovery](http://wildsingaporenews.blogspot.com/2008/05/east-coast-horseshoe-crabs-poised-forl) Jon Hurdle, Reuters
   27 May 08;
 
 **References**
@@ -386,14 +373,4 @@ horseshoe crab species not found in Singapore**
   Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
   The Nature Society (Singapore), Singapore. 343 pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

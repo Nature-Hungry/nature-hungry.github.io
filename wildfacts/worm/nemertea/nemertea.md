@@ -4,25 +4,12 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "ribbon, worm, ribbonworm, nemertine, nemertea, nemertean, nemertines,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 worms
-[text index](../wormindex.htm) | [photo
-index](../wormfi.htm)
-[worms](../worm.htm)
+[text index](../wormindex) | [photo
+index](../wormfi)
+[worms](../worm)
 > Phylum Nemertea
 **Ribbon
 worms  
@@ -45,9 +32,9 @@ They are more active at night. During the day, they burrow in the
 ground or remain in other hiding places.   
   
 **What are ribbon worms?** Ribbon
-worms are unsegmented [worms](../worm.htm) belonging to
+worms are unsegmented [worms](../worm) belonging to
 Phylum Nemertea. They are quite different from the segmented worms
-that we are more familiar with such as earthworms and [bristleworms](../polychaeta/polychaeta.htm).
+that we are more familiar with such as earthworms and [bristleworms](../polychaeta/polychaeta).
 These belong to Phylum Annelida. According to [the
 Nemertes website](http://nemertes.si.edu/), there are approximately 1,000 valid, described
 species of ribbon worms, with possibly several times this number that
@@ -113,18 +100,18 @@ ribbon worms can reproduce by fragmentation.
 
 ---
 
-***![](short/100213tmd9299m3a.jpg)*[Short ribbon worm](short.htm)**
+***![](short/100213tmd9299m3a.jpg)*[Short ribbon worm](short)**
 
-***![](redreef/050111labd9614m3.jpg)*[Red reef ribbon worm](redreef.htm)**
+***![](redreef/050111labd9614m3.jpg)*[Red reef ribbon worm](redreef)**
 
-***![](pink/060726chgd5005m3.jpg)*[Pink ribbon worm](pink.htm)**
+***![](pink/060726chgd5005m3.jpg)*[Pink ribbon worm](pink)**
 
 ---
 
-***![](twotone/080603prpd4699m3b.jpg)*** **[Two-toned ribbon worm](twotone.htm)**
+***![](twotone/080603prpd4699m3b.jpg)*** **[Two-toned ribbon worm](twotone)**
 
 ***![](verylong/091205sudd5587m3.jpg)*[Very
-long ribbon worm](verylong.htm)**
+long ribbon worm](verylong)**
 
 ---
 
@@ -145,10 +132,10 @@ examination.
 On this website, they are grouped by external features for convenience
 of display.*
  
-[Pink ribbon worm](pink.htm)  
-[Red reef ribbon worm](redreef.htm)  
-[Short ribbon worm](short.htm)   
-[Two-toned ribbon worm](twotone.htm)
+[Pink ribbon worm](pink)  
+[Red reef ribbon worm](redreef)  
+[Short ribbon worm](short)   
+[Two-toned ribbon worm](twotone)
   
  
 **Family
@@ -162,18 +149,18 @@ sp.* (EN: Endangered)
 Valenciniidae**
  
 +[*Baseodiscus
-quinquelineatus*](verylong.htm) (Very long ribbon worm)
+quinquelineatus*](verylong) (Very long ribbon worm)
 
 ---
 
 **Links**  
 
 - [Ribbon
-  worm](http://mangrove.nus.edu.sg/pub/seashore/text/125.htm)  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+  worm](http://mangrove.nus.edu.sg/pub/seashore/text/125)  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/t)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [Mangrove
-  ribbon worm (*Pantinonemertes*)](http://mangrove.nus.edu.sg/guidebooks/text/2003.htm) Ng, Peter K. L. & N.
+  ribbon worm (*Pantinonemertes*)](http://mangrove.nus.edu.sg/guidebooks/text/2003) Ng, Peter K. L. & N.
   Sivasothi, 1999. *[A
   Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
   Singapore Science Centre. 168 pp.
@@ -208,14 +195,4 @@ quinquelineatus*](verylong.htm) (Very long ribbon worm)
   of the Invertebrates*.
   5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

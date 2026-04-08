@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "mud, lobster, thalassina, anomala, gracilis, thalassinidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crustacea [text
-index](../../crustaceaindex.htm) | [photo index](../../crustaceafi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> [Lobsters](lobster.htm)
+index](../../crustaceaindex) | [photo index](../../crustaceafi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> [Lobsters](lobster)
 **Mud
 lobster**  
 ***Thalassina* sp.**  
@@ -49,7 +49,7 @@ are still commonly seen in the undisturbed back mangroves on our shores.
   
 **Features:** Up to 30cm long. The
 mud lobster is actually not a lobster but more of a giant shrimp.
-It is more closely related to [ghost shrimps](glypturus.htm) of the genus *Callianasa*. The mud lobster lives deep under the
+It is more closely related to [ghost shrimps](glypturus) of the genus *Callianasa*. The mud lobster lives deep under the
 mound in a U-shaped tunnel and rarely emerges above ground. According
 to the Singapore Red Data Book, there are two species of mudlobsters
 found in Singapore. *Thalassina gracilis* is smaller with a pointed
@@ -79,10 +79,10 @@ mound can be as tall as 2m above the ground! The mud lobster mound
 is drier than its surroundings so it makes a perfect home for other
 animals. Many animals can be found in living in these 'high-rise'
 mounds, creating their own burrows in the mound, sometimes complete
-with chimneys. 'Condo' dwellers include [snakes](../../../vertebrates/snakes/granulatus.htm), [crabs](../../crab/sesarmidae/sesarmidae.htm), ants, spiders,
-worms, clams and shrimps. Some [plants](../../../plants/mangrove/mangroves.htm) also appear to grow better on these mounds. The condominium comes
+with chimneys. 'Condo' dwellers include [snakes](../../../vertebrates/snakes/granulatus), [crabs](../../crab/sesarmidae/sesarmidae), ants, spiders,
+worms, clams and shrimps. Some [plants](../../../plants/mangrove/mangroves) also appear to grow better on these mounds. The condominium comes
 complete with swimming pool! Water is trapped in the mound system
-forming pools. At low tide, these shelter aquatic animals such as [mudskippers](../../../vertebrates/fish/gobiidae/mudskipper.htm).
+forming pools. At low tide, these shelter aquatic animals such as [mudskippers](../../../vertebrates/fish/gobiidae/mudskipper).
 
 *![](thalassina/081109cjtch01m3.jpg)* Shared
 by Toh Chay Hoon on [her
@@ -92,7 +92,7 @@ flickr](http://www.flickr.com/photos/ilmare77/3018565289/). *Chek Jawa, Nov 08*
 in its burrow. *Chek Jawa, Oct 07*
 
 *![](thalassina/090816sbwrd9070m3.jpg)*[Mangrove
-ferns](../../../plants/mangrove/acrostichum/acrostichum.htm) growing on a mound. *Sungei Buloh Wetland Reserve, Aug 09*
+ferns](../../../plants/mangrove/acrostichum/acrostichum) growing on a mound. *Sungei Buloh Wetland Reserve, Aug 09*
 
 **Human
 uses:** Mud lobsters are eaten in some Pacific Islands such
@@ -154,17 +154,17 @@ flickr.](http://www.flickr.com/photos/micamonkey/3869824396/)
 **Links**
 
 - [Mud
-  lobster (*Thalassina anomala*)](http://mangrove.nus.edu.sg/pub/seashore/text/183.htm) Tan,
+  lobster (*Thalassina anomala*)](http://mangrove.nus.edu.sg/pub/seashore/text/183) Tan,
   Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [Mud
-  lobster (*Thalassina anomala*)](http://mangrove.nus.edu.sg/guidebooks/text/2064.htm) Ng, Peter K. L. & N. Sivasothi,
+  lobster (*Thalassina anomala*)](http://mangrove.nus.edu.sg/guidebooks/text/2064) Ng, Peter K. L. & N. Sivasothi,
   1999. *[A Guide
   to the Mangroves of Singapore I (Plant Diversity](http://mangrove.nus.edu.sg/guidebooks/)*[)](http://mangrove.nus.edu.sg/guidebooks/).
   Singapore Science Centre. 168 pp.
 - *[Thalassina
-  anomala](https://singapore.biodiversity.online/taxo4254/mainSpace/Thalassina%20anomala.html)* (Decapoda :Thalassinidae) Mud Lobster by Ariff
+  anomala](https://singapore.biodiversity.online/taxo4254/mainSpace/Thalassina%20anomalal)* (Decapoda :Thalassinidae) Mud Lobster by Ariff
   Abdul Aziz, 2011 on taxo4254.
 - [Family
   Thalassinidae](http://species-identification.org/species.php?species_group=lobsters&id=11&menuentry=groepen) and [Scorpion
@@ -189,9 +189,9 @@ flickr.](http://www.flickr.com/photos/micamonkey/3869824396/)
   Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
   IKAN-Unterwasserachiv, Frankfurt. 321 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "sea, catfish, cat, fish, ariidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
+> Subphylum Vertebrate > [fishes](../fish) >
 Order Siluriformes
 **Sea
 catfishes  
@@ -74,7 +74,7 @@ large numbers on the shores. *Chek Jawa, Jun 03*
 carry the relatively large eggs in his mouth until the eggs hatch.  
   
 **Sometimes mistaken for** [eel-tail
-catfishes](../plotosidae/plotosidae.htm). Eel-tail catfishes also have barbels but their tail
+catfishes](../plotosidae/plotosidae). Eel-tail catfishes also have barbels but their tail
 fins are eel-like and not forked as in the sea catfishes.  
   
  **What do they eat?** Adapted for
@@ -138,7 +138,7 @@ Plicofollis nella*
 **Links**  
 
 - [Yellow
-  Sea Catfish (*Arius venosus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/223.htm) Lim, Kelvin K. P. &
+  Sea Catfish (*Arius venosus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/223) Lim, Kelvin K. P. &
   Jeffrey K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
@@ -170,9 +170,9 @@ Plicofollis nella*
   Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
   Periplus Editions. 292 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "flowery, pen, seapen, veretilllidae, pennatulacea, anthozoa, cnidaria, pteroides, cavernularia, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 sea pens [text
-index](../../cnidariaindex.htm#pennatulacea) | [photo index](../../pennatulaceafi.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Alcyonaria/Octocorallia > Order [Pennatulacea](pennatulacea.htm)
+index](../../cnidariaindex#pennatulacea) | [photo index](../../pennatulaceafi)
+Phylum [Cnidaria](../../cnidaria)
+> Class [Anthozoa](../../anthozoa) > Subclass
+Alcyonaria/Octocorallia > Order [Pennatulacea](pennatulacea)
 **Flowery
 sea pen**  
 **Family
@@ -68,7 +68,7 @@ on the sand.
   
 **Sometimes confused with** other
 sausage-shaped animals. Here's more on [how
-to tell apart sausage-shaped animals](../../../glossary/sausage.htm).
+to tell apart sausage-shaped animals](../../../glossary/sausage).
 *![](veretillidae/210621bb.jpg)*'Uprooted' flowery sea pen showing 'foot' that is usually buried, and stiff internal 'bone'. *Beting Bronok, Jun 21*
 
 ![](veretillidae/201020prp.jpg)  
@@ -79,11 +79,11 @@ shrimp may be seen among the tentacles of the sea pen. The shrimps
 are often found in pairs and often all you can see of them are their
 eyeballs!
 ![](../../../mollusca/slugs/nudibranchia/semperi/140812chg4d8582m3.jpg)  
-A [nudibranch that eats sea pens](../../../mollusca/slugs/nudibranchia/semperi.htm)   
+A [nudibranch that eats sea pens](../../../mollusca/slugs/nudibranchia/semperi)   
 is lurking near this one. *Changi, Aug 14*
 
 *![](veretillidae/050524cftg6598m3b.jpg)*[Commensal
-shrimp](../../../crustacea/othercrust/shrimp/palaemonidae.htm) on the sea pen.   
+shrimp](../../../crustacea/othercrust/shrimp/palaemonidae) on the sea pen.   
 All that can often be seen are a pair of eyes! *Changi, May 05*
 
  *\*Species are difficult to positively identify without close examination.**On
@@ -121,7 +121,7 @@ Chek Jawa, Aug 09*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.c
 uprooted sea pen with   
 flowery secondary polyps retracted. *Pulau Ubin, Dec 09*Photo
 shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/12/pulau-ubin-new-shore.html).
+blog](http://sgn090608.blogspot.com/2009/12/pulau-ubin-new-shorel).
 
 ---
 
@@ -154,9 +154,9 @@ Pulau Sekudu, May 10![](veretillidae/100516skdd2641m3c.jpg)*
   Indo-Pacific Field Guide*
   IKAN-Unterwasserachiv, Frankfurt. 305 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

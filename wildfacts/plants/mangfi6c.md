@@ -4,26 +4,11 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 plants
-[text index](plantindex.htm) | [photo
-index](plantfi.htm)
+[text index](plantindex) | [photo
+index](plantfi)
 
-[mangroves](mangrove/mangroves.htm)
+[mangroves](mangrove/mangroves)
 **Photo
 index of mangrove trees on Singapore shores**  
  **trees with long fruits and buttressed roots**  
@@ -37,7 +22,7 @@ index of mangrove trees on Singapore shores**
 ![](mangrove/bruguiera/cylindrica/020418sbwrcpd8227ma.jpg)  
   
 ![](mangrove/bruguiera/cylindrica/090816sbwrd9045ma.jpg)  
-[Bakau putih](mangrove/bruguiera/cylindrica.htm)  
+[Bakau putih](mangrove/bruguiera/cylindrica)  
 *Bruguiera cylindrica*
 
 ![](mangrove/bruguiera/gymnorrhiza/090118smkd5887m.jpg)  
@@ -47,7 +32,7 @@ index of mangrove trees on Singapore shores**
 ![](mangrove/bruguiera/gymnorrhiza/040103sjid0032ma.jpg)  
   
 ![](mangrove/bruguiera/gymnorrhiza/090816sbwrd9046m.jpg)  
-[Tumu](mangrove/bruguiera/gymnorrhiza.htm)   
+[Tumu](mangrove/bruguiera/gymnorrhiza)   
 *Brugueira gymnorrhiza*
 
 ![](mangrove/bruguiera/hainesii/090614ubnd4258m.jpg)  
@@ -58,7 +43,7 @@ index of mangrove trees on Singapore shores**
   
 ![](mangrove/bruguiera/hainesii/090529prpd2943m.jpg)  
 [Bakau
-mata buaya](mangrove/bruguiera/hainesii.htm)   
+mata buaya](mangrove/bruguiera/hainesii)   
 *Brugueira hainesii*
 
 ![](mangrove/bruguiera/parviflora/090611prpd3819ma.jpg)  
@@ -67,7 +52,7 @@ mata buaya](mangrove/bruguiera/hainesii.htm)
   
 ![](mangrove/bruguiera/parviflora/090801prpd8080ma.jpg)  
   
-![](mangrove/bruguiera/parviflora/090611prpd3816ma.jpg) [Lenggadai](mangrove/bruguiera/parviflora.htm)   
+![](mangrove/bruguiera/parviflora/090611prpd3816ma.jpg) [Lenggadai](mangrove/bruguiera/parviflora)   
 *Brugueira parviflora*
 
 ![](mangrove/bruguiera/sexangula/090329cjd8651m.jpg)  
@@ -78,7 +63,7 @@ mata buaya](mangrove/bruguiera/hainesii.htm)
   
 ![](mangrove/bruguiera/sexangula/090329cjd8650ma.jpg)  
 [Tumu
-berau](mangrove/bruguiera/sexangula.htm)   
+berau](mangrove/bruguiera/sexangula)   
 *Brugueira sexangula*
 
 Shrub
@@ -120,7 +105,7 @@ long). Rare. It is Critically Endangered.
   
 ![](mangrove/ceriops/tagal/090117smkd5480m.jpg)  
 [Tengar
-putih](mangrove/ceriops/tagal.htm)   
+putih](mangrove/ceriops/tagal)   
 *Ceriops tagal*
 
  
@@ -145,47 +130,47 @@ index of
 plants on this site
 
 [all
-plants](plantfi.htm)  
+plants](plantfi)  
   
 **mangrove
 & seashore plants**   
-[creepers](shorefi1.htm)  
-[climbers, vines](shorefi2.htm)  
-[herbs](shorefi3.htm)  
-[ferns](shorefi7.htm)  
-[palms, pandans](shorefi4.htm)  
+[creepers](shorefi1)  
+[climbers, vines](shorefi2)  
+[herbs](shorefi3)  
+[ferns](shorefi7)  
+[palms, pandans](shorefi4)  
   
 **mangrove
 &** **seashore
   
 shrubs<2m**  
-[thick/leathery leaves](shorefi5a.htm)  
-[thin leaves](shorefi5b.htm)  
+[thick/leathery leaves](shorefi5a)  
+[thin leaves](shorefi5b)  
   
 **seashore
   
 trees>2m**   
 type of leaves  
-[small simple](shorefi6b.htm)  
-[large simple](shorefi6c.htm)  
-[compound, others](shorefi6d.htm)   
+[small simple](shorefi6b)  
+[large simple](shorefi6c)  
+[compound, others](shorefi6d)   
   
 **mangrove
 trees**  
-small oval fruits and [pneumatophores](mangfi6a.htm)  
+small oval fruits and [pneumatophores](mangfi6a)  
   
 long cylindrical fruits  
-with [knee roots](mangfi6b.htm)  
+with [knee roots](mangfi6b)  
 with buttressed roots  
-with [stilt roots](mangfi6d.htm)  
+with [stilt roots](mangfi6d)  
   
-[large round fruits](mangfi6f.htm)  
+[large round fruits](mangfi6f)  
   
-[others](mangfi7a.htm)
+[others](mangfi7a)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

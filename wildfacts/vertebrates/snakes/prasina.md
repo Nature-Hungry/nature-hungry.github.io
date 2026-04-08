@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "oriental, whip, snake, ahaetulla, prasina, colubridae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 snakes [text
-index](snakeindex.htm) | [photo index](snakeshorefi.htm)
+index](snakeindex) | [photo index](snakeshorefi)
 Phylum Chordata
 > Subphylum Vertebrata > Class Reptilia > [shore
-snakes](snakeshore.htm)
+snakes](snakeshore)
 **Oriental
 whip snake  
 *Ahaetulla prasina*  
@@ -118,10 +105,10 @@ shared by Rui Quan Oh on [facebook](https://www.facebook.com/media/set/?vanity=1
   Snakes](http://singaporesnakes.blogspot.com/) blog: fact sheet with photos and links to local sightings
   and other posts.
 - [Oriental
-  Whip Snake](http://www.ecologyasia.com/verts/snakes/oriental_whip-snake.htm) on Nick Baker's EcologyAsia website: fact sheet
+  Whip Snake](http://www.ecologyasia.com/verts/snakes/oriental_whip-snake) on Nick Baker's EcologyAsia website: fact sheet
   with photos.
 - [Oriental
-  Whip Snake](http://www.wildsingapore.per.sg/discovery/factsheet/snakewhiporiental.htm) on
+  Whip Snake](http://www.wildsingapore.per.sg/discovery/factsheet/snakewhiporiental) on
   Chan Kwok Wai's Wildlife Singapore: fact sheet with photos.
 - [*Ahaetulla
   prasina*](http://www.iucnredlist.org/details/176329/0) on the IUCN Red List.
@@ -144,14 +131,4 @@ shared by Rui Quan Oh on [facebook](https://www.facebook.com/media/set/?vanity=1
   Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular
   Malaysia and Singapore* New Holland. pp 144.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

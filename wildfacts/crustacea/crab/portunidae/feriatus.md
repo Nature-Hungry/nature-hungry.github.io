@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "crucifix, swimming, crab, charybdis, feriata, feriatus, portunidae, decapod, crustrace, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> Brachyurans > Family [Portunidae](portunidae.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> Brachyurans > Family [Portunidae](portunidae)
 **Crucifix
 swimming crab**  
 ***Charybdis
@@ -69,7 +69,7 @@ frozen.
 5 spines on the body side,  
 white cross pattern on its back
 ![](feriatus/111029smkd3158.jpg)  
-Seen hiding under a [Fire anemone](../../../cnidaria/actiniaria/actinodendron.htm).  
+Seen hiding under a [Fire anemone](../../../cnidaria/actiniaria/actinodendron).  
 *Pulau Semakau, Oct 11*
  *\*Species are difficult to positively identify without close examination.  
 On this website, they are grouped by external features for convenience of
@@ -95,7 +95,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 *![](feriatus/170402smknhpy.jpg)*Possibly a juvenile. *Pulau Semakau North, Apr 17*Photo
 shared by Heng Pei Yan on [facebook](https://www.facebook.com/photo.php?fbid=10155062670084000&set=a.10155062669864000.1073742003.589418999&type=3&theater).
 
-*![](feriatus/240723chgerg1.jpg)*Hiding under a [Pearly anemone](../../../cnidaria/actiniaria/pearly.htm). *Changi East (Lost Coast), Jul 24*Photo
+*![](feriatus/240723chgerg1.jpg)*Hiding under a [Pearly anemone](../../../cnidaria/actiniaria/pearly). *Changi East (Lost Coast), Jul 24*Photo
 shared by Rachael Goh on [facebook](https://www.facebook.com/photo/?fbid=2975970682545565&set=a.2975971539212146).
 
 ---
@@ -103,12 +103,12 @@ shared by Rachael Goh on [facebook](https://www.facebook.com/photo/?fbid=2975970
    **Links**
 
 - [Swimming
-  crabs (Family Portunidae)](http://mangrove.nus.edu.sg/pub/seashore/text/201.htm) Tan, Leo W. H. & Ng, Peter K.
+  crabs (Family Portunidae)](http://mangrove.nus.edu.sg/pub/seashore/text/201) Tan, Leo W. H. & Ng, Peter K.
   L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [Crucifix
-  crab (*Charybdis feriatus*)](http://www.sealifebase.org/summary/Charybdis-feriatus.html) on [SeaLifeBase](http://www.sealifebase.org/):
+  crab (*Charybdis feriatus*)](http://www.sealifebase.org/summary/Charybdis-feriatusl) on [SeaLifeBase](http://www.sealifebase.org/):
   Technical fact sheet.
 - [*Charybdis
   feriatus*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1120) on Crabs of Japan in Marine Species Identification
@@ -118,7 +118,7 @@ shared by Rachael Goh on [facebook](https://www.facebook.com/photo/?fbid=2975970
   the Crabs section by Peter K. L. Ng in the FAO Species Identification
   Guide for Fishery Purposes: The Living Marine Resources of the
   Western Central Pacific [Volume
-  2: Cephalopods, crustaceans, holothurians and sharks](http://www.fao.org/docrep/009/w7192e/w7192e00.htm) on
+  2: Cephalopods, crustaceans, holothurians and sharks](http://www.fao.org/docrep/009/w7192e/w7192e00) on
   the Food and Agriculture Organization of the United Nations
   (FAO) website.
 - [Crucifix
@@ -136,9 +136,9 @@ shared by Rachael Goh on [facebook](https://www.facebook.com/photo/?fbid=2975970
   S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans
   of Australian Waters*. Reed New Holland. 224 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

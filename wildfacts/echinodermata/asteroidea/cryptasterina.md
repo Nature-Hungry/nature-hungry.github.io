@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "sea star, seastar, starfish, star, fish, crypasterina, asterinidae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 sea
-stars [text index](../echinodermindex.htm) | [photo
-index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class Stelleroida > Subclass [Asteroidea](asteroidea.htm)
+stars [text index](../echinodermindex) | [photo
+index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
+> Class Stelleroida > Subclass [Asteroidea](asteroidea)
 **Cryptic
 sea star  
 *Cryptasterina* sp.  
@@ -112,20 +99,20 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ![](cryptasterina/110702lzrlks5m3.jpg)  
 *Lazarus, Jul 11*Shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/07/walk-around-lazarus-island.html).
+blog](http://wondercreation.blogspot.com/2011/07/walk-around-lazarus-islandl).
 
 ![](cryptasterina/110702lzrlks6m3.jpg)  
 *Lazarus, Jul 11*Shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/07/walk-around-lazarus-island.html).
+blog](http://wondercreation.blogspot.com/2011/07/walk-around-lazarus-islandl).
 
 ![](cryptasterina/110702lzrlks8m3.jpg)  
 *Lazarus, Jul 11*Shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/07/walk-around-lazarus-island.html).
+blog](http://wondercreation.blogspot.com/2011/07/walk-around-lazarus-islandl).
 
 ---
 
 ![](cryptasterina/160208smkslks4.JPG)  
-*Pulau Semakau South, Feb 16*Shared by Loh Kok Sheng on [facebook](http://wondercreation.blogspot.sg/2016/02/cny-day-1-southern-semakau.html).
+*Pulau Semakau South, Feb 16*Shared by Loh Kok Sheng on [facebook](http://wondercreation.blogspot.sg/2016/02/cny-day-1-southern-semakaul).
 
 ![](cryptasterina/220717smknlks1.jpg)  
 *Pulau Semakau (North), Jul 22*Shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159997388298158&set=a.10159997391883158).
@@ -144,14 +131,4 @@ blog](http://wondercreation.blogspot.com/2011/07/walk-around-lazarus-island.html
   Red Data Book: Threatened plants and animals of Singapore*.
   Nature Society (Singapore). 285 pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

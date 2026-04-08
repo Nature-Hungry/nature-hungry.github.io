@@ -4,29 +4,29 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "smooth, otter, lutrogale, perspicillata, mustelidae, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../Templates/wildfactsheet3.gif)](../../index.html)
+[![](../../../Templates/wildfactsheet3.gif)](../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../index.html)  
+[wildfactsheets homepage](../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
+[all animals](../../animals)
+| [all plants](../../plants)
+| [concepts](../../concepts/indexl)
+| [glossary](../../glossary/indexl)
+| [search](../../search)
 
 vertebrates [text
-index](../vertindex.htm) | [photo index](../vertfi.htm)
+index](../vertindex) | [photo index](../vertfi)
 Phylum Chordata
 > Subphylum Vertebrata > Class Mammalia
 **Smooth-coated
 otters on Singapore shores**  
 back to [general
-info on smooth-coated otters](perspicillata.htm)
+info on smooth-coated otters](perspicillata)
 
 ---
 
@@ -42,7 +42,7 @@ at Sungei Buloh Wetland Reserve seen in Jun 08.
   
 Shared by Loh Kok
 Sheng on [his
-blog](http://wondercreation.blogspot.com/2008/06/video-of-otter-at-sungei-buloh.html).
+blog](http://wondercreation.blogspot.com/2008/06/video-of-otter-at-sungei-bulohl).
 
 ---
 
@@ -73,15 +73,15 @@ on [Vimeo](http://vimeo.com).
 
   
 back to [general
-info on smooth-coated otters](perspicillata.htm)
+info on smooth-coated otters](perspicillata)
 
 [www.**flickr**.com](http://www.flickr.com)  
 
 FREE photos of [mammals](http://www.flickr.com/photos/54527470@N00/sets/72157600258172269).
 Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../links.htm) | [references](../../references.htm)
-| [about](../../about.htm) | [email
+[links](../../links) | [references](../../references)
+| [about](../../about) | [email
 Ria](mailto:hello@wildsingapore.com)
 
 Spot

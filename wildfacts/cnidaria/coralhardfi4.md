@@ -4,26 +4,11 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 hard corals [text
-index](coralhardindex.htm) | [photo index](cnidariafi1.htm)
+index](coralhardindex) | [photo index](cnidariafi1)
 Phylum
-[Cnidaria](cnidaria.htm) >
-Class [Anthozoa](anthozoa.htm) > Subclass Zoantharia/Hexacorallia
+[Cnidaria](cnidaria) >
+Class [Anthozoa](anthozoa) > Subclass Zoantharia/Hexacorallia
 **Photo
 index of hard corals on Singapore shores** **Colony
 crinkled or lumpy**
@@ -36,14 +21,14 @@ a hard coral**
 ![](coralhard/poritidae/porbranch/050113sntd9742m.jpg)  
   
 ![](coralhard/poritidae/porbranch/050113sntg2802mc.jpg)  
-[Branching pore coral](coralhard/poritidae/porbranch.htm)  
+[Branching pore coral](coralhard/poritidae/porbranch)  
 *Porites* sp.
 
 ![](coralhard/psammocoridae/crinkled/050625labg8651ma.jpg)  
   
 ![](coralhard/psammocoridae/crinkled/050625labg8655ma.jpg)  
 [Crinkled sandpaper
-coral](coralhard/psammocoridae/psacrinkled.htm)  
+coral](coralhard/psammocoridae/psacrinkled)  
 *Psammocora* sp.
 
 ![](coralhard/acroporidae/monridged/060301kusg5361m.jpg)  
@@ -51,20 +36,20 @@ coral](coralhard/psammocoridae/psacrinkled.htm)
 ![](coralhard/acroporidae/monridged/060301kusg5362ma.jpg)  
 [Ridged
   
-montipora coral](coralhard/acroporidae/monridged.htm)  
+montipora coral](coralhard/acroporidae/monridged)  
 *Montipora* sp.
 
 ![](coralhard/agariciidae/castle/110717tbd7310m.jpg)  
   
 ![](coralhard/agariciidae/castle/110717tbd7311mb.jpg)  
 [Castle
-coral](coralhard/agariciidae/castle.htm)  
+coral](coralhard/agariciidae/castle)  
 *Pachyseris rugosa*
 
 ![](others/heliopora/heliopora/040605kuscd0190m.jpg)  
   
 ![](others/heliopora/heliopora/040605kuscd0190mb.jpg)  
-[Blue coral](others/heliopora/heliopora.htm)  
+[Blue coral](others/heliopora/heliopora)  
 *Heliopora coerulea*
 
 Colonies
@@ -101,34 +86,34 @@ index of
 cnidarians on this site
 
 **Phylum
-Cnidaria** **[with hard skeleton](cnidariafi1.htm)  
+Cnidaria** **[with hard skeleton](cnidariafi1)  
   
 polyp shape**[long
-tentacles](coralhardfi1.htm) **colony shape**
+tentacles](coralhardfi1) **colony shape**
  
-[**leafy**](coralhardfi3.htm) **crinkled  
- [plate](coralhardfi5.htm)** **branching**
+[**leafy**](coralhardfi3) **crinkled  
+ [plate](coralhardfi5)** **branching**
  
 [thick
-branches](coralhardfi2.htm)  
-[thin branches](gorgonaceafi.htm)
+branches](coralhardfi2)  
+[thin branches](gorgonaceafi)
  
  **boulder**
  
 Corallite
 shape=   
-[ring](coralhardfi6.htm)  
-[hexagonal](coralhardfi7.htm)   
- [brain or maze](coralhardfi8.htm)   
-[others](coralhardfi9.htm)
+[ring](coralhardfi6)  
+[hexagonal](coralhardfi7)   
+ [brain or maze](coralhardfi8)   
+[others](coralhardfi9)
   
 [**colony
-unattached**](coralhardfi10.htm)   
+unattached**](coralhardfi10)   
 (mushroom hard coral)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

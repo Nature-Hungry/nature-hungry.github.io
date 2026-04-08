@@ -4,25 +4,12 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, snakes, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 snakes [text
-index](snakeindex.htm)
+index](snakeindex)
 [shore
-snakes](snakeshore.htm) in general
+snakes](snakeshore) in general
 **Photo
 index of snakes on Singapore shores**
 
@@ -30,25 +17,25 @@ index of snakes on Singapore shores**
 
 ![](granulatus/030616cj0113m.jpg)  
 [Banded   
-file snake](granulatus.htm)  
+file snake](granulatus)  
 *Acrochordus granulatus*
 
 ![](cerberus/031128sbwrad0089m.jpg)  
 [Dog-faced
-water snake](cerberus.htm)  
+water snake](cerberus)  
 (Schneider's Bockadam) *Cerberus schneiderii*
 
 ![](laticauda/060415hntd1303m.jpg)  
 [Yellow-lipped  
-sea krait](laticauda.htm)  
+sea krait](laticauda)  
 *Laticauda colubrina*
 
 ![](fasciatus/020713cjcpd2753m.jpg)  
-[Banded krait](fasciatus.htm)  
+[Banded krait](fasciatus)  
 *Bungarus fasciatus*
 
 ![](buccata/060826sbwrd6350m.jpg)  
-[Puff-faced water snake](buccata.htm)  
+[Puff-faced water snake](buccata)  
 *Homalopsis buccata*
 
 1m
@@ -75,11 +62,11 @@ Brown stripe through the eye, dark-edged brown bands. May be common
 in freshwater ponds, canals, stream. Midly venomous.
 
 ![](eydouxii/020810cjcpd01091m.jpg)  
-[Marbled sea snake](eydouxii.htm)  
+[Marbled sea snake](eydouxii)  
 *Aipysurus eydouxii*
 
 ![](fordonia/120318prpd7782m.jpg)  
-[Crab-eating snake](fordonia.htm)  
+[Crab-eating snake](fordonia)  
 *Fordonia leucobalia*
 
  
@@ -93,20 +80,20 @@ Plain purplish brown with white belly. Nocturnal in back mangroves
 near mud lobster mounds. Mildly venomous, harmless.
 
 ![](paradisi/110109ubnd4911m.jpg)  
-[Paradise tree snake](paradisi.htm)  
+[Paradise tree snake](paradisi)  
 *Chrysopelea paradisi*
 
 ![](prasina/031019ubnad0060m.jpg)  
-[Oriental whip snake](prasina.htm)  
+[Oriental whip snake](prasina)  
 *Ahaetulla prasina*
 
 ![](purpureomaculatus/031004sbwrd0084m.jpg)  
 [Mangrove pit
-viper](purpureomaculatus.htm)  
+viper](purpureomaculatus)  
 *Cryptelytrops purpureomaculatus*
 
 ![](reticulatus/020511sbwrcpd9123m.jpg)  
-[Reticulated python](reticulatus.htm)  
+[Reticulated python](reticulatus)  
 *Python reticulatus*
 
  
@@ -140,22 +127,22 @@ Red Data Book: Threatened plants and animals of Singapore*.
 are NOT snakes**
 
 ![](../fish/muraenidae/tile/020907cjd5374m.jpg)  
-[Esturaine moray eel](../fish/muraenidae/tile.htm)  
+[Esturaine moray eel](../fish/muraenidae/tile)  
 *Gymnothorax tile*
 
 ![](../fish/pseudochromidae/subducens/040703sisg0979m.jpg)  
-[Carpet eel-blenny](../fish/pseudochromidae/subducens.htm)  
+[Carpet eel-blenny](../fish/pseudochromidae/subducens)  
 *Congrogadus subducens*
 
 ![](../fish/ophichthidae/wormeel/040817sntd4718m.jpg)  
-[Worm eel](../fish/ophichthidae/ophichthidae.htm)  Family Ophichthidae
+[Worm eel](../fish/ophichthidae/ophichthidae)  Family Ophichthidae
 
 ![](../../worm/nemertea/verylong/050325sjid1973ma.jpg)  
- [Ribbon worm](../../worm/nemertea/nemertea.htm)  
+ [Ribbon worm](../../worm/nemertea/nemertea)  
 Phylum Nemertea
 
 ![](../../worm/sipuncula/sipuncula/031122cjd0011m.jpg)  
-[Peanut worm](../../worm/sipuncula/sipuncula.htm) Phylum Spincula
+[Peanut worm](../../worm/sipuncula/sipuncula) Phylum Spincula
 
 20-30cm,
 to 60cm. No pectoral fins, no scales. It is a fish.
@@ -176,9 +163,9 @@ It is a worm.
 **how to tell apart**
 
 - [sea snakes, eels and eel-like
-  animals](../../glossary/eelsnake.htm)
-- [banded sea snakes](cfseafile.htm)
-- [worm-like animals](../../glossary/wormy.htm)
+  animals](../../glossary/eelsnake)
+- [banded sea snakes](cfseafile)
+- [worm-like animals](../../glossary/wormy)
 
 [www.**flickr**.com](http://www.flickr.com)  
 
@@ -190,24 +177,14 @@ index of
 vertebrates on this site
 
 [all
-vertebrates](../vertfi.htm)  
+vertebrates](../vertfi)  
   
-[marine fishes](../fish/fishfi.htm)  
+[marine fishes](../fish/fishfi)  
   
 shore snakes  
   
-[other reptiles](../reptilefi.htm)  
+[other reptiles](../reptilefi)  
   
-[mammals](../mammalfi.htm)
+[mammals](../mammalfi)
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

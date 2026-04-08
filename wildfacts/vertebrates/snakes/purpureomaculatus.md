@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "shore, pit, viper, snake, cryptelytrops, trimeresurus, purpureomaculatus, viperidae, crotalidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 snakes [text
-index](snakeindex.htm) | [photo index](snakeshorefi.htm)
+index](snakeindex) | [photo index](snakeshorefi)
 Phylum
 Chordata > Subphylum Vertebrata > Class Reptilia > [shore
-snakes](snakeshore.htm)
+snakes](snakeshore)
 **Shore
 pit viper  
 *Cryptelytrops purpureomaculatus*  
@@ -98,15 +85,15 @@ Distribution in Singapore on this [wildsingapore flickr map](https://www.flickr.
   Snakes](http://singaporesnakes.blogspot.com/) blog: fact sheet with photos and links to local sightings
   and other posts.
 - [Shore
-  Pit Viper](http://www.ecologyasia.com/verts/snakes/shore_pit_viper.htm) on Nick Baker's EcologyAsia website: fact sheet
+  Pit Viper](http://www.ecologyasia.com/verts/snakes/shore_pit_viper) on Nick Baker's EcologyAsia website: fact sheet
   with photos.
 - [Mangrove
-  snakes: Shore Pit Viper](http://mangrove.nus.edu.sg/guidebooks/text/2112.htm)
+  snakes: Shore Pit Viper](http://mangrove.nus.edu.sg/guidebooks/text/2112)
   Ng, Peter K. L. & N. Sivasothi, 1999. *[A
   Guide to the Mangroves of Singapore Ii (Animal Diversity](http://mangrove.nus.edu.sg/guidebooks/)*[)](http://mangrove.nus.edu.sg/guidebooks/).
   Singapore Science Centre. 168 pp.
 - [*Cryptelytrops
-  purpureomaculatus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Cryptelytrops%20purpureomaculatus.html) (Squamata: Viperidae) Shore Pit Viper
+  purpureomaculatus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Cryptelytrops%20purpureomaculatusl) (Squamata: Viperidae) Shore Pit Viper
   by Sarah Sidek, 2013 on taxo4254.
 - [*Cryptelytrops
   purpureomaculatus*](http://www.iucnredlist.org/details/192188/0)
@@ -137,14 +124,4 @@ Distribution in Singapore on this [wildsingapore flickr map](https://www.flickr.
 FREE photos of [snakes](http://www.flickr.com/photos/54527470@N00/sets/72157594587662941).
 Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

@@ -4,26 +4,11 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 plants
-[text index](plantindex.htm) | [photo
-index](plantfi.htm)
+[text index](plantindex) | [photo
+index](plantfi)
 
-[mangroves](mangrove/mangroves.htm)
+[mangroves](mangrove/mangroves)
 **Photo
 index of mangrove trees on Singapore shores**  
  **trees with large round fruits**  
@@ -37,7 +22,7 @@ index of mangrove trees on Singapore shores**
 ![](mangrove/sonneratia/caseolaris/091230prpd6480ma.jpg)  
   
 ![](mangrove/sonneratia/caseolaris/090408wdld9161ma.jpg)  
-[Berembang](mangrove/sonneratia/caseolaris.htm)  
+[Berembang](mangrove/sonneratia/caseolaris)  
 *Sonneratia caseolaris*
 
 ![](mangrove/sonneratia/alba/090611prpd3868m.jpg)  
@@ -47,7 +32,7 @@ index of mangrove trees on Singapore shores**
 *![](mangrove/sonneratia/alba/090411lckd9580ma.jpg)*  
   
 *![](mangrove/sonneratia/alba/090124ubnd5966m.jpg)*  
-[Perepat](mangrove/sonneratia/alba.htm)   
+[Perepat](mangrove/sonneratia/alba)   
 *Sonneratia alba*
 
 ![](mangrove/sonneratia/ovata/090611prpd3795ma.jpg)  
@@ -57,7 +42,7 @@ index of mangrove trees on Singapore shores**
 ![](mangrove/sonneratia/ovata/090410ubnd9310ma.jpg)  
   
 ![](mangrove/sonneratia/ovata/090611prpd3796m.jpg)  
-[Gedabu](mangrove/sonneratia/ovata.htm)  
+[Gedabu](mangrove/sonneratia/ovata)  
 *Sonneratia ovata*
 
  
@@ -91,7 +76,7 @@ at Pasir Ris. It is Critically Endangered.
 ![](mangrove/xylocarpus/granatum/090124ubnd6015m.jpg)  
 [Mangrove cannon-ball
   
-tree](mangrove/xylocarpus/granatum.htm) or Nyireh bunga  
+tree](mangrove/xylocarpus/granatum) or Nyireh bunga  
 *Xylocarpus granatum*
 
 ![](mangrove/xylocarpus/moluccensis/090126ubnd6188m.jpg)  
@@ -104,7 +89,7 @@ tree](mangrove/xylocarpus/granatum.htm) or Nyireh bunga
   
 ![](mangrove/xylocarpus/moluccensis/020501cjcp8943ma.jpg)  
 [Nyireh
-batu](mangrove/xylocarpus/moluccensis.htm)  
+batu](mangrove/xylocarpus/moluccensis)  
 *Xylocarpus moluccensis*
 
 ![](mangrove/xylocarpus/rumphii/090711sjid7136mc.jpg)  
@@ -117,7 +102,7 @@ batu](mangrove/xylocarpus/moluccensis.htm)
 ![](mangrove/xylocarpus/rumphii/090401sntd8875m.jpg)  
   
 ![](mangrove/xylocarpus/rumphii/090711sjid7169m.jpg)  
-[Nyireh](mangrove/xylocarpus/rumphii.htm)  
+[Nyireh](mangrove/xylocarpus/rumphii)  
 *Xylocarpus rumphii*
 
  
@@ -148,47 +133,47 @@ index of
 plants on this site
 
 [all
-plants](plantfi.htm)  
+plants](plantfi)  
   
 **mangrove
 & seashore plants**   
-[creepers](shorefi1.htm)  
-[climbers, vines](shorefi2.htm)  
-[herbs](shorefi3.htm)  
-[ferns](shorefi7.htm)  
-[palms, pandans](shorefi4.htm)  
+[creepers](shorefi1)  
+[climbers, vines](shorefi2)  
+[herbs](shorefi3)  
+[ferns](shorefi7)  
+[palms, pandans](shorefi4)  
   
 **mangrove
 &** **seashore
   
 shrubs<2m**  
-[thick/leathery leaves](shorefi5a.htm)  
-[thin leaves](shorefi5b.htm)  
+[thick/leathery leaves](shorefi5a)  
+[thin leaves](shorefi5b)  
   
 **seashore
   
 trees>2m**   
 type of leaves  
-[small simple](shorefi6b.htm)  
-[large simple](shorefi6c.htm)  
-[compound, others](shorefi6d.htm)   
+[small simple](shorefi6b)  
+[large simple](shorefi6c)  
+[compound, others](shorefi6d)   
   
 **mangrove
 trees**  
-small oval fruits and [pneumatophores](mangfi6a.htm)  
+small oval fruits and [pneumatophores](mangfi6a)  
   
 long cylindrical fruits  
-with [knee roots](mangfi6b.htm)  
-with [buttressed roots](mangfi6c.htm)  
-with [stilt roots](mangfi6d.htm)  
+with [knee roots](mangfi6b)  
+with [buttressed roots](mangfi6c)  
+with [stilt roots](mangfi6d)  
   
 large round fruits  
   
-[others](mangfi7a.htm)
+[others](mangfi7a)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

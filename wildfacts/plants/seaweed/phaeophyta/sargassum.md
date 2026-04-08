@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "sargassum, brown, seaweed, weed, sargassaceae, phaeophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 brown
-seaweeds [text index](../seaweedindex.htm#phaeophyta)
-| [photo index](../seaweedfi.htm)
-[Seaweeds](../seaweed.htm)
-> Division [Phaeophyta](phaeophyta.htm)
+seaweeds [text index](../seaweedindex#phaeophyta)
+| [photo index](../seaweedfi)
+[Seaweeds](../seaweed)
+> Division [Phaeophyta](phaeophyta)
 **Sargassum
 seaweed  
 *Sargassum* sp.\*  
@@ -63,7 +63,7 @@ longer may grow rapidly. Attached to the stems are leaf-shaped blades
 that may be narrow, broad or very small (1-5cm long). There are also
 small round to oval air bladders (vesicles) interspersed among the
 'leaves' are often mistaken for fruits, but seaweeds don't produce
-fruits like [seagrasses](../../seagrass/seagrass.htm) do.
+fruits like [seagrasses](../../seagrass/seagrass) do.
 The sargassum's air bladders help the seaweed stay afloat, closer
 to sunlight. Thus, long pieces often form floating rafts even after
 they have broken off from their holdfast. Sargassum may have reproductive
@@ -88,7 +88,7 @@ fertiliser, insect repellent.
 Various species are used as medicine for ailments ranging from children's
 fever, cholesterol problems, cleansing the blood, skin ailments.   
   
-In the tropics, sargassum seaweeds are a significant source of [alginates](phaeophyta.htm).
+In the tropics, sargassum seaweeds are a significant source of [alginates](phaeophyta).
 They are also used as a component in animal feed and liquid plant
 food or plant biostimulants. Supplies come from harvested seaweeds,
 the seaweeds are not farmed.  
@@ -126,13 +126,13 @@ Long bits reproductive structures?
 ---
 
 ![](sargassum/040703sisd1674m3.jpg)  
-Tiny [octopus](../../../mollusca/cephalopoda/octopus.htm)
+Tiny [octopus](../../../mollusca/cephalopoda/octopus)
 on sargassum*.  
 Sentosa, Jul 04*
 
 ![](../../../crustacea/othercrust/shrimp/rednose/040919sntd7078m3.jpg)  
 Tiny [Red-nose
-shrimp](../../../crustacea/othercrust/shrimp/rednose.htm)   
+shrimp](../../../crustacea/othercrust/shrimp/rednose)   
 sheltering in sargassum.  
 *Sentosa, Sep 04*
 
@@ -144,14 +144,14 @@ Sentosa, May 04*
 ---
 
 *![](../../../mollusca/gastropoda/columbellidae/dotted/070901sjig2113m3.jpg)*[Dove
-snail](../../../mollusca/gastropoda/columbellidae/dotted.htm) eats tiny algae   
+snail](../../../mollusca/gastropoda/columbellidae/dotted) eats tiny algae   
 growing on sargassum. *St. John's Island, Sep 07*
 
-![](../../../mollusca/slugs/nudibranchia/crosslandia/060131sjig4508m3.jpg)The [Crosslandia nudibranch](../../../mollusca/slugs/nudibranchia/crosslandia.htm) looks   
+![](../../../mollusca/slugs/nudibranchia/crosslandia/060131sjig4508m3.jpg)The [Crosslandia nudibranch](../../../mollusca/slugs/nudibranchia/crosslandia) looks   
 just like sargassum! *St. John's Island, Jan 06*
 
 ![](../../../worm/polychaeta/giant/101010scyrd1984m3.jpg)A [Giant
-reef worm](../../../worm/polychaeta/giant.htm) snatches a bunch of  
+reef worm](../../../worm/polychaeta/giant) snatches a bunch of  
 sargassum back into its lair. *South Cyrene, Oct 10*
 
   
@@ -280,7 +280,7 @@ Sargassum vulgare*
 
 **Links**
 
-- [Sargassum](http://mangrove.nus.edu.sg/pub/seashore/text/105.htm)
+- [Sargassum](http://mangrove.nus.edu.sg/pub/seashore/text/105)
   Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
@@ -290,7 +290,7 @@ Sargassum vulgare*
 - [*Sargassum*](http://www.algaebase.org/search/genus/detail/?genus_id=77)
   on [AlgaeBase](http://www.algaebase.org/):
   Technical fact sheets.
-- [*Sargassum polycystum*](https://singapore.biodiversity.online/taxo4254/mainSpace/Sargassum%20polycystum.html) (Fucales: Sargassaceae) Sargassum weed on Taxo4254.
+- [*Sargassum polycystum*](https://singapore.biodiversity.online/taxo4254/mainSpace/Sargassum%20polycystuml) (Fucales: Sargassaceae) Sargassum weed on Taxo4254.
 
 **References**
 
@@ -323,9 +323,9 @@ FREE photos of
 seaweeds](http://www.flickr.com/photos/54527470@N00/sets/72157600032287041).  
 Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

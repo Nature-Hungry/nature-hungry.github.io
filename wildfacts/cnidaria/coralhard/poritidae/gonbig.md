@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "goniopora, anemone, poritidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 hard corals [text
-index](../../coralhardindex.htm) | [photo index](../../cnidariafi1.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard.htm)
-> Family [Poritidae](poritidae.htm) > Genus [*Goniopora*](goniopora.htm)
+index](../../coralhardindex) | [photo index](../../cnidariafi1)
+Phylum [Cnidaria](../../cnidaria)
+> Class [Anthozoa](../../anthozoa) > Subclass
+Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard)
+> Family [Poritidae](poritidae) > Genus [*Goniopora*](goniopora)
 **Anemone
 coral  
 *Goniopora* sp.\*  
@@ -49,16 +49,16 @@ or polygonal holes packed close to one another. Colours seen include
 shades of purple, pink, brown and blue.  
   
 **May be mistaken for**  [sea
-anemones](../../actiniaria/actiniaria.htm) when the long polyps are extended and hide the hard skeleton,
+anemones](../../actiniaria/actiniaria) when the long polyps are extended and hide the hard skeleton,
 thus its common name. Another common name is Flower pot coral as the
 colony looks like a bunch of long-stemmed flowers emerging from a
 pot. Here's
 more on how to tell apart [large
-sea anemones with long tentacles](../../actiniaria/cfbiglong.htm) and [large
-'hairy' cnidarians](../../cflargecnidarians.htm).   
+sea anemones with long tentacles](../../actiniaria/cfbiglong) and [large
+'hairy' cnidarians](../../cflargecnidarians).   
   
 Sometimes, tiny brown [acoel
-flatworms](../../../worm/acoela/acoela.htm) are seen on the oral disk or body columns of the polyps.
+flatworms](../../../worm/acoela/acoela) are seen on the oral disk or body columns of the polyps.
 
 ![](gonbig/181225kusm6l.jpg)  
 Clusters of the coral can form large clumps. *Kusu Island, Dec 18*
@@ -79,15 +79,15 @@ Polyps large often with long body.
 
 ![](../../../worm/acoela/acoela/110802smkd8294m3.jpg)  
 [Acoel
-flatworms](../../../worm/acoela/acoela.htm) *Pulau Semakau, Aug 11*
+flatworms](../../../worm/acoela/acoela) *Pulau Semakau, Aug 11*
 
 ![](../../../worm/acoela/acoela/050724bbg0145m3a.jpg)  
 [Acoel
-flatworms](../../../worm/acoela/acoela.htm) *Beting Bronok, Jul 05*
+flatworms](../../../worm/acoela/acoela) *Beting Bronok, Jul 05*
 
 ![](../../../worm/acoela/acoela/110517tptd1581m3b.jpg)  
 [Acoel
-flatworms](../../../worm/acoela/acoela.htm) *Terumbu Pempang Tengah, May 11*
+flatworms](../../../worm/acoela/acoela) *Terumbu Pempang Tengah, May 11*
 
   
 *\*Species are difficult
@@ -169,9 +169,9 @@ Dec 09
 *Pulau Pawai,
 Dec 09*![](gonbig/091204pawd5252m3a.jpg)
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

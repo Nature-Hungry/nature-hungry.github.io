@@ -4,34 +4,34 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "seaweed, weed, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../../Templates/wildfactsheet3.gif)](../../index.html)
+[![](../../../Templates/wildfactsheet3.gif)](../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../index.html)  
+[wildfactsheets homepage](../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![talking points for nature guides](../../../Templates/fornatureguides.gif)](../../forguides/index.html)
+[![talking points for nature guides](../../../Templates/fornatureguides.gif)](../../forguides/indexl)
 
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
+[all animals](../../animals)
+| [all plants](../../plants)
+| [concepts](../../concepts/indexl)
+| [glossary](../../glossary/indexl)
+| [search](../../search)
 
 seaweeds
-[text index](seaweedindex.htm) | [photo
-index](seaweedfi.htm)
+[text index](seaweedindex) | [photo
+index](seaweedfi)
 
-[Seaweeds](seaweed.htm)
-in general | Division [Chlorophyta](chlorophyta/chlorophyta.htm)
-| Division [Cyanophyta](cyanobacteria/cyanobacteria.htm)
-| Division [Phaeophyta](phaeophyta/phaeophyta.htm) | Division
-[Rhodophyta](rhodophyta/rhodophyta.htm)
+[Seaweeds](seaweed)
+in general | Division [Chlorophyta](chlorophyta/chlorophyta)
+| Division [Cyanophyta](cyanobacteria/cyanobacteria)
+| Division [Phaeophyta](phaeophyta/phaeophyta) | Division
+[Rhodophyta](rhodophyta/rhodophyta)
 [index
-to talking points](../../forguides/index.html) for nature guides
+to talking points](../../forguides/indexl) for nature guides
 **For
 nature guides: introducing seaweeds**  
 *updated
@@ -124,7 +124,7 @@ of seaweeds**
 - ***You
   can eat seaweed if you are a pig!*** Seaweeds
   are also fed to livestock. In the past, [Sea
-  lettuce](chlorophyta/ulva.htm) (*Ulva* sp.) were collected in boatloads in the
+  lettuce](chlorophyta/ulva) (*Ulva* sp.) were collected in boatloads in the
   Straits of Johor, washed in freshwater then cooked and fed to
   pigs.
 - Seaweeds
@@ -144,7 +144,7 @@ myths to dispel**
   our seafood.
 - ***Seaweeds
   are not evil.*** While much media coverage may have been
-  given to [red tide](redtide.htm) and other sudden blooms
+  given to [red tide](redtide) and other sudden blooms
   of algae, most algae are harmless.
 
 **Handling
@@ -181,14 +181,4 @@ FREE photos of
 [seaweeds](http://www.flickr.com/photos/54527470@N00/tags/seaweed).  
 Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

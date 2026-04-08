@@ -4,28 +4,28 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "narrow, feathery, seaweed, weed, green, caulerpa, taxifolia, caulerpaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 green
-seaweeds [text index](../seaweedindex.htm) | [photo
-index](../seaweedfi.htm)
+seaweeds [text index](../seaweedindex) | [photo
+index](../seaweedfi)
 
-[Seaweeds](../seaweed.htm)
-> Division [Chlorophyta](chlorophyta.htm) > Family
-Caulerpaceae > genus *[Caulerpa](caulerpa.htm)*
+[Seaweeds](../seaweed)
+> Division [Chlorophyta](chlorophyta) > Family
+Caulerpaceae > genus *[Caulerpa](caulerpa)*
 **Taxifolia
 feathery green seaweed  
 *Caulerpa taxifolia\** Family Caulerpaceae***updated
@@ -51,10 +51,10 @@ that creeps over hard surfaces or just under the sand. Colours bright
 to dark green.  
   
 **Sometimes confused with** other
-feathery green seaweeds or with [seagrasses](../../seagrass/seagrass.htm).
+feathery green seaweeds or with [seagrasses](../../seagrass/seagrass).
 Here's more on [how to tell apart different
-feathery green seaweeds](cffeathery.htm) and how to tell apart [feathery
-green seaweeds and seagrasses](../../../glossary/seagrassweed.htm).   
+feathery green seaweeds](cffeathery) and how to tell apart [feathery
+green seaweeds and seagrasses](../../../glossary/seagrassweed).   
   
 **Human uses:**This green
 seaweed is reported to be edible, to have antibacterial and antifungal
@@ -136,17 +136,17 @@ Berlayar Creek, Oct 15*Photo shared by Marcus Ng on [facebook](https://www.faceb
   taxifolia*](http://www.algaebase.org/search/species/detail/?species_id=1413) on [AlgaeBase](http://www.algaebase.org/):
   technical fact sheet.
 - [*Caulerpa
-  taxifolia*](http://mangrove.nus.edu.sg/pub/seashore/text/101.htm) Tan, Leo W. H. & Ng, Peter K. L., 1988.
+  taxifolia*](http://mangrove.nus.edu.sg/pub/seashore/text/101) Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide
   to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore.
   160 pp.
 - [*Caulerpa
-  taxifolia*](http://www.hawaii.edu/reefalgae/invasive_algae/chloro/caulerpa_taxifolia.htm) from [Marine
-  Algae of Hawai`i](http://www.hawaii.edu/reefalgae/default.htm) on the University of Hawai`i Botany Department
+  taxifolia*](http://www.hawaii.edu/reefalgae/invasive_algae/chloro/caulerpa_taxifolia) from [Marine
+  Algae of Hawai`i](http://www.hawaii.edu/reefalgae/default) on the University of Hawai`i Botany Department
   website: factsheetwith photos and details on description, structural
   features, distribution in Hawai, ecology and impact, and links.
 - [Alien
-  Invaders: Algae Alert](http://www.pbs.org/saf/1204/features/caluerpa.htm) on the PBS website: a simple introduction
+  Invaders: Algae Alert](http://www.pbs.org/saf/1204/features/caluerpa) on the PBS website: a simple introduction
   to the issues and problems of introduced *C. taxifolia* [history of *Caulerpa taxifolia*](http://www.botany.hawaii.edu/reefalgae/Algae%20in%20Hawaii%20pages/Life%20history%20images/Life%20history%20Caulerpa%20-%20color.jpg) on the [Hawaiian
   Reef Algae](http://www.botany.hawaii.edu/reefalgae/) page of the University of Hawai`i at Manoa website.
 
@@ -186,9 +186,9 @@ Berlayar Creek, Oct 15*Photo shared by Marcus Ng on [facebook](https://www.faceb
   Guide and Atlas of the Seaweed Resources of the Philippines.*.
   Bookmark, Inc., the Philippines. 306 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

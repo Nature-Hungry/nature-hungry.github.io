@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "slender, pen, seapen, virgularia, pennatulacea, anthozoa, cnidaria, pteroides, cavernularia, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 sea pens [text
-index](../../cnidariaindex.htm#pennatulacea) | [photo index](../../pennatulaceafi.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Alcyonaria/Octocorallia > Order [Pennatulacea](pennatulacea.htm)
+index](../../cnidariaindex#pennatulacea) | [photo index](../../pennatulaceafi)
+Phylum [Cnidaria](../../cnidaria)
+> Class [Anthozoa](../../anthozoa) > Subclass
+Alcyonaria/Octocorallia > Order [Pennatulacea](pennatulacea)
 **Slender
 sea pen**  
 ***Virgularia* sp.\*  
@@ -70,7 +70,7 @@ Cyrene Reef, Aug 13*
 **Pen pals:** Slender sea pens are
 recorded to harbour small creatures such as porcelain crabs, shrimps,
 brittle stars and small nudibranchs. The [Painted
-porcelain crab](../../../crustacea/othercrust/anomura/porcellanidae/picta.htm) (*Porcellanella picta*) have been spotted
+porcelain crab](../../../crustacea/othercrust/anomura/porcellanidae/picta) (*Porcellanella picta*) have been spotted
 on the Red slender sea pen.
  *\*Species are difficult
 to positively identify without close examination.  
@@ -110,7 +110,7 @@ polyps on the leaf-like structures.
 
 *![](../../../crustacea/othercrust/anomura/porcellanidae/picta/050821bbg1897m3.jpg)*A
 pair of [Painted
-porcelain crabs](../../../crustacea/othercrust/anomura/porcellanidae/picta.htm)   
+porcelain crabs](../../../crustacea/othercrust/anomura/porcellanidae/picta)   
 on the sea pen. *Beting Bronok, Aug 05*
 
 ---
@@ -135,7 +135,7 @@ shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=1016843
 *![](virgularia/090821tmjk2m3.jpg)  
 Tanah Merah, Aug 09*Photo
 shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/08/tanah-merah-suicidal.html).
+blog](http://sgn090608.blogspot.com/2009/08/tanah-merah-suicidall).
 
 *![](virgularia/170428ecpcnlks3.jpg)  
 East Coast PCN, Apr 17*Photo
@@ -152,7 +152,7 @@ shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media
 *![](virgularia/120408sjilks7m3.jpg)*  
 *St. John's
 Island , Apr 12*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2012/04/easter-sunday-at-st-johns-island.html).
+blog](http://wondercreation.blogspot.com/2012/04/easter-sunday-at-st-johns-islandl).
 
 ---
 
@@ -164,7 +164,7 @@ blog](http://wondercreation.blogspot.com/2012/04/easter-sunday-at-st-johns-islan
 *![](virgularia/100813smknml2.jpg)  
 Pulau Semakau, Aug 10*Photo
 shared by Neo Mei Lin on [her
-blog](http://psychedelic-nature.blogspot.com/2010/08/strolling-semakau.html).
+blog](http://psychedelic-nature.blogspot.com/2010/08/strolling-semakaul).
 
 *![](virgularia/201018smkslks1.jpg)  
 Pulau Semakau, Oct 20*Photo
@@ -189,9 +189,9 @@ shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10158
   Indo-Pacific Field Guide*
   IKAN-Unterwasserachiv, Frankfurt. 305 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "frog, angler, fish, frogfish, anglerfish, antennariidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info,photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm)
+> Subphylum Vertebrate > [fishes](../fish)
 **Frogfishes  
 Family Antennariidae***updated
 Sep 2020*
@@ -68,7 +68,7 @@ look like poisonous nudibranchs.
   
 **Sometimes mistaken for** stonefish
 and scorpionfish. Unlike those fishes, the frogfish is harmless. Here's more on [how
-to tell apart fishes that look like stones.](../cfstonefish.htm)
+to tell apart fishes that look like stones.](../cfstonefish)
 
 ![](trisignatus/080619chgd5686m3.jpg)  
 *Changi, Jun 08*
@@ -141,10 +141,10 @@ on Singapore shores**
 
 ---
 
-***![](black/070812sisg1958m3.jpg)*[Black frogfish](black.htm)**
+***![](black/070812sisg1958m3.jpg)*[Black frogfish](black)**
 
 **![](trisignatus/050725labg0247m3.jpg)  
-[Spotted-tail frogfish](trisignatus.htm)**
+[Spotted-tail frogfish](trisignatus)**
 
 ---
 
@@ -164,14 +164,14 @@ Marine Fishes of Singapore*.
 seen awaiting identification**
  
 [Black
-frogfish](black.htm)
+frogfish](black)
   
  
 **Family
 Antennariidae**
  
 *Antennarius
-caudimaculatus=\*\*Antennarius commerson* (Commerson's frogfish) *Antennarius chironectes=\*\*Antennarius pictus* (Painted frogfish) *Antennarius hispidus* (Shaggy frogfish)*+Antennatus nummifer* (Spotfin frogfish) *\*[Lophiocharon trisignatus](trisignatus.htm)* (Spotted-tail
+caudimaculatus=\*\*Antennarius commerson* (Commerson's frogfish) *Antennarius chironectes=\*\*Antennarius pictus* (Painted frogfish) *Antennarius hispidus* (Shaggy frogfish)*+Antennatus nummifer* (Spotfin frogfish) *\*[Lophiocharon trisignatus](trisignatus)* (Spotted-tail
 frogfish)
 
 ---
@@ -179,7 +179,7 @@ frogfish)
 **Links**  
 
 - [Spotted-tail
-  frogfish (*Lophiocharon trisignatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/231.htm) Lim, Kelvin K.
+  frogfish (*Lophiocharon trisignatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/231) Lim, Kelvin K.
   P. & Jeffrey K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
@@ -214,9 +214,9 @@ frogfish)
   Reef Fishes of the World*
   Periplus Editions. 400pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

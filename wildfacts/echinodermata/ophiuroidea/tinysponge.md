@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "tiny, sponge, brittle, star, brittlestar, ophiactis, savignyi, ophiuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 brittle
-stars [text index](../echinodermindex.htm#ophiuroidea)
-| [photo index](../ophuiroideafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class Stellaroida > Subclass [Ophiuroidea](ophiuroidea.htm)
+stars [text index](../echinodermindex#ophiuroidea)
+| [photo index](../ophuiroideafi)
+Phylum [Echinodermata](../echinodermata)
+> Class Stellaroida > Subclass [Ophiuroidea](ophiuroidea)
 **Tiny
 in-a-sponge brittle stars**   
 ***Ophiactis savignyi\**Family Ophioactidae***updated
@@ -34,7 +21,7 @@ Apr 2020*
 **Where
 seen?**These
 tiny brittle stars are commonly seen in living [Chocolate
-sponges](../../porifera/suberites.htm) on many of
+sponges](../../porifera/suberites) on many of
 our shores. They are sometimes also seen in other kinds of sponges.  
   
 **Features:** Whole animal 1-2cm.
@@ -45,9 +32,9 @@ single sponge may be home to lots of brittle stars, each hole in the
 sponge sheltering one tiny brittle star. With their arms waving out,
 the brittle stars give the submerged sponge a 'furry' look.  
   
-**Sometimes confused with**  tiny [brittle stars seen under stones](tinystone.htm) and [bristleworms](../../worm/polychaeta/polychaeta.htm).
+**Sometimes confused with**  tiny [brittle stars seen under stones](tinystone) and [bristleworms](../../worm/polychaeta/polychaeta).
 Here's more on [how to tell apart
-bristleworms and brittle stars](../../glossary/wormstar.htm).  
+bristleworms and brittle stars](../../glossary/wormstar).  
   
 **Baby brittle stars:** This brittle
 star can reproduce sexually as well as asexually by division of the
@@ -55,7 +42,7 @@ central disk, each half regenerating arms and other body parts to
 produce two new animals!
 
 ![](tinysponge/060611cjd2782m3.jpg)  
-In a [Chocolate sponge](../../porifera/suberites.htm). *Chek Jawa, Jun 06*
+In a [Chocolate sponge](../../porifera/suberites). *Chek Jawa, Jun 06*
 
 ![](tinysponge/060611cjd2782m3a.jpg)  
 The arms of countless brittle stars   
@@ -74,15 +61,15 @@ Larger white brittle stars
 among the tiny banded ones. *Pulau Sekudu, Jul 04*
 
 ![](../../porifera/smoothblue/100911sisd1174m3a.jpg)  
-In a  [blue icing sponge](../../porifera/smoothblue.htm).  
+In a  [blue icing sponge](../../porifera/smoothblue).  
 *Sisters Island, Sep 10*
 
 ![](../../porifera/smoothbrown/100911sisd1245m3a.jpg)  
-In a [smooth brown sponge](../../porifera/smoothbrown.htm).  
+In a [smooth brown sponge](../../porifera/smoothbrown).  
 *Sisters Island, Sep 10*
 
 ![](tinysponge/050621skdg7908m3.jpg)  
-In a [Orange blob sponge](../../porifera/bloborange.htm).  
+In a [Orange blob sponge](../../porifera/bloborange).  
 *Pulau Sekudu, Jun 06*
 
  *\*Species
@@ -121,14 +108,14 @@ Hantu on 12 Apr 09
 **Links**
 
 - *[Ophiactis
-  savignyi](http://www.sealifebase.org/summary/Ophiactis-savignyi.html)*[(Savigny's brittle star)](http://www.sealifebase.org/summary/Ophiactis-savignyi.html)
+  savignyi](http://www.sealifebase.org/summary/Ophiactis-savignyil)*[(Savigny's brittle star)](http://www.sealifebase.org/summary/Ophiactis-savignyil)
   on SeaLife Base: Technical fact sheet
 - [*Ophiactis
-  savignyi* (Little Brittle star)](http://www.thecephalopodpage.org/MarineInvertebrateZoology/Ophiactissavignyi.html) by Kara McKeton and James
+  savignyi* (Little Brittle star)](http://www.thecephalopodpage.org/MarineInvertebrateZoology/Ophiactissavignyil) by Kara McKeton and James
   B. Wood (Ed) on Marine Invertebrates of Bermuda: fact sheet.
 - ["The
   Most Common brittle star in the world"?? The tropical-global invasion
-  of *Ophiactis savignyi*!!](http://echinoblog.blogspot.sg/2010/07/most-common-brittle-star-in-world.html)
+  of *Ophiactis savignyi*!!](http://echinoblog.blogspot.sg/2010/07/most-common-brittle-star-in-worldl)
   on the Echinoblog by Dr Chris Mah.
 
 **References**
@@ -138,14 +125,4 @@ Hantu on 12 Apr 09
   Guide to Sea Stars and Other Echinoderms of Singapore*.
   Singapore Science Centre. 187pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

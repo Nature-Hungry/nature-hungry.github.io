@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "blue, lined, brittle, star, brittlestar, macrophiothrix, ophiothrix, lineocaerulea, ophiuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 brittle
-stars [text index](../echinodermindex.htm#ophiuroidea)
-| [photo index](../ophuiroideafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class Stellaroida > Subclass [Ophiuroidea](ophiuroidea.htm)
+stars [text index](../echinodermindex#ophiuroidea)
+| [photo index](../ophuiroideafi)
+Phylum [Echinodermata](../echinodermata)
+> Class Stellaroida > Subclass [Ophiuroidea](ophiuroidea)
 **Blue-lined
 brittle star**  
 ***Macrophiothrix lineocaerulea***   
@@ -54,7 +41,7 @@ banding of blue and yellow.
 Underside.
 
 **Sometimes confused with** the [Very
-long armed brittle star](longipeda.htm) (*Macrophiothrix longipeda*) which
+long armed brittle star](longipeda) (*Macrophiothrix longipeda*) which
 also has very long arms but lacks the blue lines and has flatter spines.  
   
 **Status
@@ -100,7 +87,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
  *Terumbu Pempang Tengah, May 11  
 ![](lineocaerulea/110517tptlks3m3.jpg)*  
 Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengah.html)*.*
+blog](http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengahl)*.*
 
 *![](lineocaerulea/130526chglks1.JPG)*  
  *Changi, May 13*  
@@ -111,7 +98,7 @@ Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng
 **Links**
 
 - [*Macrophiothrix
-  lineocaerulea*](http://www.sealifebase.org/summary/Macrophiothrix-lineocaerulea.html)
+  lineocaerulea*](http://www.sealifebase.org/summary/Macrophiothrix-lineocaeruleal)
   on SeaLife Base: Technical fact sheet.
 
 **References**
@@ -121,14 +108,4 @@ Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng
   Guide to Sea Stars and Other Echinoderms of Singapore*.
   Singapore Science Centre. 187pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

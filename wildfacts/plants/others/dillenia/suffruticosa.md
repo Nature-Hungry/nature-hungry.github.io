@@ -4,23 +4,23 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "simpoh, air, dillenia, suffruticosa, dilleniaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
-plants [text index](../../plantindex.htm) | [photo
-index](../../plantfi.htm)
+plants [text index](../../plantindex) | [photo
+index](../../plantfi)
  
 **Simpoh
 air   
@@ -68,7 +68,7 @@ down while young fruits face up.
 The fruits take exactly five weeks to set and opens at 3am. The pink
 star-shaped fruit capsule is fully expanded long before sunrise, with
 7-8 'rays' displaying purple seeds that have a fleshy bright red aril.
-These are eagerly eaten by birds and even [monkeys](../../../vertebrates/mammals/fascicularis.htm).
+These are eagerly eaten by birds and even [monkeys](../../../vertebrates/mammals/fascicularis).
 So much so that it is difficult to come across an open fruit with
 the seeds still present. According to Corners, small birds pick up
 the seeds from the opened star-shaped fruits, especially bulbuls.
@@ -78,7 +78,7 @@ and thus dispersed by the birds.The empty husk falls off at about
   
 **Role in the habitat:** Nymphs and
 adults of the colourful [Giant
-shield bug](../../../insecta/pycanum.htm) (*Pycanum* sp.) are often seen on the plant and
+shield bug](../../../insecta/pycanum) (*Pycanum* sp.) are often seen on the plant and
 it appears to feed on the plant, sucking the sap. The large leaves
 are used by tailorbirds to sew together into a pouch for their tiny
 nests. Unfortunately, after they fall to the ground, the large leaves
@@ -109,7 +109,7 @@ Yellow flower.
 *Sungei Buloh Wetland Reserve, Nov 03*
 
 ![](../../../insecta/pycanum/040207ubnd0027m3.jpg)  
-Nymph of [Giant shield bug](../../../insecta/pycanum.htm)
+Nymph of [Giant shield bug](../../../insecta/pycanum)
 (*Pycanum* sp)*.  
 Pulau Ubin, Feb 04*
 
@@ -144,7 +144,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 - [*Dillenia
   suffruticosa*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2847) on the NParks Flora and Fauna website: photos
   and fact sheet.
-- *[Dillenia suffruticosa](https://singapore.biodiversity.online/taxo4254/mainSpace/Dillenia suffruticosa.html)* (Dilleniales: Dilleniaceae) Simpoh Air by Lee Min Jue Vanessa, 2014, on taxo4254.
+- *[Dillenia suffruticosa](https://singapore.biodiversity.online/taxo4254/mainSpace/Dillenia suffruticosal)* (Dilleniales: Dilleniaceae) Simpoh Air by Lee Min Jue Vanessa, 2014, on taxo4254.
 
 **References**
 
@@ -158,9 +158,9 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
   Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1:
   1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

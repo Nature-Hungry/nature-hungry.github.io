@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "cucumber, seacucumber, mensamaria, intercedens, cucumarid, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 sea
-cucumbers [text index](../echinodermindex.htm#holothuroidea)
-| [photo index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class [Holothuroidea](holothuroidea.htm)
+cucumbers [text index](../echinodermindex#holothuroidea)
+| [photo index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
+> Class [Holothuroidea](holothuroidea)
 **Orange
 sea cucumber  
 *Mensamaria intercedens\**  
@@ -106,7 +93,7 @@ Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo/?fbid=
 *![](orange/081214ecmlks01m3.JPG)  
 East Coast, Dec 08*  
 Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2008/12/wow-shore-exploration.html).
+blog](http://wondercreation.blogspot.com/2008/12/wow-shore-explorationl).
 
 ---
 
@@ -131,7 +118,7 @@ Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?f
 *![](orange/160209cyrlks2.JPG)  
 Cyrene Reef, Feb 16*  
 Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2016/02/cny-day-2-cyrene-reef.html).
+blog](http://wondercreation.blogspot.sg/2016/02/cny-day-2-cyrene-reefl).
 
 ---
 
@@ -143,7 +130,7 @@ Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo.php?fb
 
 **Links**
 
-- [*Mensamaria* *intercedens*](http://www.sealifebase.org/summary/Mensamaria-intercedens.html) on SeaLife Base: Technical
+- [*Mensamaria* *intercedens*](http://www.sealifebase.org/summary/Mensamaria-intercedensl) on SeaLife Base: Technical
   fact sheet.
 - [*Mensamaria* *intercedens*](http://species-identification.org/species.php?species_group=nasc&id=108&menuentry=soorten) in North Australian Sea Cucumbers on Marine
   Species Identification Portal: Technical fact sheet.
@@ -156,14 +143,4 @@ Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo.php?fb
   Guide to Sea Stars and Other Echinoderms of Singapore*.
   Singapore Science Centre. 187pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

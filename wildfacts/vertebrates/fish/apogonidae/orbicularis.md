@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "orbicular, cardinalfish, cardinal, fish,sphaeramia, apogon, orbicularis, apogonidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm) >
-Family [Apogonidae](apogonidae.htm)
+> Subphylum Vertebrate > [fishes](../fish) >
+Family [Apogonidae](apogonidae)
 **Orbicular
 cardinalfish**  
 ***Sphaeramia orbicularis\****  
@@ -58,7 +58,7 @@ he does this for 8 days.
 **What
 does it eat?** According to [FishBase](http://www.fishbase.org/Summary/SpeciesSummary.php?id=4926),
 it feeds mainly on planktonic crustaceans, feeding at night in the
-evening and just before daybreak. Although there was [one observation](https://www.facebook.com/photo.php?fbid=10157563297018576&set=a.10157563301103576&type=1&theater) of one Orbicular cardinalfish "snapping up [Tropical silversides](../atherinidae/duodecimalis.htm) using its tongue and rapidly swallowing the prey whole (like a frog eating a fly)."  
+evening and just before daybreak. Although there was [one observation](https://www.facebook.com/photo.php?fbid=10157563297018576&set=a.10157563301103576&type=1&theater) of one Orbicular cardinalfish "snapping up [Tropical silversides](../atherinidae/duodecimalis) using its tongue and rapidly swallowing the prey whole (like a frog eating a fly)."  
   
 **Human uses:** It is popular in the
 live aquarium trade.
@@ -85,7 +85,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ![](orbicularis/090510sntik3m3.jpg)  
 *Siloso, May 09*Photo shared by Ivan Kwan on [his
-blog](http://lazy-lizard-tales.blogspot.com/2009/05/finds-with-spines-on-siloso.html).
+blog](http://lazy-lizard-tales.blogspot.com/2009/05/finds-with-spines-on-silosol).
 
 ![](orbicularis/250714srptl1.jpg)  
  *Sentosa Serapong, Jul 25*Photo shared by Tammy Lim on [facebook](https://www.facebook.com/media/set/?set=a.10162801067269264&type=3&ref=embed_post).
@@ -97,7 +97,7 @@ Shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?vanity
 **Links**  
 
 - [Orbicular
-  cardinalfish (*Sphaeramia orbicularis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/279.htm) Lim, Kelvin K.
+  cardinalfish (*Sphaeramia orbicularis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/279) Lim, Kelvin K.
   P. & Jeffrey K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
@@ -116,9 +116,9 @@ Shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?vanity
   Reef Fishes of the World![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*
   Periplus Editions. 400pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

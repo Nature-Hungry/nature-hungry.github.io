@@ -4,24 +4,24 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "avicennia, avicenniaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
-plants [text index](../../plantindex.htm) | [photo
-index](../../plantfi.htm)
-[mangroves](../mangroves.htm)
+plants [text index](../../plantindex) | [photo
+index](../../plantfi)
+[mangroves](../mangroves)
 **Api-api  
 *Avicennia sp.*  
 Family Avicenniaceae***updated
@@ -100,7 +100,7 @@ roots. *![](../general/031122cjd0051m3.jpg)*Germinating
 ---
 
 [**Api-api
-putih**](alba.htm) *Avicennia alba*
+putih**](alba) *Avicennia alba*
 
 ![](alba/090114labd5287m3.jpg)  
 Leaves very white underneath.
@@ -114,7 +114,7 @@ Fruits with long pointed tips smooth.
 ---
 
 [**Api-api
-jambu**](marina.htm)  *Avicennia marina*
+jambu**](marina)  *Avicennia marina*
 
 ![](marina/110827smkd9885m3.jpg)  
 Leaves not so white underneath.
@@ -129,7 +129,7 @@ Fruits oval smooth. Bluish never yellowish.
 ---
 
 [**Api-api
-bulu**](rumphiana.htm) *Avicennia rumphiana*
+bulu**](rumphiana) *Avicennia rumphiana*
 
 ![](rumphiana/030914cjd0030m3.jpg)  
 Leaves underneath white and velvety.
@@ -144,7 +144,7 @@ Fruits oval usually wrinkly.
 ---
 
 [**Api-api
-ludat**](officinalis.htm)  *Avicennia officinalis*
+ludat**](officinalis)  *Avicennia officinalis*
 
 ![](officinalis/020727cjcpd4363m3.jpg)  
 Leaves glossy and smooth.
@@ -160,7 +160,7 @@ Fruits oval with pointed tip smooth.
 **Links**
 
 - [Api-api
-  (*Avicennia*)](http://mangrove.nus.edu.sg/guidebooks/text/1049.htm) Ng, Peter K. L. & N. Sivasothi, 1999.
+  (*Avicennia*)](http://mangrove.nus.edu.sg/guidebooks/text/1049) Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to
   the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*. Singapore
   Science Centre. 168 pp.
@@ -173,7 +173,7 @@ Fruits oval with pointed tip smooth.
 - Giesen, Wim
   and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
   [*Mangrove
-  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.htm) (PDF online downloadable).
+  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
   RAP publication 2006/07 Food and Agriculture Organization of the
   United Nations Regional Office for Asia and the Pacific Bangkok.
 
@@ -211,9 +211,9 @@ FREE photos from [wildsingapore](http://www.flickr.com/photos/54527470@N00)
 tagged with [Avicennia](http://www.flickr.com/photos/54527470@N00/tags/Avicennia).
 Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

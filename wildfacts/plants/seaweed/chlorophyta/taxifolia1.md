@@ -4,32 +4,32 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "narrow, feathery, seaweed, weed, green, caulerpa, taxifolia, caulerpaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
+[![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 green
-seaweeds [text index](../seaweedindex.htm) | [photo
-index](../seaweedfi.htm)
+seaweeds [text index](../seaweedindex) | [photo
+index](../seaweedfi)
 
-[Seaweeds](../seaweed.htm)
-> Division [Chlorophyta](chlorophyta.htm) > Family
-Caulerpaceae > genus *[Caulerpa](caulerpa.htm)*
+[Seaweeds](../seaweed)
+> Division [Chlorophyta](chlorophyta) > Family
+Caulerpaceae > genus *[Caulerpa](caulerpa)*
 **Taxifolia
 feathery green seaweed on Singapore shores**  
 back to general info
-on [taxifolia feathery green seaweed](taxifolia.htm)
+on [taxifolia feathery green seaweed](taxifolia)
 
 ---
 
@@ -54,7 +54,7 @@ Terumbu Buran, Nov 10**
 *![](taxifolia/100811slud0103m3.jpg)**Pulau Salu, Aug 10**![](taxifolia/100811slud0103m3a.jpg)*
 
 back to general info
-on [taxifolia feathery green seaweed](taxifolia.htm)
+on [taxifolia feathery green seaweed](taxifolia)
 
 [www.**flickr**.com](http://www.flickr.com)  
 
@@ -63,9 +63,9 @@ FREE photos of
 seaweeds](http://www.flickr.com/photos/54527470@N00/sets/72157600032152343).  
 Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,40 +4,23 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, cirripedia, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[![talking points for nature guides](../../Templates/fornatureguides.gif)](fngbarnacles.htm)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 crustacea [text
-index](crustaceaindex.htm) | [photo index](crustaceafi.htm)
-Phylum [Arthropoda](../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](crustacea.htm) > Class [Cirripedia](othercrust/ciriipedia/cirripedia.htm)
+index](crustaceaindex) | [photo index](crustaceafi)
+Phylum [Arthropoda](../arthropoda/arthropoda)
+> Subphylum [Crustacea](crustacea) > Class [Cirripedia](othercrust/ciriipedia/cirripedia)
 **Photo
 index of barnacles on Singapore shores**
 
 ---
 
 ![](othercrust/ciriipedia/balanus/050510tusg6179m.jpg)  
-[Acorn barnacles](othercrust/ciriipedia/balanus.htm)  *Balanus* sp.
+[Acorn barnacles](othercrust/ciriipedia/balanus)  *Balanus* sp.
 
 ![](othercrust/ciriipedia/euraphia/050413labg4662m.jpg)  
-[Star barnacles](othercrust/ciriipedia/euraphia.htm)  *Cthalamus* sp.
+[Star barnacles](othercrust/ciriipedia/euraphia)  *Cthalamus* sp.
 
 ![](othercrust/ciriipedia/tetraclita/050427tmd2868m.jpg)  
-[Volcano barnacles](othercrust/ciriipedia/tetraclita.htm)  *Tetraclita* sp.
+[Volcano barnacles](othercrust/ciriipedia/tetraclita)  *Tetraclita* sp.
 
  
  
@@ -55,16 +38,16 @@ a ridged texture, small shell opening operculum recessed. On large
 boulders.
 
 ![](othercrust/ciriipedia/lepas/040703sisd1824m.jpg)  
-[Stalked barnacles](othercrust/ciriipedia/lepas.htm) *Lepas* sp.
+[Stalked barnacles](othercrust/ciriipedia/lepas) *Lepas* sp.
 
 ![](othercrust/ciriipedia/parasitic/050428cftg5303m.jpg)  
-[Parasitic barnacles](othercrust/ciriipedia/thompsonia.htm) *Thompsonia* sp.
+[Parasitic barnacles](othercrust/ciriipedia/thompsonia) *Thompsonia* sp.
 
 ![](othercrust/ciriipedia/coral/060713rlhg6363ma.jpg)  
-[Coral barnacles](othercrust/ciriipedia/coral.htm) *Pygoma* sp.
+[Coral barnacles](othercrust/ciriipedia/coral) *Pygoma* sp.
 
 ![](othercrust/ciriipedia/sponge/080519sisd3438mb.jpg)  
-[Sponge barnacles](othercrust/ciriipedia/sponge.htm) *Membranobalanus longirostrum*
+[Sponge barnacles](othercrust/ciriipedia/sponge) *Membranobalanus longirostrum*
 
  
 About
@@ -90,23 +73,23 @@ seen on some of our shores.
 are NOT barnacles**
 
 ![](../mollusca/gastropoda/limpets/javanica/040901sjid6160m.jpg)  
-[Limpets](../mollusca/gastropoda/limpets/limpet.htm)
+[Limpets](../mollusca/gastropoda/limpets/limpet)
 Phylum Mollusca
 
 ![](../mollusca/gastropoda/calyptraeidae/crepidula/050315cjd1823m.jpg)  
 [Slipper
-snails](../mollusca/gastropoda/calyptraeidae/crepidula.htm)  
+snails](../mollusca/gastropoda/calyptraeidae/crepidula)  
 Phylum Mollusca  
 Family Crepidulidae
 
 ![](../mollusca/bivalvia/ostreidae/zigzag/050611kusd3993m.jpg)  
-[Oysters](../mollusca/bivalvia/ostreidae/osteridae.htm)  
+[Oysters](../mollusca/bivalvia/ostreidae/osteridae)  
 Phylum Mollusca  
 Family Ostreidae
 
 ![](../mollusca/bivalvia/anomiidae/understone/020725chgd4058m.jpg)  
 [Jingle
-shell snail](../mollusca/bivalvia/anomiidae/anomiidae.htm)  
+shell snail](../mollusca/bivalvia/anomiidae/anomiidae)  
 Phylum Mollusca  
 Family Anomiidae
 
@@ -126,7 +109,7 @@ leaves.
 ---
 
 how to tell apart [limpets
-and barnacles](../glossary/limpetbarnacle.htm)
+and barnacles](../glossary/limpetbarnacle)
   
   
   
@@ -136,26 +119,26 @@ index of
 crustaceans on this site
 
 **Crustaceans**  
-[all crustaceans](crustaceafi.htm)  
+[all crustaceans](crustaceafi)  
   
 **Shrimps**  
-[all shrimps](shrimpfi.htm) and shrimp-like  
+[all shrimps](shrimpfi) and shrimp-like  
   
 **Crabs
 and crab-like**   
-[all crabs](crabfi.htm) and crab-like  
+[all crabs](crabfi) and crab-like  
  **Barnacles**
   
 barnacles  
   
 **Other
 crustaceans**  
-[others crustaceans](othercrustfi.htm)  
+[others crustaceans](othercrustfi)  
 sea slaters, beachfleas, mussel shrimps
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

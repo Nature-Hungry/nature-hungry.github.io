@@ -4,25 +4,12 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "red tide, harmful, seaweed, weed, algae, chlorophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 seaweeds
-[text index](seaweedindex.htm) | [photo
-index](seaweedfi.htm)
-[Seaweeds](seaweed.htm)
+[text index](seaweedindex) | [photo
+index](seaweedfi)
+[Seaweeds](seaweed)
 in general
 **Red
 tide and harmful algal blooms***updated
@@ -52,17 +39,17 @@ temperature may also affect blooms.
 Masses of dead fishes washing up.  
 *Lim Chu Kang, Jul 16*
 ![](../../mollusca/bivalvia/mytilidae/viridis/040121chgd0027m3a.jpg)  
-[Green mussels](../../mollusca/bivalvia/mytilidae/viridis.htm) are among the animals  
+[Green mussels](../../mollusca/bivalvia/mytilidae/viridis) are among the animals  
 that might concentrate toxins  
 during a 'red tide'  
 *Changi, Jan 04*
 ![](../../mollusca/bivalvia/arcidae/anadara/020710chgd1615m3.jpg)  
-[Blood cockles](../../mollusca/bivalvia/arcidae/anadara.htm) are among our favourite seafood!  
+[Blood cockles](../../mollusca/bivalvia/arcidae/anadara) are among our favourite seafood!  
 *Changi, Jul 02*
  **Are algae blooms dangerous?** Not all algal blooms kill.
 And some algae can kill without being concentrated enough to be visible.
 A bloom can be dangerous because the tiny algae produce toxins. Filter-feeding
-animals such as [bivalves](../../mollusca/bivalvia.htm) concentrate these toxins. The
+animals such as [bivalves](../../mollusca/bivalvia) concentrate these toxins. The
 toxins do not harm the bivalves, but can be fatal to humans and other
 animals such as otters that eat the bivalves. The toxins are not destroyed
 by cooking. Crabs and other marine creatures can also concentrate
@@ -90,18 +77,8 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 - On the wild
   shores of singapore blog.
   - [Red
-    tide and big impact of microscopic marine life](http://wildshores.blogspot.com/2009/02/red-tide-and-big-impact-of-microscopic.html)
-  - [Recent mass fish deaths: causes and implications](http://wildshores.blogspot.sg/2014/02/recent-mass-fish-deaths-cause-and.html)
+    tide and big impact of microscopic marine life](http://wildshores.blogspot.com/2009/02/red-tide-and-big-impact-of-microscopicl)
+  - [Recent mass fish deaths: causes and implications](http://wildshores.blogspot.sg/2014/02/recent-mass-fish-deaths-cause-andl)
   - All posts about [mass fish deaths in Singapore](http://wildshores.blogspot.sg/search/label/issues-mass-fish-death).
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

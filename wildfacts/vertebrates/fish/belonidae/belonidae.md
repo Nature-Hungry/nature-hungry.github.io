@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "needlefish, needle, fish, belonidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm)
+> Subphylum Vertebrate > [fishes](../fish)
 **Needlefishes  
 Family Belonidae***updated
 Sep 2020*
@@ -49,12 +49,12 @@ pointed jaws that are beak- or needle-like, thus their common name.
 with sharp needle-like teeth. The jaws are shorter in juveniles, elongating
 as they age. Has one single dorsal fin.  
   
-**Sometimes mistaken for** [halfbeaks](../hemiramphidae/hemiramphidae.htm).
+**Sometimes mistaken for** [halfbeaks](../hemiramphidae/hemiramphidae).
 Halfbeaks are generally shorter and only their lower jaw is elongated
 while the upper jaw is very short. In needlefishes, both the upper
 and lower jaws are of equal length and usually filled with sharp teeth.
 Here's more on [how to tell apart stick-like
-fishes](../cfstick.htm) commonly seen on our shores.
+fishes](../cfstick) commonly seen on our shores.
 *![](belonidae/091128cjd4669m3.jpg)  
 Chek Jawa, Nov 09*
 *![](belonidae/091128cjd4669m6lb.jpg)  
@@ -155,18 +155,18 @@ Tylosorus strongylurus=\*\*Strongylura strongylura*
 **Links**  
 
 - [Spot-tail
-  Needlefish (*Strongylura strongylura*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/242.htm) and [Banded/Slender
-  Needlefish (*Strongylura leiura*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/243.htm) Lim, Kelvin and Jeffrey
+  Needlefish (*Strongylura strongylura*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/242) and [Banded/Slender
+  Needlefish (*Strongylura leiura*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/243) Lim, Kelvin and Jeffrey
   K Y Low, *[Guide
   to Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore Science
   Centre.
 - [Spot-tail
-  needlefish (*Strongylura strongylura*)](http://mangrove.nus.edu.sg/guidebooks/text/2104.htm) Ng, Peter K. L.
+  needlefish (*Strongylura strongylura*)](http://mangrove.nus.edu.sg/guidebooks/text/2104) Ng, Peter K. L.
   & N. Sivasothi, 1999. *[A
   Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
   Singapore Science Centre. 168 pp.
 - [Belonidae (Needlefishes)](https://singapore.biodiversity.online/taxon/A-Vert-Fish-Beloniformes-Belonidae) on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
-- [Spot-tail needlefish](https://www.ecologyasia.com/verts/fishes/spot-tail-needlefish.htm) on Ecology Asia.
+- [Spot-tail needlefish](https://www.ecologyasia.com/verts/fishes/spot-tail-needlefish) on Ecology Asia.
 - [Family
   Belonidae (Needlefishes)](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=207) and [*Platybelone
   argalus argalus* (Keeltail needlefish)](http://www.fishbase.org/summary/973) and [*Strongylura
@@ -176,7 +176,7 @@ Tylosorus strongylurus=\*\*Strongylura strongylura*
   acus melanotus* (Keel-jawed needle fish)](http://www.fishbase.org/summary/1317) from [FishBase](http://www.fishbase.org/):
   Technical fact sheet on the family.
 - [Vol.
-  4. Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.htm) FAO Species
+  4. Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
   Identification Guide for Fishery Purposes The Living Marine Resources
   of the Western Central Pacific.
 
@@ -200,9 +200,9 @@ Tylosorus strongylurus=\*\*Strongylura strongylura*
   Reef Fishes of the World*
   Periplus Editions. 400pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

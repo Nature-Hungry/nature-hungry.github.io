@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "elegant, striped, blue, lined, flat, worm, flatworm, pseudoceros, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 flatworms [text
-index](../wormindex.htm) | [photo index](../polycladidafi.htm)
-[worms](../worm.htm)
+index](../wormindex) | [photo index](../polycladidafi)
+[worms](../worm)
 > Phylum Platyhelminthes > Class
-Turbellaria > [Order Polycladida](polycladida.htm)
+Turbellaria > [Order Polycladida](polycladida)
 **Yellow-lined
 flatworm  
 *Pseudoceros* sp. 3*\******Family
@@ -39,7 +26,7 @@ seen?** This small flatworm is sometimes seen on some of our shores, on coral ru
 a pair of pseudotentacles made up of simple folded edges
 of the body.  
   
-**Sometimes mistaken for** similar flatworms. Here's more on how to tell apart small flatworms with [one central line and three central lines](cfstriped.htm).
+**Sometimes mistaken for** similar flatworms. Here's more on how to tell apart small flatworms with [one central line and three central lines](cfstriped).
 ![](lineyellow/031025cjd0042m3.jpg)  
 With a blue-and-yellow line. *Chek Jawa, Oct 03*
 ![](lineyellow/031025cjd0042m3a.jpg)
@@ -84,7 +71,7 @@ flickr](http://www.flickr.com/photos/ilmare77/1295846940/).
 
 ![](lineyellow/070902sjilksm3.JPG)  
 *St. John's
-Island, Sep 07*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2007/09/evening-with-saint.html).
+Island, Sep 07*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2007/09/evening-with-saintl).
 
 ---
 
@@ -93,11 +80,11 @@ Island, Sep 07*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation
 
 ![](lineyellow/110702lzrlks9m3.jpg)  
 *Lazarus, Jul 11*Shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/07/walk-around-lazarus-island.html).
+blog](http://wondercreation.blogspot.com/2011/07/walk-around-lazarus-islandl).
 
 ![](lineyellow/110814smklks7m3.jpg)  
  *Pulau Semakau, Aug 11*Photo shared by Lok Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/08/finally-galloping-sea-star-at-semakau.html).
+blog](http://wondercreation.blogspot.com/2011/08/finally-galloping-sea-star-at-semakaul).
 
 ---
 
@@ -108,14 +95,4 @@ Grateful thanks to Rene Ong for sharing details and identifying the flatworms on
 
 - Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018. *A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.* Nature in Singapore 2018 11: 77–125.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

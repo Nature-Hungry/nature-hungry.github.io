@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "masked, burrowing, crab, corystidae, gomeza, bicornis, jonas, formosa, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crustaceans [text
-index](../../crustaceaindex.htm) | [photo index](../../crustaceafi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
+index](../../crustaceaindex) | [photo index](../../crustaceafi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
 **Masked
 burrowing crabsFamily Corystidae***updated
 Oct 2016*
@@ -77,16 +77,16 @@ Female carrying eggs. *Changi, Oct 12*Photo shared by Lok Kok Sheng on [flickr](
 *![](corystidae/090720skdmn4m3.jpg)  
 Pulau Sekudu, Jul 09  
 ![](corystidae/090720skdmn5m3.jpg)*Photo shared by Marcus Ng on [his
-blog](http://budak.blogs.com/the_annotated_budak/2009/07/shell-short.html).
+blog](http://budak.blogs.com/the_annotated_budak/2009/07/shell-shortl).
 
 *![](corystidae/110830cyrlks7m3.jpg)*  
  *Cyrene Reef, Aug 11![](corystidae/110830cyrlks8m3.jpg)*Photo shared by Lok Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/09/last-morning-trip-of-2011-cyrene-reef.html).
+blog](http://wondercreation.blogspot.com/2011/09/last-morning-trip-of-2011-cyrene-reefl).
 
 *![](corystidae/130809smkhpy1m3.jpg)*  
  *Pulau Semakau, Aug 13  
 ![](corystidae/130809smkhpy2m3.jpg)*Photo shared by Heng Pei Yan on [her
-blog](http://peiyansama.blogspot.sg/2013/08/snakey-and-galloping-national-day-at.html).
+blog](http://peiyansama.blogspot.sg/2013/08/snakey-and-galloping-national-day-atl).
 
 ---
 
@@ -99,7 +99,7 @@ Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/285335
 *![](corystidae/090809sjilt1m3.jpg)  
 St. John's Island, Aug 09*  
 Photo shared by Liana Tang on [her
-blog](http://nearly-lucid.blogspot.com/2009/08/slugging-at-st-johns.html).
+blog](http://nearly-lucid.blogspot.com/2009/08/slugging-at-st-johnsl).
 
 ---
 
@@ -116,9 +116,9 @@ blog](http://nearly-lucid.blogspot.com/2009/08/slugging-at-st-johns.html).
   Creature Identification: Tropical Pacific* New World Publications.
   497pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

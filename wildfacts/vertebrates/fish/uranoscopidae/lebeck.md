@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "long, nose, star, gazer, stargazer, ichthyscopus, lebeck, uranoscopidae, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm) >
+> Subphylum Vertebrata > [fishes](../fish) >
 Family Uranoscopidae
 **Longnosed
 stargazer  
@@ -124,7 +124,7 @@ animals of Singapore from Ng, P. K. L. & Y. C. Wee, 1994. *The Singapore Red Dat
 Uranoscopidae**
  
 *+[Ichthyscopus
-lebeck](lebeck.htm)* (Longnosed stargazer) *Uranoscopus cognatus* (Two-spined yellow-tail stargazer) *Uranoscopus japonicus* 
+lebeck](lebeck)* (Longnosed stargazer) *Uranoscopus cognatus* (Two-spined yellow-tail stargazer) *Uranoscopus japonicus* 
 
 ---
 
@@ -141,11 +141,11 @@ Museum of Biodiversity Research for identifying this fish. **Links**
   Technical fact sheet on the family.
 - [Uranoscopidae
   Stargazers](ftp://ftp.fao.org/docrep/fao/009/y0870e/y0870e19.pdf) by H. Kishimoto in [Volume
-  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.htm) FAO Species
+  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00) FAO Species
   Identification Guide for Fishery Purposes The Living Marine Resources
   of the Western Central Pacific.
 - [Large
-  sea star and stargazer at Changi](http://wildshores.blogspot.sg/2011/07/large-star-and-stargazer-at-changi.html) on wild shores of singapore:
+  sea star and stargazer at Changi](http://wildshores.blogspot.sg/2011/07/large-star-and-stargazer-at-changil) on wild shores of singapore:
   field notes of behaviour of a stargazer rescued from a fish net.
 
 **References**
@@ -168,9 +168,9 @@ Museum of Biodiversity Research for identifying this fish. **Links**
   Ewald and Robert Myers. 2001. *Coral
   Reef Fishes of the World* Periplus Editions. 400pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

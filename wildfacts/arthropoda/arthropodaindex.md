@@ -4,37 +4,24 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "checklist, check, list, index, arthropoda, arthropod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
+ 
 
 arthropods [photo
-index](arthropodafi.htm)
-Phylum [Arthropoda](arthropoda.htm)
-| about [moulting](../crustacea/moulting.htm)
+index](arthropodafi)
+Phylum [Arthropoda](arthropoda)
+| about [moulting](../crustacea/moulting)
 **Arthropods
 of Singapore**  
 **Intertidal and marine arthropods**
 
 ---
 
-[crustaceans](../crustacea/crustaceaindex.htm) | **other arthropods**
+[crustaceans](../crustacea/crustaceaindex) | **other arthropods**
 
 ---
 
 **[Family
-Limulidae](limulidae/limulidae.htm) horseshoe crabs**  
+Limulidae](limulidae/limulidae) horseshoe crabs**  
 
 lck
 
@@ -107,7 +94,7 @@ tm
 *lfa*
 
 [*Carcinoscorpius
-rotundicauda*](limulidae/carcinoscorpius.htm)   
+rotundicauda*](limulidae/carcinoscorpius)   
 Mangrove horseshoe crab
 
 pgl
@@ -135,7 +122,7 @@ snt
 *smk*
 
 [*Tachypleus
-gigas*](limulidae/tachypleus.htm)   
+gigas*](limulidae/tachypleus)   
 Coastal horseshoe crab
 
 ---
@@ -235,7 +222,7 @@ rfl
 lfa
 
 [*Desis
-martensi*](../arachnida/desis.htm)   
+martensi*](../arachnida/desis)   
 Marine spider
 
 prp
@@ -247,7 +234,7 @@ cj
 *smk*
 
 [*Hyllus
-diardi*](../arachnida/hyllus.htm)  
+diardi*](../arachnida/hyllus)  
 Heavy jumping spider
   
 
@@ -318,7 +305,7 @@ ubn
 *cj*
 
 [*Attacus
-atlas*](../insecta/atlas.htm)  
+atlas*](../insecta/atlas)  
 Atlas moth
 
 lck
@@ -330,7 +317,7 @@ sbw
 ubn
 
 *[Calliphara
-nobilis](../insecta/calliphara.htm)*  
+nobilis](../insecta/calliphara)*  
 Mangrove shield bug
 
 sbw
@@ -350,7 +337,7 @@ cj
 smk
 
 [*Dysdercus
-decussatus*](../insecta/dysdercus.htm)  
+decussatus*](../insecta/dysdercus)  
 Cotton stainer bugs
 
 prp
@@ -372,12 +359,12 @@ sis
 smk
 
 [Shore
-cricket](../insecta/cricketshore.htm)   
+cricket](../insecta/cricketshore)   
 *awaiting identification*
 
 ubn
 
-[*Pycanum* sp.](../insecta/pycanum.htm)  
+[*Pycanum* sp.](../insecta/pycanum)  
 Giant shield bug
 
 ecp
@@ -390,7 +377,7 @@ sis
 
 *smk*
 
-[Sea skater](../insecta/skater.htm)  
+[Sea skater](../insecta/skater)  
 *awaiting identification*
   
 
@@ -434,17 +421,3 @@ bemban besar, terumbu bemban, terumbu semakau, **rfl**: raffles lighthouse, **lf
 live firing area (Salu, Sudong, Pawai, Senang, Biola and submerged
 reefs in the area)
   
-[About
-citing](../about.htm) this checklist.
-
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

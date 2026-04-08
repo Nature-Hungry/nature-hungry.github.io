@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "soldier, crab, dotilla, myctiroides, dotillidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> Brachyurans > Superfamily [Ocypodoidea](ocypodoidea.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> Brachyurans > Superfamily [Ocypodoidea](ocypodoidea)
 **Soldier
 crab**   
 ***Dotilla myctiroides*****Family Dotillidae***updated
@@ -59,7 +59,7 @@ legs which are thinner. It also absorbs water from the sand through
 silky hairs on the abdomen. Unlike most crabs, the soldier crab can
 run forwards as well as sideways. And it can move very fast indeed!  
   
-*Dotilla wichmani* looks like other [sand bubbler crabs](scopimera.htm). It is smaller (body width up to 1cm) and prefers
+*Dotilla wichmani* looks like other [sand bubbler crabs](scopimera). It is smaller (body width up to 1cm) and prefers
 sandier areas not wandering far from its hole.  *Dotilla myctiroides* is larger (body width up to 1.5cm) and is found in muddier areas often
 moving around in large groups at low tide. This habit of 'trooping'
 in numbers gave these crabs their common name.
@@ -127,13 +127,13 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 *![](dotilla/090109sjilks01m3.jpg)*  
 *St. John's Island, Jan 09*Shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/01/st-johns-northern-shore.html).
+blog](http://wondercreation.blogspot.com/2009/01/st-johns-northern-shorel).
 
 ---
 
 *![](dotilla/090224lazlks04m3.jpg)*  
 *Lazarus Island, Feb 09*Shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/02/resurrection-of-lazarus.html).
+blog](http://wondercreation.blogspot.com/2009/02/resurrection-of-lazarusl).
 
 *![](dotilla/160208smkshpy4.jpg)  
 Pulau Semakau South, Feb 16*Photo
@@ -157,12 +157,12 @@ flickr](http://www.flickr.com/photos/koksheng/4889929146/).
 **Links**
 
 - [Soldier
-  crab (*Dotilla* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/192.htm) Tan, Leo W. H. & Ng, Peter K. L.,
+  crab (*Dotilla* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/192) Tan, Leo W. H. & Ng, Peter K. L.,
   1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [Soldier
-  crab (*Dotilla myctiroides*)](http://mangrove.nus.edu.sg/guidebooks/text/2052.htm) Ng, Peter K. L. & N. Sivasothi,
+  crab (*Dotilla myctiroides*)](http://mangrove.nus.edu.sg/guidebooks/text/2052) Ng, Peter K. L. & N. Sivasothi,
   1999. *[A Guide
   to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore
   Science Centre. 168 pp.
@@ -198,9 +198,9 @@ flickr](http://www.flickr.com/photos/koksheng/4889929146/).
   S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
   Australian Waters*. Reed New Holland. 224 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

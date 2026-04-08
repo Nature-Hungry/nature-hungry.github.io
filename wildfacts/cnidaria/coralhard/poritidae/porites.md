@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "pore, porites, poritidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 hard corals [text
-index](../../coralhardindex.htm) | [photo index](../../cnidariafi1.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard.htm)
-> Family [Poritidae](poritidae.htm)
+index](../../coralhardindex) | [photo index](../../cnidariafi1)
+Phylum [Cnidaria](../../cnidaria)
+> Class [Anthozoa](../../anthozoa) > Subclass
+Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard)
+> Family [Poritidae](poritidae)
 **Pore
 coral  
 *Porites* sp.  
@@ -108,17 +108,17 @@ coral after coral bleaching.
 
 It's hard to distinguish the different species of pore corals without
 close examination. On this website, they are grouped into [branching
-pore corals](porbranch.htm) and [boulder-shaped pore corals](porboulder.htm) for convenience of display.**Status:** While a few species are listed as Vulnerable and Near Threatened, for most there is inadequate information as at 2024 to make an informed assesment of their conservation status in Singapore.
+pore corals](porbranch) and [boulder-shaped pore corals](porboulder) for convenience of display.**Status:** While a few species are listed as Vulnerable and Near Threatened, for most there is inadequate information as at 2024 to make an informed assesment of their conservation status in Singapore.
 
 **![](porbranch/070221kusd8248m3.jpg)  
-[Branching pore coral](porbranch.htm)  
+[Branching pore coral](porbranch)  
 ![](porbranch/070221kusg7796m3b.jpg)**
 
-***![](porbranch/050113sntd9742m3.jpg)*[Branching pore coral](porbranch.htm)  
+***![](porbranch/050113sntd9742m3.jpg)*[Branching pore coral](porbranch)  
 *![](porbranch/050113sntg2802m3c.jpg)***
 
 **![](porboulder/060102sisg3684m3.jpg)  
-[Boulder pore coral](porboulder.htm)*![](porboulder/060102sisg3685m3a.jpg)***
+[Boulder pore coral](porboulder)*![](porboulder/060102sisg3685m3a.jpg)***
 
 ---
 
@@ -134,12 +134,12 @@ are difficult to positively identify without close examination.* *On this websit
 of display**.*
  
 [Boulder
-pore coral](porboulder.htm)  
-[Branching pore coral](porbranch.htm)
+pore coral](porboulder)  
+[Branching pore coral](porbranch)
   
  
 **[Family
-Poritidae](poritidae.htm)  
+Poritidae](poritidae)  
 Genus *Porites***
  
 *Porites australiensis   
@@ -190,9 +190,9 @@ Porites vaughani*
 
 c
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

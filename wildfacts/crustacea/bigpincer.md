@@ -4,26 +4,11 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "barnacles, limpets, oysters, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 crabs [text
-index](crustaceaindex.htm) | [photo index](crabfi.htm)
-Phylum [Arthropoda](../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](crustacea.htm) > Class Malacostraca
-> Order [Decapoda](decapoda.htm) > Brachyurans
+index](crustaceaindex) | [photo index](crabfi)
+Phylum [Arthropoda](../arthropoda/arthropoda)
+> Subphylum [Crustacea](crustacea) > Class Malacostraca
+> Order [Decapoda](decapoda) > Brachyurans
 **Big
 crabs with big pincers  
 How to tell them apart?***updated
@@ -39,15 +24,15 @@ Here's more on how to tell them apart.
 
 ![](crab/menippidae/hardwickii/050110skdd9350m3.jpg)  
 [**Stone
-crab**](crab/menippidae/hardwickii.htm)   
+crab**](crab/menippidae/hardwickii)   
 (*Myonmenippe hardwickii*)
 
 ***![](crab/xanthidae/integerrimus/060811rlhd5792m3.jpg)*  
-[Red egg crab](crab/xanthidae/integerrimus.htm)**  
+[Red egg crab](crab/xanthidae/integerrimus)**  
 (*Atergatis integerrimus*)
 
 ***![](crab/menippidae/rumphii/080619chgd5706m3.jpg)*[Maroon
-stone crab](crab/menippidae/rumphii.htm)**  
+stone crab](crab/menippidae/rumphii)**  
 (*Menippe rumphii*)
 
 ![](crab/menippidae/hardwickii/050110skdd9350m3b.jpg)
@@ -64,14 +49,14 @@ All-red eyes.
 
 ---
 
-**![](crab/xanthidae/floridus/040521sntad0102m3.jpg) [Floral egg crab](crab/xanthidae/floridus.htm)**  
+**![](crab/xanthidae/floridus/040521sntad0102m3.jpg) [Floral egg crab](crab/xanthidae/floridus)**  
 (*Atergatis floridus*)
 
-*![](crab/eriphiidae/ferox/180101cyro1010026m3a.jpg)*[**Ferocious reef crab**](crab/eriphiidae/ferox.htm)   
+*![](crab/eriphiidae/ferox/180101cyro1010026m3a.jpg)*[**Ferocious reef crab**](crab/eriphiidae/ferox)   
 (*Eriphia ferox*)
 
 ***![](crab/oziidae/guttatus/040521sntad0043m3.jpg)***[**Spotted-belly forceps
-crab**](crab/oziidae/guttatus.htm)   
+crab**](crab/oziidae/guttatus)   
 (*Ozius guttatus*)
 
 ![](crab/xanthidae/floridus/040521sntad0102m3a.jpg)
@@ -95,17 +80,17 @@ comparisons**
 ---
 
 **![](crab/xanthidae/laevimanus/031125hntbd0024m3.jpg)  
-[Smooth spooner crab](crab/xanthidae/laevimanus.htm)**
+[Smooth spooner crab](crab/xanthidae/laevimanus)**
 
 **![](crab/xanthidae/leptodius/100626cyrd7061m3.jpg)  
-[Rock crab](crab/xanthidae/leptodius.htm)**
+[Rock crab](crab/xanthidae/leptodius)**
 
 **![](crab/calappidae/philargius/060529cftd2530m3.jpg)  
-[Box crab](crab/calappidae/philargius.htm)**
+[Box crab](crab/calappidae/philargius)**
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "round, xanthid, crab, xanthidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
 > Brachyurans
 **Xanthid
 crabs**   
@@ -71,7 +71,7 @@ toxins are similar to the neurotoxins of puffer fishes, and just
 as deadly.
 
 ![](pictor/070615sntrg0276m3.jpg)  
-The [Mosaic reef crab](pictor.htm) is the most poisonous crab on our shores. *Sentosa, Jun 07*
+The [Mosaic reef crab](pictor) is the most poisonous crab on our shores. *Sentosa, Jun 07*
 *![](floridus/040919sntd7092m3.jpg)*Floral egg crab eating a fish. *Sentosa, Sep 04*
 ![](integerrimus/090606tmftd3138m3.jpg)  
 A Red egg crab eating a sea urchin. *Tanah Merah, Jun 09*
@@ -95,42 +95,42 @@ crabs on Singapore shores**
 ---
 
 ***![](integerrimus/060811rlhd5792m3.jpg)*  
-[Red egg crab](integerrimus.htm)**
+[Red egg crab](integerrimus)**
 
 **![](pictor/091106smkd3813m3.jpg)  
-[Mosaic reef crab](pictor.htm)**
+[Mosaic reef crab](pictor)**
 
 **![](utilis/050917smkg2456m3.jpg)  
-[Saw-edged spooner crab](utilis.htm)**
+[Saw-edged spooner crab](utilis)**
 
 ---
 
-**![](floridus/040521sntad0102m3.jpg) [Floral egg crab](floridus.htm)**
+**![](floridus/040521sntad0102m3.jpg) [Floral egg crab](floridus)**
 
 **![](platypodia/110731tryd8022m3.jpg)  
-[Curry puff crab](platypodia.htm)**
+[Curry puff crab](platypodia)**
 
 ---
 
 **![](laevimanus/031125hntbd0024m3.jpg)  
-[Smooth spooner crab](laevimanus.htm)**
+[Smooth spooner crab](laevimanus)**
 
 **![](leptodius/100528tkkjk2m3.jpg)  
-[Rock crab](leptodius.htm)**
+[Rock crab](leptodius)**
 
 ***![](euxanthus/060527sjid2222m3.jpg)*  
-[Lumpy rock crab](euxanthus.htm)**
+[Lumpy rock crab](euxanthus)**
 
 ---
 
 **![](pilodius/111001sjid1824m3.jpg)  
-[Pilodius rock crab](pilodius.htm)**
+[Pilodius rock crab](pilodius)**
 
 **![](venosa/050723labg0037m3.jpg)  
-[Ruby reef crab](actaea.htm)**
+[Ruby reef crab](actaea)**
 
 **![](cymo/081231sisd4418m3a.jpg)  
-[Hairy coral crab](cymo.htm)**
+[Hairy coral crab](cymo)**
 
 ---
 
@@ -162,9 +162,9 @@ Actites erythra=\*\*Actiomera erythra?
 +Actiomera erythra  
   
 **Atergatis*** **sp. (Egg crabs)** *Atergatis dilatatus  
-[Atergatis floridus](floridus.htm)*(Floral egg crab) (VU: Vulnerable)  
+[Atergatis floridus](floridus)*(Floral egg crab) (VU: Vulnerable)  
 [*Atergatis
-integerrimus*](integerrimus.htm) (Red egg crab) (VU:
+integerrimus*](integerrimus) (Red egg crab) (VU:
 Vulnerable)  
 *Atergatis roseus  
   
@@ -178,7 +178,7 @@ Banareia subglobosa* (EN:
 Endangered) *Chlorodiella bidentata  
 Chlorodiella nigra*  
   
-***[Cymo](cymo.htm)* [sp.](cymo.htm)
+***[Cymo](cymo)* [sp.](cymo)
 (Hairy coral crabs)**  
 *Cymo andreossyi* (Hairy coral
 crab) (VU:Vulnerable) *Cymo melanodactylus  
@@ -193,9 +193,9 @@ Epiactaea nodulosa
 +Epixanthus dentatus   
   
 Etisus anaglyptus  
-[Etisus laevimanus](laevimanus.htm)* (Smooth spooner
-crab) *[Etisus utilis](utilis.htm)* (Saw-edged spooner
-crab) *[Euxanthus exsculptus](euxanthus.htm)* (Lumpy
+[Etisus laevimanus](laevimanus)* (Smooth spooner
+crab) *[Etisus utilis](utilis)* (Saw-edged spooner
+crab) *[Euxanthus exsculptus](euxanthus)* (Lumpy
 rock crab) *Galliardellus orientalis=\*\*Gaillardiellus orientalis  
 Galliardellus ruppelli=\*\*Gaillardiellus rueppelli  
   
@@ -203,7 +203,7 @@ Hypocolpus granulatus
 +Hypocolpus* aff. *haani  
 +Hypocolpus pararugosus  
 Hypocolpus rugosus* (CR:
-Critically endangered)[***Leptodius*****sp.**](/wildsingapore/wildfacts/crustacea/crab/xanthidae/leptodius.htm) **(Rock crabs)** *+Leptodius davaoensis  
+Critically endangered)[***Leptodius*****sp.**](/wildsingapore/wildfacts/crustacea/crab/xanthidae/leptodius) **(Rock crabs)** *+Leptodius davaoensis  
 Leptodius exaratus  
 Leptodius gracilis  
 Leptodius nigromaculatus  
@@ -213,20 +213,20 @@ Leptodius scaber
 +Liomera bella   
 Liomera margaritata  
 Liomera pallida  
-[Liomera venosa](venosa.htm)* (Ruby reef crab) *Lophozozymus leucomanus  
-[Lophozozymus pictor](pictor.htm)*(Mosaic reef crab) (EN: Endangered) *Macromedaeus distinguendus  
+[Liomera venosa](venosa)* (Ruby reef crab) *Lophozozymus leucomanus  
+[Lophozozymus pictor](pictor)*(Mosaic reef crab) (EN: Endangered) *Macromedaeus distinguendus  
   
 Medaeops granulosus  
   
 Neoxanthops lineatus* (EN: Endangered) *Novactaea bella* (EN: Endangered) *Palapedia valentini* (VU: Vulnerable) *Paractaea rufopunctata  
   
-[**Pilodius**](pilodius.htm)* **[sp.](pilodius.htm)(Pilodius rock crabs)** *Pilodius harmsi  
+[**Pilodius**](pilodius)* **[sp.](pilodius)(Pilodius rock crabs)** *Pilodius harmsi  
 Pilodius luomi=\*\*Pilodius miersi  
 Pilodius nigrocrinitus  
 Pilodius pilumnoides  
   
 Platypodia cristata  
-[Platypodia granulosa](platypodia.htm)*(Curry puff crab)(EN:
+[Platypodia granulosa](platypodia)*(Curry puff crab)(EN:
 Endangered) *Zalasius horii* (Paddington Bear crab)
 (CR: Critcially Endangered)
 
@@ -235,17 +235,17 @@ Endangered) *Zalasius horii* (Paddington Bear crab)
 **Links**  
 
 - [Poisonous
-  Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252.htm), *[Liomera](http://mangrove.nus.edu.sg/pub/seashore/text/206.htm)*,
-   *[Pilodius](http://mangrove.nus.edu.sg/pub/seashore/text/207.htm)*,
+  Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252), *[Liomera](http://mangrove.nus.edu.sg/pub/seashore/text/206)*,
+   *[Pilodius](http://mangrove.nus.edu.sg/pub/seashore/text/207)*,
   [Common
-  Rock Crab (*Leptodius*)](http://mangrove.nus.edu.sg/pub/seashore/text/208.htm), *[Actaeodes
-  mutatus](http://mangrove.nus.edu.sg/pub/seashore/text/210.htm)*, [Red
-  Egg Crab (*Atergatis integerrimus*)](http://mangrove.nus.edu.sg/pub/seashore/text/209.htm) Tan, Leo W. H. &
+  Rock Crab (*Leptodius*)](http://mangrove.nus.edu.sg/pub/seashore/text/208), *[Actaeodes
+  mutatus](http://mangrove.nus.edu.sg/pub/seashore/text/210)*, [Red
+  Egg Crab (*Atergatis integerrimus*)](http://mangrove.nus.edu.sg/pub/seashore/text/209) Tan, Leo W. H. &
   Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [Tetrodotoxin
-  ...an ancient alkaloid from the sea](http://www.chm.bris.ac.uk/motm/ttx/ttxv.htm) by Jim Johnson on Molecule
+  ...an ancient alkaloid from the sea](http://www.chm.bris.ac.uk/motm/ttx/ttxv) by Jim Johnson on Molecule
   of the Month of the School of Chemistry, University of Bristol
   website: lots of details about the toxin's effects, creatures
   that carry it and how it came about, with LOTS of links to more
@@ -288,9 +288,9 @@ Endangered) *Zalasius horii* (Paddington Bear crab)
   exclusive of the vertebrates*
   Sea Challengers. 314pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,24 +4,7 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "live, marine, aquarium, trade, conservation, conserve, protect, reef, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[![talking points for nature guides](../../Templates/fornatureguides.gif)](../forguides/index.html)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
-[index](index.html)
+[index](indexl)
 of concepts
 **Marine
 debris: Killer litter***updated
@@ -77,7 +60,7 @@ The fact remains that, save those incinerated, every single molecule
 of synthetic plastic ever created is still on this planet and probably
 will be for centuries".   
 from [Breaking
-the cycle of plastics in the ocean](http://www.wildsingapore.com/news/20070910/070916-6.htm) by Andrew Myers *Ocean
+the cycle of plastics in the ocean](http://www.wildsingapore.com/news/20070910/070916-6) by Andrew Myers *Ocean
 Conservancy Magazine Autumn 2007*  
   
 **How much plastic is in the ocean?**  
@@ -86,7 +69,7 @@ estimate there are 300,000 items of plastic per sq km of sea surface,
 and 100,000 per sq km of seabed. So plastic appears to be everywhere
 in our seas."  
 from [Plastics
-'poisoning world's seas'](http://www.wildsingapore.com/news/20061112/061207-5.htm) By Maggie Ayre Producer *BBC 7 Dec
+'poisoning world's seas'](http://www.wildsingapore.com/news/20061112/061207-5) By Maggie Ayre Producer *BBC 7 Dec
 06*  
   
 **Aren't Singapore's beaches clean?**   
@@ -98,7 +81,7 @@ from 7am. The volunteers (from International Coastal Cleanup Singapore)
 took over their job on Saturday and collected 16,819 items weighing
 2,600kg at East Coast Park alone - the highest amount of trash collected
 on any beach open to the public." from [The
-coast is not clear](http://www.wildsingapore.com/news/20070910/070916-2.htm) by Shobana Kesava *Straits Times 20 Sep
+coast is not clear](http://www.wildsingapore.com/news/20070910/070916-2) by Shobana Kesava *Straits Times 20 Sep
 07*.
 
 ![](pix/080406ecpd0467m6l.jpg)  
@@ -110,12 +93,12 @@ A beach that
 is not regularly cleaned. *Tanah Merah, Oct 09*
 
 **Where does the trash come from?**  
-Daily door-to-door trash collection is provided by the Maritime and Port Authority (MPA) [to all ships parked in port](http://wildshores.blogspot.sg/2013/01/where-does-garbage-from-ships-in.html). MPA also has several boats dedicated to removing trash from the port waters. MPA issues [public data](http://www.mpa.gov.sg/sites/pdf/sn23/sn23-portandstarboard.pdf) on the trash collected through the services they provide.  
+Daily door-to-door trash collection is provided by the Maritime and Port Authority (MPA) [to all ships parked in port](http://wildshores.blogspot.sg/2013/01/where-does-garbage-from-ships-inl). MPA also has several boats dedicated to removing trash from the port waters. MPA issues [public data](http://www.mpa.gov.sg/sites/pdf/sn23/sn23-portandstarboard.pdf) on the trash collected through the services they provide.  
   
 However, no door-to-door trash collection is provided to any of the coastal fish farms licenced by Agri-food and Veterinary Authority (AVA, now the Singapore Food Agency, SFA) (119 as at Aug 2013). By providing this service, possibly 250 tonnes of trash (or more) will no longer be dumped into our waters every year as outlined in [this letter sent to REACH](https://www.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1BlS1zXIcGY3lKVgcKNaFcbzI5rKnyDk-XtkP0OiHZo0%2Fedit%3Fusp%3Dsharing&h=QAQEYlaWm). Despite a [meeting with AVA in Mar 2014](https://www.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1zf8BM9KB8sAdKVROyserQSWOTLLKVIlMQjnb09MN9wg%2Fedit%3Fusp%3Dsharing&h=YAQEOhMQu), to date, daily door-to-door trash collection is still not provided to coastal fish farms licenced by the authorities.
 *![](pix/090308blyd7563m3.jpg)*Golf balls at Berlayar Creek next to   
 Keppel Golf Club*, Mar 09*
-*![](pix/140923ubns00786m3.jpg)*[Sofa dumped](http://wildshores.blogspot.sg/2014/09/sofa-not-good-fish-farms-and-trash-on.html) probably by   
+*![](pix/140923ubns00786m3.jpg)*[Sofa dumped](http://wildshores.blogspot.sg/2014/09/sofa-not-good-fish-farms-and-trash-onl) probably by   
 nearby coastal fish farms. *Pulau Ubin, Sep 14*
 *![](pix/040731kusd3462m3.jpg)*Plastic stuck to a sea anemone. *Kusu Island, Jul 04*
 
@@ -161,29 +144,29 @@ flickr](http://www.flickr.com/photos/wildsingapore/) for free download
 - [Project Driftnet](http://projectdriftnet.blogspot.sg/): collecting data about abandoned nets on Singapore shores.
 - From the
   wild shores of singapore blog: Fish farm trash on our shores  
-  - [Sofa not good: Fish farms and trash on Pulau Ubin](http://wildshores.blogspot.sg/2014/09/sofa-not-good-fish-farms-and-trash-on.html)
-  - [Impact of fish farm on Pulau Semakau?](http://wildshores.blogspot.sg/2014/08/impact-of-fsh-farm-on-pulau-semakau.html)
-  - [Fish farm trash on northern Ubin](http://wildshores.blogspot.sg/2013/09/fish-farm-trash-on-northern-ubin.html)
-  - [Trashy Pasir Park and fish farms](http://wildshores.blogspot.sg/2013/09/trashy-pasir-park-and-fish-farms.html)
-  - [Fish farms and trash at Pulau Ubin](http://wildshores.blogspot.sg/2013/08/fish-farms-and-trash-at-pulau-ubin.html)
+  - [Sofa not good: Fish farms and trash on Pulau Ubin](http://wildshores.blogspot.sg/2014/09/sofa-not-good-fish-farms-and-trash-onl)
+  - [Impact of fish farm on Pulau Semakau?](http://wildshores.blogspot.sg/2014/08/impact-of-fsh-farm-on-pulau-semakaul)
+  - [Fish farm trash on northern Ubin](http://wildshores.blogspot.sg/2013/09/fish-farm-trash-on-northern-ubinl)
+  - [Trashy Pasir Park and fish farms](http://wildshores.blogspot.sg/2013/09/trashy-pasir-park-and-fish-farmsl)
+  - [Fish farms and trash at Pulau Ubin](http://wildshores.blogspot.sg/2013/08/fish-farms-and-trash-at-pulau-ubinl)
 - From the
   wild shores of singapore blog:
   - [How
-    much damage does marine litter cause? US$1billion](http://wildshores.blogspot.com/2009/10/how-much-damage-does-marine-litter.html)
+    much damage does marine litter cause? US$1billion](http://wildshores.blogspot.com/2009/10/how-much-damage-does-marine-litterl)
   - [Plastic
-    pollution poisons marine food chain](http://wildshores.blogspot.com/2009/08/plastic-pollution-poisons-marine-food.html)
+    pollution poisons marine food chain](http://wildshores.blogspot.com/2009/08/plastic-pollution-poisons-marine-foodl)
   - [Documented
-    reports of Death-by-Balloon](http://wildshores.blogspot.com/2009/03/documented-reports-of-death-by-balloon.html)
+    reports of Death-by-Balloon](http://wildshores.blogspot.com/2009/03/documented-reports-of-death-by-balloonl)
   - [Fireworks
-    and balloons: harmless?](http://wildshores.blogspot.com/2009/08/fireworks-and-balloons-harmless.html)
+    and balloons: harmless?](http://wildshores.blogspot.com/2009/08/fireworks-and-balloons-harmlessl)
   - [Killer
-    litter: what happened to that bottle cap you tossed?](http://wildshores.blogspot.com/2009/10/killer-litter-what-happened-to-that.html)
+    litter: what happened to that bottle cap you tossed?](http://wildshores.blogspot.com/2009/10/killer-litter-what-happened-to-thatl)
   - and [all
     posts about marine litter](http://wildshores.blogspot.com/search/label/issues-marine-litter)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

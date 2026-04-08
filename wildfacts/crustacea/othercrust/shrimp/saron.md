@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "saron, shrimp, hyppolytidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 shrimps [text
-index](../../crustaceaindex.htm#shrimps) | [photo index~](../../shrimpfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm) > Family [Hippolytidae](hippolytidae.htm) > [prawns and shrimps](shrimp.htm)
+index](../../crustaceaindex#shrimps) | [photo index~](../../shrimpfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda) > Family [Hippolytidae](hippolytidae) > [prawns and shrimps](shrimp)
 **Saron
 shrimp**  
 ***awaiting identification*\*****Family Hippolytidae***updated
@@ -88,7 +88,7 @@ shared by Heng Pei Yan on [facebook](https://www.facebook.com/heng.pei.yan/media
 
 **![](saron/110904sntlks2m3.JPG)*  
 *Sentosa, Sep 11**Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/09/baby-stonefish-at-sentosa.html).
+blog](http://wondercreation.blogspot.com/2011/09/baby-stonefish-at-sentosal).
 
 ---
 
@@ -96,17 +96,17 @@ blog](http://wondercreation.blogspot.com/2011/09/baby-stonefish-at-sentosa.html)
 Pulau
 Tekukor , May 10*Photo
 shared by Neo Mei Lin on [her
-blog](http://psychedelic-nature.blogspot.com/2010/05/land-of-all-zoanthids-includes-some.html)
+blog](http://psychedelic-nature.blogspot.com/2010/05/land-of-all-zoanthids-includes-somel)
 
 *![](saron/100515sjilks7m3.jpg)*  
  *St. John's Island, May 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/05/colourful-st-johns-reef.html).
+blog](http://wondercreation.blogspot.com/2010/05/colourful-st-johns-reefl).
 
 *![](saron/100912kustch5m3.jpg)  
 Kusu
 Island, Sep 10*Photo
 shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2010/09/some-sightings-from-kusu-island.html).
+blog](http://colorclouds.blogspot.com/2010/09/some-sightings-from-kusu-islandl).
 
 ---
 
@@ -129,7 +129,7 @@ shared by Tammy Lim on [facebook](https://www.facebook.com/media/set/?vanity=tam
 Cyrene
 Reef, Jul 10*Photo
 shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/07/100711-cyrene-reef.html).
+blog](http://sgn090608.blogspot.com/2010/07/100711-cyrene-reefl).
 
 ![](saron/140713tsmkmn3m3.jpg)  
 *Terumbu Semakau, Jul 14*  
@@ -151,9 +151,9 @@ Photo shared by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738
   Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
   IKAN-Unterwasserachiv, Frankfurt. 321 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

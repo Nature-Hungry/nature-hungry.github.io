@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "dragonet, fish, callionymidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrate > [fishes](../fish.htm)
+> Subphylum Vertebrate > [fishes](../fish)
 **Dragonets**  
 **Family Callionymidae***updated
 Sep 2020*
@@ -53,8 +53,8 @@ with intricate patterns.
 *![](erythraeus/091020chgd2942m3.jpg)*Underside
 of a dead one. *Changi, Oct 09*
 **Sometimes
-mistaken** for [flatheads](../platycephalidae/platycephalidae.htm) (Family Platycephalidae). Here's more on [how
-to tell apart fish with flat heads](../cfflatheads.htm).   
+mistaken** for [flatheads](../platycephalidae/platycephalidae) (Family Platycephalidae). Here's more on [how
+to tell apart fish with flat heads](../cfflatheads).   
   
  **What do they eat?** They
 pick off small animals from the surface with their pointed, downward
@@ -74,15 +74,15 @@ on Singapore shores**
 
 ![](mosaic/091008tmd2380m3.jpg)  
 [**Mosaic
-dragonet**](mosaic.htm)
+dragonet**](mosaic)
 
 ![](erythraeus/090709chgd6825m3.jpg)  
  [**Smallhead
-dragonet**](erythraeus.htm)
+dragonet**](erythraeus)
 
 ![](dactylopus/140501kusd5015m3.jpg)  
 [**Kuiter's
-dragonet**](dactylopus.htm)
+dragonet**](dactylopus)
 
 ---
 
@@ -98,16 +98,16 @@ Callionymidae)*.
 Callionymidae**
 
 *[Callionymus
-enneactis](mosaic.htm)* (Mosaic
+enneactis](mosaic)* (Mosaic
 dragonet)  
-*[Callionymus erythraeus](erythraeus.htm)* (Smallhead
+*[Callionymus erythraeus](erythraeus)* (Smallhead
 dragonet) *Callionymus hindsii  
 Callionymus melanotopterus  
 Callionymus sagitta*   
   
 *Dactylopus dactylopus* (Fingered
 dragonet)  
-+*[Dactylopus kuiteri](dactylopus.htm)* (Kuiter's dragonet)  
++*[Dactylopus kuiteri](dactylopus)* (Kuiter's dragonet)  
   
 *Synchiropus lineolatus* (Lined dragonet)
 
@@ -120,7 +120,7 @@ dragonet)
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
 - [Callionymidae (Dragonets)](https://singapore.biodiversity.online/taxon/A-Vert-Fish-Perciformes-Callionymidae) on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
-- [Dragonets](https://www.ecologyasia.com/verts/fishes/dragonets.htm) on Ecology Asia.
+- [Dragonets](https://www.ecologyasia.com/verts/fishes/dragonets) on Ecology Asia.
 - [Family
   Callionymidae (Dragonets)](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=435) and [*Callionymus
   enneactis* (Mangrove dragonet)](http://www.fishbase.org/summary/17468) and [*Callionymus
@@ -157,9 +157,9 @@ dragonet)
   Reef Fishes of the World*
   Periplus Editions. 400pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

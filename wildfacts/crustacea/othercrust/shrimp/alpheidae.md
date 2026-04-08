@@ -4,29 +4,29 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "snapping, shrimp, alpheidae, alpheid, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![](../../../../Templates/fornatureguides.gif)](../../fngshrimps.htm)
+[![](../../../../Templates/fornatureguides.gif)](../../fngshrimps)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 shrimps [text
-index](../../crustaceaindex.htm#shrimps) | [photo index](../../shrimpfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> [prawns and shrimps](shrimp.htm)
+index](../../crustaceaindex#shrimps) | [photo index](../../shrimpfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> [prawns and shrimps](shrimp)
 **Snapping
 shrimps**  
 **Family Alpheidae***updated
@@ -55,7 +55,7 @@ forage outside their burrows more actively at night.
   
 **What
 are snapping shrimps?** Snapping
-shrimps are [crustaceans](../../crustacea.htm) that belong
+shrimps are [crustaceans](../../crustacea) that belong
 to Family Alpheidae.    
 **Features:** 2-7cm long. A snapping
 shrimp has one of its pincers greatly enlarged. This pincer may even
@@ -89,15 +89,15 @@ with the detection of hostile submarines!
 *![](alphmanyband/050722cjg9923m3.jpg)*This shrimp shares its burrow with a brittle star. *Chek Jawa, Jul 05*
 ![](../../../vertebrates/fish/gobiidae/leptocephalus/080830kusd9939m3.jpg)  
 A [Many-band
-snapping shrimp](../../../crustacea/othercrust/shrimp/alphmanyband.htm) sharing a burrow with a [Pink-speckled shrimp-goby](../../../vertebrates/fish/gobiidae/leptocephalus.htm). *Kusu Island, Aug 08*
+snapping shrimp](../../../crustacea/othercrust/shrimp/alphmanyband) sharing a burrow with a [Pink-speckled shrimp-goby](../../../vertebrates/fish/gobiidae/leptocephalus). *Kusu Island, Aug 08*
 ![](../../../vertebrates/fish/gobiidae/maudae/050513labg6528m3.jpg)  
 A [Many-band
-snapping shrimp](../../../crustacea/othercrust/shrimp/alphmanyband.htm) sharing a burrow with a [Saddled shrimp-goby](../../../vertebrates/fish/gobiidae/maudae.htm).  
+snapping shrimp](../../../crustacea/othercrust/shrimp/alphmanyband) sharing a burrow with a [Saddled shrimp-goby](../../../vertebrates/fish/gobiidae/maudae).  
 *Labrador, May 05*.
 **Shrimpy friends:** Some species
 live in symbiosis with corals, sponges, sea fans and other animals.
 The most amazing must be [the
-relationship between the snapping shrimp and goby](../../../vertebrates/fish/gobiidae/shrimpgoby.htm). The shrimp
+relationship between the snapping shrimp and goby](../../../vertebrates/fish/gobiidae/shrimpgoby). The shrimp
 goby lives in the same burrow with a snapping shrimp. With keener
 eyesight, the goby keeps a look-out while the shrimp busily digs out
 and maintains their shared home. The shrimp is literally constantly
@@ -116,7 +116,7 @@ own colony.
 and threats:** Most of our snapping shrimps are not listed
 among the endangered animals of Singapore, except for the Crinoid
 snapping shrimp (*Synalpheus stimpsoni*). This tiny shrimp (about 1cm) lives in pairs on [feather
-stars](../../../echinodermata/crinoidea/crinoidea.htm) (crinoids), feeding off the mucus of its host. It is threatened
+stars](../../../echinodermata/crinoidea/crinoidea) (crinoids), feeding off the mucus of its host. It is threatened
 by reef destruction and siltation.
 
 ---
@@ -126,19 +126,19 @@ shrimps on Singapore shores**
 
 ---
 
-***![](alphornament/070304hntg7902m3.jpg)* [Ornamented snapping shrimp](alphornament.htm)**
+***![](alphornament/070304hntg7902m3.jpg)* [Ornamented snapping shrimp](alphornament)**
 
-***![](alphsmooth/050621skdg7874m3.jpg)*[Smooth snapping shrimp](alphsmooth.htm)**
+***![](alphsmooth/050621skdg7874m3.jpg)*[Smooth snapping shrimp](alphsmooth)**
 
 *![](alphmanyband/080705bbd7018m3.jpg)***[Many-band
-snapping shrimp](alphmanyband.htm)**
+snapping shrimp](alphmanyband)**
 
 ---
 
-***![](alphcommensal/020710chgcpd1738m3.jpg)*[Commensal snapping shrimp](alphcommensal.htm)** in
+***![](alphcommensal/020710chgcpd1738m3.jpg)*[Commensal snapping shrimp](alphcommensal)** in
 sponges and under stones
 
-***![](alphballsoft/110518bbd1955m3.jpg)*[White soft coral snapping shrimp](alphballsoft.htm)**in
+***![](alphballsoft/110518bbd1955m3.jpg)*[White soft coral snapping shrimp](alphballsoft)**in
 ball flowery soft corals
 
 ---
@@ -162,11 +162,11 @@ shrimps seen awaiting identification***Species are difficult to positively ident
 close examination of small features. On this website, they are
 grouped by external features for convenience of display.*
  
-[Commensal snapping shrimps](alphcommensal.htm)  
-[White soft coral snapping shrimps](alphballsoft.htm)  
-[Many-band snapping shrimps](alphmanyband.htm)  
-[Ornamented snapping shrimps](alphornament.htm)  
-[Smooth snapping shrimps](alphsmooth.htm)
+[Commensal snapping shrimps](alphcommensal)  
+[White soft coral snapping shrimps](alphballsoft)  
+[Many-band snapping shrimps](alphmanyband)  
+[Ornamented snapping shrimps](alphornament)  
+[Smooth snapping shrimps](alphsmooth)
   
  
 **Family
@@ -263,12 +263,12 @@ Synalpheus quadrispinosus*
 **Links**  
 
 - [Mangrove
-  snapping prawns (*Alpheus* spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2040.htm) Ng, Peter K. L. & N.
+  snapping prawns (*Alpheus* spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2040) Ng, Peter K. L. & N.
   Sivasothi, 1999. *[A
   Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
   Singapore Science Centre. 168 pp.
 - [Snapping
-  or Pistol Shrimp (Family Alpheidae)](http://mangrove.nus.edu.sg/pub/seashore/text/181.htm) Tan, Leo W. H. & Ng, Peter
+  or Pistol Shrimp (Family Alpheidae)](http://mangrove.nus.edu.sg/pub/seashore/text/181) Tan, Leo W. H. & Ng, Peter
   K. L., 1988, *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
@@ -280,7 +280,7 @@ Synalpheus quadrispinosus*
   Shrimp](http://www.scientificamerican.com/article.cfm?id=snapping-shrimp) by Kristin Leutwyler on Scientific American.
 - D. Lohse,
   B. Schmitz & M. Versluis (2001). "Snapping shrimp make flashing
-  bubbles". Nature 413 (6855): 477-478. [DOI:10.1038/35097152](http://www.nature.com/nature/journal/v413/n6855/abs/413477a0.html).
+  bubbles". Nature 413 (6855): 477-478. [DOI:10.1038/35097152](http://www.nature.com/nature/journal/v413/n6855/abs/413477a0l).
 
 **References**
 
@@ -302,9 +302,9 @@ Synalpheus quadrispinosus*
   S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
   Australian Waters*. Reed New Holland. 224 pp
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

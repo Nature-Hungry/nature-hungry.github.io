@@ -4,29 +4,29 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "hermit, crab, anomura, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../../wildfactsheet3.gif)](../../../../index.html)
+[![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../../index.html)  
+[wildfactsheets homepage](../../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![talking points for nature guides](../../../../../Templates/fornatureguides.gif)](../../../fnghermitcrabs.htm)
+[![talking points for nature guides](../../../../../Templates/fornatureguides.gif)](../../../fnghermitcrabs)
 
-[all animals](../../../../animals.htm)
-| [all plants](../../../../plants.htm)
-| [concepts](../../../../concepts/index.html)
-| [glossary](../../../../glossary/index.html)
-| [search](../../../../search.htm)
+[all animals](../../../../animals)
+| [all plants](../../../../plants)
+| [concepts](../../../../concepts/indexl)
+| [glossary](../../../../glossary/indexl)
+| [search](../../../../search)
 
 hermit crabs
-[text index](../../../crustaceaindex.htm#anomurans) | [photo
-index](../../../anomurafi.htm)
-Phylum [Arthropoda](../../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../../crustacea.htm) >
-Class Malacostraca > Order [Decapoda](../../../decapoda.htm)
+[text index](../../../crustaceaindex#anomurans) | [photo
+index](../../../anomurafi)
+Phylum [Arthropoda](../../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../../crustacea) >
+Class Malacostraca > Order [Decapoda](../../../decapoda)
 > Anomurans
 ****Hermit
 crabs**   
@@ -50,9 +50,9 @@ same kind of hermit crab may live in different kinds of empty shells.
 Hermit crabs may live even in broken shells.  
   
 **What are hermit crabs?** Hermit
-crabs belong a subgroup called Anomurans in the Order [Decapoda](../../../decapoda.htm).
+crabs belong a subgroup called Anomurans in the Order [Decapoda](../../../decapoda).
 Anomurans includes [porcelain
-crabs](../porcellanidae/porcellanidae.htm). These crab-like animals are not true crabs. True crabs
+crabs](../porcellanidae/porcellanidae). These crab-like animals are not true crabs. True crabs
 belong to a subgroup called Brachyurans within the Order Decapoda.  
   
 **Features:** True crabs have a hard,
@@ -108,7 +108,7 @@ shell is a potential hermit crab home. Even a tiny broken shell or
 an ugly shell covered with barnacles. One of the factors limiting
 the population of hermit crabs is the availability of suitable empty
 shells. So please don't take any shells away from our shores. [More
-about hermit crabs moving into a new shell](http://wildshores.blogspot.com/2008/11/hermit-crabs-at-great-shell-exchange.html) on the wild shores
+about hermit crabs moving into a new shell](http://wildshores.blogspot.com/2008/11/hermit-crabs-at-great-shell-exchangel) on the wild shores
 of singapore blog.
 *![](coenobita/070602sjig9792m3.jpg)*Land
 hermit crabs may even live   
@@ -120,35 +120,35 @@ to tiny hermit crabs. *Changi, Apr 05*
 **Living with a hermit:** The hermit
 crab makes such a comfy home in its borrowed shell that other animals
 take up residence with it. These include the [Slipper
-snail](../../../../mollusca/gastropoda/calyptraeidae/calyptraeidae.htm) (Family Crepidulidae), [tiny
-porcelain crabs](../porcellanidae/hermit.htm) and [sea
-anemones](../../../../cnidaria/actiniaria/hermitsmall.htm). These animals enjoy the constant flow of oxygenated
+snail](../../../../mollusca/gastropoda/calyptraeidae/calyptraeidae) (Family Crepidulidae), [tiny
+porcelain crabs](../porcellanidae/hermit) and [sea
+anemones](../../../../cnidaria/actiniaria/hermitsmall). These animals enjoy the constant flow of oxygenated
 water that the hermit crab generates, snack on the hermit crab's leftovers,
 and the hermit crab will hide in the sand or crevices where its safe
 and wet so the hitch-hikers don't risk drying out.
 *![](lavender/070419chgg8686m3.jpg)*  
 [Tiny sea
-anemones](../../../../cnidaria/actiniaria/hermitsmall.htm) may be found on   
+anemones](../../../../cnidaria/actiniaria/hermitsmall) may be found on   
 a shell occupied by a hermit crab. *Changi, Apr 07*
 *![](../../../../cnidaria/actiniaria/hermitbig/040701chgd1385m3.jpg)*Others may have [big
-sea anemones](../../../../cnidaria/actiniaria/hermitbig.htm)! *Changi, Apr 07* 
+sea anemones](../../../../cnidaria/actiniaria/hermitbig)! *Changi, Apr 07* 
 *![](stripeorange/050428cftg5276m3a.jpg)*[Slipper
-snails](../../../../mollusca/gastropoda/calyptraeidae/calyptraeidae.htm) are often found on the inside of the shell occupied by a hermit crab. *Changi, Apr 05*
+snails](../../../../mollusca/gastropoda/calyptraeidae/calyptraeidae) are often found on the inside of the shell occupied by a hermit crab. *Changi, Apr 05*
 
-*![](stripeorange/050428cftg5276m3b.jpg)* [Tiny porcelain crabs](../porcellanidae/hermit.htm)  *Changi, Apr 05*
+*![](stripeorange/050428cftg5276m3b.jpg)* [Tiny porcelain crabs](../porcellanidae/hermit)  *Changi, Apr 05*
 
-*![](stripeorange/060529chgd2556m3d.jpg)*[Keelworms](../../../../worm/polychaeta/serpulidae.htm) may build their tubes on the shell. *Changi, Jun 05*
+*![](stripeorange/060529chgd2556m3d.jpg)*[Keelworms](../../../../worm/polychaeta/serpulidae) may build their tubes on the shell. *Changi, Jun 05*
 
 *![](stripeorange/080801chgd8593m3b.jpg)*Little animals also bore into the shell,   
 possibly boring sponges.  *Changi, Aug 08*
 
 *![](stripeorange/080801chgd8593m3.jpg)*[Scale
-worms](../../../../worm/polychaeta/scaleworm.htm) are sometimes seen on the shell. *Changi, Aug 08*
+worms](../../../../worm/polychaeta/scaleworm) are sometimes seen on the shell. *Changi, Aug 08*
 
 *![](stripeorange/080801chgd8593m3c.jpg)*Unknown animal on the shell. *Changi, Aug 08*
 
 *![](stripeorange/060529chgd2556m3.jpg)*[Slipper
-snails](../../../../mollusca/gastropoda/calyptraeidae/calyptraeidae.htm) and [keelworms](../../../../worm/polychaeta/serpulidae.htm)  *Changi, Jun 05*
+snails](../../../../mollusca/gastropoda/calyptraeidae/calyptraeidae) and [keelworms](../../../../worm/polychaeta/serpulidae)  *Changi, Jun 05*
 **What do they eat?** Many hermit
 crabs are scavengers. These have a keen sense of smell to find their
 food. Others eat algae and detritus.   
@@ -171,7 +171,7 @@ sold also eventually die from neglect or ignorance of proper care.
 For example, within the confinement of a small tank, most die during
 a moult. In the wild, they are able to find the correct place to moult,
 with the proper high humidity. [More
-about moulting](../../../moulting.htm).
+about moulting](../../../moulting).
 
 *![](stripeorange/050726chgg0377m3.jpg)*Moult outside the shell,  
 original hermit crab inside the shell? *Changi, Jul 05*
@@ -215,7 +215,7 @@ small animals live with hermit crabs (see above). Many hermit crabs
 are scavengers and help quickly recycle dead matter on the shores.  
   
 **Status and threats:** The [Land
-hermit crabs](coenobita.htm) (*Coenobita* sp.) are listed as 'Vulnerable'
+hermit crabs](coenobita) (*Coenobita* sp.) are listed as 'Vulnerable'
 on the Red List of threatened animals of Singapore due to loss of
 our natural beaches. As for our other hermit crabs, like other creatures
 of the intertidal zone, they are affected by human activities such
@@ -230,44 +230,44 @@ crabs on Singapore shores**
 ---
 
 **![](huddling/060131sjig4376m3.jpg)  
-[Huddling hermit crab](huddling.htm)**
+[Huddling hermit crab](huddling)**
 
 **![](tidal/050609cftg7489m3a.jpg)  
-[Tidal hermit crab](tidal.htm)**
+[Tidal hermit crab](tidal)**
 
 ***![](lavender/070218tmd8013m3.jpg)*  
-[Lavender hermit crab](lavender.htm)**
+[Lavender hermit crab](lavender)**
 
 ---
 
-***![](banded/050113sntg2834m3a.jpg)*[Banded hermit crab](banded.htm)**
+***![](banded/050113sntg2834m3a.jpg)*[Banded hermit crab](banded)**
 
-***![](bandedpink/130923tmftd3454m3.jpg)*[Pink banded hermit crab](banded.htm)**
-
----
-
-***![](blueelbow/100712chgd8429m3.jpg)*[Blue-elbow hermit crab](blueelbow.htm)**
-
-***![](black/080816sisd9480m3.jpg)*[All-black hermit crab](black.htm)**
-
-***![](goldspot/050720sntg9519m3.jpg)*[Gold-spotted hermit crab](goldspot.htm)**
+***![](bandedpink/130923tmftd3454m3.jpg)*[Pink banded hermit crab](banded)**
 
 ---
 
-***![](stripeorange/050206cjdd9978m3.jpg)*[Orange-striped hermit crab](stripeorange.htm)**
+***![](blueelbow/100712chgd8429m3.jpg)*[Blue-elbow hermit crab](blueelbow)**
 
-***![](stripeblue/030712hntd0016m3a.jpg)*[Blue-striped hermit crab](stripeblue.htm)**
+***![](black/080816sisd9480m3.jpg)*[All-black hermit crab](black)**
 
-***![](tawny/120618tmnbd5283m3.jpg)*[Tawny hermit crab](tawny.htm)**
+***![](goldspot/050720sntg9519m3.jpg)*[Gold-spotted hermit crab](goldspot)**
 
 ---
 
-***![](orangespot/090606tmftd3116m3.jpg)*[Spotted orange hermit crab](orangespot.htm)**
+***![](stripeorange/050206cjdd9978m3.jpg)*[Orange-striped hermit crab](stripeorange)**
 
-***![](veryhairy/060228labg5303m3.jpg)*[Very hairy hermit crab](veryhairy.htm)**
+***![](stripeblue/030712hntd0016m3a.jpg)*[Blue-striped hermit crab](stripeblue)**
+
+***![](tawny/120618tmnbd5283m3.jpg)*[Tawny hermit crab](tawny)**
+
+---
+
+***![](orangespot/090606tmftd3116m3.jpg)*[Spotted orange hermit crab](orangespot)**
+
+***![](veryhairy/060228labg5303m3.jpg)*[Very hairy hermit crab](veryhairy)**
 
 **![](coenobita/091204pawd5419m3.jpg)  
-[Land hermit crab](coenobita.htm)**
+[Land hermit crab](coenobita)**
 
 ---
 
@@ -302,43 +302,43 @@ are difficult to positively identify without close examination.
 On this website, they are grouped by external features for convenience
 of display.* 
  
-[Huddling hermit crab](huddling.htm)   
-[Lavender hermit crab](lavender.htm)
+[Huddling hermit crab](huddling)   
+[Lavender hermit crab](lavender)
   
  
 **[Family
-Coenobitidae](coenobita.htm)** (Land hermit crabs) with list of species recorded for Singapore
+Coenobitidae](coenobita)** (Land hermit crabs) with list of species recorded for Singapore
   
  
 **Family
 Diogenidae**
  
 [*Clibanarius*
-spp.](clibanarius.htm) *Clibanarius clibanarius  
-[Clibanarius cruentatus](goldspot.htm)* (Gold-spotted
-hermit crab) \**[Clibanarius infraspinatus](stripeorange.htm)*
+spp.](clibanarius) *Clibanarius clibanarius  
+[Clibanarius cruentatus](goldspot)* (Gold-spotted
+hermit crab) \**[Clibanarius infraspinatus](stripeorange)*
 (Orange-striped hermit crab)  
-\**[Clibanarius longitarsus](stripeblue.htm)* (Blue-striped
+\**[Clibanarius longitarsus](stripeblue)* (Blue-striped
 hermit crab)  
 *Clibanarius merguiensis*  
 *Clibanarius padavensis*  
 *Clibanarius serenei*  
 *Clibanarius striolatus*  
-+[*Clibanarius* sp.](black.htm) (All-black hermit
++[*Clibanarius* sp.](black) (All-black hermit
 crab)  
-+[*Clibanarius* sp.](tawny.htm) (Tawny hermit
++[*Clibanarius* sp.](tawny) (Tawny hermit
 crab)   
   
 *Dardanus callichela  
 Dardanus gemmatus  
 Dardanus hessii*  
-+*[Dardanus lagopodes](veryhairy.htm)* (Very
++*[Dardanus lagopodes](veryhairy)* (Very
 hairy hermit crab)   
-[*Dardanus megistos*](orangespot.htm)  (Orange
+[*Dardanus megistos*](orangespot)  (Orange
 spotted hermit crab)  
 *Dardanus setifer*  
   
-\*[*Diogenes* sp.](tidal.htm) (Tidal hermit crab)\**Diogenes avarus* (Common tidal hermit crab) *Diogenes custos  
+\*[*Diogenes* sp.](tidal) (Tidal hermit crab)\**Diogenes avarus* (Common tidal hermit crab) *Diogenes custos  
 Diogenes diogenes  
 Diogenes edwardsii  
 Diogenes fasciatus  
@@ -355,13 +355,13 @@ Diogenes pallescens
 Diogenes platyops=\*\*Diogenes jubatus  
 +Diogenes singaporensis   
 Diogenes stenops=\*\*Diogenes jousseaumei  
-Diogenes tumidus* *[Paguristes longirostris](blueelbow.htm)*(Blue-elbowed hermit crab) *+[Pseudopaguristes monoporus](banded.htm)*('Blue-orange' banded hermit crab)
+Diogenes tumidus* *[Paguristes longirostris](blueelbow)*(Blue-elbowed hermit crab) *+[Pseudopaguristes monoporus](banded)*('Blue-orange' banded hermit crab)
   
  
 **\*\*Family
 Paguridae** (previously in Family Diogenidae)
  
-*+[Pagurus hedleyi](bandedpink.htm)* (Pink banded
+*+[Pagurus hedleyi](bandedpink)* (Pink banded
 hermit crab) *Pagurus kulkarnii  
 +Pagurus pitagsaleei  
   
@@ -372,19 +372,19 @@ Spiropagurus spiriger*
 **Links**
 
 - [Mangrove
-  hermit crab (*Diogenes* sp.) Family Diogenidae](http://mangrove.nus.edu.sg/guidebooks/text/2062.htm)  and the
+  hermit crab (*Diogenes* sp.) Family Diogenidae](http://mangrove.nus.edu.sg/guidebooks/text/2062)  and the
   [Land
-  hermit crab (*Coenobita cavipes*) Family Coenobitidae](http://mangrove.nus.edu.sg/guidebooks/text/2063.htm)
+  hermit crab (*Coenobita cavipes*) Family Coenobitidae](http://mangrove.nus.edu.sg/guidebooks/text/2063)
   Ng, Peter K. L. & N. Sivasothi, 1999. *[A
   Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
   Singapore Science Centre. 168 pp.
 - [Hermit
-  Crabs, Order Decapoda](http://mangrove.nus.edu.sg/pub/seashore/text/186.htm) Tan, Leo W. H. & Ng, Peter K. L., 1988.
+  Crabs, Order Decapoda](http://mangrove.nus.edu.sg/pub/seashore/text/186) Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide
   to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore.
   160 pp.
 - [Hermit
-  crabs and their allies](http://www.museum.vic.gov.au/crust/hermgall.html) on the Marine Crustaceans of Southern
+  crabs and their allies](http://www.museum.vic.gov.au/crust/hermgalll) on the Marine Crustaceans of Southern
   Australia page on the Museum Victoria website: an introduction
   including a section on their biology which has lots of labelled
   diagrams, and photos and fact sheets on some hermits of Southern
@@ -394,7 +394,7 @@ Spiropagurus spiriger*
   BiotaTaiwanica website: detailed descriptions, drawings and photos
   of many species.
 - [Hermit
-  crabs at the great shell exchange](http://wildshores.blogspot.com/2008/11/hermit-crabs-at-great-shell-exchange.html) on the wild shores of singapore
+  crabs at the great shell exchange](http://wildshores.blogspot.com/2008/11/hermit-crabs-at-great-shell-exchangel) on the wild shores of singapore
   blog.
 
 **References**
@@ -446,9 +446,9 @@ Spiropagurus spiriger*
   of the Invertebrates*.
   5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
 
-[links](../../../../links.htm)
-| [references](../../../../references.htm)
-| [about](../../../../about.htm)
+[links](../../../../links)
+| [references](../../../../references)
+| [about](../../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

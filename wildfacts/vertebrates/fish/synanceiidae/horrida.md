@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "stonefish, stone, fish, synanceia, horrida, synanceiidae, scorpaenidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm)> Family [Synanceiidae](synanceiidae.htm)
+> Subphylum Vertebrata > [fishes](../fish)> Family [Synanceiidae](synanceiidae)
 **Hollow-cheeked
 stonefish  
 *Synanceia horrida*  
@@ -57,7 +57,7 @@ often moves on top of reefs.
   
 **Sometimes mistaken for** scorpionfishes.
 Here's more on [how to tell apart fishes
-that look like stones](../cfstonefish.htm).
+that look like stones](../cfstonefish).
 ![](horrida/060312hntd0311m3.jpg)  
 Large pectoral fins. Tail curled. Spines up. *Pulau Hantu, Mar 06*
 *![](horrida/060312hntd0315m3.jpg)*Tough
@@ -121,7 +121,7 @@ eat fishes and crustaceans.
   
 **What will eat a stonefish?** Incredible
 as it may sound, some animals do eat them. According to the [Australian
-Museum](http://www.amonline.net.au/fishes/students/focus/sverruc.htm), sharks and rays and a sea snake (*Astrotia stokesii*)
+Museum](http://www.amonline.net.au/fishes/students/focus/sverruc), sharks and rays and a sea snake (*Astrotia stokesii*)
 eats them! And of course, some people eat them as a delicacy.   
   
 **Human uses:** The stonefish is harvested
@@ -163,11 +163,11 @@ flickr](http://www.flickr.com/photos/budak/4785594384/).
 ![](horrida/091218tmlks4m3.JPG) *Tanah Merah,
 Dec 09*Photo
 shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/12/tanah-merah-brightly-led.html).
+blog](http://wondercreation.blogspot.com/2009/12/tanah-merah-brightly-ledl).
 
 ![](horrida/091009tmtch1m3.jpg)  
  *Tanah Merah, Oct 09* Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2009/10/mission-failed-again.html).
+blog](http://colorclouds.blogspot.com/2009/10/mission-failed-againl).
 
 ---
 
@@ -193,14 +193,14 @@ shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/6166288347/)
 
 ![](horrida/100515sjilks8m3.jpg)  
  *St. John's Island, May 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/05/colourful-st-johns-reef.html).
+blog](http://wondercreation.blogspot.com/2010/05/colourful-st-johns-reefl).
 
 ---
 
 *![](horrida/090509sislks6m3.jpg)*A
 tiny one! *Sisters Island, May 09*Photo
 shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/05/back-to-big-sisters.html).
+blog](http://wondercreation.blogspot.com/2009/05/back-to-big-sistersl).
 
 ![](horrida/120505sisjk1m3.jpg) *Sisters Island, May 12*Photos shared by James Koh on  [his blog](http://singaporenature.wordpress.com/2012/05/07/120505-big-sisters/).
 
@@ -212,7 +212,7 @@ blog](http://wondercreation.blogspot.com/2009/05/back-to-big-sisters.html).
 ---
 
 ![](horrida/110830cyrjk3m3.jpg) *Cyrene Reef, Aug 11*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2011/08/110830-cyrene.html).
+blog](http://sgn090608.blogspot.com/2011/08/110830-cyrenel).
 
 *![](horrida/171104cyrlks3.jpg)  
 Cyrene Reef, Nov 17*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10155830727273158&set=a.10155830725878158&type=3&theater).
@@ -237,21 +237,21 @@ Cyrene Reef, Nov 17*Photo shared by Loh Kok Sheng on [facebook](https://www.face
 **Links**  
 
 - [Hollow-cheek
-  Stonefish (*Synanceia horrida*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/256.htm) Lim, Kelvin K. P. & Jeffrey
+  Stonefish (*Synanceia horrida*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/256) Lim, Kelvin K. P. & Jeffrey
   K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
 - [Stonefish
-  (*Synanceia horrida*)](http://mangrove.nus.edu.sg/pub/seashore/text/231.htm) Tan, Leo W. H. & Ng, Peter K. L.,
+  (*Synanceia horrida*)](http://mangrove.nus.edu.sg/pub/seashore/text/231) Tan, Leo W. H. & Ng, Peter K. L.,
   1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
-- [*Synanceia horrida*](https://singapore.biodiversity.online/taxo4254/mainSpace/synanceia%20horrida.html) (Scorpaeniformes: Synanceiidae) Estuarine Stonefish by Sze Yue, 2015, on taxo4254.
+- [*Synanceia horrida*](https://singapore.biodiversity.online/taxo4254/mainSpace/synanceia%20horridal) (Scorpaeniformes: Synanceiidae) Estuarine Stonefish by Sze Yue, 2015, on taxo4254.
 - [*Synanceia
   horrida (*Estuarine stonefish)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=6389) from [FishBase](http://www.fishbase.org/):
   Technical fact sheet
-- [Stepping on Stonefish: A Year On (Part 1)](http://lazy-lizard-tales.blogspot.sg/2011/01/stepping-on-stonefish-year-on-part-1.html) and [Part 2](http://lazy-lizard-tales.blogspot.sg/2011/01/stepping-on-stonefish-year-on-part-2.html) from Lazy Lizard Tales.
-- [How many stonefishes at Sentosa?](http://wildshores.blogspot.sg/2012/07/how-many-stonefishes-at-sentosa.html) on wild shores of singapore.
+- [Stepping on Stonefish: A Year On (Part 1)](http://lazy-lizard-tales.blogspot.sg/2011/01/stepping-on-stonefish-year-on-part-1l) and [Part 2](http://lazy-lizard-tales.blogspot.sg/2011/01/stepping-on-stonefish-year-on-part-2l) from Lazy Lizard Tales.
+- [How many stonefishes at Sentosa?](http://wildshores.blogspot.sg/2012/07/how-many-stonefishes-at-sentosal) on wild shores of singapore.
 
 **References**
 
@@ -272,9 +272,9 @@ Cyrene Reef, Nov 17*Photo shared by Loh Kok Sheng on [facebook](https://www.face
   Reef Fishes of the World*
   Periplus Editions. 400pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

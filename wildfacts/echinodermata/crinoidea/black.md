@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "black, feather, star, featherstar, comatulida, crinoidea, crinoid, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 crinoids
-[text index](../echinodermindex.htm#crinoidea) | [photo
-index](../crinoideafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class Crinoidea > Order [Comatulida](crinoidea.htm)
+[text index](../echinodermindex#crinoidea) | [photo
+index](../crinoideafi)
+Phylum [Echinodermata](../echinodermata)
+> Class Crinoidea > Order [Comatulida](crinoidea)
 **Black-and-white
 feather star**  
 ***awaiting
@@ -88,7 +75,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 ![](black/140615skdlks1m3.JPG)  
 *Pulau Sekudu,
 Jun 14*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2014/06/coral-rubble-survey-at-pulau-sekudu.html).
+blog](http://wondercreation.blogspot.sg/2014/06/coral-rubble-survey-at-pulau-sekudul).
 
 ![](black/230606cjky3.jpg)  
 *Chek Jawa,
@@ -112,11 +99,11 @@ Island, Jan 10*Photo shared by Loh Kok Sheng on  [flickr](http://www.flickr.com/
 ![](black/080605hntlks01m3.jpg)  
 *Pulau Hantu,
 Jun 08*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2008/06/zoanthids-hunt-at-hantu.html).
+blog](http://wondercreation.blogspot.com/2008/06/zoanthids-hunt-at-hantul).
 
 ![](black/151225tsmklks3m3.jpg)  
 *Terumbu Semakau, Dec 15*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2015/12/christmas-with-full-moon-at-terumbu.html).
+blog](http://wondercreation.blogspot.sg/2015/12/christmas-with-full-moon-at-terumbul).
 
 ---
 
@@ -139,14 +126,4 @@ blog](http://wondercreation.blogspot.sg/2015/12/christmas-with-full-moon-at-teru
 
   
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

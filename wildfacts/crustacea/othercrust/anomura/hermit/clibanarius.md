@@ -4,29 +4,29 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "hermit, crab, clibanarius, diogenidae, anomura, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../../wildfactsheet3.gif)](../../../../index.html)
+[![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../../index.html)  
+[wildfactsheets homepage](../../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../../animals.htm)
-| [all plants](../../../../plants.htm)
-| [concepts](../../../../concepts/index.html)
-| [glossary](../../../../glossary/index.html)
-| [search](../../../../search.htm)
+[all animals](../../../../animals)
+| [all plants](../../../../plants)
+| [concepts](../../../../concepts/indexl)
+| [glossary](../../../../glossary/indexl)
+| [search](../../../../search)
 
 hermit crabs
-[text index](../../../crustaceaindex.htm#anomurans) | [photo
-index](../../../anomurafi.htm)
-Phylum [Arthropoda](../../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../../crustacea.htm) >
-Class Malacostraca > Order [Decapoda](../../../decapoda.htm)
+[text index](../../../crustaceaindex#anomurans) | [photo
+index](../../../anomurafi)
+Phylum [Arthropoda](../../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../../crustacea) >
+Class Malacostraca > Order [Decapoda](../../../decapoda)
 > Anomurans
-> [hermit crabs](hermit.htm)
+> [hermit crabs](hermit)
 **Clibanarius
 hermit crabs *Clibanarius* spp.  
 Family Diogenidae***updated
@@ -47,7 +47,7 @@ stalks.
 ---
 
 [**Orange-striped
-hermit crab**](stripeorange.htm)  
+hermit crab**](stripeorange)  
 *Clibanarius infraspinatus*
 
 *![](stripeorange/110504nsrccd0525m3.jpg)*
@@ -65,7 +65,7 @@ orange.
 ---
 
 [**Tawny
-hermit crab**](tawny.htm)  
+hermit crab**](tawny)  
 *Clibanarius* sp.
 
 *![](tawny/120618tmnbd5283m3.jpg)*
@@ -82,7 +82,7 @@ orange.
 ---
 
 [**Blue-striped
-hermit crab**](stripeblue.htm)  
+hermit crab**](stripeblue)  
 *Clibanarius longitarsus*
 
 ![](stripeblue/110418tmftd8889m3a.jpg)
@@ -99,7 +99,7 @@ or olive.
 ---
 
 **[All-black
-hermit crab](black.htm)**  
+hermit crab](black)**  
 *Clibanarius* sp.
 
 *![](black/080816sisd9480m3.jpg)*
@@ -117,7 +117,7 @@ or olive.
 ---
 
 **[Gold-spotted
-hermit crab](goldspot.htm)**  
+hermit crab](goldspot)**  
 *Clibanarius cruentatus*
 
 *![](goldspot/101221tmfts02215m3.jpg)*
@@ -147,9 +147,9 @@ or olive.
   S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
   Australian Waters*. Reed New Holland. 224 pp.
 
-[links](../../../../links.htm)
-| [references](../../../../references.htm)
-| [about](../../../../about.htm)
+[links](../../../../links)
+| [references](../../../../references)
+| [about](../../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

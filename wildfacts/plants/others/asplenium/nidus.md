@@ -9,19 +9,19 @@ layout: default
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 plants
-[text index](../../plantindex.htm) | [photo
-index](../../plantfi.htm)
+[text index](../../plantindex) | [photo
+index](../../plantfi)
 
 ****Birds'
 nest fern  
@@ -52,7 +52,7 @@ fronds under the younger, green fronds.
 **Role in the habitat:** The fern
 is such a rich source of water and nutrients, that often, other ferns
 and plants may grow on it. Sometimes, [small
-bats](../../../vertebrates/mammals/brachyotis.htm) may roost under the fern, chewing off some of the inner portions
+bats](../../../vertebrates/mammals/brachyotis) may roost under the fern, chewing off some of the inner portions
 of the 'skirt' of dead leaves to create a cosy 'umbrella' for themselves. The Spotted Wood owl may also nest in this fern.  
  **Human uses:** According to Wee, the leaves are used to ease
 labour pains by a tribe in Malaysia. The Malays use the leaves for
@@ -86,9 +86,9 @@ Dec 09* ![](nidus/091213ubnd5814m3a.jpg)
   Chin. 1983. *Ferns of Singapore*. The Singapore Science Centre.
   72pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

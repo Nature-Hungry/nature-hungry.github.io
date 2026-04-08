@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "damsel, fish, damselfish, anemonefish, pomacentridae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm)
+> Subphylum Vertebrata > [fishes](../fish)
 **Damselfishes**   **Family Pomacentridae***updated
 Sep 2020*
 
@@ -46,7 +46,7 @@ in size, colour and shape. Some species can grow to 35cm, others are
 1cm or smaller. Those that eat algae tend to be duller while plankton-feeders
 tend to be more colourful.
 *![](ocellaris/140713tsmkd7177m3.jpg)*  
-Clown anemonfish in a [Magnificent anemone](../../../cnidaria/actiniaria/magnifica.htm). *Terumbu Semakau, Jul 14*
+Clown anemonfish in a [Magnificent anemone](../../../cnidaria/actiniaria/magnifica). *Terumbu Semakau, Jul 14*
 ![](tripunctatus/070531sisg9763m3.jpg)  
 Juvenile damselfishes can look   
 very different from the adults.  
@@ -62,7 +62,7 @@ that feed on algae are often aggressively territorial, defending their
 feeding area from all intruders. These tiny damselfishes will vigorously
 harass larger fishes and even divers.  
   
-According to Jeffrey Low on the Singapore Biodiversity Records: The sergeant damselfishes commonly seen on our shores have overlapping habitat and feeding requirements. The [Bengal sergeant](bengalensis.htm) occurs singly or in small groups in inshore and lagoon coral reefs at depths of 1-6 m. It feeds on seaweed, snails and small crabs, and is highly territorial. The [Scissortail sergeant](sexfasciatus.htm) lives on coral or rocky reefs, and also in shallow reef flats or crests, at depths of 1-20 m, usually where tall soft coral or hydroid colonies are present. It often forms groups at midwater, high in the water column to feed on zooplankton and algae. The [Indo-pacific sergeant](vaigiensis.htm) lives in the upper edge of outer reef slopes and inshore rocky reefs at depths of 1-15 m. Although tending feed on the bottom, eating algae and small invertebrates, it often forms groups in midwater to feed on zooplankton.  
+According to Jeffrey Low on the Singapore Biodiversity Records: The sergeant damselfishes commonly seen on our shores have overlapping habitat and feeding requirements. The [Bengal sergeant](bengalensis) occurs singly or in small groups in inshore and lagoon coral reefs at depths of 1-6 m. It feeds on seaweed, snails and small crabs, and is highly territorial. The [Scissortail sergeant](sexfasciatus) lives on coral or rocky reefs, and also in shallow reef flats or crests, at depths of 1-20 m, usually where tall soft coral or hydroid colonies are present. It often forms groups at midwater, high in the water column to feed on zooplankton and algae. The [Indo-pacific sergeant](vaigiensis) lives in the upper edge of outer reef slopes and inshore rocky reefs at depths of 1-15 m. Although tending feed on the bottom, eating algae and small invertebrates, it often forms groups in midwater to feed on zooplankton.  
   
 **Damsel babies:** In many species,
 a nest site is prepared by one or both partners. The eggs are attached
@@ -76,7 +76,7 @@ aquarium trade, most die before they can reach the retailers. Without
 professional care, most die soon after they are sold. Those that do
 survive are unlikely to breed successfully.   
   
-**Status and threats:** [Anemonefishes](amphiprion.htm) of the Family Pomacentridae are listed among the threatened animals
+**Status and threats:** [Anemonefishes](amphiprion) of the Family Pomacentridae are listed among the threatened animals
 of Singapore. Like other creatures of the intertidal zone, they are
 affected by human activities such as reclamation and pollution. Overcollection
 by hobbyists and overfishing can also have an impact on local populations.
@@ -89,22 +89,22 @@ on Singapore shores**
 ---
 
 **![](ocellaris/040605kusbd0077m3.jpg)  
-[False clown anemonefish](ocellaris.htm)**
+[False clown anemonefish](ocellaris)**
 
-***![](frenatus/040829kusg1741m3.jpg)*[Tomato anemonefish](frenatus.htm)**
+***![](frenatus/040829kusg1741m3.jpg)*[Tomato anemonefish](frenatus)**
 
-***![](trimaculatus/110619tslgd4444m3.jpg)*[Three-spot dascyllus](trimaculatus.htm)**
+***![](trimaculatus/110619tslgd4444m3.jpg)*[Three-spot dascyllus](trimaculatus)**
 
 ---
 
 **![](bengalensis/110601tmnbd3146m3.jpg)  
-[Bengal sergeant](bengalensis.htm)**
+[Bengal sergeant](bengalensis)**
 
 **![](sexfasciatus/110602tmftd3507m3.jpg)  
-[Scissortail sergeant](sexfasciatus.htm)**
+[Scissortail sergeant](sexfasciatus)**
 
 **![](sordidus/080816sisd9504m3.jpg)  
-[Black-spot sergeant](sordidus.htm)**
+[Black-spot sergeant](sordidus)**
 
 5-7
 narrow bars black (sometimes grey) across a yellowish-green body. Tail with
@@ -126,7 +126,7 @@ Juvenile.
 Juvenile.*
 
 **[Yellow-banded
-damselfish](fasciatus.htm)**
+damselfish](fasciatus)**
 
  
  
@@ -145,7 +145,7 @@ Adult
 Juvenile**
 
 **[Honey-head
-damselfish](prosopotaenia.htm)**
+damselfish](prosopotaenia)**
 
  
  
@@ -167,7 +167,7 @@ Juvenile
 Adult
 
 **[Three-spot
-damselfish](tripunctatus.htm)**
+damselfish](tripunctatus)**
 
 ---
 
@@ -188,17 +188,17 @@ Pomacentridae
 Sergeant majors**
  
 *[Abudefduf
-bengalensis](bengalensis.htm)* (Bengal sergeant) *Abudefduf melas=\*\*Neoglyphidodon melas  
+bengalensis](bengalensis)* (Bengal sergeant) *Abudefduf melas=\*\*Neoglyphidodon melas  
 \*Abudefduf notatus* (Yellowtail sergeant) *Abudefduf plagiometopon=\*\*Hemiglyphidodon plagiometopon  
 Abudefduf saxatillis*   
-\**[Abudefduf sordidus](sordidus.htm)* (Black-spot
-sergeant) *[Abudefduf sexfasciatus](sexfasciatus.htm)* (Scissortail
+\**[Abudefduf sordidus](sordidus)* (Black-spot
+sergeant) *[Abudefduf sexfasciatus](sexfasciatus)* (Scissortail
 sergeant)  
 *Abudefduf vaigiensis* (Indo-Pacific
 sergeant)
   
  
-*[Amphiprion](amphiprion.htm)* [spp.](amphiprion.htm) (Clown
+*[Amphiprion](amphiprion)* [spp.](amphiprion) (Clown
 anemonefishes) with list of species recorded for Singapore
   
  
@@ -213,10 +213,10 @@ Chromis cinerascens
 \*Chromis xanthurus  
   
 +Chrysiptera parasema* (Goldtail damselfish) *+Dascyllus reticulatus   
-[Dascyllus trimaculatus](trimaculatus.htm)* (Threespot
-dascyllus) *Dischistodus chrysopoecilus* (Pale-spot damsel) *[Dischistodus fasciatus](fasciatus.htm)* (Yellow-banded
+[Dascyllus trimaculatus](trimaculatus)* (Threespot
+dascyllus) *Dischistodus chrysopoecilus* (Pale-spot damsel) *[Dischistodus fasciatus](fasciatus)* (Yellow-banded
 damsel) *\*Dischistodus melanotus  
-\*Dischistodus perpicillatus* (White damsel) *[Dischistodus prosopotaenia](prosopotaenia.htm)*
+\*Dischistodus perpicillatus* (White damsel) *[Dischistodus prosopotaenia](prosopotaenia)*
 (Honey-head damsel) *Eupomacentrus apicalis=\*\*Stegastes apicalis  
   
 Hemiglyphidodon plagiometopon  
@@ -232,7 +232,7 @@ Pomacentrus amboinensis
 \*Pomacentrus breviceps  
 \*Pomacentrus brachialis  
 [Pomacentrus
-cuneatus](tripunctatus.htm)* (Wedgespot damsel) *+Pomacentrus cheraphilus* (Silty damsel) *Pomacentrus chyrysopoecilus=\*\*Dischistodus chrysopoecilus  
+cuneatus](tripunctatus)* (Wedgespot damsel) *+Pomacentrus cheraphilus* (Silty damsel) *Pomacentrus chyrysopoecilus=\*\*Dischistodus chrysopoecilus  
 Pomacentrus fasciatus=\*\*Dischistodus fasciatus  
 Pomacentrus grammorhynchus  
 Pomacentrus littoralis* (Smoky damselfish) *Pomacentrus melanopterus=\*\*Pomacentrus brachialis  
@@ -242,7 +242,7 @@ Pomacentrus pristiger=\*\*Stegastes limbatus
 Pomacentrus prosoptaenia=\*\*Dischistodus prosopotaenia  
 Pomacentrus rhodonotus=\*\*Pomacentrus chrysurus  
 \*Pomacentrus richardsoni=\*\*Pomachromis richardsoni**+Pomacentrus simsiang* *Pomacentrus taeniurus=\*\*Neopomacentrus taeniurus  
-[Pomacentrus tripunctatus](tripunctatus.htm)* (Threespot
+[Pomacentrus tripunctatus](tripunctatus)* (Threespot
 damsel) *Pomacentrus violascens=\*\*Neopomacentrus violascens  
 Pomacentrus xanthus=\*\*Stegastes variabilis  
   
@@ -314,9 +314,9 @@ Pomacentrus xanthus=\*\*Stegastes variabilis
   Science, Nanyang Technological University & Department of Zoology,
   the National University of Singapore. 160 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "lobed, brain, mussidae, lobophylliidae, lobophyllia, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 hard corals [text
-index](../../coralhardindex.htm) | [photo index](../../cnidariafi1.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard.htm)
-> Family [Lobophylliidae](mussidae.htm)
+index](../../coralhardindex) | [photo index](../../cnidariafi1)
+Phylum [Cnidaria](../../cnidaria)
+> Class [Anthozoa](../../anthozoa) > Subclass
+Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard)
+> Family [Lobophylliidae](mussidae)
 **Lobed
 brain coral**  
 ***Lobophyllia* sp.\*  
@@ -58,9 +58,9 @@ tentacles (5cm) that when extended, the coral may be mistaken for
 a sea anemone. Colours seen include green, blue, purplish.  
   
 **Mistaken identity** Some ring-shaped Brain corals may resemble some species of [Trumpet
-corals](../merulinidae/caulastraea.htm) (*Caulastraea* sp.) as both have branching corallites
+corals](../merulinidae/caulastraea) (*Caulastraea* sp.) as both have branching corallites
 with circular openings. More on how to tell apart [hard
-corals with big rings and fleshy tissue](../cfbigring.htm).
+corals with big rings and fleshy tissue](../cfbigring).
 
 ![](lobophyllia/130824smkd2605m3.jpg)  
 *Pulau Semakau, Aug 13*
@@ -75,10 +75,10 @@ corals with big rings and fleshy tissue](../cfbigring.htm).
 *Kusu Island, May 05* Those
 with smaller circular corallites   
 sometimes mistaken for [Trumpet
-corals](../merulinidae/caulastraea.htm).
+corals](../merulinidae/caulastraea).
 
 *![](lobophyllia/050528kusg7047m3b.jpg)*Lobed brain corals have bigger 'teeth'  
-than [Trumpet corals](../merulinidae/caulastraea.htm).
+than [Trumpet corals](../merulinidae/caulastraea).
 
 ---
 
@@ -188,9 +188,9 @@ flickr](http://www.flickr.com/photos/budak/4708133539/).
   Corals: Selection, Husbandry and Natural History*
   T.F. H Publications. 464 pp
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

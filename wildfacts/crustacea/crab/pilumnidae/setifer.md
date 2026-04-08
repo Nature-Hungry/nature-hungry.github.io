@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "crab, hairy, crustacea, actumnus, setifer, pilumnidae, decapod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> Brachyurans > Family [Pilumnidae](pilumnidae.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> Brachyurans > Family [Pilumnidae](pilumnidae)
 **Rubble-carrying
 crab** ***Actumnus
 setifer***   
@@ -43,7 +43,7 @@ dead corals, soft stones or sponges.
   
 **Features:** Body width 2-3cm. Body
 oval, body and legs covered with velvety hairs, but is not as hairy
-as the [Common hairy crab](pilumnus.htm). It has stout
+as the [Common hairy crab](pilumnus). It has stout
 pincers, one larger than the other, both covered in bead-like bumps.  
   
 If the piece of coral is overturned, the crab will turn it back the
@@ -94,7 +94,7 @@ Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng
 ![](setifer/120722cyrmn1m3a.jpg)  
 *Cyrene Reef, Jul 12*  
 Photo shared by Marcus Ng on [his
-blog](http://budak.blogs.com/the_annotated_budak/2013/06/carrier-crab.html).
+blog](http://budak.blogs.com/the_annotated_budak/2013/06/carrier-crabl).
 
 ![](setifer/170812cyrmn4.jpg)  
 *Cyrene, Aug 17*  
@@ -110,14 +110,14 @@ Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo.php?fbid=
 [![Actumnus setifer clip 7 rubble-carrying hairy crab video](https://farm4.staticflickr.com/3766/8911338681_fbe4a946c2_z.jpg)](https://www.flickr.com/photos/budak/8911338681/ "Actumnus setifer clip 7 rubble-carrying hairy crab video")
 Video clip shared
 by Marcus Ng on [his
-blog](http://budak.blogs.com/the_annotated_budak/2013/06/carrier-crab.html).
+blog](http://budak.blogs.com/the_annotated_budak/2013/06/carrier-crabl).
 
 ---
 
 **Links**
 
 - [*Actumnus
-  setifer*](http://www.sealifebase.ca/summary/Actumnus-setifer.html) on [SeaLife
+  setifer*](http://www.sealifebase.ca/summary/Actumnus-setiferl) on [SeaLife
   Base](http://www.sealifebase.fisheries.ubc.ca/search.php): Technical fact sheet.
 - [*Actumnus
   setifer*](http://species-identification.org/species.php?species_group=crabs_of_japan&menuentry=soorten&id=1406&tab=beschrijving) on Crabs of Japan on Marine Species Identification
@@ -136,9 +136,9 @@ blog](http://budak.blogs.com/the_annotated_budak/2013/06/carrier-crab.html).
   crabs of the world*. The Raffles Bulletin of Zoology. Supplement
   No. 17, 31 Jan 2008. 286 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

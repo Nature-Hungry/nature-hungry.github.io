@@ -4,28 +4,28 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "seafan, fan, astrogorgia, plexauridae, gorgonian, gorgonacea, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 gorgonian
-[text index](../../cnidariaindex.htm#gorgonacea) | [photo
-index](../../gorgonaceafi.htm)
+[text index](../../cnidariaindex#gorgonacea) | [photo
+index](../../gorgonaceafi)
 
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Alcyonaria/Octocorallia > Order [Gorgonacea](gorgonacea.htm)
+Phylum [Cnidaria](../../cnidaria)
+> Class [Anthozoa](../../anthozoa) > Subclass
+Alcyonaria/Octocorallia > Order [Gorgonacea](gorgonacea)
 **Skinny
 sea fans**  
 ***Astrogorgia
@@ -50,8 +50,8 @@ and emerge on opposite edges of the flattened stems.
   
 Those seen on our shores often have all kinds of small animals clinging
 onto to them including [tiny
-colourful brittle stars](../../../echinodermata/ophiuroidea/tinycolourful.htm), transparent shrimps and [ovulid
-snails](../../../mollusca/gastropoda/ovulidae/ovulidae.htm).
+colourful brittle stars](../../../echinodermata/ophiuroidea/tinycolourful), transparent shrimps and [ovulid
+snails](../../../mollusca/gastropoda/ovulidae/ovulidae).
 
 ![](skinny/060613ecpd3053m3b.jpg)  
 *East Coast, Jun 06*
@@ -65,12 +65,12 @@ Chek Jawa, Jul 05*
 ---
 
 ![](../../../echinodermata/ophiuroidea/tinycolourful/120605lygd4160m3a.jpg)Tiny [colourful
-brittle stars](../../../echinodermata/ophiuroidea/tinycolourful.htm). *Changi, Jun 12*
+brittle stars](../../../echinodermata/ophiuroidea/tinycolourful). *Changi, Jun 12*
 
-*![](skinny/081214ecmd3212m3.jpg)*Red [flatworm](../../../worm/polycladida/polycladida.htm)? *East Coast, Dec 08*
+*![](skinny/081214ecmd3212m3.jpg)*Red [flatworm](../../../worm/polycladida/polycladida)? *East Coast, Dec 08*
 
 ![](../../../mollusca/gastropoda/ovulidae/red/060626ecpd3582m3.jpg)[Ovulid
-snails](../../../mollusca/gastropoda/ovulidae/red.htm)  
+snails](../../../mollusca/gastropoda/ovulidae/red)  
 *East Coast, Jun 06*
 
  *\***Species
@@ -96,7 +96,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 *![](skinny/091218tmlks2m3.JPG)  
 Tanah Merah, Dec 09*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/12/tanah-merah-brightly-led.html).
+blog](http://wondercreation.blogspot.com/2009/12/tanah-merah-brightly-ledl).
 
 *![](skinny/150618tmftlks7m3.jpg)  
 Tanah Merah Ferry Terminal, Jun 15*Photo shared by Loh Kok Sheng on [facebook.](https://www.facebook.com/lohkoksheng/media_set?set=a.10153416967613158.1073741882.547198157&type=3)
@@ -105,7 +105,7 @@ Tanah Merah Ferry Terminal, Jun 15*Photo shared by Loh Kok Sheng on [facebook.](
 
 *![](skinny/090723ecplks5m3.jpg)  
 East Coast Park, Jul 09*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/07/east-coast-is-packed-with-sea-fans.html).
+blog](http://wondercreation.blogspot.com/2009/07/east-coast-is-packed-with-sea-fansl).
 
 *![](skinny/170428ecpcnlks5.jpg)  
 East Coast PCN, Apr 17*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10155257710348158.1073741940.547198157&type=3).
@@ -134,9 +134,9 @@ East Coast PCN, Apr 17*Photo shared by Loh Kok Sheng on [facebook](https://www.f
   the Indo-West Pacific](http://lkcnhm.nus.edu.sg/rbz/biblio/44/44rbz435-459.pdf). Raffles
   Museum Bulletin of Zoology Pp. 435-459. [pdf, 3029kb].
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

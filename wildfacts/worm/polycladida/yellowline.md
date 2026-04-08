@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "elegant, striped, blue, lined, flat, worm, flatworm, pseudoceros, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 flatworms [text
-index](../wormindex.htm) | [photo index](../polycladidafi.htm)
-[worms](../worm.htm)
+index](../wormindex) | [photo index](../polycladidafi)
+[worms](../worm)
 > Phylum Platyhelminthes > Class
-Turbellaria > [Order Polycladida](polycladida.htm)
+Turbellaria > [Order Polycladida](polycladida)
 **Yellow-lined
 flatworm  
 *Pseudoceros* sp. 3*\******Family
@@ -53,7 +40,7 @@ Yellow-lined flatworm (*Pseudoceros* sp. 3): central line is yellow with dark bl
   
 Braided-line flatworm (*Pseudoceros* sp. 4): resembles Pseudoceros sp. 3 but the central line is golden-speckled yellow that looks intermittent by some dull orange and ends in front. Body colour bluish-white to bluish.   
   
-[Racing-lined flatworm](bifurcus.htm) (*Pseudoceros bifurcus*): Body solid blue to bluish purple (not bluish-white) with central line that is white (not yellow or golden) becoming orange
+[Racing-lined flatworm](bifurcus) (*Pseudoceros bifurcus*): Body solid blue to bluish purple (not bluish-white) with central line that is white (not yellow or golden) becoming orange
 or red near the head, the line is edged with a thin dark purple border.  
 
 ![](blueline/170628jngll1.jpg)  
@@ -118,19 +105,19 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 *Changi, Aug 19*Shared by Jianlin Liu on [facebook](https://www.facebook.com/marinelife90/media_set?set=a.10156644679786295&type=3).
 
 ![](blueline/160706skdlks3.jpg)  
- *Pulau Sekudu, Jul 16*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2016/07/baby-knobblies-at-pulau-sekudu.html).
+ *Pulau Sekudu, Jul 16*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2016/07/baby-knobblies-at-pulau-sekudul).
 
 ---
 
 ![](blueline/101009cjnml1m3a.jpg)  
  *Chek Jawa, Oct 10*Photo shared by Neo Mei Lin on [her
-blog](http://psychedelic-nature.blogspot.com/2010/10/im-seagrasser-chek-jawa.html).
+blog](http://psychedelic-nature.blogspot.com/2010/10/im-seagrasser-chek-jawal).
 
 ![](blueline/140114cjlks2m3a.jpg)  
- *Chek Jawa, Jan 14*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/01/any-impact-on-chek-jawa-from-dec-flood.html).
+ *Chek Jawa, Jan 14*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/01/any-impact-on-chek-jawa-from-dec-floodl).
 
 ![](blueline/130721cjlks1m3.jpg)  
- *Chek Jawa, Jul 13*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2013/07/chek-jawa-coral-rubble-survey-after-4.html).
+ *Chek Jawa, Jul 13*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2013/07/chek-jawa-coral-rubble-survey-after-4l).
 
 ---
 
@@ -147,21 +134,21 @@ blog](http://psychedelic-nature.blogspot.com/2010/10/im-seagrasser-chek-jawa.htm
 
 ![](blueline/150815sislks1m3.JPG)  
 *Seringat-Kias, Aug 15*Shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2015/08/baby-shark-at-big-sisters-island.html).
+blog](http://wondercreation.blogspot.sg/2015/08/baby-shark-at-big-sisters-islandl).
 
 ---
 
 ![](blueline/090224lazlks08m3.jpg)  
 *Lazarus, Feb 09*Shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/02/resurrection-of-lazarus.html).
+blog](http://wondercreation.blogspot.com/2009/02/resurrection-of-lazarusl).
 
 ![](blueline/110702lzrlks1m3.jpg)  
 *Lazarus, Jul 11*Shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/07/walk-around-lazarus-island.html).
+blog](http://wondercreation.blogspot.com/2011/07/walk-around-lazarus-islandl).
 
 ![](blueline/110702lzrlks9m3.jpg)  
 *Lazarus, Jul 11*Shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/07/walk-around-lazarus-island.html).
+blog](http://wondercreation.blogspot.com/2011/07/walk-around-lazarus-islandl).
 
 ---
 
@@ -170,7 +157,7 @@ blog](http://wondercreation.blogspot.com/2011/07/walk-around-lazarus-island.html
 
 ![](blueline/140131kuslks2m3.JPG)  
  *Kusu Island, Jan 14*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2014/01/stress-and-more-stress-on-kusu-island.html).
+blog](http://wondercreation.blogspot.sg/2014/01/stress-and-more-stress-on-kusu-islandl).
 
 ![](triplestripe/160124smkelks2a.jpg)  
  *Pulau Semakau East, Jan 16*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10153899838098158.1073741908.547198157&type=3).
@@ -180,11 +167,11 @@ blog](http://wondercreation.blogspot.sg/2014/01/stress-and-more-stress-on-kusu-i
 *![](blueline/110203sjilks1m3.JPG)  
 St. John's Island, Feb 11*Photo
 shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/02/lunar-new-year-day-1-st-johns-island.html).
+blog](http://wondercreation.blogspot.com/2011/02/lunar-new-year-day-1-st-johns-islandl).
 
 ![](blueline/070902sjilksm3.JPG)  
 *St. John's
-Island, Sep 07*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2007/09/evening-with-saint.html).
+Island, Sep 07*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2007/09/evening-with-saintl).
 
 ---
 
@@ -204,7 +191,7 @@ Pulau Tekukor, Jun 16*Photo shared by Loh Kok Sheng on [facebook](https://www.fa
 
 ![](blueline/100517jngjk2m3.jpg)  
  *Pulau Jong, May 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/05/100517-jong.html).
+blog](http://sgn090608.blogspot.com/2010/05/100517-jongl).
 
 ![](blueline/160609thntro1.jpg)  
  *Terumbu Hantu, Jun 16*Photo shared by Rene Ong on [facebook](https://www.facebook.com/media/set/?set=a.1127362260656804.1073741883.133291903397183&type=3).
@@ -214,12 +201,12 @@ blog](http://sgn090608.blogspot.com/2010/05/100517-jong.html).
 ![](blueline/100627hntlks2m3.jpg)  
 *Pulau Hantu,
 Jun 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/06/bleaching-at-hantu.html).
+blog](http://wondercreation.blogspot.com/2010/06/bleaching-at-hantul).
 
 ![](blueline/070701hntlks01m3.jpg)  
 *Pulau Hantu,
 Jul 07*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2007/07/my-many-firsts-at-ghost-island.html).
+blog](http://wondercreation.blogspot.com/2007/07/my-many-firsts-at-ghost-islandl).
 
 ![](blueline/161117rlhjll1.jpg)  
  *Raffles Lighthouse, Nov 16*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/marinelife90/media_set?set=a.10154150641696295.1073741876.542241294&type=3).
@@ -230,30 +217,30 @@ blog](http://wondercreation.blogspot.com/2007/07/my-many-firsts-at-ghost-island.
 Terumbu
 Bemban, Apr 11*  
 Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/04/corals-galore-at-terumbu-bemban.html).
+blog](http://wondercreation.blogspot.com/2011/04/corals-galore-at-terumbu-bembanl).
 
 ![](blueline/110517tptlks28m3.jpg)  
  *Terumbu Pempang Tengah, May 11*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengah.html)*.*
+blog](http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengahl)*.*
 
 ![](blueline/110423tpllks7m3.jpg)  
 *Terumbu
 Pempang Laut, Apr 11*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/04/first-visit-to-terumbu-pempang-laut.html).
+blog](http://wondercreation.blogspot.com/2011/04/first-visit-to-terumbu-pempang-lautl).
 
 ---
 
 ![](blueline/110814smklks7m3.jpg)  
  *Pulau Semakau, Aug 11*Photo shared by Lok Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/08/finally-galloping-sea-star-at-semakau.html).
+blog](http://wondercreation.blogspot.com/2011/08/finally-galloping-sea-star-at-semakaul).
 
 ![](blueline/100519tsmjk1m3.jpg)  
  *Terumbu Semakau, May 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/05/100519-terumbu-semakau.html).
+blog](http://sgn090608.blogspot.com/2010/05/100519-terumbu-semakaul).
 
 ![](blueline/110522bbblks11m3.jpg)  
 *Beting Bemban Besar, May 11*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/05/knobblies-at-beting-bemban-besar.html).
+blog](http://wondercreation.blogspot.com/2011/05/knobblies-at-beting-bemban-besarl).
 
 ---
 
@@ -315,14 +302,4 @@ and its identification.
   Flatworms: The World of Polyclads*.
   CSIRO Publishing. 97pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

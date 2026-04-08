@@ -9,21 +9,21 @@ layout: default
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 seaweeds
-[text index](../seaweedindex.htm) | [photo
-index](../seaweedfi.htm)
+[text index](../seaweedindex) | [photo
+index](../seaweedfi)
 
-[Seaweeds](../seaweed.htm) in general
+[Seaweeds](../seaweed) in general
 **Cyanobacteria** **Division Cyanophyta***updated
 Aug 10*
 
@@ -56,7 +56,7 @@ as hot springs and snowfields.
 can be seen growing on rocks as well as on sandy shores among seagrasses
 and seaweeds. 90 species of cyanobacteria are recorded for Singapore
 by Pham (link below). Some live inside other animals such as sponges
-like [*Lamellodysidea herbacea*](../../../porifera/spatula.htm).  
+like [*Lamellodysidea herbacea*](../../../porifera/spatula).  
   
 **Features:** They have a bluish pigment
 phycocyanin that is used to capture light for photosynthesis. They
@@ -91,8 +91,8 @@ the seagrasses.
 **Role in the habitat:** Cyanobacteria
 are eaten by a wide range of animals. Among the common animals believed
 to eat cyanobacteria are sea slugs like the [Hairy
-sea hare](../../../mollusca/slugs/anaspidae/bursatella.htm) (*Bursatella leachii*) and [Long-tailed
-hairy sea hare](../../../mollusca/slugs/anaspidae/stylocheilus.htm) (*Styloceilus* sp.)   
+sea hare](../../../mollusca/slugs/anaspidae/bursatella) (*Bursatella leachii*) and [Long-tailed
+hairy sea hare](../../../mollusca/slugs/anaspidae/stylocheilus) (*Styloceilus* sp.)   
   
 **Human uses:** Some species of cyanobacteria
 are able to breakdown heavy hydrocarbons and may thus have a practical
@@ -150,11 +150,11 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 **Links**
 
 - [Introduction
-  to Cyanobacteria](http://www.ucmp.berkeley.edu/bacteria/cyanointro.html) on the [Museum
+  to Cyanobacteria](http://www.ucmp.berkeley.edu/bacteria/cyanointrol) on the [Museum
   of Paleontology, University of California Berkeley](http://www.ucmp.berkeley.edu/) website:
   fossil record, life history and ecology, systematics and more
   on morphology.
-- [Cynaophyta](http://www.botany.hawaii.edu/faculty/webb/BOT311/Cyanobacteria/Cyanobacteria.htm)
+- [Cynaophyta](http://www.botany.hawaii.edu/faculty/webb/BOT311/Cyanobacteria/Cyanobacteria)
   on the University of Hawai'i Manoa website: lots of photos and
   lots of brief details on major aspects of the group, quite scientific
   but the photos and diagrams make it easier to understand.
@@ -162,7 +162,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
   a Webserver for Cyanobacterial Research: photos, taxonomy and
   links.
 - [Microbial
-  Mat Page](http://www.uta.edu/paleomap/homepage/Schieberweb/microbial_mat_page.htm) by Jurgen Schieber, University of Texas at Arlington
+  Mat Page](http://www.uta.edu/paleomap/homepage/Schieberweb/microbial_mat_page) by Jurgen Schieber, University of Texas at Arlington
   Department of Geology website: all about mats produced by microbes
   with photos and links.
 - [Hamelin
@@ -190,9 +190,9 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
   Plants: Their Origin and Diversity*
   2nd edition. Cambridge University Press. 349 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

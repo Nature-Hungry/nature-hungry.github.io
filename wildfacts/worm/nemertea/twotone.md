@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "ribbon, worm, ribbonworm, nemertine, nemertean, nemertines,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 worms
-[text index](../wormindex.htm) | [photo
-index](../wormfi.htm)
-[worms](../worm.htm)
-> Phylum [Nemertea](nemertea.htm)
+[text index](../wormindex) | [photo
+index](../wormfi)
+[worms](../worm)
+> Phylum [Nemertea](nemertea)
 **Two-toned
 ribbon worm*****awaiting identification\*****updated
 Jan 2022*
@@ -69,7 +56,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 *![](twotone/091230prpjk3m3.jpg)  
 Pasir Ris Park, Dec 09*Photo
-shared by James Koh on [his blog](http://sgn090608.blogspot.com/2009/12/091230-pasir-ris.html)..
+shared by James Koh on [his blog](http://sgn090608.blogspot.com/2009/12/091230-pasir-risl)..
 
 *![](twotone/251229prprqo4.jpg)  
 Pasir Ris Park,
@@ -83,7 +70,7 @@ Dec 25*Photo shared by Rui Quan Oh on [facebook](https://www.facebook.com/media/
 *![](twotone/120407lazlks1m3.jpg)*  
 *Seringat Kias,
 Apr 12*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2012/04/lobster-at-seringat-kias.html).
+blog](http://wondercreation.blogspot.com/2012/04/lobster-at-seringat-kiasl).
 
 ---
 
@@ -92,14 +79,4 @@ Lazarus, Jan 22*Photo shared by Tang Yong Jen on [facebook](https://www.facebook
 
 ![](twotone/220104laztyj1a.jpg)
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

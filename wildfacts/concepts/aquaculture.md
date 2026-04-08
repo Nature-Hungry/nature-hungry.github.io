@@ -4,22 +4,7 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "live, fish, farm, aquaculture, trade, conservation, conserve, protect, reef, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
-[index](index.html)
+[index](indexl)
 of concepts
 **Fish
 farming and aquaculture***updated
@@ -50,7 +35,7 @@ In 2010, there were 106 licensed coastal floating fish farms in
 Singapore, producing 3,235 tonnes of fish valued at $11.4 million
 in 2008. They accounted for 4-5% of the fish consumed annually in
 Singapore. *From [Plankton
-bloom hits Pulau Ubin fish farms](http://wildsingaporenews.blogspot.com/2010/01/plankton-bloom-hits-pulau-ubin-fish.html) Melissa Sim, Straits Times
+bloom hits Pulau Ubin fish farms](http://wildsingaporenews.blogspot.com/2010/01/plankton-bloom-hits-pulau-ubin-fishl) Melissa Sim, Straits Times
 2 Jan 10;*
 
 **Why
@@ -102,7 +87,7 @@ effects of acquaculture**
   are sold as luxury items.
 - Setting up
   and running fish farms can physically impact the surrounding habitat.
-- No door-to-door trash collection is provided to any of the coastal fish farms licenced by Agri-food and Veterinary Authority (AVA). As a result dead fishes and other trash are dumped into the water. [More details here](litter.htm).
+- No door-to-door trash collection is provided to any of the coastal fish farms licenced by Agri-food and Veterinary Authority (AVA). As a result dead fishes and other trash are dumped into the water. [More details here](litter).
 
 *![](pix/100110cjd7835m6a.jpg)  
 Fish farms off Chek Jawa, Jan 10*
@@ -122,7 +107,7 @@ can we do about this?**
   that fish on your plate!
 
 See
-also [impact of prawn farming](prawnfarms.htm).
+also [impact of prawn farming](prawnfarms).
 
 ---
 
@@ -138,28 +123,28 @@ flickr](http://www.flickr.com/photos/wildsingapore/) for free download
 **Links**
 
 - [Some
-  thoughts on the fish kill at Pasir Ris](http://waterqualityinsingapore.blogspot.com/2010/01/some-thoughts-on-fish-kill-at-pasir-ris.html) on the Water Quality
+  thoughts on the fish kill at Pasir Ris](http://waterqualityinsingapore.blogspot.com/2010/01/some-thoughts-on-fish-kill-at-pasir-risl) on the Water Quality
   in Singapore blog.
 - From the
   wild shores of singapore blog
   - [Aquaculture:
-    where does the fish poop go?](http://wildshores.blogspot.com/2011/04/aquaculture-where-does-fish-poop-go.html)
+    where does the fish poop go?](http://wildshores.blogspot.com/2011/04/aquaculture-where-does-fish-poop-gol)
   - [What
-    goes on at Singapore's largest commercial fish farm?](http://wildshores.blogspot.com/2009/12/what-goes-on-at-singapores-largest.html)
+    goes on at Singapore's largest commercial fish farm?](http://wildshores.blogspot.com/2009/12/what-goes-on-at-singapores-largestl)
   - [Boosting
-    fish farming in Singapore: what environmental impact?](http://wildshores.blogspot.com/2009/08/boosting-fish-farming-in-singapore-what.html)
+    fish farming in Singapore: what environmental impact?](http://wildshores.blogspot.com/2009/08/boosting-fish-farming-in-singapore-whatl)
   - [Farming
-    fishes in cages harms wild fishes](http://wildshores.blogspot.com/2008/12/farming-fish-in-ocean-cages-harms-wild.html)
+    fishes in cages harms wild fishes](http://wildshores.blogspot.com/2008/12/farming-fish-in-ocean-cages-harms-wildl)
   - [Coastal
-    fish farms: where does the fish waste go?](http://wildshores.blogspot.com/2009/02/coastal-fish-farms-where-does-fish.html)
+    fish farms: where does the fish waste go?](http://wildshores.blogspot.com/2009/02/coastal-fish-farms-where-does-fishl)
   - [Why
-    are there so many dead fish at Pasir Ris?](http://wildshores.blogspot.com/2009/12/why-are-there-so-many-dead-fish-on.html)
+    are there so many dead fish at Pasir Ris?](http://wildshores.blogspot.com/2009/12/why-are-there-so-many-dead-fish-onl)
   - [A
-    closer look at dead fish found on Pasir Ris](http://widget.linkwithin.com/redirect?url=http%3A//wildshores.blogspot.com/2009/12/closer-look-at-dead-fish-found-on-pasir.html&vars=%5B%22http%3A//wildshores.blogspot.com/search/label/issues-aquaculture%22%2C%20126083%2C%202%2C%20%22http%3A//wildshores.blogspot.com/2009/12/why-are-there-so-many-dead-fish-on.html%22%2C%2019059280%2C%200%2C%2019059282%5D&ts=1263612453652)
+    closer look at dead fish found on Pasir Ris](http://widget.linkwithin.com/redirect?url=http%3A//wildshores.blogspot.com/2009/12/closer-look-at-dead-fish-found-on-pasirl&vars=%5B%22http%3A//wildshores.blogspot.com/search/label/issues-aquaculture%22%2C%20126083%2C%202%2C%20%22http%3A//wildshores.blogspot.com/2009/12/why-are-there-so-many-dead-fish-onl%22%2C%2019059280%2C%200%2C%2019059282%5D&ts=1263612453652)
   - ['Dead
-    fish zone' hits Pulau Ubin](http://wildshores.blogspot.com/2010/01/dead-fish-zone-hits-pulau-ubin.html)
+    fish zone' hits Pulau Ubin](http://wildshores.blogspot.com/2010/01/dead-fish-zone-hits-pulau-ubinl)
   - [Update
-    of mass fish deaths at Pasir Ris and Pulau Ubin](http://wildshores.blogspot.com/2010/01/update-on-mass-fish-deaths-at-pasir-ris.html)
+    of mass fish deaths at Pasir Ris and Pulau Ubin](http://wildshores.blogspot.com/2010/01/update-on-mass-fish-deaths-at-pasir-risl)
   - [All
     posts on aquaculture](http://wildshores.blogspot.com/search/label/issues-aquaculture)
 
@@ -170,24 +155,24 @@ Some key
 media articles
 
 - [Singapore's
-  food supply to be enhanced by two funds worth S$5m](http://wildsingaporenews.blogspot.com/2009/12/singapores-food-supply-to-be-enhanced.html) Ng Lian
+  food supply to be enhanced by two funds worth S$5m](http://wildsingaporenews.blogspot.com/2009/12/singapores-food-supply-to-be-enhancedl) Ng Lian
   Cheong/Satish Cheney, Channel NewsAsia 10 Dec 09;
 - [Plankton
-  bloom hits Pulau Ubin fish farms](http://wildsingaporenews.blogspot.com/2010/01/plankton-bloom-hits-pulau-ubin-fish.html) Melissa Sim, Straits Times
+  bloom hits Pulau Ubin fish farms](http://wildsingaporenews.blogspot.com/2010/01/plankton-bloom-hits-pulau-ubin-fishl) Melissa Sim, Straits Times
   2 Jan 10;
 - [200,000
-  fish in farms off Pasir Ris dead](http://wildsingaporenews.blogspot.com/2010/01/200000-fish-in-farms-off-pasir-ris-dead.html) Plankton bloom causes losses
+  fish in farms off Pasir Ris dead](http://wildsingaporenews.blogspot.com/2010/01/200000-fish-in-farms-off-pasir-ris-deadl) Plankton bloom causes losses
   reaching hundreds of thousands of dollars Carolyn Quek & Jessica
   Lim, Straits Times 1 Jan 10
 - [Fish
-  farms in west spared from plankton woes](http://wildsingaporenews.blogspot.com/2010/01/fish-farms-in-west-spared-from-plankton.html) Irene Tham, Straits
+  farms in west spared from plankton woes](http://wildsingaporenews.blogspot.com/2010/01/fish-farms-in-west-spared-from-planktonl) Irene Tham, Straits
   Times 3 Jan 10;
 - More [media
   articles about aquaculture](http://wildsingaporenews.blogspot.com/search/label/aquaculture)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

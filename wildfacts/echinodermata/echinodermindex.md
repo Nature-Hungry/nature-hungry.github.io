@@ -4,35 +4,18 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "checklist, check, list, index, echinodermata, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[![talking points for nature guides](../../Templates/fornatureguides.gif)](../forguides/index.html)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 echinoderms
-[photo index](echinodermatafi.htm)
-Phylum [Echinodermata](echinodermata.htm)
+[photo index](echinodermatafi)
+Phylum [Echinodermata](echinodermata)
 **Echinoderms
 on Singapore shores**  
 Don't know the name of the echinoderm? Try the [echinoderm
-photo index](echinodermatafi.htm)  
+photo index](echinodermatafi)  
 
 ---
 
 **[Subclass
-Asteroidea](asteroidea/asteroidea.htm)
+Asteroidea](asteroidea/asteroidea)
 sea stars**
 
 pgl
@@ -101,7 +84,7 @@ lfa
 
 tsm
 
-[Tiny orange star](asteroidea/tinyorange.htm)  
+[Tiny orange star](asteroidea/tinyorange)  
 *awaiting identification*
  
  
@@ -195,7 +178,7 @@ tsm
 lfa
 
 *[Archaster
-typicus](asteroidea/archaster.htm)*   
+typicus](asteroidea/archaster)*   
 Common sea star
  
  
@@ -266,7 +249,7 @@ cyr
 
 *smk*
 
-*[Aquilonastra anomala](asteroidea/tinysevenarm.htm)*  
+*[Aquilonastra anomala](asteroidea/tinysevenarm)*  
 Tiny seven-armed coral star
 
 pgl
@@ -292,7 +275,7 @@ bb
 smk
 
 *[Aquilonastra
-coronata](asteroidea/asterina.htm)*   
+coronata](asteroidea/asterina)*   
 Crown sea star
 
 tus
@@ -306,7 +289,7 @@ sji
 smk
 
 [*Cryptasterina*
-sp.](asteroidea/cryptasterina.htm)  
+sp.](asteroidea/cryptasterina)  
 Cryptic sea star
 
 chg
@@ -319,13 +302,13 @@ bb
 
 cyr
 
-[*Nepanthia belcheri*](asteroidea/nepred.htm)   
+[*Nepanthia belcheri*](asteroidea/nepred)   
 Red scaly sea star
 
 bb
 
 *[Nepanthia
-maculata](asteroidea/nepmaculata.htm)*   
+maculata](asteroidea/nepmaculata)*   
 Pale scaly sea star
  
  
@@ -406,7 +389,7 @@ Astropectinidae**
  
  
  
-[Genus *Astropecten*](asteroidea/astropecten.htm)
+[Genus *Astropecten*](asteroidea/astropecten)
 
 pgl
 
@@ -428,7 +411,7 @@ tm
 
 ecp
 
-*[Astropecten indicus](asteroidea/sandplain.htm)*  
+*[Astropecten indicus](asteroidea/sandplain)*  
 Plain sand star
 
 prp
@@ -451,7 +434,7 @@ ecp
 
 sji
 
-[*Astropecten vappa*](asteroidea/sandpainted.htm)  
+[*Astropecten vappa*](asteroidea/sandpainted)  
 Painted sand star
 
 chg
@@ -466,14 +449,14 @@ cyr
 
 smk
 
-*Astropecten* sp.  [Orange sand star](asteroidea/sandorange.htm)
+*Astropecten* sp.  [Orange sand star](asteroidea/sandorange)
 
 bb
 
 *ecp*
 
 [*Craspidaster
-hesperus*](asteroidea/craspidaster.htm)  
+hesperus*](asteroidea/craspidaster)  
 Bordered sea star
  
  
@@ -540,7 +523,7 @@ sji
 
 smk
 
-[*Stellaster childreni*](asteroidea/equestris.htm)  
+[*Stellaster childreni*](asteroidea/equestris)  
 Galloping sea star
  
  
@@ -621,13 +604,13 @@ Luidiidae**
  
  
  
-[Genus *Luidia*](asteroidea/luidia.htm)
+[Genus *Luidia*](asteroidea/luidia)
 
 chg
 
 ubn
 
-[*Luidia hardwicki*](asteroidea/lhardwicki.htm)  
+[*Luidia hardwicki*](asteroidea/lhardwicki)  
 Five-armed Luidia sea star
 
 *pgl*
@@ -653,14 +636,14 @@ ecp
 *smk*
 
 [*Luidia
-maculata*](asteroidea/luimaculata.htm)   
+maculata*](asteroidea/luimaculata)   
 Eight-armed sand star
 
 chg
 
 cj
 
-[*Luidia penangensis*](asteroidea/lpenangensis.htm)  
+[*Luidia penangensis*](asteroidea/lpenangensis)  
 Six-armed Luidia sand star
  
  
@@ -736,7 +719,7 @@ ecp
 cyr
 
 [*Anthenea
-aspera*](asteroidea/anthenea.htm)   
+aspera*](asteroidea/anthenea)   
 Cake sea star
 
 cyr
@@ -754,7 +737,7 @@ tsm
 lfa
 
 *[Culcita
-novaeguineae](asteroidea/culcita.htm)*  
+novaeguineae](asteroidea/culcita)*  
 Cushion star
 
 prp
@@ -774,7 +757,7 @@ tus
 cyr
 
 *[Goniodiscaster
-scaber](asteroidea/goniodiscaster.htm)*  
+scaber](asteroidea/goniodiscaster)*  
 Biscuit sea star
 
 chg
@@ -794,7 +777,7 @@ ecp
 *cyr*
 
 *[Gymnanthenea
-laevis](asteroidea/gymnanthenea.htm)*  
+laevis](asteroidea/gymnanthenea)*  
 Spiny sea star
 
 *cj*
@@ -804,7 +787,7 @@ sji
 cyr
 
 [*Pentaceraster
-mammillatus*](asteroidea/pentaceraster.htm)  
+mammillatus*](asteroidea/pentaceraster)  
 Pentaceraster sea star
 
 chg
@@ -834,13 +817,13 @@ smk
 tsm
 
 *[Protoreaster
-nodosus](asteroidea/protoreaster.htm)*  
+nodosus](asteroidea/protoreaster)*  
 Knobbly sea star
 
 ---
 
 **[Class
-Crinoidea](crinoidea/crinoidea.htm)
+Crinoidea](crinoidea/crinoidea)
 feather stars**  
 
 pgl
@@ -922,7 +905,7 @@ hnt
 *lfa*
 
 *[Himerometra
-robustipinna](crinoidea/red.htm)*  
+robustipinna](crinoidea/red)*  
 Red feather star
 
 chg
@@ -952,7 +935,7 @@ rfl
 *lfa*
 
 [Black-and-white
-feather star](crinoidea/black.htm)  
+feather star](crinoidea/black)  
 *awaiting identification*
 
 chg
@@ -984,7 +967,7 @@ hnt
 rfl
 
 [Blue
-feather star](crinoidea/blue.htm)   
+feather star](crinoidea/blue)   
 *awaiting identification*
 
 ubn
@@ -1012,7 +995,7 @@ hnt
 *lfa*
 
 [Brown
-feather star](crinoidea/brown.htm)  
+feather star](crinoidea/brown)  
 awaiting identification
 
 *cj*
@@ -1036,7 +1019,7 @@ tm
 rfl
 
 [Pale
-feather star](crinoidea/pale.htm)  
+feather star](crinoidea/pale)  
 *awaiting identification*
 
 chg
@@ -1051,7 +1034,7 @@ cj
 
 *tsm*
 
-[10-armed feather star](crinoidea/purpurea.htm)  
+[10-armed feather star](crinoidea/purpurea)  
 *awaiting identification* 
  
  
@@ -1084,7 +1067,7 @@ cj
 ---
 
 **[Subclass
-Echinoidea](echinoidea/echinoidea.htm)
+Echinoidea](echinoidea/echinoidea)
 sand dollars, sea urchins and heart urchins**
 
 pgl
@@ -1138,7 +1121,7 @@ rfl
 lfa
 
 **[Sand
-dollars](echinoidea/sandollar/sandollar.htm)**
+dollars](echinoidea/sandollar/sandollar)**
 
 chg
 
@@ -1173,7 +1156,7 @@ smk
 lfa
 
 *[Arachnoides
-placenta](echinoidea/sandollar/arachnoides.htm)*  
+placenta](echinoidea/sandollar/arachnoides)*  
 Cake sand dollar
 
 chg
@@ -1187,7 +1170,7 @@ cj
 cyr
 
 [*Echinodiscus*
-sp.](echinoidea/sandollar/echinodiscus.htm)    
+sp.](echinoidea/sandollar/echinodiscus)    
 Keyhole sand dollar
 
 pgl
@@ -1219,7 +1202,7 @@ smk
 *lfa*
 
 [*Jacksonaster
-depressum*](echinoidea/sandollar/depressum.htm)  
+depressum*](echinoidea/sandollar/depressum)  
 Thick-edged sand dollar
 
 chg
@@ -1227,7 +1210,7 @@ chg
 skd
 
 [*Peronella
-lesueuri*](echinoidea/sandollar/peronella.htm)  
+lesueuri*](echinoidea/sandollar/peronella)  
 Pink sand dollar
  
  
@@ -1282,7 +1265,7 @@ Pink sand dollar
  
  
 **[Sea
-urchins](echinoidea/urchin/urchin.htm)**
+urchins](echinoidea/urchin/urchin)**
 
 *chg*
 
@@ -1322,7 +1305,7 @@ smk
 
 *lfa*
 
-[*Diadema setosum*](echinoidea/urchin/diadema.htm)   
+[*Diadema setosum*](echinoidea/urchin/diadema)   
 Long-spined black sea urchin
 
 chg
@@ -1336,12 +1319,12 @@ bb
 cyr
 
 [*Prionocidaris*
-sp.](echinoidea/urchin/prionocidaris.htm)   
+sp.](echinoidea/urchin/prionocidaris)   
 Thorny sea urchin
 
 ecp
 
-[*Salmacis bicolor*](echinoidea/urchin/bicolor.htm)  
+[*Salmacis bicolor*](echinoidea/urchin/bicolor)  
 Two-toned salmacis urchin
 
 chg
@@ -1364,7 +1347,7 @@ cyr
 
 *tsm*
 
-[*Salmacis sphaeroides*](echinoidea/urchin/sphaeroides.htm)  
+[*Salmacis sphaeroides*](echinoidea/urchin/sphaeroides)  
 White salmacis urchin
 
 chg
@@ -1377,7 +1360,7 @@ ecp
 
 cyr
 
-[*Salmacis virgulata*](echinoidea/urchin/virgulata.htm)  
+[*Salmacis virgulata*](echinoidea/urchin/virgulata)  
 Passion salmacis urchin
 
 pgl
@@ -1398,7 +1381,7 @@ tus
 
 lab
 
-[*Temnopleurus toreumaticus*](echinoidea/urchin/temnopleurus.htm)   
+[*Temnopleurus toreumaticus*](echinoidea/urchin/temnopleurus)   
 Black sea urchin
  
  
@@ -1453,7 +1436,7 @@ Black sea urchin
  
  
 **[Heart
-urchins](echinoidea/hearturchin/hearturchin.htm)**
+urchins](echinoidea/hearturchin/hearturchin)**
 
 *chg*
 
@@ -1472,7 +1455,7 @@ tpg
 *smk*
 
 [*Lovenia
-elongata*](echinoidea/hearturchin/lovenia.htm)   
+elongata*](echinoidea/hearturchin/lovenia)   
 Lovenia heart urchin
 
 prp
@@ -1503,7 +1486,7 @@ smk
 
 tsm
 
-*[Brissus latecarinatus](echinoidea/hearturchin/oval.htm)*Keeled
+*[Brissus latecarinatus](echinoidea/hearturchin/oval)*Keeled
 heart urchin
 
 skd
@@ -1515,13 +1498,13 @@ smk
 *lfa*
 
 [*Maretia
-planulata*](echinoidea/hearturchin/planulata.htm)  
+planulata*](echinoidea/hearturchin/planulata)  
 Tiny maretia heart urchin
 
 ---
 
 **[Subclass
-Holothuroidea](holothuroidea/holothuroidea.htm)** **sea cucumbers**   
+Holothuroidea](holothuroidea/holothuroidea)** **sea cucumbers**   
 
 pgl
 
@@ -1590,7 +1573,7 @@ ecp
 
 *laz*
 
-[*Acaudina* sp.](holothuroidea/smooth.htm)   
+[*Acaudina* sp.](holothuroidea/smooth)   
 Smooth
 sea cucumber
 
@@ -1605,7 +1588,7 @@ tus
 *ecp*
 
 *[Paracaudina
-australis](holothuroidea/paracaudina.htm)*   
+australis](holothuroidea/paracaudina)*   
 See-through sea cucumber
  
  
@@ -1679,7 +1662,7 @@ ecp
 cyr
 
 *[Cercodemas
-anceps](holothuroidea/cercodemas.htm)*   
+anceps](holothuroidea/cercodemas)*   
 Pink warty sea cucumber
 
 *pgl*
@@ -1711,7 +1694,7 @@ lab
 cyr
 
 *[Colochirus
-quadrangularis](holothuroidea/colochirus.htm)*   
+quadrangularis](holothuroidea/colochirus)*   
 Thorny sea cucumber
 
 prp
@@ -1736,7 +1719,7 @@ ecp
 
 cyr
 
-*[Mensamaria intercedens](holothuroidea/orange.htm)*Orange
+*[Mensamaria intercedens](holothuroidea/orange)*Orange
 sea cucumber
 
 chg
@@ -1750,7 +1733,7 @@ bb
 ecp
 
 *[Pseudocolochirus
-violaceus](holothuroidea/violaceus.htm)*  
+violaceus](holothuroidea/violaceus)*  
 Sea apple sea cucumber
 
 pgl
@@ -1784,7 +1767,7 @@ tus
 *tsm*
 
 [Purple
-sea cucumber](holothuroidea/purple.htm)  
+sea cucumber](holothuroidea/purple)  
 *awaiting identification*
 
 chg
@@ -1800,7 +1783,7 @@ tus
 ecp
 
 [Tiny
-red sea cucumber](holothuroidea/tinyred.htm)*awaiting identification*
+red sea cucumber](holothuroidea/tinyred)*awaiting identification*
  
  
  
@@ -1869,7 +1852,7 @@ smk
 *tsm*
 
 [*Actinopyga*
-sp.](holothuroidea/kumquat.htm)    
+sp.](holothuroidea/kumquat)    
 Kumquat sea cucumber
 
 *snt*
@@ -1901,7 +1884,7 @@ rfl
 lfa
 
 *[Actinopyga
-lecanora](holothuroidea/lecanora.htm)*   
+lecanora](holothuroidea/lecanora)*   
 White-rumped sea cucumber
 
 chg
@@ -1911,7 +1894,7 @@ chg
 cyr
 
 [*Bohadschia
-ocellata*](holothuroidea/polkadot.htm)  
+ocellata*](holothuroidea/polkadot)  
 Polka-dotted sea cucumber
 
 *cj*
@@ -1923,7 +1906,7 @@ cyr
 *lfa*
 
 [*Bohadschia
-vitiensis*](holothuroidea/bohadschia.htm)  
+vitiensis*](holothuroidea/bohadschia)  
 Brown sea cucumber
 
 chg
@@ -1950,7 +1933,7 @@ cyr
 
 smk
 
-*[Holothuria albiventer](holothuroidea/beige.htm)*  
+*[Holothuria albiventer](holothuroidea/beige)*  
 Beige
 sea cucumber
 
@@ -1975,7 +1958,7 @@ tsm
 *lfa*
 
 *[Holothuria
-fuscocinerea](holothuroidea/fuscocinerea.htm)*  
+fuscocinerea](holothuroidea/fuscocinerea)*  
 Ashy pink sea cucumber
 
 skd
@@ -1988,7 +1971,7 @@ tm
 
 *sis*
 
-*[Holothuria impatiens](holothuroidea/banded.htm)*Bottleneck sea cucumber
+*[Holothuria impatiens](holothuroidea/banded)*Bottleneck sea cucumber
 
 *chg*
 
@@ -2031,7 +2014,7 @@ rfl
 lfa
 
 *[Holothuria
-leucospilota](holothuroidea/leucospilota.htm)*   
+leucospilota](holothuroidea/leucospilota)*   
 Black long sea cucumber
 
 chg
@@ -2055,7 +2038,7 @@ cyr
 smk
 
 *[Holothuria
-notabilis](holothuroidea/notabilis.htm)*  
+notabilis](holothuroidea/notabilis)*  
 Remarkable sea cucumber
 
 pgl
@@ -2101,7 +2084,7 @@ smk
 tsm
 
 *[Holothuria
-scabra](holothuroidea/scabra.htm)*   
+scabra](holothuroidea/scabra)*   
 Garlic bread sea cucumber
  
  
@@ -2190,7 +2173,7 @@ sis
 
 smk
 
-[*Phyllophorus*sp.](holothuroidea/phyllophorus.htm)   
+[*Phyllophorus*sp.](holothuroidea/phyllophorus)   
 Ball sea cucumber
  
  
@@ -2252,7 +2235,7 @@ ubn
 
 skd
 
-[*Psolidium* sp.](holothuroidea/armoured.htm)Armoured
+[*Psolidium* sp.](holothuroidea/armoured)Armoured
 sea cucumber
  
  
@@ -2338,7 +2321,7 @@ hnt
 *tsm*
 
  *[Afrocucumis
-africana](holothuroidea/africana.htm)*Little African sea cucumber
+africana](holothuroidea/africana)*Little African sea cucumber
 
 chg
 
@@ -2346,7 +2329,7 @@ chg
 
 *ecp*
 
-*[Cladolabes hamatus](holothuroidea/hamatus.htm)*Plasticky sea cucumber
+*[Cladolabes hamatus](holothuroidea/hamatus)*Plasticky sea cucumber
  
  
  
@@ -2407,7 +2390,7 @@ smk
 tsm
 
 *[Stichopus
-herrmanni](holothuroidea/herrmanni.htm)*  
+herrmanni](holothuroidea/herrmanni)*  
 Herrmann's sea cucumber
 
 tm
@@ -2419,7 +2402,7 @@ smk
 *tsm*
 
 *[Stichopus
-horrens](holothuroidea/horrens.htm)*  
+horrens](holothuroidea/horrens)*  
 Durian sea cucumber
 
 tm
@@ -2431,13 +2414,13 @@ tsm
 *lfa*
 
 [*Stichopus
-ocellatus*](holothuroidea/ocellatus.htm)  
+ocellatus*](holothuroidea/ocellatus)  
 Eye-spotted sea cucumber
 
 *smk*
 
 *[Stichopus
-vastus](holothuroidea/vastus.htm)*  
+vastus](holothuroidea/vastus)*  
 Zebrafish sea cucumber
  
  
@@ -2492,7 +2475,7 @@ Zebrafish sea cucumber
  
  
 **[Family
-Synaptidae](holothuroidea/synaptid.htm)   
+Synaptidae](holothuroidea/synaptid)   
 Synaptid sea cucumbers**
 
 pgl
@@ -2528,7 +2511,7 @@ cyr
 *tsm*
 
 [Sponge
-synaptid](holothuroidea/synsponge.htm)   
+synaptid](holothuroidea/synsponge)   
 *awaiting identification*
 
 prp
@@ -2562,7 +2545,7 @@ smk
 *tsm*
 
 [Big
-synaptid](holothuroidea/synbig.htm)  
+synaptid](holothuroidea/synbig)  
 *awaiting identification*
 
 prp
@@ -2571,13 +2554,13 @@ cj
 
 *ecp*
 
-[Mangrove synaptid](holothuroidea/synmangrove.htm)  
+[Mangrove synaptid](holothuroidea/synmangrove)  
 *awaiting identification*
 
 ---
 
 **[Subclass
-Ophiuroidea](ophiuroidea/ophiuroidea.htm)** **brittle
+Ophiuroidea](ophiuroidea/ophiuroidea)** **brittle
 stars and basket stars**
 
 pgl
@@ -2647,7 +2630,7 @@ sis
 *lfa*
 
 [Basket
-star](ophiuroidea/basket.htm)  
+star](ophiuroidea/basket)  
 *awaiting identification*
 
 chg
@@ -2669,7 +2652,7 @@ tpg
 tsm
 
 [*Macrophiothrix
-lineocaerulea*](ophiuroidea/lineocaerulea.htm)   
+lineocaerulea*](ophiuroidea/lineocaerulea)   
 Blue-lined brittle star
 
 *prp*
@@ -2713,7 +2696,7 @@ tsm
 *lfa*
 
 [*Macrophiothrix
-longipeda*](ophiuroidea/longipeda.htm)   
+longipeda*](ophiuroidea/longipeda)   
 Very long-armed brittle star
 
 *chg*
@@ -2738,7 +2721,7 @@ kus
 
 *lfa*
 
-*[Macrophiothrix nereidina](ophiuroidea/violet.htm)*Violet brittle star
+*[Macrophiothrix nereidina](ophiuroidea/violet)*Violet brittle star
 
 cj
 
@@ -2773,7 +2756,7 @@ tsm
 lfa
 
 *[Ophiactis
-savignyi](ophiuroidea/tinysponge.htm)*Tiny in-a-sponge brittle stars
+savignyi](ophiuroidea/tinysponge)*Tiny in-a-sponge brittle stars
 
 chg
 
@@ -2788,7 +2771,7 @@ snt
 rfl
 
 [*Ophiomaza
-cacaotica*](ophiuroidea/featherstar.htm)Feather
+cacaotica*](ophiuroidea/featherstar)Feather
 star brittle star
 
 ubn
@@ -2814,7 +2797,7 @@ smk
 *tsm*
 
 *[Ophiothela
-mirabilis](ophiuroidea/tinyorange.htm)*Tiny orange brittle stars
+mirabilis](ophiuroidea/tinyorange)*Tiny orange brittle stars
 
 chg
 
@@ -2839,7 +2822,7 @@ sis
 cyr
 
 *[Ophiothela
-danae](ophiuroidea/tinycolourful.htm)*Tiny colourful brittle stars
+danae](ophiuroidea/tinycolourful)*Tiny colourful brittle stars
 
 *pgl*
 
@@ -2853,7 +2836,7 @@ skd
 
 bb
 
-*[Ophiothrix](ophiuroidea/upsidedown.htm)*[sp.](ophiuroidea/upsidedown.htm)   
+*[Ophiothrix](ophiuroidea/upsidedown)*[sp.](ophiuroidea/upsidedown)   
 Upsidedown brittle star
  
  
@@ -2935,7 +2918,7 @@ sji
 *tsm*
 
 [Bottlebrush
-brittle stars](ophiuroidea/botbrush.htm)  
+brittle stars](ophiuroidea/botbrush)  
 *awaiting identification* 
 
 chg
@@ -2955,7 +2938,7 @@ ecp
 cyr
 
 [Flat
-armed brittle stars](ophiuroidea/flatarm.htm)  
+armed brittle stars](ophiuroidea/flatarm)  
 *awaiting identification* 
 
 chg
@@ -2968,7 +2951,7 @@ tus
 
 *ecp*
 
-[Ghost brittle stars](ophiuroidea/white.htm)  
+[Ghost brittle stars](ophiuroidea/white)  
 *awaiting identification* 
 
 *snt*
@@ -2979,7 +2962,7 @@ cyr
 
 *tsm*
 
-[Twin-barred brittle stars](ophiuroidea/twinbarred.htm)  
+[Twin-barred brittle stars](ophiuroidea/twinbarred)  
 *awaiting identification* 
   
 in red
@@ -3016,45 +2999,3 @@ bemban besar, terumbu bemban, terumbu semakau, **rfl**: raffles lighthouse, **lf
 live firing area (Salu, Sudong, Pawai, Senang, Biola and submerged
 reefs in the area)
   
-[About
-citing](../about.htm) this checklist.
-  
-  
-  
-
-photo
-index of   
-echinoderms on this site
-
-[all echinoderms](echinodermatafi.htm)  **Arms many long thin**   
-[feather stars](crinoideafi.htm)  
-  
- **Arms
-five long thin**  
-[brittle stars](ophuiroideafi.htm)  
-  
-**Arms five
-shorter** [sea stars](asteroideafi1.htm)  
-  
-**Hard flat,
-coin-like**   
-[sand dollars](echinoideafi1.htm)  
- **Hard spherical, spiny**  
-[sea urchins, heart urchins](echinoideafi2.htm)   
- **Soft round or long**  
-sea cucumbers   
-[short](holothuroideafi1.htm)
-<10cm  
-[long](holothuroideafi2.htm) >10cm
-
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

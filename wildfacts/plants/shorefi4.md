@@ -4,26 +4,11 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, palm, pandan, rattan, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 plants
-[text index](plantindex.htm) | [photo
-index](plantfi.htm)
+[text index](plantindex) | [photo
+index](plantfi)
 
-[mangroves](mangrove/mangroves.htm)
+[mangroves](mangrove/mangroves)
 **Photo
 index of palms, pandans and rattans of Singapore**  
 **palms,
@@ -36,7 +21,7 @@ rattans
   
 ![](mangrove/nypa/nypa/030511cjd0184m.jpg)  
   
-![](mangrove/nypa/nypa/090124ubnd5971m.jpg) [Nipah palm](mangrove/nypa/nypa.htm)  
+![](mangrove/nypa/nypa/090124ubnd5971m.jpg) [Nipah palm](mangrove/nypa/nypa)  
 *Nypa fruticans*
 
 ![](coastal/pandanus/tectorius/051018smkg2732m.jpg)  
@@ -44,7 +29,7 @@ rattans
 ![](coastal/pandanus/tectorius/090315smkd8276m.jpg)  
   
 ![](coastal/pandanus/tectorius/051018smkg2732ma.jpg)  
-[Seashore pandan](coastal/pandanus/tectorius.htm)  
+[Seashore pandan](coastal/pandanus/tectorius)  
 *Pandanus tectorius*
 
 ![](fruittrees/areca/catechu/091005cjd2247m.jpg)  
@@ -52,7 +37,7 @@ rattans
 ![](fruittrees/areca/catechu/091005cjd2244ma.jpg)  
   
 ![](fruittrees/areca/catechu/091005cjd2244mc.jpg)  
-[Pinang or betel-nut palm](fruittrees/areca/catechu.htm)  
+[Pinang or betel-nut palm](fruittrees/areca/catechu)  
 *Areca catechu*
 
 ![](coastal/caryota/mitis/091227kntd6434m.jpg)  
@@ -60,7 +45,7 @@ rattans
 ![](coastal/caryota/mitis/091227kntd6422m.jpg)  
   
 ![](coastal/caryota/mitis/091227kntd6439ma.jpg)  
-[Fishtail palm](coastal/caryota/mitis.htm)  
+[Fishtail palm](coastal/caryota/mitis)  
 *Caryota mitis*
 
  
@@ -96,47 +81,47 @@ index of
 plants on this site
 
 [all
-plants](plantfi.htm)  
+plants](plantfi)  
   
 **mangrove
 & seashore plants**   
-[creepers](shorefi1.htm)  
-[climbers, vines](shorefi2.htm)  
-[herbs](shorefi3.htm)  
-[ferns](shorefi7.htm)  
+[creepers](shorefi1)  
+[climbers, vines](shorefi2)  
+[herbs](shorefi3)  
+[ferns](shorefi7)  
 palms, pandans  
   
 **mangrove
 &** **seashore
   
 shrubs<2m**  
-[thick/leathery leaves](shorefi5a.htm)  
-[thin leaves](shorefi5b.htm)  
+[thick/leathery leaves](shorefi5a)  
+[thin leaves](shorefi5b)  
   
 **seashore
   
 trees>2m**   
 type of leaves  
-[small simple](shorefi6b.htm)  
-[large simple](shorefi6c.htm)  
-[compound, others](shorefi6d.htm)   
+[small simple](shorefi6b)  
+[large simple](shorefi6c)  
+[compound, others](shorefi6d)   
   
 **mangrove
 trees**  
-small oval fruits and [pneumatophores](mangfi6a.htm)  
+small oval fruits and [pneumatophores](mangfi6a)  
   
 long cylindrical fruits  
-with [knee roots](mangfi6b.htm)  
-with [buttressed roots](mangfi6c.htm)  
-with [stilt roots](mangfi6d.htm)  
+with [knee roots](mangfi6b)  
+with [buttressed roots](mangfi6c)  
+with [stilt roots](mangfi6d)  
   
-[large round fruits](mangfi6f.htm)  
+[large round fruits](mangfi6f)  
   
-[others](mangfi7a.htm)
+[others](mangfi7a)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

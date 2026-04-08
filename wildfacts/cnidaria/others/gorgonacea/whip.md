@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "whip, coral, seafan, fan, junceella, ellisellidae, gorgonian, gorgonacea, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 gorgonian
-[text index](../../cnidariaindex.htm#gorgonacea) | [photo
-index](../../gorgonaceafi.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Alcyonaria/Octocorallia > Order [Gorgonacea](gorgonacea.htm)
+[text index](../../cnidariaindex#gorgonacea) | [photo
+index](../../gorgonaceafi)
+Phylum [Cnidaria](../../cnidaria)
+> Class [Anthozoa](../../anthozoa) > Subclass
+Alcyonaria/Octocorallia > Order [Gorgonacea](gorgonacea)
 **Sea
 whip*****Junceella* sp.*\** Family Ellisellidae***updated Dec 2019*
 
@@ -43,7 +43,7 @@ According to Fabricius, in some species, the tip of the colony can
 detach to fall to the sea floor and grow up as a new sea whip.  
   
 A long unbranched colony of [Asparagus sea
-fan](asparagus.htm) may resemble a sea whip. Another species that has a long unbranched
+fan](asparagus) may resemble a sea whip. Another species that has a long unbranched
 whip-like form is *Viminella* sp.
 
 *![](whip/030714bbd0067m3.jpg)  
@@ -79,7 +79,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](../../../vertebrates/fish/gobiidae/gobiidaenoid/230606cjky7.jpg)*[Unidentified goby](../../../vertebrates/fish/gobiidae/gobiidae.htm) seen on a sea whip.  **Chek Jawa, Jun 23**Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=10168426586550112&set=a.10168426590055112).
+*![](../../../vertebrates/fish/gobiidae/gobiidaenoid/230606cjky7.jpg)*[Unidentified goby](../../../vertebrates/fish/gobiidae/gobiidae) seen on a sea whip.  **Chek Jawa, Jun 23**Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=10168426586550112&set=a.10168426590055112).
 
 ---
 
@@ -127,9 +127,9 @@ East Coast Park (B), Jun 21*Photo shared by Loh Kok Sheng on [facebook](https://
   Indo-West Pacific*. Raffles
   Museum Bulletin of Zoology Pp. 435-459.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

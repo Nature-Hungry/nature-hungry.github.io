@@ -4,27 +4,10 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, sand, dollar, echinoid, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[![talking points for nature guides](../../Templates/fornatureguides.gif)](fngechinoidea.htm)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 echinoderms
-[text index](echinodermindex.htm) | [photo
-index](crinoideafi.htm)
-Phylum [Echinodermata](echinodermata.htm) > Class [Echinodea](echinoidea/echinoidea.htm) > [sand dollar](echinoidea/sandollar/sandollar.htm)
+[text index](echinodermindex) | [photo
+index](crinoideafi)
+Phylum [Echinodermata](echinodermata) > Class [Echinodea](echinoidea/echinoidea) > [sand dollar](echinoidea/sandollar/sandollar)
 **Photo
 index of echinoids on Singapore shores**   
 **sand dollars**
@@ -35,19 +18,19 @@ index of echinoids on Singapore shores** 
 diameter of the body without the spines.*
 
 ![](echinoidea/sandollar/echinodiscus/050206cjd9966m.jpg)  
-[Keyhole sand dollar](echinoidea/sandollar/echinodiscus.htm)  
+[Keyhole sand dollar](echinoidea/sandollar/echinodiscus)  
 *Echinodiscus* sp.
 
 ![](echinoidea/sandollar/arachnoides/030927cjd0033m.jpg)  
-[Cake sand dollar](echinoidea/sandollar/arachnoides.htm)  
+[Cake sand dollar](echinoidea/sandollar/arachnoides)  
 *Arachnoides placenta*
 
 ![](echinoidea/sandollar/depressum/070420sntrd0301m.jpg)  
-[Thick-edged sand dollar](echinoidea/sandollar/depressum.htm)  
+[Thick-edged sand dollar](echinoidea/sandollar/depressum)  
 *Jacksonaster depressum*
 
 ![](echinoidea/sandollar/peronella/080704sekd6789m.jpg)  
-[Pink sand dollar](echinoidea/sandollar/peronella.htm)  
+[Pink sand dollar](echinoidea/sandollar/peronella)  
 *Peronella lesueuri*
 
  
@@ -76,18 +59,18 @@ echinoderms on this site
 
 **Phylum
 Echinodermata**[all
-echinoderms](echinodermatafi.htm)  **With arms**  
+echinoderms](echinodermatafi)  **With arms**  
  
 many,
 feathery  
-[feather stars](crinoideafi.htm)  
+[feather stars](crinoideafi)  
   
 five, bristley  
-[brittle stars](ophuiroideafi.htm)  
+[brittle stars](ophuiroideafi)  
   
 sea stars  
-[small](asteroideafi1.htm) <10cm  
-[large](asteroideafi2.htm) >10cm
+[small](asteroideafi1) <10cm  
+[large](asteroideafi2) >10cm
   
  **Hard**  
  
@@ -97,18 +80,18 @@ sand dollars
   
 spherical, spiny  
 [sea urchins  
-heart urchins](echinoideafi2.htm) 
+heart urchins](echinoideafi2) 
  **Soft**  
  
 sea
 cucumbers   
-[short](holothuroideafi1.htm)
+[short](holothuroideafi1)
 <10cm  
-[long](holothuroideafi2.htm) >10cm
+[long](holothuroideafi2) >10cm
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

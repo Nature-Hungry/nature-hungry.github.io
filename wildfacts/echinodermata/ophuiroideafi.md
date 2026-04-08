@@ -4,26 +4,11 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, brittle, star, brittlestar, ophiuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 echinoderms
-[text index](echinodermindex.htm) | [photo
-index](echinodermatafi.htm)
-Phylum [Echinodermata](echinodermata.htm)
-> Class Stellaroida > Subclass [Ophiuroidea](ophiuroidea/ophiuroidea.htm)
+[text index](echinodermindex) | [photo
+index](echinodermatafi)
+Phylum [Echinodermata](echinodermata)
+> Class Stellaroida > Subclass [Ophiuroidea](ophiuroidea/ophiuroidea)
 **Photo
 index of brittle stars on Singapore shores**
 
@@ -34,26 +19,26 @@ is for diameter of central disk, second size for length of arms*
 
 ![](ophiuroidea/upsidedown/050621skdg7883m.jpg)  
 [Upside down  
-brittle star](ophiuroidea/upsidedown.htm)  
+brittle star](ophiuroidea/upsidedown)  
 *Ophiothrix* sp.
 
 ![](ophiuroidea/botbrush/050622chgg8160m.jpg)  
 [Bottle-brush  
-brittle star](ophiuroidea/botbrush.htm)  
+brittle star](ophiuroidea/botbrush)  
 *awaiting identification*
 
 ![](ophiuroidea/flatarm/050818chgg1376m.jpg)  
 [Flat armed  
-brittle star](ophiuroidea/flatarm.htm)  
+brittle star](ophiuroidea/flatarm)  
 *awaiting identification*
 
 ![](ophiuroidea/twinbarred/240527sntccn3am.jpg)  
 [Twin-barred  
-brittle star](ophiuroidea/twinbarred.htm)  
+brittle star](ophiuroidea/twinbarred)  
 *awaiting identification*
 
 ![](ophiuroidea/basket/120124sisd6015me.jpg)  
-[Basket star](ophiuroidea/basket.htm)  
+[Basket star](ophiuroidea/basket)  
 Family Euryalidae
 
 1cm;
@@ -77,17 +62,17 @@ rubble near living reefs. Rarely seen.
 
 ![](ophiuroidea/violet/130625ecpd8209m.jpg)  
 [Violet  
-brittle star](ophiuroidea/violet.htm)  
+brittle star](ophiuroidea/violet)  
 *Macrophiothrix nereidina*
 
 ![](ophiuroidea/lineocaerulea/040828skdd5509m.jpg)  
 [Blue lined   
-brittle star](ophiuroidea/lineocaerulea.htm)  
+brittle star](ophiuroidea/lineocaerulea)  
 *Macrophiothrix lineocaerulea*
 
 ![](ophiuroidea/longipeda/030615cjd0228m.jpg)  
 [Very long-armed   
-brittle star](ophiuroidea/longipeda.htm)  
+brittle star](ophiuroidea/longipeda)  
 *Macrophiothrix longipedia*
 
  
@@ -105,27 +90,27 @@ rubble with only their long arms extended. Commonly seen at night.
 
 ![](ophiuroidea/tinysponge/080919sntd0619m.jpg)  
 [Tiny in-a-sponge   
-brittle star](ophiuroidea/tinysponge.htm)  
+brittle star](ophiuroidea/tinysponge)  
 *Ophiactis savignyi*
 
 ![](ophiuroidea/tinycolourful/080507skdd2477mb.jpg)  
 [Tiny colourful  
-brittle star](ophiuroidea/tinycolourful.htm)  
+brittle star](ophiuroidea/tinycolourful)  
 *Ophiothela danae*
 
 ![](ophiuroidea/tinyorange/111029smkd2954m.jpg)  
 [Tiny orange  
-brittle star](ophiuroidea/tinyorange.htm)  
+brittle star](ophiuroidea/tinyorange)  
 *Ophiothela mirabilis*
 
 ![](ophiuroidea/featherstar/060713rlhd4318mb.jpg)  
 [Feather star  
-brittle star](ophiuroidea/featherstar.htm)  
+brittle star](ophiuroidea/featherstar)  
 *Ophiomaza cacaotica*
 
 ![](ophiuroidea/white/111222tusd4699m.jpg)  
 [Ghost  
-brittle star](ophiuroidea/white.htm)  
+brittle star](ophiuroidea/white)  
 *awaiting identification*
 
 Whole
@@ -152,11 +137,11 @@ animal 1-2cm. Sometimes seen on feather stars.
 
  **These are NOT brittle stars**
 
-![](../worm/polychaeta/reef/040804skdd4129m.jpg) [Bristleworms](../worm/polychaeta/polychaeta.htm)  
+![](../worm/polychaeta/reef/040804skdd4129m.jpg) [Bristleworms](../worm/polychaeta/polychaeta)  
 Phylum Annelida
 
 ![](crinoidea/blue/050820bbg1788m.jpg)  
- [Feather star](crinoidea/crinoidea.htm)  
+ [Feather star](crinoidea/crinoidea)  
 Phylum Echinodermata  
 Class Crinoidea
 
@@ -164,16 +149,16 @@ Class Crinoidea
 Feeding tentacles
   
 of a buried   
- [sea cucumber](holothuroidea/holothuroidea.htm)
+ [sea cucumber](holothuroidea/holothuroidea)
 
 ---
 
 how to tell apart
 
 - [bristley
-  animals](../glossary/wormstar.htm)
+  animals](../glossary/wormstar)
 - [feathery
-  animal](../glossary/feathery.htm)
+  animal](../glossary/feathery)
 
   
   
@@ -185,39 +170,39 @@ echinoderms on this site
 
 **Phylum
 Echinodermata**[all
-echinoderms](echinodermatafi.htm)  **With arms**  
+echinoderms](echinodermatafi)  **With arms**  
  
 many,
 feathery  
-[feather stars](crinoideafi.htm)  
+[feather stars](crinoideafi)  
   
 five, bristley  
 brittle stars  
   
 sea stars  
-[small](asteroideafi1.htm) <10cm  
-[large](asteroideafi2.htm) >10cm
+[small](asteroideafi1) <10cm  
+[large](asteroideafi2) >10cm
   
  **Hard**  
  
 flat,
 coin-like  
-[sand dollars](echinoideafi1.htm)  
+[sand dollars](echinoideafi1)  
   
 spherical, spiny  
 [sea urchins  
-heart urchins](echinoideafi2.htm) 
+heart urchins](echinoideafi2) 
  **Soft**  
  
 sea
 cucumbers   
-[short](holothuroideafi1.htm)
+[short](holothuroideafi1)
 <10cm  
-[long](holothuroideafi2.htm) >10cm
+[long](holothuroideafi2) >10cm
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

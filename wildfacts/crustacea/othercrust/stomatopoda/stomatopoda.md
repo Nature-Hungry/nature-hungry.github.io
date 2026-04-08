@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "mantis, shrimp, stomatopod, stomatopoda, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 mantis shrimps
-[text index](../../crustaceaindex.htm#stomatopoda) | [photo
-index](../../shrimpfi2.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
+[text index](../../crustaceaindex#stomatopoda) | [photo
+index](../../shrimpfi2)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
 Malacostraca > Order Stomatopoda
 **Mantis
 shrimps**  
@@ -67,12 +67,12 @@ limbs are folded under the little animal, ready to be unleashed with
 lethal effect.  
   
 Mantis shrimp pincer modifications are generally of two types: spearers
-and smashers. [Spearer mantis shrimps](spearer.htm) pincers
+and smashers. [Spearer mantis shrimps](spearer) pincers
 are armed with sharp spines, from 2 to 20 spines. These pincers extend
 and retract much faster than an eye blink and the sharp spines impale
 soft, fast-moving prey like fishes and prawns.   
   
-The pincers of [smasher mantis shrimps](smasher.htm) are
+The pincers of [smasher mantis shrimps](smasher) are
 modified into clubs. These are used to bludgeon shelled prey. While
 snails and clams are simply dragged back to the burrow, crabs are
 often first immobilised by blows to the claws and legs. In the safety
@@ -87,7 +87,7 @@ see more colours than we can, and can see both UV and infra-red light.
 With just one eye, they already have binocular vision, important for
 accurately judging distance. So if they lose an eye, they can still
 hunt with the remaining eye! Their eyes are so fascinating that a
-study suggests that the structure of their eyes  [may inspire better DVD and CD players](http://wildshores.blogspot.com/2009/10/mantis-shrimp-eyes-may-inspire-better.html)!  
+study suggests that the structure of their eyes  [may inspire better DVD and CD players](http://wildshores.blogspot.com/2009/10/mantis-shrimp-eyes-may-inspire-betterl)!  
   
 Their eight pairs of legs are modified for various uses. The second
 pair of legs are modified into the deadly pincers described above.
@@ -97,7 +97,7 @@ used for burrowing.
   
 Their tails are heavily armoured to defend against the blows of other
 mantis shrimp in their territorial battles.
-*![](spearer/050707cftg9111m3.jpg)*Deadly pincers of a [spearer mantis shrimp](spearer.htm).
+*![](spearer/050707cftg9111m3.jpg)*Deadly pincers of a [spearer mantis shrimp](spearer).
 *![](spearer/050707cftg9111m3b.jpg)* *Changi, Jul 05*
 ![](spearer/040701chgd1290m3a.jpg)  
 This is all that is usually seen  
@@ -126,7 +126,7 @@ eggs, the male hunts for both of them. The free-swimming larvae look
 nothing like their parents and drift among the plankton for a while
 before settling to the bottom and changing into adult form. Here is
 a fascinating [photo
-of a mantis shrimp larva](http://www.imagequest3d.com/catalogue/larvalforms/pages/a006_jpg.htm) on [Image
+of a mantis shrimp larva](http://www.imagequest3d.com/catalogue/larvalforms/pages/a006_jpg) on [Image
 Quest 3-D Marine Library](http://www.imagequest3d.com/catalogue/larvalforms/).  
   
 **Human uses:** Mantis shrimp are
@@ -152,13 +152,13 @@ shrimps on Singapore shores**
 ---
 
 **![](spearer/090529prpd2898m3.jpg)  
-[Spearer mantis shrimp](spearer.htm)**
+[Spearer mantis shrimp](spearer)**
 
 **![](smasher/070630sisd2890m3.jpg)  
-[Smasher mantis shrimp](smasher.htm)**
+[Smasher mantis shrimp](smasher)**
 
 **![](banded/100527tmd3635m3e.jpg)  
-[Banded mantis shrimp](banded.htm)**
+[Banded mantis shrimp](banded)**
 
 ---
 
@@ -171,14 +171,14 @@ from The BIodiversity of Singapore, Lee Kong Chian Natural History Museum.
 Gonodactylidae**
  
 *Gonodactylellus sentosa  
-[Gonodactylellus viridis](smasher.htm)/Gonodactylus
+[Gonodactylellus viridis](smasher)/Gonodactylus
 chiragra* (Smasher mantis shrimp)
   
  
 **Family
 Lysiosquillidae**
  
-*[Lysiosquilla](banded.htm)*[sp.](smasher.htm) (Banded mantis shrimp)
+*[Lysiosquilla](banded)*[sp.](smasher) (Banded mantis shrimp)
   
  
 **Family
@@ -188,7 +188,7 @@ Nannosquillidae**
 Alachosquilla vicina*
   
  
-[**Family Squillidae**](spearer.htm) (Spearer mantis shrimp)
+[**Family Squillidae**](spearer) (Spearer mantis shrimp)
  
 *Carinosquilla lirata  
 Carinosquilla multicarinata  
@@ -211,7 +211,7 @@ Oratosquillina perpensa*
 **Links**
 
 - [Order
-  Stomatopoda](http://mangrove.nus.edu.sg/pub/seashore/text/217.htm)
+  Stomatopoda](http://mangrove.nus.edu.sg/pub/seashore/text/217)
   Tan, Leo W. H. & Ng, Peter K. L., 1988, *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
@@ -220,7 +220,7 @@ Oratosquillina perpensa*
   a wondrously inspiring look at the marvelous features and lifestyle
   of the mantis shrimp.
 - [Mantis
-  shrimp eyes may inspire better DVD and CD players](http://wildshores.blogspot.com/2009/10/mantis-shrimp-eyes-may-inspire-better.html) on the wild
+  shrimp eyes may inspire better DVD and CD players](http://wildshores.blogspot.com/2009/10/mantis-shrimp-eyes-may-inspire-betterl) on the wild
   shores of singapore blog.
 
 **References**
@@ -242,9 +242,9 @@ Oratosquillina perpensa*
   Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
   Sea Challengers. 314pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

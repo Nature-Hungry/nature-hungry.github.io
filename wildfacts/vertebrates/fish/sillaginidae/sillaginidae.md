@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "sand, whiting, sillago, sillaginidae, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm)
+> Subphylum Vertebrata > [fishes](../fish)
 **Whitings   
 Family
 Sillaginidae***updated
@@ -77,7 +77,7 @@ dark blotches on the sides that may appear to be oblique bars. The
 upper blotches are small, an indistinct black spot at the base of
 the pectoral fin. It is found in silty and muddy areas.  
   
-**Sometimes confused with** other small silvery fishes. More on [how to tell apart small silvery fishes](../cfsilvery.htm).
+**Sometimes confused with** other small silvery fishes. More on [how to tell apart small silvery fishes](../cfsilvery).
 ![](sillaginidae/121117hntd1524m6l.jpg)  
 *Pulau Hantu, Nov 12*
 ![](sillaginidae/100912kusd1441m3.jpg)  
@@ -141,7 +141,7 @@ St John's Island, Oct 25* Photo shared by Tammy Lim on [facebook](https://www.fa
 
 *![](sillaginidae/090628lazlt3m3.jpg)  
 Seringat-Kias, Jun 09* Photo shared by Liana Tan on [her
-blog](http://nearly-lucid.blogspot.com/2009/07/life-in-man-made-bay-on-lazarus-island.html).
+blog](http://nearly-lucid.blogspot.com/2009/07/life-in-man-made-bay-on-lazarus-islandl).
 
 *![](sillaginidae/250810bsisrk1.jpg)  
 Big Sisters, Aug 25* Photo shared by Richard Kuah on [facebook](https://www.facebook.com/media/set/?set=a.10162879113892906&type=3&ref=embed_post).
@@ -153,7 +153,7 @@ Pulau Semakau, Aug 14* Photo shared by Marcus Ng on [flickr](https://www.flickr.
 
 *![](sillaginidae/110830cyrlks3m3.jpg)*  
  *Cyrene Reef, Aug 11*Photo shared by Lok Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/09/last-morning-trip-of-2011-cyrene-reef.html).
+blog](http://wondercreation.blogspot.com/2011/09/last-morning-trip-of-2011-cyrene-reefl).
 
 ---
 
@@ -174,7 +174,7 @@ burrus* (Spotted sillago) *Sillago maculata* (Trumpeter sillago) *Sillago sihama
 **Links**  
 
 - [Pasir
-  or Silver Sand Whiting (*Sillago sihama*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/281.htm) Lim, Kelvin
+  or Silver Sand Whiting (*Sillago sihama*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/281) Lim, Kelvin
   K. P. & Jeffrey K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
@@ -186,8 +186,8 @@ burrus* (Spotted sillago) *Sillago maculata* (Trumpeter sillago) *Sillago sihama
   Technical fact sheet on the order, including fact sheets on individual
   species.
 - [Family
-  Sillaginidae](http://research.kahaku.go.jp/zoology/FishGuide/summary/s187.html) from [Coastal
-  Fishes of Indonesia: Field Guide to Lombok Island](http://research.kahaku.go.jp/zoology/FishGuide/index.html) by Keiichi
+  Sillaginidae](http://research.kahaku.go.jp/zoology/FishGuide/summary/s187l) from [Coastal
+  Fishes of Indonesia: Field Guide to Lombok Island](http://research.kahaku.go.jp/zoology/FishGuide/indexl) by Keiichi
   Matsuura, Seishi Kimura and Teguh Peristiwady on the National
   Science Museum, Tokyo website: factsheets with photos and descriptions.
 
@@ -201,9 +201,9 @@ burrus* (Spotted sillago) *Sillago maculata* (Trumpeter sillago) *Sillago sihama
   Fishes of South-East Asia: A Field Guide for Anglers and Divers*.
   Periplus Editions. 292 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

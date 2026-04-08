@@ -4,28 +4,15 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "lightning, fine, lined, flat, worm, flatworm, pseudobiceros, fulgor, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 flatworms
-[text index](../wormindex.htm) | [photo
-index](../polycladidafi.htm)
+[text index](../wormindex) | [photo
+index](../polycladidafi)
 
-[worms](../worm.htm) > Phylum Platyhelminthes >
+[worms](../worm) > Phylum Platyhelminthes >
 Class
-Turbellaria > [Order Polycladida](polycladida.htm)
+Turbellaria > [Order Polycladida](polycladida)
 
 **Lightning
 flatworm  
@@ -90,7 +77,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ![](fineline/090527skdlks1m3.JPG)  
 *Pulau Sekudu, May 09*  
-Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2009/05/back-to-froggy-sekudu.html).
+Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2009/05/back-to-froggy-sekudul).
 
 ---
 
@@ -143,7 +130,7 @@ Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?f
 
 ![](fineline/121114smklks1m3.JPG)  
 *Pulau Semakau, Nov 12*  
-Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2012/11/escaped-rain-with-special-finds-at.html).
+Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2012/11/escaped-rain-with-special-finds-atl).
 
 ![](fineline/201215smkejll4.jpg)  
 *Pulau Semakau (East), Dec 20*  
@@ -216,14 +203,4 @@ Grateful thanks to Rene Ong for sharing details and identifying the flatworms on
   Flatworms: The World of Polyclads![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
   CSIRO Publishing. 97pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

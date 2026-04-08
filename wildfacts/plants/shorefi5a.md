@@ -4,27 +4,12 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 plants
-[text index](plantindex.htm) | [photo
-index](plantfi.htm)
+[text index](plantindex) | [photo
+index](plantfi)
 
-[mangroves](mangrove/mangroves.htm)
-| [coastal plants](coastal/coastalplants.htm)
+[mangroves](mangrove/mangroves)
+| [coastal plants](coastal/coastalplants)
 **Photo
 index of mangrove and seashore plants on Singapore shores**  
 **shrubs
@@ -38,7 +23,7 @@ sea shore
   
 ![](coastal/ardisia/elliptica/050626smkd4451m.jpg)  
   
-![](coastal/ardisia/elliptica/090329cjd8714ma.jpg) [Mata pelandok](coastal/ardisia/elliptica.htm)  
+![](coastal/ardisia/elliptica/090329cjd8714ma.jpg) [Mata pelandok](coastal/ardisia/elliptica)  
 *Ardisia elliptica*
 
 ![](coastal/ximenia/americana/090117smkd5534m.jpg)  
@@ -46,7 +31,7 @@ sea shore
 ![](coastal/ximenia/americana/090117smkd5533m.jpg)  
   
 ![](coastal/ximenia/americana/090117smkd5540m.jpg)  
- [Bedara laut](coastal/ximenia/americana.htm)  
+ [Bedara laut](coastal/ximenia/americana)  
 *Ximenia americana*
 
 ![](coastal/scaevola/taccada/090118smkd5714m.jpg)  
@@ -54,18 +39,18 @@ sea shore
 ![](coastal/scaevola/taccada/090405smkd9069m.jpg)  
   
 ![](coastal/scaevola/taccada/090118smkd5714mc.jpg)  
-[Merambong/Sea lettuce](coastal/scaevola/taccada.htm)
+[Merambong/Sea lettuce](coastal/scaevola/taccada)
   
  *Scaevola taccada*
 
 ![](mangrove/lumnitzera/littorea/090112smkd4963ma.jpg)  
   
-![](mangrove/lumnitzera/littorea/090315smkd8194ma.jpg)![](mangrove/lumnitzera/littorea/081213smkd3025ma.jpg) [Teruntum merah](mangrove/lumnitzera/littorea.htm)  
+![](mangrove/lumnitzera/littorea/090315smkd8194ma.jpg)![](mangrove/lumnitzera/littorea/081213smkd3025ma.jpg) [Teruntum merah](mangrove/lumnitzera/littorea)  
 *Lumnitzera littorea*
 
 ![](mangrove/lumnitzera/racemosa/081213smkd3021m.jpg)  
   
-![](mangrove/lumnitzera/racemosa/030809ubnd0006ma.jpg)![](mangrove/lumnitzera/racemosa/081213smkd3021md.jpg) [Teruntum putih](mangrove/lumnitzera/racemosa.htm)  
+![](mangrove/lumnitzera/racemosa/030809ubnd0006ma.jpg)![](mangrove/lumnitzera/racemosa/081213smkd3021md.jpg) [Teruntum putih](mangrove/lumnitzera/racemosa)  
 *Lumnitzera racemosa*
 
 Shrub
@@ -99,14 +84,14 @@ It is Endangered.
 ![](mangrove/scyphiphora/hydrophyllacea/081213smkd3027mc.jpg)  
   
 ![](mangrove/scyphiphora/hydrophyllacea/090315smkd8186m.jpg)  
-[Chengam](mangrove/scyphiphora/hydrophyllacea.htm)   
+[Chengam](mangrove/scyphiphora/hydrophyllacea)   
  *Scyphiphora hydrophyllacea*
 
 ![](mangrove/acanthus/acanthus/011223sbwrcpd3304m.jpg)  
   
 ![](mangrove/acanthus/acanthus/011223sbwrcpd3319m.jpg)  
   
-![](mangrove/acanthus/acanthus/090322krjd8345m.jpg) [Sea holly](mangrove/acanthus/acanthus.htm) or Jeruju  
+![](mangrove/acanthus/acanthus/090322krjd8345m.jpg) [Sea holly](mangrove/acanthus/acanthus) or Jeruju  
 *Acanthus* sp.
 
 ![](mangrove/aegiceras/corniculatum/110419krjd9230m.jpg)  
@@ -114,7 +99,7 @@ It is Endangered.
 ![](mangrove/aegiceras/corniculatum/110501kntd0403ma.jpg)
   
   
-![](mangrove/aegiceras/corniculatum/060905ubnkl1ma.jpg) [Kacang-kacoang](mangrove/aegiceras/corniculatum.htm)  
+![](mangrove/aegiceras/corniculatum/060905ubnkl1ma.jpg) [Kacang-kacoang](mangrove/aegiceras/corniculatum)  
  *Aegiceras corniculatum*
 
 ![](mangrove/brownlowia/tersa/090408wdlo0065m.jpg)  
@@ -122,13 +107,13 @@ It is Endangered.
 ![](mangrove/brownlowia/tersa/090408wdld9190m.jpg)  
   
 ![](mangrove/brownlowia/tersa/110317mndd7400ma.jpg)  
-[Dungun air](mangrove/brownlowia/tersa.htm)  
+[Dungun air](mangrove/brownlowia/tersa)  
 *Brownlowia tersa*
 
 ![](mangrove/kandelia/kandelia/090529prpd2984m.jpg)  
   
 ![](mangrove/kandelia/kandelia/090529prpd2912m.jpg)  
- [Pisang-pisang](mangrove/kandelia/kandelia.htm)  
+ [Pisang-pisang](mangrove/kandelia/kandelia)  
 *Kandelia candel*
 
 Shrub
@@ -162,7 +147,7 @@ rare. It is Critically Endangered.
   
 ![](coastal/suregada/multiflora/091021chgd3004ma.jpg)  
 [Limau
-hantu](coastal/suregada/multiflora.htm)   
+hantu](coastal/suregada/multiflora)   
  *Suregada multiflora*
 
 ![](mangrove/pemphis/acidula/091231biod6842m.jpg)  
@@ -170,7 +155,7 @@ hantu](coastal/suregada/multiflora.htm)
 ![](mangrove/pemphis/acidula/100117chgec0641ma.jpg)  
   
 ![](mangrove/pemphis/acidula/091231biod6833ma.jpg)  
-[Mentigi](mangrove/pemphis/acidula.htm)  
+[Mentigi](mangrove/pemphis/acidula)  
  *Pemphis acidula*
 
 ![](mangrove/merope/angulata/100425kntd1701m.jpg)  
@@ -179,7 +164,7 @@ hantu](coastal/suregada/multiflora.htm)
   
 ![](mangrove/merope/angulata/101226krjd4150ma.jpg)  
 [Limau
-lelang](mangrove/merope/angulata.htm)   
+lelang](mangrove/merope/angulata)   
  *Merope angulata*
 
 ![](coastal/syzygium/zeylanicum/110203sjid5606ma.jpg)  
@@ -196,7 +181,7 @@ lelang](mangrove/merope/angulata.htm)
   
   
 [Kelat
-nasi nasi](coastal/syzygium/zeylanicum.htm)  
+nasi nasi](coastal/syzygium/zeylanicum)  
  *Syzygium zeylanicum*
 
  
@@ -228,45 +213,45 @@ index of
 plants on this site
 
 [all
-plants](plantfi.htm)  
+plants](plantfi)  
   
 **mangrove
 &** **seashore plants**   
-[creepers](shorefi1.htm)  
-[climbers, vines](shorefi2.htm)  
-[herbs](shorefi3.htm)  
-[ferns](shorefi7.htm)  
-[palms, pandans](shorefi4.htm)  
+[creepers](shorefi1)  
+[climbers, vines](shorefi2)  
+[herbs](shorefi3)  
+[ferns](shorefi7)  
+[palms, pandans](shorefi4)  
   
 **mangrove
 &   
 seashore** **shrubs<2m**  
 thick/leathery leaves  
-[thin leaves](shorefi5b.htm)  
+[thin leaves](shorefi5b)  
   
 **seashore  
 trees>2m**   
 types of leaves  
-[small simple](shorefi6b.htm)  
-[large simple](shorefi6c.htm)  
-[compound, others](shorefi6d.htm)   
+[small simple](shorefi6b)  
+[large simple](shorefi6c)  
+[compound, others](shorefi6d)   
   
 **mangrove
 trees**  
-small oval fruits and [pneumatophores](mangfi6a.htm)  
+small oval fruits and [pneumatophores](mangfi6a)  
   
 long cylindrical fruits  
-with [knee roots](mangfi6b.htm)  
-with [buttressed roots](mangfi6c.htm)  
-with [stilt roots](mangfi6d.htm)  
+with [knee roots](mangfi6b)  
+with [buttressed roots](mangfi6c)  
+with [stilt roots](mangfi6d)  
   
-[large round fruits](mangfi6f.htm)  
+[large round fruits](mangfi6f)  
   
-[others](mangfi7a.htm)
+[others](mangfi7a)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

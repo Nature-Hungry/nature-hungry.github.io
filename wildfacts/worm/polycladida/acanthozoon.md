@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "spotted, flat, worm, flatworm, acanthozoon, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 flatworms [text
-index](../wormindex.htm) | [photo index](../polycladidafi.htm)
-[worms](../worm.htm)
+index](../wormindex) | [photo index](../polycladidafi)
+[worms](../worm)
 > Phylum Platyhelminthes > Class
-Turbellaria > [Order Polycladida](polycladida.htm)
+Turbellaria > [Order Polycladida](polycladida)
 **Spangled flatworm  
 *Acanthozoon* sp.  
 Family Pseudocerotidae***updated
@@ -101,7 +88,7 @@ Pulau Ubin, Jul 24*Photo shared by Kelvin Yong on [facebook](https://www.faceboo
 
 ![](acanthozoon/090806tmjk8m3.jpg)  
 *Tanah Merah, Jul 09*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/08/tanah-merah-day-of-scorpionfish.html).
+blog](http://sgn090608.blogspot.com/2009/08/tanah-merah-day-of-scorpionfishl).
 
 .
 
@@ -132,7 +119,7 @@ blog](http://sgn090608.blogspot.com/2009/08/tanah-merah-day-of-scorpionfish.html
 ---
 
 ![](acanthozoon/150422jngnml1m3.jpg)  
-*Pulau Jong, Apr 15*Photo shared by Neo Mei Lin on [her blog](http://psychedelic-nature.blogspot.sg/2015/04/happy-earth-day-on-pulau-jong.html).
+*Pulau Jong, Apr 15*Photo shared by Neo Mei Lin on [her blog](http://psychedelic-nature.blogspot.sg/2015/04/happy-earth-day-on-pulau-jongl).
 
 ![](acanthozoon/170812cyray1.jpg)  
 *Cyrene Reef, Aug 17*Photo shared by Abel Yeo on [facebook](https://www.facebook.com/photo.php?fbid=10211347458894460&set=a.10211347438093940&type=3&theater).
@@ -165,12 +152,12 @@ Photo shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=
 *Terumbu Bemban,
 Jun 10*  
 Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/06/terumbu-bemban-reef-of-fish-trap.html).
+blog](http://wondercreation.blogspot.com/2010/06/terumbu-bemban-reef-of-fish-trapl).
 
 ![](acanthozoon/110422tbmtch4m3.jpg)  
 *Terumbu Bemban,
 Apr 11*Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2011/04/clammies-terumbu-bemban.html).
+blog](http://colorclouds.blogspot.com/2011/04/clammies-terumbu-bembanl).
 
 ---
 
@@ -185,12 +172,12 @@ blog](http://colorclouds.blogspot.com/2011/04/clammies-terumbu-bemban.html).
 *![](acanthozoon/100629tpdjk4m3.jpg)*  
 *Terumbu Pempang
 Darat, Jun 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/06/100629-terumbu-pempang-darat.html).
+blog](http://sgn090608.blogspot.com/2010/06/100629-terumbu-pempang-daratl).
 
 *![](acanthozoon/140909tptlks4m3a.jpg)*  
 *Terumbu Pempang
 Tengah, Sep 14*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2014/09/boat-graveyard-at-terumbu-pempang-tengah.html).
+blog](http://wondercreation.blogspot.sg/2014/09/boat-graveyard-at-terumbu-pempang-tengahl).
 
 ![](acanthozoon/091204pawd5224m3.jpg)  
 *Pulau Pawai, Dec 09*
@@ -256,14 +243,4 @@ Grateful thanks to Rene Ong for sharing details and identifying the flatworms on
   H and Helmut Debelius. 2009. *World
   Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

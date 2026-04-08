@@ -4,29 +4,29 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "commensal, anemone, shrimp, periclimenes, palaemonidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![talking points for nature guides](../../../../Templates/fornatureguides.gif)](../../fngshrimps.htm)
+[![talking points for nature guides](../../../../Templates/fornatureguides.gif)](../../fngshrimps)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 shrimps [text
-index](../../crustaceaindex.htm#shrimps) | [photo index](../../shrimpfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> [prawns and shrimps](shrimp.htm) > Family Paleomonidae
+index](../../crustaceaindex#shrimps) | [photo index](../../shrimpfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> [prawns and shrimps](shrimp) > Family Paleomonidae
 **Commensal
 shrimps** ***Periclimenes* sp.\*  
 Family Palaemonidae**  
@@ -70,12 +70,12 @@ Trampling by careless visitors and over-collection by hobbyists also
 have an impact on local populations.
 
 *![](brevicarpalis/040731kusd3491m3.jpg)*[Five-spot
-anemone shrimp](brevicarpalis.htm)   
+anemone shrimp](brevicarpalis)   
 seen on carpet anemones in pairs. *Kusu
 Island, Jul 04*  
   
 ![](carpet/050621skdg8007m3.jpg)  
-[Tiny carpet anemone shrimp](carpet.htm)   
+[Tiny carpet anemone shrimp](carpet)   
 seen on carpet anemones in groups of 5-10.  
 *Pulau Sekudus, Jun 05*
 
@@ -83,21 +83,21 @@ seen on carpet anemones in groups of 5-10.
 
 ![](rednose/060527sjig6054m3.jpg)  
 [Little
-red-nose shrimps](rednose.htm) are also found on  
+red-nose shrimps](rednose) are also found on  
 living hard and soft corals.  
 *St. John's Island, May 06*
 
 ![](../../../echinodermata/holothuroidea/colochirus/050821bbg1857m3b.jpg)  
 About 1cm, several seen on   
 a [Thorny
-sea cucumber](../../../echinodermata/holothuroidea/colochirus.htm).  
+sea cucumber](../../../echinodermata/holothuroidea/colochirus).  
 *Beting Bronok, Aug 05*
 
 ![](other/050524cftg6598m3b.jpg)  
 About 1cm, a
 pair seen on   
 a [Flowery
-sea pen](../../../cnidaria/others/pennatulacea/veretillidae.htm).  
+sea pen](../../../cnidaria/others/pennatulacea/veretillidae).  
 *Changi, May 05*
 
   
@@ -125,7 +125,7 @@ On this website, they are grouped by external features for convenience
 of display.*
  
 [Carpet
-anemone shrimp](carpet.htm) [Red nose shrimps](rednose.htm)
+anemone shrimp](carpet) [Red nose shrimps](rednose)
   
  
 **Family
@@ -133,7 +133,7 @@ Palaemonidae**
  
 *Periclimenes aesopius=^Ancylomenes aesopius  
 Periclimenes amymone=^Cuapetes amymone  
-[Periclimenes brevicarpalis](brevicarpalis.htm)* (Five-spot
+[Periclimenes brevicarpalis](brevicarpalis)* (Five-spot
 anemone shrimp) *Periclimenes brooki  
 Periclimenes calmani=^Cuapetes calmani  
 \*Periclimenes cristimanus* (Black
@@ -151,7 +151,7 @@ Periclimenes suvaensis*
 **Links**  
 
 - [Glass
-  Shrimp (*Periclimenes*)](http://mangrove.nus.edu.sg/pub/seashore/text/180.htm)
+  Shrimp (*Periclimenes*)](http://mangrove.nus.edu.sg/pub/seashore/text/180)
   Tan, Leo W. H. & Ng, Peter K. L., 1988, *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
@@ -185,9 +185,9 @@ FREE photos of
 & prawns](http://www.flickr.com/photos/54527470@N00/sets/72157594585760479).   
 Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

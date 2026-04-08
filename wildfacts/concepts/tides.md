@@ -4,27 +4,10 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "tides, intertidal, zone, spring, neap,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[![](../../Templates/fornatureguides.gif)](../forguides/index.html)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
-[index](index.html)
+[index](indexl)
 of concepts
 tides | [intertidal
-zone](intertidal.htm) | [zonation](zonation.htm) | [ecosystems](ecosystems.htm)
+zone](intertidal) | [zonation](zonation) | [ecosystems](ecosystems)
 **About
 the tides  
 what causes them?***updated
@@ -51,7 +34,7 @@ spring tides.
   
 The lower the tide, the larger the expanse of shore that is exposed.
 The coastal area affected by the tides is called the [intertidal
-zone](intertidal.htm).  
+zone](intertidal).  
   
 **Isn't there a low tide every day?** Yes, it's true, there is a 'low' tide every day. Singapore has two
 low tides and two high tides a day. The height of the tide is not
@@ -81,7 +64,7 @@ at right angles to that of the moon. This results in a smaller difference
 in height between the low and high tide. This is called a neap tide.   
   
 There's an [animation
-of the tides](https://oceanservice.noaa.gov/education/tutorial_tides/tides06_variations.html) on the NOAA website.   
+of the tides](https://oceanservice.noaa.gov/education/tutorial_tides/tides06_variationsl) on the NOAA website.   
   
 **What's so special about a low spring tide?** During a super low tide, we can get a quick glimpse of a part of
 the shore that is seldom exposed. Also, usually a larger area of
@@ -129,9 +112,9 @@ sloping shore means there is a narrower intertidal zone which is
 not exposed for long during low tide.   
   
 It's thus important to [go
-with experienced people and with shore guides](http://www.wildsingapore.com/places/shorefaq.htm#guides). You will be safer,
+with experienced people and with shore guides](http://www.wildsingapore.com/places/shorefaq#guides). You will be safer,
 and also see and learn more about our shores. Here's [more
-about preparing to visit our shores](http://www.wildsingapore.com/places/shoretips.htm).  
+about preparing to visit our shores](http://www.wildsingapore.com/places/shoretips).  
   
 **Other things to note about our tides:** In Singapore, spring tides usually occur over a few days twice a
 month and usually for only a few hours each time. The low spring
@@ -150,14 +133,14 @@ can raise water levels) and the barometric pressure (the pressure
 of the miles of atmosphere on the sea level).  
   
 **If we go at a neap tide, will we see nothing?** There is always something to see on our shores at any tide. For
-example, on [rocky shores](rocky.htm), the [mangroves](../plants/mangrove/mangroves.htm) and [coastal forests](../plants/coastal/coastalplants.htm).
+example, on [rocky shores](rocky), the [mangroves](../plants/mangrove/mangroves) and [coastal forests](../plants/coastal/coastalplants).
 High tide is when you are most likely to see fascinating animals
-such as [otters](../vertebrates/mammals/perspicillata.htm), [crocodiles](../vertebrates/reptilia/porosus.htm), [sea
-turtles](../vertebrates/reptilia/seaturtle.htm), fishes and more. See the [Adventures
+such as [otters](../vertebrates/mammals/perspicillata), [crocodiles](../vertebrates/reptilia/porosus), [sea
+turtles](../vertebrates/reptilia/seaturtle), fishes and more. See the [Adventures
 with the Naked Hermit Crabs](http://nakedhermitcrab.blogspot.com/) blog for some sightings during their
 free Chek Jawa boardwalk tour which is conducted at any tide. Here
 more [FAQs
-about visiting our shores](http://www.wildsingapore.com/places/shorefaq.htm).
+about visiting our shores](http://www.wildsingapore.com/places/shorefaq).
 
 ---
 
@@ -177,31 +160,31 @@ tide tables for Singapore**
 **Links**
 
 - [More
-  about the tides in Singapore](http://wildshores.blogspot.com/2008/10/2009-tide-tables-are-out.html) on the wild shores of singapore
+  about the tides in Singapore](http://wildshores.blogspot.com/2008/10/2009-tide-tables-are-outl) on the wild shores of singapore
   blog.
-- [Tides](http://mangrove.nus.edu.sg/guidebooks/text/1011b.htm)
+- [Tides](http://mangrove.nus.edu.sg/guidebooks/text/1011b)
   with a [chart
-  of typical tide heights](http://mangrove.nus.edu.sg/guidebooks/text/1012.htm) from Ng, Peter K. L. & N. Sivasothi,
+  of typical tide heights](http://mangrove.nus.edu.sg/guidebooks/text/1012) from Ng, Peter K. L. & N. Sivasothi,
   1999. *[A Guide
   to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) I (Plant Diversity)*. Singapore
   Science Centre. 168 pp.
 - [Seashore
-  environment](http://mangrove.nus.edu.sg/pub/seashore/text/002.htm) Tan,
+  environment](http://mangrove.nus.edu.sg/pub/seashore/text/002) Tan,
   Leo W. H. & Ng, Peter K. L., 1988. *A Guide to Seashore
   Life*. The Singapore Science Centre, Singapore. 160 pp
 - [Tide
-  Levels](http://www.mesa.edu.au/friends/seashores/tide_levels.html) on [Life
-  on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1.html) by Keith Davey on the Marine Education
+  Levels](http://www.mesa.edu.au/friends/seashores/tide_levelsl) on [Life
+  on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1l) by Keith Davey on the Marine Education
   Society of Australia website: about tides and how tide heights
   affect zonation.
 - [What
-  causes some tides to be 'plus tides' or 'minus tides'?](http://www.madsci.org/posts/archives/apr2002/1019251356.Es.r.html) on
+  causes some tides to be 'plus tides' or 'minus tides'?](http://www.madsci.org/posts/archives/apr2002/1019251356.Es.rl) on
   the [Mad Scientist](http://www.madsci.org/) website:
   Rob Campbell explains with lots of diagrams.
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

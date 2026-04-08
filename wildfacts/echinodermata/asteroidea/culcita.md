@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "cushion, sea star, seastar, starfish, star, fish, culcita, novaeguineae, oreasteridae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 sea
-stars [text index](../echinodermindex.htm) | [photo
-index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class Stelleroida > Subclass [Asteroidea](asteroidea.htm)
+stars [text index](../echinodermindex) | [photo
+index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
+> Class Stelleroida > Subclass [Asteroidea](asteroidea)
 **Cushion
 star  
 *Culcita novaeguineae*  
@@ -58,7 +45,7 @@ The action of waves then turns the sea star the right side up. See the video of 
   
 Young cushion stars are **sometimes mistaken
 for** other large sea stars. Here's more on [how
-to tell apart large sea stars](cfbigstars.htm) seen on our shores.
+to tell apart large sea stars](cfbigstars) seen on our shores.
 *![](culcita/110717tbd7114m3.jpg)  
 Terumbu Bemban,
 Jul 11*
@@ -76,7 +63,7 @@ Underside.
 ![](culcita/251008bbbtl6a.jpg)  
 Adult seen hidden under live coral  
 Beting Bemban Besar, Oct 25  
-Photo shared by Tammy Lim on [facebook](http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita.htm).
+Photo shared by Tammy Lim on [facebook](http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita).
 
 *![](culcita/251008bbbtl6.jpg)*Adult when removed from hiding.
 
@@ -122,7 +109,7 @@ How an upside down cushion star rights itself!
 ![](culcita/090309cyrlks02m3.jpg)  
 Juvenile cushion star ![](culcita/090309cyrlks02m3a.jpg)*Cyrene Reef, Mar 09*  
 Shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/03/cyrene-never-fails-to-amaze.html).
+blog](http://wondercreation.blogspot.com/2009/03/cyrene-never-fails-to-amazel).
 
 *![](culcita/100613snglks1m3.jpg)*Juvenile
 cushion star  *![](culcita/100613snglks2m3a.jpg)  
@@ -153,7 +140,7 @@ Cyrene Reef,
 May 08   
 ![](culcita/100711cyrlks4m3.jpg)*Photo
 shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/07/cyrene-in-dark.html).
+blog](http://wondercreation.blogspot.com/2010/07/cyrene-in-darkl).
 
   
 
@@ -193,7 +180,7 @@ Shared by Tammy Lim on [facebook](https://www.facebook.com/media/set/?set=a.1016
 
 *![](culcita/100519tsmklks9m3.jpg)*  
  *Terumbu Semakau, May 10![](culcita/100519tsmklks9m3a.jpg)*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/05/virgin-trip-to-terumbu-semakau.html).
+blog](http://wondercreation.blogspot.com/2010/05/virgin-trip-to-terumbu-semakaul).
 
 *![](culcita/120609tmskjk3m3.jpg)  
 Terumbu Semakau, Jun 12*Photo shared by James Koh on [his
@@ -203,7 +190,7 @@ blog](https://singaporenature.wordpress.com/2012/06/24/120609-terumbu-semakau/).
 
 *![](culcita/080723smklksm3.jpg)  
 Pulau Semakau, Jul 08*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2008/07/semakau-guiding-with-brunei-students.html).
+blog](http://wondercreation.blogspot.com/2008/07/semakau-guiding-with-brunei-studentsl).
 
 *![](culcita/080524smkljh3m3.jpg)  
 Pulau Semakau, May 08*Photo shared by Lin Juanhui on [her
@@ -227,7 +214,7 @@ Pulau Semakau West, Jul 25*Photo shared by Loh Kok Sheng on [facebook](https://w
 
 *![](culcita/100617tsmklks7m3.jpg)  
 Terumbu Semakau, Jun 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/06/more-bleaching-at-terumbu-semakau.html).
+blog](http://wondercreation.blogspot.com/2010/06/more-bleaching-at-terumbu-semakaul).
 
 *![](culcita/120609tmskjk3m3.jpg)  
 Terumbu Semakau, Jun 12*Photo shared by James Koh on [his
@@ -240,7 +227,7 @@ Terumbu Semakau, Aug 24*Photo shared by Lon on [facebook](https://www.facebook.c
 
 *![](culcita/100403tbbjk3m3.jpg)  
 Beting Bemban Besar, Apr 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/04/100403-terumbu-bemban-besar.html).
+blog](http://sgn090608.blogspot.com/2010/04/100403-terumbu-bemban-besarl).
 
 *![](culcita/180815bbbjll2.jpg)  
 Beting Bemban Besar, Aug 18*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo.php?fbid=10155823576336295&set=a.10155823572731295&type=3&theater).
@@ -251,13 +238,13 @@ Beting Bemban Besar, Aug 18*Photo shared by Jianlin Liu on [facebook](https://ww
 Terumbu Bemban,
 Apr 11*  
 Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/04/corals-galore-at-terumbu-bemban.html).
+blog](http://wondercreation.blogspot.com/2011/04/corals-galore-at-terumbu-bembanl).
 
 *![](culcita/110422tbmlks16m3.jpg)  
 Terumbu Bemban,
 Apr 11*  
 Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/04/corals-galore-at-terumbu-bemban.html).
+blog](http://wondercreation.blogspot.com/2011/04/corals-galore-at-terumbu-bembanl).
 
   
 
@@ -299,12 +286,12 @@ shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159
 **Links**
 
 - [*Culcita
-  novaeguineae* (Cushion star)](http://www.sealifebase.org/summary/Culcita-novaeguineae.html)
+  novaeguineae* (Cushion star)](http://www.sealifebase.org/summary/Culcita-novaeguineael)
   on SeaLife Base: Technical fact sheet.
 - From the
   Echinoblog by Dr Chris Mah: [The
   Cushion star *Culcita novaeguineae*: An exercise in growth-related
-  taxonomic confusion!](http://echinoblog.blogspot.sg/2009/02/cushion-star-culcita-novaeguineae.html)
+  taxonomic confusion!](http://echinoblog.blogspot.sg/2009/02/cushion-star-culcita-novaeguineael)
 
 **References**
 
@@ -337,14 +324,4 @@ shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159
   exclusive of the vertebrates![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*
   Sea Challengers. 314pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

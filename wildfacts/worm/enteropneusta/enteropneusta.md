@@ -4,25 +4,12 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "acorn, worm, enteropneusta, hemichordata, field, guide, seashore, sea, shore, marine, coastal, intertidal, singalpore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 worms
-[text index](../wormindex.htm) | [photo
-index](../wormfi.htm)
-[worms](../worm.htm)
+[text index](../wormindex) | [photo
+index](../wormfi)
+[worms](../worm)
 > Phylum Hemichordata > Class
 Enteropneusta
 **Acorn
@@ -52,10 +39,10 @@ and almost certain to disintegrate if they are dug up. So please don't
 try to dig them up.   
   
 **What are acorn worms?** Acorn worms
-are unsegmented [worms](../worm.htm) belonging to Phylum
+are unsegmented [worms](../worm) belonging to Phylum
 Hemichordata. There are about 70 species of acorn worms. They are
 quite different from the segmented worms that we are more familiar
-with such as earthworms and [bristleworms](../polychaeta/polychaeta.htm).
+with such as earthworms and [bristleworms](../polychaeta/polychaeta).
 These belong to Phylum Annelida.  
   
 **Features:** 9-45cm long, some reaching
@@ -137,13 +124,13 @@ May 16*Photo shared by Jonathan Tan on [facebook](https://www.facebook.com/media
 
 ![](enteropneusta/080603tmlksm3.jpg)  
 *Tanah Merah,
-Jun 08*Photo shared by Loh Kok Seng on  [his blog](http://wondercreation.blogspot.com/2008/06/sandflat-at-tanah-merah.html).
+Jun 08*Photo shared by Loh Kok Seng on  [his blog](http://wondercreation.blogspot.com/2008/06/sandflat-at-tanah-merahl).
 
 ---
 
 ![](enteropneusta/090224lazlks03m3.jpg)  
 *Lazarus, Feb 09*Shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/02/resurrection-of-lazarus.html).
+blog](http://wondercreation.blogspot.com/2009/02/resurrection-of-lazarusl).
 
 ![](enteropneusta/200822jngjc5.jpg)  
 *Pulau Jong, Aug 20*Photo shared by Joleen Chan on [facebook](https://www.facebook.com/photo?fbid=10158476141171310&set=a.10158476213361310).
@@ -176,7 +163,7 @@ flickr](http://www.flickr.com/photos/koksheng/4352606989/).
 **Links**  
 
 - [Acorn
-  worms](http://mangrove.nus.edu.sg/pub/seashore/text/225.htm)  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+  worms](http://mangrove.nus.edu.sg/pub/seashore/text/225)  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [Class
@@ -195,14 +182,4 @@ flickr](http://www.flickr.com/photos/koksheng/4352606989/).
   of the Invertebrates![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
   5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

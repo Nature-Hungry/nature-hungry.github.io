@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "goniopora, anemone, poritidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 hard corals [text
-index](../../coralhardindex.htm) | [photo index](../../cnidariafi1.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard.htm)
-> Family [Poritidae](poritidae.htm)
+index](../../coralhardindex) | [photo index](../../cnidariafi1)
+Phylum [Cnidaria](../../cnidaria)
+> Class [Anthozoa](../../anthozoa) > Subclass
+Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard)
+> Family [Poritidae](poritidae)
 **Branching
 pore coral  
 *Porites* sp.\*  
@@ -49,13 +49,13 @@ Usually the colony is of one uniform colour.
   
 Branching pore coral often provides shelter for small animals such
 as [tiny
-clams](../../../mollusca/bivalvia/pectinidae/coral.htm).  
+clams](../../../mollusca/bivalvia/pectinidae/coral).  
   
 **May be mistaken for** some [branching
-Montipora coral species with ridges](../acroporidae/monridged.htm) which look very similar. For
+Montipora coral species with ridges](../acroporidae/monridged) which look very similar. For
 convenience of display, all branching species that resemble Montipora
 are featured on the [Montipora
-page](../acroporidae/monridged.htm).
+page](../acroporidae/monridged).
 
 ![](porbranch/060527sjid2124m3.jpg)  
 *St. John's
@@ -156,9 +156,9 @@ Jun 10
 *Pulau Salu,
 Aug 10***
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

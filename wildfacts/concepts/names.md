@@ -4,22 +4,7 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "name, scientific, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
-[index](index.html)
+[index](indexl)
 of concepts
 **What's
 in a name?**
@@ -95,7 +80,7 @@ Kingdom**
 
  
  
-Here is [an example](../echinodermata/echinodermata1.htm) showing the classification of sea stars, sea urchins, sand dollars
+Here is [an example](../echinodermata/echinodermata1) showing the classification of sea stars, sea urchins, sand dollars
 and sea cucumbers. They appear different but they share similar features and a common
 ancestry. Thus they are grouped together.  
   
@@ -118,23 +103,23 @@ animals based on new discoveries of their genetic makeup.
 
 **Links**
 
-- [Taxonomy](http://www.biology4kids.com/files/studies_taxonomy.html)
+- [Taxonomy](http://www.biology4kids.com/files/studies_taxonomyl)
   on the Biology4Kids website: brief explanations of taxonomy and
   systematics
 - [Free
-  Latin-English dictionary](http://www.babylon.com/define/112/Latin-Dictionary.html) on the babylon website: find out meanings of Latin names.
+  Latin-English dictionary](http://www.babylon.com/define/112/Latin-Dictionaryl) on the babylon website: find out meanings of Latin names.
 - on the wild
   shores of singapore blog.
   - [Splitters
-    and Lumpers: why planet Earth needs taxonomists](http://wildshores.blogspot.com/2008/09/splitters-and-lumpers-why-planet-earth.html)
+    and Lumpers: why planet Earth needs taxonomists](http://wildshores.blogspot.com/2008/09/splitters-and-lumpers-why-planet-earthl)
   - [Museums
-    and how new species are described](http://wildshores.blogspot.com/2009/03/museums-and-how-new-species-are.html)
+    and how new species are described](http://wildshores.blogspot.com/2009/03/museums-and-how-new-species-arel)
   - [What's
-    in a name of a wild thing?](http://wildshores.blogspot.com/2009/08/whats-in-name-of-wild-thing.html)
+    in a name of a wild thing?](http://wildshores.blogspot.com/2009/08/whats-in-name-of-wild-thingl)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "star, psammocora, siderastreidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 hard corals [text
-index](../../coralhardindex.htm) | [photo index](../../cnidariafi1.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard.htm)
+index](../../coralhardindex) | [photo index](../../cnidariafi1)
+Phylum [Cnidaria](../../cnidaria)
+> Class [Anthozoa](../../anthozoa) > Subclass
+Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard)
 **Siderastreid
 corals**  **Family Siderastreidae  
 *updated
@@ -36,7 +36,7 @@ seen?** These hard corals with tiny to small corallites are
 often seen on many of our shores.   
   
  **Status and threats:** *[Pseudosiderastrea
-tayami](hexaneat.htm)* is listed as globally Near Threatened [by
+tayami](hexaneat)* is listed as globally Near Threatened [by
 the IUCN](http://www.iucnredlist.org/apps/redlist/details/133453/0). Like other creatures of the intertidal zone, they are
 affected by human activities such as reclamation and pollution. Trampling
 by careless visitors, and over-collection also have an impact on local
@@ -48,13 +48,13 @@ form petal-like shapes like a flower.
 *Chek Jawa, Jun 05*
 
 **![](crinkled/120408sjid8447m3.jpg)  
-[Crinkled sandpaper coral](psacrinkled.htm) *![](crinkled/120408sjid8450m3d.jpg)***
+[Crinkled sandpaper coral](psacrinkled) *![](crinkled/120408sjid8450m3d.jpg)***
 
 **![](boulder/050411tusd2323m3.jpg)  
-[Boulder sandpaper coral](psaboulder.htm)*![](boulder/050411tusg4486m3b.jpg)***
+[Boulder sandpaper coral](psaboulder)*![](boulder/050411tusg4486m3b.jpg)***
 
 **![](hexaneat/050821bbg2002m3.jpg)  
-[Neat hexa coral](hexaneat.htm)![](hexaneat/050821bbg2002m3c.jpg)**
+[Neat hexa coral](hexaneat)![](hexaneat/050821bbg2002m3c.jpg)**
 
 ---
 
@@ -73,10 +73,10 @@ Siderastreidae**
 *Coscinaraea
 columna\*\*  
 Coscinaraea exesa***[*Psammocora*
-sp.](psammocora.htm)** (Sandpaper corals)
+sp.](psammocora)** (Sandpaper corals)
 with list of species recorded for Singapore  
   
-*[Pseudosiderastrea tayami](hexaneat.htm)\*\**(Neat
+*[Pseudosiderastrea tayami](hexaneat)\*\**(Neat
 hexa corals) (Near Threatened)
 
 ---
@@ -119,9 +119,9 @@ FREE photos from [wildsingapore](http://www.flickr.com/photos/54527470@N00)
 tagged with [Siderastreidae](http://www.flickr.com/photos/54527470@N00/tags/Siderastreidae).
 Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

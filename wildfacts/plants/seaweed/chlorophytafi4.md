@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, green, seaweed, chlorophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 seaweeds
-[text index](seaweedindex.htm) | [photo
-index](seaweedfi.htm)
-[Seaweeds](seaweed.htm)
-> Division [Chlorophyta](chlorophyta/chlorophyta.htm)
+[text index](seaweedindex) | [photo
+index](seaweedfi)
+[Seaweeds](seaweed)
+> Division [Chlorophyta](chlorophyta/chlorophyta)
 **Photo
 index of green seaweeds on Singapore shores**  
 **Fans, disks,
@@ -33,23 +20,23 @@ branched and others**
 
 ![](chlorophyta/halsmall/050410kusd2176ma.jpg)  
 [Small coin  
-seaweeds](chlorophyta/halsmall.htm) *Halimeda* sp.
+seaweeds](chlorophyta/halsmall) *Halimeda* sp.
 
 ![](chlorophyta/halbig/040605kusbd0026m.jpg)  
 [Big coin  
-seaweeds](chlorophyta/halbig.htm)  
+seaweeds](chlorophyta/halbig)  
 *Halimeda* sp.
 
 ![](chlorophyta/peltata/050329sntg3894m.jpg)  
-[Parasol green seaweeds](chlorophyta/peltata.htm) *Caulerpa peltata*
+[Parasol green seaweeds](chlorophyta/peltata) *Caulerpa peltata*
 
 ![](chlorophyta/peltatasmall/070728sisd4512mb.jpg)  
 [Small parasol   
-green seaweeds](chlorophyta/peltatasmall.htm) *Caulerpa racemosa* var. *turbinata*
+green seaweeds](chlorophyta/peltatasmall) *Caulerpa racemosa* var. *turbinata*
 
 ![](chlorophyta/daisy/081030sntd1493m.jpg)  
 [Daisy  
-green seaweeds](chlorophyta/daisy.htm) *Parvocaulis parvulus*
+green seaweeds](chlorophyta/daisy) *Parvocaulis parvulus*
 
 Series
 of hard coin-like segments about 1cm in diameter or smaller, entire
@@ -73,19 +60,19 @@ seen on some of our Southern shores.
 
 ![](chlorophyta/avrerecta/040703sisd1798m.jpg)  
 [Solitary stiff  
-fan seaweed](chlorophyta/avrerecta.htm)  *Avrainvillea erecta*
+fan seaweed](chlorophyta/avrerecta)  *Avrainvillea erecta*
 
 ![](chlorophyta/udotea/050411tusd2298m.jpg)  
 [Ruffled  
-fan seaweed](chlorophyta/udotea.htm)  *Udotea* sp.
+fan seaweed](chlorophyta/udotea)  *Udotea* sp.
 
 ![](chlorophyta/rhipidosiphon/080705bbd6961m.jpg)  
 [Pleated  
-fan seaweed](chlorophyta/rhipidosiphon.htm)  *Rhipidosiphon javensis*
+fan seaweed](chlorophyta/rhipidosiphon)  *Rhipidosiphon javensis*
 
 ![](chlorophyta/avrcluster/050329sntg3880m.jpg)  
 [Clustered  
-fan seaweed](chlorophyta/avrcluster.htm)  *Avrainvillea* sp.
+fan seaweed](chlorophyta/avrcluster)  *Avrainvillea* sp.
 
  
 Usually
@@ -104,16 +91,16 @@ On coral rubble. Sometimes seen on some of our shores.
 
 ![](chlorophyta/spongesmooth/100131slud8784mb.jpg)  
 [Smooth sponge   
-green seaweed](chlorophyta/spongesmooth.htm)  *Cladophoropsis vaucheriaeformis*
+green seaweed](chlorophyta/spongesmooth)  *Cladophoropsis vaucheriaeformis*
 
 ![](rhodophyta/spongeholey/050309smkd1530m.jpg)  
 [Holey sponge   
-seaweed](rhodophyta/spongeholey.htm)  *Ceratodictyon   
+seaweed](rhodophyta/spongeholey)  *Ceratodictyon   
 spongiosum*
 
 ![](chlorophyta/codium/050412tusd2442m.jpg)  
 [Codium   
-green seaweed](chlorophyta/codium.htm)  *Codium* sp.
+green seaweed](chlorophyta/codium)  *Codium* sp.
 
  
  
@@ -136,7 +123,7 @@ our shores.
 ---
 
 how to tell apart [fan-shaped
-green seaweeds](chlorophyta/cffan.htm)  
+green seaweeds](chlorophyta/cffan)  
   
   
   
@@ -148,41 +135,31 @@ index of
 seaweeds on this site
 
 [all
-seaweeds](seaweedfi.htm)  
+seaweeds](seaweedfi)  
   
 **Green seaweeds**  
   
-[sheets, ribbons, filaments](chlorophytafi1.htm)  
+[sheets, ribbons, filaments](chlorophytafi1)  
   
 [feathery,   
-serrated strips](chlorophytafi2.htm)  
+serrated strips](chlorophytafi2)  
   
- [spheres, sausages, blobs](chlorophytafi3.htm)  
+ [spheres, sausages, blobs](chlorophytafi3)  
   
 fans, disks, branched  
   
 **Red
 seaweeds**  
- [sheets, ribbons](rhodophytafi3.htm)  
+ [sheets, ribbons](rhodophytafi3)  
   
- [fleshy stems, beads](rhodophytafi1.htm)  
- [soft hairy, feathery](rhodophytafi2.htm)  
+ [fleshy stems, beads](rhodophytafi1)  
+ [soft hairy, feathery](rhodophytafi2)  
   
-[hard branching, encrusting](rhodophytafi4.htm)  
+[hard branching, encrusting](rhodophytafi4)  
   
 **Brown
 seaweeds**  
- [sheets, ribbons](phaeophytafi2.htm)  
- [disks, other shapes](phaeophytafi1.htm)
+ [sheets, ribbons](phaeophytafi2)  
+ [disks, other shapes](phaeophytafi1)
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

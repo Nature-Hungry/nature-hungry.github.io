@@ -4,25 +4,8 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info,"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[![talking points for nature guides](../../Templates/fornatureguides.gif)](index.html)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 [index
-to talking points](index.html) for nature guides
+to talking points](indexl) for nature guides
 **For
 nature guides: how to be a good guide**  
 *updated
@@ -31,7 +14,7 @@ Apr 2020*
 ---
 
 Don't do any of
-the stuff that [a 'bad' guide](badguide.htm) does. But
+the stuff that [a 'bad' guide](badguide) does. But
 do more of these below  **Tips for an interesting walk**   
 Be interested in the visitors and they will be interested in you.   
 **Pay** attention to the visitors and you will **get** their
@@ -204,9 +187,9 @@ Your visitors are smiling and having a good time
 YOU are smiling and having a good time.   
 If you are miserable and stressed, they will be too.
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "little, ruby, red, flat, worm, flatworm, phrikoceros baibaiye,  polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 flatworms [text
-index](../wormindex.htm) | [photo index](../polycladidafi.htm)
-[worms](../worm.htm)
+index](../wormindex) | [photo index](../polycladidafi)
+[worms](../worm)
 > Phylum Platyhelminthes > Class
-Turbellaria > [Order Polycladida](polycladida.htm)
+Turbellaria > [Order Polycladida](polycladida)
 **Vermilion flatworm  
 *Phrikoceros baibaiye*****Family
 Pseudocerotidae***updated
@@ -82,20 +69,20 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ![](baibaiye/101009cjnml1m3b.jpg)  
  *Chek Jawa, Oct 10*Photo shared by Neo Mei Lin on [her
-blog](http://psychedelic-nature.blogspot.com/2010/10/im-seagrasser-chek-jawa.html).
+blog](http://psychedelic-nature.blogspot.com/2010/10/im-seagrasser-chek-jawal).
 
 ![](baibaiye/140104cjlks1m3.JPG)  
- *Chek Jawa, Jan 14*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/01/any-impact-on-chek-jawa-from-dec-flood.html).
+ *Chek Jawa, Jan 14*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/01/any-impact-on-chek-jawa-from-dec-floodl).
 
 ---
 
 ![](baibaiye/160209cyrlks3.JPG)  
  *Cyrene Reef, Feb 16*Photo shared by Lok Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2016/02/cny-day-2-cyrene-reef.html).
+blog](http://wondercreation.blogspot.sg/2016/02/cny-day-2-cyrene-reefl).
 
 ![](baibaiye/120819cyrlks1m3.JPG)  
  *Cyrene Reef, Aug 12*Photo shared by Lok Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2012/08/cyrene-reef-is-stunning-as-ever.html).
+blog](http://wondercreation.blogspot.sg/2012/08/cyrene-reef-is-stunning-as-everl).
 
 ---
 
@@ -120,11 +107,11 @@ blog](http://wondercreation.blogspot.sg/2012/08/cyrene-reef-is-stunning-as-ever.
 
 ![](baibaiye/110814smklks8m3.jpg)  
  *Pulau Semakau, Aug 11*Photo shared by Lok Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/08/finally-galloping-sea-star-at-semakau.html).
+blog](http://wondercreation.blogspot.com/2011/08/finally-galloping-sea-star-at-semakaul).
 
 ![](baibaiye/100813smknml1m3.jpg)  
  *Pulau Semakau, Aug 10*Photo shared by Neo Mei Lin on [her
-blog](http://psychedelic-nature.blogspot.com/2010/08/strolling-semakau.html).
+blog](http://psychedelic-nature.blogspot.com/2010/08/strolling-semakaul).
 
 ---
 
@@ -149,14 +136,4 @@ Grateful thanks to Rene Ong for sharing details and identifying the flatworms on
   Flatworms: The World of Polyclads*.
   CSIRO Publishing. 97pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

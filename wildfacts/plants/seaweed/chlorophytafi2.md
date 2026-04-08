@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, green, seaweed, chlorophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 seaweeds
-[text index](seaweedindex.htm) | [photo
-index](seaweedfi.htm)
-[Seaweeds](seaweed.htm)
-> Division [Chlorophyta](chlorophyta/chlorophyta.htm)
+[text index](seaweedindex) | [photo
+index](seaweedfi)
+[Seaweeds](seaweed)
+> Division [Chlorophyta](chlorophyta/chlorophyta)
 **Photo
 index of green seaweeds on Singapore shores**  
 **Feathery,
@@ -35,30 +22,30 @@ serrated strips**
   
 ![](chlorophyta/taxifolia/041116labd8420m2a.jpg)  
 [Taxifolia   
-feathery seaweed](chlorophyta/taxifolia.htm)  *Caulerpa taxifolia*
+feathery seaweed](chlorophyta/taxifolia)  *Caulerpa taxifolia*
 
 ![](chlorophyta/mexicana/040901sjid6072m.jpg)  
   
 ![](chlorophyta/mexicana/040901sjid6072mb.jpg)  
 [Mexican  
-seaweed](chlorophyta/mexicana.htm)  *Caulerpa mexicana*
+seaweed](chlorophyta/mexicana)  *Caulerpa mexicana*
 
 ![](chlorophyta/sertularioides/050623cjd4103m.jpg)  
   
 ![](chlorophyta/sertularioides/040620skdd0693m2a.jpg)  
 [Delicate   
-feathery seaweed](chlorophyta/sertularioides.htm)  *Caulerpa setularioides*
+feathery seaweed](chlorophyta/sertularioides)  *Caulerpa setularioides*
 
 ![](chlorophyta/cupressoides/050621skdg7924m.jpg)  
   
 ![](chlorophyta/cupressoides/050621skdg7924ma.jpg)  
 [Zipper  
-seaweed](chlorophyta/cupressoides.htm)  *Caulerpa cupressoides*
+seaweed](chlorophyta/cupressoides)  *Caulerpa cupressoides*
 
 ![](chlorophyta/scalpelliformis/050428cftg5309m.jpg)  
   
 ![](chlorophyta/scalpelliformis/050428cftg5309ma.jpg)  
-[Scalpel seaweed](chlorophyta/scalpelliformis.htm)  *Caulerpa scalpelliformis*
+[Scalpel seaweed](chlorophyta/scalpelliformis)  *Caulerpa scalpelliformis*
 
 3-7cm.
 Central 'stem' flat, side 'branches' long, flat, broad, sickle shaped
@@ -86,21 +73,21 @@ Olive green. On sand among seagrasses. Small patches on some of our Southern sho
 ![](chlorophyta/serrulata/050610sntg7630ma.jpg)
   
 [Serrated green  
-seaweeds](chlorophyta/serrulata.htm)  *Caulerpa serrulata*
+seaweeds](chlorophyta/serrulata)  *Caulerpa serrulata*
 
 ![](chlorophyta/bottlebrush/080425cyrd1800ma.jpg)  
   
 ![](chlorophyta/bottlebrush/080425cyrd1802ma.jpg)
   
 [Bottlebrush   
-green seaweed](chlorophyta/webbiana.htm) *Caulerpa webbiana*
+green seaweed](chlorophyta/webbiana) *Caulerpa webbiana*
 
 ![](chlorophyta/fluffy/050510tusg6136m.jpg)  
   
 ![](chlorophyta/fluffy/050510tusg6137mb.jpg)
   
 [Fluffy   
-green seaweed](chlorophyta/fluffy.htm) *Caulerpa verticillata*
+green seaweed](chlorophyta/fluffy) *Caulerpa verticillata*
 
  
  
@@ -122,12 +109,12 @@ seaweed**
 
 ![](chlorophyta/bryopsis/040919sntd7088m.jpg)  
 [Hairy  
-seaweed](chlorophyta/bryopsis.htm)  *Bryopsis* sp.
+seaweed](chlorophyta/bryopsis)  *Bryopsis* sp.
 
 ![](chlorophyta/boodlea/070322cyrd9149mb.jpg)  
-[Fuzzy green seaweed](chlorophyta/boodlea.htm)  *Boodlea* sp.
+[Fuzzy green seaweed](chlorophyta/boodlea)  *Boodlea* sp.
 
-![](../seagrass/spinulosa/030928cjd0024m.jpg) [Fern seagrass](../seagrass/spinulosa.htm) *Halophila spinulosa*
+![](../seagrass/spinulosa/030928cjd0024m.jpg) [Fern seagrass](../seagrass/spinulosa) *Halophila spinulosa*
 
 Clump
 of filaments medium length (6-8cm). Filaments fine straight and hair-like
@@ -149,8 +136,8 @@ Chek Jawa and Changi.
 
 how to tell apart
 
-- [different feathery green seaweeds](chlorophyta/cffeathery.htm)
-- [feathery seaweeds from seagrasses](../../glossary/seagrassweed.htm)
+- [different feathery green seaweeds](chlorophyta/cffeathery)
+- [feathery seaweeds from seagrasses](../../glossary/seagrassweed)
 
   
   
@@ -162,41 +149,31 @@ index of
 seaweeds on this site
 
 [all
-seaweeds](seaweedfi.htm)  
+seaweeds](seaweedfi)  
   
 **Green seaweeds**  
   
-[sheets, ribbons, filaments](chlorophytafi1.htm)  
+[sheets, ribbons, filaments](chlorophytafi1)  
   
 feathery,   
 serrated strips  
   
- [spheres, sausages, blobs](chlorophytafi3.htm)  
+ [spheres, sausages, blobs](chlorophytafi3)  
   
-[fans, disks, branched](chlorophytafi4.htm)  
+[fans, disks, branched](chlorophytafi4)  
   
 **Red
 seaweeds**  
- [sheets, ribbons](rhodophytafi3.htm)  
+ [sheets, ribbons](rhodophytafi3)  
   
- [fleshy stems, beads](rhodophytafi1.htm)  
- [soft hairy, feathery](rhodophytafi2.htm)  
+ [fleshy stems, beads](rhodophytafi1)  
+ [soft hairy, feathery](rhodophytafi2)  
   
-[hard branching, encrusting](rhodophytafi4.htm)  
+[hard branching, encrusting](rhodophytafi4)  
   
 **Brown
 seaweeds**  
- [sheets, ribbons](phaeophytafi2.htm)  
- [disks, other shapes](phaeophytafi1.htm)
+ [sheets, ribbons](phaeophytafi2)  
+ [disks, other shapes](phaeophytafi1)
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

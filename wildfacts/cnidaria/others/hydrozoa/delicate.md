@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "candy, hydroid, hydrozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 hydroid [text
-index](../../cnidariaindex.htm#hydrozoa) | [photo index](../../hydrozoafi.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Hydrozoa](hydrozoa.htm)
+index](../../cnidariaindex#hydrozoa) | [photo index](../../hydrozoafi)
+Phylum [Cnidaria](../../cnidaria)
+> Class [Hydrozoa](hydrozoa)
 **Delicate
 hydroid*****awaiting
 identification\*****updated
@@ -41,8 +41,8 @@ delicate tentacles. Often only the feathery fan is seen above the
 surface. Pale brown.  
   
 **Sometimes mistaken for** a [fan
-worm](../../../worm/polychaeta/sabellidae.htm). Here's more on how to [tell
-apart feathery animals](../../../glossary/feathery.htm).
+worm](../../../worm/polychaeta/sabellidae). Here's more on how to [tell
+apart feathery animals](../../../glossary/feathery).
 
 *![](delicate/050819cjg1531m3.jpg)  
 Chek Jawa, Aug 05*
@@ -102,9 +102,9 @@ Pulau Biola, Dec 09
 Pulau Salu, Aug 10  
 ![](delicate/100811slud0097m3a.jpg)*
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

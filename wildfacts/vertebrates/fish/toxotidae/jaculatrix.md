@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "banded, acherfish, archer, fish, toxotidae, toxotes, jaculatrix, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm) >
-Family [Toxotidae](toxotidae.htm)
+> Subphylum Vertebrata > [fishes](../fish) >
+Family [Toxotidae](toxotidae)
 **Banded
 archerfish**  
 ***Toxotes
@@ -39,7 +39,7 @@ streams near mangroves. There is usually large groups of really large
 fat ones under the main bridge at Sungei Buloh Wetland Reserve.  
  **Features:** To about
 20cm long, those seen about 7-10cm. 4-5 broad black vertical bands
-that taper towards the bottom of the body. [More](toxotidae.htm) about the archerfishes' infamous ability to shoot down insects.
+that taper towards the bottom of the body. [More](toxotidae) about the archerfishes' infamous ability to shoot down insects.
 
 *![](jaculatrix/110205krjd5871m3.jpg)* *Sungei Buloh Wetland Reserve, Feb 11*
 
@@ -67,7 +67,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 *![](jaculatrix/090510sntik4m3.jpg)*  
 *Sentosa Siloso, May 09*Photo shared by Ivan Kwan on [his
-blog](http://lazy-lizard-tales.blogspot.com/2009/05/finds-with-spines-on-siloso.html)
+blog](http://lazy-lizard-tales.blogspot.com/2009/05/finds-with-spines-on-silosol)
 
 ![](jaculatrix/170820kusmn.jpg)  
 Juvenile. *Kusu Island, Aug 17*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/49100315031/).
@@ -80,21 +80,21 @@ Juvenile. *Pulau Hantu, Dec 25*Photo shared by Loh Kok Sheng on [facebook](https
 **Links**  
 
 - [Banded
-  Archerfish (*Toxotes jaculatrix*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/324.htm) Lim, Kelvin K. P. &
+  Archerfish (*Toxotes jaculatrix*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/324) Lim, Kelvin K. P. &
   Jeffrey K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
-- [Archerfish (*Toxotes jaculatrix*)](http://mangrove.nus.edu.sg/guidebooks/text/2105.htm) Ng, Peter K. L. &
+- [Archerfish (*Toxotes jaculatrix*)](http://mangrove.nus.edu.sg/guidebooks/text/2105) Ng, Peter K. L. &
   N. Sivasothi, 1999. *[A
   Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) II (Animal Diversity)*.
   Singapore Science Centre. 168 pp.
-- [Banded Archerfish](http://www.ecologyasia.com/verts/fishes/banded-archerfish.htm) from EcologyAsia
+- [Banded Archerfish](http://www.ecologyasia.com/verts/fishes/banded-archerfish) from EcologyAsia
   .
 - [Banded
   Archerfish (*Toxotes jaculatrix*)](http://fishbase.org/summary/8229) from [FishBase](http://www.fishbase.org/):
   Technical fact sheet.
 - [Banded
-  Archerfish (*Toxotes jaculatrix*)](http://www.amonline.net.au/fishes/fishfacts/fish/tjaculat.htm)
+  Archerfish (*Toxotes jaculatrix*)](http://www.amonline.net.au/fishes/fishfacts/fish/tjaculat)
   from the [Australian
   Museum Fish Site](http://www.amonline.net.au/fishes/fishfacts/): fact sheet with photo
 - [*Toxotes jaculatrix* (Banded Archerfish)](http://www.iucnredlist.org/details/196451/0) from IUCN.
@@ -110,9 +110,9 @@ Juvenile. *Pulau Hantu, Dec 25*Photo shared by Loh Kok Sheng on [facebook](https
   Reef Fishes of the World*
   Periplus Editions. 400pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

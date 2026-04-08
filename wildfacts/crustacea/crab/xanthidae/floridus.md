@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "floral, egg, xanthid, crab, atergatis, floridus, xanthidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> Brachyurans > Family [Xanthidae](xanthidae.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> Brachyurans > Family [Xanthidae](xanthidae)
 **Floral
 egg crab  
 *Atergatis floridus***  
@@ -45,7 +45,7 @@ are not venomous but it's best not to touch them.
 **Where
 seen?** This round well-camouflaged crab is commonly seen
 on our Southern shores, among coral rubble or reefs. But sightings usually
-not as numerous as the [Red egg crab](integerrimus.htm) - perhaps because it is more well camouflaged? It is more active at night.   
+not as numerous as the [Red egg crab](integerrimus) - perhaps because it is more well camouflaged? It is more active at night.   
   
 **Features:** Body width 8-10cm. Body
 oval, smooth surface and smooth body edge decorated spaced out little circles. Body colour greenish- and greenish-blue-brown. 'Floridus'
@@ -63,7 +63,7 @@ edges, not hairy.
 **What does it eat?** Although it
 is described as a vegetarian, one was seen happily eating a fish.
 Like most other Xanthid crabs, it is [highly
-poisonous](xanthidae.htm) and should not be eaten.  
+poisonous](xanthidae) and should not be eaten.  
   
 **Status and threats:** This crab
 is listed as 'Vulnerable' on the Red List of threatened animals of
@@ -71,11 +71,11 @@ Singapore.
 
 ![](floridus/100711cyrjk2m3.jpg)  
 A pair of mating egg crabs. *Cyrene Reef, Jul 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/07/100711-cyrene-reef.html).
+blog](http://sgn090608.blogspot.com/2010/07/100711-cyrene-reefl).
 
 ![](floridus/040919sntd7092m3.jpg)  
 Eating a [Brown-stripe
-wrasse](../../../vertebrates/fish/labridae/bicolor.htm). *Sentosa, Sep 04*
+wrasse](../../../vertebrates/fish/labridae/bicolor). *Sentosa, Sep 04*
 
 ---
 
@@ -142,11 +142,11 @@ Pulau Hantu, Dec 25*Photo shared by Jianlin Liu on [facebook](https://www.facebo
 
 ![](floridus/100518bbbjk6m3.jpg)  
 *Beting Bemban Besar, May 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/05/100518-beting-bemban-besar.html).
+blog](http://sgn090608.blogspot.com/2010/05/100518-beting-bemban-besarl).
 
 ![](floridus/100617tbtch2m3.jpg)  
 *Terumbu Bemban, Jun 10*Photo shared by Toh Chay Hoom on [her
-blog](http://colorclouds.blogspot.com/2010/06/patch-reef-hopping.html).
+blog](http://colorclouds.blogspot.com/2010/06/patch-reef-hoppingl).
 
 ![](floridus/240412tbtl3.jpg)  
 *Terumbu Bemban, Apr 24*Photo shared by Tammy Lim on [facebook](https://www.facebook.com/photo/?fbid=10161177265829264&set=a.10161177255284264).
@@ -155,7 +155,7 @@ blog](http://colorclouds.blogspot.com/2010/06/patch-reef-hopping.html).
 
 ![](floridus/110517tptlks25m3.jpg)  
  *Terumbu Pempang Tengah, May 11*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengah.html)*.*
+blog](http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengahl)*.*
 
 ![](floridus/210810tplvc1.jpg)  
  *Terumbu Pempang Laut, Aug 21*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=10158628141112945&set=a.10158628246612945).
@@ -189,7 +189,7 @@ flickr](http://www.flickr.com/photos/37823682@N04/4231655960/in/set-721576228420
 **Links**
 
 - [Poisonous
-  Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252.htm)
+  Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252)
   Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
@@ -232,9 +232,9 @@ flickr](http://www.flickr.com/photos/37823682@N04/4231655960/in/set-721576228420
   S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
   Australian Waters*. Reed New Holland. 224 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

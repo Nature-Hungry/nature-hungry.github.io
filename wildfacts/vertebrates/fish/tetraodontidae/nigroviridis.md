@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "spotted, green, pufferfish, puffer, fish, tetraodon, nigroviridis, tetraodontidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 fishes [text
-index](../fishindex.htm) | [photo index](../fishfi.htm)
+index](../fishindex) | [photo index](../fishfi)
 Phylum Chordata
-> Subphylum Vertebrata > [fishes](../fish.htm) >
-Family [Tetraodontidae](tetraodontidae.htm)
+> Subphylum Vertebrata > [fishes](../fish) >
+Family [Tetraodontidae](tetraodontidae)
 **Spotted
 green pufferfish  
 *Tetraodon nigroviridis***  
@@ -87,16 +87,16 @@ Wetland Reserve, Apr 11
 **Links**  
 
 - [Spotted
-  Green Puffer (*Tetraodon nigroviridis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/398.htm) Lim, Kelvin K.
+  Green Puffer (*Tetraodon nigroviridis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/398) Lim, Kelvin K.
   P. & Jeffrey K. Y. Low, 1998. *[A
   Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
   Science Centre. 163 pp.
 - [Spotted
-  green puffer (*Tetraodon nigroviridis*)](http://mangrove.nus.edu.sg/guidebooks/text/2108.htm) Ng, Peter K.
+  green puffer (*Tetraodon nigroviridis*)](http://mangrove.nus.edu.sg/guidebooks/text/2108) Ng, Peter K.
   L. & N. Sivasothi, 1999. *[A
   Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
   Singapore Science Centre. 168 pp
-- [*Tetraodon nigroviridis*](https://singapore.biodiversity.online/taxo4254/mainSpace/Tetraodon%20nigroviridis%20Marion%20de%20Proc%C3%A9%2C%201822.html) (Tetraodontiformes: Tetraodontidae) Spotted Green Pufferfish by Cheong Ka Min Delicia, 2014, on taxo4254.
+- [*Tetraodon nigroviridis*](https://singapore.biodiversity.online/taxo4254/mainSpace/Tetraodon%20nigroviridis%20Marion%20de%20Proc%C3%A9%2C%201822l) (Tetraodontiformes: Tetraodontidae) Spotted Green Pufferfish by Cheong Ka Min Delicia, 2014, on taxo4254.
 - [Spotted
   green pufferfish (*Tetraodon nigroviridis*)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=7763) from [FishBase](http://www.fishbase.org/):
   Technical fact sheet.
@@ -105,9 +105,9 @@ Wetland Reserve, Apr 11
 
 - Andrew Tay & Caitlin Wind. 6 December 2013. *Dog-faced water snake attacking pufferfish*. Singapore Biodiversity Records 2013: 100.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

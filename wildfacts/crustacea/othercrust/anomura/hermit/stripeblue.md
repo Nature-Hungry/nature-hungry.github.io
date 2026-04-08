@@ -4,29 +4,29 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "blue, striped, hermit, crab, clibanarius, longitarsus, diogenidae, anomura, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../../wildfactsheet3.gif)](../../../../index.html)
+[![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../../index.html)  
+[wildfactsheets homepage](../../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../../animals.htm)
-| [all plants](../../../../plants.htm)
-| [concepts](../../../../concepts/index.html)
-| [glossary](../../../../glossary/index.html)
-| [search](../../../../search.htm)
+[all animals](../../../../animals)
+| [all plants](../../../../plants)
+| [concepts](../../../../concepts/indexl)
+| [glossary](../../../../glossary/indexl)
+| [search](../../../../search)
 
 hermit crabs
-[text index](../../../crustaceaindex.htm#anomurans) | [photo
-index](../../../anomurafi.htm)
-Phylum [Arthropoda](../../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../../crustacea.htm) >
-Class Malacostraca > Order [Decapoda](../../../decapoda.htm)
+[text index](../../../crustaceaindex#anomurans) | [photo
+index](../../../anomurafi)
+Phylum [Arthropoda](../../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../../crustacea) >
+Class Malacostraca > Order [Decapoda](../../../decapoda)
 > Anomurans
-> [hermit crabs](hermit.htm) > *[Clibanarius](clibanarius.htm)*
+> [hermit crabs](hermit) > *[Clibanarius](clibanarius)*
 **Blue-striped
 hermit crab *Clibanarius longitarsus\**  
 Family Diogenidae***updated
@@ -36,7 +36,7 @@ Jan 2020*
 
  **Where seen?** This small hermit crab is seen near mangroves,
 on sandy shores and among seagrasses. Elsewhere, it is found around
-rivers and mangroves on mud or sand. Usually, only one is seen. It is not seen in such abundance as the [Orange-striped hermit crab](stripeorange.htm).
+rivers and mangroves on mud or sand. Usually, only one is seen. It is not seen in such abundance as the [Orange-striped hermit crab](stripeorange).
 
 ![](stripeblue/110418tmftd8891m3.jpg)  
 *Tanah Merah, Apr 11*
@@ -54,7 +54,7 @@ two stripes which may be olive or brown, areas between stripes whitish-tan.
 Eye stalks olive green to brown without any distinctive stripes. Short
 antennae and long antennae dull brown or olive.   
   
-More on how to tell apart [*Clibanarius* hermit crabs](clibanarius.htm).
+More on how to tell apart [*Clibanarius* hermit crabs](clibanarius).
 
 *![](stripeblue/090114labd5313m3.jpg)  
 Berlayar Creek, Jan 09**![](stripeblue/090114labd5318m3a.jpg)*
@@ -89,7 +89,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 ---
 
 *![](stripeblue/090808prplks.JPG)  
-Pasir Ris, Aug 09*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2009/08/sinking-mud-at-pasir-ris-part-i.html).
+Pasir Ris, Aug 09*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2009/08/sinking-mud-at-pasir-ris-part-il).
 
 *![](stripeblue/190206prpvc2.jpg)  
 Pasir Ris, Feb 19*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo.php?fbid=10156383485692945&set=a.10156383485287945&type=3&theater).
@@ -184,9 +184,9 @@ flickr](http://www.flickr.com/photos/wildsingapore/3229964397/).
   of Zoology 2000 Supplement No. 8: 377-404. The National University
   of Singapore.
 
-[links](../../../../links.htm)
-| [references](../../../../references.htm)
-| [about](../../../../about.htm)
+[links](../../../../links)
+| [references](../../../../references)
+| [about](../../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

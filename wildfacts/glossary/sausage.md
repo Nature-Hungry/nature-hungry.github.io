@@ -4,21 +4,6 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "cucumber, pen, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](index.html)
-| [search](../search.htm)
-
 **Sausage-like
 animals****How
 to tell them apart?**  
@@ -41,15 +26,15 @@ Here's more on how to tell them apart.
 *![](../cnidaria/others/ceriantharia/common/060415hntd1226m3.jpg)*
 
 **[Sea
-cucumbers](../echinodermata/holothuroidea/holothuroidea.htm)**Phylum
+cucumbers](../echinodermata/holothuroidea/holothuroidea)**Phylum
 Echinodermata
 
 **[Sea
-pen](../cnidaria/others/pennatulacea/veretillidae.htm)**Phylum
+pen](../cnidaria/others/pennatulacea/veretillidae)**Phylum
 Cnidaria
 
 **[Peacock
-anemone](../cnidaria/others/ceriantharia/ceriantharia.htm)**Phylum
+anemone](../cnidaria/others/ceriantharia/ceriantharia)**Phylum
 Cnidaria
 
 Sea
@@ -89,37 +74,37 @@ comparisons**
 
 ![](../echinodermata/holothuroidea/leucospilota/051105sisd6316m3.jpg)  
 [Long black
-sea cucumbers](../echinodermata/holothuroidea/leucospilota.htm)   
+sea cucumbers](../echinodermata/holothuroidea/leucospilota)   
 are large and worm-like too.
 
 ![](../cnidaria/actiniaria/peachia/071126chgd7677m3.jpg)  
-This is a [sea anemone](../cnidaria/actiniaria/peachia.htm)
+This is a [sea anemone](../cnidaria/actiniaria/peachia)
 out of the ground. It is usually buried in the sand.
 
 ![](../worm/echiura/echiura/080801chgd8555m3.jpg)  
-This is a [spoon worm](../worm/echiura/echiura.htm).  
+This is a [spoon worm](../worm/echiura/echiura).  
 It is usually buried in the sand.
 
 ![](../cnidaria/actiniaria/alicia/080509cyrd2930m3.jpg)  
-This is a [sea anemone](../cnidaria/actiniaria/alicia.htm) out of the ground. It is usually buried in the sand.
+This is a [sea anemone](../cnidaria/actiniaria/alicia) out of the ground. It is usually buried in the sand.
 
 ![](../mollusca/cephalopoda/cepeggs/020715chgd3359m3.jpg)  
-[Eggs of a cephalopod](../mollusca/cephalopoda/cepeggs.htm)
+[Eggs of a cephalopod](../mollusca/cephalopoda/cepeggs)
 are sometimes  
 seen attached in bunches to seaweeds.
 
 ![](../plants/seaweed/chlorophyta/boergesenia/050330labg3964m3.jpg)  
 This is a [green
-seaweed](../plants/seaweed/chlorophyta/boergesenia.htm).
+seaweed](../plants/seaweed/chlorophyta/boergesenia).
 
 ---
 
 How to tell apart [worm-like
-animals](wormy.htm).
+animals](wormy).
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

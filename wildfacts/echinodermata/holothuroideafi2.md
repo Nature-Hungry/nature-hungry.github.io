@@ -4,28 +4,11 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, cucumber, seacucumber,  holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[![talking points for nature guides](../../Templates/fornatureguides.gif)](fngholothuroidea.htm)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 echinoderms
-[text index](echinodermindex.htm) | [photo
-index](echinodermatafi.htm)
-Phylum [Echinodermata](echinodermata.htm)
-> Class [Holothuroidea](holothuroidea/holothuroidea.htm)
+[text index](echinodermindex) | [photo
+index](echinodermatafi)
+Phylum [Echinodermata](echinodermata)
+> Class [Holothuroidea](holothuroidea/holothuroidea)
 **Photo
 index of sea cucumbers on Singapore shores**   
 **long sea cucumbers
@@ -37,22 +20,22 @@ index of sea cucumbers on Singapore shores**
 sea cucumber's length when relaxed*
 
 ![](holothuroidea/phyllophorus/050315cjd1805m.jpg)  
-[Ball sea cucumber](holothuroidea/phyllophorus.htm)  
+[Ball sea cucumber](holothuroidea/phyllophorus)  
 *Phyllophorus* sp.
 
 ![](holothuroidea/smooth/040425cjd0081m.jpg)  
 [Smooth   
-sea cucumber](holothuroidea/smooth.htm)  
+sea cucumber](holothuroidea/smooth)  
 *Acaudina* sp.
 
 ![](holothuroidea/paracaudina/030928cjd0009m.jpg)  
 [See-through  
-sea cucumber](holothuroidea/paracaudina.htm)  
+sea cucumber](holothuroidea/paracaudina)  
 *Paracaudina australis*
 
 ![](holothuroidea/lecanora/070203smkg7475m.jpg)  
 [White-rumped   
-sea cucumber](holothuroidea/lecanora.htm)  
+sea cucumber](holothuroidea/lecanora)  
 *Actinopyga lecanora*
 
  
@@ -75,24 +58,24 @@ with blotches. Coral rubble, living hard and soft corals. Commonly
 seen on our Southern shores.
 
 ![](holothuroidea/scabra/020907cjd5425m.jpg) [Garlic bread  
-sea cucumber](holothuroidea/scabra.htm)  
+sea cucumber](holothuroidea/scabra)  
 *Holothuria scabra*
 
 ![](holothuroidea/ocellatus/080321smkd0381m.jpg) [Eye-spotted  
-sea cucumber](holothuroidea/ocellatus.htm)  
+sea cucumber](holothuroidea/ocellatus)  
 *Stichopus ocellata*
 
 ![](holothuroidea/herrmanni/081214smkelm.jpg) [Herrmann's  
-sea cucumber](holothuroidea/herrmanni.htm)  
+sea cucumber](holothuroidea/herrmanni)  
 *Stichopus herrmanni*
 
 ![](holothuroidea/vastus/160723smkelks3a.jpg) [Zebrafish  
-sea cucumber](holothuroidea/vastus.htm)  
+sea cucumber](holothuroidea/vastus)  
 *Stichopus vastus*
 
 ![](holothuroidea/horrens/050918smkg2601m.jpg)  
 [Durian   
-sea cucumber](holothuroidea/horrens.htm)  
+sea cucumber](holothuroidea/horrens)  
 *Stichopus horrens*
 
 15-20cm.
@@ -116,22 +99,22 @@ green. Among seagrasses. Seen once on Pulau Semakau.
 
 ![](holothuroidea/fuscocinerea/060102sisd6514m.jpg)  
 [Ashy pink  
-sea cucumber](holothuroidea/fuscocinerea.htm)  
+sea cucumber](holothuroidea/fuscocinerea)  
 *Holothuria fuscocinerea*
 
 ![](holothuroidea/notabilis/080817chgd9698m.jpg)  
 [Notable   
-sea cucumber](holothuroidea/notabilis.htm)  
+sea cucumber](holothuroidea/notabilis)  
 *Holothuria notabilis*
 
 ![](holothuroidea/banded/140613skdd6167ma.jpg)  
 [Bottleneck  
-sea cucumber](holothuroidea/banded.htm)  
+sea cucumber](holothuroidea/banded)  
 *Holothuria impatiens*
 
 ![](holothuroidea/leucospilota/050110skdd9459m.jpg)  
 [Black long  
-sea cucumber](holothuroidea/leucospilota.htm)  
+sea cucumber](holothuroidea/leucospilota)  
 *Holothuria leucospilota*
 
  
@@ -152,23 +135,23 @@ to black. Commonly seen on our Southern shores. Sometimes seen on
 our Northern shores.
 
 ![](holothuroidea/violaceus/030717skdd0009m.jpg)  
-[Sea apple sea cucumber](holothuroidea/violaceus.htm)  
+[Sea apple sea cucumber](holothuroidea/violaceus)  
 *Pseudocolochirus  
 violaceus*
 
 ![](holothuroidea/bohadschia/091202cyrlks1m.jpg)  
 [Brown  
-sea cucumber](holothuroidea/bohadschia.htm)  
+sea cucumber](holothuroidea/bohadschia)  
 *Bohadschia vitiensis*
 
 ![](holothuroidea/synbig/071026cyrd7141m3.jpg)  
 [Big synaptid  
-sea cucumbers](holothuroidea/synbig.htm)  
+sea cucumbers](holothuroidea/synbig)  
 Family Synaptidae
 
 ![](holothuroidea/synmangrove/200125prpAm.jpg)  
 [Mangrove synaptid  
-sea cucumbers](holothuroidea/synmangrove.htm)  
+sea cucumbers](holothuroidea/synmangrove)  
 Family Synaptidae
 
 10-20cm.
@@ -196,32 +179,32 @@ shores, usually alone.
 are NOT sea cucumbers**  
 
 ![](../worm/sipuncula/sipuncula/031122cjd0011m.jpg)  
-[Peanut worm](../worm/sipuncula/sipuncula.htm) Phylum Spincula
+[Peanut worm](../worm/sipuncula/sipuncula) Phylum Spincula
 
 ![](../worm/enteropneusta/enteropneusta/050402cjd2070ma.jpg)  
-[Acorn worm](../worm/enteropneusta/enteropneusta.htm) Phylum Hemichordata  
+[Acorn worm](../worm/enteropneusta/enteropneusta) Phylum Hemichordata  
 Class Enteropneusta
 
 ![](../cnidaria/actiniaria/peachia/071126chgd7677m.jpg)  
-[Sea anemone](../cnidaria/actiniaria/peachia.htm)  
+[Sea anemone](../cnidaria/actiniaria/peachia)  
 Phylum Cnidaria
 
 ![](../cnidaria/others/pennatulacea/veretillidae/020501cjcpd8683m.jpg)  
 [Flower
-sea pen](../cnidaria/others/pennatulacea/vertillidae.htm)  
+sea pen](../cnidaria/others/pennatulacea/vertillidae)  
 Phylum Cnidaria
 
 ![](../cnidaria/others/ceriantharia/common/060415hntd1226m.jpg)  
 [Peacock
-anemone](../cnidaria/others/ceriantharia/ceriantharia.htm)   
+anemone](../cnidaria/others/ceriantharia/ceriantharia)   
 Phylum Cnidaria
 
 ---
 
 how to tell apart
 
-- [sausage-like animals](../glossary/sausage.htm)
-- [worm-like animals](../glossary/wormy.htm)
+- [sausage-like animals](../glossary/sausage)
+- [worm-like animals](../glossary/wormy)
 
   
   
@@ -233,39 +216,39 @@ echinoderms on this site
 
 **Phylum
 Echinodermata**[all
-echinoderms](echinodermatafi.htm)  **With arms**  
+echinoderms](echinodermatafi)  **With arms**  
  
 many,
 feathery  
-[feather stars](crinoideafi.htm)  
+[feather stars](crinoideafi)  
   
 five, bristley  
-[brittle stars](ophuiroideafi.htm)  
+[brittle stars](ophuiroideafi)  
   
 sea stars  
-[small](asteroideafi1.htm) <10cm  
-[large](asteroideafi2.htm) >10cm
+[small](asteroideafi1) <10cm  
+[large](asteroideafi2) >10cm
   
  **Hard**  
  
 flat,
 coin-like  
-[sand dollars](echinoideafi1.htm)  
+[sand dollars](echinoideafi1)  
   
 spherical, spiny  
 [sea urchins  
-heart urchins](echinoideafi2.htm) 
+heart urchins](echinoideafi2) 
  **Soft**  
  
 sea
 cucumbers   
-[short](holothuroideafi1.htm)
+[short](holothuroideafi1)
 <10cm  
 long >10cm
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

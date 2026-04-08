@@ -4,32 +4,15 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "crustacea, crab, decapoda, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[![talking points for nature guides](../../Templates/fornatureguides.gif)](../forguides/index.html)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 crustacea
-[text index](crustaceaindex.htm) | [photo
-index](crustaceafi.htm)
+[text index](crustaceaindex) | [photo
+index](crustaceafi)
 Phylum
-[Arthropoda](../arthropoda/arthropoda.htm) > Subphylum
-[Crustacea](crustacea.htm) > Class Malacostraca >
-Order [Decapoda](decapoda.htm) > Braychurans
+[Arthropoda](../arthropoda/arthropoda) > Subphylum
+[Crustacea](crustacea) > Class Malacostraca >
+Order [Decapoda](decapoda) > Braychurans
 [index
-to talking points](../forguides/index.html) for nature guides
+to talking points](../forguides/indexl) for nature guides
 **For nature guides: introducing crabs**  
 *updated
 Apr 2020*
@@ -42,7 +25,7 @@ Have you ever eaten a crab? Almost everyone knows what a crab looks
 like! It has a hard shell, many legs, a pair of pincers. Next time,
 look closely at the crab you are eating.  
   
-[Crabs](decapoda.htm) belong to a group of animals called crustaceans. Other crustaceans
+[Crabs](decapoda) belong to a group of animals called crustaceans. Other crustaceans
 include shrimps and prawns.  
   
 **Shapes of crabs**The shapes of crabs tell us how they live.
@@ -50,7 +33,7 @@ include shrimps and prawns.
 - ***Can
   you guess from the its legs how this crab lives******?***
   - Paddle-shaped
-    legs: [swimming crab](crab/portunidae/portunidae.htm) or burrowing [moon crab](crab/matutidae/lunaris.htm)
+    legs: [swimming crab](crab/portunidae/portunidae) or burrowing [moon crab](crab/matutidae/lunaris)
   - Pointed
     toes: climbing crab
 - ***Can
@@ -67,12 +50,12 @@ include shrimps and prawns.
   is this crab so colourful?***
   - Colourful
     crabs are often poisonous: [red
-    egg crab](crab/xanthidae/integerrimus.htm)
+    egg crab](crab/xanthidae/integerrimus)
 - ***What
   is growing on this crab?*** Sometimes, swimming crabs have
   seaweed and barnacles growing on them. These crabs are usually
   infected by [parasitic
-  barnacles](othercrust/ciriipedia/thompsonia.htm).
+  barnacles](othercrust/ciriipedia/thompsonia).
 
 **Marvellous
 moulting**
@@ -95,7 +78,7 @@ moulting**
     males hold on to a female that is just about to moult so that
     he can be the first to mate with her.
   - [More
-    about moulting](moulting.htm)
+    about moulting](moulting)
 - ***How
   can you tell the difference between a dead crab and a moult?***
   - A moult
@@ -143,9 +126,9 @@ show parts of the crab.
 **Beware! Crabs can pinch!** Large crabs can give a good
 pinch. Don't let small children handle them.
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

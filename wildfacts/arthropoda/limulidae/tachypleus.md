@@ -4,26 +4,12 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "coastal, horseshoe, horse, shoe, king, crab, tachypleus, gigas,  limulidae,  xiphosura, merostomata, chelicerate, arthropod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 arthropods
-[text index](../arthropodaindex.htm) | [photo
-index](../arthropodafi.htm)
-Phylum [Arthropoda](../arthropoda.htm)
-| Class Merostomata | Order Xiphosura > Family [Limulidae](limulidae.htm)
+[text index](../arthropodaindex) | [photo
+index](../arthropodafi)
+Phylum [Arthropoda](../arthropoda)
+| Class Merostomata | Order Xiphosura > Family [Limulidae](limulidae)
 **Coastal
 horseshoe crab  
 *Tachypleus gigas*  
@@ -49,8 +35,8 @@ edge on the upperside. The male's special legs for holding on to the
 female has one 'finger'.   
   
 **Sometimes confused with** the [Mangrove
-horseshoe crab](carcinoscorpius.htm) (*Carcinoscorpius rotundicauda*). More
-on [how to tell them apart](limulidae.htm).
+horseshoe crab](carcinoscorpius) (*Carcinoscorpius rotundicauda*). More
+on [how to tell them apart](limulidae).
 
 ![](tachypleus/060628sntd3832m3.jpg)  
 Often seen in a pair. *Sentosa, Jun 06*
@@ -123,7 +109,7 @@ A male, with its modified first claws.
 ![](tachypleus/090627tmjk1m3.jpg)  
 *Tanah Merah,
 Jun 09*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/06/tanah-merah-making-babies.html).
+blog](http://sgn090608.blogspot.com/2009/06/tanah-merah-making-babiesl).
 
 ---
 
@@ -154,7 +140,7 @@ Berlayar Creek, Oct 15*Photo shared by Marcus Ng on [facebook](https://www.faceb
 ![](tachypleus/110122hntrl1m6l.JPG)  
 *Pulau Hantu,
 Jan 11*Photo shared by Russel Low on [his
-blog](http://intothewildsingapore.blogspot.com/2011/01/pulau-hantu.html).
+blog](http://intothewildsingapore.blogspot.com/2011/01/pulau-hantul).
 
 ![](tachypleus/250331hntrg1.jpg) *Pulau Hantu, Apr 25*Photo shared by Rachael Goh on [facebook](https://www.facebook.com/rachaelrenee.goh/posts/pfbid0Nh6GUpHBKynYmfRenEFZisy4KDRkoY91zjcHaXWxEtPCiEVUANbcgHamyeb1g7Q1l?__cft__[0]=AZXhZsduPUeEUub6twfG2jwTY4OvM714B2VEX2YBpW2VK3DCwbQsglg2BST53q-SN1XZsKhJOuPIYAqX-KVUgEg83RnyxyZ1onHq5mLVQh_7DUc9tV6l97CEba8Lq8POvfX_n2CPHVfZ6467F6Hd0hrG3DrW6rTb2367CGHtEQmbpA&__tn__=%2CO%2CP-R).
 
@@ -176,16 +162,16 @@ blog](http://intothewildsingapore.blogspot.com/2011/01/pulau-hantu.html).
 **Links**
 
 - [Horseshoe
-  Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/175.htm) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+  Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/175) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [*Tachypleus
-  gigas*](https://singapore.biodiversity.online/taxo4254/mainSpace/tachypleus%20gigas.html) (Xiphosura: Limulidae) Coastal Horseshoe Crab by
+  gigas*](https://singapore.biodiversity.online/taxo4254/mainSpace/tachypleus%20gigasl) (Xiphosura: Limulidae) Coastal Horseshoe Crab by
   Leng Jun Mun Germaine, 2013 on taxo4254.
 - [*Tachypleus
   gigas*](http://www.iucnredlist.org/details/21308/0) on the IUCN Red List.
 - [Coastal
-  horseshoe crab (*Tachypleus gigas*)](http://www.sealifebase.fisheries.ubc.ca/summary/Tachypleus-gigas.html) on SeaLife Base.
+  horseshoe crab (*Tachypleus gigas*)](http://www.sealifebase.fisheries.ubc.ca/summary/Tachypleus-gigasl) on SeaLife Base.
 
 **References**
 
@@ -194,14 +180,4 @@ blog](http://intothewildsingapore.blogspot.com/2011/01/pulau-hantu.html).
   Red Data Book: Threatened plants and animals of Singapore*.
   Nature Society (Singapore). 285 pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

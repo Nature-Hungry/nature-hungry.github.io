@@ -5,21 +5,6 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "feathery, worm, fan, fanworm, feather, star, cucumber, polychaeta, sabellidae, echinodermata, crinoidea, holothuroidea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](index.html)
-| [search](../search.htm)
-
 **Animals
 with a ring of feathery tentacles or arms  
 How to tell them apart?***updated
@@ -37,13 +22,13 @@ Here's how to tell them apart.
 ***![](../echinodermata/crinoidea/blue/091203ubnd5078m3.jpg)***
 *![](../echinodermata/holothuroidea/purple/050820bbg1695m3.jpg)*
 
-**[Fanworms](../worm/polychaeta/sabellidae.htm)**
+**[Fanworms](../worm/polychaeta/sabellidae)**
 
 **[Feather
-star](../echinodermata/crinoidea/crinoidea.htm)**
+star](../echinodermata/crinoidea/crinoidea)**
 
 **[Sea
-cucumbers](../echinodermata/holothuroidea/holothuroidea.htm)**
+cucumbers](../echinodermata/holothuroidea/holothuroidea)**
 
 Fanworms have
 a fan of feathery tentacles that sticks out of the tube while the
@@ -90,54 +75,54 @@ comparisons**
 ---
 
 *![](../echinodermata/ophiuroidea/upsidedown/050621skdg7887m3.jpg)* [brittle
-stars](../echinodermata/ophiuroidea/botbrush.htm) have bristley arms   
+stars](../echinodermata/ophiuroidea/botbrush) have bristley arms   
 but only five arms.
 
 ![](../echinodermata/holothuroidea/phyllophorus/070731chgd4722m3.jpg)  
 Feeding tentacles
 of a buried [sea
-cucumber](../echinodermata/holothuroidea/phyllophorus.htm)
+cucumber](../echinodermata/holothuroidea/phyllophorus)
 
 ![](../cnidaria/coralsoft/feabroad/070602sjig9867m3a.jpg)  
 [Feathery
-soft coral](../cnidaria/coralsoft/feabroad.htm): a colony of   
+soft coral](../cnidaria/coralsoft/feabroad): a colony of   
 polyps with feathery tentacles.
 
 ---
 
 *![](../cnidaria/actiniaria/phymanthus/plain/060729sisd5407m3.jpg)*  
 [Frilly
-sea anemone](../cnidaria/actiniaria/phymanthus.htm) with   
+sea anemone](../cnidaria/actiniaria/phymanthus) with   
 feathery tentacles expanded.
 
 *![](../cnidaria/actiniaria/actinodendron/111029smkd3161m3.jpg)*  
 [Fire
-anemone](../cnidaria/actiniaria/actinodendron.htm) with   
+anemone](../cnidaria/actiniaria/actinodendron) with   
 feathery tentacles expanded.  
 Has central mouth with white radiating lines.
 
 ![](../cnidaria/coralsoft/nepasparagus/040605kusg0314m3.jpg)  
 [Asparagus flowery
-soft coral](../cnidaria/coralsoft/nepasparagus.htm).  
+soft coral](../cnidaria/coralsoft/nepasparagus).  
 NO central mouth, NO radiating lines.
 
 ---
 
 ***![](../cnidaria/others/hydrozoa/stinging/050411tusd2333m3.jpg)***  
-[Hydroids](../cnidaria/others/hydrozoa/hydrozoa.htm) have feathery forms.
+[Hydroids](../cnidaria/others/hydrozoa/hydrozoa) have feathery forms.
 
 ---
 
 ![](../worm/phoronida/phoronida/031226chgd0012m3.jpg)  
-[Cerianthid phoronid worms](../worm/phoronida/phoronida.htm)
+[Cerianthid phoronid worms](../worm/phoronida/phoronida)
 are not fan worms.
 
 ![](../worm/polychaeta/serpulidae/080731chgd8452m3b.jpg)  
-[Keelworms](../worm/polychaeta/serpulidae.htm) also have
+[Keelworms](../worm/polychaeta/serpulidae) also have
 a fan.
 
 ![](../worm/polychaeta/sabellidae/spotted/090529prpd2885m3.jpg)  
-[Fanworms](../worm/polychaeta/sabblue.htm) have a segmented
+[Fanworms](../worm/polychaeta/sabblue) have a segmented
 body and the fan   
 may appear petal-like when stuck   
 together at low tide.
@@ -145,11 +130,11 @@ together at low tide.
 ---
 
 how to tell apart [bristley
-animals](wormstar.htm)
+animals](wormstar)
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

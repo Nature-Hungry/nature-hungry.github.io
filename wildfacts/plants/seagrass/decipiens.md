@@ -9,21 +9,21 @@ layout: default
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../index.html)  
+[wildfactsheets homepage](../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
+[all animals](../../animals)
+| [all plants](../../plants)
+| [concepts](../../concepts/indexl)
+| [glossary](../../glossary/indexl)
+| [search](../../search)
 
 seagrasses
-[text index](seagrassindex.htm) | [photo
-index](seagrassfi.htm)
+[text index](seagrassindex) | [photo
+index](seagrassfi)
 
-[Seagrasses](seagrass.htm)
+[Seagrasses](seagrass)
 > Family Hydrocharitaceae
 **Hairy
 spoon seagrass  
@@ -72,7 +72,7 @@ Beting Bronok, Jul 20*
 
 *![](decipiens/120605lygd4072m3.jpg)*Growing
 on carpet on [Nest
-mussels](../../mollusca/bivalvia/mytilidae/musculista.htm). *Changi, Jun 12*
+mussels](../../mollusca/bivalvia/mytilidae/musculista). *Changi, Jun 12*
 
 *![](decipiens/070522skdg9587.jpg)**Pulau Sekusu, Jul 07*
 
@@ -110,11 +110,11 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Links**  
 
 - [Identifying
-  seagrasses](http://www.seagrasswatch.org/id_seagrass.html) on the Seagrass-Watch website.
+  seagrasses](http://www.seagrasswatch.org/id_seagrassl) on the Seagrass-Watch website.
 - [New
-  record seagrass for Singapore](http://wildshores.blogspot.com/2008/10/new-record-seagrass-for-singapore.html) on the wild shores of singapore
+  record seagrass for Singapore](http://wildshores.blogspot.com/2008/10/new-record-seagrass-for-singaporel) on the wild shores of singapore
   blog, and on the [Seagrass-Watch
-  newsletter](http://www.seagrasswatch.org/newsletters.html) (PDF).
+  newsletter](http://www.seagrasswatch.org/newslettersl) (PDF).
 
 **References**
 
@@ -125,14 +125,4 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **You CAN make a difference for Singapore's
 seagrasses!**[![](../../../Templates/teamsg.jpg)](http://teamseagrass.blogspot.com/)
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

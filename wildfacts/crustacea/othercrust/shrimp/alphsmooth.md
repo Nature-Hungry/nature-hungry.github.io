@@ -4,28 +4,28 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "orange, claw, snapping, shrimp, alpheus, lobidens, alpheidae, alpheid, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 shrimps [text
-index](../../crustaceaindex.htm#shrimps) | [photo index](../../shrimpfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> [prawns and shrimps](shrimp.htm)
-> Family [Alpheidae](alpheidae.htm)
+index](../../crustaceaindex#shrimps) | [photo index](../../shrimpfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> [prawns and shrimps](shrimp)
+> Family [Alpheidae](alpheidae)
 **Smooth
 snapping shrimp**  
 ***Alpheus* sp.*\**  
@@ -127,7 +127,7 @@ Pulau Ubin, Jun 25*Photo shared by Che Cheng Neo on [facebook](https://www.faceb
 *East Coast-Marina Bay, Nov 17*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10155843410803158.1073741960.547198157&type=3).
 
 *![](alphsmooth/090820ecplks.JPG)*  
-*East Coast Park, Aug 09*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2009/08/new-east-coast-shore-new-surprises.html).
+*East Coast Park, Aug 09*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2009/08/new-east-coast-shore-new-surprisesl).
 
 ---
 
@@ -144,7 +144,7 @@ Pulau Ubin, Jun 25*Photo shared by Che Cheng Neo on [facebook](https://www.faceb
 
 *![](alphsmooth/100528tkkjk10m3.jpg)*  
 *Pulau Tekukor, May 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/05/100528-pulau-tekukor.html).
+blog](http://sgn090608.blogspot.com/2010/05/100528-pulau-tekukorl).
 
 *![](alphsmooth/240528tslrk5.jpg)*  
 *Terumbu Selegie, May 24*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/media/set/?set=a.10161168216927906).
@@ -172,7 +172,7 @@ Beting Bemban Besar, Aug 18*Photo shared by Richard Kuah on [facebook](https://w
 
 *![](alphsmooth/110717tbjk2m3.jpg)*  
 *Terumbu Bemban, Jul 11*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2011/07/110717-terumbu-bemban.html).
+blog](http://sgn090608.blogspot.com/2011/07/110717-terumbu-bembanl).
 
 ---
 
@@ -194,9 +194,9 @@ Pulau Senang, Jun 10*
 ![](alphsmooth/210428slumn1.jpg)  
 *Pulau Salu, Apr 21*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo?fbid=10158223377263660&set=a.10158223378038660).
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

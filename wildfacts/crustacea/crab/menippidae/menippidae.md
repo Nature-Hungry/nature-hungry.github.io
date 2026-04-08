@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "stone, thunder, crab, myomenippe, hardwickii, eriphiidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
 Phylum
-[Arthropoda](../../../arthropoda/arthropoda.htm) > Subphylum
-[Crustacea](../../crustacea.htm) > Class Malacostraca
-> Order [Decapoda](../../decapoda.htm) > Brachyurans
+[Arthropoda](../../../arthropoda/arthropoda) > Subphylum
+[Crustacea](../../crustacea) > Class Malacostraca
+> Order [Decapoda](../../decapoda) > Brachyurans
 **Stone** **crabs**  
 **Family Menippidae**  
 *updated
@@ -40,10 +40,10 @@ coral rubble, rubbish and other hiding places.
 **Features:** Body width 10-12cm,
 smaller ones also often seen. Large rounded body with large pincers.  
   
-The common [Stone crab](hardwickii.htm) (*Myomenippe
+The common [Stone crab](hardwickii) (*Myomenippe
 hardwicki*i) is identified by bright
 green eyes circled with red. The [Maroon stone
-crab](rumphii.htm) (*Menippe rumphii*) lacks such eyes and is usually plain
+crab](rumphii) (*Menippe rumphii*) lacks such eyes and is usually plain
 maroon or red.  
   
 **Steady crab:** When a stone is overturned,
@@ -53,10 +53,10 @@ way, predators overlook it as they focus instead on the more nervous
 crabs.   
   
 **Sometimes mistaken for** [Red
-egg crabs](../xanthidae/integerrimus.htm) (*Atergatis integerrimus*), especially Stone crabs
+egg crabs](../xanthidae/integerrimus) (*Atergatis integerrimus*), especially Stone crabs
 that are rather reddish. Here's
 more on how to tell apart [big crabs
-with big pincers](../../bigpincer.htm) seen on the rocky shores and coral rubble.
+with big pincers](../../bigpincer) seen on the rocky shores and coral rubble.
 ![](hardwickii/050806skdg0458m3.jpg)  
 With eggs *Pulau Sekudu, Aug 05*
 ![](hardwickii/060528bbd2348m3.jpg)  
@@ -71,10 +71,10 @@ crabs on Singapore shores**
 ---
 
 ![](hardwickii/050110skdd9348m3.jpg)  
-**[Stone crab](hardwickii.htm)**
+**[Stone crab](hardwickii)**
 
 ![](rumphii/120618tmnbd5423m3.jpg)  
-**[Maroon stone crab](rumphii.htm)**
+**[Maroon stone crab](rumphii)**
 
 ![](hardwickii/050110skdd9348m3b.jpg)  
 Green eyes ringed with red.
@@ -92,8 +92,8 @@ in Singapore*
 **Family
 Menippidae**
  
-*[Menippe rumphii](rumphii.htm)* (Maroon stone
-crab) *[Myomenippe hardwickii](hardwickii.htm)* (Stone
+*[Menippe rumphii](rumphii)* (Maroon stone
+crab) *[Myomenippe hardwickii](hardwickii)* (Stone
 or Thunder crab)  
   
 *Sphaerozius nitidus*
@@ -113,9 +113,9 @@ or Thunder crab)
   Science, Nanyang Technological University & Department of Zoology,
   the National University of Singapore. 160 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

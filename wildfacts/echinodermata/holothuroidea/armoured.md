@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "armoured, cucumber, sea, cucumber, psolidium, psolidae, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 sea
-cucumbers [text index](../echinodermindex.htm#holothuroidea)
-| [photo index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class [Holothuroidea](holothuroidea.htm)
+cucumbers [text index](../echinodermindex#holothuroidea)
+| [photo index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
+> Class [Holothuroidea](holothuroidea)
 **Armoured
 sea cucumber  
 *Psolidium* sp.*\******Family Psolidae** *updated Apr 2020*
@@ -41,7 +28,7 @@ short feeding tentacles emerge from the mouth and tiny tube
 feet emerge all over the body.  
   
 **Sometimes mistaken for** a tiny
-colony of [hard corals](../../cnidaria/coralhard/coralhard.htm) or a hard [ascidian](../../ascidiacea/ascidiacea.htm).
+colony of [hard corals](../../cnidaria/coralhard/coralhard) or a hard [ascidian](../../ascidiacea/ascidiacea).
 
 ![](armoured/120605lygd4011m3.jpg)  
 *Changi, Jun 12*
@@ -100,14 +87,4 @@ Pulau Ubin, Jul 24*Photo by Chay Hoon on [facebook](https://www.facebook.com/med
 
 - Ong J. Y. & H. P. S. Wong. *Sea cucumbers (Echinodermata: Holothuroidea) from the Johor Straits, Singapore*. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 273-291.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

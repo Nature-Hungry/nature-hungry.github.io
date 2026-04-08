@@ -4,29 +4,29 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "pink, sand, dollar, peronella, lesueuri, laganidae, echinoidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 echinoids
-[text index](../../echinodermindex.htm#echinoidea) |
-[photo index](../../echinoideafi1.htm)
+[text index](../../echinodermindex#echinoidea) |
+[photo index](../../echinoideafi1)
 
 Phylum
-[Echinodermata](../../echinodermata.htm) > Class [Echinodea](../echinoidea.htm)
+[Echinodermata](../../echinodermata) > Class [Echinodea](../echinoidea)
 > Order
-[Clypeasteroida](sandollar.htm)
+[Clypeasteroida](sandollar)
 **Pink
 sand dollar  
 *Peronella lesueuri*  
@@ -83,13 +83,13 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 *![](peronella/090426skdtch05m3.jpg)  
 Pulau Sekudu, Apr 09**![](peronella/090426skdtch05m3a.jpg)*Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2009/04/taking-stuff-after-stuff-pulau-sekudu.html).
+blog](http://colorclouds.blogspot.com/2009/04/taking-stuff-after-stuff-pulau-sekudul).
 
 *![](peronella/100908chgnml3m3.jpg)  
 Changi, Sep 10  
 ![](peronella/100908chgnml3m3a.jpg)*Photo
 shared by Neo Mei Lin on [her
-blog](http://psychedelic-nature.blogspot.com/2010/09/fantastic-changi.html).
+blog](http://psychedelic-nature.blogspot.com/2010/09/fantastic-changil).
 
 *![](peronella/230605chg7lks1.jpg)  
 Changi, Sep 10*Photo
@@ -106,7 +106,7 @@ shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=101607
   images and explanatory diagrams. With technical descriptions and
   photos of *[Peronella](http://www.nhm.ac.uk/research-curation/research/projects/echinoid-directory/taxa/taxon.jsp?id=792)*.
 - [*Peronella
-  lesueuri*](http://www.sealifebase.org/summary/Peronella-lesueuri.html) on SeaLife Base: Technical fact sheet.
+  lesueuri*](http://www.sealifebase.org/summary/Peronella-lesueuril) on SeaLife Base: Technical fact sheet.
 
 **References**
 
@@ -115,9 +115,9 @@ shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=101607
   Guide to Sea Stars and Other Echinoderms of Singapore*.
   Singapore Science Centre. 187pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

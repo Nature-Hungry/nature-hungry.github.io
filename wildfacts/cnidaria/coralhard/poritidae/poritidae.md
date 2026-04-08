@@ -4,26 +4,26 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "pore, porites, poritidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 hard corals [text
-index](../../coralhardindex.htm) | [photo index](../../cnidariafi1.htm)
-Phylum [Cnidaria](../../cnidaria.htm)
-> Class [Anthozoa](../../anthozoa.htm) > Subclass
-Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard.htm)
+index](../../coralhardindex) | [photo index](../../cnidariafi1)
+Phylum [Cnidaria](../../cnidaria)
+> Class [Anthozoa](../../anthozoa) > Subclass
+Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard)
 **Poritid
 corals   
 Family Poritidae***updated
@@ -35,9 +35,9 @@ Sep 2025*
 seen?** This family includes some of the most commonly seen
 hard corals on our Southern and Northern shores.  
   
-The Family Poritidae include members with widely varying characteristics. [Pore corals](porites.htm) (*Porites* sp.) have among
+The Family Poritidae include members with widely varying characteristics. [Pore corals](porites) (*Porites* sp.) have among
 the smallest polyps, while some [Goniopora
-corals](goniopora.htm) (*Goniopora* sp.) have polyps that are so large and
+corals](goniopora) (*Goniopora* sp.) have polyps that are so large and
 long that they may be mistaken for sea anemones. The family is considered
 the third largest contributor to reef formation, especially Pore corals.
 Pore corals form large, long-lived colonies, while Goniopora corals
@@ -57,10 +57,10 @@ corals on Singapore shores**
 ---
 
 ![](porboulder/060102sisg3684m3.jpg)  
-[**Boulder pore coral**](porboulder.htm) *![](porboulder/060102sisg3685m3a.jpg)*
+[**Boulder pore coral**](porboulder) *![](porboulder/060102sisg3685m3a.jpg)*
 
 **![](porbranch/070221kusd8248m3.jpg)  
-[Branching pore coral](porbranch.htm)  
+[Branching pore coral](porbranch)  
 ![](porbranch/070221kusg7796m3b.jpg)**
 
 *`*
@@ -68,9 +68,9 @@ corals on Singapore shores**
 ---
 
 ![](gonbig/051204sisd6415m3.jpg)  
-[**Anemone corals**](gonbig.htm) ![](gonbig/051204sisg3282m3a.jpg)
+[**Anemone corals**](gonbig) ![](gonbig/051204sisg3282m3a.jpg)
 
-*![](gonsmall/050625labg8612m3.jpg)* [**Small goniopora corals**](gonsmall.htm)*![](gonsmall/050625labg8612m3b.jpg)*
+*![](gonsmall/050625labg8612m3.jpg)* [**Small goniopora corals**](gonsmall)*![](gonsmall/050625labg8612m3b.jpg)*
 
 ---
 
@@ -84,7 +84,7 @@ in red are those listed as threatened in the above.
 Poritidae**
  
 **[*Goniopora*
-sp.](goniopora.htm)** with list of species recorded for Singapore **[*Porites* sp.](porites.htm) (Pore corals)** with list of species recorded
+sp.](goniopora)** with list of species recorded for Singapore **[*Porites* sp.](porites) (Pore corals)** with list of species recorded
 for singapore *Bernardpora stutchburyi* (Anemone coral)
 
 ---
@@ -122,9 +122,9 @@ for singapore *Bernardpora stutchburyi* (Anemone coral)
   Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
   The Nature Society (Singapore), Singapore. 343 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

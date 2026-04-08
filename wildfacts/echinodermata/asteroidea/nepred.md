@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "red, scaly, sea star, seastar, starfish, star, fish, nepanthia, belcheri, asterinidae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 sea
-stars [text index](../echinodermindex.htm) | [photo
-index](../echinodermatafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class Stelleroida > Subclass [Asteroidea](asteroidea.htm)
+stars [text index](../echinodermindex) | [photo
+index](../echinodermatafi)
+Phylum [Echinodermata](../echinodermata)
+> Class Stelleroida > Subclass [Asteroidea](asteroidea)
 **Red
 scaly sea star  
 *Nepanthia belcheri*  
@@ -103,19 +90,19 @@ shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.
 Pulau Sekudu,
 Apr 09 ![](nepred/090426skdtch01m3a.jpg)*Photo
 shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2009/04/taking-stuff-after-stuff-pulau-sekudu.html).
+blog](http://colorclouds.blogspot.com/2009/04/taking-stuff-after-stuff-pulau-sekudul).
 
 *![](nepred/090426skdtch02m3.jpg)  
 Pulau Sekudu,
 Apr 09 ![](nepred/090426skdtch02m3a.jpg)*Photo
 shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2009/04/taking-stuff-after-stuff-pulau-sekudu.html).
+blog](http://colorclouds.blogspot.com/2009/04/taking-stuff-after-stuff-pulau-sekudul).
 
 ---
 
 ![](nepred/100614bbtch3m3.jpg)  
  *Beting Bronok, Jun 10*Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2010/06/return-to-beting-bronok.html).
+blog](http://colorclouds.blogspot.com/2010/06/return-to-beting-bronokl).
 
 ![](nepred/170625bbmn1.jpg)  
  *Beting Bronok, Jun 17*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo.php?fbid=10154773801928660&set=a.10154759351698660&type=3&theater).
@@ -153,14 +140,4 @@ shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/media_se
   table and illustrated identification to the species*. The Raffles
   Bulletin of Zoology 1998 46(2): 431-470.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

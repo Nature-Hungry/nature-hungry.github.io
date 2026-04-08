@@ -4,25 +4,25 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "sand, beach, flea, amphipod, crustacea,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 amphipods [text
-index](../../crustaceaindex.htm#amphipoda) | [photo index](../../othercrustfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
+index](../../crustaceaindex#amphipoda) | [photo index](../../othercrustfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
 Malacostraca > Order Amphipoda
 **Amphipods**   
  **Order Amphipoda***updated
@@ -33,16 +33,16 @@ Mar 2020*
 **Where
 seen?** The most commonly encountered are tiny ones in large
 numbers among seaweeds, especially when there is a bloom of [Hairy
-green seaweed](../../../plants/seaweed/chlorophyta/bryopsis.htm) (*Bryopsis* sp.).  
+green seaweed](../../../plants/seaweed/chlorophyta/bryopsis) (*Bryopsis* sp.).  
   
-**What are amphipods?** They are [crustaceans](../../crustacea.htm) that resemble shrimps. While shrimps belong to the Class [Decapoda](../../decapoda.htm),
+**What are amphipods?** They are [crustaceans](../../crustacea) that resemble shrimps. While shrimps belong to the Class [Decapoda](../../decapoda),
 beachfleas and other amphipods belong to the Order Amphipoda. Among
 the most numerous and most diverse of bottom-dwelling crustaceans,
 they are sometimes also called amphipods, sand hoppers or sandfleas.
 While most beachfleas are tiny, one monstrous beachflea (*Alicella
 gigantea*) grows to 25cm! Fortunately, we are unlikely to encounter
 it as it lives at the bottom of the deep sea. **Features:** 0.5cm or less. Their bodies are flattened sideways
-(instead of downwards as in  [isopods](../isopoda/beachisopod.htm)). Their eyes are NOT on stalks. They have seven pairs
+(instead of downwards as in  [isopods](../isopoda/beachisopod)). Their eyes are NOT on stalks. They have seven pairs
 of limbs, the first two pairs may have claws and are used for feeding
 and in mating. The remainder are walking legs. Amphipoda means 'different
 feet' while Isopoda meaning 'same feet'. Many can hop long distances
@@ -98,7 +98,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 *![](amphipoda/120803chgd9400m6l.jpg)*  
 Skeleton shrimp on [Stinging
-hydroids](../../../cnidaria/others/hydrozoa/stinging.htm). *Changi, Aug 12*
+hydroids](../../../cnidaria/others/hydrozoa/stinging). *Changi, Aug 12*
 
 *![](amphipoda/120505sisjk1m3.jpg)*  
  *Sisters Island, May 12*Photo shared by James Koh on [his
@@ -118,18 +118,18 @@ took a video clip of some amphipods flourescing under black light!
 **Links**
 
 - [Sandhoppers
-  (Order Amphipoda)](http://mangrove.nus.edu.sg/pub/seashore/text/178.htm) Tan, Leo W. H. & Ng, Peter K. L., 1988.
+  (Order Amphipoda)](http://mangrove.nus.edu.sg/pub/seashore/text/178) Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide
   to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore.
   160 pp.
 - [Mangrove
-  mudhopper (*Microrchestria* sp.)](http://mangrove.nus.edu.sg/guidebooks/text/2036.htm) Ng, Peter K. L. & N.
+  mudhopper (*Microrchestria* sp.)](http://mangrove.nus.edu.sg/guidebooks/text/2036) Ng, Peter K. L. & N.
   Sivasothi, 1999. *[A
   Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
   Singapore Science Centre. 168 pp.
 - [Isopods
-  and amphipods](http://www.mesa.edu.au/friends/seashores/isopods_amphipods.html) on the [Life
-  on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1.html) by Keith Davey on the Marine Education
+  and amphipods](http://www.mesa.edu.au/friends/seashores/isopods_amphipodsl) on the [Life
+  on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1l) by Keith Davey on the Marine Education
   Society of Australia website: Fact sheet, diagrams.
 - [World
   Amphipoda Database](http://www.marinespecies.org/amphipoda/)
@@ -146,9 +146,9 @@ took a video clip of some amphipods flourescing under black light!
   Science, Nanyang Technological University & Department of Zoology,
   the National University of Singapore. 160 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

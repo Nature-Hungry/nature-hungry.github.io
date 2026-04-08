@@ -4,28 +4,15 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "flat, worm, flatworm, pseudoceros, prudhoei, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 flatworms
-[text index](../wormindex.htm) | [photo
-index](../polycladidafi.htm)
+[text index](../wormindex) | [photo
+index](../polycladidafi)
 
-[worms](../worm.htm) > Phylum Platyhelminthes >
+[worms](../worm) > Phylum Platyhelminthes >
 Class
-Turbellaria > [Order Polycladida](polycladida.htm)
+Turbellaria > [Order Polycladida](polycladida)
 
 **Silver-lining
 flatworm  
@@ -47,7 +34,7 @@ broad white margin and a yellow rim.
 
 ![](silverlining/100103sislk2m3.jpg)  
 *Sisters Island, Jan 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/01/mesmerized-by-little-sisters-island.html).
+blog](http://wondercreation.blogspot.com/2010/01/mesmerized-by-little-sisters-islandl).
 
 ---
 
@@ -55,7 +42,7 @@ blog](http://wondercreation.blogspot.com/2010/01/mesmerized-by-little-sisters-is
 *Sentosa, May 13*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/23472724283/in/album-72157618302600113/).
 
 ![](silverlining/070902sjilks1m3.JPG)  
-*St John's Island**, Sep 07*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2007/09/evening-with-saint.html).
+*St John's Island**, Sep 07*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2007/09/evening-with-saintl).
 
 ![](silverlining/200918cyrjll4.jpg)  
 *Cyrene, Sep 20*Photo shared by Jianlin Liu on [facbook](https://www.facebook.com/photo?fbid=10157733349201295&set=a.10157733347506295).
@@ -79,14 +66,4 @@ display.*
 
 - Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018. *A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.* Nature in Singapore 2018 11: 77–125.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

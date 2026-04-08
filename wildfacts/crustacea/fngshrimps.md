@@ -4,33 +4,16 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "shrimp, prawn, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[![talking points for nature guides](../../Templates/fornatureguides.gif)](../forguides/index.html)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
 shrimps
-[text index](crustaceaindex.htm#shrimps) | [photo
-index](shrimpfi.htm)
+[text index](crustaceaindex#shrimps) | [photo
+index](shrimpfi)
 Phylum
-[Arthropoda](../arthropoda/arthropoda.htm) > Subphylum
-[Crustacea](crustacea.htm) > Class Malacostraca >
-Order [Decapoda](decapoda.htm) > [prawns
-and shrimps](othercrust/shrimp/shrimp.htm)
+[Arthropoda](../arthropoda/arthropoda) > Subphylum
+[Crustacea](crustacea) > Class Malacostraca >
+Order [Decapoda](decapoda) > [prawns
+and shrimps](othercrust/shrimp/shrimp)
 [index
-to talking points](../forguides/index.html) for nature guides
+to talking points](../forguides/indexl) for nature guides
 **For
 nature guides: introducing shrimps**  
 *updated
@@ -43,7 +26,7 @@ are shrimps?**
 Have you ever eaten a prawn or a shrimp? Yes, almost everyone knows
 what a shrimp looks like.   
   
-[Shrimps and prawns](othercrust/shrimp/shrimp.htm) belong to a group of animals called crustaceans.
+[Shrimps and prawns](othercrust/shrimp/shrimp) belong to a group of animals called crustaceans.
 Other crustaceans include crabs!  
   
 **Finding prawns and shrimps**
@@ -57,7 +40,7 @@ Other crustaceans include crabs!
   and observe.  
     
   "Let's
-  see if this snapping shrimp has a friend" Talk about the [shrimp goby](othercrust/shrimp/alpheidae.htm).
+  see if this snapping shrimp has a friend" Talk about the [shrimp goby](othercrust/shrimp/alpheidae).
 - ***Let's
   use our eyes to find a shrimp.*** "How many shrimps
   we can find in this pool?" This exercise helps them to observe
@@ -75,7 +58,7 @@ Other crustaceans include crabs!
   hiding in the sand.
 - ***Shrimps
   also live on other animals for safety!*** For example, [some
-  live on sea anemones](othercrust/shrimp/palaemonidae.htm), sea pens, soft corals, hard corals and
+  live on sea anemones](othercrust/shrimp/palaemonidae), sea pens, soft corals, hard corals and
   other kinds of animals..
 
 **Shrimp
@@ -83,12 +66,12 @@ shape stories**
 
 - ***The
   snapping shrimp has a giant pincer!*** Talk about [how
-  this is used by the snapping shrimp](othercrust/shrimp/alpheidae.htm).
+  this is used by the snapping shrimp](othercrust/shrimp/alpheidae).
 - ***How
   is the shrimp different from a crab?*** "Have you eaten
   a shrimp? Have you eaten a crab? What are the differences?"
   Talk about [how the shrimp
-  moves](othercrust/shrimp/shrimp.htm) differently from a crab. "So the next time you
+  moves](othercrust/shrimp/shrimp) differently from a crab. "So the next time you
   eat seafood, have a closer look at the animal".
 
 **Prawns
@@ -104,7 +87,7 @@ and shrimps are important to the ecosystem**
   find safety among the mangrove roots and seagrasses. When they
   get bigger, they can move into deeper water and mate and make
   new shrimps. More about the [lifecycle
-  of shrimps](othercrust/shrimp/shrimp.htm).
+  of shrimps](othercrust/shrimp/shrimp).
 
 **Prawns
 and shrimps and you**  
@@ -112,7 +95,7 @@ We all love to eat prawns and shrimps!
 
 - Commercial
   prawn farming can have a devastating impact. [More
-  details](../concepts/prawnfarms.htm).
+  details](../concepts/prawnfarms).
 - Eat
   less prawns
 - Take
@@ -150,9 +133,9 @@ die if they land on a dry spot.
 **Don't remove commensal shrimps from their host:** it sets
 a bad example. Just look at them where they are.
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
+[links](../links)
+| [references](../references)
+| [about](../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

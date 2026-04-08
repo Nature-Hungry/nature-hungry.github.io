@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "portia, thespesia, populnea, malvaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../Templates/wildfactsheet3.gif)](../../index.html)
+[![](../../../Templates/wildfactsheet3.gif)](../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../index.html)  
+[wildfactsheets homepage](../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
+[all animals](../../animals)
+| [all plants](../../plants)
+| [concepts](../../concepts/indexl)
+| [glossary](../../glossary/indexl)
+| [search](../../search)
 
 coastal
-plants [text index](../mangrove/coastalindex.htm) | [photo
-index](../mangrove/coastalfi.htm)
+plants [text index](../mangrove/coastalindex) | [photo
+index](../mangrove/coastalfi)
 
 [coastal
-plants](../mangrove/coastalplants.htm) 
+plants](../mangrove/coastalplants) 
 ****Plants
 with hibiscus-like flowers on the shores  
 How to tell them apart?**  
@@ -40,7 +40,7 @@ apart.
 ---
 
 **[Sea
-hibiscus](hibiscus/tiliaceus.htm)***(Hibiscus
+hibiscus](hibiscus/tiliaceus)***(Hibiscus
 tiliceaus)*
 
 ![](hibiscus/tiliaceus/090117smkd5536m3.jpg)
@@ -63,7 +63,7 @@ with less obvious veins.
 
 ---
 
-**[Baru-baru](thespesia/populnea.htm)***(Thespesia
+**[Baru-baru](thespesia/populnea)***(Thespesia
 polpunea)*
 
 ![](thespesia/populnea/031019ubnd0029m3a.jpg)
@@ -87,14 +87,4 @@ with more obvious yellow veins.
 FREE photos of [coastal
 plants](http://www.flickr.com/photos/54527470@N00/sets/72157600057953536). Make your own badge [here](http://www.flickr.com/badge.gne).
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

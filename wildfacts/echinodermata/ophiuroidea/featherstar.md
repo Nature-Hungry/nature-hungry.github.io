@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "feather, hitching, brittle, star, brittlestar, ophiomaza, cacaotica, ophiuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 brittle
-stars [text index](../echinodermindex.htm#ophiuroidea)
-| [photo index](../ophuiroideafi.htm)
-Phylum [Echinodermata](../echinodermata.htm)
-> Class Stellaroida > Subclass [Ophiuroidea](ophiuroidea.htm)
+stars [text index](../echinodermindex#ophiuroidea)
+| [photo index](../ophuiroideafi)
+Phylum [Echinodermata](../echinodermata)
+> Class Stellaroida > Subclass [Ophiuroidea](ophiuroidea)
 **Feather-hitching
 brittle stars**   
 ***Ophiomaza cacaotica\** Family Ophiotrichidae***updated
@@ -34,7 +21,7 @@ Apr 2020*
 **Where
 seen?** This
 brittle star lives only in a [feather
-star](../crinoidea/crinoidea.htm) (Class Crinoidea). It has been seen on many different kinds
+star](../crinoidea/crinoidea) (Class Crinoidea). It has been seen on many different kinds
 of feather stars on our shores.  
   
 **Features:** Whole animal 2-3cm wide. Five arms with flat spines on the sides. Spines on the tips of the arms are modified into hooks that help the
@@ -109,7 +96,7 @@ Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng
 **Links**
 
 - [*Ophiomaza
-  cacaotica*](http://www.sealifebase.org/summary/Ophiomaza-cacaotica.html) on SeaLife Base: Technical fact sheet.
+  cacaotica*](http://www.sealifebase.org/summary/Ophiomaza-cacaotical) on SeaLife Base: Technical fact sheet.
 
 **References**
 
@@ -118,14 +105,4 @@ Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng
   Guide to Sea Stars and Other Echinoderms of Singapore*.
   Singapore Science Centre. 187pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

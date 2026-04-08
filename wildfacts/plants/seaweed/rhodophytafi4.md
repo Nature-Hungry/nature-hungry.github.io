@@ -4,26 +4,13 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, red, seaweed, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 seaweeds
-[text index](seaweedindex.htm) | [photo
-index](seaweedfi.htm)
-[Seaweeds](seaweed.htm)
-> Division [Rhodophyta](rhodophyta/rhodophyta.htm)
+[text index](seaweedindex) | [photo
+index](seaweedfi)
+[Seaweeds](seaweed)
+> Division [Rhodophyta](rhodophyta/rhodophyta)
 **Photo
 index of red seaweeds on Singapore shores**  
 **Crunchy, hard
@@ -35,26 +22,26 @@ index of red seaweeds on Singapore shores**
   
 ![](rhodophyta/pomslender/070902skdg2154me.jpg)  
 [Slender crunchy  
-pom-pom red seaweed](rhodophyta/pomslender.htm)*Jania* sp.
+pom-pom red seaweed](rhodophyta/pomslender)*Jania* sp.
 
 ![](rhodophyta/pomthick/050720sntg9524m.jpg)  
   
 ![](rhodophyta/pomthick/050720sntg9524mb.jpg)  
 [Thick crunchy   
-pom-pom red seaweed](rhodophyta/pomthick.htm)*Family
+pom-pom red seaweed](rhodophyta/pomthick)*Family
 Galaxauraceae*
 
 ![](rhodophyta/pomflat/050918smkg2673m.jpg)  
   
 ![](rhodophyta/pomflat/050918smkg2673mb.jpg)  
 [Flat crunchy  
-pom-pom red seaweed](rhodophyta/pomflat.htm)*Amphiroa* sp*.*
+pom-pom red seaweed](rhodophyta/pomflat)*Amphiroa* sp*.*
 
 ![](rhodophyta/portieria/100809cyrd9738m.jpg)  
   
 ![](rhodophyta/portieria/100809cyrd9738mb.jpg)  
 [Curled-tip  
-red seaweed](rhodophyta/portieria.htm) *Portieria hornemannii*
+red seaweed](rhodophyta/portieria) *Portieria hornemannii*
 
 3-6cm.
 Cluster of stiff, slender, cylindrical 'stems' regularly branched,
@@ -79,25 +66,25 @@ shores.
   
 ![](rhodophyta/encrust/050610sntg7603ma.jpg)  
 [Encrusting   
-coralline algae](rhodophyta/encrust.htm)   *awaiting identification*.
+coralline algae](rhodophyta/encrust)   *awaiting identification*.
 
 ![](rhodophyta/scaly/060501labg5888m.jpg)  
   
 ![](rhodophyta/scaly/060501labg5888ma.jpg)  
-[Scaly red seaweed](rhodophyta/encrust.htm)   
+[Scaly red seaweed](rhodophyta/encrust)   
 *Peyssonnelia* sp.
 
 ![](rhodophyta/scaly/091206tmd5727m.jpg)  
   
 ![](rhodophyta/scaly/091206tmd5727ma.jpg)  
-[Scaly red seaweed](rhodophyta/encrust.htm)   
+[Scaly red seaweed](rhodophyta/encrust)   
 *Peyssonnelia* sp.
 
 ![](rhodophyta/acrocystis/110719sntd7453m.jpg)  
   
 ![](rhodophyta/acrocystis/110719sntd7453ma.jpg)  
 [Pimply  
-red seaweed](rhodophyta/acrocystis.htm) *Acrocystis nana*
+red seaweed](rhodophyta/acrocystis) *Acrocystis nana*
 
 Thin,
 pink or red layer on hard surfaces. On coral rubble. Common on our
@@ -122,42 +109,32 @@ index of
 seaweeds on this site
 
 [all
-seaweeds](seaweedfi.htm)  
+seaweeds](seaweedfi)  
   
 **Green seaweeds**  
   
-[sheets, ribbons, filaments](chlorophytafi1.htm)  
+[sheets, ribbons, filaments](chlorophytafi1)  
   
 [feathery,   
-serrated strips](chlorophytafi2.htm)  
+serrated strips](chlorophytafi2)  
   
- [spheres, sausages, blobs](chlorophytafi3.htm)  
+ [spheres, sausages, blobs](chlorophytafi3)  
   
-[fans, disks, branched](chlorophytafi4.htm)  
+[fans, disks, branched](chlorophytafi4)  
   
 **Red
 seaweeds**  
- [sheets, ribbons](rhodophytafi3.htm)  
+ [sheets, ribbons](rhodophytafi3)  
   
- [fleshy stems, beads](rhodophytafi1.htm)  
- [soft hairy, feathery](rhodophytafi2.htm)  
+ [fleshy stems, beads](rhodophytafi1)  
+ [soft hairy, feathery](rhodophytafi2)  
   
 hard branching, encrusting
   
   
 **Brown
 seaweeds**  
- [sheets, ribbons](phaeophytafi2.htm)  
- [disks, other shapes](phaeophytafi1.htm)
+ [sheets, ribbons](phaeophytafi2)  
+ [disks, other shapes](phaeophytafi1)
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

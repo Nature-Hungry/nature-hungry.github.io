@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "face, banded, coral, crab, tetralia, nigrolineata, tetraliidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info,  photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 crabs [text
-index](../../crustaceaindex.htm) | [photo index](../../crabfi.htm)
-Phylum [Arthropoda](../../../arthropoda/arthropoda.htm)
-> Subphylum [Crustacea](../../crustacea.htm) > Class
-Malacostraca > Order [Decapoda](../../decapoda.htm)
-> Brachyurans > Family [Trapezioidea](trapezioidea.htm)
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> Brachyurans > Family [Trapezioidea](trapezioidea)
 **Bandit
 coral crab  
 *Tetralia nigrolineata***  
@@ -36,7 +36,7 @@ Dec 2019*
 **Where
 seen?** This tiny crab with a dark band across the face is
 sometimes seen in branching [Acropora
-corals](../../../cnidaria/coralhard/acroporidae/acropora.htm) (*Acropora* sp.) on our Southern shores. Usually more
+corals](../../../cnidaria/coralhard/acroporidae/acropora) (*Acropora* sp.) on our Southern shores. Usually more
 than one crab is seen in a single colony. Small, quick and flattened,
 they move around quickly among the coral branches and are hard to
 spot and photograph.  
@@ -50,7 +50,7 @@ the mucus produced by the hard coral, gathering these with the minute
 comb-like structures at the tips of its feet.
 
 *![](bandit/110704srplks.JPG)*  
-*Tanah Merah, Jul 11*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2011/07/underwater-garden-of-sentosa-at.html).
+*Tanah Merah, Jul 11*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2011/07/underwater-garden-of-sentosa-atl).
 
 *![](bandit/160806tpllks4.jpg)*  
 *Terumbu Pempang Laut, Aug 16*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10154410920233158&set=a.10154410914668158&type=3&theater).
@@ -77,16 +77,16 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 ---
 
 *![](bandit/100615tmlks.JPG)*  
-*Tanah Merah, Jun 10*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2010/06/checkup-on-tanah-merah-coral-garden.html).
+*Tanah Merah, Jun 10*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2010/06/checkup-on-tanah-merah-coral-gardenl).
 
 *![](bandit/100615tmjk4m3.jpg)*  
 *Tanah Merah,
 Jun 10*Photo
 shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/06/100615-tanah-merah.html).
+blog](http://sgn090608.blogspot.com/2010/06/100615-tanah-merahl).
 
 *![](bandit/130527tmlks.jpg)*  
-*Tanah Merah, May 13*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2013/06/corals-galore-on-reclaimed-shores-of.html).
+*Tanah Merah, May 13*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2013/06/corals-galore-on-reclaimed-shores-ofl).
 
 ---
 
@@ -102,7 +102,7 @@ blog](http://sgn090608.blogspot.com/2010/06/100615-tanah-merah.html).
 *Kusu Island,
 May 10*Photo
 shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/05/100529-kusu-island.html)..
+blog](http://sgn090608.blogspot.com/2010/05/100529-kusu-islandl)..
 
 ![](bandit/240608kustl7.jpg)  
  *Kusu Island, Jun 24*Photo shared by Tammy Lim on [facebook](https://www.facebook.com/media/set/?set=a.10161279668269264).
@@ -110,11 +110,11 @@ blog](http://sgn090608.blogspot.com/2010/05/100529-kusu-island.html)..
 ---
 
 *![](bandit/140728sislks.JPG)*  
-*Sisters Islands, Jul 14*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/07/our-first-marine-park-on-sisters-island.html).
+*Sisters Islands, Jul 14*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/07/our-first-marine-park-on-sisters-islandl).
 
 *![](bandit/110619tslgjk1m3.jpg)  
 Terumbu Selegie, Jun 11*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2011/06/110619-terumbu-selegi.html).
+blog](http://sgn090608.blogspot.com/2011/06/110619-terumbu-selegil).
 
 ---
 
@@ -127,7 +127,7 @@ blog](http://sgn090608.blogspot.com/2011/06/110619-terumbu-selegi.html).
 ---
 
 *![](bandit/150717smksnml3m3.jpg)*  
-*Pulau Semakau South, Jul 15*Photo shared by Neo Mei Lin on [her blog](http://psychedelic-nature.blogspot.sg/2015/07/trilogy-of-pulau-semakau-17072015.html).
+*Pulau Semakau South, Jul 15*Photo shared by Neo Mei Lin on [her blog](http://psychedelic-nature.blogspot.sg/2015/07/trilogy-of-pulau-semakau-17072015l).
 
 *![](bandit/180717smkejc.jpg)*  
 *Pulau Semakau East, Jul 18*Photo shared by Jesselyn Chua on [facebook](https://www.facebook.com/jesselyn.chuajiaxin/media_set?set=a.10157747181424517.1073741872.729329516&type=3).
@@ -190,9 +190,9 @@ Pulau Senang, Jun 10*Photo shared by Marcus Ng on [flickr](https://www.flickr.co
   S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
   Australian Waters*. Reed New Holland. 224 pp.
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 

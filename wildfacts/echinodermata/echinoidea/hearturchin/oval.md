@@ -4,27 +4,27 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "oval, heart, urchin, brissus, latecarinatus, spatangoida, echinoidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
-[![](../../../../wildfactsheet3.gif)](../../../index.html)
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
 
 [wildsingapore
 homepage](http://www.wildsingapore.com/)  
   
-[wildfactsheets homepage](../../../index.html)  
+[wildfactsheets homepage](../../../indexl)  
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[all animals](../../../animals.htm)
-| [all plants](../../../plants.htm)
-| [concepts](../../../concepts/index.html)
-| [glossary](../../../glossary/index.html)
-| [search](../../../search.htm)
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
 
 echinoids
-[text index](../../echinodermindex.htm#echinoidea) |
-[photo index](../../echinoideafi2.htm)
-Phylum [Echinodermata](../../echinodermata.htm)
-> Class [Echinodea](../echinoidea.htm) > [heart
-urchins](hearturchin.htm)
+[text index](../../echinodermindex#echinoidea) |
+[photo index](../../echinoideafi2)
+Phylum [Echinodermata](../../echinodermata)
+> Class [Echinodea](../echinoidea) > [heart
+urchins](hearturchin)
 **Keeled
 heart urchin  
 *Brissus latecarinatus*** *updated Apr 2020*
@@ -85,21 +85,21 @@ Pulau Sekudu,
 Apr 09*  
 *![](oval/090426skdtch03m3a.jpg)*  
 Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2009/04/taking-stuff-after-stuff-pulau-sekudu.html).
+blog](http://colorclouds.blogspot.com/2009/04/taking-stuff-after-stuff-pulau-sekudul).
 
 *![](oval/090426skdtch04m3.jpg)  
 Pulau Sekudu,
 Apr 09*  
 *![](oval/090426skdtch04m3a.jpg)*  
 Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2009/04/taking-stuff-after-stuff-pulau-sekudu.html).
+blog](http://colorclouds.blogspot.com/2009/04/taking-stuff-after-stuff-pulau-sekudul).
 
 *![](oval/100516skdtch3m3.jpg)  
 Pulau Sekudu,
 May 10*  
 *![](oval/100516skdtch4m3.jpg)*  
 Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2010/05/checking-up-pulau-sekudu.html).
+blog](http://colorclouds.blogspot.com/2010/05/checking-up-pulau-sekudul).
 
 ---
 
@@ -127,7 +127,7 @@ Photo shared by Russel Low on [facebook](https://www.facebook.com/media/set/?set
 ---
 
 ![](oval/110619tslglks4m3.JPG) *Terumbu Selegie, Jun 11*![](oval/110619tslglk5m3a.JPG)Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/06/virgin-trip-to-terumbu-selegi.html).
+blog](http://wondercreation.blogspot.com/2011/06/virgin-trip-to-terumbu-selegil).
 
 ![](oval/100616cyrc5101m3.jpg)  
 *Cyrene
@@ -138,9 +138,9 @@ Photo shared by Jonathan Tan on [facebook](https://www.facebook.com/photo.php?fb
 
 ---
 
-![](oval/120607kushpy1m3.jpg) *Kusu Island, Jun 12*Photo shared by Heng Pei Yan on [her blog](http://peiyansama.blogspot.sg/2012/06/singapores-city-reef-kusu-island.html).
+![](oval/120607kushpy1m3.jpg) *Kusu Island, Jun 12*Photo shared by Heng Pei Yan on [her blog](http://peiyansama.blogspot.sg/2012/06/singapores-city-reef-kusu-islandl).
 
-![](oval/120707jnglks.JPG) *Pulau Jong, Jul 12*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2012/07/slugs-galore-at-pulau-jong.html).
+![](oval/120707jnglks.JPG) *Pulau Jong, Jul 12*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2012/07/slugs-galore-at-pulau-jongl).
 
 ---
 
@@ -158,13 +158,13 @@ Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?se
 **References** 
 
 - *New records of the keeled heart urchin, Brissus latecarinatus, in Singapore*. 27 March 2020. Ria Tan, Teresa Stephanie Tay & Neo Mei Lin. Singapore Biodiversity Records 2020: 26-27 ISSN 2345-7597.
-- *[Brissus latecarinatus](https://www.sealifebase.se/summary/Brissus-latecarinatus.html)* on SeaLife Base: Technical fact sheet.
+- *[Brissus latecarinatus](https://www.sealifebase.se/summary/Brissus-latecarinatusl)* on SeaLife Base: Technical fact sheet.
 
   
 
-[links](../../../links.htm)
-| [references](../../../references.htm)
-| [about](../../../about.htm)
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
 | [email
 Ria](mailto:hello@wildsingapore.com)
 
