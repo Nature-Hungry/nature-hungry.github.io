@@ -4,30 +4,11 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, seagrass, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[![](../../../Templates/fornatureguides.gif)](fngseagrass.htm)
-
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
 seagrasses
-[text index](seagrassindex.htm)
-[Seagrasses](seagrass.htm)
-**Photo
-index of seagrasses on Singapore shores**
-
----
+[text index](seagrassindex.md)
+[Seagrasses](seagrass.md)
+**Photo index of seagrasses on Singapore shores**
 
 ![](enhalus/040620skdd0750m.jpg) [Tape seagrass](enhalus.htm) *Enhalus acoroides*
 

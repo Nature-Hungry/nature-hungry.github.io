@@ -28,14 +28,25 @@
 
   <!-- Feedback -->
   <p class="site-sidebar__tagline">
-    Spot errors? Have a question? Want to share your sightings?
-    <a href="mailto:hello@wildsingapore.com">email Ria</a>
-    &mdash; I'll be glad to hear from you!
+    Spot errors? Have a question? Want to share your sightings? <br>
+    <a href="mailto:hello@wildsingapore.com">email us</a> &mdash; we'll be glad to hear from you!
   </p>
-
+  
+  <!-- Social icon buttons (from _data/social.yml) -->
+{% if site.data.social %}
+<div class="site-sidebar__social" aria-label="Social links">
+  {% for item in site.data.social %}
+  <a href="{{ item.url }}" class="social-btn" aria-label="{{ item.title }}" title="{{ item.title }}"
+     {% unless item.url contains 'mailto' %}target="_blank" rel="noopener noreferrer"{% endunless %}>
+    <i class="{{ item.icon }}" aria-hidden="true"></i>
+  </a>
+  {% endfor %}
+</div>
+{% endif %}
+  
   <!-- Copyright (pinned to bottom via margin-top: auto on .site-sidebar__copy) -->
   <p class="site-sidebar__copy">
     wildfactsheets website &copy; ria tan 2008
   </p>
-
+  
 </aside>
