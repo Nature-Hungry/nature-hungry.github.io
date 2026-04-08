@@ -27,9 +27,9 @@ trees](mangfi)**
 ![](coastal/pandanus/tectorius/051018smkg2732m.jpg)
 ![](coastal/flagellaria/indica/090111smkd4873ma.jpg)
 ![](coastal/calophyllum/inophyllum/090124ubnd5979m.jpg)
-**[Other
-seashore  
-and mangrove plants](shorefi)**
+**[Other seashore and mangrove plants](shorefi)**
+
+
 ![](others/asplenium/nidus/090613admd4177m.jpg)
 ![](others/drymoglossum/piloselloides/090408wdld9130m.jpg)
 ![](mangrove/acrostichum/speciosum/090328sbwrd0033m.jpg)
@@ -44,9 +44,7 @@ and mangrove plants](shorefi)**
 
 ![](coastal/caryota/mitis/091227kntd6434m.jpg)
 
-[**Palms,
-pandans  
-and rattans**](shorefi4)
+[**Palms, pandans, and rattans**](shorefi4)
 
 ![](fruittrees/theobroma/cacao/091005cjd2003m.jpg)
 ![](fruittrees/durio/zibethinus/090704ubnd6367m.jpg)
