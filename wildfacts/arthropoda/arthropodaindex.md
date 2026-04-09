@@ -6,22 +6,17 @@ layout: default
 ---
  
 
-arthropods [photo
-index](arthropodafi)
-Phylum [Arthropoda](arthropoda)
+arthropods [photo index](arthropodafi)
+| Phylum [Arthropoda](arthropoda)
 | about [moulting](../crustacea/moulting)
-**Arthropods
-of Singapore**  
-**Intertidal and marine arthropods**
 
----
+# Arthropods of Singapore
+
+## Intertidal and marine arthropods**
 
 [crustaceans](../crustacea/crustaceaindex) | **other arthropods**
 
----
-
-**[Family
-Limulidae](limulidae/limulidae) horseshoe crabs**  
+**[Family Limulidae](limulidae/limulidae) horseshoe crabs**  
 
 lck
 
@@ -93,8 +88,7 @@ tm
 
 *lfa*
 
-[*Carcinoscorpius
-rotundicauda*](limulidae/carcinoscorpius)   
+[*Carcinoscorpius rotundicauda*](limulidae/carcinoscorpius)   
 Mangrove horseshoe crab
 
 pgl
@@ -121,8 +115,7 @@ snt
 
 *smk*
 
-[*Tachypleus
-gigas*](limulidae/tachypleus)   
+[*Tachypleus gigas*](limulidae/tachypleus)   
 Coastal horseshoe crab
 
 ---
@@ -221,8 +214,7 @@ rfl
 
 lfa
 
-[*Desis
-martensi*](../arachnida/desis)   
+[*Desis martensi*](../arachnida/desis)   
 Marine spider
 
 prp
@@ -233,8 +225,7 @@ cj
 
 *smk*
 
-[*Hyllus
-diardi*](../arachnida/hyllus)  
+[*Hyllus diardi*](../arachnida/hyllus)  
 Heavy jumping spider
   
 
@@ -304,8 +295,7 @@ ubn
 
 *cj*
 
-[*Attacus
-atlas*](../insecta/atlas)  
+[*Attacus atlas*](../insecta/atlas)  
 Atlas moth
 
 lck
@@ -316,8 +306,7 @@ sbw
 
 ubn
 
-*[Calliphara
-nobilis](../insecta/calliphara)*  
+*[Calliphara nobilis](../insecta/calliphara)*  
 Mangrove shield bug
 
 sbw
@@ -336,8 +325,7 @@ cj
 
 smk
 
-[*Dysdercus
-decussatus*](../insecta/dysdercus)  
+[*Dysdercus decussatus*](../insecta/dysdercus)  
 Cotton stainer bugs
 
 prp
@@ -358,8 +346,7 @@ sis
 
 smk
 
-[Shore
-cricket](../insecta/cricketshore)   
+[Shore cricket](../insecta/cricketshore)   
 *awaiting identification*
 
 ubn
@@ -383,18 +370,16 @@ sis
 
 ---
 
-in
-red are those listed among the threatened animals of Singapore from
+in red are those listed among the threatened animals of Singapore from
 Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
 Red Data Book: Threatened plants and animals of Singapore.*
 
-**Mangroves**
+## Mangroves
 
 **sbw**:
 sungei buloh wetland reserve including kranji mangroves,  **lck**: lim chu kang
 
-**Northern
-shores**
+**Northern shores**
 
 ****pgl:**** punggol & coney island**, prp:** pasir
 ris park, **chg:** changi,  **cj**: chek jawa and pulau ubin, **skd**:
@@ -403,8 +388,7 @@ tuas, **ecp**:
 east coast park, **tm**:
 tanah merah
 
-**Southern
-shores**
+**Southern shores**
 
 **lab**:
 labrador + berlayar creek,  **snt**:
@@ -418,6 +402,4 @@ hnt**: pulau hantu, **tpg**:
 terumbus pempang darat, tengah and laut, **smk**:
 pulau semakau,  **tsm**: submerged reefs off semakau - terumbu raya, beting
 bemban besar, terumbu bemban, terumbu semakau, **rfl**: raffles lighthouse, **lfa:**
-live firing area (Salu, Sudong, Pawai, Senang, Biola and submerged
-reefs in the area)
-  
+live firing area (Salu, Sudong, Pawai, Senang, Biola and submerged reefs in the area)

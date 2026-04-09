@@ -121,51 +121,70 @@ photoindex_items:
     label: Other Fishes
 
   # ── Mollusca ──────────────────────────────────────────────────────────────
+  - header: true
+    url: /wildfacts/mollusca/gastropodafi/
+    label: Shelled Snail
+    
   - imgs:
       - src: /assets/images/mollusca/gastropoda/naticidae/tigrina/050412tusg4564m.jpg
         alt: Shelled Snail
+  - imgs:
       - src: /assets/images/mollusca/gastropoda/strombidae/lambis/040122sisdd0143ma.jpg
         alt: Shelled Snail
+  - imgs:
       - src: /assets/images/mollusca/gastropoda/cypraeidae/errones/110123sisd5314m.jpg
         alt: Shelled Snail
+  - imgs:
       - src: /assets/images/mollusca/gastropoda/littorinidae/round/031028sntad0048m.jpg
         alt: Shelled Snail
-    url: /wildfacts/mollusca/gastropodafi/
-    label: Shelled Snails
 
-  - imgs:
-      - src: /assets/images/mollusca/bivalvia/anomiidae/understone/020616cjd0734m.jpg
-        alt: Clam
-      - src: /assets/images/mollusca/bivalvia/pinnidae/pinnidae/050511cftg6307ma.jpg
-        alt: Clam
-      - src: /assets/images/mollusca/bivalvia/veneridae/dispar/050510tusg6133m.jpg
-        alt: Clam
-      - src: /assets/images/mollusca/bivalvia/mytilidae/viridis/031207cjd0034m.jpg
-        alt: Clam
+  - header: true
     url: /wildfacts/mollusca/molluscafi/
     label: Clams
 
   - imgs:
-      - src: /assets/images/mollusca/cephalopoda/sqindian/030712hntbd0022m.jpg
-        alt: Cuttlefish
-      - src: /assets/images/mollusca/cephalopoda/pygmy/030802hntd0082m.jpg
-        alt: Squid
-      - src: /assets/images/mollusca/cephalopoda/reefoctopus/040508skdad0069m.jpg
-        alt: Octopus
+      - src: /assets/images/mollusca/bivalvia/anomiidae/understone/020616cjd0734m.jpg
+        alt: Clam
+  - imgs:
+      - src: /assets/images/mollusca/bivalvia/pinnidae/pinnidae/050511cftg6307ma.jpg
+        alt: Clam
+  - imgs:
+      - src: /assets/images/mollusca/bivalvia/veneridae/dispar/050510tusg6133m.jpg
+        alt: Clam
+  - imgs:
+      - src: /assets/images/mollusca/bivalvia/mytilidae/viridis/031207cjd0034m.jpg
+        alt: Clam
+
+  - header: true
     url: /wildfacts/mollusca/cephalopodafi/
     label: Cuttlefish, Squid and Octopus
 
   - imgs:
-      - src: /assets/images/mollusca/slugs/nudibranchia/hypselodoris/020629chgd1310m.jpg
-        alt: Nudibranch
-      - src: /assets/images/mollusca/slugs/sacoglossa/ornata/040423snt0116m.jpg
-        alt: Sea Slug
-      - src: /assets/images/mollusca/slugs/anaspidae/geographica/020626chgd0432m.jpg
-        alt: Sea Slug
-      - src: /assets/images/mollusca/slugs/onchidiidae/bigpimply/040123sisd0022m.jpg
-        alt: Sea Slug
+      - src: /assets/images/mollusca/cephalopoda/sqindian/030712hntbd0022m.jpg
+        alt: Cuttlefish
+  - imgs:
+      - src: /assets/images/mollusca/cephalopoda/pygmy/030802hntd0082m.jpg
+        alt: Squid
+  - imgs:
+      - src: /assets/images/mollusca/cephalopoda/reefoctopus/040508skdad0069m.jpg
+        alt: Octopus
+
+  - header: true
     url: /wildfacts/mollusca/slugfi/
     label: Sea Slugs
+
+  - imgs:
+      - src: /assets/images/mollusca/slugs/nudibranchia/hypselodoris/020629chgd1310m.jpg
+        alt: Nudibranch
+  - imgs:
+      - src: /assets/images/mollusca/slugs/sacoglossa/ornata/040423snt0116m.jpg
+        alt: Sea Slug
+  - imgs:
+      - src: /assets/images/mollusca/slugs/anaspidae/geographica/020626chgd0432m.jpg
+        alt: Sea Slug
+  - imgs:
+      - src: /assets/images/mollusca/slugs/onchidiidae/bigpimply/040123sisd0022m.jpg
+        alt: Sea Slug
 
   # ── Echinoderms ───────────────────────────────────────────────────────────
   - header: true
@@ -197,15 +216,19 @@ photoindex_items:
     label: Sea Cucumbers
 
   # ── Crustacea ─────────────────────────────────────────────────────────────
+  - header: true
+    url: /wildfacts/crustacea/shrimpfi/
+    label: Shrimps and Shrimp-like Animals
+
   - imgs:
       - src: /assets/images/crustacea/othercrust/shrimp/penbluetail/050509hntg5929m.jpg
         alt: Shrimp
+  - imgs:
       - src: /assets/images/crustacea/othercrust/shrimp/brevicarpalis/040411hntd0083m.jpg
         alt: Shrimp
+  - imgs:
       - src: /assets/images/crustacea/othercrust/stomatopoda/spearer/020328cjd7903m.jpg
         alt: Mantis Shrimp
-    url: /wildfacts/crustacea/shrimpfi/
-    label: Shrimps and Shrimp-like Animals
 
   - imgs:
       - src: /assets/images/crustacea/othercrust/isopoda/ligia/041018sntd7570m.jpg
@@ -213,17 +236,22 @@ photoindex_items:
     url: /wildfacts/crustacea/othercrust/isopoda/ligia/
     label: Sea Slater
 
+  - header: true
+    url: /wildfacts/crustacea/crabfi/
+    label: Crabs and Crab-like Animals
+
   - imgs:
       - src: /assets/images/crustacea/crab/ocypodoidea/dotilla/041127cjd8656m.jpg
         alt: Crab
+  - imgs:
       - src: /assets/images/crustacea/crab/portunidae/spinimana/031224sisd0115m.jpg
         alt: Crab
+  - imgs:
       - src: /assets/images/crustacea/crab/matutidae/lunaris/050429cftg5330m.jpg
         alt: Crab
+  - imgs:
       - src: /assets/images/crustacea/othercrust/anomura/hermit/stripeorange/050206cjdd9978m.jpg
         alt: Hermit Crab
-    url: /wildfacts/crustacea/crabfi/
-    label: Crabs and Crab-like Animals
 
   - imgs:
       - src: /assets/images/arthropoda/limulidae/tachypleus/050511cftd3272m.jpg
@@ -232,37 +260,47 @@ photoindex_items:
     label: Horseshoe Crab
 
   # ── Cnidaria ──────────────────────────────────────────────────────────────
-  - imgs:
-      - src: /assets/images/cnidaria/actiniaria/haddoni/050724bbd5311m.jpg
-        alt: Sea Anemone
-      - src: /assets/images/cnidaria/others/ceriantharia/common/030927cjd0058m.jpg
-        alt: Tube Anemone
-      - src: /assets/images/cnidaria/others/zoanthid/mutuki/050708labg9179m.jpg
-        alt: Zoanthid
-      - src: /assets/images/cnidaria/actiniaria/star/060401ulrd0828m.jpg
-        alt: Star Anemone
+  - header: true
     url: /wildfacts/cnidaria/anemonefi1/
     label: Sea Anemones and Anemone-like Animals
 
   - imgs:
-      - src: /assets/images/cnidaria/others/jellyfish/ribbon/050624tusg8505m.jpg
-        alt: Jellyfish
-      - src: /assets/images/cnidaria/others/jellyfish/fatarm/050426cftg5076m.jpg
-        alt: Jellyfish
-      - src: /assets/images/cnidaria/others/hydrozoa/thread/040409tuscd0019m.jpg
-        alt: Hydrozoa
-      - src: /assets/images/cnidaria/others/hydrozoa/thread/020406cjd8025m.jpg
-        alt: Hydrozoa
+      - src: /assets/images/cnidaria/actiniaria/haddoni/050724bbd5311m.jpg
+        alt: Sea Anemone
+  - imgs:
+      - src: /assets/images/cnidaria/others/ceriantharia/common/030927cjd0058m.jpg
+        alt: Tube Anemone
+  - imgs:
+      - src: /assets/images/cnidaria/others/zoanthid/mutuki/050708labg9179m.jpg
+        alt: Zoanthid
+  - imgs:
+      - src: /assets/images/cnidaria/actiniaria/star/060401ulrd0828m.jpg
+        alt: Star Anemone
+
+  - header: true
     url: /wildfacts/cnidaria/jellyfishfi/
     label: Jellyfish
+
+  - imgs:
+      - src: /assets/images/cnidaria/others/jellyfish/ribbon/050624tusg8505m.jpg
+        alt: Jellyfish
+  - imgs:
+      - src: /assets/images/cnidaria/others/jellyfish/fatarm/050426cftg5076m.jpg
+        alt: Jellyfish
+  - imgs:
+      - src: /assets/images/cnidaria/others/hydrozoa/thread/040409tuscd0019m.jpg
+        alt: Hydrozoa
+  - imgs:
+      - src: /assets/images/cnidaria/others/hydrozoa/thread/020406cjd8025m.jpg
+        alt: Hydrozoa
 ---
 
 # Photo Index of Marine Life on Singaporean Shores
 
+## More Familiar Animal Lifeforms
+
 <div class="page-with-bar">
 <div class="page-with-bar__main">
-
-## More Familiar Animal Lifeforms
 
 {% include photoindexgrid.html items=page.photoindex_items %}
 

@@ -7,80 +7,51 @@ layout: default
 
 
 arthropods
-[text index](../arthropodaindex) | [photo
-index](../arthropodafi)
-Phylum [Arthropoda](../arthropoda)
-| Class Merostomata | Order Xiphosura > Family Limulidae | about
-[moulting](../../crustacea/moulting)
-**Horseshoe
-crabs   
-Family Limulidae***updated
-Nov 2019*
+[text index](../arthropodaindex)
+| [photo index](../arthropodafi)
+| Phylum [Arthropoda](../arthropoda)
+| Class Merostomata
+| Order Xiphosura > Family Limulidae
+| about [moulting](../../crustacea/moulting)
+# Horseshoe crabs
+# Family Limulidae
+### *updated Nov 2019*
 
----
-
-if you
-learn only 3 things about them ...  
-![](../../photos/bullet.gif)They are NOT crabs. They are more closely related to spiders
-than crabs.
+if you learn only 3 things about them ...  
+![](../../photos/bullet.gif)They are NOT crabs. They are more closely related to spiders than crabs.
   
 ![](../../photos/bullet.gif)
   
-**Where
-seen?** Horseshoe crabs are sometimes encountered on our
-shores, more often on our northern shores especially near
-mangroves.  
+# Where seen?
+Horseshoe crabs are sometimes encountered on our shores, more often on our northern shores especially near mangroves.  
   
-**What is a horseshoe crab?** The
-horseshoe crab is a strange, ancient creature that has been around
-since before the dinosaurs. It is not a crab or even a [crustacean](../../crustacea/crustacea).
-It is more closely related to spiders and scorpions of the Class Arachnida.   
+# What is a horseshoe crab?
+The horseshoe crab is a strange, ancient creature that has been around since before the dinosaurs. It is not a crab or even a [crustacean](../../crustacea/crustacea). It is more closely related to spiders and scorpions of the Class Arachnida.   
   
-There are only four species of living horseshoes crabs in the world. *Limulus polyphemus* is found on the Atlantic coast. In Southeast
-Asia there are three: the [Mangrove horseshoe
-crab](carcinoscorpius) (*Carcinoscorpius rotundicauda*) which is also the smallest
-horseshoe, and the [Coastal horseshoe crab](tachypleus) (*Tachypleus gigas*) and in Japan, China and southern Sabah are
-found the Chinese horseshoe (*Tachypleus tridentatus*).  **Features:** Adult body 15-25cm in diameter. Its shape is
-ideal for bulldozing through the mud and sand, and clinging to the
+There are only four species of living horseshoes crabs in the world. *Limulus polyphemus* is found on the Atlantic coast. In Southeast Asia there are three: the [Mangrove horseshoe crab](carcinoscorpius) (*Carcinoscorpius rotundicauda*) which is also the smallest horseshoe, and the [Coastal horseshoe crab](tachypleus) (*Tachypleus gigas*) and in Japan, China and southern Sabah are found the Chinese horseshoe (*Tachypleus tridentatus*).  **Features:** Adult body 15-25cm in diameter. Its shape is ideal for bulldozing through the mud and sand, and clinging to the
 bottom in rough water. It probably got its common name because its
 shell resembles a horse's hoof.   
   
-A horseshoe has an exoskeleton, but unlike a crab's, this does not
-incorporate calcium and is made of chitin and protein instead. The
-shell is hard in adults, but more flexible in juveniles. Like other
-arthropods, a horseshoe crab must moult to grow bigger. During their
-first year, they may moult 5-6 times, growing 20-25% with each moult.
-It takes about 7 years to reach maximum size. Sometimes, you might
-come across what appears to be dead horseshoe crabs on the shore.
-These might just be moults. Moults are lightweight, have transparent
-eyes and no bad smell. [More
-about moulting](../../crustacea/moulting).  
+A horseshoe has an exoskeleton, but unlike a crab's, this does not incorporate calcium and is made of chitin and protein instead. The shell is hard in adults, but more flexible in juveniles. Like other arthropods, a horseshoe crab must moult to grow bigger. During their first year, they may moult 5-6 times, growing 20-25% with each moult.
+It takes about 7 years to reach maximum size. Sometimes, you might come across what appears to be dead horseshoe crabs on the shore. These might just be moults. Moults are lightweight, have transparent eyes and no bad smell. [More
+about moulting](../../crustacea/moulting).
  **Sometimes confused with** [stingrays](../../vertebrates/fish/dasyatidae/dasyatidae).
 In murky waters, these two different animals do have a similar profile,
 both being round and flat with a long tail. Stingrays are fishes that
 are related to sharks.  
   
-**What does it eat?**  A harmless
-creature, the horseshoe crab bulldozes quietly along on the sea bottom
-feeding on worms, clams and anything edible including dead animals.
-They may also scrape off algae.   
-  
-**Eating with its legs!** The horseshoe
-crab has no jaws. It has to grind down its food with the rough spiny
-areas (called gnathobases) near the base of the walking legs. The
-first pair of legs are tiny with small pincers which pick up and pass
-titbits into its four pairs of 'food processing' legs. Walking movements
-grinds up the food and the bits flow into the mouth, which is between
-the second pair of legs and conveniently faces backwards. So a horseshoe
-crab can only eat while it walks! In fact, the Class it belongs to
-is called Merostomata, which means 'thigh mouth'.   
-  
-**Galloping Horses?** Horseshoes generally
-creep slowly over the sea bottom. However, they can move more speedily
-if they have to. They can use their last pair of legs, called pushers,
-to lurch forwards. These legs are longer, have spines which flare
-out when pushed against the sand. These legs are also toothed, and
-thought to direct water flow over the gills and to clean the gills.
+# What does it eat?
+A harmless creature, the horseshoe crab bulldozes quietly along on the sea bottom
+feeding on worms, clams and anything edible including dead animals. They may also scrape off algae.   
+
+# Eating with its legs!
+The horseshoe crab has no jaws. It has to grind down its food with the rough spiny
+areas (called gnathobases) near the base of the walking legs. The first pair of legs are tiny with small pincers which pick up and pass titbits into its four pairs of 'food processing' legs. Walking movements grinds up the food and the bits flow into the mouth, which is between the second pair of legs and conveniently faces backwards. So a horseshoe crab can only eat while it walks! In fact, the Class it belongs to
+is called Merostomata, which means 'thigh mouth'.  
+
+# Galloping Horses?
+Horseshoes generally creep slowly over the sea bottom. However, they can move more speedily if they have to. They can use their last pair of legs, called pushers, to lurch forwards. These legs are longer, have spines which flare
+out when pushed against the sand. These legs are also toothed, and thought to direct water flow over the gills and to clean the gills.
 Horseshoe crabs can also swim for short distances, using their swimmerettes
 and gill flaps. They can also 'hop' over the sand slowly by bending
 their hinged body then pushing forwards against the tail, which is

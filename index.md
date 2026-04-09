@@ -21,11 +21,19 @@ grid_items:
     alt: For Nature Guides
     url: /wildfacts/forguides/
     label: For Nature Guides
+  - img: /assets/images/photos/plant.jpg
+    alt: Plants
+    url: /wildfacts/plants/plantindex/
+    label: Plant Fact Sheets
+  - img: /assets/images/photos/animal.jpg
+    alt: Animals
+    url: /wildfacts/vertebrates/vertindex/
+    label: Animal Fact Sheets
 ---
 
 {% include grid.html grid_items=page.grid_items %}
 
-## Site Checklists
+# Site Checklists
 
 Check out our site-specific species checklists!
 
