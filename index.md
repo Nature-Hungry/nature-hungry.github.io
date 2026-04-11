@@ -9,23 +9,28 @@ grid_items:
     alt: Photo Index
     url: /wildfacts/photoindex/
     label: Photo Index
-  - img: assets/images/photos/concept.jpg
+
+  - img: https://live.staticflickr.com/65535/55165080823_d512d115db_z.jpg
     alt: Concepts
     url: /wildfacts/concepts/
     label: Concepts
-  - img: assets/images/photos/redlist.jpg
+
+  - img: https://live.staticflickr.com/2247/2440054473_4bd38e6a76_z.jpg
     alt: Singapore Red List
     url: /redlist/
     label: The Singapore Red List
+
   - img: assets/images/photos/fornatureguides.jpg
     alt: For Nature Guides
     url: /wildfacts/forguides/
     label: For Nature Guides
-  - img: /assets/images/photos/plant.jpg
+
+  - img: https://live.staticflickr.com/5027/5594712511_d83a11641a_z.jpg
     alt: Plants
     url: /wildfacts/plants/plantindex/
     label: Plant Fact Sheets
-  - img: /assets/images/photos/animal.jpg
+
+  - img: https://live.staticflickr.com/65535/419796476_1e5b75c290_z.jpg
     alt: Animals
     url: /wildfacts/vertebrates/vertindex/
     label: Animal Fact Sheets

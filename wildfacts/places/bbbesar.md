@@ -5,16 +5,10 @@ keywords: "beting, bemban, besar, singapore, nature, natural, wildlife, rocky, s
 layout: default
 ---
 
-[main index](index.html) to Singapore's Southern shores
-for the [southern
-expedition](http://megamarinesurvey.blogspot.sg/search/label/Southern%20Expedition) | mega marine survey [blog](http://megamarinesurvey.blogspot.sg/)
-| [facebook
-page](https://www.facebook.com/pages/Mega-Marine-Survey-of-Singapore/136892629681549)
+[main index](index.html) to Singapore's Southern shores for the [southern expedition](http://megamarinesurvey.blogspot.sg/search/label/Southern%20Expedition) | mega marine survey [blog](http://megamarinesurvey.blogspot.sg/)
+| [facebook page](https://www.facebook.com/pages/Mega-Marine-Survey-of-Singapore/136892629681549)
 
-**Beting
-Bemban Besar**  
-
----
+# Beting Bemban Besar  
 
 **Habitats:**
 Central area sandy, seagrasses on eastern edge, rubbly edges sparsely

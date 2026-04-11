@@ -5,16 +5,13 @@ keywords: "checklist, check, list, index, ascidiacea, ascidian, tunicate, squirt
 layout: default
 ---
  
+ascidians [photo index](ascidiaceafi)
+| Phylum Chordata
+| Subphylum Tunicata/Urochordata
+| Class [Ascidiacea](ascidiacea)
 
-ascidians
-[photo index](ascidiaceafi)
-Phylum Chordata
-| Subphylum Tunicata/Urochordata | Class [Ascidiacea](ascidiacea)
-**Ascidians
-on Singapore shores**  
-Don't know the
-name of the ascidian? Try the [ascidian photo
-index](ascidiaceafi)  
+# Ascidians on Singapore shores**  
+Don't know the name of the ascidian? Try the [ascidian photo index](ascidiaceafi)  
 
 ---
 
@@ -422,4 +419,3 @@ pulau semakau,  **tsm**: submerged reefs off semakau - terumbu raya, beting
 bemban besar, terumbu bemban, terumbu semakau, **rfl**: raffles lighthouse, **lfa:**
 live firing area (Salu, Sudong, Pawai, Senang, Biola and submerged
 reefs in the area)
-  

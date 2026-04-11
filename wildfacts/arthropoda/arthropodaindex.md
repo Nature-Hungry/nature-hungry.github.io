@@ -5,7 +5,6 @@ keywords: "checklist, check, list, index, arthropoda, arthropod, field, guide, s
 layout: default
 ---
  
-
 arthropods [photo index](arthropodafi)
 | Phylum [Arthropoda](arthropoda)
 | about [moulting](../crustacea/moulting)

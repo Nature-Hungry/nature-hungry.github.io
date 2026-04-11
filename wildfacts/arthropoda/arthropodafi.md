@@ -6,11 +6,8 @@ layout: default
 ---
  
 
-arthropods
-[text index](arthropodaindex)
-
-Phylum
-[Arthropoda](arthropoda)
+arthropods [text index](arthropodaindex)
+| Phylum [Arthropoda](arthropoda)
 # Photo index of other arthropods on Singapore shores
 
 **except crustaceans**(see [crustacean photo index](../crustacea/crustaceafi))
@@ -37,8 +34,7 @@ Diameter to about 25cm. Shell greyish and the tail is triangular in cross-sectio
 Near mangroves, seagrass meadows. Sometimes seen on some of our shores.
  
 Body about 1cm long, fat bodied, long last legs, very long antennae. Often seen on many of our rocky shores.
-Wings 20-30cm across, caterpillars green dusted with white powder. Found
-in a variety of mangrove, coastal plants and others.
+Wings 20-30cm across, caterpillars green dusted with white powder. Found in a variety of mangrove, coastal plants and others.
 
 *![](../arachnida/desis/031125hntd3856m.jpg)*  
 [Marine spider](../arachnida/desis)   
@@ -53,12 +49,10 @@ in a variety of mangrove, coastal plants and others.
 *Hyllus diardi*
 
  
-Body about 1cm long, hairy legs. Coral rubble and reefs.Commonly seen on
-many of our Southern shores.
+Body about 1cm long, hairy legs. Coral rubble and reefs.Commonly seen on many of our Southern shores.
 Body less than 1cm long, silvery, seen 'walking' on water on some of our
 shores.
-Body about 1cm long, furry white with black markings. Sometimes seen in
-mangroves.
+Body about 1cm long, furry white with black markings. Sometimes seen in mangroves.
 
 *![](../insecta/calliphara/040108ubnd0013m.jpg)*  
   
@@ -78,14 +72,9 @@ mangroves.
 
  
  
-Adults about 1-1.5cm long. The larvae and juveniles are only found on Excoecaria
-algallocha. Adults may be found on other plants.
-Adults about 1cm long, a red head and yellow cross on black wing cases with
-red bodies and black legs. Juveniles all red, wingless with black
-legs. Found mostly on Sea hibiscus.
-Adults about 1cm long, a red head and yellow cross on black wing cases with
-red bodies and black legs. Juveniles all red, wingless with black
-legs. Found mostly on Sea hibiscus.
+Adults about 1-1.5cm long. The larvae and juveniles are only found on Excoecaria algallocha. Adults may be found on other plants.
+Adults about 1cm long, a red head and yellow cross on black wing cases with red bodies and black legs. Juveniles all red, wingless with black legs. Found mostly on Sea hibiscus.
+Adults about 1cm long, a red head and yellow cross on black wing cases with red bodies and black legs. Juveniles all red, wingless with black legs. Found mostly on Sea hibiscus.
 
 photo index of marine arthropods on this site
 
