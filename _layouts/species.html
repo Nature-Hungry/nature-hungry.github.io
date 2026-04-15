@@ -1,0 +1,29 @@
+---
+layout: default
+---
+{% comment %}
+  _layouts/species.html
+  ---------------------
+  Extends the default layout for individual species / fact-sheet pages.
+
+  Expected front matter on the page:
+    title:          "Common Name (Genus species)"
+    inat_taxon_id:  362577          ← set by add_inat_taxon_id.py
+    sidebar:        true | false    ← optional per-page sidebar (inherits page.html behaviour)
+
+  What this layout adds on top of default:
+    • Renders the page body as normal
+    • Appends the iNaturalist observations widget (inat-widget.html)
+      using page.inat_taxon_id resolved by the migration script.
+{% endcomment %}
+
+<article class="page-article">
+  {{ content }}
+
+  {% if page.inat_taxon_id %}
+  <section class="species-inat">
+    <h2>Sightings on iNaturalist</h2>
+    {% include inat-widget.html %}
+  </section>
+  {% endif %}
+</article>

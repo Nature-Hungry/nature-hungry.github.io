@@ -1,0 +1,45 @@
+{% comment %}
+  _includes/inat-widget.html
+  --------------------------
+  Embeds the iNaturalist observation widget for a taxon.
+
+  Parameters (passed via include OR read from page front matter):
+    taxon_id  – iNaturalist taxon ID (integer)
+                Falls back to page.inat_taxon_id if not supplied.
+    project   – iNaturalist project slug  (default: "wild-singapore-sightings")
+    title     – Widget heading text        (default: "Wild Singapore Sightings")
+    limit     – Max observations to show   (default: 10)
+    layout    – "grid" or "list"           (default: "grid")
+    quality   – "research", "needs_id", or "any" (default: "research")
+
+  Usage:
+    {% include inat-widget.html %}                          ← uses page.inat_taxon_id
+    {% include inat-widget.html taxon_id=12345 %}          ← explicit override
+    {% include inat-widget.html taxon_id=12345 limit=6 %}
+{% endcomment %}
+
+{% assign _taxon  = include.taxon_id  | default: page.inat_taxon_id %}
+{% assign _proj   = include.project   | default: "wild-singapore-sightings" %}
+{% assign _title  = include.title     | default: "Wild Singapore Sightings" %}
+{% assign _limit  = include.limit     | default: 10 %}
+{% assign _layout = include.layout    | default: "grid" %}
+{% assign _qual   = include.quality   | default: "research" %}
+
+{% if _taxon %}
+<section class="inat-widget-section" aria-label="iNaturalist observations">
+  <div
+    data-inat-widget
+    data-inat-source="{{ _proj }}"
+    data-inat-source-type="project"
+    data-inat-theme="light"
+    data-inat-title="{{ _title }}"
+    data-inat-layout="{{ _layout }}"
+    data-inat-limit="{{ _limit }}"
+    data-inat-order-by="observed_on"
+    data-inat-taxon="{{ _taxon }}"
+    data-inat-quality="{{ _qual }}"
+    data-inat-radius="16"
+  ></div>
+  <script src="https://glauberramos.github.io/inat/inat-widget.js"></script>
+</section>
+{% endif %}

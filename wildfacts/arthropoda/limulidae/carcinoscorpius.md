@@ -2,18 +2,17 @@
 title: "Mangrove horsehoe crab (Carcinoscorpius rotundicauda)"
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "mangrove, horseshoe, king, crab, carcinoscorpius, rotundicauda,  limulidae,  xiphosura, merostomata, chelicerate, arthropod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: species
 ---
 
-arthropods
-[text index](../arthropodaindex)
+arthropods [text index](../arthropodaindex)
 | [photo index](../arthropodafi)
 | Phylum [Arthropoda](../arthropoda)
 | Class Merostomata
 | Order Xiphosura > Family [Limulidae](limulidae)
 # Mangrove horseshoe crab  
 # *Carcinoscorpius rotundicauda*  
-## Family Limulidae**
+## Family Limulidae
 ### *updated Nov 2019*
 
 # Where seen?
@@ -61,7 +60,9 @@ On [wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
   download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Carcinoscorpius%2520rotundicauda/map?&fLat=1.2605&fLon=103.8654&zl=11&order_by=recent)
 
-**Other sightings on Singapore shores**
+
+
+# Other sightings on Singapore shores
 
 *![](carcinoscopius/200917sbwmn3.jpg)  
 *Sembawang Beach, Sep 20* Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo/?fbid=10157485865303660&set=a.10157485864973660).
