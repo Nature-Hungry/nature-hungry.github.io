@@ -4,13 +4,11 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, seagrass, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-<<<<<<< HEAD
 
 seagrasses
 [text index](seagrassindex.md)
 [Seagrasses](seagrass.md)
 **Photo index of seagrasses on Singapore shores**
-=======
 [![](../../../wildfactsheet3.gif)](../../indexl)
 
 [wildsingapore
@@ -35,19 +33,18 @@ seagrasses
 index of seagrasses on Singapore shores**
 
 ---
->>>>>>> cd0196253c122fad9308b0f3c60d2a0ac0c0f77a
 
-![](enhalus/040620skdd0750m.jpg) [Tape seagrass](enhalus) *Enhalus acoroides*
+![](enhalus/040620skdd0750m.jpg) [Tape seagrass](/wildfacts/plants/seagrass/enhalus) *Enhalus acoroides*
 
 ![](rotundata/020116cjd5102m.jpg)  
-[Smooth ribbon seagrass](rotundata)  *Cymodocea rotundata*
+[Smooth ribbon seagrass](/wildfacts/plants/seagrass/rotundata)  *Cymodocea rotundata*
 
 ![](serrulata/081212cyrd2969m.jpg)  
-[Serrated ribbon seagrass](serrulata)  *Cymodocea serrulata*
+[Serrated ribbon seagrass](/wildfacts/plants/seagrass/serrulata)  *Cymodocea serrulata*
 
-![](thalassia/041019labd7736m.jpg) [Sickle seagrass](thalassia)  *Thalassia hemprichii*
+![](thalassia/041019labd7736m.jpg) [Sickle seagrass](/wildfacts/plants/seagrass/thalassia)  *Thalassia hemprichii*
 
-![](halodule/050611kusd4016m.jpg) [Needle seagrass](halodule)  *Halodule pinifolia*and *H. univervis*
+![](halodule/050611kusd4016m.jpg) [Needle seagrass](/wildfacts/plants/seagrass/halodule)  *Halodule pinifolia*and *H. univervis*
 
 Longest
 seagrass with ribbon-like leaves. 30cm-1.5m long, 1-2cm wide. Thick
@@ -73,15 +70,15 @@ ribbon-like leaves up to 15cm long and 3.5mm wide. Rhizomes thin.
 Sometimes seen on some our shores, especially on sand bars. Luxuriant
 growths seen on seaward sandbars on Chek Jawa.
 
-![](ovalis/040523sjiad0057m.jpg) [Spoon seagrass](ovalis)  *Halophila ovalis* complex
+![](ovalis/040523sjiad0057m.jpg) [Spoon seagrass](/wildfacts/plants/seagrass/ovalis)  *Halophila ovalis* complex
 
-![](decipiens/070522skdg9583ma.jpg) [Hairy spoon seagrass](decipiens)  *Halophila decipiens*
+![](decipiens/070522skdg9583ma.jpg) [Hairy spoon seagrass](/wildfacts/plants/seagrass/decipiens)  *Halophila decipiens*
 
-![](beccarii/030913cjd0097m.jpg) [Beccarii's seagrass](beccarii) *Halophila beccarii*
+![](beccarii/030913cjd0097m.jpg) [Beccarii's seagrass](/wildfacts/plants/seagrass/beccarii) *Halophila beccarii*
 
-![](spinulosa/030928cjd0024m.jpg) [Fern seagrass](spinulosa) *Halophila spinulosa*
+![](spinulosa/030928cjd0024m.jpg) [Fern seagrass](/wildfacts/plants/seagrass/spinulosa) *Halophila spinulosa*
 
-![](syringodium/050309smkd1462m.jpg) [Noodle seagrass](syringodium)  *Syringodium isoetifolium*
+![](syringodium/050309smkd1462m.jpg) [Noodle seagrass](/wildfacts/plants/seagrass/syringodium)  *Syringodium isoetifolium*
 
 Spoon
 shaped leaves, 0.5-1cm wide, 1-4cm long, emerging in pairs. Common
