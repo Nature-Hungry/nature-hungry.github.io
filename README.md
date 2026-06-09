@@ -16,7 +16,7 @@ but we aim to standardize all to what we are working on in the seagrass sections
 			 🟡 Links & References
 			 🔲 Text section titles
 			 ✅ Location information
-			 🔲 IUCN & RDB status
+			 🟡 IUCN & RDB status
 			 🔲 !Entry attributes
 			 ✅ Atomic entry content
 			 🔲 Higher rank entries content
@@ -24,8 +24,8 @@ but we aim to standardize all to what we are working on in the seagrass sections
 			 🔲 !Assigning habitats to entries
 			 🔲 !Adding form information to entries (juvenile, larvae form etc.)
 		 🔲 Entry guides
-			 🔲 Pages to aggregate guides
-			 🔲 Entry guide content
+			 🔲 Pages to aggregate guides (files not ending in fi.md)
+			 🔲 Entry guide content (files ending in fi.md)
 	🟡 Entry aggregates
 		🟡 Explore page
 			✅ Text query search
@@ -38,11 +38,12 @@ but we aim to standardize all to what we are working on in the seagrass sections
 		🔲 Step-by-step Photo indexes
 			🔲 Identify features to group entries by
 			🟡 Prototype
+         🔲 Add graphics for every button
 	🔲 New pages that reflect the goals of the new site
 	🟡 Layout components (subject to feedback & change)
 		🔲 Responsive css
 		🟡 Navigation header
-		🔲 Footer
+		🟡 Footer
     🔲 Add a search engine in the "For Teachers" page
        🔲 Add classroom activities with proper YAML headers
 
@@ -58,9 +59,9 @@ but we aim to standardize all to what we are working on in the seagrass sections
 
 # Wild Singapore
 
-The Wild Singapore website is a guide to the flora and fauna of Singapore's intertidal shores. 
+The Wild Singapore website is a guide to the flora and fauna of Singapore's intertidal shores.
 
-**Original Site:** [wildsingapore.com](http://www.wildsingapore.com)  
+**Original Site:** [wildsingapore.com](http://www.wildsingapore.com)
 
 ---
 
