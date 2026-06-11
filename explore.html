@@ -70,7 +70,7 @@
         }
         .explore-grid-tax-filters{
             display:flex;
-            gap:2rem;
+            gap:1rem;
         }
         @media (max-width:800px){
             #show-filters-btn{
@@ -280,15 +280,31 @@
                 </div>
             <div class="explore-grid-tax-filters">
             <style>
+        
+input[type="checkbox"] {
+  width: 1.4rem;
+  height: 1.4rem;
+  cursor: pointer; /* Enhances user experience */
+}
 
+details > summary::before {
+  content: "+";
+  position:absolute;
+  top:50%;
+  transform:translateY(-50%);
+  left: 0;
+}
+
+details[open] > summary::before {
+  content: "-";
+}
         .tax-filters{
-            width:fit-content;
             overflow:hidden;
             flex-shrink:0;
-            border:2px solid lightgrey;
             border-radius: 5px;
             height:fit-content;
             padding:1rem;
+            box-shadow: 2px 0px 10px rgba(0, 0, 0, 0.1);
         }
 
         .tax-children{
@@ -297,7 +313,26 @@
 
         .tax-title{
             white-space: nowrap;
+            width:100%;
+            display:flex;
+            justify-content: space-between;
+            align-items: center;
+            position:relative;
+            padding-left:15px;
+            gap:1rem;
+            border-bottom:1px solid lightgrey;
+            padding-bottom:0.2rem;
+            padding-top:0.2rem;
+            
         }
+
+        summary.tax-title{
+            cursor:pointer;
+        }
+        summary.tax-title:hover{
+            background-color:lightgrey;
+        }
+        
 
         @media (max-width:800px){
             .tax-filters{
@@ -1199,7 +1234,9 @@ window.addEventListener('load', () => {
 
 
 
-                <div class="pagination-view-group"><div class="pagination">
+                <div class="pagination-view-group">
+                    <div id="results-count">
+                    </div><div class="pagination">
                         <button class="prev"><i class="fa-solid fa-caret-left"></i></button>
                         <span class="page-info"></span>
                         <button class="next"><i class="fa-solid fa-caret-right"></i></button>
@@ -1320,6 +1357,7 @@ let pageInfo = Array.from(document.getElementsByClassName('page-info'))
 
 let prevBtn = Array.from(document.getElementsByClassName('prev'))
 let nextBtn = Array.from(document.getElementsByClassName('next'))
+let resultsCount = document.getElementById("results-count")
 let taxaFilters = new Set()
 let excludeFilters = new Set()
 let query = ""
@@ -1459,6 +1497,9 @@ function filterResults(){
 
   if(zone != "all"){
     zoneFilter = item=>{
+      if(!item.zone){
+        console.log(item)
+      }
       if(item.zone.includes(zone)){
         console.log(item.title)
       }
@@ -1552,6 +1593,8 @@ function renderResults() {
     pi.textContent = `Page ${currentPage} of ${totalPages || 1}`
 
   })
+
+  resultsCount.textContent = results.length + " results"
 
   prevBtn.forEach(pb=>{
     pb.disabled = currentPage === 1
@@ -1755,6 +1798,33 @@ tree.addEventListener('change', e => {
         </div>
     </main>
 </div><!-- .site-wrapper -->
+
+<footer>
+    <div class="footer-columns">
+        <div class="footer-logo">
+            <h2>Nature.Hungry</h2>
+        </div>
+        
+        <div class="footer-column">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="footer-column">
+            <a href="/">Glossary</a>
+            <a href="/">Habitats</a>
+            <a href="/">Guides</a>
+        </div>
+        <div class="footer-column">
+            <a href="/">How to contribute</a>
+            <a href="/">Credits & Acknowledgments</a>
+        </div>
+
+    </div>
+    <p class="copyright">© 2026 naturehungry.sg and individual contributors. Content may be shared and adapted with appropriate credit.</p>
+</footer>
 
 </body>
 </html>
