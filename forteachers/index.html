@@ -15,7 +15,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>Make a Difference | Nature Hungry</title>
+  <title>Classroom Activities for Teachers | Nature Hungry</title>
+  
+  <meta name="description" content="Shareable classroom activities for teaching Singapore's marine biodiversity">
   
   
 
@@ -126,41 +128,187 @@
     <!-- Page content -->
     <main class="page-content" id="main-content">
       
-      <h1 class="page-title">Make a Difference</h1>
+      <h1 class="page-title">Classroom Activities for Teachers</h1>
       
-      <style>
+      <p>Discover and share hands-on classroom activities that help students learn about Singapore’s amazing marine biodiversity!</p>
+
+<h2 id="about-this-section">About This Section</h2>
+
+<p>Teachers: Have you created an engaging classroom activity about Singapore’s shores? We’d love to feature it here! Activities should include learning objectives, materials needed, step-by-step instructions, and assessment ideas. For more information, please <a href="/forteachers/aboutactivities">click here to find out more!</a></p>
+
+<p><strong>Want to contribute?</strong> Please email your classroom activities to <a href="mailto:thewildsingapore@gmail.com">thewildsingapore@gmail.com</a>.</p>
+
+<hr />
+
+<h2 id="all-activities">All Activities</h2>
+
+<div class="forteacher-filters">
+  <button class="filter-btn active" data-filter="all">All Subjects</button>
   
-    section{
-        margin-bottom: 2rem;
-        position: relative;
-    }
+    <button class="filter-btn" data-filter="geography">Geography</button>
+  
+    <button class="filter-btn" data-filter="science-biology">Science (Biology)</button>
+  
+    <button class="filter-btn" data-filter="pure-literature">Pure Literature</button>
+  
+</div>
 
-    section::before{
-        content: '';
-        position: absolute;
-        height:calc(100% - 3rem);
-        width:2px;
-        background-color: slategray;
-        bottom:0;
-        left:1rem;
-    }
-    section h3, section p{
-        margin-left: 2rem;
-    }
+<div class="forteacher-item" data-subject="geography">
+    
+
+<div class="forteacher-preview">
+  
+  <div class="forteacher-preview__header">
+    <h2 class="forteacher-preview__title">
+      <a href="/wildfacts/forteachers/ecosystem-services/">Humans and Ecosystem Services</a>
+    </h2>
+    
+    <div class="forteacher-preview__tags">
+      <span class="forteacher-subject-tag">Geography</span>
+    </div>
+  </div>
+  
+  <p class="forteacher-preview__description">
+    Students learn about ecosystem services
+  </p>
+  
+  <div class="forteacher-preview__meta">
+    
+    <span class="forteacher-preview__author">
+      <strong>by</strong> Author YY TT
+    </span>
+    
+    
+    
+    <span class="forteacher-preview__date">
+      June 13, 2026
+    </span>
+    
+  </div>
+
+</div><!-- .forteacher-preview -->
+
+  </div>
+
+<div class="forteacher-item" data-subject="science-biology">
+    
+
+<div class="forteacher-preview">
+  
+  <div class="forteacher-preview__header">
+    <h2 class="forteacher-preview__title">
+      <a href="/wildfacts/forteachers/mangrove-conservation/">Mangrove as Coastal Protection</a>
+    </h2>
+    
+    <div class="forteacher-preview__tags">
+      <span class="forteacher-subject-tag">Science (Biology)</span>
+    </div>
+  </div>
+  
+  <p class="forteacher-preview__description">
+    Long-term project where students learn about and protect local mangroves
+  </p>
+  
+  <div class="forteacher-preview__meta">
+    
+    <span class="forteacher-preview__author">
+      <strong>by</strong> Author YY ZZZ
+    </span>
+    
+    
+    
+    <span class="forteacher-preview__date">
+      April 25, 2025
+    </span>
+    
+  </div>
+
+</div><!-- .forteacher-preview -->
+
+  </div>
+
+<div class="forteacher-item" data-subject="pure-literature">
+    
+
+<div class="forteacher-preview">
+  
+  <div class="forteacher-preview__header">
+    <h2 class="forteacher-preview__title">
+      <a href="/wildfacts/forteachers/coral-identification/">Nature Literature</a>
+    </h2>
+    
+    <div class="forteacher-preview__tags">
+      <span class="forteacher-subject-tag">Pure Literature</span>
+    </div>
+  </div>
+  
+  <p class="forteacher-preview__description">
+    Students learn to identify common coral species on Singapore shores
+  </p>
+  
+  <div class="forteacher-preview__meta">
+    
+    <span class="forteacher-preview__author">
+      <strong>by</strong> Author YY ZZZ
+    </span>
+    
+    
+    
+    <span class="forteacher-preview__date">
+      January 15, 2024
+    </span>
+    
+  </div>
+
+</div><!-- .forteacher-preview -->
+
+  </div>
+
+<script>
+document.querySelectorAll('.filter-btn').forEach(btn => {
+  btn.addEventListener('click', function() {
+    const filter = this.dataset.filter;
+    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    this.classList.add('active');
+    
+    document.querySelectorAll('.forteacher-item').forEach(item => {
+      if (filter === 'all' || item.dataset.subject === filter) {
+        item.style.display = '';
+      } else {
+        item.style.display = 'none';
+      }
+    });
+  });
+});
+</script>
+
+<style>
+  .forteacher-filters {
+    margin: 2rem 0;
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+  
+  .filter-btn {
+    padding: 0.5rem 1rem;
+    border: 1px solid #ccc;
+    background: white;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  .filter-btn:hover {
+    background: #f0f0f0;
+  }
+  
+  .filter-btn.active {
+    background: slategray;
+    color: white;
+    border-color: slategray;
+  }
 </style>
-
-<section>
-    <h2>As an Individual</h2>
-    <p><strong>You</strong> can make a difference too. The more people know and understand our local biodiversity, there'll be a bigger voice for them. This increases the likelihood they can get conserved if they are conservationally significant!</p>
-    <p>If you would like to know what happens in the entire process of a development project, please refer to <a href="/concepts/eia">Guide to the EIA process</a>.</p>
-</section>
-
-<section>
-    <h2>For Teachers</h2>
-    <p>You can always include local biodiversity within your classroom, and many others have done it before you!</p>
-    <p>Refer to <a href="/forteachers/">the For Teachers section</a> for more information.</p>
-</section>
-
 
 
     </main>
