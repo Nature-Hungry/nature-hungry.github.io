@@ -65,8 +65,9 @@
             cursor: pointer;
             font-size:1.6rem;
             background-color:white;
-            border:1px solid lightgrey;
+            border:1px solid #e0e0e0;
             padding:0.5rem;
+            border-radius:8px;
         }
         .explore-grid-tax-filters{
             display:flex;
@@ -133,6 +134,7 @@
   <link rel="stylesheet" href="/assets/css/img-galleries.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/tabler-icons.min.css" />
     <!-- Google Analytics -->
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-D6D1VPY6W2"></script>
@@ -234,10 +236,10 @@
             <h1>Explore</h1>
             <div style="">
                 <p style=""><b>Don't know the name of what you saw?</b></p>
-                
- 
-<a href="/stepbystep" class="btn">Use the Photo Index!</a>
- 
+                <div style="display:flex;flex-direction:column;gap:0.5rem;align-items:start;">
+                <a href="/stepbystep">Use the Step by step identification guide!</a>
+                <a href="/photoindex">Use the Photo Index!</a>
+                </div>
             </div>
         </div>
 <div class="flex gap-1 align-center justify-between" style="margin-bottom:1rem;">
@@ -1241,9 +1243,9 @@ window.addEventListener('load', () => {
                 <div class="pagination-view-group">
                     <div id="results-count">
                     </div><div class="pagination">
-                        <button class="prev"><i class="fa-solid fa-caret-left"></i></button>
+                        <button class="prev"><i class="ti ti-caret-left"></i></button>
                         <span class="page-info"></span>
-                        <button class="next"><i class="fa-solid fa-caret-right"></i></button>
+                        <button class="next"><i class="ti ti-caret-right"></i></button>
                     </div>
                 </div>
 
@@ -1265,6 +1267,8 @@ window.addEventListener('load', () => {
     flex-direction: column;
     align-items: stretch;
     z-index: 0;
+    border-radius: 8px 8px 0 0;
+    overflow: hidden;
   }
   .entry .img-container{
     width:100%;
@@ -1280,11 +1284,12 @@ window.addEventListener('load', () => {
   }
   
   .entry:hover{
-  transition: 0.05s ease-in;
+  transition: 0.05s cubic-bezier(0.175, 0.885, 0.32, 1.275);
   text-decoration: none;
   background-color: white;
   transform: scale(1.2);
   padding:0.5rem;
+  border-radius: 8px;
   box-shadow: 0 0 0 4px rgb(0 115 25 / 10%);
   z-index: 99;
   position: absolute;
@@ -1814,9 +1819,9 @@ tree.addEventListener('change', e => {
                     
 
                     <div class="pagination">
-                        <button class="prev"><i class="fa-solid fa-caret-left"></i></button>
+                        <button class="prev"><i class="ti ti-caret-left"></i></button>
                         <span class="page-info"></span>
-                        <button class="next"><i class="fa-solid fa-caret-right"></i></button>
+                        <button class="next"><i class="ti ti-caret-right"></i></button>
                     </div>
                 </div>
             </div>
