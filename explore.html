@@ -122,7 +122,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>Explore | Nature Hungry</title>
+  <title>Explore -  Nature Hungry</title>
   
   
   <meta name="keywords" content="index, flora, fauna, animal, plant, guide, biology, ecology, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
@@ -1379,7 +1379,7 @@ let results = []
 
 // Read URL params on page load
 const params = new URLSearchParams(window.location.search)
-const tree = document.getElementById('tax-filters')
+let tree = document.getElementById('tax-filters')
 
 let initialQuery = params.get('q') || ''
 
@@ -1399,6 +1399,8 @@ let pageInfo = Array.from(document.getElementsByClassName('page-info'))
 
 let prevBtn = Array.from(document.getElementsByClassName('prev'))
 let nextBtn = Array.from(document.getElementsByClassName('next'))
+let overlay = document.getElementById("redirect-overlay")
+
 let resultsCount = document.getElementById("results-count")
 let taxaFilters = new Set()
 let excludeFilters = new Set()
@@ -1406,6 +1408,10 @@ let query = ""
 let zone = "all"
 
 input.value = initialQuery
+
+
+
+
 
 document.addEventListener("DOMContentLoaded", init);
 
@@ -1420,13 +1426,16 @@ async function fetchData(){
 }
 
 function init(){
+
+  overlay = document.getElementById("redirect-overlay")
   initialQuery = params.get('q') || ''
       currentPage = parseInt(params.get('page'), 10)
       if (isNaN(currentPage) || currentPage < 1) {
         currentPage = 1
       }
       query = initialQuery
-
+  // let initialTaxa = params.get("taxa") || ""
+  // taxaFilters = new Set(initialTaxa.split("|"))
       
   fetchData().then(json => {
       data = json
@@ -1492,6 +1501,16 @@ function init(){
     })
 
   })
+
+  window.addEventListener('pageshow', (event) => {
+  console.log("Page show")
+  overlay.classList.remove('show');
+  
+  // If the page is loaded from the bfcache, remove the transition class
+    if (event.persisted) {
+
+    }
+  });
 }
 
 input.addEventListener('keyup', () => {
@@ -1668,6 +1687,8 @@ function updateURL() {
     params.set('page', currentPage)
   }
 
+  // params.set('taxa', Array.from(taxaFilters).join("|"))
+
   params.set('zone', zone)
 
   const newURL =
@@ -1713,7 +1734,7 @@ function updateTaxaFilters(value, checked){
         }
     }
 
-    
+    // updateURL()
 }
 
 
@@ -1746,6 +1767,7 @@ filters.addEventListener('change', e=>{
 
 tree.addEventListener('change', e => {
   const checkbox = e.target
+  console.log("Taxa tree onchange")
 
   if (!checkbox.classList.contains('taxa-checkbox-input')) {
     return
@@ -1859,7 +1881,6 @@ document.body.addEventListener('click', function(event) {
     const targetUrl = link.href;
     
     // 4. Trigger transition animation
-    const overlay = document.getElementById("redirect-overlay")
     overlay.classList.add('show');
     overlay.insertAdjacentHTML('beforeend', `
       <img src="https://cdnjs.cloudflare.com/ajax/libs/timelinejs/2.25/css/loading.gif"/>
