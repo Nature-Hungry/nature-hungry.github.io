@@ -209,7 +209,15 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>This small bat with a dog-like face is among our most commonly seen bats. According to Baker, it is widespread and common even in urban areas. According to Nowak, they are found in forests and open country.</p>
 
@@ -228,8 +236,9 @@ It eats fruits and drinks nectar. A fruit bat may travel nearly 100km in a singl
 <p><strong>Baby bats:</strong>
 Mama bat gives birth to one young which weighs about 11gms at birth. She carries her young with her all the time, even as she flies, for about 45-50 days.</p>
 
-<p><strong>Status and threats:</strong>
-It is not listed among our threatened animals.</p>
+<p>## Status and threats</p>
+
+<p>It is not listed among our threatened animals.</p>
 
 <p><em><img src="https://images.naturehungry.sg/vertebrates/mammals/brachyotis/030917sbwrd0086m6l.jpg" alt="" /></em>
 <em>Sungei Buloh Wetland Reserve, Sep</em>
@@ -257,19 +266,16 @@ for free download from
 
 <hr />
 
-        </div>
-        
-      </section>
 
-      
-      <section>
-        <h2>Sightings of Lesser dog-faced fruit bat on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=40793&verifiable=any">iNaturalist</a></h2>
-        <div id="map" style="height:400px"></div>
-      </section>
-      
         
-        <section>
+          <section>
+            <h2 id="inat" label="Sightings">Sightings of Lesser dog-faced fruit bat on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=40793&verifiable=any">iNaturalist</a></h2>
+            <div id="map" style="height:400px"></div>
+          </section>
+        
             
+            <section>
+                
 
 
 
@@ -277,9 +283,10 @@ for free download from
     
 
 </div>
-        </section>
-        <section>
-            <p><strong>Links</strong></p>
+            </section>
+            <section>
+                <h3 id="links">Links</h3>
+
 <ul>
   <li><a href="http://www.ecologyasia.com/verts/bats/lesser_dog-faced_fruit-bat">Lesser Dog-faced Fruit Bat</a>
 on Nick Baker’s EcologyAsia website: fact sheet with photos.</li>
@@ -287,7 +294,8 @@ on Nick Baker’s EcologyAsia website: fact sheet with photos.</li>
 (Chiroptera: Pteropodidae) Lesser Dog-faced Fruit Bat by Tan Xiao Rui Joanna, 2013 on taxo4254.</li>
 </ul>
 
-<p><strong>References</strong></p>
+<h3 id="references">References</h3>
+
 <ul>
   <li>Baker, Nick and Kelvin Lim. 2008.
 <em>Wild Animals of Singapore: A Photographic Guide to Mammals, Reptiles, Amphibians and Freshwater Fishes</em>
@@ -300,18 +308,24 @@ The Johns Hopkins University Press. 287 pp.</li>
 New Holland Publishers. 128 pp.</li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -425,6 +439,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->

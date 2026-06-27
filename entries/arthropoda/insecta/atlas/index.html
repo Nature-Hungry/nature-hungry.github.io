@@ -217,7 +217,15 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>Like a magic furry flying carpet, this enormous moth is sometimes seen in our mangroves and other wild places. Atlas Moths are found only in Southeast Asia. They are common in Singapore, especially in November-January, although they are found throughout the year.</p>
 
@@ -308,19 +316,16 @@ for free download</li>
 </div>
 <hr />
 
-        </div>
-        
-      </section>
 
-      
-      <section>
-        <h2>Sightings of Atlas moth on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=125071&verifiable=any">iNaturalist</a></h2>
-        <div id="map" style="height:400px"></div>
-      </section>
-      
         
-        <section>
+          <section>
+            <h2 id="inat" label="Sightings">Sightings of Atlas moth on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=125071&verifiable=any">iNaturalist</a></h2>
+            <div id="map" style="height:400px"></div>
+          </section>
+        
             
+            <section>
+                
 
 
 
@@ -328,32 +333,40 @@ for free download</li>
     
 
 </div>
-        </section>
-        <section>
-            <p><strong>Links</strong></p>
+            </section>
+            <section>
+                <h3 id="links">Links</h3>
+
 <ul>
   <li>The Atlas Moth Chronicles - <a href="http://butterflycircle.blogspot.sg/2012/08/the-atlas-moth-chronicles-episode-1.html">Episode 1</a> and <a href="http://butterflycircle.blogspot.sg/2012/08/the-atlas-moth-chronicles-episode-2.html">Episode 2</a> and <a href="http://butterflycircle.blogspot.sg/2012/09/the-atlas-moth-chronicles-episode-3.html">Episode 3</a> on the Butterflies of Singapore blog: documenting the life cycle and other interesting behaviour.</li>
   <li><em><a href="https://singapore.biodiversity.online/taxo4254/mainSpace/Attacus atlas.html">Attacus atlas</a></em> on Taxo4254.</li>
 </ul>
 
-<p><strong>References</strong></p>
+<h3 id="references">References</h3>
+
 <ul>
   <li>Foo Maosheng. 30 Jun 2017.<em>An atlas moth infestation at Yishun</em>. Singapore Biodiversity Records 2017: 80-81.</li>
   <li>Paul Sterry,<em>“Butterflies and Moths: A Portrait of the Animal World”</em>, Todtri, 1995.</li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -467,6 +480,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->

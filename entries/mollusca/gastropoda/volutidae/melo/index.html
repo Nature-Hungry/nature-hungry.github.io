@@ -229,7 +229,34 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+        <fieldset class="trivia-box">
+    <legend class="trivia-box-title">if you learn only 3 things about them ...</legend>
+    <ul>
+        
+        <li class="trivia-box-item">
+            It is very rarely seen!
+        </li>
+        
+        <li class="trivia-box-item">
+            It is carnivorous. Its prey include smaller snails living beneath the sand.
+        </li>
+        
+        <li class="trivia-box-item">
+            It is threatened by over-collection as food and for it shell.
+        </li>
+        
+    </ul>
+</fieldset>
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>This magnificent large snail sometimes seen on our Northern shores and is more common on undisturbed shores. It is usually found on muddy bottoms, near mangroves and seagrasses.
 It is also called the Indian volute.</p>
@@ -311,8 +338,9 @@ bail out water from ‘sampans’ (little boats used by fishermen), also to meas
 
 <p>“Pearls” may form inside this snail when something enters the snail’s shell and gets covered by shell material. The “pearl” is not lustrous as it contains no nacre, but are usually very round and can be as large as a golf ball. The colours of the “pearl” tend to fade over time so they are not considered precious gems.</p>
 
-<p><strong>Status and threats:</strong>
-The Baler volute is listed as ‘Endangered’ in the Red List of threatened animals of Singapore due to habitat loss. Also threatened by indiscriminate fishing with nets. It is also eaten. Wildfilms had an encounter with a collector who
+<p>## Status and threats</p>
+
+<p>The Baler volute is listed as ‘Endangered’ in the Red List of threatened animals of Singapore due to habitat loss. Also threatened by indiscriminate fishing with nets. It is also eaten. Wildfilms had an encounter with a collector who
 <a href="http://wildfilms.blogspot.com/2007/07/mone-not-enough.html">took one from Changi to eat</a>
 . The 1994 Red Data Book of Singapore states “Thought to have been exterminated from our water, but a recent isolated sighting confirms their continued presence”.</p>
 
@@ -422,38 +450,16 @@ for free download</li>
 </div>
 <hr />
 
-        </div>
-        
-        <div class="trivia-box">
-    <h4 class="trivia-box-title">if you learn only 3 things about them ...</h4>
-    <ul>
-        
-        <li class="trivia-box-item">
-            It is very rarely seen!
-        </li>
-        
-        <li class="trivia-box-item">
-            It is carnivorous. Its prey include smaller snails living beneath the sand.
-        </li>
-        
-        <li class="trivia-box-item">
-            It is threatened by over-collection as food and for it shell.
-        </li>
-        
-    </ul>
-</div>
-        
-      </section>
 
-      
-      <section>
-        <h2>Sightings of Baler volute on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=9100&verifiable=any">iNaturalist</a></h2>
-        <div id="map" style="height:400px"></div>
-      </section>
-      
         
-        <section>
+          <section>
+            <h2 id="inat" label="Sightings">Sightings of Baler volute on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=9100&verifiable=any">iNaturalist</a></h2>
+            <div id="map" style="height:400px"></div>
+          </section>
+        
             
+            <section>
+                
 
 
 
@@ -461,9 +467,10 @@ for free download</li>
     
 
 </div>
-        </section>
-        <section>
-            <p><strong>Links</strong></p>
+            </section>
+            <section>
+                <h3 id="links">Links</h3>
+
 <ul>
   <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/144">Melon or Baler Shell ( <em>Cymbium melo</em>
 )</a>
@@ -481,7 +488,8 @@ in SeaLife Base: Technical fact sheet.</li>
 on the Food and Agriculture Organization of the United Nations (FAO) website.</li>
 </ul>
 
-<p><strong>References</strong></p>
+<h3 id="references">References</h3>
+
 <ul>
   <li>Spencer Yau Jia Ming &amp; Low Si Hui. 31 August 2020.
 <em>Baler volute at Changi Beach</em>
@@ -500,18 +508,24 @@ on the Food and Agriculture Organization of the United Nations (FAO) website.</l
 . Nature Society (Singapore). 285 pp.</li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -625,6 +639,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->

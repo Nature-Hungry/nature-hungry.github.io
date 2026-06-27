@@ -218,7 +218,15 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>Small ones are sometimes seen on our undisturbed reefs, under rocks and rubble.</p>
 
@@ -287,8 +295,9 @@
 
 <p>Temperate climate species grow much larger than tropical species, and are harvested for their shell, used for shell crafts, and the animal is eaten as a delicacy in Asia. Due to the high value of the animal in the food trade, even smaller tropical species are threatened with over collection.</p>
 
-<p><strong>Status and threats:</strong>
-Some of our Abalone species are listed as ‘Endangered’ on the Red List of threatened animals of Singapore. Due to the loss of natural rocky shores with crevices where they thrive. Seawalls do not appear to be a viable alternative habitat for this animal.</p>
+<p>## Status and threats</p>
+
+<p>Some of our Abalone species are listed as ‘Endangered’ on the Red List of threatened animals of Singapore. Due to the loss of natural rocky shores with crevices where they thrive. Seawalls do not appear to be a viable alternative habitat for this animal.</p>
 
 <hr />
 
@@ -400,19 +409,16 @@ from Tan Siong Kiat and Henrietta P. M. Woo, 2010
 
 <hr />
 
-        </div>
-        
-      </section>
 
-      
-      <section>
-        <h2>Sightings of Abalone on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=86122&verifiable=any">iNaturalist</a></h2>
-        <div id="map" style="height:400px"></div>
-      </section>
-      
         
-        <section>
+          <section>
+            <h2 id="inat" label="Sightings">Sightings of Abalone on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=86122&verifiable=any">iNaturalist</a></h2>
+            <div id="map" style="height:400px"></div>
+          </section>
+        
             
+            <section>
+                
 
 
 
@@ -420,9 +426,10 @@ from Tan Siong Kiat and Henrietta P. M. Woo, 2010
     
 
 </div>
-        </section>
-        <section>
-            <p><strong>Links</strong></p>
+            </section>
+            <section>
+                <h3 id="links">Links</h3>
+
 <ul>
   <li><a href="https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=442"><em>Haliotis asinina</em></a>
 and
@@ -436,7 +443,8 @@ at Washington State University Tri-Cities Natural History Museum website: brief 
 on SeaLife Base: Technical fact sheet.</li>
 </ul>
 
-<p><strong>References</strong></p>
+<h3 id="references">References</h3>
+
 <ul>
   <li>Tan Siong Kiat and Henrietta P. M. Woo, 2010
 <em>Preliminary Checklist of The Molluscs of Singapore</em>
@@ -449,18 +457,24 @@ on SeaLife Base: Technical fact sheet.</li>
 . Nature Society (Singapore). 285 pp.</li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -574,6 +588,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->

@@ -211,7 +211,15 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>This colony of tiny animals is seen on our Southern shores, but is often overlooked. The colony grows on stones and hard surfaces, including litter on the shores!
 <em>Briareum stechei</em>
@@ -221,8 +229,9 @@ might be the accepted current name.</p>
 
 <p>Colony about 10-15cm, sometimes much larger. Polyps about 1cm in diameter, on stalks about 1cm long emerging from low to tubular mounds (calyces). The eight skinny tentacles have short thin brown branches in 1 row on both sides of each tentacle. Oral disk and tentacles white, greenish or bluish. The polyps emerge through calyces embedded in a common tissue that encrusts hard surfaces. The polyps don’t pulsate and can slowly retract completely leaving only the calyces which leave a bumpy surface on the common tissue. The tissue is mangenta purple due to the colour of the sclerites (tiny spikes of calcium carbonate). The animals harbour symbiotic algae (zooxanthellae) and is thus more common in clearer waters.</p>
 
-<p><strong>Status and threats:</strong>
-There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.</p>
+<p>## Status and threats</p>
+
+<p>There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.</p>
 
 <div class="img-wrap-group">
     
@@ -369,14 +378,11 @@ for free download</li>
 
 <hr />
 
-        </div>
-        
-      </section>
 
-      
         
-        <section>
             
+            <section>
+                
 
 
 
@@ -384,9 +390,10 @@ for free download</li>
     
 
 </div>
-        </section>
-        <section>
-            <p><strong>Links</strong></p>
+            </section>
+            <section>
+                <h3 id="links">Links</h3>
+
 <ul>
   <li>
     <dl>
@@ -402,7 +409,8 @@ for free download</li>
 on SeaLife Base: Technical fact sheet.</li>
 </ul>
 
-<p><strong>References</strong></p>
+<h3 id="references">References</h3>
+
 <ul>
   <li>Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024.
 <em>The Singapore Red Data Book: Threatened plants and animals of Singapore</em>
@@ -412,18 +420,24 @@ on SeaLife Base: Technical fact sheet.</li>
 . Australian Institute of Marine Science and the Museum and Art Gallery of the Northern Territoriy. 264 pp.</li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -537,6 +551,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->

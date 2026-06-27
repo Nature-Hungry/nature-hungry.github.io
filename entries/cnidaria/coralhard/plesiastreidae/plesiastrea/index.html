@@ -15,9 +15,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>Pock-marked  coral -  Nature Hungry</title>
+  <title>Pock-marked coral -  Nature Hungry</title>
   
-  <meta name="description" content="Fact sheet of Pock-marked  coral on the shores of Singapore">
+  <meta name="description" content="Fact sheet of Pock-marked coral on the shores of Singapore">
   
   
   <meta name="keywords" content="coral, hard, plesiastrea, versipora, plesiastreidae, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
@@ -178,7 +178,7 @@
                     >
                     <a href="/Cnidaria/Anthozoa/Scleractinia//Plesiastreidae">Plesiastreidae</a>
                 </p>
-                <h1>Pock-marked  coral</h1>
+                <h1>Pock-marked coral</h1>
                 
                     <p class="scientific-name">Plesiastrea versipora</p>
                 
@@ -211,7 +211,15 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>These hard corals pock-marked with circular corallites are more often seen on our Northern shores. Usually not common. Elsewhere, they grow in shaded areas such as overhangs. It was previously placed in Family Plesiastreidae but now placed in “Scleractinia incertae sedis (Family)” which means a taxonomic group where its broader relationships are unknown or undefined.</p>
 
@@ -351,19 +359,16 @@ Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
 
 </div>
 
-        </div>
-        
-      </section>
 
-      
-      <section>
-        <h2>Sightings of Pock-marked  coral on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=503821&verifiable=any">iNaturalist</a></h2>
-        <div id="map" style="height:400px"></div>
-      </section>
-      
         
-        <section>
+          <section>
+            <h2 id="inat" label="Sightings">Sightings of Pock-marked coral on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=503821&verifiable=any">iNaturalist</a></h2>
+            <div id="map" style="height:400px"></div>
+          </section>
+        
             
+            <section>
+                
 
 
 
@@ -371,12 +376,13 @@ Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
     
 
 </div>
-        </section>
-        <section>
-            <p><strong>Links</strong></p>
+            </section>
+            <section>
+                <h3 id="links">Links</h3>
+
 <ul>
   <li>
-    <p><a href="http://coral.aims.gov.au/factsheet.jsp?speciesCode=0306"><em>Plesiastrea versipora</em></a>on Corals of the World online on the Australian Institute of Marine Science website: Technical fact sheet.</p>
+    <p><a href="http://coral.aims.gov.au/factsheet.jsp?speciesCode=0306"><em>Plesiastrea versipora</em></a>on corals of the World online on the Australian Institute of Marine Science website: Technical fact sheet.</p>
   </li>
   <li>
     <p><a href="http://www.iucnredlist.org/details/133284/0"><em>Plesiastrea versipora</em></a>on the IUCN Red List of Threatened Species website: Technical fact sheet.</p>
@@ -389,7 +395,8 @@ Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
   </li>
 </ul>
 
-<p><strong>References</strong></p>
+<h3 id="references">References</h3>
+
 <ul>
   <li>
     <p>Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.<em>An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records</em>(pdf). Raffles Bulletin of Zoology Supplement No. 22: 69-80.</p>
@@ -408,18 +415,24 @@ Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
   </li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -533,6 +546,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->

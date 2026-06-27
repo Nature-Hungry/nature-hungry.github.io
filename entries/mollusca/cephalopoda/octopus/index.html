@@ -210,7 +210,38 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+        <fieldset class="trivia-box">
+    <legend class="trivia-box-title">if you learn only 3 things about them ..</legend>
+    <ul>
+        
+        <li class="trivia-box-item">
+            Octopuses are common on many of our shores
+        </li>
+        
+        <li class="trivia-box-item">
+            They are just hard to spot
+        </li>
+        
+        <li class="trivia-box-item">
+            They are among the most intelligent of invertebrates
+        </li>
+        
+        <li class="trivia-box-item">
+            They can bite. Don't touch them!
+        </li>
+        
+    </ul>
+</fieldset>
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>Most people are surprised to hear that octopuses are quite commonly encountered on many of our shores. Even the most ‘beat up’ looking shore eventually turns up a resident. They are generally more common in areas with coral rubble, but may also be seen in seagrass areas. You need patience and some experience, however, to spot an octopus. These marvellous masters of camouflage are shy and generally only active at night. During the day, they are often well hidden in some cosy den. Some octopuses seen are as large as 1m across with their arms outstretched. Others are tiny, less than 10cm across.</p>
 
@@ -401,8 +432,9 @@ In bottom-dwelling octopuses, the female looks after her eggs; keeping them oxyg
 
 <p>Octopuses are widely eaten in Asia. They are caught in many ways, including by lines, in pots or by trawling.</p>
 
-<p><strong>Status and threats:</strong>
-None of our octopuses are listed among the endangered animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors can also affect local populations.</p>
+<p>## Status and threats</p>
+
+<p>None of our octopuses are listed among the endangered animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors can also affect local populations.</p>
 
 <hr />
 
@@ -519,42 +551,16 @@ Common names from
 
 <p>edition. McGraw-Hill Book Co., Singapore. 578 pp.</p>
 
-        </div>
-        
-        <div class="trivia-box">
-    <h4 class="trivia-box-title">if you learn only 3 things about them ..</h4>
-    <ul>
-        
-        <li class="trivia-box-item">
-            Octopuses are common on many of our shores
-        </li>
-        
-        <li class="trivia-box-item">
-            They are just hard to spot
-        </li>
-        
-        <li class="trivia-box-item">
-            They are among the most intelligent of invertebrates
-        </li>
-        
-        <li class="trivia-box-item">
-            They can bite. Don't touch them!
-        </li>
-        
-    </ul>
-</div>
-        
-      </section>
 
-      
-      <section>
-        <h2>Sightings of Octopuses on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=47457&verifiable=any">iNaturalist</a></h2>
-        <div id="map" style="height:400px"></div>
-      </section>
-      
         
-        <section>
+          <section>
+            <h2 id="inat" label="Sightings">Sightings of Octopuses on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=47457&verifiable=any">iNaturalist</a></h2>
+            <div id="map" style="height:400px"></div>
+          </section>
+        
             
+            <section>
+                
 
 
 
@@ -562,9 +568,10 @@ Common names from
     
 
 </div>
-        </section>
-        <section>
-            <p><strong>Links</strong></p>
+            </section>
+            <section>
+                <h3 id="links">Links</h3>
+
 <ul>
   <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/168">Octopus</a>
 Tan, Leo W. H. &amp; Ng, Peter K. L., 1988.
@@ -599,7 +606,8 @@ website: Kimberley Sander explains how this can be done quickly by an octopus, w
   <li><a href="http://wildshores.blogspot.com/2009/12/cocopod-when-octopus-meets-coconut.html">Cocopod: when octopus meets coconut</a></li>
 </ul>
 
-<p><strong>References</strong></p>
+<h3 id="references">References</h3>
+
 <ul>
   <li>Diah Anggraini Saraswati, Carsten V. Steffensen &amp; Zeehan Jaafar. 5 December 2014.
 <em>New record of mimic octopus in Singapore, Thaumoctopus mimicus</em>
@@ -630,18 +638,24 @@ Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963</li>
 . 5</li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -755,6 +769,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->

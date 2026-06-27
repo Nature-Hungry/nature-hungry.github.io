@@ -198,7 +198,38 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+        <fieldset class="trivia-box">
+    <legend class="trivia-box-title">if you learn only 3 things about them ..</legend>
+    <ul>
+        
+        <li class="trivia-box-item">
+            They belong to the second largest family of fishes after gobies
+        </li>
+        
+        <li class="trivia-box-item">
+            Young fish may look very different from adults
+        </li>
+        
+        <li class="trivia-box-item">
+            Some can give a nasty bite
+        </li>
+        
+        <li class="trivia-box-item">
+            Don't touch them!
+        </li>
+        
+    </ul>
+</fieldset>
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>These colourful fishes are sometimes seen on many of our shores. Among the more colourful little fishes to be seen in tide pools at low tide, wrasses are nevertheless often overlooked as they are often well hidden. Many are active during the day, sheltering during the night in hiding places. Small ones may burrow into sand.</p>
 
@@ -268,8 +299,9 @@ Wrasses can change their gender! Most wrasses grow to become females first. A fe
 
 <p>Being colourful and lively, wrasses of various kinds are extensively harvested from the wild for the live aquarium trade. Some large ones are harvested as food. The Napolean wrasse (<em>Cheilinus undulatus</em>) is a large fish that is being over-collected as a luxury food item for the Chinese market. These gentle, intelligent fishes can live for 50 years and reach up to 180kgs. Unsustainable harvesting of these fishes may doom them to extinction.</p>
 
-<p><strong>Status and threats:</strong>
-None of our wrasses are listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Over-collection can also impact on local populations.</p>
+<p>## Status and threats</p>
+
+<p>None of our wrasses are listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Over-collection can also impact on local populations.</p>
 
 <p>Elsewhere, harvesting of wrasses large and small may involve the use of cyanide or blasting, which damage the habitat and kill many other creatures. Like other fish and creatures harvested for the live aquarium trade, most die before they can reach the retailers. Without professional care, most die soon after they are sold. Those that do survive are unlikely to breed.</p>
 
@@ -443,42 +475,16 @@ sp.</a>
 
 <hr />
 
-        </div>
-        
-        <div class="trivia-box">
-    <h4 class="trivia-box-title">if you learn only 3 things about them ..</h4>
-    <ul>
-        
-        <li class="trivia-box-item">
-            They belong to the second largest family of fishes after gobies
-        </li>
-        
-        <li class="trivia-box-item">
-            Young fish may look very different from adults
-        </li>
-        
-        <li class="trivia-box-item">
-            Some can give a nasty bite
-        </li>
-        
-        <li class="trivia-box-item">
-            Don't touch them!
-        </li>
-        
-    </ul>
-</div>
-        
-      </section>
 
-      
-      <section>
-        <h2>Sightings of Wrasses on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=49284&verifiable=any">iNaturalist</a></h2>
-        <div id="map" style="height:400px"></div>
-      </section>
-      
         
-        <section>
+          <section>
+            <h2 id="inat" label="Sightings">Sightings of Wrasses on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=49284&verifiable=any">iNaturalist</a></h2>
+            <div id="map" style="height:400px"></div>
+          </section>
+        
             
+            <section>
+                
 
 
 
@@ -486,9 +492,9 @@ sp.</a>
     
 
 </div>
-        </section>
-        <section>
-            <p><strong>Links</strong></p>
+            </section>
+            <section>
+                <h3 id="links">Links</h3>
 <ul>
   <li>Lim, Kelvin K. P. &amp; Jeffrey K. Y. Low, 1998.
 <em><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/">A Guide to the Common Marine Fishes of Singapore</a></em>
@@ -502,7 +508,7 @@ on the endangered members of the Family Labridae with latest Red List for this g
 FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.</li>
 </ul>
 
-<p><strong>References</strong></p>
+<h3 id="references">References</h3>
 <ul>
   <li>Adib Adris &amp; Vincent Ting. 29 May 2020.
 <em>Floral wrasse at Seringat-Kias</em>
@@ -566,18 +572,24 @@ Periplus Editions. 400pp.</li>
 BBC Worldwide, London. 224 pp.</li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -691,6 +703,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->

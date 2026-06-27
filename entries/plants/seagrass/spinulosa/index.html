@@ -215,7 +215,34 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+        <fieldset class="trivia-box">
+    <legend class="trivia-box-title">if you learn only 3 things about them ..</legend>
+    <ul>
+        
+        <li class="trivia-box-item">
+            It is made of up little leaflets
+        </li>
+        
+        <li class="trivia-box-item">
+            It is most commonly seen on Chek Jawa, but rarely seen elsewhere
+        </li>
+        
+        <li class="trivia-box-item">
+            It is eaten by dugongs.
+        </li>
+        
+    </ul>
+</fieldset>
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>The seagrass is sometimes seen in small patches on some of our Northern shores. But on Chek Jawa and some parts of Changi, it forms extensive meadows. The
 <a href="http://www.naturia.per.sg/cjsurvey/vegetative/text/halophila%20spinulosa">preliminary results of a transact survey</a>
@@ -238,8 +265,9 @@ Fern seagrass has separate male and female plants. The flowers form at the junct
 <h2 id="role-in-habitat">Role in habitat</h2>
 <p>Dugongs are known to graze on this seagrass.</p>
 
-<p><strong>Status and threats:</strong>
-It is listed as ‘Critically Endangered’ on the Red List of threatened plants of Singapore.</p>
+<p>## Status and threats</p>
+
+<p>It is listed as ‘Critically Endangered’ on the Red List of threatened plants of Singapore.</p>
 
 <p><em><img src="https://images.naturehungry.sg/plants/seagrass/spinulosa/080412cjd1263m6l.jpg" alt="" /></em>
 Fern seagrass sometimes grows right up</p>
@@ -322,38 +350,16 @@ for free download from
 
 <hr />
 
-        </div>
-        
-        <div class="trivia-box">
-    <h4 class="trivia-box-title">if you learn only 3 things about them ..</h4>
-    <ul>
-        
-        <li class="trivia-box-item">
-            It is made of up little leaflets
-        </li>
-        
-        <li class="trivia-box-item">
-            It is most commonly seen on Chek Jawa, but rarely seen elsewhere
-        </li>
-        
-        <li class="trivia-box-item">
-            It is eaten by dugongs.
-        </li>
-        
-    </ul>
-</div>
-        
-      </section>
 
-      
-      <section>
-        <h2>Sightings of Fern seagrass  on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=50374&verifiable=any">iNaturalist</a></h2>
-        <div id="map" style="height:400px"></div>
-      </section>
-      
         
-        <section>
+          <section>
+            <h2 id="inat" label="Sightings">Sightings of Fern seagrass  on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=50374&verifiable=any">iNaturalist</a></h2>
+            <div id="map" style="height:400px"></div>
+          </section>
+        
             
+            <section>
+                
 
 
 
@@ -361,9 +367,10 @@ for free download from
     
 
 </div>
-        </section>
-        <section>
-            <p><strong>Links</strong></p>
+            </section>
+            <section>
+                <h3 id="links">Links</h3>
+
 <ul>
   <li>McKenzie, L.J., Yaakub, S.M., and Yoshida, R.L. (2007).
 <em><a href="http://www.seagrasswatch.org/Training/proceedings/TeamSeagrass_Singapore_workshop_Mar07.pdf">Seagrass-Watch: Guidelines for TeamSeagrass Singapore Participants</a></em>
@@ -372,7 +379,8 @@ for free download from
 on the Seagrass-Watch website.</li>
 </ul>
 
-<p><strong>References</strong></p>
+<h3 id="references">References</h3>
+
 <ul>
   <li>Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 <em>The Singapore Red Data Book: Threatened plants and animals of Singapore</em>
@@ -391,18 +399,24 @@ on the Seagrass-Watch website.</li>
 Singapore University Press. 215 pp.</li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -516,6 +530,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->

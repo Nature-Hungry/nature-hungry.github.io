@@ -241,7 +241,15 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>This large long black sea cucumber is commonly seen on our reefy Southern shores. The animal usually hides most of its body under large boulders or rocks, with only the front feeding end sticking out. Elsewhere, it is considered a very common species, sometimes found in high densities, in reefs, seagrass meadows, sandy and muddy bottoms with rubble or reefs, from shallow areas to 10m deep.</p>
 
@@ -307,8 +315,9 @@ This sea cucumber is said to be a host to the pearl fish
 
 <p>This sea cucumber does not have high commercial value and is not harvested for the food trade nor live aquarium trade, because of its thin skin and tendency to produce Cuvierian tubules when stressed. But there seems to be many studies investigating their biochemical properties.</p>
 
-<p><strong>Status and threats:</strong>
-This sea cucumber is listed as ‘Vulnerable’ on the Red List of threatened animals in Singapore. Although globally, according to the FAO, “it has one of the broadest distributions of all holothurians, and it can be found in most tropical localities in the western central Pacific, Asia and most Indian Ocean regions”</p>
+<p>## Status and threats</p>
+
+<p>This sea cucumber is listed as ‘Vulnerable’ on the Red List of threatened animals in Singapore. Although globally, according to the FAO, “it has one of the broadest distributions of all holothurians, and it can be found in most tropical localities in the western central Pacific, Asia and most Indian Ocean regions”</p>
 
 <hr />
 
@@ -485,19 +494,16 @@ on
 
 </div>
 
-        </div>
-        
-      </section>
 
-      
-      <section>
-        <h2>Sightings of Black long sea cucumber  on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=195758&verifiable=any">iNaturalist</a></h2>
-        <div id="map" style="height:400px"></div>
-      </section>
-      
         
-        <section>
+          <section>
+            <h2 id="inat" label="Sightings">Sightings of Black long sea cucumber  on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=195758&verifiable=any">iNaturalist</a></h2>
+            <div id="map" style="height:400px"></div>
+          </section>
+        
             
+            <section>
+                
 
 
 
@@ -505,15 +511,16 @@ on
     
 
 </div>
-        </section>
-        <section>
-            <p><strong>Links</strong></p>
+            </section>
+            <section>
+                <h3 id="links">Links</h3>
+
 <ul>
   <li>
     <p><em><a href="https://singapore.biodiversity.online/taxo4254/mainSpace/Holothuria%20leucospilota.html">Holothuria leucospilota</a></em>(Aspidochirotida: Holothuriidae) Black Sea Cucumber by Hazel Peh Huiqi, 2014, on taxo4254</p>
   </li>
   <li>
-    <p><em><a href="http://coralreef.nus.edu.sg/gallery/ot045.htm">Holothuria leucospilota</a></em>on the Coral Reefs of Singapore website: photo and brief facts</p>
+    <p><em><a href="http://coralreef.nus.edu.sg/gallery/ot045.htm">Holothuria leucospilota</a></em>on the coral Reefs of Singapore website: photo and brief facts</p>
   </li>
   <li>
     <p><a href="http://www.sealifebase.org/summary/Holothuria-leucospilota.html"><em>Holothuria leucospilota</em>(White threads fish)</a>on SeaLife Base: Technical fact sheet.</p>
@@ -529,7 +536,8 @@ on
   </li>
 </ul>
 
-<p><strong>References</strong></p>
+<h3 id="references">References</h3>
+
 <ul>
   <li>
     <p>Lane, David J.W. and Didier Vandenspiegel. 2003<em>. A Guide to Sea Stars and Other Echinoderms of Singapore</em>. Singapore Science Centre. 187pp.</p>
@@ -545,18 +553,24 @@ on
   </li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -670,6 +684,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->

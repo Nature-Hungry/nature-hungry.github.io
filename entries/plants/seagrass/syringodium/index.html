@@ -223,7 +223,34 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+        <fieldset class="trivia-box">
+    <legend class="trivia-box-title">if you learn only 3 things about them ..</legend>
+    <ul>
+        
+        <li class="trivia-box-item">
+            This seagrass is rarely seen on our shores
+        </li>
+        
+        <li class="trivia-box-item">
+            It doesn't flower frequently, and the flowers are complex
+        </li>
+        
+        <li class="trivia-box-item">
+            It is eaten by dugongs.
+        </li>
+        
+    </ul>
+</fieldset>
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>This seagrass is abundant on Pulau Semakau, growing among the more dominant
 <a href="enhalus">Tape seagrass</a>
@@ -251,8 +278,9 @@ or
 <em>Halodule</em>
 seagrasses available. So it is also sometimes called Dugong grass.</p>
 
-<p><strong>Status and threats:</strong>
-It is listed as ‘Endangered’ on the Red List of threatened plants of Singapore.</p>
+<p>## Status and threats</p>
+
+<p>It is listed as ‘Endangered’ on the Red List of threatened plants of Singapore.</p>
 
 <p><em><img src="https://images.naturehungry.sg/plants/seagrass/syringodium/050309smkd1462m3.jpg" alt="" /></em></p>
 
@@ -324,38 +352,16 @@ for free download from
 </div>
 <hr />
 
-        </div>
-        
-        <div class="trivia-box">
-    <h4 class="trivia-box-title">if you learn only 3 things about them ..</h4>
-    <ul>
-        
-        <li class="trivia-box-item">
-            This seagrass is rarely seen on our shores
-        </li>
-        
-        <li class="trivia-box-item">
-            It doesn't flower frequently, and the flowers are complex
-        </li>
-        
-        <li class="trivia-box-item">
-            It is eaten by dugongs.
-        </li>
-        
-    </ul>
-</div>
-        
-      </section>
 
-      
-      <section>
-        <h2>Sightings of Noodle seagrass  on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=50375&verifiable=any">iNaturalist</a></h2>
-        <div id="map" style="height:400px"></div>
-      </section>
-      
         
-        <section>
+          <section>
+            <h2 id="inat" label="Sightings">Sightings of Noodle seagrass  on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=50375&verifiable=any">iNaturalist</a></h2>
+            <div id="map" style="height:400px"></div>
+          </section>
+        
             
+            <section>
+                
 
 
 
@@ -363,9 +369,10 @@ for free download from
     
 
 </div>
-        </section>
-        <section>
-            <p><strong>Links</strong></p>
+            </section>
+            <section>
+                <h3 id="links">Links</h3>
+
 <ul>
   <li>McKenzie, L.J., Yaakub, S.M., and Yoshida, R.L. (2007).
 <em><a href="http://www.seagrasswatch.org/Training/proceedings/TeamSeagrass_Singapore_workshop_Mar07.pdf">Seagrass-Watch: Guidelines for TeamSeagrass Singapore Participants</a></em>
@@ -374,7 +381,8 @@ for free download from
 on the Seagrass-Watch website.</li>
 </ul>
 
-<p><strong>References</strong></p>
+<h3 id="references">References</h3>
+
 <ul>
   <li>Waycott, Michelle (et. al). 2004.
 <em>A Guide to Tropical Seagrasses of the Indo-West Pacific.</em>
@@ -393,18 +401,24 @@ Singapore University Press. 215 pp.</li>
 . Nature Society (Singapore). 285 pp.</li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -518,6 +532,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->

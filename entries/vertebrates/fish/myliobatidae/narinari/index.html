@@ -212,7 +212,15 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>Sometimes seen on our reefy Southern shores, including partially enclosed lagoons at Tanah Merah and Sentosa. Elsewhere, the Eagle ray is associated with reefs, sometimes entering estuaries. It may swim close to the surface, occasionally leaping out of the water. It may also swim close to the bottom. It sometimes form large schools during non-breeding season. It is found almost worldwide in tropical waters, and some believe there may be as many as four species of spotted eagle ray.</p>
 
@@ -261,8 +269,9 @@ It feeds on clams but also eats shrimps, crabs, octopus, worms, snails and small
 <h2 id="human-uses">Human uses</h2>
 
 <p>The fish is eaten by humans and the tail is sometimes used as a decorative item. It is commonly caught in trawl nets and gillnets.
-<strong>Status and threats:</strong>
-Although the Eagle ray is not listed in Singapore’s Red List, on the international IUCN Red List it is classified as Near Threatened. The fish naturally reproduces slowly and is threatened mainly by overfishing</p>
+ ## Status and threats</p>
+
+<p>Although the Eagle ray is not listed in Singapore’s Red List, on the international IUCN Red List it is classified as Near Threatened. The fish naturally reproduces slowly and is threatened mainly by overfishing</p>
 
 <hr />
 
@@ -325,19 +334,16 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 
 </div>
 
-        </div>
-        
-      </section>
 
-      
-      <section>
-        <h2>Sightings of Eagle rays on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=49298&verifiable=any">iNaturalist</a></h2>
-        <div id="map" style="height:400px"></div>
-      </section>
-      
         
-        <section>
+          <section>
+            <h2 id="inat" label="Sightings">Sightings of Eagle rays on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=49298&verifiable=any">iNaturalist</a></h2>
+            <div id="map" style="height:400px"></div>
+          </section>
+        
             
+            <section>
+                
 
 
 
@@ -345,9 +351,10 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
     
 
 </div>
-        </section>
-        <section>
-            <p><strong>Links</strong></p>
+            </section>
+            <section>
+                <h3 id="links">Links</h3>
+
 <ul>
   <li>
     <p><a href="http://www.fishbase.org/summary/FamilySummary.php?ID=22">Family Myliobatidae</a>and<em><a href="http://www.fishbase.org/summary/1250">Aetobatus narinari</a></em><a href="http://www.fishbase.org/summary/1250">(Spotted eagle ray)</a>and<em><a href="http://www.fishbase.org/summary/10120">Aetomylaeus nichofii</a></em><a href="http://www.fishbase.org/summary/10120">(Banded eagle ray)</a>and<a href="http://www.fishbase.org/summary/12594"><em>Aetomylaeus maculatus</em>(Mottled eagle ray)</a>from<a href="http://www.fishbase.org/">FishBase</a>: Technical fact sheets.</p>
@@ -363,7 +370,8 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
   </li>
 </ul>
 
-<p><strong>References</strong></p>
+<h3 id="references">References</h3>
+
 <ul>
   <li>
     <p>Ahmad Lutfi bin Saimin &amp; Tan Heok Hui. 30 November 2020.<em>Spotted eagle rays (Aetobatus ocellatus) at Sentosa</em>. Singapore Biodiversity Records 2020: 209. The National University of Singapore.</p>
@@ -385,18 +393,24 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
   </li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -510,6 +524,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->

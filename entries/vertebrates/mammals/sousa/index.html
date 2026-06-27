@@ -211,7 +211,15 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>These marvellous creatures are still regularly sighted in the waters of our Southern Islands. According to Davison, these dolphins have been observed among our Southern Islands in the Singapore Straits, as well as near our northern shores in the Johor Straits. Globally, they are found in Africa, Asia and Australia, in seas, estuaries and river mouths. They have been seen in freshwater and upstream in large rivers.</p>
 
@@ -266,8 +274,9 @@ Feeds mainly on fish, as well as cephalopods (octopus, squid and cuttlefish).</p
 <p><strong>Dolphin babies:</strong>
 Baby dolphins are about 100cm long at birth and suckle on their mother’s milk for about two years.</p>
 
-<p><strong>Status and threats:</strong>
-This dolphin is listed as ‘Endangered’ in the Red List of threatened animals of Singapore. Like many other marine mammals, these dolphins are threatened by drowning in fishing lines and fishing nets. They are also affected by pollution and loss of feeding habitats due to reclamation, coastal development and human activities on our coasts and seas.</p>
+<p>## Status and threats</p>
+
+<p>This dolphin is listed as ‘Endangered’ in the Red List of threatened animals of Singapore. Like many other marine mammals, these dolphins are threatened by drowning in fishing lines and fishing nets. They are also affected by pollution and loss of feeding habitats due to reclamation, coastal development and human activities on our coasts and seas.</p>
 
 <hr />
 
@@ -276,19 +285,16 @@ of dolphins on Singapore shores</p>
 
 <hr />
 
-        </div>
-        
-      </section>
 
-      
-      <section>
-        <h2>Sightings of Indo-Pacific hump-backed dolphin on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=469961&verifiable=any">iNaturalist</a></h2>
-        <div id="map" style="height:400px"></div>
-      </section>
-      
         
-        <section>
+          <section>
+            <h2 id="inat" label="Sightings">Sightings of Indo-Pacific hump-backed dolphin on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=469961&verifiable=any">iNaturalist</a></h2>
+            <div id="map" style="height:400px"></div>
+          </section>
+        
             
+            <section>
+                
 
 
 
@@ -296,9 +302,9 @@ of dolphins on Singapore shores</p>
     
 
 </div>
-        </section>
-        <section>
-            <p><strong>Links</strong></p>
+            </section>
+            <section>
+                <h3 id="links">Links</h3>
 <ul>
   <li><em><a href="https://singapore.biodiversity.online/taxo4254/mainSpace/Sousa%20Chinensisl">Sousa chinensis</a></em> (Cetartiodactyla: Delphinidae) Indo-Pacific Humpbacked Dolphin by Yang Jia Qi, 2015, on taxo4254.</li>
   <li><a href="http://wildshores.blogspot.sg/2015/04/support-acres-effort-for-wild-dolphinsl">Support ACRES effort for wild dolphins in Singapore</a> on the wild shores of singapore blog.</li>
@@ -311,7 +317,7 @@ media reports on dolphins</a> on the wildsingapore news blog.</li>
 Wild Marine Mammal Survey</a> (SWiMMS)</li>
 </ul>
 
-<p><strong>References</strong></p>
+<h3 id="references">References</h3>
 <ul>
   <li>Benjamin P. Y-H. Lee &amp; Michelle Ooi. 30 June 2020. <em>Indo-Pacific humpback dolphins near Jurong Island</em>. Singapore Biodiversity Records 2020: 84-85 ISSN 2345-7597</li>
   <li>Teresa Stephanie Tay &amp; Rene Ong. 10 October 2014. <em>Indo-Pacific humpback dolphins off Lazarus Island, Sousa chinensis</em>. Singapore Biodiversity Records 2014: 275.</li>
@@ -328,18 +334,24 @@ Marine Mammals of the World</em>. The Johns Hopkins University
 Press. 263 pp.</li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -453,6 +465,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->

@@ -218,7 +218,15 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>This very rare plant can be seen from the Sungei Buloh Wetland Reserve mangrove boardwalk. According to Hsuan Keng, it was found on sandy beaches including Kranji, Katong and Pulau Brani. Elsewhere it is also uncommon or rare, and was found in wet coastal communities and has been recorded in mangroves, back mangroves and along tidal rivers. From the Andaman Islands through the Malay Peninsula to northern Sumatra, Borneo and Sulawesi. It was known as
 <em>Elaeodendron subrotundum</em>
@@ -238,8 +246,9 @@
 
 <p>According to Giersen, the husk of the fruit is said to be used to stupefy fish. It is also used as firewood.</p>
 
-<p><strong>Status and threats:</strong>
-This plant is listed as ‘Critically Endangered’ in the Red List of threatened plants of Singapore. It is threatened by habitat loss and oil spills.</p>
+<p>## Status and threats</p>
+
+<p>This plant is listed as ‘Critically Endangered’ in the Red List of threatened plants of Singapore. It is threatened by habitat loss and oil spills.</p>
 
 <p>*<img src="https://images.naturehungry.sg/plants/mangrove/cassine/cassine/090905sbwrd0165m6l.jpg" alt="" /></p>
 
@@ -315,14 +324,11 @@ for free download from
 
 <hr />
 
-        </div>
-        
-      </section>
 
-      
         
-        <section>
             
+            <section>
+                
 
 
 
@@ -330,9 +336,10 @@ for free download from
     
 
 </div>
-        </section>
-        <section>
-            <p><strong>Links</strong></p>
+            </section>
+            <section>
+                <h3 id="links">Links</h3>
+
 <ul>
   <li><a href="https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=6281"><em>Cassine viburnifolia</em></a>
 on The Total Vascular Flora of Singapore Online: photos and fact sheet.</li>
@@ -343,7 +350,8 @@ on the NParks Flora and Fauna website: photos and fact sheet.</li>
 (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.</li>
 </ul>
 
-<p><strong>References</strong></p>
+<h3 id="references">References</h3>
+
 <ul>
   <li>Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 <em>The Concise Flora of Singapore: Gymnosperms and Dicotyledons</em>
@@ -359,18 +367,24 @@ Cambridge University Press. USA. 419 pp.</li>
 . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.</li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -484,6 +498,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->

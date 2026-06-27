@@ -218,7 +218,30 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+        <fieldset class="trivia-box">
+    <legend class="trivia-box-title">if you learn only 3 things about them ..</legend>
+    <ul>
+        
+        <li class="trivia-box-item">
+            Nerite snails can be very common on our rocky shores
+        </li>
+        
+        <li class="trivia-box-item">
+            They lay their eggs in pools and among small stones, watch your step! The shell's features protect them in the harsh dry area where they live.
+        </li>
+        
+    </ul>
+</fieldset>
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>These snails with thick, rounded shells are common in our mangroves and rocky shores. Some colourful nerites are hard to spot as they blend well with the equally colourful rocks they are found on. They are usually immobile at low tide during the day. At night and on a cool wet day, you might see them creeping about. Tan and Clements based on surveys of 31 sites over a period of 10 years reveals 19 species with 6 new records for Singapore!</p>
 
@@ -307,8 +330,9 @@ Nerites have separate genders and engage in internal fertilisation. They have a 
 
 <p>They are gathered as food by coastal dwellers. Some species of nerites are eaten raw or toasted. The shell is also used in shell craft.</p>
 
-<p><strong>Status and threats:</strong>
-The tiny and beautifully marked
+<p>## Status and threats</p>
+
+<p>The tiny and beautifully marked
 <a href="oualaniensis">Dubious nerite snails</a>
 (<em>Clithon oulaniensis</em>) and
 <a href="polita">Polished nerite</a>
@@ -501,34 +525,16 @@ Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 
 </div>
 
-        </div>
-        
-        <div class="trivia-box">
-    <h4 class="trivia-box-title">if you learn only 3 things about them ..</h4>
-    <ul>
-        
-        <li class="trivia-box-item">
-            Nerite snails can be very common on our rocky shores
-        </li>
-        
-        <li class="trivia-box-item">
-            They lay their eggs in pools and among small stones, watch your step! The shell's features protect them in the harsh dry area where they live.
-        </li>
-        
-    </ul>
-</div>
-        
-      </section>
 
-      
-      <section>
-        <h2>Sightings of Nerite snails  on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=50760&verifiable=any">iNaturalist</a></h2>
-        <div id="map" style="height:400px"></div>
-      </section>
-      
         
-        <section>
+          <section>
+            <h2 id="inat" label="Sightings">Sightings of Nerite snails  on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=50760&verifiable=any">iNaturalist</a></h2>
+            <div id="map" style="height:400px"></div>
+          </section>
+        
             
+            <section>
+                
 
 
 
@@ -536,9 +542,9 @@ Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
     
 
 </div>
-        </section>
-        <section>
-            <p><strong>Links</strong></p>
+            </section>
+            <section>
+                <h3 id="links">Links</h3>
 <ul>
   <li>
     <p><a href="http://mangrove.nus.edu.sg/guidebooks/text/2078.htm">Common nerite (<em>Nerita lineata</em>)</a>and<a href="http://mangrove.nus.edu.sg/guidebooks/text/2079.htm">Violet nerite (<em>Dostia violacea</em>)</a>Ng, Peter K. L. &amp; N. Sivasothi, 1999.<em><a href="http://mangrove.nus.edu.sg/guidebooks/">A Guide to the Mangroves of Singapore II (Animal Diversity)</a></em>. Singapore Science Centre. 168 pp.</p>
@@ -554,7 +560,7 @@ Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
   </li>
 </ul>
 
-<p><strong>References</strong></p>
+<h3 id="references">References</h3>
 <ul>
   <li>
     <p>Chan Sow-Yan &amp; Lau Wing Lup. 30 October 2020.<em>Disruption in shell colour patterns of nerite snails</em>. Singapore Biodiversity Records 2020: 181-182. The National University of Singapore.</p>
@@ -585,18 +591,24 @@ Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
   </li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -710,6 +722,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->

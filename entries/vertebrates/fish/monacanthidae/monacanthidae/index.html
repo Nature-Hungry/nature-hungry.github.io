@@ -218,7 +218,38 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+        <fieldset class="trivia-box">
+    <legend class="trivia-box-title">if you learn only 3 things about them ..</legend>
+    <ul>
+        
+        <li class="trivia-box-item">
+            They can change colours and patterns to match the surroundings
+        </li>
+        
+        <li class="trivia-box-item">
+            They have a stiff dorsal spine and leathery skin instead of scales
+        </li>
+        
+        <li class="trivia-box-item">
+            Small ones (2-3cm) are common in seagrasses
+        </li>
+        
+        <li class="trivia-box-item">
+            Watch your step!
+        </li>
+        
+    </ul>
+</fieldset>
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>These strange-looking fishes are quite commonly seen on many of our shores, especially in areas with seagrasses and among coral rubble. They can be quite large but are hard to spot as they blend in well with their surroundings. Some tiny filefishes are hardly bigger than a seagrass leaf and are often the same colour as the seagrasses! So do watch your step to avoid squashing these small fishes.</p>
 
@@ -296,8 +327,9 @@ Many filefishes lay eggs that settle on the bottom, onto a site prepared and gua
 
 <p>Filefishes are edible and eaten in some traditional dishes. Unlike most other edible fishes which are scaled before we eat them, for filefishes, the rough skin has to be ‘peeled’ off first.</p>
 
-<p><strong>Status and threats:</strong>
-None of our filefishes are listed among the threatened animals of Singapore. However, l
+<p>## Status and threats</p>
+
+<p>None of our filefishes are listed among the threatened animals of Singapore. However, l
 ike other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Over-fishing can also have an impact on local populations.</p>
 
 <hr />
@@ -448,42 +480,16 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 
 <hr />
 
-        </div>
-        
-        <div class="trivia-box">
-    <h4 class="trivia-box-title">if you learn only 3 things about them ..</h4>
-    <ul>
-        
-        <li class="trivia-box-item">
-            They can change colours and patterns to match the surroundings
-        </li>
-        
-        <li class="trivia-box-item">
-            They have a stiff dorsal spine and leathery skin instead of scales
-        </li>
-        
-        <li class="trivia-box-item">
-            Small ones (2-3cm) are common in seagrasses
-        </li>
-        
-        <li class="trivia-box-item">
-            Watch your step!
-        </li>
-        
-    </ul>
-</div>
-        
-      </section>
 
-      
-      <section>
-        <h2>Sightings of Filefishes  on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=47176&verifiable=any">iNaturalist</a></h2>
-        <div id="map" style="height:400px"></div>
-      </section>
-      
         
-        <section>
+          <section>
+            <h2 id="inat" label="Sightings">Sightings of Filefishes  on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=47176&verifiable=any">iNaturalist</a></h2>
+            <div id="map" style="height:400px"></div>
+          </section>
+        
             
+            <section>
+                
 
 
 
@@ -491,9 +497,10 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
     
 
 </div>
-        </section>
-        <section>
-            <p><strong>Links</strong></p>
+            </section>
+            <section>
+                <h3 id="links">Links</h3>
+
 <ul>
   <li>Lim, Kelvin K. P. &amp; Jeffrey K. Y. Low, 1998.
 <em><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/">A Guide to the Common Marine Fishes of Singapore</a></em>
@@ -537,7 +544,8 @@ from Ecology Asia.</li>
 FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.</li>
 </ul>
 
-<p><strong>References</strong></p>
+<h3 id="references">References</h3>
+
 <ul>
   <li>Karenne Tun &amp; Kelvin K. P. Lim.
 <em>Scrawled filefish, Aluterus scriptus, in the Singapore Strait</em>
@@ -559,18 +567,24 @@ New Holland Publishers. 434pp.</li>
 Periplus Editions. 400pp.</li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -684,6 +698,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->

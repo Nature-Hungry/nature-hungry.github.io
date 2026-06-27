@@ -229,7 +229,15 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>A stout anemone that is sometimes seen on our Northern and Southern shores. Usually alone in sand bars and sandy stretches near reefs and seagrasses and in sandy artificial swimming lagoons.</p>
 
@@ -238,8 +246,9 @@
 <p>Diameter 6-8cm. Body column very long (50cm or longer).
 Tentacles very short hardly extending beyond the oral disk. Rows of tiny bumps on the oral disk. Body column pale, smooth with a short row of large circular bumps near the top. It can tuck its oral disk partially into the body column. Colours seen include grey, beige, pink.</p>
 
-<p><strong>Status and threats:</strong>
-There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.</p>
+<p>## Status and threats</p>
+
+<p>There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.</p>
 
 <div class="img-wrap-group">
     
@@ -392,19 +401,16 @@ Grateful thanks to Prof Daphne Fautin for identifiying this anemone.</p>
 . 10 July 2015 The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 44-59.</li>
 </ul>
 
-        </div>
-        
-      </section>
 
-      
-      <section>
-        <h2>Sightings of Very long anemone on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=622560&verifiable=any">iNaturalist</a></h2>
-        <div id="map" style="height:400px"></div>
-      </section>
-      
         
-        <section>
+          <section>
+            <h2 id="inat" label="Sightings">Sightings of Very long anemone on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=622560&verifiable=any">iNaturalist</a></h2>
+            <div id="map" style="height:400px"></div>
+          </section>
+        
             
+            <section>
+                
 
 
 
@@ -412,9 +418,10 @@ Grateful thanks to Prof Daphne Fautin for identifiying this anemone.</p>
     
 
 </div>
-        </section>
-        <section>
-            <p><strong>Links</strong></p>
+            </section>
+            <section>
+                <h3 id="links">Links</h3>
+
 <ul>
   <li><a href="http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Actinoporus&amp;subgenus=&amp;species=elongatus&amp;subspecies=&amp;synseniorid=7473"><em>Actinoporus elongatus</em></a>
 on the
@@ -422,18 +429,24 @@ on the
 website by Dr Daphne Fautin with classification, distribution, biological associations and more.</li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -547,6 +560,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->

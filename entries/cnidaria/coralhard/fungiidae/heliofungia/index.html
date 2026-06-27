@@ -229,7 +229,15 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>This free-living coral with Udon-like tentacles is only commonly seen on some of our undisturbed Southern shores. They are often seen in shallow silty, sandy areas among seagrasses, sometimes wedged among coral rubble. It used to be commonly seen on Beting Bronok in the north. It is the only species in the genus
 <em>Heliofungia</em>
@@ -254,8 +262,9 @@ a sea anemone when its long tentacles obscure the hard skeleton. The hard skelet
 <a href="fungia">Fungia mushroom corals</a>
 but Sunflower mushroom coral can be distinguished by the large, rounded teeth on the skeleton walls.</p>
 
-<p><strong>Status and threats:</strong>
-It is listed as globally Vulnerable
+<p>## Status and threats</p>
+
+<p>It is listed as globally Vulnerable
 <a href="http://www.iucnredlist.org/">by the IUCN</a>
 which says that although “this species is widespread and locally common throughout its range, it is heavily to harvested for aquarium trade and has suffered extensive reduction of coral reef habitat due to a combination of threats.”</p>
 
@@ -445,19 +454,16 @@ for free download</li>
 </div>
 <hr />
 
-        </div>
-        
-      </section>
 
-      
-      <section>
-        <h2>Sightings of Sunflower mushroom coral on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=102420&verifiable=any">iNaturalist</a></h2>
-        <div id="map" style="height:400px"></div>
-      </section>
-      
         
-        <section>
+          <section>
+            <h2 id="inat" label="Sightings">Sightings of Sunflower mushroom coral on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=102420&verifiable=any">iNaturalist</a></h2>
+            <div id="map" style="height:400px"></div>
+          </section>
+        
             
+            <section>
+                
 
 
 
@@ -465,9 +471,10 @@ for free download</li>
     
 
 </div>
-        </section>
-        <section>
-            <p><strong>Links</strong></p>
+            </section>
+            <section>
+                <h3 id="links">Links</h3>
+
 <ul>
   <li><a href="http://www.coralsoftheworld.org/page/home/">Corals of the World</a>
 with species factsheets.</li>
@@ -479,7 +486,8 @@ on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Porta
 on SeaLife Base: Technical fact sheets.</li>
 </ul>
 
-<p><strong>References</strong></p>
+<h3 id="references">References</h3>
+
 <ul>
   <li>Hoeksema, Bert W. and Esther G. L. Koh. 30 Dec 2009.
 <em>Depauration of the mushroom coral fauna (Fungiidae) of Singapore (1860s-2006) in changing reef conditions</em>
@@ -498,18 +506,24 @@ IKAN-Unterwasserachiv, Frankfurt. 305 pp.</li>
 T.F. H Publications. 464 pp</li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -623,6 +637,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->

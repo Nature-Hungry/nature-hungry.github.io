@@ -204,7 +204,34 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+        <fieldset class="trivia-box">
+    <legend class="trivia-box-title">if you learn only 3 things about them ..</legend>
+    <ul>
+        
+        <li class="trivia-box-item">
+            There is no scientific difference between shrimps and prawns
+        </li>
+        
+        <li class="trivia-box-item">
+            Many are well camouflaged, others are buried in the sand, yet others transparent
+        </li>
+        
+        <li class="trivia-box-item">
+            Some live on other animals such as sea anemones and hard corals.
+        </li>
+        
+    </ul>
+</fieldset>
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>Among our favourite seafood, prawns and shrimps come in various sizes and colours. Close observation is needed to appreciate their delicate patterns and colours, and amusing behaviour. Prawns and shrimps are common on almost every shore. However, they are difficult to spot as they are often small, and hide in burrows or just beneath the sand. Even those in plain sight disappear from view as many are nearly transparent. They are adapted for bottom dwelling.</p>
 
@@ -324,9 +351,10 @@ again. larvae juvenile adult</p>
 <p>Shrimps and prawns are relished food by people everywhere. In Asia, shrimps are eaten in many ways. Besides the usual dishes made from whole shrimps, they may also be dried, or made into paste (‘belachan’) or mixtures (‘cincaluk’). Tiny shrimps are used as condiments, and shrimps flavour crackers, balls and other delicacies. While traditional farming and harvesting methods are sustainable, large-scale commercial prawn farms and prawn trawling are more destructive and unsustainable.
 <a href="../../../concepts/prawnfarms">More about prawn farming</a>
 and trawling.
-<strong>**
-**Status and threats:</strong>
-Some of our shrimps and prawns are listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are all affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also have an impact on local populations.</p>
+<em>**</em>
+ ## Status and threats</p>
+
+<p>Some of our shrimps and prawns are listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are all affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also have an impact on local populations.</p>
 
 <hr />
 
@@ -476,38 +504,16 @@ with list of species recorded for Singapore</p>
 
 <hr />
 
-        </div>
-        
-        <div class="trivia-box">
-    <h4 class="trivia-box-title">if you learn only 3 things about them ..</h4>
-    <ul>
-        
-        <li class="trivia-box-item">
-            There is no scientific difference between shrimps and prawns
-        </li>
-        
-        <li class="trivia-box-item">
-            Many are well camouflaged, others are buried in the sand, yet others transparent
-        </li>
-        
-        <li class="trivia-box-item">
-            Some live on other animals such as sea anemones and hard corals.
-        </li>
-        
-    </ul>
-</div>
-        
-      </section>
 
-      
-      <section>
-        <h2>Sightings of Prawns and shrimps on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=51042&verifiable=any">iNaturalist</a></h2>
-        <div id="map" style="height:400px"></div>
-      </section>
-      
         
-        <section>
+          <section>
+            <h2 id="inat" label="Sightings">Sightings of Prawns and shrimps on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=51042&verifiable=any">iNaturalist</a></h2>
+            <div id="map" style="height:400px"></div>
+          </section>
+        
             
+            <section>
+                
 
 
 
@@ -515,9 +521,10 @@ with list of species recorded for Singapore</p>
     
 
 </div>
-        </section>
-        <section>
-            <p><strong>Links</strong></p>
+            </section>
+            <section>
+                <h3 id="links">Links</h3>
+
 <ul>
   <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/179">Belachan Shrimp (Family Sergestidae)</a>
 ,
@@ -539,7 +546,8 @@ Ng, Peter K. L. &amp; N. Sivasothi, 1999.
 . Singapore Science Centre. 168 pp.</li>
 </ul>
 
-<p><strong>References</strong></p>
+<h3 id="references">References</h3>
+
 <ul>
   <li>Wee Y.C. and Peter K. L. Ng. 1994.
 <em>A First Look at Biodiversity in Singapore</em>
@@ -550,18 +558,24 @@ Ng, Peter K. L. &amp; N. Sivasothi, 1999.
   <li>Ong, Jin Eong &amp; Gong, Wooi Khoon (eds.), 2001. The Encyclopedia of Malaysia (Vol. 6): The Seas Didier Millet, Malaysia. 144 pp.</li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -675,6 +689,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->

@@ -223,7 +223,15 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>This elegant large sea star has its stronghold on our Northern shores. Usually seen on soft, silty shores, near seagrass meadows and coral rubble. Usually alone, although sometimes, large numbers can be seen gathered together. It moves rapidly and is usually more active at night. It appears to be seasonal. Sometimes seen in large numbers and then none seen for some time. According to Marsh and Fromont, it is moderately common on sand or mud in Australia.</p>
 
@@ -299,8 +307,9 @@ Sometimes, the large sea star is seen with its central disk raised above the gro
 <p><strong>What does it eat?</strong>
 This sea star appears to be a serious predator! According to Lane, it burrows in soft sediments and feeds on small buried animals such as molluscs and other echinoderms. Coleman has a photo of this sea star eating another sea star! According to Marsh and Fromont, it eats sea stars, sand dollars and heart urchins which are swallowed whole. It also eats clams and snails, crustaceans, worms, brittle stars and sea cucumbers.</p>
 
-<p><strong>Status and threats:</strong>
-According to Lane, the Eight-armed sand star used to be common on our mainland shores. It is now listed as ‘Endangered’ on the Red List of threatened animals in Singapore.</p>
+<p>## Status and threats</p>
+
+<p>According to Lane, the Eight-armed sand star used to be common on our mainland shores. It is now listed as ‘Endangered’ on the Red List of threatened animals in Singapore.</p>
 
 <div class="img-wrap-group">
     
@@ -451,19 +460,16 @@ for free download</li>
 
 </div>
 
-        </div>
-        
-      </section>
 
-      
-      <section>
-        <h2>Sightings of Eight-armed Luidia sea star on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=348321&verifiable=any">iNaturalist</a></h2>
-        <div id="map" style="height:400px"></div>
-      </section>
-      
         
-        <section>
+          <section>
+            <h2 id="inat" label="Sightings">Sightings of Eight-armed Luidia sea star on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=348321&verifiable=any">iNaturalist</a></h2>
+            <div id="map" style="height:400px"></div>
+          </section>
+        
             
+            <section>
+                
 
 
 
@@ -471,9 +477,10 @@ for free download</li>
     
 
 </div>
-        </section>
-        <section>
-            <p><strong>Links</strong></p>
+            </section>
+            <section>
+                <h3 id="links">Links</h3>
+
 <ul>
   <li>
     <p><a href="http://echinoblog.blogspot.sg/2014/04/learning-about-luidia-5-things-about.html">Learning about<em>Luidia</em>! 5 Things about The OTHER Sand Star!</a>by Dr Christopher Mah on Echinoblog</p>
@@ -483,7 +490,8 @@ for free download</li>
   </li>
 </ul>
 
-<p><strong>References</strong></p>
+<h3 id="references">References</h3>
+
 <ul>
   <li>
     <p>Loisette M. Marsh and Jane Fromont.<em>Field Guide to Shallow Water Seastars of Australia</em>. 2020. Western Australian Museum. 543pp.</p>
@@ -508,18 +516,24 @@ for free download</li>
   </li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -633,6 +647,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->

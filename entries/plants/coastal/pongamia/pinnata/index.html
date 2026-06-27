@@ -224,7 +224,15 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>This beautiful tree was formerly common on the coast including Changi, Siglap, Jurong and Pulau Ubin. Elsewhere, the tree is found in non-swampy beaches and occasionally on the landward side of mangroves. It is also found in sandy or rocky coasts of Malaya. It is now planted in some of our beach parks and as a roadside tree.</p>
 
@@ -236,8 +244,9 @@
 
 <p>The leaves are fed to livestock. The bark is used to make string and rope. Although the seeds are poisonous, an oil extracted from them (called Pongamol or hongay oil) is used for lighting, to manufacture soap and candles, and in medicinal uses. The roots and seeds are used as a fish poison in Australia and Indonesia. Various parts of the trees are also used in traditional medicine.. According to Tomlinson and Giesen, the tree is often planted as a shade tree along roads, but Corners says it is rarely planted in Malaya.</p>
 
-<p><strong>Status and threats:</strong>
-This tree is listed as ‘Endangered’ in the Red List of threatened plants of Singapore.</p>
+<p>## Status and threats</p>
+
+<p>This tree is listed as ‘Endangered’ in the Red List of threatened plants of Singapore.</p>
 
 <p><img src="https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/090410ubno067m6l.jpg" alt="" /></p>
 
@@ -397,19 +406,16 @@ for free download from
 
 <hr />
 
-        </div>
-        
-      </section>
 
-      
-      <section>
-        <h2>Sightings of Mempari on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=1609449&verifiable=any">iNaturalist</a></h2>
-        <div id="map" style="height:400px"></div>
-      </section>
-      
         
-        <section>
+          <section>
+            <h2 id="inat" label="Sightings">Sightings of Mempari on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=1609449&verifiable=any">iNaturalist</a></h2>
+            <div id="map" style="height:400px"></div>
+          </section>
+        
             
+            <section>
+                
 
 
 
@@ -417,9 +423,10 @@ for free download from
     
 
 </div>
-        </section>
-        <section>
-            <p><strong>Links</strong></p>
+            </section>
+            <section>
+                <h3 id="links">Links</h3>
+
 <ul>
   <li><a href="http://floraofsingapore.wordpress.com/2010/04/22/pongamia-pinnata/"><em>Pongamia pinnata</em></a>
 on Total Vascular Flora of Singapore Online: photos and fact sheet.</li>
@@ -428,7 +435,8 @@ on Total Vascular Flora of Singapore Online: photos and fact sheet.</li>
 (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.</li>
 </ul>
 
-<p><strong>References</strong></p>
+<h3 id="references">References</h3>
+
 <ul>
   <li>Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 <em>The Concise Flora of Singapore: Gymnosperms and Dicotyledons</em>
@@ -450,18 +458,24 @@ on Total Vascular Flora of Singapore Online: photos and fact sheet.</li>
 . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.</li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -575,6 +589,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->

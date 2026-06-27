@@ -212,7 +212,34 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+        <fieldset class="trivia-box">
+    <legend class="trivia-box-title">if you learn only 3 things about them ..</legend>
+    <ul>
+        
+        <li class="trivia-box-item">
+            Don't take them off the rocks! They will wash away with the tide and may die
+        </li>
+        
+        <li class="trivia-box-item">
+            Periwinkles do move! But only at high tide or in cool weather
+        </li>
+        
+        <li class="trivia-box-item">
+            The area around a periwinkle is often grazed bare of algae.
+        </li>
+        
+    </ul>
+</fieldset>
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>Periwinkles sprinkle the rocks on many of our shores. They appear dead but are very much alive. At low tide, they are usually wedged into crevices and cracks in rocks and even inside the empty shells of dead oysters and barnacles.</p>
 
@@ -283,8 +310,9 @@ In periwinkles, the genders are separate and they practice internal fertilisatio
 
 <p>In our region, they are collected for subsistence food by coastal dwellers and for shellcraft. Large periwinkles are eaten in temperate countries such as England. In fact, the name ‘periwinkle’ comes from the Old English for ‘penny winkle’ as they were then sold for a penny per handful. They were also used as jewellery.</p>
 
-<p><strong>Status and threats:</strong>
-None of our Periwinkles are listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, the rest of our Periwinkles are affected by human activities such as reclamation and pollution. Trampling by careless visitors and overcollection can also have an impact on local populations.</p>
+<p>## Status and threats</p>
+
+<p>None of our Periwinkles are listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, the rest of our Periwinkles are affected by human activities such as reclamation and pollution. Trampling by careless visitors and overcollection can also have an impact on local populations.</p>
 
 <hr />
 
@@ -397,38 +425,16 @@ from Tan Siong Kiat and Henrietta P. M. Woo, 2010
 
 <hr />
 
-        </div>
-        
-        <div class="trivia-box">
-    <h4 class="trivia-box-title">if you learn only 3 things about them ..</h4>
-    <ul>
-        
-        <li class="trivia-box-item">
-            Don't take them off the rocks! They will wash away with the tide and may die
-        </li>
-        
-        <li class="trivia-box-item">
-            Periwinkles do move! But only at high tide or in cool weather
-        </li>
-        
-        <li class="trivia-box-item">
-            The area around a periwinkle is often grazed bare of algae.
-        </li>
-        
-    </ul>
-</div>
-        
-      </section>
 
-      
-      <section>
-        <h2>Sightings of Periwinkles  on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=48918&verifiable=any">iNaturalist</a></h2>
-        <div id="map" style="height:400px"></div>
-      </section>
-      
         
-        <section>
+          <section>
+            <h2 id="inat" label="Sightings">Sightings of Periwinkles  on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=48918&verifiable=any">iNaturalist</a></h2>
+            <div id="map" style="height:400px"></div>
+          </section>
+        
             
+            <section>
+                
 
 
 
@@ -436,9 +442,10 @@ from Tan Siong Kiat and Henrietta P. M. Woo, 2010
     
 
 </div>
-        </section>
-        <section>
-            <p><strong>Links</strong></p>
+            </section>
+            <section>
+                <h3 id="links">Links</h3>
+
 <ul>
   <li><a href="http://mangrove.nus.edu.sg/guidebooks/text/2080">Mangrove periwinkle ( <em>Littoraria</em>
 sp.)</a>
@@ -464,7 +471,8 @@ on the Mad Scientist Network website: a lovely answer that explains how gills an
 (Littorinimorpha: Littorinidae) Rock Periwinkle on Taxo4254.</li>
 </ul>
 
-<p><strong>References</strong></p>
+<h3 id="references">References</h3>
+
 <ul>
   <li>Chan Sow-Yan &amp; Lau Wing Lup. 30 June 2020.
 <em>The periwinkle snail, Peasiella lutulenta, in Singapore</em>
@@ -492,18 +500,24 @@ Division of Biology, School of Science, Nanyang Technological University &amp; D
 . Graham Brash, Singapore. 145 pp.</li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -617,6 +631,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->

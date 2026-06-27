@@ -229,7 +229,15 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>This large anemone is often seen among seagrasses and in sandy areas near reefs on our Southern shores. They are not as abudant as other large anemones in similar areas. Usually only one or a handful, spread widely apart from one another, are seen in a large area.</p>
 
@@ -248,8 +256,9 @@ Do not touch the sea anemone.</p>
 <p><strong>Fiery friends:</strong>
 Usually, we don’t see symbiotic animals living in a Fire anemone. But once, a <a href="/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/brevicarpalis">Peacock-tail anemone shrimp</a> (<em>Periclimenes brevicarpalis</em>) was seen in a Fire anemone.</p>
 
-<p><strong>Status and threats:</strong>
-As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.</p>
+<p>## Status and threats</p>
+
+<p>As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.</p>
 
 <div class="img-wrap-group">
     
@@ -562,19 +571,16 @@ As at 2024, it is assessed not to be approaching the criteria for being listed a
 
 <hr />
 
-        </div>
-        
-      </section>
 
-      
-      <section>
-        <h2>Sightings of Fire anemone on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=472123&verifiable=any">iNaturalist</a></h2>
-        <div id="map" style="height:400px"></div>
-      </section>
-      
         
-        <section>
+          <section>
+            <h2 id="inat" label="Sightings">Sightings of Fire anemone on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=472123&verifiable=any">iNaturalist</a></h2>
+            <div id="map" style="height:400px"></div>
+          </section>
+        
             
+            <section>
+                
 
 
 
@@ -582,15 +588,17 @@ As at 2024, it is assessed not to be approaching the criteria for being listed a
     
 
 </div>
-        </section>
-        <section>
-            <p><strong>Links</strong></p>
+            </section>
+            <section>
+                <h3 id="links">Links</h3>
+
 <ul>
   <li><a href="http://hercules.kgs.ku.edu/Hexacoral/Anemone2/supraspecific_detail.cfm?genusname=Actinodendron"><em>Actinodendron</em></a> on the <a href="http://hercules.kgs.ku.edu/Hexacoral/Anemone2/order.cfm">Hexacorallians of the World</a> website by Daphne G. Fautin with classification, distribution, biological associations and more.</li>
   <li><a href="http://www.sealifebase.fisheries.ubc.ca/nomenclature/SpeciesList.php?genus=Actinodendron"><em>Actinodendron</em></a> on SeaLife Base: technical fact sheet.</li>
 </ul>
 
-<p><strong>References</strong></p>
+<h3 id="references">References</h3>
+
 <ul>
   <li>Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024.</li>
   <li>The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.</li>
@@ -600,18 +608,24 @@ As at 2024, it is assessed not to be approaching the criteria for being listed a
   <li>Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996. <em>Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates</em> Sea Challengers. 314pp.</li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -725,6 +739,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->

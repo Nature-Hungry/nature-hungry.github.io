@@ -211,7 +211,15 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>This tree is not common in Singapore. Initially considered extinct in Singapore, it was rediscovered in 2005. There are two on Pulau Tekong, and two at Sungei Buloh and it is being replanted at Chek Jawa, Pulau Ubin and at Pasir Ris Park. According to Hsuan Keng, it was previously found in Kranji, Jurong and Tanjong Pasir Laba. Elsewhere, it is also considered widespread and uncommon throughout its range. It is found along tidal waterways, coastal fish ponds that are infrequently inundated. It was formerly called
 <em>B. eriopetala.</em>
@@ -239,8 +247,9 @@ According to Burkill, ‘Berau’ in Malay suggests yellowness.</p>
 
 <p>According to Burkill, the developing embryo is cooked, soaked overnight and then eaten. Juice from the fruits may be used to treat sore eyes, shingles or treat burns. According to Giersen, the heavy to very heavy timber is hard and strong. Used for poles as well as firewood and charcoal. In Sulawesi, the fruits are eaten after they are soaked and boiled.</p>
 
-<p><strong>Status and threats:</strong>
-This plant is listed as ‘Critically Endangered’ on the Red List of threatened plants of Singapore</p>
+<p>## Status and threats</p>
+
+<p>This plant is listed as ‘Critically Endangered’ on the Red List of threatened plants of Singapore</p>
 
 <p>*<img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/sexangula/091230prpd6496m6l.jpg" alt="" /></p>
 
@@ -297,19 +306,16 @@ for free download from
 
 <hr />
 
-        </div>
-        
-      </section>
 
-      
-      <section>
-        <h2>Sightings of Tumu berau on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=189949&verifiable=any">iNaturalist</a></h2>
-        <div id="map" style="height:400px"></div>
-      </section>
-      
         
-        <section>
+          <section>
+            <h2 id="inat" label="Sightings">Sightings of Tumu berau on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=189949&verifiable=any">iNaturalist</a></h2>
+            <div id="map" style="height:400px"></div>
+          </section>
+        
             
+            <section>
+                
 
 
 
@@ -317,9 +323,10 @@ for free download from
     
 
 </div>
-        </section>
-        <section>
-            <p><strong>Links</strong></p>
+            </section>
+            <section>
+                <h3 id="links">Links</h3>
+
 <ul>
   <li><a href="https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3641"><em>Bruguiera sexangula</em></a>
 on the NParks Flora and Fauna website: photos and fact sheet.</li>
@@ -330,7 +337,8 @@ on the NParks Flora and Fauna website: photos and fact sheet.</li>
 on the IUCN Red List website: detailed fact sheet.</li>
 </ul>
 
-<p><strong>References</strong></p>
+<h3 id="references">References</h3>
+
 <ul>
   <li>Chiou-Rong Sheue, Jean W. H. Yong and Yuen- Po Yang. 2005.
 <em><a href="http://lkcnhm.nus.edu.sg/dna/docs/ecb82a5bf09257209a08147c2d86900c.pdf">The Bruguiera (Rhizophoraceae) Species in the Mangroves of Singapore, Especially on the New Record and the Rediscovery</a></em>
@@ -346,18 +354,24 @@ Cambridge University Press. USA. 419 pp.</li>
 . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.</li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -471,6 +485,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->

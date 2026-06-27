@@ -215,7 +215,15 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>This crab with big red round spots is seldom seen on our shores. So far, on reefy southern shores.</p>
 
@@ -230,8 +238,9 @@ It is more active at night.</p>
 <a href="http://www.sealifebase.org/Summary/speciesSummary.php?ID=21380">SeaLifeBase</a>
 , it is collected extensively for food. While it is reported as poisonous, tests could not confirm it. Possibly the crab becomes toxic for a short period after feeding on poisonous molluscs.</p>
 
-<p><strong>Status and threats:</strong>
-Our Spotted reef crab is listed as ‘Endangered’ among the threatened animals of Singapore.
+<p>## Status and threats</p>
+
+<p>Our Spotted reef crab is listed as ‘Endangered’ among the threatened animals of Singapore.
 Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution.</p>
 
 <div class="img-wrap-group">
@@ -291,19 +300,16 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 
 <hr />
 
-        </div>
-        
-      </section>
 
-      
-      <section>
-        <h2>Sightings of Spotted reef crab on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=120926&verifiable=any">iNaturalist</a></h2>
-        <div id="map" style="height:400px"></div>
-      </section>
-      
         
-        <section>
+          <section>
+            <h2 id="inat" label="Sightings">Sightings of Spotted reef crab on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=120926&verifiable=any">iNaturalist</a></h2>
+            <div id="map" style="height:400px"></div>
+          </section>
+        
             
+            <section>
+                
 
 
 
@@ -311,9 +317,10 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
     
 
 </div>
-        </section>
-        <section>
-            <p><strong>Links</strong></p>
+            </section>
+            <section>
+                <h3 id="links">Links</h3>
+
 <ul>
   <li><a href="http://www.sealifebase.org/Summary/speciesSummary.php?ID=21380&amp;genusname=Carpilius&amp;speciesname=maculatus">Spotted reef crab</a>
 <a href="http://www.sealifebase.org/Summary/speciesSummary.php?ID=21380">( <em>Carpilius maculatus</em>
@@ -323,7 +330,8 @@ on
 by Palomares, M.L.D. and D. Pauly. Editors. 2009: technical fact sheet.</li>
 </ul>
 
-<p><strong>References</strong></p>
+<h3 id="references">References</h3>
+
 <ul>
   <li>Lee Bee Yan and Tan Heok Hui. 10 January 2014.
 <em>Spotted reef crab at Pulau Tekukor</em>
@@ -336,18 +344,24 @@ by Palomares, M.L.D. and D. Pauly. Editors. 2009: technical fact sheet.</li>
 . National Council on the Environment. 163pp.</li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -461,6 +475,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->

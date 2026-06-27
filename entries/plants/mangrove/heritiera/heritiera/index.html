@@ -223,7 +223,15 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>This rather untidy tree with dull metallic leaves is described by Corners as a ‘dinghy’ tree. It is sometimes seen in our Northern mangroves. Usually found in the back mangroves and sometimes on rocky shores. According to Hsuan Keng, it was found in Bajau, Kranji, Pulau Jahat, Pulau Tekong. It seems intolerant of high salinities and does not occur in very exposed areas or poorly drained soils.</p>
 
@@ -243,8 +251,9 @@
 
 <p>According to Burkill, considered “possibly the toughest of Malayan timbers”, it is valued for boat building. As masts if the trunk is straight enough, or for rudders and other parts. It is also used in a wide range of household uses. According to Burkill, “the people of Malaysia formerly valued it for stopping bullets. They built stockades of it and raised the thwarts of their pirate canoes with it.” Medicinal uses include using the twigs as tooth-brushes, the tanning in them may be good for the gums. Seeds are used in cures for diarrhoea and dysentery. According to Giesen, the heavy wood is good for raw material to be made into wrapping or printing paper. The fruits and seeds are used in treating diarrhoea and dysentery, seeds are used in fish dishes and roots used as fish poison.</p>
 
-<p><strong>Status and threats:</strong>
-It is listed as ‘Endangered’ in the Red List of threatened plants of Singapore.</p>
+<p>## Status and threats</p>
+
+<p>It is listed as ‘Endangered’ in the Red List of threatened plants of Singapore.</p>
 
 <p>*<img src="https://images.naturehungry.sg/plants/mangrove/heritiera/heritiera/120414cjd9900m6l.jpg" alt="" /></p>
 
@@ -317,19 +326,16 @@ for free download from
 
 <hr />
 
-        </div>
-        
-      </section>
 
-      
-      <section>
-        <h2>Sightings of Dungun on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=193310&verifiable=any">iNaturalist</a></h2>
-        <div id="map" style="height:400px"></div>
-      </section>
-      
         
-        <section>
+          <section>
+            <h2 id="inat" label="Sightings">Sightings of Dungun on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=193310&verifiable=any">iNaturalist</a></h2>
+            <div id="map" style="height:400px"></div>
+          </section>
+        
             
+            <section>
+                
 
 
 
@@ -337,9 +343,10 @@ for free download from
     
 
 </div>
-        </section>
-        <section>
-            <p><strong>Links</strong></p>
+            </section>
+            <section>
+                <h3 id="links">Links</h3>
+
 <ul>
   <li><a href="http://floraofsingapore.wordpress.com/2010/10/02/heritiera-littoralis/"><em>Heritiera littoralis</em></a>
 on Total Vascular Flora of Singapore Online: photos and fact sheet.</li>
@@ -357,7 +364,8 @@ I (Plant Diversity)</em>
 <em>**</em></li>
 </ul>
 
-<p><strong>References</strong></p>
+<h3 id="references">References</h3>
+
 <ul>
   <li>Burkill, I. H., 1993.
 <em>A Dictionary of the Economic Products of the Malay Peninsula</em>
@@ -376,18 +384,24 @@ Cambridge University Press. USA. 419 pp.</li>
 . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.</li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -501,6 +515,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->

@@ -234,7 +234,34 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+        <fieldset class="trivia-box">
+    <legend class="trivia-box-title">if you learn only 3 things about them ..</legend>
+    <ul>
+        
+        <li class="trivia-box-item">
+            Tubes of tiny worms may look like roots, don't step on them
+        </li>
+        
+        <li class="trivia-box-item">
+            Some can bite or sting
+        </li>
+        
+        <li class="trivia-box-item">
+            Don't touch! They live deep in the sand, don't dig them out.
+        </li>
+        
+    </ul>
+</fieldset>
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>Tubeworms are common on all our shores and near mangroves. They are most obvious on sand bars and flat shores (sandy or muddy) where they stick out of the surface in large numbers. In seagrass areas, some are found in large numbers in mounds that can be 1m or more wide. Their tubes can extend quite deep into the ground, only a little bit of the tube sticks out of the ground. At low tide, the worm may be even deeper still. Some tubeworms can give a nasty bite. Please don’t dig up tubes to try to see the worm.
 <strong>What are tubeworms?</strong>
@@ -351,8 +378,9 @@ may also help anchor sediments. These tubeworms may live packed so closely toget
 
 <p>Fishermen sometimes dig out tubeworms to use as bait.</p>
 
-<p><strong>Status and threats:</strong>
-Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection as bait can also have an impact on local populations.</p>
+<p>## Status and threats</p>
+
+<p>Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection as bait can also have an impact on local populations.</p>
 
 <p><strong>Other tube-makers:</strong>
 Not all animals that live in tubes are correctly called worms. Some other animals that build and live in tubes include:
@@ -436,38 +464,16 @@ for comments on and identifying some of these tubeworms.</p>
 Australian Biological Resources Study, Canberra. 465pp.</li>
 </ul>
 
-        </div>
-        
-        <div class="trivia-box">
-    <h4 class="trivia-box-title">if you learn only 3 things about them ..</h4>
-    <ul>
-        
-        <li class="trivia-box-item">
-            Tubes of tiny worms may look like roots, don't step on them
-        </li>
-        
-        <li class="trivia-box-item">
-            Some can bite or sting
-        </li>
-        
-        <li class="trivia-box-item">
-            Don't touch! They live deep in the sand, don't dig them out.
-        </li>
-        
-    </ul>
-</div>
-        
-      </section>
 
-      
-      <section>
-        <h2>Sightings of Tubeworms on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=51437&verifiable=any">iNaturalist</a></h2>
-        <div id="map" style="height:400px"></div>
-      </section>
-      
         
-        <section>
+          <section>
+            <h2 id="inat" label="Sightings">Sightings of Tubeworms on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=51437&verifiable=any">iNaturalist</a></h2>
+            <div id="map" style="height:400px"></div>
+          </section>
+        
             
+            <section>
+                
 
 
 
@@ -475,9 +481,10 @@ Australian Biological Resources Study, Canberra. 465pp.</li>
     
 
 </div>
-        </section>
-        <section>
-            <p><strong>Links</strong></p>
+            </section>
+            <section>
+                <h3 id="links">Links</h3>
+
 <ul>
   <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/126">Segmented worms including tube worms</a>
 Tan, Leo W. H. &amp; Ng, Peter K. L., 1988.
@@ -503,7 +510,8 @@ on the City University of Hong Kong website: about polychaetes and tubeworms, wi
 on the wild shores of singapore blog.</li>
 </ul>
 
-<p><strong>References</strong></p>
+<h3 id="references">References</h3>
+
 <ul>
   <li>Ng, P. K. L. &amp; Y. C. Wee, 1994.
 <em>The Singapore Red Data Book: Threatened Plants and Animals of Singapore</em>
@@ -519,18 +527,24 @@ Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963</li>
 . 5</li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -644,6 +658,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->

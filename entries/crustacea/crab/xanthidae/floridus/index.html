@@ -223,7 +223,34 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+        <fieldset class="trivia-box">
+    <legend class="trivia-box-title">if you learn only 3 things about them ..</legend>
+    <ul>
+        
+        <li class="trivia-box-item">
+            These crabs are poisonous to eat! Their toxins are NOT destroyed by cooking
+        </li>
+        
+        <li class="trivia-box-item">
+            They are generally secretive and slow-moving
+        </li>
+        
+        <li class="trivia-box-item">
+            They are not venomous but it's best not to touch them.
+        </li>
+        
+    </ul>
+</fieldset>
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>This round well-camouflaged crab is commonly seen on our Southern shores, among coral rubble or reefs. But sightings usually not as numerous as the
 <a href="integerrimus">Red egg crab</a></p>
@@ -258,8 +285,9 @@ Although it is described as a vegetarian, one was seen happily eating a fish. Li
 <a href="xanthidae">highly poisonous</a>
 and should not be eaten.</p>
 
-<p><strong>Status and threats:</strong>
-This crab is listed as ‘Vulnerable’ on the Red List of threatened animals of Singapore.</p>
+<p>## Status and threats</p>
+
+<p>This crab is listed as ‘Vulnerable’ on the Red List of threatened animals of Singapore.</p>
 
 <div class="img-wrap-group">
     
@@ -513,38 +541,16 @@ for free download</li>
 </div>
 <hr />
 
-        </div>
-        
-        <div class="trivia-box">
-    <h4 class="trivia-box-title">if you learn only 3 things about them ..</h4>
-    <ul>
-        
-        <li class="trivia-box-item">
-            These crabs are poisonous to eat! Their toxins are NOT destroyed by cooking
-        </li>
-        
-        <li class="trivia-box-item">
-            They are generally secretive and slow-moving
-        </li>
-        
-        <li class="trivia-box-item">
-            They are not venomous but it's best not to touch them.
-        </li>
-        
-    </ul>
-</div>
-        
-      </section>
 
-      
-      <section>
-        <h2>Sightings of Floral egg crab on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=469186&verifiable=any">iNaturalist</a></h2>
-        <div id="map" style="height:400px"></div>
-      </section>
-      
         
-        <section>
+          <section>
+            <h2 id="inat" label="Sightings">Sightings of Floral egg crab on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=469186&verifiable=any">iNaturalist</a></h2>
+            <div id="map" style="height:400px"></div>
+          </section>
+        
             
+            <section>
+                
 
 
 
@@ -552,9 +558,10 @@ for free download</li>
     
 
 </div>
-        </section>
-        <section>
-            <p><strong>Links</strong></p>
+            </section>
+            <section>
+                <h3 id="links">Links</h3>
+
 <ul>
   <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/252">Poisonous Xanthid Crabs</a>
 Tan, Leo W. H. &amp; Ng, Peter K. L., 1988.
@@ -564,7 +571,8 @@ Tan, Leo W. H. &amp; Ng, Peter K. L., 1988.
 in Crabs of Japan, on Marine Species Identification Portal: Technical fact sheet.</li>
 </ul>
 
-<p><strong>References</strong></p>
+<h3 id="references">References</h3>
+
 <ul>
   <li>Peter K. L. Ng and Peter J. F. Davie, 31 Dec 2007,
 <a href="http://lkcnhm.nus.edu.sg/rbz/biblio/s16/s16rbz169-175.pdf">On the identity of
@@ -593,18 +601,24 @@ Division of Biology, School of Science, Nanyang Technological University &amp; D
 . Reed New Holland. 224 pp.</li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -718,6 +732,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->

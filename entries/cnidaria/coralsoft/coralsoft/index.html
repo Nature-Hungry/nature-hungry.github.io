@@ -210,7 +210,34 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+        <fieldset class="trivia-box">
+    <legend class="trivia-box-title">if you learn only 3 things about them ..</legend>
+    <ul>
+        
+        <li class="trivia-box-item">
+            They are animals! Although they look like plants. Don't step on them
+        </li>
+        
+        <li class="trivia-box-item">
+            They don't produce a hard skeleton
+        </li>
+        
+        <li class="trivia-box-item">
+            Each soft coral is a colony of countless tiny polyps.
+        </li>
+        
+    </ul>
+</fieldset>
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>Soft corals are commonly seen on many of our shores. Some resemble flowery bushes, others giant leathery disks. Yet others are tiny and overlooked. They are found growing on boulders and other hard surfaces, as well as among coral rubble and living hard corals on the reef flats.</p>
 
@@ -313,8 +340,9 @@ Soft corals can reproduce asexually: budding of new polyps enlarges the colony. 
 
 <p>Soft corals protect themselves with unusual substances which are being studied for possible anti-cancer properties. Soft corals are also harvested from the wild for the aquarium trade. Living coral reefs, however, are worth far more to humans when they left alone. Reefs bring in tourists which generate business beyond the shore (e.g., hotels, restaurants and travel-related industries).</p>
 
-<p><strong>Status and threats:</strong>
-Like other creatures of the sea, soft corals are threatened by human activities that degrade or destroy the habitat.
+<p>## Status and threats</p>
+
+<p>Like other creatures of the sea, soft corals are threatened by human activities that degrade or destroy the habitat.
 Trampling by careless visitors, and over-collection also have an impact on local populations.</p>
 
 <hr />
@@ -498,38 +526,16 @@ are included in this group</p>
 
 </div>
 
-        </div>
-        
-        <div class="trivia-box">
-    <h4 class="trivia-box-title">if you learn only 3 things about them ..</h4>
-    <ul>
-        
-        <li class="trivia-box-item">
-            They are animals! Although they look like plants. Don't step on them
-        </li>
-        
-        <li class="trivia-box-item">
-            They don't produce a hard skeleton
-        </li>
-        
-        <li class="trivia-box-item">
-            Each soft coral is a colony of countless tiny polyps.
-        </li>
-        
-    </ul>
-</div>
-        
-      </section>
 
-      
-      <section>
-        <h2>Sightings of Soft corals  on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=141945&verifiable=any">iNaturalist</a></h2>
-        <div id="map" style="height:400px"></div>
-      </section>
-      
         
-        <section>
+          <section>
+            <h2 id="inat" label="Sightings">Sightings of Soft corals  on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=141945&verifiable=any">iNaturalist</a></h2>
+            <div id="map" style="height:400px"></div>
+          </section>
+        
             
+            <section>
+                
 
 
 
@@ -537,9 +543,10 @@ are included in this group</p>
     
 
 </div>
-        </section>
-        <section>
-            <p><strong>Links</strong></p>
+            </section>
+            <section>
+                <h3 id="links">Links</h3>
+
 <ul>
   <li>
     <p><a href="http://mangrove.nus.edu.sg/pub/seashore/text/118.htm">Soft corals (Order Alcyonacea)</a>Tan, Leo W. H. &amp; Ng, Peter K. L., 1988.<em><a href="http://mangrove.nus.edu.sg/pub/seashore/">A Guide to Seashore Life</a></em>. The Singapore Science Centre, Singapore. 160 pp.</p>
@@ -552,7 +559,8 @@ are included in this group</p>
   </li>
 </ul>
 
-<p><strong>References</strong></p>
+<h3 id="references">References</h3>
+
 <ul>
   <li>
     <p>Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, 2024.<em>The Singapore Red Data Book: Threatened plants and animals of Singapore</em>. 3rd edition. National Parks Board. 258 pp.</p>
@@ -580,18 +588,24 @@ are included in this group</p>
   </li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -705,6 +719,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->

@@ -198,7 +198,30 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+        <fieldset class="trivia-box">
+    <legend class="trivia-box-title">if you learn only 3 things about them ..</legend>
+    <ul>
+        
+        <li class="trivia-box-item">
+            Often mistaken for plants, they are animals! Some can sting powerfully. Don't touch them
+        </li>
+        
+        <li class="trivia-box-item">
+            Each 'bush' is a colony of many little polyps.
+        </li>
+        
+    </ul>
+</fieldset>
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>A wider variety of those that are large and attached to hard surfaces are commonly encountered on our Northern intertidal shores. Forming colourful fluffy patches. Some fiery stinging ones are also commonly seen on our Southern Islands. They are often overlooked as they resemble plants. Many small to tiny jellyfish-like hydroids are recorded in the water (unattached to surfaces).</p>
 
@@ -312,8 +335,9 @@ To increase in size, the plant-like form buds new polyps and branches. Some spec
 
 <p>Hydroids may also reproduce in a more complicated way. In some hydroid species, the plant-like form produces tiny jellyfish-like forms (medusa) that break off from the branches and swim away. These forms are reproductively mature adults. Each hydroid usually produces either all male or all female medusa. The medusa produces eggs or sperm that are released into the water. For most hydroid species, however, the plant-like form does not release medusae. Instead, these egg- or sperm-producing forms remain attached to the branches. In yet other hydroids, the free-swimming reproductively mature medusa may bud off more genetically identical medusa before engaging in actual reproduction. Fertilised eggs eventually hatch into free-swimming planula larvae that eventually settle down onto a surface and growing into a new branching colony.</p>
 
-<p><strong>Status and threats:</strong>
-There is inadequate information as at 2024 to make an informed assesment of the conservation status of recorded hydroids in Singapore.</p>
+<p>## Status and threats</p>
+
+<p>There is inadequate information as at 2024 to make an informed assesment of the conservation status of recorded hydroids in Singapore.</p>
 
 <hr />
 
@@ -481,34 +505,16 @@ are classified as hydroids.</p>
 
 <p>edition. McGraw-Hill Book Co., Singapore. 578 pp.</p>
 
-        </div>
-        
-        <div class="trivia-box">
-    <h4 class="trivia-box-title">if you learn only 3 things about them ..</h4>
-    <ul>
-        
-        <li class="trivia-box-item">
-            Often mistaken for plants, they are animals! Some can sting powerfully. Don't touch them
-        </li>
-        
-        <li class="trivia-box-item">
-            Each 'bush' is a colony of many little polyps.
-        </li>
-        
-    </ul>
-</div>
-        
-      </section>
 
-      
-      <section>
-        <h2>Sightings of Hydroids on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=63663&verifiable=any">iNaturalist</a></h2>
-        <div id="map" style="height:400px"></div>
-      </section>
-      
         
-        <section>
+          <section>
+            <h2 id="inat" label="Sightings">Sightings of Hydroids on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=63663&verifiable=any">iNaturalist</a></h2>
+            <div id="map" style="height:400px"></div>
+          </section>
+        
             
+            <section>
+                
 
 
 
@@ -516,9 +522,10 @@ are classified as hydroids.</p>
     
 
 </div>
-        </section>
-        <section>
-            <p><strong>Links</strong></p>
+            </section>
+            <section>
+                <h3 id="links">Links</h3>
+
 <ul>
   <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/116">Stinging hydroids</a>
 Tan, Leo W. H. &amp; Ng, Peter K. L., 1988.
@@ -536,7 +543,8 @@ on Aquascope of the Tjarno Marine Biological Laboratory: some photos and titbits
 on the Sea Slug Forum by Dr Bill Rudman: as hydroids are among the stuff that nudibranchs eat, there is some interesting information on them on this site.</li>
 </ul>
 
-<p><strong>References</strong></p>
+<h3 id="references">References</h3>
+
 <ul>
   <li><em>Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore</em>
 by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024.
@@ -556,18 +564,24 @@ Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963</li>
 . 5</li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -681,6 +695,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->

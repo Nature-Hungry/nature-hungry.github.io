@@ -206,7 +206,34 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+        <fieldset class="trivia-box">
+    <legend class="trivia-box-title">if you learn only 3 things about them ..</legend>
+    <ul>
+        
+        <li class="trivia-box-item">
+            They are fishes and have bones inside as well as outside The father gets 'pregnant'
+        </li>
+        
+        <li class="trivia-box-item">
+            They reproduce slowly
+        </li>
+        
+        <li class="trivia-box-item">
+            They are globally endangered due to overharvesting for the traditional medicine trade.
+        </li>
+        
+    </ul>
+</fieldset>
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>Almost everyone knows what a seahorse looks like. An endearing, unfish-like fish, it truly captures the imagination.
 <strong>**
@@ -286,8 +313,9 @@ Seahorses reproduce in a peculiar way. It is male that carries the eggs in his b
 <p><strong>Human (ab)uses:</strong>
 Seahorses are used in traditional Chinese medicine. Many species are also caught for the live aquarium trade or dried and sold as cheap curious and souvenirs. See below for some of the issues surrounding the harvesting of wild seahorses.</p>
 
-<p><strong>Status and threats:</strong>
-Seahorses are listed as CITES II (which means their international trade is monitored) and are considered globally vulnerable.
+<p>## Status and threats</p>
+
+<p>Seahorses are listed as CITES II (which means their international trade is monitored) and are considered globally vulnerable.
 <em>Hippocampus kuda</em>
 is listed among the threatened animals of Singapore.</p>
 
@@ -365,38 +393,16 @@ which includes
 <p>Hippocampus trimaculatus*</p>
 
 
-        </div>
-        
-        <div class="trivia-box">
-    <h4 class="trivia-box-title">if you learn only 3 things about them ..</h4>
-    <ul>
-        
-        <li class="trivia-box-item">
-            They are fishes and have bones inside as well as outside The father gets 'pregnant'
-        </li>
-        
-        <li class="trivia-box-item">
-            They reproduce slowly
-        </li>
-        
-        <li class="trivia-box-item">
-            They are globally endangered due to overharvesting for the traditional medicine trade.
-        </li>
-        
-    </ul>
-</div>
-        
-      </section>
 
-      
-      <section>
-        <h2>Sightings of Seahorses on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=102835&verifiable=any">iNaturalist</a></h2>
-        <div id="map" style="height:400px"></div>
-      </section>
-      
         
-        <section>
+          <section>
+            <h2 id="inat" label="Sightings">Sightings of Seahorses on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=102835&verifiable=any">iNaturalist</a></h2>
+            <div id="map" style="height:400px"></div>
+          </section>
+        
             
+            <section>
+                
 
 
 
@@ -404,9 +410,9 @@ which includes
     
 
 </div>
-        </section>
-        <section>
-            <p><strong>Links</strong></p>
+            </section>
+            <section>
+                <h3 id="links">Links</h3>
 <ul>
   <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/229">Seahorse
 (<em>Hippocampus</em> sp.)</a> Tan, Leo W. H. &amp; Ng, Peter K. L.,
@@ -449,7 +455,7 @@ seahorses prefer Big Mamas</a> on the wild shores of singapore
 blog.</li>
 </ul>
 
-<p><strong>References</strong></p>
+<h3 id="references">References</h3>
 <ul>
   <li>Kelvin K. P. Lim. 15 November 2013. <em>New Singapore record of the seahorse, Japanese seahorse, Hippocampus mohnikei</em>. Singapore Biodiversity Records 2013: 68-69.</li>
   <li>Lim, S.,
@@ -464,18 +470,24 @@ Nature Society (Singapore). 285 pp.</li>
   <li>Allen, Gerry, 2000. Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers . Periplus Editions. 292 pp. - Kuiter, Rudie H. 2002. Guide to Sea Fishes of Australia: A Comprehensive Reference forDivers &amp; Fishermen New Holland Publishers. 434pp. -Lieske, Ewald and Robert Myers. 2001. Coral Reef Fishes of the World Periplus Editions. 400pp. - Kuiter, Rudie H., 2000 (English edition). Seahorses, Pipefishes and their Relatives: A Comprehensive Guide to Syngnathiformes TMC Publishing, UK. 240 pp. -Sparks, John, 1999. Battle of the Sexes in the Animal World BBC Worldwide, London. 224 pp.</li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -589,6 +601,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->

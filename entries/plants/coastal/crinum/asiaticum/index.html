@@ -215,7 +215,15 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>A gianormous lily with lovely white flowers, it is seldom found wild on our shores. However, it is extensively planted as an ornamental in gardens and public places. According to Davidson, it is found in sandy shores and the back mangroves. Wild populations are restricted to Pulau Seletar, Sungei Khatib Bongsu, Sungei Mandai and the Western Catchment area. According to Hsuan Keng, it was formerly found on sandy shores including Changi, Kranji, Sungei Buloh, Sungei Tengah; eventually restricted to Pulau Semakau, Sungei Mandai and the Western Catchment Area.</p>
 
@@ -229,8 +237,9 @@
 
 <p>According to Burkill, it is poisonous and medicinal uses include inducing vomiting when wounded by a poison arrow. The leaves are used by Malays in a poultice to treat fevers, headaches, swellings. Boiling the plant results in a lotion for general use on the body. According to Wee, the crushed leaves are used to wash piles. Mixed with honey they are applied to wounds and abscesses.</p>
 
-<p><strong>Status and threats:</strong>
-It is listed as ‘Critically Endangered’ in the Red List of threatened plants of Singapore.</p>
+<p>## Status and threats</p>
+
+<p>It is listed as ‘Critically Endangered’ in the Red List of threatened plants of Singapore.</p>
 
 <p>*<img src="https://images.naturehungry.sg/plants/coastal/crinum/asiaticum/090214sbwrd7060m3.jpg" alt="" /></p>
 
@@ -293,19 +302,16 @@ It is listed as ‘Critically Endangered’ in the Red List of threatened plants
 
 </div>
 
-        </div>
-        
-      </section>
 
-      
-      <section>
-        <h2>Sightings of Bakung  on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=161124&verifiable=any">iNaturalist</a></h2>
-        <div id="map" style="height:400px"></div>
-      </section>
-      
         
-        <section>
+          <section>
+            <h2 id="inat" label="Sightings">Sightings of Bakung  on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=161124&verifiable=any">iNaturalist</a></h2>
+            <div id="map" style="height:400px"></div>
+          </section>
+        
             
+            <section>
+                
 
 
 
@@ -313,9 +319,10 @@ It is listed as ‘Critically Endangered’ in the Red List of threatened plants
     
 
 </div>
-        </section>
-        <section>
-            <p><strong>Links</strong></p>
+            </section>
+            <section>
+                <h3 id="links">Links</h3>
+
 <ul>
   <li>
     <p><a href="http://floraofsingapore.wordpress.com/2010/08/08/crinum-asiaticum/"><em>Crinum asiaticum</em></a>on Total Vascular Flora of Singapore Online: photos and fact sheet.</p>
@@ -325,7 +332,8 @@ It is listed as ‘Critically Endangered’ in the Red List of threatened plants
   </li>
 </ul>
 
-<p><strong>References</strong></p>
+<h3 id="references">References</h3>
+
 <ul>
   <li>
     <p>Hsuan Keng, S.C. Chin and H. T. W. Tan.1998,<em><a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2FConcise-Flora-Singapore-Monocotyledons%2Fdp%2F9971692074%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580156%26sr%3D8-1&amp;tag=wildsingapo08-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325">The Concise Flora of Singapore II: Monoctyledons</a></em>Singapore University Press. 215 pp.</p>
@@ -341,18 +349,24 @@ It is listed as ‘Critically Endangered’ in the Red List of threatened plants
   </li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -466,6 +480,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->

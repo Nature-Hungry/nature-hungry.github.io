@@ -230,7 +230,38 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+        <fieldset class="trivia-box">
+    <legend class="trivia-box-title">if you learn only 3 things about them ..</legend>
+    <ul>
+        
+        <li class="trivia-box-item">
+            They are fishes but can breathe out of water
+        </li>
+        
+        <li class="trivia-box-item">
+            How do they do it? They use their pectoral fins to crawl
+        </li>
+        
+        <li class="trivia-box-item">
+            They are well camouflaged
+        </li>
+        
+        <li class="trivia-box-item">
+            Watch your step!
+        </li>
+        
+    </ul>
+</fieldset>
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>Mudskippers are commonly seen on some of our shores. They are particularly abundant in mangroves and muddy shores, but some like the
 <a href="chrysospilos">Gold-spotted mudskippers</a>
@@ -312,8 +343,9 @@ can ‘stand’ on its tail, if only for a brief moment, in an attempt to impres
 <a href="schlosseri">Giant mudskipper</a>
 is eaten in some places such as Taiwan. They are caught with nets strung at ground level, or with cast-nets.</p>
 
-<p><strong>Status and threats:</strong>
-The Giant mudskipper is listed among the threatened animals of Singapore, mainly due to habitat loss. Our other mudskippers are not listed as endangered. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution.</p>
+<p>## Status and threats</p>
+
+<p>The Giant mudskipper is listed among the threatened animals of Singapore, mainly due to habitat loss. Our other mudskippers are not listed as endangered. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution.</p>
 
 <hr />
 
@@ -453,42 +485,16 @@ from Helen K. Larson, Zeehan Jaafar and Kelvin K. P. Lim. 29 June 2016. An updat
 
 <hr />
 
-        </div>
-        
-        <div class="trivia-box">
-    <h4 class="trivia-box-title">if you learn only 3 things about them ..</h4>
-    <ul>
-        
-        <li class="trivia-box-item">
-            They are fishes but can breathe out of water
-        </li>
-        
-        <li class="trivia-box-item">
-            How do they do it? They use their pectoral fins to crawl
-        </li>
-        
-        <li class="trivia-box-item">
-            They are well camouflaged
-        </li>
-        
-        <li class="trivia-box-item">
-            Watch your step!
-        </li>
-        
-    </ul>
-</div>
-        
-      </section>
 
-      
-      <section>
-        <h2>Sightings of Mudskippers on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=47308&verifiable=any">iNaturalist</a></h2>
-        <div id="map" style="height:400px"></div>
-      </section>
-      
         
-        <section>
+          <section>
+            <h2 id="inat" label="Sightings">Sightings of Mudskippers on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=47308&verifiable=any">iNaturalist</a></h2>
+            <div id="map" style="height:400px"></div>
+          </section>
+        
             
+            <section>
+                
 
 
 
@@ -496,9 +502,10 @@ from Helen K. Larson, Zeehan Jaafar and Kelvin K. P. Lim. 29 June 2016. An updat
     
 
 </div>
-        </section>
-        <section>
-            <p><strong>Links</strong></p>
+            </section>
+            <section>
+                <h3 id="links">Links</h3>
+
 <ul>
   <li><a href="http://mangrove.nus.edu.sg/guidebooks/text/2106">Mudskippers</a>
 Ng, Peter K. L. &amp; N. Sivasothi, 1999.
@@ -518,7 +525,8 @@ by Gianluca Polgar: Technical fact sheets with lots of photos.</li>
 on the wild shores of singapore blog.</li>
 </ul>
 
-<p><strong>References</strong></p>
+<h3 id="references">References</h3>
+
 <ul>
   <li>Zeehan Jaafar, Kelvin K. P. Lim, Loke Ming Chou. 2009.
 <a href="http://www.bioone.org/doi/abs/10.2108/zsj.26.309">Periophthalmus variabilis (Teleostei: Gobiidae: Oxudercinae), a Valid Species of Mudskipper, and a Re-diagnosis of
@@ -541,18 +549,24 @@ on the wild shores of singapore blog.</li>
 . National Council on the Environment. 163pp.</li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -666,6 +680,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->

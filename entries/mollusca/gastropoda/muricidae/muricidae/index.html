@@ -204,7 +204,38 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+        <fieldset class="trivia-box">
+    <legend class="trivia-box-title">if you learn only 3 things about them ..</legend>
+    <ul>
+        
+        <li class="trivia-box-item">
+            They are fierce predators! Some can bore a hole through the prey's shell
+        </li>
+        
+        <li class="trivia-box-item">
+            It takes them a long time to get at their prey
+        </li>
+        
+        <li class="trivia-box-item">
+            Don't remove drills
+        </li>
+        
+        <li class="trivia-box-item">
+            Some lay large collections of egg capsules on the rocks.
+        </li>
+        
+    </ul>
+</fieldset>
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>You will almost be certain to meet this ferocious predator on our rocky shores! Drills are commonly seen on boulders and rocks, including man-made structures such as breakwaters and jetty pilings.</p>
 
@@ -347,8 +378,9 @@ Some drills lay clusters of bright yellow egg capsules on hard surfaces. Each eg
 <p>Recently, drills have become useful as bioindicators of pollutants in the environment, such as for anti-fouling chemicals used to prevent encrusting animals from growing on ships and other installations in the sea.
 The toxins kill drill larvae, or result in deformities in adults.</p>
 
-<p><strong>Status and threats:</strong>
-<em>Chicoreus ramosus</em>
+<p>## Status and threats</p>
+
+<p><em>Chicoreus ramosus</em>
 is listed as ‘Endangered’ and the
 <a href="trapa">Murex snail</a>
 (<em>Murex trapa</em>) as ‘Vulnerable’ in the Red List of threatened animals of Singapore. Our other drills are not on this list. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also have an impact on local populations.</p>
@@ -596,42 +628,16 @@ sp.
 
 <hr />
 
-        </div>
-        
-        <div class="trivia-box">
-    <h4 class="trivia-box-title">if you learn only 3 things about them ..</h4>
-    <ul>
-        
-        <li class="trivia-box-item">
-            They are fierce predators! Some can bore a hole through the prey's shell
-        </li>
-        
-        <li class="trivia-box-item">
-            It takes them a long time to get at their prey
-        </li>
-        
-        <li class="trivia-box-item">
-            Don't remove drills
-        </li>
-        
-        <li class="trivia-box-item">
-            Some lay large collections of egg capsules on the rocks.
-        </li>
-        
-    </ul>
-</div>
-        
-      </section>
 
-      
-      <section>
-        <h2>Sightings of Drills on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=50766&verifiable=any">iNaturalist</a></h2>
-        <div id="map" style="height:400px"></div>
-      </section>
-      
         
-        <section>
+          <section>
+            <h2 id="inat" label="Sightings">Sightings of Drills on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=50766&verifiable=any">iNaturalist</a></h2>
+            <div id="map" style="height:400px"></div>
+          </section>
+        
             
+            <section>
+                
 
 
 
@@ -639,9 +645,10 @@ sp.
     
 
 </div>
-        </section>
-        <section>
-            <p><strong>Links</strong></p>
+            </section>
+            <section>
+                <h3 id="links">Links</h3>
+
 <ul>
   <li><a href="http://mangrove.nus.edu.sg/guidebooks/text/2085">Drill ( <em>Thais gradata</em>
 ) and Ketem ( <em>Chicoreus capucinus</em>
@@ -686,7 +693,8 @@ on the Man and Molluscs website: an introduction to the wide range of dyes produ
   </li>
 </ul>
 
-<p><strong>References</strong></p>
+<h3 id="references">References</h3>
+
 <ul>
   <li>Chan Sow-Yan, Lau Wing Lup &amp; Tan Siong Kiat. 27 March 2020.
 <em>A fig drill, Orania ficula, at Changi Beach</em>
@@ -720,18 +728,24 @@ on the Man and Molluscs website: an introduction to the wide range of dyes produ
 . Graham Brash, Singapore. 145 pp.</li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -845,6 +859,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->

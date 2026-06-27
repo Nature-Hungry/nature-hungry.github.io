@@ -212,7 +212,34 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+        <fieldset class="trivia-box">
+    <legend class="trivia-box-title">if you learn only 3 things about them ..</legend>
+    <ul>
+        
+        <li class="trivia-box-item">
+            They are everywhere on the sandy shore at low tide. Don't step on them! The tiny sand balls are processed sand
+        </li>
+        
+        <li class="trivia-box-item">
+            Not excretion or from burrowing
+        </li>
+        
+        <li class="trivia-box-item">
+            They are related to fiddler crabs.
+        </li>
+        
+    </ul>
+</fieldset>
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>This tiny ball-shaped crab is often seen on our sandy shores, just below the high water line. Resembling the little sand balls that it creates all over the shore at low tide, the crab itself is often missed. It is also very nervous and disappears instantly into its burrows at the slightest sign of danger. To spot these crabs, you will have to wait quietly next to their burrows. Stay low and avoid casting a shadow over the burrow. In a few minutes, they will appear. If you stay still, they will go about their amusing business. Do avoid stepping on sand balls on the shore as you might be stepping on a little crab!</p>
 
@@ -279,8 +306,9 @@ Sand bubbler crabs are responsible for the delicate patterns of tiny balls on th
     
 
 </div>
-<p><strong>Status and threats:</strong>
-Our sand bubbler crabs are not listed among the threatened animals of Singapore.
+<p>## Status and threats</p>
+
+<p>Our sand bubbler crabs are not listed among the threatened animals of Singapore.
 However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors also have an impact on local populations.</p>
 
 <div class="img-wrap-group">
@@ -426,33 +454,11 @@ for free download</li>
 </div>
 <hr />
 
-        </div>
-        
-        <div class="trivia-box">
-    <h4 class="trivia-box-title">if you learn only 3 things about them ..</h4>
-    <ul>
-        
-        <li class="trivia-box-item">
-            They are everywhere on the sandy shore at low tide. Don't step on them! The tiny sand balls are processed sand
-        </li>
-        
-        <li class="trivia-box-item">
-            Not excretion or from burrowing
-        </li>
-        
-        <li class="trivia-box-item">
-            They are related to fiddler crabs.
-        </li>
-        
-    </ul>
-</div>
-        
-      </section>
 
-      
         
-        <section>
             
+            <section>
+                
 
 
 
@@ -460,9 +466,10 @@ for free download</li>
     
 
 </div>
-        </section>
-        <section>
-            <p><strong>Links</strong></p>
+            </section>
+            <section>
+                <h3 id="links">Links</h3>
+
 <ul>
   <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/193">Sand Bubbler Crab ( <em>Scopimera</em>
 )</a>
@@ -478,7 +485,8 @@ on SeaLife Base: Technical fact sheet.</li>
 in Crabs of Japan on Marine Species Identification Portal: Technical fact sheet.</li>
 </ul>
 
-<p><strong>References</strong></p>
+<h3 id="references">References</h3>
+
 <ul>
   <li>Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
 <em>Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the world</em>
@@ -494,18 +502,24 @@ in Crabs of Japan on Marine Species Identification Portal: Technical fact sheet.
 Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963.</li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -619,6 +633,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->

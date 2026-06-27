@@ -223,7 +223,15 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>This delightful creature is more common that we might imagine. Smooth-coated otters are often sighted in our mangroves, mudflats and coastal areas. Such as at Sungei Buloh Wetland Reserve, Pasir Ris, Pulau Ubin as well as Changi.
 According to Baker, in Singapore, they are also reported from the Western Catchment Area. It was previously known as
@@ -249,8 +257,9 @@ It eats mainly fish, but also turtles, crustaceans and clams and snails.</p>
 <p><strong>Otter babies:</strong>
 Babies are born in a litter of 1-2, in a den dun in the river bank. The young stay with the parents in a family group for some time.</p>
 
-<p><strong>Status and threats:</strong>
-The Smooth-coated otter is listed as ‘Critically Endangered’ in the Red List of threatened animals of Singapore.</p>
+<p>## Status and threats</p>
+
+<p>The Smooth-coated otter is listed as ‘Critically Endangered’ in the Red List of threatened animals of Singapore.</p>
 
 <p>*<img src="https://images.naturehungry.sg/vertebrates/mammals/perspicillata/101218wdld3563m6l.jpg" alt="" /></p>
 
@@ -355,19 +364,16 @@ on
 
 <hr />
 
-        </div>
-        
-      </section>
 
-      
-      <section>
-        <h2>Sightings of Smooth-coated otter on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=1638842&verifiable=any">iNaturalist</a></h2>
-        <div id="map" style="height:400px"></div>
-      </section>
-      
         
-        <section>
+          <section>
+            <h2 id="inat" label="Sightings">Sightings of Smooth-coated otter on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=1638842&verifiable=any">iNaturalist</a></h2>
+            <div id="map" style="height:400px"></div>
+          </section>
+        
             
+            <section>
+                
 
 
 
@@ -375,9 +381,10 @@ on
     
 
 </div>
-        </section>
-        <section>
-            <p><strong>Links</strong></p>
+            </section>
+            <section>
+                <h3 id="links">Links</h3>
+
 <ul>
   <li><a href="https://www.facebook.com/pages/OtterWatch/187156104690279?sk=info">OtterWatch</a>
 a facebook page to share your otter sightings, part of Meryl Theng’s
@@ -410,7 +417,8 @@ on the wild shores of singapore blog.</li>
 Straits Times Forum 11 Dec 09 on the wildsingapore news blog.</li>
 </ul>
 
-<p><strong>References</strong></p>
+<h3 id="references">References</h3>
+
 <ul>
   <li>Baker, Nick and Kelvin Lim. 2008.
 <em>Wild Animals of Singapore: A Photographic Guide to Mammals, Reptiles, Amphibians and Freshwater Fishes</em>
@@ -423,18 +431,24 @@ Vertebrate Study Group, Nature Society (Singapore). 180 pp.</li>
 New Holland Publishers. 128 pp.</li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -548,6 +562,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->

@@ -209,7 +209,34 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+        <fieldset class="trivia-box">
+    <legend class="trivia-box-title">if you learn only 3 things about them ..</legend>
+    <ul>
+        
+        <li class="trivia-box-item">
+            They are everywhere on the sandy shore at low tide. Don't step on them! They are very shy
+        </li>
+        
+        <li class="trivia-box-item">
+            To see them, wait quietly without moving
+        </li>
+        
+        <li class="trivia-box-item">
+            Unlike most crabs, they can run forwards, backwards as well as sideways.
+        </li>
+        
+    </ul>
+</fieldset>
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>This amusing tiny ball-shaped crab with enormously elongated pincers is sometimes seen on natural sand bars. While the shy crab itself is seldom seen (it hides as soon as it senses footsteps far away), the balls of sand that it leaves on the shore at low tide indicate where it is active. To spot one, you will have to wait quietly next to a burrow. Stay low and avoid casting a shadow over the burrow. In a few minutes, it and its neighbours will appear. If you stay still, they will go about their amusing business</p>
 
@@ -284,8 +311,9 @@ The shifted sand is then discarded in a little ball. The bigger untidy balls are
     
 
 </div>
-<p><strong>Status and threats:</strong>
-One of our soldier crab species (<em>Dotilla myctiroides</em>) is listed among the threatened animals of Singapore due to loss of our natural beaches. While somewhat common on Chek Jawa, they are not commonly seen elsewhere in Singapore.
+<p>## Status and threats</p>
+
+<p>One of our soldier crab species (<em>Dotilla myctiroides</em>) is listed among the threatened animals of Singapore due to loss of our natural beaches. While somewhat common on Chek Jawa, they are not commonly seen elsewhere in Singapore.
 Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors can also have an impact on local populations.</p>
 
 <hr />
@@ -381,38 +409,16 @@ for free download</li>
 </div>
 <hr />
 
-        </div>
-        
-        <div class="trivia-box">
-    <h4 class="trivia-box-title">if you learn only 3 things about them ..</h4>
-    <ul>
-        
-        <li class="trivia-box-item">
-            They are everywhere on the sandy shore at low tide. Don't step on them! They are very shy
-        </li>
-        
-        <li class="trivia-box-item">
-            To see them, wait quietly without moving
-        </li>
-        
-        <li class="trivia-box-item">
-            Unlike most crabs, they can run forwards, backwards as well as sideways.
-        </li>
-        
-    </ul>
-</div>
-        
-      </section>
 
-      
-      <section>
-        <h2>Sightings of Soldier crab  on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=129468&verifiable=any">iNaturalist</a></h2>
-        <div id="map" style="height:400px"></div>
-      </section>
-      
         
-        <section>
+          <section>
+            <h2 id="inat" label="Sightings">Sightings of Soldier crab  on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=129468&verifiable=any">iNaturalist</a></h2>
+            <div id="map" style="height:400px"></div>
+          </section>
+        
             
+            <section>
+                
 
 
 
@@ -420,9 +426,10 @@ for free download</li>
     
 
 </div>
-        </section>
-        <section>
-            <p><strong>Links</strong></p>
+            </section>
+            <section>
+                <h3 id="links">Links</h3>
+
 <ul>
   <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/192">Soldier crab ( <em>Dotilla</em>
 sp.)</a>
@@ -440,7 +447,8 @@ and
 on SeaLife Base: Technical fact sheet.</li>
 </ul>
 
-<p><strong>References</strong></p>
+<h3 id="references">References</h3>
+
 <ul>
   <li>Satoshi Takeda, Masatoshi Matsumasa, Hoi-Sen Yong, Minoru Murai. 15 June 1996.
 <a href="http://www.sciencedirect.com/science/article/pii/002209819600007X">‘Igloo’ construction by the ocypodid crab,
@@ -461,18 +469,24 @@ Division of Biology, School of Science, Nanyang Technological University &amp; D
 . Reed New Holland. 224 pp.</li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -586,6 +600,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->

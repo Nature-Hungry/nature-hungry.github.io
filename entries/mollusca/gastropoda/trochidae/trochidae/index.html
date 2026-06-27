@@ -212,7 +212,15 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>These snails with top-shaped shells are commonly seen on many of our rocky shores including man-made sea walls. Top shell snails are not as well adapted to dry conditions as the
 <a href="../neritidae/neritidae">Nerites</a>
@@ -262,8 +270,9 @@ Top shells graze the algae that thrive on the rocks, scraping this off with thei
 
 <p>The shell is lined with mother-of-pearl. Larger species are collected for food and their shells that are made into ornaments and pearl buttons. This is still a significant industry in some Pacific Islands and effort is being made to establish a susbtainable method of farming these snails.</p>
 
-<p><strong>Status and threats:</strong>
-<a href="umbonium">Button snails</a>
+<p>## Status and threats</p>
+
+<p><a href="umbonium">Button snails</a>
 are listed as ‘Vulnerable’ on the Red List of threatened animals of Singapore.</p>
 
 <hr />
@@ -374,19 +383,16 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red D
 
 <hr />
 
-        </div>
-        
-      </section>
 
-      
-      <section>
-        <h2>Sightings of Top shell snails  on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=53830&verifiable=any">iNaturalist</a></h2>
-        <div id="map" style="height:400px"></div>
-      </section>
-      
         
-        <section>
+          <section>
+            <h2 id="inat" label="Sightings">Sightings of Top shell snails  on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=53830&verifiable=any">iNaturalist</a></h2>
+            <div id="map" style="height:400px"></div>
+          </section>
+        
             
+            <section>
+                
 
 
 
@@ -394,9 +400,10 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red D
     
 
 </div>
-        </section>
-        <section>
-            <p><strong>Links</strong></p>
+            </section>
+            <section>
+                <h3 id="links">Links</h3>
+
 <ul>
   <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/134">Family Trochidae</a>
 Tan, Leo W. H. &amp; Ng, Peter K. L., 1988.
@@ -415,7 +422,8 @@ website by Des Beechey Research Associate, Australian Museum: family introductio
 on the Food and Agriculture Organization of the United Nations (FAO) website.</li>
 </ul>
 
-<p><strong>References</strong></p>
+<h3 id="references">References</h3>
+
 <ul>
   <li>Toh Chay Hoon, Tan Siong Kiat &amp; Martyn E. Y. Low. 10 January 2014.
 <em>A record of Stomatella impertusa in Singapore</em>
@@ -437,18 +445,24 @@ on the Food and Agriculture Organization of the United Nations (FAO) website.</l
 . Graham Brash, Singapore. 145 pp.</li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -562,6 +576,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->

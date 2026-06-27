@@ -198,7 +198,15 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>Adult sea turtles are sometimes sighted near our Southern Islands. While there have been several incidents of baby sea turtles hatching on our shores, including East Coast Park!</p>
 
@@ -250,8 +258,9 @@ Join NPark’s
 <a href="https://www.nparks.gov.sg/visit/parks/sisters-islands-marine-park/volunteer#biodiversity-beach-patrol">Biodiversity Beach Patrol</a>
 where volunteers patrol the shores and gather data on sea turtle populations in Singapore. Patrols are done June to September yearly, 5am and 7am, 6 days a month per site.</p>
 
-<p><strong>Status and threats:</strong>
-Our sea turtles are listed as ‘Critically Endangered’ on the Red List of threatened animals of Singapore. These species are also globally ‘Critically Endangered’. Globally, sea turtles are threatened by overharvesting of their eggs, and as adults for their meat and shells. Sea turtles also drown when trapped in fishing lines and nets, and die a slow and painful death when they accidentally eat plastic bags and other marine debris. Their nesting beaches are also lost to reclamation or affected by coastal development, light and chemical pollution and other human activities nearby.</p>
+<p>## Status and threats</p>
+
+<p>Our sea turtles are listed as ‘Critically Endangered’ on the Red List of threatened animals of Singapore. These species are also globally ‘Critically Endangered’. Globally, sea turtles are threatened by overharvesting of their eggs, and as adults for their meat and shells. Sea turtles also drown when trapped in fishing lines and nets, and die a slow and painful death when they accidentally eat plastic bags and other marine debris. Their nesting beaches are also lost to reclamation or affected by coastal development, light and chemical pollution and other human activities nearby.</p>
 
 <div class="img-wrap-group">
     
@@ -438,19 +447,16 @@ on the News from International Coastal Cleanup blog</li>
 (Mar 05) on the habitatnews blog</li>
 </ul>
 
-        </div>
-        
-      </section>
 
-      
-      <section>
-        <h2>Sightings of Sea turtles on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=39657&verifiable=any">iNaturalist</a></h2>
-        <div id="map" style="height:400px"></div>
-      </section>
-      
         
-        <section>
+          <section>
+            <h2 id="inat" label="Sightings">Sightings of Sea turtles on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=39657&verifiable=any">iNaturalist</a></h2>
+            <div id="map" style="height:400px"></div>
+          </section>
+        
             
+            <section>
+                
 
 
 
@@ -458,9 +464,10 @@ on the News from International Coastal Cleanup blog</li>
     
 
 </div>
-        </section>
-        <section>
-            <p><strong>Links</strong></p>
+            </section>
+            <section>
+                <h3 id="links">Links</h3>
+
 <ul>
   <li><a href="http://wildsingaporenews.blogspot.com/search/label/sea-turtles">Latest media reports on sea turtles</a>
 on the wildsingapore news blog.</li>
@@ -502,7 +509,8 @@ and
   <li><a href="http://wildshores.blogspot.com/2008/08/sea-turtles-and-singapores-shores.html">Sea turtles and Singapore’s shores</a></li>
 </ul>
 
-<p><strong>References</strong></p>
+<h3 id="references">References</h3>
+
 <ul>
   <li>Joseph Cham,
 <em>Distribution of marine turtles in Singapore: human-wildlife coexistence in a highly urbanized seascape</em>
@@ -521,18 +529,24 @@ New Holland.</li>
 . Nature Society (Singapore). 285 pp.</li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -646,6 +660,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->

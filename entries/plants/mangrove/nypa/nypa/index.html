@@ -217,7 +217,15 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>This palm that seems to lack a trunk is sometimes seen in our mangroves. In some places, they form huge stands, in others, they occur in small clumps. In the past, it was found in tidal rivers often forming large colonies. It is generally found in calm estuaries and shallow lagoons with permanent and high inflows of freshwater. It does not occur on shores exposed to waves or in areas with high salinity, and is also not found far beyond the intertidal influence.</p>
 
@@ -243,8 +251,9 @@ and small flies of the Family Drosophilidae. Bees may not be important pollinato
 
 <p>Burkill describes the tapping process: A palm is fit to tap at 5 years of age or after its second flowering. When the fruit is forming, the stalk carrying it is beaten with a wooden mallet. After being bruised daily for a week, the stalk is tapped for its sap and the flow maintained by daily shaving off from the stump of the inflorescence. It is accepted that tapping over 50 years is possible. The sap ferments into alcohol, toddy, almost immediately as “bacteria of fermentation is in abundance” in the containers used to collect the sap. Nipah suger is not much made in Malaya because it contains “too much of a treacly substance that is difficult to eliminate”. Toddy left to stand becomes vinegar in a fortnight, which is used to bleach Nipah leaves for the hat and mat industry.</p>
 
-<p><strong>Status and threats:</strong>
-It is listed as ‘Vulnerable’ in the Red List of threatened plants of Singapore. According to Davison, most of the localities where this palm is found is not in protected areas, so there is the danger of development wiping out populations. Only populations at Sungei Buloh, Pulau Ubin and Pulau Tekong are protected.</p>
+<p>## Status and threats</p>
+
+<p>It is listed as ‘Vulnerable’ in the Red List of threatened plants of Singapore. According to Davison, most of the localities where this palm is found is not in protected areas, so there is the danger of development wiping out populations. Only populations at Sungei Buloh, Pulau Ubin and Pulau Tekong are protected.</p>
 
 <p><img src="https://images.naturehungry.sg/plants/mangrove/nypa/nypa/090124ubnd5977m6.jpg" alt="" /></p>
 
@@ -350,19 +359,16 @@ for free download from
 
 <hr />
 
-        </div>
-        
-      </section>
 
-      
-      <section>
-        <h2>Sightings of Nipah     palm  on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=83106&verifiable=any">iNaturalist</a></h2>
-        <div id="map" style="height:400px"></div>
-      </section>
-      
         
-        <section>
+          <section>
+            <h2 id="inat" label="Sightings">Sightings of Nipah     palm  on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=83106&verifiable=any">iNaturalist</a></h2>
+            <div id="map" style="height:400px"></div>
+          </section>
+        
             
+            <section>
+                
 
 
 
@@ -370,9 +376,10 @@ for free download from
     
 
 </div>
-        </section>
-        <section>
-            <p><strong>Links</strong></p>
+            </section>
+            <section>
+                <h3 id="links">Links</h3>
+
 <ul>
   <li><em><a href="http://floraofsingapore.wordpress.com/2010/03/14/nypa-fruticans/">Nypa fruticans</a></em>
 on Total Vascular Flora of Singapore Online: photos and fact sheet.</li>
@@ -396,7 +403,8 @@ Tan, Leo W. H. &amp; Ng, Peter K. L., 1988.
 (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.</li>
 </ul>
 
-<p><strong>References</strong></p>
+<h3 id="references">References</h3>
+
 <ul>
   <li>Teo, S., W. F. Ang, A. F. S. L. Lok, B. R. Kurukulasuriya &amp; H. T. W. Tan, 2010.
 <a href="http://rmbr.nus.edu.sg/nis/bulletin2010/2010nis045-052.pdf">The status and distribution of the nipah palm, Nypa fruticans Wurmb (Arecaceae), in Singapore</a>
@@ -415,18 +423,24 @@ Cambridge University Press. USA. 419 pp.</li>
 . Nature Society (Singapore). 285 pp.</li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -540,6 +554,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->

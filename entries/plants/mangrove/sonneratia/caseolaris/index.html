@@ -211,7 +211,15 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>This tree is now rare in the wild. In Singapore, there were only a few trees at Woodlands Town Garden and the upper reaches of Sungei Seletar. In the past, it was also found in tidal rivers in Balestier plain and Changi. The tree, however, has since been replanted in Sungei Buloh. The tree is usually found in tidal river-banks and creeks with mud banks and is considered the most inland of the
 <em>Sonneratia</em>
@@ -244,8 +252,9 @@ The
 
 <p>According to Burkill, the young fruit is sour and used to flavour curries and chutnies. When ripe, the fruit have a “cheese-like taste” and is eaten raw or cooked. The pneumatophores are converted into corks for fishing net floats by shaping them and boiling them in water. The timber is not much used as the salt in it rusts iron nails and screws. Medicinal uses include various parts of the fruit for haemorrhage and coughs. According to Giesen, it makes poor timber but is occasionally used in salt-water piling. The pnematophores are used for making wooden soles of shoes.</p>
 
-<p><strong>Status and threats:</strong>
-It is listed as ‘Critically Endangered’ on the Red List of threatened plants of Singapore.</p>
+<p>## Status and threats</p>
+
+<p>It is listed as ‘Critically Endangered’ on the Red List of threatened plants of Singapore.</p>
 
 <p><em><img src="https://images.naturehungry.sg/plants/mangrove/sonneratia/caseolaris/100411prpd0907m6l.jpg" alt="" /></em>
 Planted in the Park
@@ -356,19 +365,16 @@ for free download from
 
 <hr />
 
-        </div>
-        
-      </section>
 
-      
-      <section>
-        <h2>Sightings of Berembang  on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=196662&verifiable=any">iNaturalist</a></h2>
-        <div id="map" style="height:400px"></div>
-      </section>
-      
         
-        <section>
+          <section>
+            <h2 id="inat" label="Sightings">Sightings of Berembang  on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=196662&verifiable=any">iNaturalist</a></h2>
+            <div id="map" style="height:400px"></div>
+          </section>
+        
             
+            <section>
+                
 
 
 
@@ -376,9 +382,10 @@ for free download from
     
 
 </div>
-        </section>
-        <section>
-            <p><strong>Links</strong></p>
+            </section>
+            <section>
+                <h3 id="links">Links</h3>
+
 <ul>
   <li><em><a href="https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3343">Sonneratia caseolaris</a></em>
 on the NParks Flora and Fauna website: photos and fact sheet.</li>
@@ -393,7 +400,8 @@ I (Plant Diversity)</em>
 (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.</li>
 </ul>
 
-<p><strong>References</strong></p>
+<h3 id="references">References</h3>
+
 <ul>
   <li>Mishak Shunari &amp; Benjamin C. Lee. 31 May 2017.
 <a href="https://lkcnhm.nus.edu.sg/app/uploads/2017/09/sbr2017-066-067.pdf">Long-tailed macaque feeding on flowers of the mangrove apple tree,
@@ -419,18 +427,24 @@ Cambridge University Press. USA. 419 pp.</li>
 . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.</li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -544,6 +558,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->

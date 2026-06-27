@@ -223,7 +223,15 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>This tree with pretty white star-shaped flowers and large round fruits is widely planted along our roadsides and in our parks. It is also sometimes seen growing wild in our mangroves, seashores and tidal rivers. According to Giesen, it is found in coastal forest and landward margins of mangroves and along rivers. It has a limited salt tolerance, and occurs on clays or sandy soils.</p>
 
@@ -246,8 +254,9 @@
 <a href="cerbera">species in general</a>
 for more about their uses.</p>
 
-<p><strong>Status and threats:</strong>
-This tree is listed as ‘Vulnerable’ on the Red List of threatened plants of Singapore.</p>
+<p>## Status and threats</p>
+
+<p>This tree is listed as ‘Vulnerable’ on the Red List of threatened plants of Singapore.</p>
 
 <p>*<img src="https://images.naturehungry.sg/plants/coastal/cerbera/odollam/090410ubnd9387m3.jpg" alt="" /></p>
 
@@ -323,19 +332,16 @@ This tree is listed as ‘Vulnerable’ on the Red List of threatened plants of 
 </div>
 
 
-        </div>
-        
-      </section>
 
-      
-      <section>
-        <h2>Sightings of Yellow-eyed pong pong tree on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=343758&verifiable=any">iNaturalist</a></h2>
-        <div id="map" style="height:400px"></div>
-      </section>
-      
         
-        <section>
+          <section>
+            <h2 id="inat" label="Sightings">Sightings of Yellow-eyed pong pong tree on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=343758&verifiable=any">iNaturalist</a></h2>
+            <div id="map" style="height:400px"></div>
+          </section>
+        
             
+            <section>
+                
 
 
 
@@ -343,17 +349,17 @@ This tree is listed as ‘Vulnerable’ on the Red List of threatened plants of 
     
 
 </div>
-        </section>
-        <section>
-            
-<p><strong>Links</strong></p>
+            </section>
+            <section>
+                
+<h3 id="links">Links</h3>
 <ul>
   <li>Cerbera odollam on Total Vascular Flora of Singapore Online: photos and fact sheet.</li>
   <li>Cerbera odollam on the NParks Flora and Fauna website: photos and fact sheet.</li>
   <li>Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006. Mangrove Guidebook for Southeast Asia (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.</li>
 </ul>
 
-<p><strong>References</strong></p>
+<h3 id="references">References</h3>
 <ul>
   <li>Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press. 222 pp.</li>
   <li>Tan, Hugh T.W. and T. Morgany. 2001. Growing the Native Plants of Singapore . BP Science Centre Guidebook. 168pp.</li>
@@ -365,18 +371,24 @@ This tree is listed as ‘Vulnerable’ on the Red List of threatened plants of 
   <li>Wee Yeow Chin. 1992. A Guide to Medicinal Plants . The Singapore Science Centre. 160pp.</li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -490,6 +502,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->

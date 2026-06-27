@@ -223,7 +223,38 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+        <fieldset class="trivia-box">
+    <legend class="trivia-box-title">if you learn only 3 things about it ..</legend>
+    <ul>
+        
+        <li class="trivia-box-item">
+            Often mistaken for an eel or snake, it is actually a harmless fish
+        </li>
+        
+        <li class="trivia-box-item">
+            It may be green, brown or even bluish
+        </li>
+        
+        <li class="trivia-box-item">
+            It is well camouflaged
+        </li>
+        
+        <li class="trivia-box-item">
+            Don't step on it!
+        </li>
+        
+    </ul>
+</fieldset>
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>This snake-like fish is commonly seen on many of our shores, among coral rubble and near seagrasses. Most are well camouflaged and are thus often overlooked. Big ones trapped in small pools at low tide usually hide deep under coral rubble with only a bit of the tail sticking out. But small ones may be seen swimming about in larger pools among seagrass, corals or coral rubble.</p>
 
@@ -318,8 +349,9 @@ Carpet eel-blennies lay their eggs in small clumps.</p>
 
 <p>Although large, the Carpet eel-blenny is not eaten by people. It is, however, harvested from the wild for the live aquarium trade and sold as “wolf eels”. But they are not the most popular aquarium fish, as they tend to eat their tankmates.</p>
 
-<p><strong>Status and threats:</strong>
-Other dottybacks are more popular in the aquarium trade. Harvesting may involve the use of cyanide or blasting, which damage the habitat and kill many other creatures. Like other fish and creatures harvested from the sea, most die before they can reach the retailers. Without professional care, most die soon after they are sold. Those that do survive are unlikely to breed successfully. Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Poaching by hobbyists also have an impact on local populations.</p>
+<p>## Status and threats</p>
+
+<p>Other dottybacks are more popular in the aquarium trade. Harvesting may involve the use of cyanide or blasting, which damage the habitat and kill many other creatures. Like other fish and creatures harvested from the sea, most die before they can reach the retailers. Without professional care, most die soon after they are sold. Those that do survive are unlikely to breed successfully. Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Poaching by hobbyists also have an impact on local populations.</p>
 
 <hr />
 
@@ -646,42 +678,16 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 
 <hr />
 
-        </div>
-        
-        <div class="trivia-box">
-    <h4 class="trivia-box-title">if you learn only 3 things about it ..</h4>
-    <ul>
-        
-        <li class="trivia-box-item">
-            Often mistaken for an eel or snake, it is actually a harmless fish
-        </li>
-        
-        <li class="trivia-box-item">
-            It may be green, brown or even bluish
-        </li>
-        
-        <li class="trivia-box-item">
-            It is well camouflaged
-        </li>
-        
-        <li class="trivia-box-item">
-            Don't step on it!
-        </li>
-        
-    </ul>
-</div>
-        
-      </section>
 
-      
-      <section>
-        <h2>Sightings of Carpet eel-blenny on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=530730&verifiable=any">iNaturalist</a></h2>
-        <div id="map" style="height:400px"></div>
-      </section>
-      
         
-        <section>
+          <section>
+            <h2 id="inat" label="Sightings">Sightings of Carpet eel-blenny on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=530730&verifiable=any">iNaturalist</a></h2>
+            <div id="map" style="height:400px"></div>
+          </section>
+        
             
+            <section>
+                
 
 
 
@@ -689,9 +695,10 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
     
 
 </div>
-        </section>
-        <section>
-            <p><strong>Links</strong></p>
+            </section>
+            <section>
+                <h3 id="links">Links</h3>
+
 <ul>
   <li><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/306">Carpet eel-blenny ( <em>Congrogadus subducens</em>
 )</a>
@@ -716,7 +723,8 @@ Singapore Science Centre. 163 pp.</li>
   </li>
 </ul>
 
-<p><strong>References</strong></p>
+<h3 id="references">References</h3>
+
 <ul>
   <li>Tan Yee Keat.
 <em>A yellowbelly dottyback (Pseudochromis ransonneti) off Pulau Satumu.</em>
@@ -738,18 +746,24 @@ Singapore Biodiversity Records 2014: 65-66</li>
 Periplus Editions. 400pp.</li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -863,6 +877,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->

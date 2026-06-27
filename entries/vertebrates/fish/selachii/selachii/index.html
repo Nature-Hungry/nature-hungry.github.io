@@ -204,7 +204,30 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+        <fieldset class="trivia-box">
+    <legend class="trivia-box-title">if you learn only 3 things about them ..</legend>
+    <ul>
+        
+        <li class="trivia-box-item">
+            Sharks can still be found in Singapore waters! They will not harm humans if they are left alone
+        </li>
+        
+        <li class="trivia-box-item">
+            As top predators, they play an important role in the health and balance of the marine ecosystem.
+        </li>
+        
+    </ul>
+</fieldset>
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>Sharks are sometimes seen by divers in our waters, and during intertidal trips to Singapore’s southern submerged reefs.</p>
 
@@ -315,8 +338,9 @@ The remora aka ‘sharksucker’ is often seen stuck onto sharks as well as othe
     
 
 </div>
-<p><strong>Status and threats:</strong>
-In Singapore, our sharks are threatened by over fishing
+<p>## Status and threats</p>
+
+<p>In Singapore, our sharks are threatened by over fishing
 <a href="http://www.pulauhantu.org/blacktip-reef-shark-caught-at-pulau-hantu/">by recreational fishermen</a>
 ,
 <a href="http://wildshores.blogspot.sg/2010/07/dark-side-of-cyrene.html">trapped in nets</a>
@@ -580,34 +604,16 @@ or
 
 <hr />
 
-        </div>
-        
-        <div class="trivia-box">
-    <h4 class="trivia-box-title">if you learn only 3 things about them ..</h4>
-    <ul>
-        
-        <li class="trivia-box-item">
-            Sharks can still be found in Singapore waters! They will not harm humans if they are left alone
-        </li>
-        
-        <li class="trivia-box-item">
-            As top predators, they play an important role in the health and balance of the marine ecosystem.
-        </li>
-        
-    </ul>
-</div>
-        
-      </section>
 
-      
-      <section>
-        <h2>Sightings of Sharks on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=85819&verifiable=any">iNaturalist</a></h2>
-        <div id="map" style="height:400px"></div>
-      </section>
-      
         
-        <section>
+          <section>
+            <h2 id="inat" label="Sightings">Sightings of Sharks on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=85819&verifiable=any">iNaturalist</a></h2>
+            <div id="map" style="height:400px"></div>
+          </section>
+        
             
+            <section>
+                
 
 
 
@@ -615,9 +621,10 @@ or
     
 
 </div>
-        </section>
-        <section>
-            <p><strong>Links</strong></p>
+            </section>
+            <section>
+                <h3 id="links">Links</h3>
+
 <ul>
   <li>Lim, Kelvin K. P. &amp; Jeffrey K. Y. Low, 1998.
 <em><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/">A Guide to the Common Marine Fishes of Singapore</a></em>
@@ -640,7 +647,8 @@ or
 on the Lazy Lizard Tales blog.</li>
 </ul>
 
-<p><strong>References</strong></p>
+<h3 id="references">References</h3>
+
 <ul>
   <li>Chim Chee Kong, Lee Yen-ling, Samantha Tong, Teresa Tay &amp; Rene Ong. 16 October 2015.
 <em>Blacktip reef sharks caught in trammel nets at Lazarus Island</em>
@@ -665,18 +673,24 @@ on the Lazy Lizard Tales blog.</li>
 . Division of Biology, School of Science, Nanyang Technological University &amp; Department of Zoology, the National University of Singapore. 160 pp.</li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -790,6 +804,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->

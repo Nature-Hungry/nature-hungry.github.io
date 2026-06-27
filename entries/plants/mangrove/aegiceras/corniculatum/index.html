@@ -223,7 +223,15 @@
       </section>
 
       <section id="content-section">
+        <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside>
+
         <div class="main-content">
+        
+
         <h2 id="where-seen">Where seen?</h2>
 <p>A rare shrub. According to Ng, it was found in various northern sites and Pulau Unum. According to Hsuan Keng, it was found in mangroves including Tuas, Changi, Lim Chu Kang and Pulau Ubin. According to Davison, it is found on Pulau Unum, Sungei Khatib Bongsu, Sungei Mandai, Pasir Ris Park, Lim Chu Kang and the Western Catchment. Elsewhere, it is characteristic of the outer, seaward fringe of mangroves and usually appears as an isolated shrub, never forming a conspicuous part of the community. According to Burkill, it likes light and is never found under the shade of mangroves. Instead, it is ‘abundant’ on mud above the high water mark. According to Giersen, it tolerant of a wide range of salinity, soil and light conditions and most commonly found in back mangroves that are inundated by the normal high tide, in sandy substrates. It is found from India to New Guinea and common in the mangroves of Malaya. According to Tomlinson, it is widely distributed from Sri Lanka to South China through the Malay archipelago to Polynesia and northeastern Australia to New South Wales.</p>
 
@@ -251,8 +259,9 @@ species and
 
 <p>According to Burkill, the bark is used as a ‘fish poison’, i.e., to stun fish and scoop them up. He identifies the toxin as a saponin. The seeds also contain the same poison. The leaves were eaten by poor people in the Moluccas raw or cooked, while women wore the scented flowers in their hair. According to Giersen, the wood is used to make charcoal. The flowers are probably an important source of nectar for local honey industries.</p>
 
-<p><strong>Status and threats:</strong>
-This plant is listed as ‘Endangered’ in the Red List of threatened plants of Singapore. It is threatened by habitat loss and oil spills.</p>
+<p>## Status and threats</p>
+
+<p>This plant is listed as ‘Endangered’ in the Red List of threatened plants of Singapore. It is threatened by habitat loss and oil spills.</p>
 
 <p><img src="https://images.naturehungry.sg/plants/mangrove/aegiceras/corniculatum/110419krjd9208m6l.jpg" alt="" /></p>
 
@@ -325,19 +334,16 @@ for free download from
 
 <hr />
 
-        </div>
-        
-      </section>
 
-      
-      <section>
-        <h2>Sightings of Kachang-kachang  on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=183233&verifiable=any">iNaturalist</a></h2>
-        <div id="map" style="height:400px"></div>
-      </section>
-      
         
-        <section>
+          <section>
+            <h2 id="inat" label="Sightings">Sightings of Kachang-kachang  on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=183233&verifiable=any">iNaturalist</a></h2>
+            <div id="map" style="height:400px"></div>
+          </section>
+        
             
+            <section>
+                
 
 
 
@@ -345,9 +351,10 @@ for free download from
     
 
 </div>
-        </section>
-        <section>
-            <p><strong>Links</strong></p>
+            </section>
+            <section>
+                <h3 id="links">Links</h3>
+
 <ul>
   <li><a href="http://floraofsingapore.wordpress.com/2010/07/01/aegiceras-corniculatum/"><em>Aegiceras corniculatum</em></a>
 on Total Vascular Flora of Singapore Online: photos and fact sheet.</li>
@@ -366,7 +373,8 @@ on Total Vascular Flora of Singapore Online: photos and fact sheet.</li>
 (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.</li>
 </ul>
 
-<p><strong>References</strong></p>
+<h3 id="references">References</h3>
+
 <ul>
   <li>Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 <em>The Concise Flora of Singapore: Gymnosperms and Dicotyledons</em>
@@ -385,18 +393,24 @@ Cambridge University Press. USA. 419 pp.</li>
 . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.</li>
 </ul>
 
-        </section>
-        <section>
-            <h4>Authors</h4>
-            <p>
-                
-                    <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
+            </section>
+            <section>
+                <h3 id="authors">Authors</h3>
+                <p>
+                    
+                        <p><a href="https://www.facebook.com/wildsingapore/">Ria Tan</a></p>
 
+                    
+                    
+                </p>
                 
-                
-            </p>
-            
-        </section>
+            </section>
+        </div>
+       
+        
+      </section>
+
+      
 
         
     </main>
@@ -510,6 +524,70 @@ async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
 
 // Run automatically on page load
 purgeAllInactiveCache();
+
+
+</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+    const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
 </script>
 
 </div><!-- .site-wrapper -->
