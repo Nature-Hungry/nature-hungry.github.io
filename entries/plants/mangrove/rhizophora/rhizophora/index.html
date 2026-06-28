@@ -244,7 +244,7 @@ means “root bearer” in Greek.</p>
 <a href="http://wildshores.blogspot.com/2009/04/how-is-charcoal-made-from-mangroves.html">make charcoal</a>
 . It is also valued as a source of tannins. In fact, the use of mangrove trees in tanning leather has been recorded by early Arab traders. Besides tanning leather, the bark was originally used by fishermen to toughen their fishing lines and ropes. The tree is much in demand for piling and house frames built near mangroves and swamps. As well as for building fishtraps.</p>
 
-<p>## Status and threats</p>
+<h2 id="status-and-threats">Status and threats</h2>
 
 <p><em>R. stylosa</em>
 is listed as ‘Vulnerable’ on the Red List of endangered plants in Singapore.</p>
@@ -468,7 +468,7 @@ const markerCluster = L.markerClusterGroup({
   maxClusterRadius: 30 
 });
 
-L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}', {
+L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}?api_key=' + '0639b10f-834f-439d-a510-2b0b7d148bb7', {
 	minZoom: 0,
 	maxZoom: 20,
 	attribution: '&copy; CNES, Distribution Airbus DS, © Airbus DS, © PlanetObserver (Contains Copernicus Data) | &copy; <a href="https://www.stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
@@ -582,7 +582,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // 2. Loop through sections to build sidebar menu items
   headings.forEach((heading) => {
     if (!heading) return; // Skip section if no H2 exists
-
+    if (!heading.hasAttribute("id")) return;
     
 
     // Create list item components

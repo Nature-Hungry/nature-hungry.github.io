@@ -250,7 +250,7 @@ It eats insects such as beetles, flies and ants.</p>
 <p><strong>Baby lizards:</strong>
 Mama lizard lays 1-4 large, spindle-shaped eggs which are buried in the soil.</p>
 
-<p>## Status and threats</p>
+<h2 id="status-and-threats">Status and threats</h2>
 
 <p>It is not listed among our threatened animals. But it is no longer as commonly seen as in the past. It has been displaced by the more aggressive
 <a href="versicolor">Changeable lizard</a>
@@ -349,7 +349,7 @@ const markerCluster = L.markerClusterGroup({
   maxClusterRadius: 30 
 });
 
-L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}', {
+L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}?api_key=' + '0639b10f-834f-439d-a510-2b0b7d148bb7', {
 	minZoom: 0,
 	maxZoom: 20,
 	attribution: '&copy; CNES, Distribution Airbus DS, © Airbus DS, © PlanetObserver (Contains Copernicus Data) | &copy; <a href="https://www.stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
@@ -463,7 +463,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // 2. Loop through sections to build sidebar menu items
   headings.forEach((heading) => {
     if (!heading) return; // Skip section if no H2 exists
-
+    if (!heading.hasAttribute("id")) return;
     
 
     // Create list item components

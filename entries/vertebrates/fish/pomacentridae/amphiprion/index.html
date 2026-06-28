@@ -351,7 +351,7 @@ the fishes use the smell of leaves from the rainforest to find their way to a su
 <p>There have been some success in breeding anemonefish for the aquarium trade. Although captive bred anemonefish are hardier, they are more expensive. Harvesting from the wild will probably continue so long as there are unscrupulous traders and aquarists.
 Thus, anemonefishes continue to be unsustainably harvested from the wild. The pressure on wild populations has risen tremendously due to the huge demand following the popular “Finding Nemo” cartoon.</p>
 
-<p>## Status and threats</p>
+<h2 id="status-and-threats">Status and threats</h2>
 
 <p>All our anemonefishes are ‘Vulnerable’ in the Red List of threatened animals of Singapore. Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Poaching by hobbyists and overfishing can also have an impact on local populations. According to the Singapore Red Data Book, “habitat protection and strict policing against illegal collection are required” to conserve our anemonefishes.</p>
 
@@ -534,7 +534,7 @@ const markerCluster = L.markerClusterGroup({
   maxClusterRadius: 30 
 });
 
-L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}', {
+L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}?api_key=' + '0639b10f-834f-439d-a510-2b0b7d148bb7', {
 	minZoom: 0,
 	maxZoom: 20,
 	attribution: '&copy; CNES, Distribution Airbus DS, © Airbus DS, © PlanetObserver (Contains Copernicus Data) | &copy; <a href="https://www.stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
@@ -648,7 +648,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // 2. Loop through sections to build sidebar menu items
   headings.forEach((heading) => {
     if (!heading) return; // Skip section if no H2 exists
-
+    if (!heading.hasAttribute("id")) return;
     
 
     // Create list item components

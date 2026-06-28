@@ -305,7 +305,7 @@ They eat tiny crustaceans such as ostracods and copepods, insects and sometimes 
 
 <p>Perchlets are eaten in some places and sold fresh or salted. Some are used as an ingredient in making fish sauce. They are also used as bait.</p>
 
-<p>## Status and threats</p>
+<h2 id="status-and-threats">Status and threats</h2>
 
 <p>Our perchlets are not listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Over fishing can also have an impact on local populations.</p>
 
@@ -426,7 +426,7 @@ const markerCluster = L.markerClusterGroup({
   maxClusterRadius: 30 
 });
 
-L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}', {
+L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}?api_key=' + '0639b10f-834f-439d-a510-2b0b7d148bb7', {
 	minZoom: 0,
 	maxZoom: 20,
 	attribution: '&copy; CNES, Distribution Airbus DS, © Airbus DS, © PlanetObserver (Contains Copernicus Data) | &copy; <a href="https://www.stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
@@ -540,7 +540,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // 2. Loop through sections to build sidebar menu items
   headings.forEach((heading) => {
     if (!heading) return; // Skip section if no H2 exists
-
+    if (!heading.hasAttribute("id")) return;
     
 
     // Create list item components

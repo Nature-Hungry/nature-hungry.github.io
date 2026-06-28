@@ -261,7 +261,7 @@ practically exclude each other in habitat and have never been collected in exact
 
 <p>According to Burkill, the timber is hard and durable, and thus sought after for marine pilings as well as bridges, wharves, parts of canoes and other household items. There are reports that pier posts made of the tree were still sound after 20-50 years. When first cut it smells of roses. But large-sized timber is rare. It is also used as firewood.</p>
 
-<p>## Status and threats</p>
+<h2 id="status-and-threats">Status and threats</h2>
 
 <p>It is listed as ‘Endangered’ on the Red List of threatened plants of Singapore.</p>
 
@@ -435,7 +435,7 @@ const markerCluster = L.markerClusterGroup({
   maxClusterRadius: 30 
 });
 
-L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}', {
+L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}?api_key=' + '0639b10f-834f-439d-a510-2b0b7d148bb7', {
 	minZoom: 0,
 	maxZoom: 20,
 	attribution: '&copy; CNES, Distribution Airbus DS, © Airbus DS, © PlanetObserver (Contains Copernicus Data) | &copy; <a href="https://www.stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
@@ -549,7 +549,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // 2. Loop through sections to build sidebar menu items
   headings.forEach((heading) => {
     if (!heading) return; // Skip section if no H2 exists
-
+    if (!heading.hasAttribute("id")) return;
     
 
     // Create list item components

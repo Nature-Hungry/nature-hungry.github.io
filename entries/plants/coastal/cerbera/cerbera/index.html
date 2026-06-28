@@ -229,7 +229,7 @@
 
 <p>According to Corners, the fruits are poisonous and native medicinal uses are made of the bark, leaves and oil extracted from the seeds. According to Tomlinson, some native societies use the fruits as a means of committing suicide. According to Wee, the tree contains cerberin or cerberoside. According to Giesen, cerberin is similar in structure to digoxin, found in foxglove, which kills by blocking calcium ion channels in heart muscles and disrupting the heartbeat. More ominiously, it is also suspected of being used in an increasing number of murder cases. The bark, sap and leaves are used as a purgative, and for inducing abortion.</p>
 
-<p>## Status and threats</p>
+<h2 id="status-and-threats">Status and threats</h2>
 
 <p><em>Cerbera odollam</em>
 is listed as ‘Vulnerable’ while
@@ -419,7 +419,7 @@ const markerCluster = L.markerClusterGroup({
   maxClusterRadius: 30 
 });
 
-L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}', {
+L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}?api_key=' + '0639b10f-834f-439d-a510-2b0b7d148bb7', {
 	minZoom: 0,
 	maxZoom: 20,
 	attribution: '&copy; CNES, Distribution Airbus DS, © Airbus DS, © PlanetObserver (Contains Copernicus Data) | &copy; <a href="https://www.stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
@@ -533,7 +533,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // 2. Loop through sections to build sidebar menu items
   headings.forEach((heading) => {
     if (!heading) return; // Skip section if no H2 exists
-
+    if (!heading.hasAttribute("id")) return;
     
 
     // Create list item components

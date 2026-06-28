@@ -247,7 +247,7 @@ is named after Ibn Sina (980-1037 AD), a Persian physician-philosopher who gaine
 
 <p>According to Burkill, the tree provides an “indifferent firewood” and the timber often too twisted to be of use. However, he reported it was widely used to smoke fish as it gave “an agreeable flavour” and also for smoking rubber. The ‘seeds’ are also eaten in various ways by various coastal natives with much treatment such as boiling then soaking or sun drying or roasting in order to make them more palatable. The leaves are fed to cattle in the Red Sea, Persian Gulf and India as well as Australia. Medical uses include the resin for toothache, as a contraceptive, an aphrodisiac. The ash from burnt wood is used to make soap as there is a large amount of alkali in it.</p>
 
-<p>## Status and threats</p>
+<h2 id="status-and-threats">Status and threats</h2>
 
 <p><em>Avicennia marina</em>
 is listed as ‘Critically Endangered’ in the Red List of threatened plants of Singapore.</p>
@@ -469,7 +469,7 @@ const markerCluster = L.markerClusterGroup({
   maxClusterRadius: 30 
 });
 
-L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}', {
+L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}?api_key=' + '0639b10f-834f-439d-a510-2b0b7d148bb7', {
 	minZoom: 0,
 	maxZoom: 20,
 	attribution: '&copy; CNES, Distribution Airbus DS, © Airbus DS, © PlanetObserver (Contains Copernicus Data) | &copy; <a href="https://www.stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
@@ -583,7 +583,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // 2. Loop through sections to build sidebar menu items
   headings.forEach((heading) => {
     if (!heading) return; // Skip section if no H2 exists
-
+    if (!heading.hasAttribute("id")) return;
     
 
     // Create list item components

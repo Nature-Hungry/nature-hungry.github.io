@@ -270,9 +270,8 @@ Juvenile
   <div>
     <div class="flex gap-1">
       <h3><a href="/entries/vertebrates/fish/terapontidae/jarbua/">Crescent perch</a></h3>
-      <div class="attributes">
         <div class="attribute LC redlist">LC</div>
-      </div>
+      
     </div>
     <p class="scientific-name-subtitle">Terapon jarbua</p>
     <p class="summary">
@@ -288,9 +287,8 @@ Juvenile
   <div>
     <div class="flex gap-1">
       <h3><a href="/entries/vertebrates/fish/terapontidae/quadrilineatus/">Trumpeter perch</a></h3>
-      <div class="attributes">
         <div class="attribute LC redlist">LC</div>
-      </div>
+      
     </div>
     <p class="scientific-name-subtitle">Pelates quadrilineatus</p>
     <p class="summary">
@@ -306,9 +304,8 @@ Juvenile
   <div>
     <div class="flex gap-1">
       <h3><a href="/entries/vertebrates/fish/terapontidae/terapontidae/">Perch</a></h3>
-      <div class="attributes">
         <div class="attribute  redlist"></div>
-      </div>
+      
     </div>
     <p class="scientific-name-subtitle"> </p>
     <p class="summary">
@@ -324,9 +321,8 @@ Juvenile
   <div>
     <div class="flex gap-1">
       <h3><a href="/entries/vertebrates/fish/terapontidae/theraps/">Banded perch</a></h3>
-      <div class="attributes">
         <div class="attribute  redlist"></div>
-      </div>
+      
     </div>
     <p class="scientific-name-subtitle">Terapon theraps</p>
     <p class="summary">
@@ -416,7 +412,7 @@ const markerCluster = L.markerClusterGroup({
   maxClusterRadius: 30 
 });
 
-L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}', {
+L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}?api_key=' + '0639b10f-834f-439d-a510-2b0b7d148bb7', {
 	minZoom: 0,
 	maxZoom: 20,
 	attribution: '&copy; CNES, Distribution Airbus DS, © Airbus DS, © PlanetObserver (Contains Copernicus Data) | &copy; <a href="https://www.stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
@@ -530,7 +526,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // 2. Loop through sections to build sidebar menu items
   headings.forEach((heading) => {
     if (!heading) return; // Skip section if no H2 exists
-
+    if (!heading.hasAttribute("id")) return;
     
 
     // Create list item components

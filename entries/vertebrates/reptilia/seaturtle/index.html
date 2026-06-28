@@ -258,7 +258,7 @@ Join NPark’s
 <a href="https://www.nparks.gov.sg/visit/parks/sisters-islands-marine-park/volunteer#biodiversity-beach-patrol">Biodiversity Beach Patrol</a>
 where volunteers patrol the shores and gather data on sea turtle populations in Singapore. Patrols are done June to September yearly, 5am and 7am, 6 days a month per site.</p>
 
-<p>## Status and threats</p>
+<h2 id="status-and-threats">Status and threats</h2>
 
 <p>Our sea turtles are listed as ‘Critically Endangered’ on the Red List of threatened animals of Singapore. These species are also globally ‘Critically Endangered’. Globally, sea turtles are threatened by overharvesting of their eggs, and as adults for their meat and shells. Sea turtles also drown when trapped in fishing lines and nets, and die a slow and painful death when they accidentally eat plastic bags and other marine debris. Their nesting beaches are also lost to reclamation or affected by coastal development, light and chemical pollution and other human activities nearby.</p>
 
@@ -561,7 +561,7 @@ const markerCluster = L.markerClusterGroup({
   maxClusterRadius: 30 
 });
 
-L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}', {
+L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}?api_key=' + '0639b10f-834f-439d-a510-2b0b7d148bb7', {
 	minZoom: 0,
 	maxZoom: 20,
 	attribution: '&copy; CNES, Distribution Airbus DS, © Airbus DS, © PlanetObserver (Contains Copernicus Data) | &copy; <a href="https://www.stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
@@ -675,7 +675,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // 2. Loop through sections to build sidebar menu items
   headings.forEach((heading) => {
     if (!heading) return; // Skip section if no H2 exists
-
+    if (!heading.hasAttribute("id")) return;
     
 
     // Create list item components

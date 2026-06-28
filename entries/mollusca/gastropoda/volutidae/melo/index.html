@@ -338,7 +338,7 @@ bail out water from ‘sampans’ (little boats used by fishermen), also to meas
 
 <p>“Pearls” may form inside this snail when something enters the snail’s shell and gets covered by shell material. The “pearl” is not lustrous as it contains no nacre, but are usually very round and can be as large as a golf ball. The colours of the “pearl” tend to fade over time so they are not considered precious gems.</p>
 
-<p>## Status and threats</p>
+<h2 id="status-and-threats">Status and threats</h2>
 
 <p>The Baler volute is listed as ‘Endangered’ in the Red List of threatened animals of Singapore due to habitat loss. Also threatened by indiscriminate fishing with nets. It is also eaten. Wildfilms had an encounter with a collector who
 <a href="http://wildfilms.blogspot.com/2007/07/mone-not-enough.html">took one from Changi to eat</a>
@@ -540,7 +540,7 @@ const markerCluster = L.markerClusterGroup({
   maxClusterRadius: 30 
 });
 
-L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}', {
+L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}?api_key=' + '0639b10f-834f-439d-a510-2b0b7d148bb7', {
 	minZoom: 0,
 	maxZoom: 20,
 	attribution: '&copy; CNES, Distribution Airbus DS, © Airbus DS, © PlanetObserver (Contains Copernicus Data) | &copy; <a href="https://www.stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
@@ -654,7 +654,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // 2. Loop through sections to build sidebar menu items
   headings.forEach((heading) => {
     if (!heading) return; // Skip section if no H2 exists
-
+    if (!heading.hasAttribute("id")) return;
     
 
     // Create list item components

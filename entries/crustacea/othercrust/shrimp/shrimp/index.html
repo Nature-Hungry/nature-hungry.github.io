@@ -351,8 +351,9 @@ again. larvae juvenile adult</p>
 <p>Shrimps and prawns are relished food by people everywhere. In Asia, shrimps are eaten in many ways. Besides the usual dishes made from whole shrimps, they may also be dried, or made into paste (‘belachan’) or mixtures (‘cincaluk’). Tiny shrimps are used as condiments, and shrimps flavour crackers, balls and other delicacies. While traditional farming and harvesting methods are sustainable, large-scale commercial prawn farms and prawn trawling are more destructive and unsustainable.
 <a href="../../../concepts/prawnfarms">More about prawn farming</a>
 and trawling.
-<em>**</em>
- ## Status and threats</p>
+<em>**</em></p>
+
+<h2 id="status-and-threats">Status and threats</h2>
 
 <p>Some of our shrimps and prawns are listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are all affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also have an impact on local populations.</p>
 
@@ -590,7 +591,7 @@ const markerCluster = L.markerClusterGroup({
   maxClusterRadius: 30 
 });
 
-L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}', {
+L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}?api_key=' + '0639b10f-834f-439d-a510-2b0b7d148bb7', {
 	minZoom: 0,
 	maxZoom: 20,
 	attribution: '&copy; CNES, Distribution Airbus DS, © Airbus DS, © PlanetObserver (Contains Copernicus Data) | &copy; <a href="https://www.stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
@@ -704,7 +705,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // 2. Loop through sections to build sidebar menu items
   headings.forEach((heading) => {
     if (!heading) return; // Skip section if no H2 exists
-
+    if (!heading.hasAttribute("id")) return;
     
 
     // Create list item components

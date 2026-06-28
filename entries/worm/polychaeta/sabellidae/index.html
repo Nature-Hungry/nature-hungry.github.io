@@ -325,7 +325,7 @@ Feather-duster or ‘Christmas tree fanworms’ more familiar to divers belong t
 
 <p>Unfortunately, fanworms are popular in the live aquarium trade and collected for this purpose. A fanworm (<em>Sabella spallanzanii</em>) introduced to Australian harbours and coasts is affecting some mussel farms because they grow on the lines meant for mussel larvae settlement. Dense growths of these worms foul up dredges and nets, overgrow seagrass and are such effective filter feeders that they deprive native filter feeders of food.</p>
 
-<p>## Status and threats</p>
+<h2 id="status-and-threats">Status and threats</h2>
 
 <p>Like other fish and creatures harvested from the wild, most die before they can reach the retailers. Without professional care, most die soon after they are sold. Often of starvation as owners are unable to provide the small creatures and plants that these fishes need to survive. Those that do survive are unlikely to breed.
 Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Poaching by hobbyists can also have an impact on local populations.</p>
@@ -546,7 +546,7 @@ const markerCluster = L.markerClusterGroup({
   maxClusterRadius: 30 
 });
 
-L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}', {
+L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}?api_key=' + '0639b10f-834f-439d-a510-2b0b7d148bb7', {
 	minZoom: 0,
 	maxZoom: 20,
 	attribution: '&copy; CNES, Distribution Airbus DS, © Airbus DS, © PlanetObserver (Contains Copernicus Data) | &copy; <a href="https://www.stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
@@ -660,7 +660,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // 2. Loop through sections to build sidebar menu items
   headings.forEach((heading) => {
     if (!heading) return; // Skip section if no H2 exists
-
+    if (!heading.hasAttribute("id")) return;
     
 
     // Create list item components

@@ -235,7 +235,7 @@
 
 <p>Body width 1-1.5cm. Body squarish. The male fiddler crab’s enlarged pincer length about the same as the body width. The enlarged pincer’s outer palm is pimply with a groove on the lower edge to the immovable finger. The tips of the fingers are short, and there isn’t a wide gape between the upper and lower finger. The palm is red, pink or purplish, the fingers are white. Body colours and patterns vary: black with white or bluish speckles, or blotches. Eyes black or dark red on long stalks pale to bright red, walking legs short black.</p>
 
-<p>## Status and threats</p>
+<h2 id="status-and-threats">Status and threats</h2>
 
 <p>The Rosy fiddler crab is listed as ‘Endangered’ in the Red List of threatened animals of Singapore.</p>
 
@@ -395,7 +395,7 @@ const markerCluster = L.markerClusterGroup({
   maxClusterRadius: 30 
 });
 
-L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}', {
+L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}?api_key=' + '0639b10f-834f-439d-a510-2b0b7d148bb7', {
 	minZoom: 0,
 	maxZoom: 20,
 	attribution: '&copy; CNES, Distribution Airbus DS, © Airbus DS, © PlanetObserver (Contains Copernicus Data) | &copy; <a href="https://www.stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
@@ -509,7 +509,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // 2. Loop through sections to build sidebar menu items
   headings.forEach((heading) => {
     if (!heading) return; // Skip section if no H2 exists
-
+    if (!heading.hasAttribute("id")) return;
     
 
     // Create list item components

@@ -252,7 +252,7 @@ The
 
 <p>According to Burkill, the young fruit is sour and used to flavour curries and chutnies. When ripe, the fruit have a “cheese-like taste” and is eaten raw or cooked. The pneumatophores are converted into corks for fishing net floats by shaping them and boiling them in water. The timber is not much used as the salt in it rusts iron nails and screws. Medicinal uses include various parts of the fruit for haemorrhage and coughs. According to Giesen, it makes poor timber but is occasionally used in salt-water piling. The pnematophores are used for making wooden soles of shoes.</p>
 
-<p>## Status and threats</p>
+<h2 id="status-and-threats">Status and threats</h2>
 
 <p>It is listed as ‘Critically Endangered’ on the Red List of threatened plants of Singapore.</p>
 
@@ -459,7 +459,7 @@ const markerCluster = L.markerClusterGroup({
   maxClusterRadius: 30 
 });
 
-L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}', {
+L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}?api_key=' + '0639b10f-834f-439d-a510-2b0b7d148bb7', {
 	minZoom: 0,
 	maxZoom: 20,
 	attribution: '&copy; CNES, Distribution Airbus DS, © Airbus DS, © PlanetObserver (Contains Copernicus Data) | &copy; <a href="https://www.stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
@@ -573,7 +573,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // 2. Loop through sections to build sidebar menu items
   headings.forEach((heading) => {
     if (!heading) return; // Skip section if no H2 exists
-
+    if (!heading.hasAttribute("id")) return;
     
 
     // Create list item components

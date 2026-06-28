@@ -244,7 +244,7 @@
 
 <p>The leaves are fed to livestock. The bark is used to make string and rope. Although the seeds are poisonous, an oil extracted from them (called Pongamol or hongay oil) is used for lighting, to manufacture soap and candles, and in medicinal uses. The roots and seeds are used as a fish poison in Australia and Indonesia. Various parts of the trees are also used in traditional medicine.. According to Tomlinson and Giesen, the tree is often planted as a shade tree along roads, but Corners says it is rarely planted in Malaya.</p>
 
-<p>## Status and threats</p>
+<h2 id="status-and-threats">Status and threats</h2>
 
 <p>This tree is listed as ‘Endangered’ in the Red List of threatened plants of Singapore.</p>
 
@@ -490,7 +490,7 @@ const markerCluster = L.markerClusterGroup({
   maxClusterRadius: 30 
 });
 
-L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}', {
+L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}?api_key=' + '0639b10f-834f-439d-a510-2b0b7d148bb7', {
 	minZoom: 0,
 	maxZoom: 20,
 	attribution: '&copy; CNES, Distribution Airbus DS, © Airbus DS, © PlanetObserver (Contains Copernicus Data) | &copy; <a href="https://www.stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
@@ -604,7 +604,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // 2. Loop through sections to build sidebar menu items
   headings.forEach((heading) => {
     if (!heading) return; // Skip section if no H2 exists
-
+    if (!heading.hasAttribute("id")) return;
     
 
     // Create list item components

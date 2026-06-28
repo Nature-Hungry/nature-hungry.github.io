@@ -245,8 +245,9 @@ and frequently found in the back mangroves which are flooded at the highest tide
 
 <p>According to Burkill, the wood is light and thus was prefered by the Javanese for making saddles. It is also used in floats for fishing nets and for wooden shoes in the Philippines. According to Giersen, it is used as firewood, and also for making traditional ‘
 <em>wayang kulit</em>
-‘ (shadow puppet) masks in Indonesia. Tea brewed from the leaves are used to treat mouth infections.
- ## Status and threats</p>
+‘ (shadow puppet) masks in Indonesia. Tea brewed from the leaves are used to treat mouth infections.</p>
+
+<h2 id="status-and-threats">Status and threats</h2>
 
 <p>It is listed as ‘Critically Endangered’ on the Red List of threatened plants of SIngapore.</p>
 
@@ -422,7 +423,7 @@ const markerCluster = L.markerClusterGroup({
   maxClusterRadius: 30 
 });
 
-L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}', {
+L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}?api_key=' + '0639b10f-834f-439d-a510-2b0b7d148bb7', {
 	minZoom: 0,
 	maxZoom: 20,
 	attribution: '&copy; CNES, Distribution Airbus DS, © Airbus DS, © PlanetObserver (Contains Copernicus Data) | &copy; <a href="https://www.stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
@@ -536,7 +537,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // 2. Loop through sections to build sidebar menu items
   headings.forEach((heading) => {
     if (!heading) return; // Skip section if no H2 exists
-
+    if (!heading.hasAttribute("id")) return;
     
 
     // Create list item components

@@ -389,7 +389,7 @@ A tiny parastic snail (<em>Parvioris fulvescens</em>) is said to be sometimes fo
 <p><strong>Is our sea star special?</strong>
 According to the Singapore Red Data Book, the form found in Singapore is larger than other examples elsewhere in the west Pacific and may be a distinct variety of subspecies.</p>
 
-<p>## Status and threats</p>
+<h2 id="status-and-threats">Status and threats</h2>
 
 <p>Although plentiful in the past, common sea stars are now listed as ‘Vulnerable’ on the Red List of threatened animals in Singapore due to habitat loss and overcollection. Their mating behaviour suggests that a certain population density is required for them to be able to reproduce successfully. In the past in Singapore, the common sea star was often collected as a teaching aid in zoology and biology. This practice can threaten the population if it results in overcollection.</p>
 
@@ -757,7 +757,7 @@ const markerCluster = L.markerClusterGroup({
   maxClusterRadius: 30 
 });
 
-L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}', {
+L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}?api_key=' + '0639b10f-834f-439d-a510-2b0b7d148bb7', {
 	minZoom: 0,
 	maxZoom: 20,
 	attribution: '&copy; CNES, Distribution Airbus DS, © Airbus DS, © PlanetObserver (Contains Copernicus Data) | &copy; <a href="https://www.stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
@@ -871,7 +871,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // 2. Loop through sections to build sidebar menu items
   headings.forEach((heading) => {
     if (!heading) return; // Skip section if no H2 exists
-
+    if (!heading.hasAttribute("id")) return;
     
 
     // Create list item components

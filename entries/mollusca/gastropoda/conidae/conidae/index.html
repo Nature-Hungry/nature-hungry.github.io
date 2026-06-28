@@ -249,7 +249,7 @@ Cone snails are predators. They feed on worms, other snails and small fishes. Ma
 
 <p>Cone snails are mainly collected for their attractive shells for the shell trade. Research on their toxins have resulted in some medical applications to help humans cope with pain and diseases.</p>
 
-<p>## Status and threats</p>
+<h2 id="status-and-threats">Status and threats</h2>
 
 <p>The Textile cone (<em>Conus textile</em>) is listed as ‘Vulnerable’ on the Red List of threatened animals of Singapore. It used to be found in Singapore coral reef areas up till the 1970s but is now extremely rare. The Singed cone (<em>Conus consor</em>) is also listed as ‘Vulnerable’ on the Red List of threatened animals of Singapore. It used to be the most common cone species seen in Singapore’s rocky shores in the past, but now seldom seen due to degradation or reclamation of natural rocky shores.</p>
 
@@ -775,7 +775,7 @@ const markerCluster = L.markerClusterGroup({
   maxClusterRadius: 30 
 });
 
-L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}', {
+L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}?api_key=' + '0639b10f-834f-439d-a510-2b0b7d148bb7', {
 	minZoom: 0,
 	maxZoom: 20,
 	attribution: '&copy; CNES, Distribution Airbus DS, © Airbus DS, © PlanetObserver (Contains Copernicus Data) | &copy; <a href="https://www.stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
@@ -889,7 +889,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // 2. Loop through sections to build sidebar menu items
   headings.forEach((heading) => {
     if (!heading) return; // Skip section if no H2 exists
-
+    if (!heading.hasAttribute("id")) return;
     
 
     // Create list item components

@@ -226,7 +226,7 @@ may appear similar.</p>
 
 <p>Colonies 15-30cm, elsewhere recorded to grow up to 5m wide and 2m tall. The colonies are said to be usually dome-shaped but may become almost spherical boulders. Some seen were encrusting. The corallites (1cm) are similarly-sized neat domes with a small central opening. Neat narrow ridges on the corallite radiate out in regular rays. The corallites are regularly spaced out for an overall pattern that is neat and tidy. The large polyp tentacles are said to emerge at night. Colours seen include brown, purplish, pinkish-brown sometimes with a bluish tinge.</p>
 
-<p>## Status and threats</p>
+<h2 id="status-and-threats">Status and threats</h2>
 
 <p>This coral is listed as globally Near Threatened
 <a href="http://www.iucnredlist.org/">by the IUCN</a>
@@ -497,7 +497,7 @@ const markerCluster = L.markerClusterGroup({
   maxClusterRadius: 30 
 });
 
-L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}', {
+L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}?api_key=' + '0639b10f-834f-439d-a510-2b0b7d148bb7', {
 	minZoom: 0,
 	maxZoom: 20,
 	attribution: '&copy; CNES, Distribution Airbus DS, © Airbus DS, © PlanetObserver (Contains Copernicus Data) | &copy; <a href="https://www.stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
@@ -611,7 +611,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // 2. Loop through sections to build sidebar menu items
   headings.forEach((heading) => {
     if (!heading) return; // Skip section if no H2 exists
-
+    if (!heading.hasAttribute("id")) return;
     
 
     // Create list item components

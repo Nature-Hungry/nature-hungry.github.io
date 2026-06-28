@@ -319,7 +319,7 @@ Turban shells graze the algae that thrive on the rocks, scraping this off with t
 
 <p>In our region, the larger turban snails are collected for food and their mother-of-pearl shell. The large Giant green turban snail (<em>Turbo mamoratus</em>) is collected for food and its shell carved into ornaments and jewellery. In recent years, heavy commercial exploitation has depleted local populations.</p>
 
-<p>## Status and threats</p>
+<h2 id="status-and-threats">Status and threats</h2>
 
 <p>The Tapestry turban shell (<em>Turbo petholatus</em>) is listed as ‘Endangered’ on the Red List of the threatened animals of Singapore. It has a smooth, brightly coloured shell in brown, green and yellow fine lines. According to the Singapore Red Data book: “Although never abundant, this species could be found up until the early 1970’s but is now extremely rare. It needs to be protected from shell collectors”.</p>
 
@@ -548,7 +548,7 @@ const markerCluster = L.markerClusterGroup({
   maxClusterRadius: 30 
 });
 
-L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}', {
+L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}?api_key=' + '0639b10f-834f-439d-a510-2b0b7d148bb7', {
 	minZoom: 0,
 	maxZoom: 20,
 	attribution: '&copy; CNES, Distribution Airbus DS, © Airbus DS, © PlanetObserver (Contains Copernicus Data) | &copy; <a href="https://www.stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
@@ -662,7 +662,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // 2. Loop through sections to build sidebar menu items
   headings.forEach((heading) => {
     if (!heading) return; // Skip section if no H2 exists
-
+    if (!heading.hasAttribute("id")) return;
     
 
     // Create list item components

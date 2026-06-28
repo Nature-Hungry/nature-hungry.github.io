@@ -251,7 +251,7 @@ and small flies of the Family Drosophilidae. Bees may not be important pollinato
 
 <p>Burkill describes the tapping process: A palm is fit to tap at 5 years of age or after its second flowering. When the fruit is forming, the stalk carrying it is beaten with a wooden mallet. After being bruised daily for a week, the stalk is tapped for its sap and the flow maintained by daily shaving off from the stump of the inflorescence. It is accepted that tapping over 50 years is possible. The sap ferments into alcohol, toddy, almost immediately as “bacteria of fermentation is in abundance” in the containers used to collect the sap. Nipah suger is not much made in Malaya because it contains “too much of a treacly substance that is difficult to eliminate”. Toddy left to stand becomes vinegar in a fortnight, which is used to bleach Nipah leaves for the hat and mat industry.</p>
 
-<p>## Status and threats</p>
+<h2 id="status-and-threats">Status and threats</h2>
 
 <p>It is listed as ‘Vulnerable’ in the Red List of threatened plants of Singapore. According to Davison, most of the localities where this palm is found is not in protected areas, so there is the danger of development wiping out populations. Only populations at Sungei Buloh, Pulau Ubin and Pulau Tekong are protected.</p>
 
@@ -455,7 +455,7 @@ const markerCluster = L.markerClusterGroup({
   maxClusterRadius: 30 
 });
 
-L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}', {
+L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}?api_key=' + '0639b10f-834f-439d-a510-2b0b7d148bb7', {
 	minZoom: 0,
 	maxZoom: 20,
 	attribution: '&copy; CNES, Distribution Airbus DS, © Airbus DS, © PlanetObserver (Contains Copernicus Data) | &copy; <a href="https://www.stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
@@ -569,7 +569,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // 2. Loop through sections to build sidebar menu items
   headings.forEach((heading) => {
     if (!heading) return; // Skip section if no H2 exists
-
+    if (!heading.hasAttribute("id")) return;
     
 
     // Create list item components

@@ -240,7 +240,7 @@
 
 <p>Small to medium-sized tree, to about 18m. Crown is conical and appears coppery. This is because the twigs, buds, leaf stalks and undersides of the young leaves are rusty brown and scrufy. Leaves (15-25cm) upward pointing and spaced out along the twig (not in dense rosettes). The leaf shape varies, usually oval, slightly leathery dull green above and coppery brown below, arranged alternately. Flowers tiny (less than 1cm) greenish white, appearing in clusters in the leaf axils. The flowers are said to smell like pandan. Fruits small (1-1.2cm) and oval. The bark is ridged and fissured but not flaky, with low, sharp spreading buttresses.</p>
 
-<p>## Status and threats</p>
+<h2 id="status-and-threats">Status and threats</h2>
 
 <p>According to Burkill, the timber is heavy, pinkish brown and used for cabinet making and carving. The leaves are used in treatment for stomach ache, chest pains and poultices for lumbago.</p>
 
@@ -455,7 +455,7 @@ const markerCluster = L.markerClusterGroup({
   maxClusterRadius: 30 
 });
 
-L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}', {
+L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}?api_key=' + '0639b10f-834f-439d-a510-2b0b7d148bb7', {
 	minZoom: 0,
 	maxZoom: 20,
 	attribution: '&copy; CNES, Distribution Airbus DS, © Airbus DS, © PlanetObserver (Contains Copernicus Data) | &copy; <a href="https://www.stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
@@ -569,7 +569,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // 2. Loop through sections to build sidebar menu items
   headings.forEach((heading) => {
     if (!heading) return; // Skip section if no H2 exists
-
+    if (!heading.hasAttribute("id")) return;
     
 
     // Create list item components

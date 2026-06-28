@@ -246,7 +246,7 @@
 
 <p>According to Burkill, the timber is small but still used for house building, carts and various other uses. Indeed, the Malay name for the tree is Jati Laut (translating to Sea teak) as well as Setada or Sentada. Burkill notes that medicinal uses possibly ascribed to it include the use of the leaves as an alternative to treat rheumatism and painful joints.</p>
 
-<p>## Status and threats</p>
+<h2 id="status-and-threats">Status and threats</h2>
 
 <p>It is listed as ‘Critically Endangered’ in the Red List of threatened plants of Singapore. With the loss of our natural coastal habitats and mangroves, this once common plant is also becoming increasingly rare. Joseph Lai has recently recorded Sea teak at
 <a href="http://www.eart-h.com/text/sisflora">Sisters Island</a>
@@ -426,7 +426,7 @@ const markerCluster = L.markerClusterGroup({
   maxClusterRadius: 30 
 });
 
-L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}', {
+L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}?api_key=' + '0639b10f-834f-439d-a510-2b0b7d148bb7', {
 	minZoom: 0,
 	maxZoom: 20,
 	attribution: '&copy; CNES, Distribution Airbus DS, © Airbus DS, © PlanetObserver (Contains Copernicus Data) | &copy; <a href="https://www.stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
@@ -540,7 +540,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // 2. Loop through sections to build sidebar menu items
   headings.forEach((heading) => {
     if (!heading) return; // Skip section if no H2 exists
-
+    if (!heading.hasAttribute("id")) return;
     
 
     // Create list item components
