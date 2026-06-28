@@ -163,8 +163,8 @@
                 </div>
             </div>
           <div class="species-head-right">
-                <p>
-                    <a href="/Tracheophyta">Tracheophyta</a>
+                <p id="taxa-crumbs">
+                    <!-- <a href="/Tracheophyta">Tracheophyta</a>
                     > 
                     <a href="/Tracheophyta/Magnoliopsida">Magnoliopsida</a>
                     > 
@@ -172,7 +172,7 @@
                     >
                     <a href="/Tracheophyta/Magnoliopsida/Ericales/"></a>
                     >
-                    <a href="/Tracheophyta/Magnoliopsida/Ericales//Sapotaceae">Sapotaceae</a>
+                    <a href="/Tracheophyta/Magnoliopsida/Ericales//Sapotaceae">Sapotaceae</a> -->
                 </p>
                 <h1>-</h1>
                 
@@ -425,7 +425,101 @@ purgeAllInactiveCache();
 </script>
 <script>
 
+const pageData = {
+  'phylum':"Tracheophyta",
+  'subphylum':"Angiospermae",
+  'class':"Magnoliopsida",
+  'order':"Ericales",
+  'suborder':"",
+  'infraorder':"",
+  'family':"Sapotaceae",
+  'subfamily':"",
+  'genus':"Madhuca",
+}
+let groups = [
+    'phylum',
+    'subphylum',
+    'class',
+    'order',
+    'suborder',
+    'infraorder',
+    'family',
+    'subfamily',
+    'genus',
+]
+
+let taxaCrumbs = []
+let ti = 0
+let tempstring = "/entries"
+let host = window.location.origin
+
+groups.forEach(g=>{
+  if(pageData[g] != ''){
+    tempstring += "/"+pageData[g]
+    taxaCrumbs[ti] = tempstring
+    ti ++
+  }
+})
+
+async function buildCrumbsParallel(taxaCrumbContainer) {
+  const promises = taxaCrumbs.map(async (t, i) => {
+    try {
+      const response = await fetch(host + t, { method: 'HEAD' });
+      let crumb = response.ok 
+        ? `<a href="${t}">${t.split('/').at(-1)}</a>`
+        : `<span>${t.split('/').at(-1)}</span>`;
+        
+      if (i < taxaCrumbs.length - 1) crumb += " > ";
+      return crumb;
+    } catch (err) {
+      return `<span>${t.split('/').at(-1)}</span>`; // Fallback on error
+    }
+  });
+
+  const crumbHTMLArray = await Promise.all(promises);
+
+  taxaCrumbContainer.insertAdjacentHTML('beforeend', crumbHTMLArray.join(''));
+}
+
 document.addEventListener("DOMContentLoaded", () => {
+  const taxaCrumbContainer = document.getElementById("taxa-crumbs")
+  buildCrumbsParallel(taxaCrumbContainer)
+  // let crumbhtml = ""
+  // taxaCrumbs.forEach((t,i)=>{
+  //     fetch(host+t, { method: 'HEAD' })
+  //     .then(response => {
+  //       let crumb = ""
+  //       if (!response.ok) {
+  //         crumb = `
+  //         <span>
+  //           ${t.split('/').at(-1)}
+  //         </span>
+  //         `
+  //       }else{
+  //         console.log("link ok:", t);
+          
+  //         crumb = `
+  //         <a href="${t}">
+  //           ${t.split('/').at(-1)}
+  //         </a>
+  //         `
+  //       }
+  //       if(i < taxaCrumbs.length - 1){
+  //         crumb += ">"
+  //       }
+
+  //       taxaCrumbContainer.insertAdjacentHTML('beforeend', crumb);
+
+  //     }).catch(err=>{})
+
+  //   })
+
+  
+
+
+
+
+
     const navContainer = document.getElementById("section-nav");
     const headings = document.querySelectorAll("#main-content h2, #main-content h3");
   
