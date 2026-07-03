@@ -151,10 +151,28 @@
 <link rel="stylesheet" href="/assets/css/entry.css">
 
 
+
     <!-- Page content -->
     <main class="page-content" id="main-content" style="
         
     ">
+    <div id="sticky-header">
+        
+             <a href="/entries/plants/seaweed/rhodophyta/catstail/"><i class="ti ti-chevron-left"></i><div class="text">Cat's tail red seaweed </div></a>
+         
+        <div class="sticky-header-content">
+          <h3>Coralline red algae </h3>
+          
+                    <p class="scientific-name">Family Corallinaceae</p>
+                
+        </div>
+
+         
+            <a href="/entries/plants/seaweed/rhodophyta/corny/"><div class="text">Corny red seaweed</div> <i class="ti ti-chevron-right"></i></a>
+          
+      </div>
+
+      
       <section class="species-head">
             <div class="species-head-left">
                 <div class="other-images">
@@ -202,6 +220,16 @@
           </div>
        
       </section>
+
+      <div class="post-nav">
+        
+             <a href="/entries/plants/seaweed/rhodophyta/catstail/"><i class="ti ti-chevron-left"></i><div class="text">Cat's tail red seaweed </div></a>
+         
+
+         
+            <a href="/entries/plants/seaweed/rhodophyta/corny/"><div class="text">Corny red seaweed</div> <i class="ti ti-chevron-right"></i></a>
+          
+      </div>
 
       <section id="content-section">
         <aside class="sidebar">
@@ -601,6 +629,27 @@ document.addEventListener("DOMContentLoaded", () => {
   // Start observing all structural page sections
   headings.forEach((h) => observer.observe(h));
 });
+
+
+
+
+const entrytitle = document.getElementsByClassName("post-nav")[0];
+const stickyheader = document.getElementById("sticky-header")
+
+
+function handleScroll() {
+  const rect = entrytitle.getBoundingClientRect();
+  
+  // rect.top is negative when the top of the H1 has scrolled past the top of the screen
+  if (rect.top <= 0) {
+    stickyheader.classList.add('visible');
+  } else {
+    stickyheader.classList.remove('visible');
+  }
+}
+
+// Listen for scroll events to continuously check position
+window.addEventListener('scroll', handleScroll);
 </script>
 
 </div><!-- .site-wrapper -->

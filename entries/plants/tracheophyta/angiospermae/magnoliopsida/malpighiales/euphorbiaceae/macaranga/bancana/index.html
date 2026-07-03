@@ -147,10 +147,28 @@
 <link rel="stylesheet" href="/assets/css/entry.css">
 
 
+
     <!-- Page content -->
     <main class="page-content" id="main-content" style="
         
     ">
+    <div id="sticky-header">
+        
+             <a href="/entries/plants/tracheophyta/angiospermae/magnoliopsida/malpighiales/euphorbiaceae/koilodepas/longifolium/"><i class="ti ti-chevron-left"></i><div class="text">-</div></a>
+         
+        <div class="sticky-header-content">
+          <h3>Mahang Plant</h3>
+          
+                    <p class="scientific-name">Macaranga bancana</p>
+                
+        </div>
+
+         
+            <a href="/entries/plants/tracheophyta/angiospermae/magnoliopsida/malpighiales/euphorbiaceae/macaranga/caladiifolia/"><div class="text">-</div> <i class="ti ti-chevron-right"></i></a>
+          
+      </div>
+
+      
       <section class="species-head">
             <div class="species-head-left">
                 <div class="other-images">
@@ -192,6 +210,16 @@
           </div>
        
       </section>
+
+      <div class="post-nav">
+        
+             <a href="/entries/plants/tracheophyta/angiospermae/magnoliopsida/malpighiales/euphorbiaceae/koilodepas/longifolium/"><i class="ti ti-chevron-left"></i><div class="text">-</div></a>
+         
+
+         
+            <a href="/entries/plants/tracheophyta/angiospermae/magnoliopsida/malpighiales/euphorbiaceae/macaranga/caladiifolia/"><div class="text">-</div> <i class="ti ti-chevron-right"></i></a>
+          
+      </div>
 
       <section id="content-section">
         <aside class="sidebar">
@@ -682,6 +710,27 @@ document.addEventListener("DOMContentLoaded", () => {
   // Start observing all structural page sections
   headings.forEach((h) => observer.observe(h));
 });
+
+
+
+
+const entrytitle = document.getElementsByClassName("post-nav")[0];
+const stickyheader = document.getElementById("sticky-header")
+
+
+function handleScroll() {
+  const rect = entrytitle.getBoundingClientRect();
+  
+  // rect.top is negative when the top of the H1 has scrolled past the top of the screen
+  if (rect.top <= 0) {
+    stickyheader.classList.add('visible');
+  } else {
+    stickyheader.classList.remove('visible');
+  }
+}
+
+// Listen for scroll events to continuously check position
+window.addEventListener('scroll', handleScroll);
 </script>
 
 </div><!-- .site-wrapper -->

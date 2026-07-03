@@ -15,7 +15,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>Galaxy corals  -  Nature Hungry</title>
+  <title>Galaxy corals -  Nature Hungry</title>
   
   <meta name="description" content="Fact sheet of Galaxy corals  on the shores of Singapore">
   
@@ -151,10 +151,28 @@
 <link rel="stylesheet" href="/assets/css/entry.css">
 
 
+
     <!-- Page content -->
     <main class="page-content" id="main-content" style="
         
     ">
+    <div id="sticky-header">
+        
+             <a href="/entries/Cnidaria/Anthozoa/Scleractinia/Euphylliidae"><i class="ti ti-chevron-left"></i><div class="text">Euphyllid corals </div></a>
+         
+        <div class="sticky-header-content">
+          <h3>Galaxy corals</h3>
+          
+                    <p class="scientific-name">Galaxea sp.</p>
+                
+        </div>
+
+         
+            <a href="/entries/cnidaria/coralhard/euphylliidae/glabrescens/"><div class="text">Torch anchor coral</div> <i class="ti ti-chevron-right"></i></a>
+          
+      </div>
+
+      
       <section class="species-head">
             <div class="species-head-left">
                 <div class="other-images">
@@ -178,7 +196,7 @@
                     >
                     <a href="/Cnidaria/Anthozoa/Scleractinia//Euphylliidae">Euphylliidae</a> -->
                 </p>
-                <h1>Galaxy corals </h1>
+                <h1>Galaxy corals</h1>
                 
                     <p class="scientific-name">Galaxea sp.</p>
                 
@@ -204,6 +222,16 @@
           </div>
        
       </section>
+
+      <div class="post-nav">
+        
+             <a href="/entries/Cnidaria/Anthozoa/Scleractinia/Euphylliidae"><i class="ti ti-chevron-left"></i><div class="text">Euphyllid corals </div></a>
+         
+
+         
+            <a href="/entries/cnidaria/coralhard/euphylliidae/glabrescens/"><div class="text">Torch anchor coral</div> <i class="ti ti-chevron-right"></i></a>
+          
+      </div>
 
       <section id="content-section">
         <aside class="sidebar">
@@ -504,7 +532,7 @@ on the
 
         
           <section>
-            <h2 id="inat" label="Sightings">Sightings of Galaxy corals  on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=503679&verifiable=any">iNaturalist</a></h2>
+            <h2 id="inat" label="Sightings">Sightings of Galaxy corals on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id=503679&verifiable=any">iNaturalist</a></h2>
             <div id="map" style="height:400px"></div>
           </section>
         
@@ -848,6 +876,27 @@ document.addEventListener("DOMContentLoaded", () => {
   // Start observing all structural page sections
   headings.forEach((h) => observer.observe(h));
 });
+
+
+
+
+const entrytitle = document.getElementsByClassName("post-nav")[0];
+const stickyheader = document.getElementById("sticky-header")
+
+
+function handleScroll() {
+  const rect = entrytitle.getBoundingClientRect();
+  
+  // rect.top is negative when the top of the H1 has scrolled past the top of the screen
+  if (rect.top <= 0) {
+    stickyheader.classList.add('visible');
+  } else {
+    stickyheader.classList.remove('visible');
+  }
+}
+
+// Listen for scroll events to continuously check position
+window.addEventListener('scroll', handleScroll);
 </script>
 
 </div><!-- .site-wrapper -->
