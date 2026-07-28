@@ -103,6 +103,30 @@
             margin:0;
         }
 
+    #other-random{
+        margin-top:2rem;
+        height: fit-content;
+        display:grid;
+        grid-template-columns: repeat(auto-fill, minmax(min(60px, 100%), 1fr));
+    }
+
+    #other-random .random{
+        width: 100%;
+        aspect-ratio: 1;
+        position: relative;
+    }
+    #other-random .random img{
+        position: absolute;
+        top:0;
+        left:0;
+
+    }
+    #other-random .random:hover img{
+        transform: scale(1.4);
+        z-index: 99;
+        border: 3px solid var(--color-section-head);
+    }
+
 #sect-1-btn-container{
    
     display:flex;
@@ -145,7 +169,7 @@
         display:grid;
         grid-template-columns:1fr 1fr;
     }
-    .random{
+    .random-container .random{
         height:100px;
         width:100%;
     }
@@ -331,7 +355,12 @@
        
         
     </div>
+
 </section>
+
+<div id="other-random">
+
+</div>
 
 <section>
     <h2 class="text-center">Recent articles</h2>
@@ -359,162 +388,426 @@
 const random_sample = [
 
 {
-  "title": "Pebble crabs ",
-  "scientificname": " ",
-  "url": "/entries/Arthropoda/Crustacea/Malacostraca/Decapoda/Pleocyemata/Brachyura/Leucosiidae", 
-  "coverimg": "https://images.naturehungry.sg/crustacea/crab/leucosiidae/leucosiidae/080408chgd0009m3.jpg", 
-  
-},
-
-{
-  "title": "",
-  "scientificname": "Crossandra infundibuliformis",
-  "url": "/entries/plants/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/crossandra/infundibuliformis/", 
-  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\magnoliopsida\\lamiales\\acanthaceae\\crossandra\\infundibuliformis/P5100300 (25).jpg", 
-  
-},
-
-{
-  "title": "Trumpet Tree",
-  "scientificname": "Tabebuia rosea",
-  "url": "/entries/plants/tracheophyta/angiospermae/magnoliopsida/lamiales/bignoniaceae/tabebuia/rosea/", 
-  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\magnoliopsida\\lamiales\\bignoniaceae\\tabebuia\\rosea/DSC04303 (09).jpg", 
+  "title": "Very long ribbon worm",
+  "scientificname": "Baseodiscus delineatus*",
+  "url": "/entries/worm/nemertea/verylong/", 
+  "coverimg": "https://images.naturehungry.sg/worm/nemertea/verylong/091205sudd5587m3.jpg", 
   
 },
 
 {
   "title": "-",
-  "scientificname": "Xanthophyllum discolor",
-  "url": "/entries/plants/tracheophyta/angiospermae/magnoliopsida/fabales/polygalaceae/xanthophyllum/discolor/", 
-  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\magnoliopsida\\fabales\\polygalaceae\\xanthophyllum\\discolor/DSC09532 (14).jpg", 
+  "scientificname": "Homalomena griffithii",
+  "url": "/entries/plants/tracheophyta/angiospermae/liliopsida/alismatales/araceae/homalomena/griffithii/", 
+  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\liliopsida\\alismatales\\araceae\\homalomena\\griffithii/DSC01929 (10).jpg", 
   
 },
 
 {
-  "title": "Thumbs-up sea squirt",
-  "scientificname": "Polycarpa sp.",
-  "url": "/entries/ascidiacea/polycarpa/", 
-  "coverimg": "https://images.naturehungry.sg/ascidiacea/polycarpa/020630chgcpd1380m3.jpg", 
+  "title": "Fountain Grass",
+  "scientificname": "Cenchrus setaceus",
+  "url": "/entries/plants/tracheophyta/angiospermae/liliopsida/poales/poaceae/cenchrus/setaceus/", 
+  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\liliopsida\\poales\\poaceae\\cenchrus\\setaceus/DSC03234 (09).jpg", 
   
 },
 
 {
-  "title": "Bottlebrush green seaweeds",
-  "scientificname": "Caulerpa webbiana*",
-  "url": "/entries/plants/seaweed/chlorophyta/webbiana/", 
-  "coverimg": "https://images.naturehungry.sg/plants/seaweed/chlorophyta/bottlebrush/050513labg6494m3.jpg", 
-  
-},
-
-{
-  "title": "Spinoid worms",
+  "title": "Moray eels ",
   "scientificname": " ",
-  "url": "/entries/worm/polychaeta/spionidae/", 
-  "coverimg": "https://images.naturehungry.sg/worm/polychaeta/spionidae/110731tryd8033m3.jpg", 
+  "url": "/entries/Chordata/Vertebrata/Actinopterygii/Anguilliformes/Muraenoidei/Muraenidae", 
+  "coverimg": "https://images.naturehungry.sg/vertebrates/fish/muraenidae/tile/101224sisd4114m6l.jpg", 
   
 },
 
 {
-  "title": "-",
-  "scientificname": "Gluta wallichii",
-  "url": "/entries/plants/tracheophyta/angiospermae/magnoliopsida/sapindales/anacardiaceae/gluta/wallichii/", 
-  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\magnoliopsida\\sapindales\\anacardiaceae\\gluta\\wallichii/DSC01936 (14).jpg", 
-  
-},
-
-{
-  "title": "Banded krait",
-  "scientificname": "Bungarus fasciatus",
-  "url": "/entries/vertebrates/snakes/fasciatus/", 
-  "coverimg": "https://images.naturehungry.sg/vertebrates/snakes/fasciatus/020713cjcpd2754m3.jpg", 
-  
-},
-
-{
-  "title": "Jeruju ",
-  "scientificname": "Acanthus ",
-  "url": "/entries/Tracheophyta/Angiospermae/Magnoliopsida/Lamiales/Acanthaceae/Acanthoideae/Acanthus", 
-  "coverimg": "https://images.naturehungry.sg/plants/mangrove/acanthus/acanthus/090125kntd6093m3.jpg", 
-  
-},
-
-{
-  "title": "Sand-divers",
-  "scientificname": " ",
-  "url": "/entries/Chordata/Vertebrata/Actinopterygii/Gobiiformes/Trichonotoidei/Trichonotidae", 
-  "coverimg": "https://images.naturehungry.sg/vertebrates/fish/trichonotidae/trichonotidae/040703sisg1005m3.jpg", 
-  
-},
-
-{
-  "title": "Sweet Leaf Bush",
-  "scientificname": "Breynia androgyna",
-  "url": "/entries/plants/tracheophyta/angiospermae/magnoliopsida/malpighiales/phyllanthaceae/breynia/androgyna/", 
-  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\magnoliopsida\\malpighiales\\phyllanthaceae\\breynia\\androgyna/DSC02447 (08).jpg", 
-  
-},
-
-{
-  "title": "-",
-  "scientificname": "Macaranga hypoleuca",
-  "url": "/entries/plants/tracheophyta/angiospermae/magnoliopsida/malpighiales/euphorbiaceae/macaranga/hypoleuca/", 
-  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\magnoliopsida\\malpighiales\\euphorbiaceae\\macaranga\\hypoleuca/DSC05576 (16).jpg", 
-  
-},
-
-{
-  "title": "Primrose Willow",
-  "scientificname": "Ludwigia octovalvis",
-  "url": "/entries/plants/tracheophyta/angiospermae/magnoliopsida/myrtales/onagraceae/ludwigia/octovalvis/", 
-  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\magnoliopsida\\myrtales\\onagraceae\\ludwigia\\octovalvis/DSC04863 (09).jpg", 
-  
-},
-
-{
-  "title": "Black long sea cucumber ",
-  "scientificname": "Holothuria leucospilota",
-  "url": "/entries/echinodermata/holothuroidea/leucospilota/", 
-  "coverimg": "https://images.naturehungry.sg/echinodermata/holothuroidea/leucospilota/050808sntg0846m3.jpg", 
-  
-},
-
-{
-  "title": "Sendudok",
-  "scientificname": "Melastoma malabathricum",
-  "url": "/entries/plants/tracheophyta/angiospermae/magnoliopsida/myrtales/melastomataceae/melastoma/malabathricum/", 
-  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\magnoliopsida\\myrtales\\melastomataceae\\melastoma\\malabathricum/DSC00557 (15).jpg", 
-  
-},
-
-{
-  "title": "Lavender hermit crab",
+  "title": "White snapping shrimp",
   "scientificname": " identification*",
-  "url": "/entries/crustacea/othercrust/anomura/hermit/lavender/", 
-  "coverimg": "https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/lavender/050427tmg5127m3.jpg", 
+  "url": "/entries/crustacea/othercrust/shrimp/alphballsoft/", 
+  "coverimg": "https://images.naturehungry.sg/crustacea/othercrust/shrimp/alphballsoft/111222tusd4735m6l.jpg", 
   
 },
 
 {
-  "title": "Paper bubble snail ",
-  "scientificname": "Hydatina ",
-  "url": "/entries/mollusca/slugs/cephalaspidea/hydatinidae/", 
-  "coverimg": "https://images.naturehungry.sg/mollusca/slugs/cephalaspidea/hydatinidae/080412cjtchm3.jpg", 
+  "title": "Clear sundial snail",
+  "scientificname": "Architectonica perspectiva",
+  "url": "/entries/mollusca/gastropoda/architectonicidae/perspectiva/", 
+  "coverimg": "https://images.naturehungry.sg/mollusca/gastropoda/architectonicidae/perspectiva/100103sisd7573m3.jpg", 
   
 },
 
 {
-  "title": "Torpedo Grass",
-  "scientificname": "Panicum repens",
-  "url": "/entries/plants/tracheophyta/angiospermae/liliopsida/poales/poaceae/panicum/repens/", 
-  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\liliopsida\\poales\\poaceae\\panicum\\repens/DSC00940 (11).jpg", 
+  "title": "Merulinid corals ",
+  "scientificname": " ",
+  "url": "/entries/Cnidaria/Anthozoa/Scleractinia/Merulinidae", 
+  "coverimg": "https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/hydboulder/060402ulrd1100m3.jpg", 
+  
+},
+
+{
+  "title": "Soles",
+  "scientificname": " ",
+  "url": "/entries/Chordata/Vertebrata/Actinopterygii/Carangiformes/Pleuronectoidei/Soleidae", 
+  "coverimg": "https://images.naturehungry.sg/vertebrates/fish/soleidae/commersonnii/040120cjd0035m3.jpg", 
+  
+},
+
+{
+  "title": "Mangrove creeper snail",
+  "scientificname": "Clypeomorus pellucida",
+  "url": "/entries/mollusca/gastropoda/cerithiidae/pellucida/", 
+  "coverimg": "https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/pellucida/080220smkd9713m3.jpg", 
+  
+},
+
+{
+  "title": "Bigfin reef squid",
+  "scientificname": "Sepioteuthis lessoniana",
+  "url": "/entries/mollusca/cephalopoda/sqbigfin/", 
+  "coverimg": "https://images.naturehungry.sg/mollusca/cephalopoda/sqbigfin/050917smkg2560m3.jpg", 
+  
+},
+
+{
+  "title": "Reef murex",
+  "scientificname": "Chicoreus sp.*",
+  "url": "/entries/mollusca/gastropoda/muricidae/chicoreus/", 
+  "coverimg": "https://images.naturehungry.sg/mollusca/gastropoda/muricidae/chicoreus/090806tmd8396m3.jpg", 
+  
+},
+
+{
+  "title": "Cardinalfishes",
+  "scientificname": " ",
+  "url": "/entries/Chordata/Vertebrata/Actinopterygii/Gobiiformes/Apogonoidei/Apogonidae", 
+  "coverimg": "https://images.naturehungry.sg/vertebrates/fish/apogonidae/margaritophorus/031125hntad0022m3.jpg", 
+  
+},
+
+{
+  "title": "Braided-line flatworm",
+  "scientificname": "Pseudoceros ",
+  "url": "/entries/worm/polycladida/linebraid/", 
+  "coverimg": "https://images.naturehungry.sg/worm/polycladida/linebraid/100528tkklks3m3.jpg", 
+  
+},
+
+{
+  "title": "Panicled Mallotus",
+  "scientificname": "Mallotus paniculatus",
+  "url": "/entries/plants/tracheophyta/angiospermae/magnoliopsida/malpighiales/euphorbiaceae/mallotus/paniculatus/", 
+  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\magnoliopsida\\malpighiales\\euphorbiaceae\\mallotus\\paniculatus/DSC04219 (15).jpg", 
+  
+},
+
+{
+  "title": "Aquatic Sensitive Plant",
+  "scientificname": "Neptunia plena",
+  "url": "/entries/plants/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/neptunia/plena/", 
+  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\magnoliopsida\\fabales\\fabaceae\\neptunia\\plena/DSC04330 (08).jpg", 
+  
+},
+
+{
+  "title": "Bird's-eye Bush",
+  "scientificname": "Ochna kirkii",
+  "url": "/entries/plants/tracheophyta/angiospermae/magnoliopsida/malpighiales/ochnaceae/ochna/kirkii/", 
+  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\magnoliopsida\\malpighiales\\ochnaceae\\ochna\\kirkii/PA090394 (22).jpg", 
+  
+},
+
+{
+  "title": "Centipede Fern",
+  "scientificname": "Blechnum orientale",
+  "url": "/entries/plants/tracheophyta/polypodiopsida/polypodiales/blechnaceae/blechnum/orientale/", 
+  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\polypodiopsida\\polypodiales\\blechnaceae\\blechnum\\orientale/DSC05552 (11).jpg", 
+  
+},
+
+{
+  "title": "Perepat ",
+  "scientificname": "Sonneratia alba",
+  "url": "/entries/plants/mangrove/sonneratia/alba/", 
+  "coverimg": "https://images.naturehungry.sg/plants/mangrove/sonneratia/alba/090117smkd5432m6l.jpg", 
+  
+},
+
+{
+  "title": "Painted sweetlips",
+  "scientificname": "Diagramma pictum",
+  "url": "/entries/vertebrates/fish/haemulidae/pictum/", 
+  "coverimg": "https://images.naturehungry.sg/vertebrates/fish/haemulidae/pictum/120410chgd9036m3.jpg", 
+  
+},
+
+{
+  "title": "Yellow Wild Iris",
+  "scientificname": "Dietes bicolor",
+  "url": "/entries/plants/tracheophyta/angiospermae/liliopsida/asparagales/iridaceae/dietes/bicolor/", 
+  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\liliopsida\\asparagales\\iridaceae\\dietes\\bicolor/DSC07657 (11).jpg", 
+  
+},
+
+{
+  "title": "Chenille Plant",
+  "scientificname": "Acalypha hispida",
+  "url": "/entries/plants/tracheophyta/angiospermae/magnoliopsida/malpighiales/euphorbiaceae/acalypha/hispida/", 
+  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\magnoliopsida\\malpighiales\\euphorbiaceae\\acalypha\\hispida/DSC08880 (12).jpg", 
+  
+},
+
+{
+  "title": "Jewel Vine",
+  "scientificname": "Brachypterum scandens",
+  "url": "/entries/plants/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/brachypterum/scandens/", 
+  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\magnoliopsida\\fabales\\fabaceae\\brachypterum\\scandens/DSC04861 (14).jpg", 
+  
+},
+
+{
+  "title": "Forskal's sidegill slug",
+  "scientificname": "Pleurobranchus forskalii",
+  "url": "/entries/mollusca/slugs/notaspidae/pleurobranchus/", 
+  "coverimg": "https://images.naturehungry.sg/mollusca/slugs/notaspidae/pleurobranchus/090606tmftd3261m3.jpg", 
+  
+},
+
+{
+  "title": "Blue Lily",
+  "scientificname": "Agapanthus praecox",
+  "url": "/entries/plants/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/agapanthus/praecox/", 
+  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\liliopsida\\asparagales\\amaryllidaceae\\agapanthus\\praecox/DSC00803 (07).jpg", 
+  
+},
+
+{
+  "title": "Christmas Bush",
+  "scientificname": "Chromolaena odorata",
+  "url": "/entries/plants/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/chromolaena/odorata/", 
+  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\magnoliopsida\\asterales\\asteraceae\\chromolaena\\odorata/DSC05221 (09).jpg", 
   
 },
 
 {
   "title": "-",
-  "scientificname": "Amomum curtisii",
-  "url": "/entries/plants/tracheophyta/angiospermae/liliopsida/zingiberales/zingiberaceae/amomum/curtisii/", 
-  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\liliopsida\\zingiberales\\zingiberaceae\\amomum\\curtisii/DSC07130 (11).jpg", 
+  "scientificname": "Dioscorea glabra",
+  "url": "/entries/plants/tracheophyta/angiospermae/liliopsida/dioscoreales/dioscoreaceae/dioscorea/glabra/", 
+  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\liliopsida\\dioscoreales\\dioscoreaceae\\dioscorea\\glabra/DSC05419 (12).jpg", 
+  
+},
+
+{
+  "title": "Black Sapote",
+  "scientificname": "Diospyros nigra",
+  "url": "/entries/plants/tracheophyta/angiospermae/magnoliopsida/ericales/ebenaceae/diospyros/nigra/", 
+  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\magnoliopsida\\ericales\\ebenaceae\\diospyros\\nigra/DSC01543 (10).jpg", 
+  
+},
+
+{
+  "title": "Y-branch brown seaweed",
+  "scientificname": "Dictyota ",
+  "url": "/entries/plants/seaweed/phaeophyta/dictyota/", 
+  "coverimg": "https://images.naturehungry.sg/plants/seaweed/phaeophyta/dictyota/050413labd2529m3.jpg", 
+  
+},
+
+{
+  "title": "Pothos Vine",
+  "scientificname": "Scindapsus pictus",
+  "url": "/entries/plants/tracheophyta/angiospermae/liliopsida/alismatales/araceae/scindapsus/pictus/", 
+  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\liliopsida\\alismatales\\araceae\\scindapsus\\pictus/DSC08134 (08).jpg", 
+  
+},
+
+{
+  "title": "Moon snails ",
+  "scientificname": " ",
+  "url": "/entries/Mollusca/Gastropoda/Littorinimorpha/Naticidae", 
+  "coverimg": "https://images.naturehungry.sg/mollusca/gastropoda/naticidae/didyma/110520chgd2415m6l.jpg", 
+  
+},
+
+{
+  "title": "Extraordinary sea hare",
+  "scientificname": "Aplysia extraordinaria",
+  "url": "/entries/mollusca/slugs/anaspidae/extraordinaria/", 
+  "coverimg": "https://images.naturehungry.sg/mollusca/slugs/anaspidae/extraordinaria/050410kusg4346m3.jpg", 
+  
+},
+
+{
+  "title": "Orange Tecoma",
+  "scientificname": "Tecoma fulva",
+  "url": "/entries/plants/tracheophyta/angiospermae/magnoliopsida/lamiales/bignoniaceae/tecoma/fulva/", 
+  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\magnoliopsida\\lamiales\\bignoniaceae\\tecoma\\fulva/P5170146 (25).jpg", 
+  
+},
+
+{
+  "title": "Spiky ball sponge",
+  "scientificname": "Dysidea ",
+  "url": "/entries/porifera/ballspiky/", 
+  "coverimg": "https://images.naturehungry.sg/porifera/ballspiky/120508skdd1884m3.jpg", 
+  
+},
+
+{
+  "title": "Pimply green seaweed",
+  "scientificname": "Dictyosphaeria ",
+  "url": "/entries/plants/seaweed/chlorophyta/dictyosphaeria/", 
+  "coverimg": "https://images.naturehungry.sg/plants/seaweed/chlorophyta/dictyosphaeria/090412hntd9644m3.jpg", 
+  
+},
+
+{
+  "title": "Flat false limpet",
+  "scientificname": "Siphonaria atra",
+  "url": "/entries/mollusca/gastropoda/limpets/atra/", 
+  "coverimg": "https://images.naturehungry.sg/mollusca/gastropoda/limpets/atra/050509hntd3208m3.jpg", 
+  
+},
+
+{
+  "title": "-",
+  "scientificname": "Alangium uniloculare",
+  "url": "/entries/plants/tracheophyta/angiospermae/magnoliopsida/cornales/cornaceae/alangium/uniloculare/", 
+  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\magnoliopsida\\cornales\\cornaceae\\alangium\\uniloculare/DSC02204 (14).jpg", 
+  
+},
+
+{
+  "title": "Bracket brown seaweed",
+  "scientificname": "Lobophora variegata",
+  "url": "/entries/plants/seaweed/phaeophyta/bracket/", 
+  "coverimg": "https://images.naturehungry.sg/plants/seaweed/phaeophyta/bracket/060501labd1721m3.jpg", 
+  
+},
+
+{
+  "title": "Broad-leaved Didymocarpus",
+  "scientificname": "Codonoboea platypus",
+  "url": "/entries/plants/tracheophyta/angiospermae/magnoliopsida/lamiales/gesneriaceae/codonoboea/platypus/", 
+  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\magnoliopsida\\lamiales\\gesneriaceae\\codonoboea\\platypus/DSC07214 (07).jpg", 
+  
+},
+
+{
+  "title": "Introducing sponges",
+  "scientificname": " ",
+  "url": "/entries/porifera/fngporifera/", 
+  "coverimg": "../../Templates/fornatureguides.gif", 
+  
+},
+
+{
+  "title": "Bronze Banana",
+  "scientificname": "Musa rubra",
+  "url": "/entries/plants/tracheophyta/angiospermae/liliopsida/zingiberales/musaceae/musa/rubra/", 
+  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\liliopsida\\zingiberales\\musaceae\\musa\\rubra/DSC08423 (09).jpg", 
+  
+},
+
+{
+  "title": "Variegated sundial snail",
+  "scientificname": "Heliacus variegatus",
+  "url": "/entries/mollusca/gastropoda/architectonicidae/variegatus/", 
+  "coverimg": "https://images.naturehungry.sg/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4149.jpg", 
+  
+},
+
+{
+  "title": "Umbrella Plant",
+  "scientificname": "Cyperus alternifolius",
+  "url": "/entries/plants/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/alternifolius/", 
+  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\liliopsida\\poales\\cyperaceae\\cyperus\\alternifolius/DSC03442 (09).jpg", 
+  
+},
+
+{
+  "title": "Acoel worms",
+  "scientificname": " ",
+  "url": "/entries/Xenacoelomorpha/Xenacoela/Acoela", 
+  "coverimg": "https://images.naturehungry.sg/worm/acoela/acoela/111029smkd2994m3.jpg", 
+  
+},
+
+{
+  "title": "Other maze corals",
+  "scientificname": " awaiting",
+  "url": "/entries/cnidaria/coralhard/faviidae/maze/mazeothers/", 
+  "coverimg": "https://images.naturehungry.sg/cnidaria/coralhard/faviidae/maze/others/050611kusg7740m3.jpg", 
+  
+},
+
+{
+  "title": "Sandy-leafed Fig",
+  "scientificname": "Ficus heteropleura",
+  "url": "/entries/plants/tracheophyta/angiospermae/magnoliopsida/rosales/moraceae/ficus/heteropleura/", 
+  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\magnoliopsida\\rosales\\moraceae\\ficus\\heteropleura/DSC00915 (14).jpg", 
+  
+},
+
+{
+  "title": "Brinjal",
+  "scientificname": "Solanum melongena",
+  "url": "/entries/plants/tracheophyta/angiospermae/magnoliopsida/solanales/solanaceae/solanum/melongena/", 
+  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\magnoliopsida\\solanales\\solanaceae\\solanum\\melongena/DSC03494 (09).jpg", 
+  
+},
+
+{
+  "title": "-",
+  "scientificname": "Aporosa frutescens",
+  "url": "/entries/plants/tracheophyta/angiospermae/magnoliopsida/malpighiales/phyllanthaceae/aporosa/frutescens/", 
+  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\magnoliopsida\\malpighiales\\phyllanthaceae\\aporosa\\frutescens/DSC00172 (12).jpg", 
+  
+},
+
+{
+  "title": "Berembang",
+  "scientificname": "Sophora tomentosa",
+  "url": "/entries/plants/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/sophora/tomentosa/", 
+  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\magnoliopsida\\fabales\\fabaceae\\sophora\\tomentosa/PA050103 (24).jpg", 
+  
+},
+
+{
+  "title": "Mengkuang",
+  "scientificname": "Benstonea atrocarpa",
+  "url": "/entries/plants/tracheophyta/angiospermae/liliopsida/pandanales/pandanaceae/benstonea/atrocarpa/", 
+  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\liliopsida\\pandanales\\pandanaceae\\benstonea\\atrocarpa/DSC00086 (10).jpg", 
+  
+},
+
+{
+  "title": "-",
+  "scientificname": "Ilex cymosa",
+  "url": "/entries/plants/tracheophyta/angiospermae/magnoliopsida/aquifoliales/aquifoliaceae/ilex/cymosa/", 
+  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\magnoliopsida\\aquifoliales\\aquifoliaceae\\ilex\\cymosa/DSC00649 (10).jpg", 
+  
+},
+
+{
+  "title": "-",
+  "scientificname": "Odontadenia semidigyna",
+  "url": "/entries/plants/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/odontadenia/semidigyna/", 
+  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\magnoliopsida\\gentianales\\apocynaceae\\odontadenia\\semidigyna/DSC04797 (11).jpg", 
+  
+},
+
+{
+  "title": "Bamboo Orchid",
+  "scientificname": "Arundina graminifolia",
+  "url": "/entries/plants/tracheophyta/angiospermae/liliopsida/asparagales/orchidaceae/arundina/graminifolia/", 
+  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\liliopsida\\asparagales\\orchidaceae\\arundina\\graminifolia/DSC03414 (08).jpg", 
+  
+},
+
+{
+  "title": "Tiger's Betel",
+  "scientificname": "Piper porphyrophyllum",
+  "url": "/entries/plants/tracheophyta/angiospermae/magnoliopsida/piperales/piperaceae/piper/porphyrophyllum/", 
+  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\magnoliopsida\\piperales\\piperaceae\\piper\\porphyrophyllum/DSC08614 (12).jpg", 
   
 },
 
@@ -527,154 +820,210 @@ const random_sample = [
 },
 
 {
-  "title": "Brittle Maidenhair Fern",
-  "scientificname": "Adiantum tenerum",
-  "url": "/entries/plants/tracheophyta/polypodiopsida/polypodiales/pteridaceae/adiantum/tenerum/", 
-  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\polypodiopsida\\polypodiales\\pteridaceae\\adiantum\\tenerum/DSC02540 (12).jpg", 
-  
-},
-
-{
-  "title": "Hedgehog Rattan",
-  "scientificname": "Calamus erinaceus",
-  "url": "/entries/plants/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/calamus/erinaceus/", 
-  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\liliopsida\\arecales\\arecaceae\\calamus\\erinaceus/DSC02581 (09).jpg", 
-  
-},
-
-{
-  "title": "Flame Tree",
-  "scientificname": "Delonix regia",
-  "url": "/entries/plants/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/delonix/regia/", 
-  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\magnoliopsida\\fabales\\fabaceae\\delonix\\regia/DSC01497 (08).jpg", 
-  
-},
-
-{
-  "title": "Corallimorphs",
+  "title": "Sundial snails ",
   "scientificname": " ",
-  "url": "/entries/cnidaria/corallimorphs/corallimorph/", 
-  "coverimg": "https://images.naturehungry.sg/cnidaria/others/corallimorphs/beaded/060527sjig6070m3d.jpg", 
+  "url": "/entries/Mollusca/Gastropoda/Architectonicidae", 
+  "coverimg": "https://images.naturehungry.sg/mollusca/gastropoda/architectonicidae/perspectiva/090529sjilks1m3.jpg", 
   
 },
 
 {
-  "title": "Java Fern",
-  "scientificname": "Leptochilus pteropus",
-  "url": "/entries/plants/tracheophyta/polypodiopsida/polypodiales/polypodiaceae/leptochilus/pteropus/", 
-  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\polypodiopsida\\polypodiales\\polypodiaceae\\leptochilus\\pteropus/DSC01390 (16).jpg", 
+  "title": "Spiky tubular sponge",
+  "scientificname": "Gelliodes ",
+  "url": "/entries/porifera/tubespiky/", 
+  "coverimg": "https://images.naturehungry.sg/porifera/tubespiky/100614bbd5961m3.jpg", 
+  
+},
+
+{
+  "title": "Spiral Ginger",
+  "scientificname": "Costus productus",
+  "url": "/entries/plants/tracheophyta/angiospermae/liliopsida/zingiberales/costaceae/costus/productus/", 
+  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\liliopsida\\zingiberales\\costaceae\\costus\\productus/DSC02219 (08).jpg", 
   
 },
 
 {
   "title": "-",
-  "scientificname": "Caladium humboldtii",
-  "url": "/entries/plants/tracheophyta/angiospermae/liliopsida/alismatales/araceae/caladium/humboldtii/", 
-  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\liliopsida\\alismatales\\araceae\\caladium\\humboldtii/DSC01565 (08).jpg", 
+  "scientificname": "Ficus recurva",
+  "url": "/entries/plants/tracheophyta/angiospermae/magnoliopsida/rosales/moraceae/ficus/recurva/", 
+  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\magnoliopsida\\rosales\\moraceae\\ficus\\recurva/DSC04880 (13).jpg", 
   
 },
 
 {
-  "title": "Brown-stripe wrasse",
-  "scientificname": "Halichoeres bicolor",
-  "url": "/entries/vertebrates/fish/labridae/bicolor/", 
-  "coverimg": "https://images.naturehungry.sg/vertebrates/fish/labridae/bicolor/140811tryd8448m3.jpg", 
+  "title": "Map pufferfish",
+  "scientificname": "Arothon mappa",
+  "url": "/entries/vertebrates/fish/tetraodontidae/mappa/", 
+  "coverimg": "https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/mappa/sbr2019-054-055-mappa.jpg", 
   
 },
 
 {
-  "title": "Big synaptid sea cucumber",
+  "title": "Spotted archerfish",
+  "scientificname": "Toxotes chatareus",
+  "url": "/entries/vertebrates/fish/toxotidae/chatareus/", 
+  "coverimg": "https://images.naturehungry.sg/vertebrates/fish/toxotidae/chatareus/091226cjd6379m3.jpg", 
+  
+},
+
+{
+  "title": "Honey-head damsel ",
+  "scientificname": "Dischistodus prosopotaenia",
+  "url": "/entries/vertebrates/fish/pomacentridae/prosopotaenia/", 
+  "coverimg": "https://images.naturehungry.sg/vertebrates/fish/pomacentridae/prosopotaenia/140531sjid5883m.jpg", 
+  
+},
+
+{
+  "title": "Yellow-leaved Pin-flower Tree",
+  "scientificname": "Phyllanthus obscurus",
+  "url": "/entries/plants/tracheophyta/angiospermae/magnoliopsida/malpighiales/phyllanthaceae/phyllanthus/obscurus/", 
+  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\magnoliopsida\\malpighiales\\phyllanthaceae\\phyllanthus\\obscurus/DSC02364 (14).jpg", 
+  
+},
+
+{
+  "title": "African Spear",
+  "scientificname": "Dracaena angolensis",
+  "url": "/entries/plants/tracheophyta/angiospermae/liliopsida/asparagales/asparagaceae/dracaena/angolensis/", 
+  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\liliopsida\\asparagales\\asparagaceae\\dracaena\\angolensis/DSC07657 (15).jpg", 
+  
+},
+
+{
+  "title": "Minyak Berok",
+  "scientificname": "Xanthophyllum vitellinum",
+  "url": "/entries/plants/tracheophyta/angiospermae/magnoliopsida/fabales/polygalaceae/xanthophyllum/vitellinum/", 
+  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\magnoliopsida\\fabales\\polygalaceae\\xanthophyllum\\vitellinum/DSC02954 (12).jpg", 
+  
+},
+
+{
+  "title": "Maiden's jealousy",
+  "scientificname": "Tristellateia australasiae",
+  "url": "/entries/plants/coastal/tristellateia/australasiae/", 
+  "coverimg": "https://images.naturehungry.sg/plants/coastal/tristellateia/australasiae/091227kntd6390m6l.jpg", 
+  
+},
+
+{
+  "title": "-",
+  "scientificname": "Cnestis palala",
+  "url": "/entries/plants/tracheophyta/angiospermae/magnoliopsida/oxalidales/connaraceae/cnestis/palala/", 
+  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\magnoliopsida\\oxalidales\\connaraceae\\cnestis\\palala/DSC01052 (14).jpg", 
+  
+},
+
+{
+  "title": "White Water Lily",
+  "scientificname": "Nymphaea alba",
+  "url": "/entries/plants/tracheophyta/angiospermae/magnoliopsida/nymphaeales/nymphaeaceae/nymphaea/alba/", 
+  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\magnoliopsida\\nymphaeales\\nymphaeaceae\\nymphaea\\alba/DSC01960 (08).jpg", 
+  
+},
+
+{
+  "title": "Mural glider-goby",
+  "scientificname": "Valenciennea muralis",
+  "url": "/entries/vertebrates/fish/gobiidae/muralis/", 
+  "coverimg": "https://images.naturehungry.sg/vertebrates/fish/gobiidae/muralis/110601tmnbd3312m3.jpg", 
+  
+},
+
+{
+  "title": "Teruntum Bunga Puteh",
+  "scientificname": "Lumnitzera racemosa",
+  "url": "/entries/plants/tracheophyta/angiospermae/magnoliopsida/myrtales/combretaceae/lumnitzera/racemosa/", 
+  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\magnoliopsida\\myrtales\\combretaceae\\lumnitzera\\racemosa/DSC09494 (10).jpg", 
+  
+},
+
+{
+  "title": "Zebra moon snail",
+  "scientificname": "Tanea areolata",
+  "url": "/entries/mollusca/gastropoda/naticidae/zebra/", 
+  "coverimg": "https://images.naturehungry.sg/mollusca/gastropoda/naticidae/zebra/080519sisd3457m3.jpg", 
+  
+},
+
+{
+  "title": "Indian Shot",
+  "scientificname": "Canna indica",
+  "url": "/entries/plants/tracheophyta/angiospermae/liliopsida/zingiberales/cannaceae/canna/indica/", 
+  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\liliopsida\\zingiberales\\cannaceae\\canna\\indica/DSC01348 (10).jpg", 
+  
+},
+
+{
+  "title": "Humpbacked shrimp",
   "scientificname": " identification*",
-  "url": "/entries/echinodermata/holothuroidea/synbig/", 
-  "coverimg": "https://images.naturehungry.sg/echinodermata/holothuroidea/synbig/071026cyrd7139m6l.jpg", 
+  "url": "/entries/crustacea/othercrust/shrimp/humped/", 
+  "coverimg": "https://images.naturehungry.sg/crustacea/othercrust/shrimp/humped/111002sisd2124m3.jpg", 
   
 },
 
 {
-  "title": "Purple Allamanda",
-  "scientificname": "Allamanda blanchetii",
-  "url": "/entries/plants/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/allamanda/blanchetii/", 
-  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\magnoliopsida\\gentianales\\apocynaceae\\allamanda\\blanchetii/DSC01592 (10).jpg", 
+  "title": "Dwarf Geometry Tree",
+  "scientificname": "Terminalia molinetii",
+  "url": "/entries/plants/tracheophyta/angiospermae/magnoliopsida/myrtales/combretaceae/terminalia/molinetii/", 
+  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\magnoliopsida\\myrtales\\combretaceae\\terminalia\\molinetii/DSC03223 (08).jpg", 
   
 },
 
 {
-  "title": "Broad feathery soft coral",
-  "scientificname": "Sansibia flava*",
-  "url": "/entries/cnidaria/coralsoft/feabroad/", 
-  "coverimg": "https://images.naturehungry.sg/cnidaria/coralsoft/feabroad/050807sjig0759m3.jpg", 
+  "title": "Mexican Fireplant",
+  "scientificname": "Euphorbia heterophylla",
+  "url": "/entries/plants/tracheophyta/angiospermae/magnoliopsida/malpighiales/euphorbiaceae/euphorbia/heterophylla/", 
+  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\magnoliopsida\\malpighiales\\euphorbiaceae\\euphorbia\\heterophylla/DSC05658 (12).jpg", 
   
 },
 
 {
-  "title": "Narrow-leaved Sida",
-  "scientificname": "Sida acuta",
-  "url": "/entries/plants/tracheophyta/angiospermae/magnoliopsida/malvales/malvaceae/sida/acuta/", 
-  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\magnoliopsida\\malvales\\malvaceae\\sida\\acuta/DSC00958 (10).jpg", 
+  "title": "Tiny fern red seaweed ",
+  "scientificname": "Bostrychia ",
+  "url": "/entries/plants/seaweed/rhodophyta/bostrychia/", 
+  "coverimg": "https://images.naturehungry.sg/plants/seaweed/rhodophyta/bostrychia/110719sntd7447m3.jpg", 
   
 },
 
 {
-  "title": "Scarlet Star",
-  "scientificname": "Guzmania lingulata",
-  "url": "/entries/plants/tracheophyta/angiospermae/liliopsida/poales/bromeliaceae/guzmania/lingulata/", 
-  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\liliopsida\\poales\\bromeliaceae\\guzmania\\lingulata/DSC07957 (10).jpg", 
+  "title": "Moon coral",
+  "scientificname": "Diploastrea heliopora*",
+  "url": "/entries/cnidaria/coralhard/faviidae/diploastrea/", 
+  "coverimg": "https://images.naturehungry.sg/cnidaria/coralhard/faviidae/diploastrea/070704jngg1249m3.jpg", 
   
 },
 
 {
-  "title": "Job's Tears",
-  "scientificname": "Coix lacryma-jobi",
-  "url": "/entries/plants/tracheophyta/angiospermae/liliopsida/poales/poaceae/coix/lacryma-jobi/", 
-  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\liliopsida\\poales\\poaceae\\coix\\lacryma-jobi/DSC09881 (08).jpg", 
+  "title": "Malayan Mistletoe",
+  "scientificname": "Dendrophthoe pentandra",
+  "url": "/entries/plants/tracheophyta/angiospermae/magnoliopsida/santalales/loranthaceae/dendrophthoe/pentandra/", 
+  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\magnoliopsida\\santalales\\loranthaceae\\dendrophthoe\\pentandra/P6190305 (21).jpg", 
   
 },
 
 {
-  "title": "Mempat",
-  "scientificname": "Cratoxylum formosum",
-  "url": "/entries/plants/tracheophyta/angiospermae/magnoliopsida/malpighiales/hypericaceae/cratoxylum/formosum/", 
-  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\magnoliopsida\\malpighiales\\hypericaceae\\cratoxylum\\formosum/DSC06615 (09).jpg", 
+  "title": "Rose Natal Grass",
+  "scientificname": "Melinis repens",
+  "url": "/entries/plants/tracheophyta/angiospermae/liliopsida/poales/poaceae/melinis/repens/", 
+  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\liliopsida\\poales\\poaceae\\melinis\\repens/DSC09244 (08).jpg", 
   
 },
 
 {
-  "title": "-",
-  "scientificname": "Lepisanthes amoena",
-  "url": "/entries/plants/tracheophyta/angiospermae/magnoliopsida/sapindales/sapindaceae/lepisanthes/amoena/", 
-  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\magnoliopsida\\sapindales\\sapindaceae\\lepisanthes\\amoena/DSC03777 (09).jpg", 
+  "title": "Blushing Philodendron",
+  "scientificname": "Philodendron erubescens",
+  "url": "/entries/plants/tracheophyta/angiospermae/liliopsida/alismatales/araceae/philodendron/erubescens/", 
+  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\liliopsida\\alismatales\\araceae\\philodendron\\erubescens/DSC04056 (09).jpg", 
   
 },
 
 {
-  "title": "-",
-  "scientificname": "Dracaena porteri",
-  "url": "/entries/plants/tracheophyta/angiospermae/liliopsida/asparagales/asparagaceae/dracaena/porteri/", 
-  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\liliopsida\\asparagales\\asparagaceae\\dracaena\\porteri/DSC03032 (12).jpg", 
-  
-},
-
-{
-  "title": "Wentletrap",
-  "scientificname": " ",
-  "url": "/entries/Mollusca/Gastropoda/Epitoniidae", 
-  "coverimg": "https://images.naturehungry.sg/mollusca/gastropoda/epitoniidae/epitoniidae/120223sltd7352m3.jpg", 
-  
-},
-
-{
-  "title": "-",
-  "scientificname": "Selaginella anceps",
-  "url": "/entries/plants/tracheophyta/lycopodiopsida/selaginellales/selaginellaceae/selaginella/anceps/", 
-  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\lycopodiopsida\\selaginellales\\selaginellaceae\\selaginella\\anceps/DSC05319 (11).jpg", 
-  
-},
-
-{
-  "title": "Shrubby False Buttonweed",
-  "scientificname": "Spermacoce verticillata",
-  "url": "/entries/plants/tracheophyta/angiospermae/magnoliopsida/gentianales/rubiaceae/spermacoce/verticillata/", 
-  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\magnoliopsida\\gentianales\\rubiaceae\\spermacoce\\verticillata/DSC08583 (08).jpg", 
+  "title": "Pin-stripe Plant",
+  "scientificname": "Goeppertia ornata",
+  "url": "/entries/plants/tracheophyta/angiospermae/liliopsida/zingiberales/marantaceae/goeppertia/ornata/", 
+  "coverimg": "https://images.naturehungry.sg\\tracheophyta\\angiospermae\\liliopsida\\zingiberales\\marantaceae\\goeppertia\\ornata/DSC03872 (10).jpg", 
   
 }
 
@@ -688,6 +1037,7 @@ for (let i = random_sample.length - 1; i > 0; i--) {
 }
 
 const randomPosts = random_sample.slice(0, 4);
+const otherRandom = random_sample.slice(3)
 
 // 4. Render the posts
 const container = document.getElementsByClassName('random-container')[0];
@@ -704,6 +1054,17 @@ randomPosts.forEach(post => {
 });
 container.innerHTML = html;
 }
+
+const othercontainer = document.getElementById("other-random")
+html = '';
+otherRandom.forEach(post => {
+    html += `
+     <a class="random" href="${post.url}">
+        <img src="${post.coverimg}" alt="">
+    </a>
+    `;
+});
+othercontainer.innerHTML = html;
 
 </script>
 
