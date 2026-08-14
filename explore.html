@@ -71,7 +71,7 @@
         }
         .explore-grid-tax-filters{
             display:flex;
-            gap:1rem;
+            gap:2rem;
         }
         @media (max-width:800px){
             #show-filters-btn{
@@ -246,7 +246,9 @@
     </nav>
   <div class="site-wrapper">
 
-    <main class="page-content" id="main-content" style="max-width:1440px;margin:0 auto;">
+    <main class="page-content page-content-full-width" id="main-content" style="">
+        <div style="margin-bottom: 2rem;">
+
         <div class="explore-head">
             <h1>Explore</h1>
             <div style="">
@@ -305,6 +307,9 @@
                     </div>
                    
                 </div>
+
+        </div>
+            
             <div class="explore-grid-tax-filters">
             <style>
         
@@ -328,11 +333,10 @@ details[open] > summary::before {
         .tax-filters{
             overflow:hidden;
             flex-shrink:0;
-            border-radius: 5px;
+            border-radius: 8px;
             height:fit-content;
-            padding:1rem;
-            background-color:white;
-            box-shadow: 2px 0px 10px rgba(0, 0, 0, 0.02);
+            padding:1.5rem;
+            border: 1px solid var(--color-black-border);
         }
 
         .tax-children{
@@ -1420,7 +1424,6 @@ let pageInfo = Array.from(document.getElementsByClassName('page-info'))
 
 let prevBtn = Array.from(document.getElementsByClassName('prev'))
 let nextBtn = Array.from(document.getElementsByClassName('next'))
-let overlay = document.getElementById("redirect-overlay")
 
 let resultsCount = document.getElementById("results-count")
 let taxaFilters = new Set()
@@ -1449,15 +1452,14 @@ async function fetchData(){
   let res = await fetch('/assets/search.json')
   let local = await res.json()
 
-  res = await fetch('/assets/fishblogger.json')
-  let fishblogger = await res.json()
+  //res = await fetch('/assets/fishblogger.json')
+  //let fishblogger = await res.json()
 
-  return output = [...local, ...fishblogger]
+  return local
 }
 
 function init(){
 
-  overlay = document.getElementById("redirect-overlay")
   initialQuery = params.get('q') || ''
       currentPage = parseInt(params.get('page'), 10)
       if (isNaN(currentPage) || currentPage < 1) {
@@ -1536,7 +1538,6 @@ function init(){
   window.addEventListener('pageshow', (event) => {
     
   console.log("Page show")
-  overlay.classList.remove('show');
   
   // If the page is loaded from the bfcache, remove the transition class
     if (event.persisted) {
@@ -1685,7 +1686,7 @@ function renderResults() {
     
     return `
     <div class="entry-wrapper">
-    <a href="${item.url}" class="entry" ${item.external ? "rel='nofollow' external="+item.external : ""}>
+    <a href="${item.externalurl ? item.externalurl : item.url}" class="entry" ${item.external ? "rel='nofollow' external="+item.external : ""}>
         <div class="entry-rdb ${item.rdb}">
         </div>
         <div class="img-container">
