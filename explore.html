@@ -250,7 +250,7 @@
         <div style="margin-bottom: 2rem;">
 
         <div class="explore-head">
-            <h1>Explore</h1>
+            <h1> <i style="color:inherit;" class="ti ti-compass"></i> Explore</h1>
             <div style="">
                 <p style=""><b>Don't know the name of what you saw?</b></p>
                 <div style="display:flex;flex-direction:column;gap:0.5rem;align-items:start;">
@@ -1665,14 +1665,24 @@ function renderResults() {
     let scientificname = ""
     if(item.species && item.genus){
       scientificname = `${item.genus} ${item.species}`
+    }else if(item.subfamily){
+      scientificname = `Subfamily ${item.subfamily}`
     }else if(item.family){
       scientificname = `Family ${item.family}`
+    }else if(item.superfamily){
+      scientificname = `Superamily ${item.superfamily}`
+    }else if(item.infraorder){
+      scientificname = `Infraorder ${item.infraorder}`
     }else if(item.suborder){
       scientificname = `Suborder ${item.suborder}`
     }else if(item.order){
       scientificname = `Order ${item.order}`
+    }else if(item.subclass){
+      scientificname = `Sublass ${item.subclass}`
     }else if(item.class){
       scientificname = `Class ${item.class}`
+    }else if(item.subphylum){
+      scientificname = `Subphylum ${item.subphylum}`
     }else{
       scientificname = `Phylum ${item.phylum}`
     }
