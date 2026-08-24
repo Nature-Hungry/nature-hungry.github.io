@@ -26,6 +26,7 @@
   <link rel="stylesheet" href="/assets/css/photoindexes.css">
   <link rel="stylesheet" href="/assets/css/utils.css">
   <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="/assets/css/article.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/tabler-icons.min.css" />
@@ -155,8 +156,10 @@
 }
 .habitat-popup img{
     width:100%;
-    height:50px;
+    height:150px;
     margin-bottom:0.5rem;
+    object-fit: cover;
+    object-position: center;
 }
 
 #map.loading::before{
@@ -174,6 +177,18 @@
     background-repeat: no-repeat;
 }
 
+
+.leaflet-control-habitat-place{
+    cursor:pointer;
+    background-color:white;
+    font-size:1rem;
+    color: var(--color-text);
+    padding:0.5rem;
+}
+.leaflet-control-habitat-place.active {
+    background-color: var(--color-primary);
+    color:white;
+}
 </style>
 
     <main class="page-content page-content-full-width" id="main-content">
@@ -483,6 +498,100 @@
                 },
             ).addTo(map);
 
+            // 1. Define the custom button control
+            let habitatToggle = L.Control.extend({
+                options: {
+                    position: 'topleft' // Choose: 'topleft', 'topright', 'bottomleft', 'bottomright'
+                },
+
+                onAdd: function (map) {
+                    // Create a container DOM element with standard Leaflet control styling
+                    var container = L.DomUtil.create('div', 'leaflet-bar leaflet-control leaflet-control-habitat-place leaflet-control-habitat active');
+                    
+                    container.innerHTML = 'Habitats'; // You can use text, emojis, or HTML icons here
+                    
+
+                    // Disable map dragging/clicking when interacting with the button
+                    L.DomEvent.disableClickPropagation(container);
+
+                    // Define the click event
+                    L.DomEvent.on(container, 'click', function (e) {
+                        container.classList.toggle("active")
+                        document.getElementsByClassName('leaflet-control-place')[0].classList.toggle('active')
+                        if(container.classList.contains('active')){
+                            habitatLayers.forEach(h=>{
+                                map.addLayer(h);
+                            })
+                            placeLayers.forEach(h=>{
+                                map.removeLayer(h);
+                            })
+                        }else{
+                            habitatLayers.forEach(h=>{
+                                map.removeLayer(h);
+                            })
+                            placeLayers.forEach(h=>{
+                                map.addLayer(h);
+                            })
+                        }
+                    });
+
+                    return container;
+                }
+            });
+
+            // 2. Add the custom control to your map instance
+            map.addControl(new habitatToggle());
+
+            let placeToggle = L.Control.extend({
+                options: {
+                    position: 'topleft' // Choose: 'topleft', 'topright', 'bottomleft', 'bottomright'
+                },
+
+                onAdd: function (map) {
+                    // Create a container DOM element with standard Leaflet control styling
+                    var container = L.DomUtil.create('div', 'leaflet-bar leaflet-control leaflet-control-habitat-place leaflet-control-place');
+                    
+                    container.innerHTML = 'Places'; // You can use text, emojis, or HTML icons here
+                    
+
+                    // Disable map dragging/clicking when interacting with the button
+                    L.DomEvent.disableClickPropagation(container);
+
+                    // Define the click event
+                    L.DomEvent.on(container, 'click', function (e) {
+                        container.classList.toggle("active")
+                        document.getElementsByClassName('leaflet-control-habitat')[0].classList.toggle('active')
+                        
+                        if(container.classList.contains('active')){
+                            placeLayers.forEach(h=>{
+                                map.addLayer(h);
+                            })
+                            habitatLayers.forEach(h=>{
+                                map.removeLayer(h);
+                            })
+                        }else{
+                            placeLayers.forEach(h=>{
+                                map.removeLayer(h);
+                            })
+                            habitatLayers.forEach(h=>{
+                                map.addLayer(h);
+                            })
+                        }
+                    });
+
+                    return container;
+                }
+            });
+
+            // 2. Add the custom control to your map instance
+            map.addControl(new placeToggle());
+
+
+
+
+
+
+
             const urls = [
 
                 "/assets/geojson/builtup.geojson",
@@ -502,7 +611,11 @@
                 "/assets/geojson/seagrass.geojson",
             ];
 
+            let habitatLayers = []
+            let placeLayers = []
+
             let allgeojson = {}
+
 
             async function fetchSequentially(urlList) {
                 for (const url of urlList) {
@@ -705,6 +818,10 @@
                                     habitat = data.name
                                 }
                                 //console.log(habitat);
+                                layer.bindTooltip(habitat, {
+                                    sticky: true, // Makes the tooltip follow the mouse
+                                    direction: 'auto'
+                                });
                                 
                                 if (
                                     habitat
@@ -814,10 +931,14 @@
                         }).addTo(map);
 
                     geoJsonLayer.bringToFront()
+                    habitatLayers.push(geoJsonLayer)
                 })
                document.getElementById("map").classList.remove("loading")
             }
+
+            
         </script>
+    <script src="/assets/js/habitatsplacemap.js"></script>
 </div><!-- .site-wrapper -->
 
 <footer>
@@ -838,7 +959,7 @@
             <div class="footer-column">
                 <a href="/wildfacts/glossary">Glossary</a>
                 <a href="/habitats">Habitats</a>
-                <a href="/wildfacts/ourwildplaces.html">Our Wild Places</a>
+                <a href="/makeadiff/ourwildplaces">Our Wild Places</a>
                 <a href="/wildfacts/guides">Guides</a>
             </div>
             <div class="footer-column">
