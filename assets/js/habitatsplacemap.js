@@ -70,26 +70,6 @@ let places = {
     
     
     
-    "chekjawa" : {
-        "label":"Chek Jawa",
-        "img":"",
-        "link":"/articles/locations/intertidal/chekjawa/",
-        "description": ""
-    },
-      
-    
-    
-    
-    "bbbesar" : {
-        "label":"Beting Bemban Besar",
-        "img":"https://live.staticflickr.com/65535/54842131448_e1505f2ab3_c.jpg",
-        "link":"/articles/locations/intertidal/southernislands/bbbesar/",
-        "description": ""
-    },
-      
-    
-    
-    
     
     
     
@@ -108,10 +88,50 @@ let places = {
     
     
     
-    "cyrene" : {
+    "betingbronok" : {
+        "label":"Beting Bronok",
+        "img":"",
+        "link":"/articles/locations/intertidal/betingbronok/",
+        "description": ""
+    },
+      
+    
+    
+    
+    "chekjawa" : {
+        "label":"Chek Jawa",
+        "img":"",
+        "link":"/articles/locations/intertidal/chekjawa/",
+        "description": ""
+    },
+      
+    
+    
+    
+    "pcn" : {
+        "label":"Tanah Merah PCN",
+        "img":"",
+        "link":"/articles/locations/intertidal/pcn/",
+        "description": ""
+    },
+      
+    
+    
+    
+    "betingbembanbesar" : {
+        "label":"Beting Bemban Besar",
+        "img":"https://live.staticflickr.com/65535/54842131448_e1505f2ab3_c.jpg",
+        "link":"/articles/locations/intertidal/southernislands/betingbembanbesar/",
+        "description": ""
+    },
+      
+    
+    
+    
+    "cyrenereef" : {
         "label":"Cyrene ",
         "img":"",
-        "link":"/articles/locations/intertidal/southernislands/cyrene/",
+        "link":"/articles/locations/intertidal/southernislands/cyrenereef/",
         "description": ""
     },
       
@@ -122,16 +142,6 @@ let places = {
         "label":"Pulau Hantu and Terumbu Hantu",
         "img":"https://live.staticflickr.com/65535/55399702030_c714644b52_c.jpg",
         "link":"/articles/locations/intertidal/southernislands/hantu/",
-        "description": ""
-    },
-      
-    
-    
-    
-    "index" : {
-        "label":"Southern Shores of Singapore",
-        "img":"",
-        "link":"/articles/locations/intertidal/southernislands/index/",
         "description": ""
     },
       
@@ -168,20 +178,20 @@ let places = {
     
     
     
-    "lfa" : {
+    "livefiringarea" : {
         "label":"The Life Firing Area islands and reefs",
         "img":"https://live.staticflickr.com/4011/4250583581_89bbf49724_h.jpg",
-        "link":"/articles/locations/intertidal/southernislands/lfa/",
+        "link":"/articles/locations/intertidal/southernislands/livefiringarea/",
         "description": "The last untouched southern shores are found among the islands and submerged reefs that lie within the Life Firing Area. Habitats found here include coastal forest, mangroves, rocky shores, seagrass meadows, rubbly areas and good reefs."
     },
       
     
     
     
-    "rlh" : {
+    "raffleslighthouse" : {
         "label":"Raffles Lighthouse (Pulau Satumu) ",
         "img":"",
-        "link":"/articles/locations/intertidal/southernislands/rlh/",
+        "link":"/articles/locations/intertidal/southernislands/raffleslighthouse/",
         "description": ""
     },
       
@@ -228,16 +238,6 @@ let places = {
     
     
     
-    "tbemban" : {
-        "label":"Terumbu Bemban ",
-        "img":"",
-        "link":"/articles/locations/intertidal/southernislands/tbemban/",
-        "description": ""
-    },
-      
-    
-    
-    
     "tekukor" : {
         "label":"Pulau Tekukor ",
         "img":"",
@@ -248,40 +248,50 @@ let places = {
     
     
     
-    "tpl" : {
-        "label":"Terumbu Pempang Laut",
-        "img":"https://live.staticflickr.com/65535/55377132175_44f6241ae6_c.jpg",
-        "link":"/articles/locations/intertidal/southernislands/tpl/",
-        "description": "Central area sandy with some seagrasses, large rocky areas, rubbly edges sparsely reefy."
-    },
-      
-    
-    
-    
-    "tpt" : {
-        "label":"Terumbu Pempang Tengah ",
-        "img":"https://live.staticflickr.com/65535/54522245644_9fc5a451c5_c.jpg",
-        "link":"/articles/locations/intertidal/southernislands/tpt/",
-        "description": "Central sandy area with some seagrasses, rubbly reefy edges. Small area (20m) of dense reef growth on north-eastern edge facing Terumbu Pempang Darat."
-    },
-      
-    
-    
-    
-    "traya" : {
-        "label":"Terumbu Raya ",
+    "terumbubemban" : {
+        "label":"Terumbu Bemban ",
         "img":"",
-        "link":"/articles/locations/intertidal/southernislands/traya/",
+        "link":"/articles/locations/intertidal/southernislands/terumbubemban/",
         "description": ""
     },
       
     
     
     
-    "tsemakau" : {
+    "terumbupempanglaut" : {
+        "label":"Terumbu Pempang Laut",
+        "img":"https://live.staticflickr.com/65535/55377132175_44f6241ae6_c.jpg",
+        "link":"/articles/locations/intertidal/southernislands/terumbupempanglaut/",
+        "description": "Central area sandy with some seagrasses, large rocky areas, rubbly edges sparsely reefy."
+    },
+      
+    
+    
+    
+    "terumbupempangtengah" : {
+        "label":"Terumbu Pempang Tengah ",
+        "img":"https://live.staticflickr.com/65535/54522245644_9fc5a451c5_c.jpg",
+        "link":"/articles/locations/intertidal/southernislands/terumbupempangtengah/",
+        "description": "Central sandy area with some seagrasses, rubbly reefy edges. Small area (20m) of dense reef growth on north-eastern edge facing Terumbu Pempang Darat."
+    },
+      
+    
+    
+    
+    "terumburaya" : {
+        "label":"Terumbu Raya ",
+        "img":"",
+        "link":"/articles/locations/intertidal/southernislands/terumburaya/",
+        "description": ""
+    },
+      
+    
+    
+    
+    "terumbusemakau" : {
         "label":"Terumbu Semakau ",
         "img":"",
-        "link":"/articles/locations/intertidal/southernislands/tsemakau/",
+        "link":"/articles/locations/intertidal/southernislands/terumbusemakau/",
         "description": ""
     },
       
