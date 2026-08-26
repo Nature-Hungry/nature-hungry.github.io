@@ -78,6 +78,38 @@ let places = {
     
     
     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    "chekjawa" : {
+        "label":"Chek Jawa",
+        "img":"",
+        "link":"/articles/locations/intertidal/chekjawa/",
+        "description": ""
+    },
+      
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     "bukit-timah-nature-reserve" : {
         "label":"Bukit Timah Nature Reserve",
         "img":"",
@@ -93,16 +125,6 @@ let places = {
         "img":"",
         "link":"/articles/locations/intertidal/betingbronok/",
         "description": "Beting Bronok is the only reef in Singapore with such a high amount of Porifera sponges. However, the recent Tekong reclamation seems to have affected it due to changed sediment flows."
-    },
-      
-    
-    
-    
-    "chekjawa" : {
-        "label":"Chek Jawa",
-        "img":"",
-        "link":"/articles/locations/intertidal/chekjawa/",
-        "description": ""
     },
       
     
