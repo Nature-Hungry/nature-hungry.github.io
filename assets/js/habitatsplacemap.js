@@ -92,7 +92,7 @@ let places = {
         "label":"Beting Bronok",
         "img":"",
         "link":"/articles/locations/intertidal/betingbronok/",
-        "description": ""
+        "description": "Beting Bronok is the only reef in Singapore with such a high amount of Porifera sponges. However, the recent Tekong reclamation seems to have affected it due to changed sediment flows."
     },
       
     
@@ -202,7 +202,7 @@ let places = {
         "label":"Pulau Semakau ",
         "img":"https://live.staticflickr.com/65535/54625359633_94af59fc3b_c.jpg",
         "link":"/articles/locations/intertidal/southernislands/semakau/",
-        "description": ""
+        "description": "Pulau Semakau, despite having Singapore's landfill, is still full of marine life. All sides of the island has reefs dominated by soft corals."
     },
       
     
