@@ -154,7 +154,7 @@ let places = {
         "label":"Cyrene ",
         "img":"",
         "link":"/articles/locations/intertidal/southernislands/cyrenereef/",
-        "description": ""
+        "description": "Cyrene Reef is a rich marine habitat with coral reefs, seagrass meadows and other intertidal life along Singapore's southern shores."
     },
       
     
@@ -240,20 +240,20 @@ let places = {
     
     
     
-    "sisters" : {
+    "sistersisland" : {
         "label":"The Sisters Islands ",
         "img":"",
-        "link":"/articles/locations/intertidal/southernislands/sisters/",
+        "link":"/articles/locations/intertidal/southernislands/sistersisland/",
         "description": ""
     },
       
     
     
     
-    "sji" : {
+    "stjohnsisland" : {
         "label":"St. John's Island ",
         "img":"",
-        "link":"/articles/locations/intertidal/southernislands/sji/",
+        "link":"/articles/locations/intertidal/southernislands/stjohnsisland/",
         "description": ""
     },
       
