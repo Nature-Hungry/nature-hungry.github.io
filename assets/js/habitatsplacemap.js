@@ -162,7 +162,7 @@ let places = {
     
     "hantu" : {
         "label":"Pulau Hantu and Terumbu Hantu",
-        "img":"https://live.staticflickr.com/65535/55399702030_c714644b52_c.jpg",
+        "img":"https://live.staticflickr.com/4400/36492421465_e25554c442_c.jpg",
         "link":"/articles/locations/intertidal/southernislands/hantu/",
         "description": ""
     },
