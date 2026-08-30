@@ -92,13 +92,27 @@ let places = {
     
     
     
-    "chekjawa" : {
-        "label":"Chek Jawa",
-        "img":"",
-        "link":"/articles/locations/intertidal/chekjawa/",
+    "betingbembanbesar" : {
+        "label":"Beting Bemban Besar",
+        "img":"https://live.staticflickr.com/65535/54842131448_e1505f2ab3_c.jpg",
+        "link":"/articles/locations/intertidal/southernislands/betingbembanbesar/",
         "description": ""
     },
       
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
@@ -130,20 +144,20 @@ let places = {
     
     
     
-    "pcn" : {
-        "label":"Tanah Merah PCN",
+    "chekjawa" : {
+        "label":"Chek Jawa",
         "img":"",
-        "link":"/articles/locations/intertidal/pcn/",
+        "link":"/articles/locations/intertidal/chekjawa/",
         "description": ""
     },
       
     
     
     
-    "betingbembanbesar" : {
-        "label":"Beting Bemban Besar",
-        "img":"https://live.staticflickr.com/65535/54842131448_e1505f2ab3_c.jpg",
-        "link":"/articles/locations/intertidal/southernislands/betingbembanbesar/",
+    "pcn" : {
+        "label":"Tanah Merah PCN",
+        "img":"",
+        "link":"/articles/locations/intertidal/pcn/",
         "description": ""
     },
       
