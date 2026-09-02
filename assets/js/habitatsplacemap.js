@@ -92,16 +92,6 @@ let places = {
     
     
     
-    "betingbembanbesar" : {
-        "label":"Beting Bemban Besar",
-        "img":"https://live.staticflickr.com/65535/54842131448_e1505f2ab3_c.jpg",
-        "link":"/articles/locations/intertidal/southernislands/betingbembanbesar/",
-        "description": ""
-    },
-      
-    
-    
-    
     
     
     
@@ -158,6 +148,16 @@ let places = {
         "label":"Tanah Merah PCN",
         "img":"",
         "link":"/articles/locations/intertidal/pcn/",
+        "description": ""
+    },
+      
+    
+    
+    
+    "betingbembanbesar" : {
+        "label":"Beting Bemban Besar",
+        "img":"https://live.staticflickr.com/65535/54842131448_e1505f2ab3_c.jpg",
+        "link":"/articles/locations/intertidal/southernislands/betingbembanbesar/",
         "description": ""
     },
       
@@ -328,6 +328,26 @@ let places = {
         "label":"Terumbu Semakau ",
         "img":"",
         "link":"/articles/locations/intertidal/southernislands/terumbusemakau/",
+        "description": ""
+    },
+      
+    
+    
+    
+    "tekong" : {
+        "label":"Pulau Tekong",
+        "img":"",
+        "link":"/articles/locations/tekong/",
+        "description": ""
+    },
+      
+    
+    
+    
+    "ubin" : {
+        "label":"Pulau Ubin",
+        "img":"",
+        "link":"/articles/locations/ubin/",
         "description": ""
     },
       
