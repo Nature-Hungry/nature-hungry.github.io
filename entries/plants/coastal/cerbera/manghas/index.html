@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -326,21 +324,21 @@ is listed as ‘Critically Endangered’ on the Red List of threatened plants of
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/coastal/cerbera/manghas/090111smkd4856m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/coastal/cerbera/manghas/090111smkd4856m3.jpg" alt="Pulau Semakau, Jan 09" class="gallery-image" />
         <div class="caption">
         Pulau Semakau, Jan 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/coastal/cerbera/manghas/090111smkd4852m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/coastal/cerbera/manghas/090111smkd4852m3a.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/coastal/cerbera/manghas/090111smkd4851m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/coastal/cerbera/manghas/090111smkd4851m3.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
@@ -349,24 +347,77 @@ is listed as ‘Critically Endangered’ on the Red List of threatened plants of
 
 </div>
 
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/coastal/cerbera/manghas/090726smkf2939m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/coastal/cerbera/manghas/090726smkf2939m3.jpg" alt="Pulau Semakau, Sep 09" class="gallery-image" />
         <div class="caption">
         Pulau Semakau, Sep 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/coastal/cerbera/manghas/090208smkd6477m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/coastal/cerbera/manghas/090208smkd6477m3.jpg" alt="Pulau Semakau, Feb 09" class="gallery-image" />
         <div class="caption">
         Pulau Semakau, Feb 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/coastal/cerbera/manghas/090111smkd4851m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/coastal/cerbera/manghas/090111smkd4851m3a.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
@@ -375,24 +426,77 @@ is listed as ‘Critically Endangered’ on the Red List of threatened plants of
 
 </div>
 
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/coastal/cerbera/manghas/090711sjid7247m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/coastal/cerbera/manghas/090711sjid7247m3.jpg" alt="Planted in park. St. John&#39;s Island, Jul 09" class="gallery-image" />
         <div class="caption">
         Planted in park. St. John's Island, Jul 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/coastal/cerbera/manghas/080412cjd1322m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/coastal/cerbera/manghas/080412cjd1322m3.jpg" alt="Chek Jawa, Apr 08" class="gallery-image" />
         <div class="caption">
         Chek Jawa, Apr 08
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/coastal/cerbera/manghas/090627cjd5855m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/coastal/cerbera/manghas/090627cjd5855m3.jpg" alt="Chek Jawa, Jun 09" class="gallery-image" />
         <div class="caption">
         Chek Jawa, Jun 09
         </div>
@@ -400,6 +504,59 @@ is listed as ‘Critically Endangered’ on the Red List of threatened plants of
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 
 <hr />
 
@@ -416,6 +573,60 @@ is listed as ‘Critically Endangered’ on the Red List of threatened plants of
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 
 
         

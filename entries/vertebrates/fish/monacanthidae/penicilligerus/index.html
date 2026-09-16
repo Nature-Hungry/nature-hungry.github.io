@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -305,21 +303,21 @@
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/monacanthidae/penicilligerus/050511cftd3265m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/monacanthidae/penicilligerus/050511cftd3265m3.jpg" alt="Only a little bigger than a seagrass leaf. Changi, May 05" class="gallery-image" />
         <div class="caption">
         Only a little bigger than a seagrass leaf. Changi, May 05
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/monacanthidae/penicilligerus/060809skdd5511.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/monacanthidae/penicilligerus/060809skdd5511.jpg" alt="Looks just like seaweed. Pulau Sekudu, Aug 06" class="gallery-image" />
         <div class="caption">
         Looks just like seaweed. Pulau Sekudu, Aug 06
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/monacanthidae/penicilligerus/110929tmftd1516m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/monacanthidae/penicilligerus/110929tmftd1516m3.jpg" alt="Three fishes together resembling flotsam. Tanah Merah, Sep 11" class="gallery-image" />
         <div class="caption">
         Three fishes together resembling flotsam. Tanah Merah, Sep 11
         </div>
@@ -328,17 +326,70 @@
 
 </div>
 
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/monacanthidae/penicilligerus/090918tmd1029m6l.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/monacanthidae/penicilligerus/090918tmd1029m6l.jpg" alt="Tanah Merah, Sep 09" class="gallery-image" />
         <div class="caption">
         Tanah Merah, Sep 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/monacanthidae/penicilligerus/090918tmd1029m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/monacanthidae/penicilligerus/090918tmd1029m3a.jpg" alt="Tassels even on its dorsal spine." class="gallery-image" />
         <div class="caption">
         Tassels even on its dorsal spine.
         </div>
@@ -346,6 +397,60 @@
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <h2 id="human-uses">Human uses</h2>
 
 <p>It is considered good eating in some places although it is not known to be marketed.</p>
@@ -372,14 +477,14 @@ for free download</li>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/monacanthidae/penicilligerus/181125chgmn.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/monacanthidae/penicilligerus/181125chgmn.jpg" alt="Changi, Nov 18 Photo shared by Marcus Ng on flickr ." class="gallery-image" />
         <div class="caption">
         Changi, Nov 18 Photo shared by Marcus Ng on flickr .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/monacanthidae/penicilligerus/170625bblks5.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/monacanthidae/penicilligerus/170625bblks5.jpg" alt="Beting Bronok, Jun 17 Photo shared by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         Beting Bronok, Jun 17 Photo shared by Loh Kok Sheng on facebook .
         </div>
@@ -387,19 +492,73 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/monacanthidae/penicilligerus/090510sntik2m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/monacanthidae/penicilligerus/090510sntik2m3.jpg" alt="Siloso, May 09 Photo shared by Ivan Kwan on his blog ." class="gallery-image" />
         <div class="caption">
         Siloso, May 09 Photo shared by Ivan Kwan on his blog .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/monacanthidae/penicilligerus/080816bsistch.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/monacanthidae/penicilligerus/080816bsistch.jpg" alt="Big Sisters Island, Aug 08 Photo shared by Toh Chay Hoon on flickr ." class="gallery-image" />
         <div class="caption">
         Big Sisters Island, Aug 08 Photo shared by Toh Chay Hoon on flickr .
         </div>
@@ -407,19 +566,73 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/monacanthidae/penicilligerus/090607tmjk1m6l.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/monacanthidae/penicilligerus/090607tmjk1m6l.jpg" alt="Tanah Merah, Jun 09 Photo shared by James Koh on flickr ." class="gallery-image" />
         <div class="caption">
         Tanah Merah, Jun 09 Photo shared by James Koh on flickr .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/monacanthidae/penicilligerus/090627tmjk2m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/monacanthidae/penicilligerus/090627tmjk2m3.jpg" alt="Tanah Merah, Jun 09 Photo shared by James Koh on his blog ." class="gallery-image" />
         <div class="caption">
         Tanah Merah, Jun 09 Photo shared by James Koh on his blog .
         </div>
@@ -427,19 +640,73 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/monacanthidae/penicilligerus/110930smkmn.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/monacanthidae/penicilligerus/110930smkmn.jpg" alt="Pulau Semakau, Sep 11 Photo shared by Marcus Ng on flickr ." class="gallery-image" />
         <div class="caption">
         Pulau Semakau, Sep 11 Photo shared by Marcus Ng on flickr .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/monacanthidae/penicilligerus/100627hntlks5m6l.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/monacanthidae/penicilligerus/100627hntlks5m6l.jpg" alt="Pulau Hantu, Jun 10 Photo shared by Loh Kok Sheng on his blog ." class="gallery-image" />
         <div class="caption">
         Pulau Hantu, Jun 10 Photo shared by Loh Kok Sheng on his blog .
         </div>
@@ -447,6 +714,60 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 

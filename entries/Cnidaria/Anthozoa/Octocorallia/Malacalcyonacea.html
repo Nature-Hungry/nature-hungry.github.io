@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -298,21 +296,21 @@ Some reinforce this further with an arrangement of sclerites (tiny bits of calci
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/others/gorgonacea/skinny/060613ecpd3100m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/others/gorgonacea/skinny/060613ecpd3100m3.jpg" alt="Tiny sea fans dot the rocks. East Coast Park, Jun 06" class="gallery-image" />
         <div class="caption">
         Tiny sea fans dot the rocks. East Coast Park, Jun 06
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/others/gorgonacea/others/040604bbad0081m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/others/gorgonacea/others/040604bbad0081m3.jpg" alt="Larger sea fans seen on remote shores. Beting Bronok, Jun 04" class="gallery-image" />
         <div class="caption">
         Larger sea fans seen on remote shores. Beting Bronok, Jun 04
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/others/gorgonacea/candelabra/111222tusd4654m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/others/gorgonacea/candelabra/111222tusd4654m3.jpg" alt="Polyps of a sea fan. Tuas, Dec 11" class="gallery-image" />
         <div class="caption">
         Polyps of a sea fan. Tuas, Dec 11
         </div>
@@ -320,6 +318,59 @@ Some reinforce this further with an arrangement of sclerites (tiny bits of calci
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p><strong>Colonial food:</strong>
 <em>**</em>
 Studies suggest gorgonian polyps have few or weak stinging cells and feed on particles tinier than zooplankton; such as phytoplankton and bacteria. Prey that are too big or struggle too vigorously are released by the polyps.</p>
@@ -338,21 +389,21 @@ For most species, each sea fan colony is usually either male or female. In most 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pteriidae/pteriidae/130113chgd3570m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pteriidae/pteriidae/130113chgd3570m3a.jpg" alt="Winged oyster on a sea fan Changi, Jan 13" class="gallery-image" />
         <div class="caption">
         Winged oyster on a sea fan Changi, Jan 13
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/red/060626ecpd3582m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/red/060626ecpd3582m3.jpg" alt="Ovulid snails on a sea fan East Coast, Jun 06" class="gallery-image" />
         <div class="caption">
         Ovulid snails on a sea fan East Coast, Jun 06
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/ophiuroidea/tinycolourful/100727chgd9292m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/ophiuroidea/tinycolourful/100727chgd9292m3.jpg" alt="Tiny colourful brittle stars . Changi, Jul 09" class="gallery-image" />
         <div class="caption">
         Tiny colourful brittle stars . Changi, Jul 09
         </div>
@@ -360,6 +411,59 @@ For most species, each sea fan colony is usually either male or female. In most 
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <h2 id="role-in-habitat">Role in habitat</h2>
 <p>All kinds of small animals live on gorgonians including tunicates, barnacles,
 <a href="../../../../mollusca/bivalvia/pteriidae/seafan">clams</a>
@@ -387,21 +491,21 @@ have also been seen clinging to sea fans. Some of these small animals prey on th
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/others/gorgonacea/skinny/060613ecpd3053m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/others/gorgonacea/skinny/060613ecpd3053m3b.jpg" alt="Skinny sea fans" class="gallery-image" />
         <div class="caption">
         Skinny sea fans
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/others/gorgonacea/asparagus/030521bbd0232m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/others/gorgonacea/asparagus/030521bbd0232m3.jpg" alt="Asparagus sea fan" class="gallery-image" />
         <div class="caption">
         Asparagus sea fan
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/others/gorgonacea/candelabra/060528bbd2416m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/others/gorgonacea/candelabra/060528bbd2416m3.jpg" alt="Candelabra sea fan" class="gallery-image" />
         <div class="caption">
         Candelabra sea fan
         </div>
@@ -409,26 +513,80 @@ have also been seen clinging to sea fans. Some of these small animals prey on th
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/others/gorgonacea/flatbranch/050411tusg4438m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/others/gorgonacea/flatbranch/050411tusg4438m3.jpg" alt="Flat branch sea fan" class="gallery-image" />
         <div class="caption">
         Flat branch sea fan
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/others/gorgonacea/gnarled/080705bbd7072m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/others/gorgonacea/gnarled/080705bbd7072m3.jpg" alt="Gnarled sea fan" class="gallery-image" />
         <div class="caption">
         Gnarled sea fan
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/others/gorgonacea/lyre/040604bbad0076m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/others/gorgonacea/lyre/040604bbad0076m3.jpg" alt="Lyre sea fan" class="gallery-image" />
         <div class="caption">
         Lyre sea fan
         </div>
@@ -436,26 +594,80 @@ have also been seen clinging to sea fans. Some of these small animals prey on th
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/others/gorgonacea/maze/050724bbg0161m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/others/gorgonacea/maze/050724bbg0161m3.jpg" alt="Maze sea fan" class="gallery-image" />
         <div class="caption">
         Maze sea fan
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/others/gorgonacea/tree/030520bbd0241m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/others/gorgonacea/tree/030520bbd0241m3.jpg" alt="Tree sea fan" class="gallery-image" />
         <div class="caption">
         Tree sea fan
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/others/gorgonacea/lemon/160804lygd6866m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/others/gorgonacea/lemon/160804lygd6866m3.jpg" alt="Lemon sea fan" class="gallery-image" />
         <div class="caption">
         Lemon sea fan
         </div>
@@ -463,26 +675,80 @@ have also been seen clinging to sea fans. Some of these small animals prey on th
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/others/gorgonacea/blue/060516chgd2041.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/others/gorgonacea/blue/060516chgd2041.jpg" alt="Blue sea fan" class="gallery-image" />
         <div class="caption">
         Blue sea fan
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/others/gorgonacea/leathery/100812tpld0362m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/others/gorgonacea/leathery/100812tpld0362m3.jpg" alt="Leathery sea fan" class="gallery-image" />
         <div class="caption">
         Leathery sea fan
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/others/gorgonacea/whip/030714bbd0067m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/others/gorgonacea/whip/030714bbd0067m3.jpg" alt="Sea whip" class="gallery-image" />
         <div class="caption">
         Sea whip
         </div>
@@ -490,6 +756,60 @@ have also been seen clinging to sea fans. Some of these small animals prey on th
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong>Order Gorgonacea recorded for Singapore</strong></p>

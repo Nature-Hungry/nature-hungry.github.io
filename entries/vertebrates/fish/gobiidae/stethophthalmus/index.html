@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -305,14 +303,14 @@
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/120820sisd0649m6l.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/120820sisd0649m6l.jpg" alt="Sisters Island, Aug 12" class="gallery-image" />
         <div class="caption">
         Sisters Island, Aug 12
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/091204pawd5345m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/091204pawd5345m3.jpg" alt="Sometimes seen in pairs. Pulau Pawai, Dec 09" class="gallery-image" />
         <div class="caption">
         Sometimes seen in pairs. Pulau Pawai, Dec 09
         </div>
@@ -320,20 +318,74 @@
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p><strong>What does it eat?</strong>
 It picks off algae. And also filters mouthfuls of sand for small animals.</p>
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/070603sntrg9954m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/070603sntrg9954m3.jpg" alt="This one was in a burrow occupied by a snapping shrimp, but this may be just a coincidence. Sentosa, Jun 07" class="gallery-image" />
         <div class="caption">
         This one was in a burrow occupied by a snapping shrimp, but this may be just a coincidence. Sentosa, Jun 07
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/240410cyrlks2.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/240410cyrlks2.jpg" alt="This one was near a snapping shrimp, but this may be just a coincidence. Cyrene, Apr 24 Photo shared by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         This one was near a snapping shrimp, but this may be just a coincidence. Cyrene, Apr 24 Photo shared by Loh Kok Sheng on facebook .
         </div>
@@ -341,6 +393,60 @@ It picks off algae. And also filters mouthfuls of sand for small animals.</p>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong>Head-stripe gobies on Singapore shores</strong></p>
@@ -363,14 +469,14 @@ for free download</li>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/240821skdrk4.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/240821skdrk4.jpg" alt="Pulau Sekudu, Aug 24 Photo shared by Richard Kuah on facebook ." class="gallery-image" />
         <div class="caption">
         Pulau Sekudu, Aug 24 Photo shared by Richard Kuah on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/020811cjcpd0419m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/020811cjcpd0419m3.jpg" alt="Flashing display! Chek Jawa, Aug 02" class="gallery-image" />
         <div class="caption">
         Flashing display! Chek Jawa, Aug 02
         </div>
@@ -378,12 +484,66 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/160509srpik3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/160509srpik3.jpg" alt="Sentosa Serapong, May 16 Photo shared by Ivan Kwan on facebook ." class="gallery-image" />
         <div class="caption">
         Sentosa Serapong, May 16 Photo shared by Ivan Kwan on facebook .
         </div>
@@ -391,12 +551,66 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/251011tgrlks22.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/251011tgrlks22.jpg" alt="Sentosa Tg Rimau, Oct 25 Photo shared by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         Sentosa Tg Rimau, Oct 25 Photo shared by Loh Kok Sheng on facebook .
         </div>
@@ -404,19 +618,73 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/161214sjimn.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/161214sjimn.jpg" alt="St John&#39;s Island, Dec 16 Photo shared by Marcus Ng on flickr ." class="gallery-image" />
         <div class="caption">
         St John's Island, Dec 16 Photo shared by Marcus Ng on flickr .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/230831sjijk2.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/230831sjijk2.jpg" alt="St John&#39;s Island, Aug 23 Photo shared by James Koh on facebook ." class="gallery-image" />
         <div class="caption">
         St John's Island, Aug 23 Photo shared by James Koh on facebook .
         </div>
@@ -424,19 +692,73 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/250810bsismn1.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/250810bsismn1.jpg" alt="Big Sisters, Aug 25 Photo shared by Marcus Ng on facebook ." class="gallery-image" />
         <div class="caption">
         Big Sisters, Aug 25 Photo shared by Marcus Ng on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/200919bsislks4.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/200919bsislks4.jpg" alt="Big Sisters Island, Sep 20 Photo shared by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         Big Sisters Island, Sep 20 Photo shared by Loh Kok Sheng on facebook .
         </div>
@@ -444,19 +766,73 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/250331hntjll3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/250331hntjll3.jpg" alt="Pulau Hantu, Apr 25 Photo shared by Jianlin Liu on facebook ." class="gallery-image" />
         <div class="caption">
         Pulau Hantu, Apr 25 Photo shared by Jianlin Liu on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/20070724thntdc3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/20070724thntdc3.jpg" alt="Terumbu Hantu, Jul 20 Photo shared by Dayna Cheah on facebook ." class="gallery-image" />
         <div class="caption">
         Terumbu Hantu, Jul 20 Photo shared by Dayna Cheah on facebook .
         </div>
@@ -464,26 +840,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/20070724thntdc3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/20070724thntdc3.jpg" alt="Terumbu Hantu, Jul 20 Photo shared by Dayna Cheah on facebook ." class="gallery-image" />
         <div class="caption">
         Terumbu Hantu, Jul 20 Photo shared by Dayna Cheah on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/100810cyrmn1m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/100810cyrmn1m3.jpg" alt="Cyrene Reef, Aug 10 Photo shared by Marcus Ng on flickr ." class="gallery-image" />
         <div class="caption">
         Cyrene Reef, Aug 10 Photo shared by Marcus Ng on flickr .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/080209smkhw01m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/080209smkhw01m3.jpg" alt="Pulau Semakau, Feb 08 Photo shared by Dai Jiao on her flickr." class="gallery-image" />
         <div class="caption">
         Pulau Semakau, Feb 08 Photo shared by Dai Jiao on her flickr.
         </div>
@@ -491,19 +921,73 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/210113smkwvc2.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/210113smkwvc2.jpg" alt="Pulau Semakau (West), Jan 21 Photo shared by Vincent Choo on facebook." class="gallery-image" />
         <div class="caption">
         Pulau Semakau (West), Jan 21 Photo shared by Vincent Choo on facebook.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/220520tryccn1.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/220520tryccn1.jpg" alt="Terumbu Raya, May 22 Photo shared by Che Cheng Neo on facebook ." class="gallery-image" />
         <div class="caption">
         Terumbu Raya, May 22 Photo shared by Che Cheng Neo on facebook .
         </div>
@@ -511,19 +995,73 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/110422tbmtch6m6l.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/110422tbmtch6m6l.jpg" alt="Terumbu Bemban, Apr 11 Photo shared by Toh Chay Hoon on her blog ." class="gallery-image" />
         <div class="caption">
         Terumbu Bemban, Apr 11 Photo shared by Toh Chay Hoon on her blog .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/090330trymn.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/090330trymn.jpg" alt="Terumbu Raya, Mar 09 Photo shared by Marcus Ng on flickr ." class="gallery-image" />
         <div class="caption">
         Terumbu Raya, Mar 09 Photo shared by Marcus Ng on flickr .
         </div>
@@ -531,6 +1069,60 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 

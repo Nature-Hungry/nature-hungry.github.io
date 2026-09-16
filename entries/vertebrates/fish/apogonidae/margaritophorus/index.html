@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -305,14 +303,14 @@
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/apogonidae/margaritophorus/080523cyrd3984m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/apogonidae/margaritophorus/080523cyrd3984m3.jpg" alt="Often seen in small groups. Cyrene, May 08" class="gallery-image" />
         <div class="caption">
         Often seen in small groups. Cyrene, May 08
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/apogonidae/margaritophorus/100528tkkd3716m6l.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/apogonidae/margaritophorus/100528tkkd3716m6l.jpg" alt="Window-like patterns on the sides. Pulau Hantu, Jan 06" class="gallery-image" />
         <div class="caption">
         Window-like patterns on the sides. Pulau Hantu, Jan 06
         </div>
@@ -320,27 +318,81 @@
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p><strong>Cardinalfish babies:</strong>
 Cardinalfishes are mouth brooders. The fertilised egg mass is kept in the mouth until they hatch in several days’ time. Usually it is the male that undertakes this task, but in some species both the male and female do this.</p>
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/apogonidae/margaritophorus/111029smkd3110m6l.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/apogonidae/margaritophorus/111029smkd3110m6l.jpg" alt="Brooding eggs in the mouth. Pulau Semakau, Oct 11" class="gallery-image" />
         <div class="caption">
         Brooding eggs in the mouth. Pulau Semakau, Oct 11
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/apogonidae/margaritophorus/111029smkd3086m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/apogonidae/margaritophorus/111029smkd3086m3b.jpg" alt="Pulau Semakau, Oct 11" class="gallery-image" />
         <div class="caption">
         Pulau Semakau, Oct 11
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/apogonidae/margaritophorus/111029smkd3104m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/apogonidae/margaritophorus/111029smkd3104m3.jpg" alt="Pulau Semakau, Oct 11 Releasing newly hatched babies?" class="gallery-image" />
         <div class="caption">
         Pulau Semakau, Oct 11 Releasing newly hatched babies?
         </div>
@@ -348,6 +400,59 @@ Cardinalfishes are mouth brooders. The fertilised egg mass is kept in the mouth 
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p><strong>Cardinalfish friends:</strong>
 According to
 <a href="http://www.fishbase.org/Summary/SpeciesSummary.php?id=58156">FishBase</a>
@@ -356,14 +461,14 @@ According to
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/apogonidae/margaritophorus/090310tuso3101390.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/apogonidae/margaritophorus/090310tuso3101390.jpg" alt="Hovering near Giant carpet anemone occupied by anemonefishes. Tuas, Mar 09" class="gallery-image" />
         <div class="caption">
         Hovering near Giant carpet anemone occupied by anemonefishes. Tuas, Mar 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/apogonidae/margaritophorus/050426cftd2765.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/apogonidae/margaritophorus/050426cftd2765.jpg" alt="Hovering near Haddon&#39;s carpet anemone . Changi, Apr 05" class="gallery-image" />
         <div class="caption">
         Hovering near Haddon's carpet anemone . Changi, Apr 05
         </div>
@@ -371,6 +476,59 @@ According to
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p>**Species are difficult to positively identify without close examination.</p>
 
 <p>On this website, they are grouped by external features for convenience of display.*</p>
@@ -397,21 +555,21 @@ for free download</li>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/apogonidae/margaritophorus/200627cnyrk5.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/apogonidae/margaritophorus/200627cnyrk5.jpg" alt="Hovering near a carpet anemone. Coney Island, Jun 20 Photo shared by Richard Kuah on facebook ." class="gallery-image" />
         <div class="caption">
         Hovering near a carpet anemone. Coney Island, Jun 20 Photo shared by Richard Kuah on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/apogonidae/margaritophorus/210527prprk1.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/apogonidae/margaritophorus/210527prprk1.jpg" alt="Hovering near a carpet anemone. Pasir Ris Park, May 21 Photo shared by Richard Kuah on facebook ." class="gallery-image" />
         <div class="caption">
         Hovering near a carpet anemone. Pasir Ris Park, May 21 Photo shared by Richard Kuah on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/apogonidae/margaritophorus/20070724thntrk5.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/apogonidae/margaritophorus/20070724thntrk5.jpg" alt="Terumbu Hantu, Jul 20 Photo shared by Richard Kuah on facebook ." class="gallery-image" />
         <div class="caption">
         Terumbu Hantu, Jul 20 Photo shared by Richard Kuah on facebook .
         </div>
@@ -419,26 +577,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/apogonidae/margaritophorus/080422smkmn02m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/apogonidae/margaritophorus/080422smkmn02m3.jpg" alt="Pulau Semakau, Apr 08 Photo shared by Marcus Ng on his flickr ." class="gallery-image" />
         <div class="caption">
         Pulau Semakau, Apr 08 Photo shared by Marcus Ng on his flickr .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/apogonidae/margaritophorus/180815bbbdc3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/apogonidae/margaritophorus/180815bbbdc3.jpg" alt="Beting Bemban Besar, Aug 18 Photo shared by Dayna Cheah on facebook ." class="gallery-image" />
         <div class="caption">
         Beting Bemban Besar, Aug 18 Photo shared by Dayna Cheah on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/apogonidae/margaritophorus/110517tptik4m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/apogonidae/margaritophorus/110517tptik4m3.jpg" alt="Terumbu Pempang Tengah, May 11 Photo shared by Ivan Kwan on flickr ." class="gallery-image" />
         <div class="caption">
         Terumbu Pempang Tengah, May 11 Photo shared by Ivan Kwan on flickr .
         </div>
@@ -446,6 +658,60 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><a href="https://vimeo.com/3221004">chequered cardinals @ terumbu raya 09Feb2009</a>

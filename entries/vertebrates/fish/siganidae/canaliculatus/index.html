@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -299,14 +297,14 @@ may appear very similar but the body colour generally more uniform, usually lack
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/090622cftd4669m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/090622cftd4669m3.jpg" alt="Dark blotch behind the gill cover. Changi, Jun 09" class="gallery-image" />
         <div class="caption">
         Dark blotch behind the gill cover. Changi, Jun 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/100529kusud4023m6l.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/100529kusud4023m6l.jpg" alt="Kusu Island, May 10" class="gallery-image" />
         <div class="caption">
         Kusu Island, May 10
         </div>
@@ -314,6 +312,59 @@ may appear very similar but the body colour generally more uniform, usually lack
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 
 <p><strong>Painful sting!</strong>
 The rabbitfish has spines on its fins that are grooved and contain venom glands. These spines may be found on the dorsal, anal and pelvic fins. The sting of these spines can be quite painful to humans, but is generally not fatal. The fishes use their spines in self-defence and not for hunting prey.
@@ -324,21 +375,21 @@ Wear covered shoes. Don’t handle rabbitfishes.</p>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/060527sjid2276m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/060527sjid2276m3.jpg" alt="St. John&#39;s Island, May 06" class="gallery-image" />
         <div class="caption">
         St. John's Island, May 06
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/090721skdd7652m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/090721skdd7652m3.jpg" alt="White bar across the forehead from eye to eye. Pulau Sekudu, Jul 09" class="gallery-image" />
         <div class="caption">
         White bar across the forehead from eye to eye. Pulau Sekudu, Jul 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/110123sisd5272m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/110123sisd5272m3.jpg" alt="Juveniles often seen among Sargassum. There are two here, can you spot them? Changi, Apr 07" class="gallery-image" />
         <div class="caption">
         Juveniles often seen among Sargassum. There are two here, can you spot them? Changi, Apr 07
         </div>
@@ -346,6 +397,59 @@ Wear covered shoes. Don’t handle rabbitfishes.</p>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p><strong>What does it eat?</strong>
 It eats seaweeeds and to a much lesser extent, seagrasses. It is active during the day.</p>
 
@@ -377,14 +481,14 @@ for free download</li>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/201118pglvc7.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/201118pglvc7.jpg" alt="In a fish trap, Punggol, Nov 20 Photo shared by Vincent Choo on facebook ." class="gallery-image" />
         <div class="caption">
         In a fish trap, Punggol, Nov 20 Photo shared by Vincent Choo on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/220616chgelks19.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/220616chgelks19.jpg" alt="Changi Lost Coast, Jun 22 Photo shared by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         Changi Lost Coast, Jun 22 Photo shared by Loh Kok Sheng on facebook .
         </div>
@@ -392,19 +496,73 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/080603tmlks04m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/080603tmlks04m3.jpg" alt="Tanah Merah, Jun 08 Photo shared by Loh Kok Sheng on his blog ." class="gallery-image" />
         <div class="caption">
         Tanah Merah, Jun 08 Photo shared by Loh Kok Sheng on his blog .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/100615tmlks1m6l.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/100615tmlks1m6l.jpg" alt="Tanah Merah, Jun 10 Photo shared by Loh Kok Sheng on his flickr ." class="gallery-image" />
         <div class="caption">
         Tanah Merah, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
         </div>
@@ -412,26 +570,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/090609ecplks.JPG" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/090609ecplks.JPG" alt="East Coast Park, Jun 09 Photo shared by Loh Kok Sheng on flickr ." class="gallery-image" />
         <div class="caption">
         East Coast Park, Jun 09 Photo shared by Loh Kok Sheng on flickr .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/110704srplks.JPG" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/110704srplks.JPG" alt="Sentosa Serapong, Jul 11 Photo shared by Loh Kok Sheng on flickr ." class="gallery-image" />
         <div class="caption">
         Sentosa Serapong, Jul 11 Photo shared by Loh Kok Sheng on flickr .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/250714srpky3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/250714srpky3.jpg" alt="Sentosa Serapong, Jul 25 Photo shared by Kelvin Yong on facebook ." class="gallery-image" />
         <div class="caption">
         Sentosa Serapong, Jul 25 Photo shared by Kelvin Yong on facebook .
         </div>
@@ -439,19 +651,73 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/100913kusrl.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/100913kusrl.jpg" alt="Kusu Island, Sep 10 Photo shared by Russel Low on facebook ." class="gallery-image" />
         <div class="caption">
         Kusu Island, Sep 10 Photo shared by Russel Low on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/240820kustt2.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/240820kustt2.jpg" alt="Kusu Island, Aug 24 Photo shared by Tommy Tan on facebook ." class="gallery-image" />
         <div class="caption">
         Kusu Island, Aug 24 Photo shared by Tommy Tan on facebook .
         </div>
@@ -459,19 +725,73 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/100710sisrl.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/100710sisrl.jpg" alt="Sisters Islands, Jul 10 Photo shared by Russel Low on facebook ." class="gallery-image" />
         <div class="caption">
         Sisters Islands, Jul 10 Photo shared by Russel Low on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/100528tkkjk.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/100528tkkjk.jpg" alt="Pulau Tekukor, May 10 Photo shared by James Koh on flickr ." class="gallery-image" />
         <div class="caption">
         Pulau Tekukor, May 10 Photo shared by James Koh on flickr .
         </div>
@@ -479,19 +799,73 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/110619tslgrl1m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/110619tslgrl1m3.jpg" alt="Terumbu Selegie, Jun 11 Photo shared by Russel Low on facebook ." class="gallery-image" />
         <div class="caption">
         Terumbu Selegie, Jun 11 Photo shared by Russel Low on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/110421jngrl2m6l.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/110421jngrl2m6l.jpg" alt="Pulau Jong, Apr 11 Photo shared by Russel Low on facebook ." class="gallery-image" />
         <div class="caption">
         Pulau Jong, Apr 11 Photo shared by Russel Low on facebook .
         </div>
@@ -499,26 +873,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/130428tsmklks.JPG" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/130428tsmklks.JPG" alt="Terumbu Semakau, Apr 13 Photo shared by Loh Kok Sheng on flickr ." class="gallery-image" />
         <div class="caption">
         Terumbu Semakau, Apr 13 Photo shared by Loh Kok Sheng on flickr .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/110422tbmro4m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/110422tbmro4m3.jpg" alt="Terumbu Bemban, Apr 11 Photo shared by Rene Ong on facebook ." class="gallery-image" />
         <div class="caption">
         Terumbu Bemban, Apr 11 Photo shared by Rene Ong on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/110422tplrl2m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/110422tplrl2m3.jpg" alt="Terumbu Pempang Laut, Apr 11 Photo shared by Russel Low on facebook ." class="gallery-image" />
         <div class="caption">
         Terumbu Pempang Laut, Apr 11 Photo shared by Russel Low on facebook .
         </div>
@@ -526,6 +954,60 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 

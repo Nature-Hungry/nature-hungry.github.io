@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -293,21 +291,21 @@
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/singapore/120704chgd7018m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/singapore/120704chgd7018m3.jpg" alt="Changi, Jul 12" class="gallery-image" />
         <div class="caption">
         Changi, Jul 12
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/singapore/120704chgd7021m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/singapore/120704chgd7021m3b.jpg" alt="When submerged, tentacles and tiny eyes can be seen." class="gallery-image" />
         <div class="caption">
         When submerged, tentacles and tiny eyes can be seen.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/large/080621labd6136m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/large/080621labd6136m3.jpg" alt="&#39;Swimming&#39; backwards with clap of valves" class="gallery-image" />
         <div class="caption">
         'Swimming' backwards with clap of valves
         </div>
@@ -315,6 +313,60 @@
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p><strong>Swimming scallops:</strong>
 Some scallops are free living. A scallop can swim by flapping its valves and using jet propulsion. It sucks in water and then forces out a jet of water from either sides of the shell hinge. A scallop can change the direction of its movement by using the velum. The velum is a curtain-like fold of the mantle that works like lips to direct the jet of water and thus control its movement.</p>
 
@@ -331,21 +383,21 @@ Like most other bivalves, scallops are filter feeders. When submerged, a scallop
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/coral/110601tmnbd3211m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/coral/110601tmnbd3211m3.jpg" alt="Scallop in a living coral. Tanah Merah, Jun 11" class="gallery-image" />
         <div class="caption">
         Scallop in a living coral. Tanah Merah, Jun 11
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/coral/100130brkd8540.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/coral/100130brkd8540.jpg" alt="Scallop in a living coral. Pulau Berkas, Jan 10" class="gallery-image" />
         <div class="caption">
         Scallop in a living coral. Pulau Berkas, Jan 10
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/placunidae/placuna/080507chd2321.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/placunidae/placuna/080507chd2321.jpg" alt="Scallop stuck on a living Window-pane clam . Changi, May 08" class="gallery-image" />
         <div class="caption">
         Scallop stuck on a living Window-pane clam . Changi, May 08
         </div>
@@ -353,6 +405,59 @@ Like most other bivalves, scallops are filter feeders. When submerged, a scallop
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <h2 id="human-uses">Human uses</h2>
 
 <p>Larger scallop species are harvested for seafood. Usually what is eaten is only the adductor muscle that holds the two valves together. Our wild scallops are much too small to yield the kind of scallops you can buy at the supermarket. The flesh of the adductor muscle is sweet because it contains a high amount of gylcogen. Like other filter-feeding clams, however, scallops may be affected by
@@ -372,21 +477,21 @@ when they are then harmful to eat.</p>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/coral/100215sisd9445m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/coral/100215sisd9445m3.jpg" alt="Coral clam" class="gallery-image" />
         <div class="caption">
         Coral clam
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/singapore/080506chgd2321m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/singapore/080506chgd2321m3.jpg" alt="Singapore scallop" class="gallery-image" />
         <div class="caption">
         Singapore scallop
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/large/080621labd6133m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/large/080621labd6133m3.jpg" alt="Large scallop" class="gallery-image" />
         <div class="caption">
         Large scallop
         </div>
@@ -394,6 +499,59 @@ when they are then harmful to eat.</p>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 
 <p>**Species are difficult to positively identify without close examination.</p>
 

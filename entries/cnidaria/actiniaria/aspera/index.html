@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -305,35 +303,35 @@ which has more transparent tentacles that lack the small brown spots and has bla
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/aspera/150219cyrd1327a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/aspera/150219cyrd1327a.jpg" alt="Cyrene, Feb 15" class="gallery-image" />
         <div class="caption">
         Cyrene, Feb 15
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/aspera/150219cyrd1327b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/aspera/150219cyrd1327b.jpg" alt="Brown splotches radiating out." class="gallery-image" />
         <div class="caption">
         Brown splotches radiating out.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/aspera/150219cyrd1327d.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/aspera/150219cyrd1327d.jpg" alt="Small brown spots on upper side of tentacles." class="gallery-image" />
         <div class="caption">
         Small brown spots on upper side of tentacles.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/aspera/180617skdlks1.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/aspera/180617skdlks1.jpg" alt="White &#39;lips&#39; Pulau Sekudu, Jun 18 Photo shared by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         White 'lips' Pulau Sekudu, Jun 18 Photo shared by Loh Kok Sheng on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/aspera/180617skdlks1a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/aspera/180617skdlks1a.jpg" alt="White bumps on the upper body column. Pulau Sekudu, Jun 18 Photo shared by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         White bumps on the upper body column. Pulau Sekudu, Jun 18 Photo shared by Loh Kok Sheng on facebook .
         </div>
@@ -341,6 +339,59 @@ which has more transparent tentacles that lack the small brown spots and has bla
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 
 <hr />
 
@@ -364,21 +415,21 @@ for free download</li>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/aspera/180518chg1jll.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/aspera/180518chg1jll.jpg" alt="Changi, May 18 Photo shared by Jianlin Liu on facebook ." class="gallery-image" />
         <div class="caption">
         Changi, May 18 Photo shared by Jianlin Liu on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/aspera/171204chglks4.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/aspera/171204chglks4.jpg" alt="Changi, Dec 17 Photo shared by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         Changi, Dec 17 Photo shared by Loh Kok Sheng on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/aspera/230605chg7lks4.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/aspera/230605chg7lks4.jpg" alt="Changi Carpark 7, Jun 23 Photo shared by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         Changi Carpark 7, Jun 23 Photo shared by Loh Kok Sheng on facebook .
         </div>
@@ -386,19 +437,73 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/aspera/160706skdrl1.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/aspera/160706skdrl1.jpg" alt="Pulau Sekudu, Jul 16 Photo shared by Russel Low on facebook ." class="gallery-image" />
         <div class="caption">
         Pulau Sekudu, Jul 16 Photo shared by Russel Low on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/aspera/170626skdtch1.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/aspera/170626skdtch1.jpg" alt="Pulau Sekudu, Jun 17 Photo shared by Toh Chay Hoon on facebook ." class="gallery-image" />
         <div class="caption">
         Pulau Sekudu, Jun 17 Photo shared by Toh Chay Hoon on facebook .
         </div>
@@ -406,26 +511,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/aspera/140613skdlks.JPG" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/aspera/140613skdlks.JPG" alt="Pulau Sekudu, Jun 14" class="gallery-image" />
         <div class="caption">
         Pulau Sekudu, Jun 14
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/aspera/140613skdlks2.JPG" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/aspera/140613skdlks2.JPG" alt="Photo shared by Loh Kok Sheng on flickr ." class="gallery-image" />
         <div class="caption">
         Photo shared by Loh Kok Sheng on flickr .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/aspera/210628ecpBrk2.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/aspera/210628ecpBrk2.jpg" alt="East Coast Park (B), Jun 21 Photo shared by Richard Kuah on facebook ." class="gallery-image" />
         <div class="caption">
         East Coast Park (B), Jun 21 Photo shared by Richard Kuah on facebook .
         </div>
@@ -433,26 +592,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/aspera/110606cyrlks1.JPG" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/aspera/110606cyrlks1.JPG" alt="Cyrene Reef, Jun 11" class="gallery-image" />
         <div class="caption">
         Cyrene Reef, Jun 11
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/aspera/110606cyrlks1a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/aspera/110606cyrlks1a.jpg" alt="Photo shared by Loh Kok Sheng on flickr ." class="gallery-image" />
         <div class="caption">
         Photo shared by Loh Kok Sheng on flickr .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/aspera/110606cyrlks4.JPG" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/aspera/110606cyrlks4.JPG" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
@@ -460,19 +673,73 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/aspera/130810cyrlks.JPG" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/aspera/130810cyrlks.JPG" alt="Cyrene Reef, Aug 13" class="gallery-image" />
         <div class="caption">
         Cyrene Reef, Aug 13
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/aspera/130810cyrlks2.JPG" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/aspera/130810cyrlks2.JPG" alt="Photo shared by Loh Kok Sheng on flickr ." class="gallery-image" />
         <div class="caption">
         Photo shared by Loh Kok Sheng on flickr .
         </div>
@@ -480,6 +747,60 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <h3 id="references">References</h3>

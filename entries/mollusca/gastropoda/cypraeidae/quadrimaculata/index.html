@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -302,21 +300,21 @@ Shell cylindrical, generally pale blue with 4 very pale brown bands and small br
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9813m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9813m3.jpg" alt="Beting Bemban Besar, Aug 12" class="gallery-image" />
         <div class="caption">
         Beting Bemban Besar, Aug 12
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9817m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9817m3.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9816m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9816m3.jpg" alt="Raised &#39;teeth&#39; on the underside." class="gallery-image" />
         <div class="caption">
         Raised 'teeth' on the underside.
         </div>
@@ -325,26 +323,79 @@ Shell cylindrical, generally pale blue with 4 very pale brown bands and small br
 
 </div>
 
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/quadrimaculata/111002sisd2227m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/quadrimaculata/111002sisd2227m3.jpg" alt="Sisters Island, Oct 11" class="gallery-image" />
         <div class="caption">
         Sisters Island, Oct 11
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/quadrimaculata/111002sisd2236.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/quadrimaculata/111002sisd2236.jpg" alt="Sisters Island, Oct 11" class="gallery-image" />
         <div class="caption">
         Sisters Island, Oct 11
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/quadrimaculata/111002sisd2234.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/quadrimaculata/111002sisd2234.jpg" alt="Sisters Island, Oct 11" class="gallery-image" />
         <div class="caption">
         Sisters Island, Oct 11
         </div>
@@ -352,26 +403,80 @@ Shell cylindrical, generally pale blue with 4 very pale brown bands and small br
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/quadrimaculata/080919sntd0628m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/quadrimaculata/080919sntd0628m3.jpg" alt="Sentosa, Sep 08" class="gallery-image" />
         <div class="caption">
         Sentosa, Sep 08
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/quadrimaculata/080919sntd0639m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/quadrimaculata/080919sntd0639m3.jpg" alt="Sentosa, Sep 08" class="gallery-image" />
         <div class="caption">
         Sentosa, Sep 08
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/quadrimaculata/080920hntd0734m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/quadrimaculata/080920hntd0734m3.jpg" alt="Sentosa, Sep 08" class="gallery-image" />
         <div class="caption">
         Sentosa, Sep 08
         </div>
@@ -379,6 +484,60 @@ Shell cylindrical, generally pale blue with 4 very pale brown bands and small br
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong>Four-spot cowries on Singapore shores</strong></p>
@@ -401,21 +560,21 @@ for free download</li>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/quadrimaculata/220812ssisccn2.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/quadrimaculata/220812ssisccn2.jpg" alt="Small Sisters Island, Aug 22 Photo shared by Che Cheng Neo on facebook ." class="gallery-image" />
         <div class="caption">
         Small Sisters Island, Aug 22 Photo shared by Che Cheng Neo on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/quadrimaculata/110521smklks.JPG" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/quadrimaculata/110521smklks.JPG" alt="Pulau Semakau, May 11 Photo shared by Loh Kok Sheng on flickr ." class="gallery-image" />
         <div class="caption">
         Pulau Semakau, May 11 Photo shared by Loh Kok Sheng on flickr .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/quadrimaculata/140811trylks1m3.JPG" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/quadrimaculata/140811trylks1m3.JPG" alt="Terumbu Raya, Aug 14 Photo shared by Loh Kok Sheng on his blog ." class="gallery-image" />
         <div class="caption">
         Terumbu Raya, Aug 14 Photo shared by Loh Kok Sheng on his blog .
         </div>
@@ -423,6 +582,60 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong>Acknowledgement</strong>

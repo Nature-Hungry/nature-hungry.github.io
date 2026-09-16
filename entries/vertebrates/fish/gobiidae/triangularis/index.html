@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -315,14 +313,14 @@
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/triangularis/120604pgld3756.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/triangularis/120604pgld3756.jpg" alt="Sometimes in a group of individuals of different sizes. Punggol, Jun 12" class="gallery-image" />
         <div class="caption">
         Sometimes in a group of individuals of different sizes. Punggol, Jun 12
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/triangularis/100429prpd1888m6l.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/triangularis/100429prpd1888m6l.jpg" alt="Pasir Ris Park, Apr 10" class="gallery-image" />
         <div class="caption">
         Pasir Ris Park, Apr 10
         </div>
@@ -330,6 +328,60 @@
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p><strong>Living with a shrimp:</strong>
 This fish is sometimes seen sharing a burrow with a
 <a href="../..//wildfacts/guides/crustacea/crustacea/othercrust/shrimp/alphsmooth">Smooth snapping shrimp</a>
@@ -340,21 +392,21 @@ This fish is sometimes seen sharing a burrow with a
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/triangularis/131107pglmn.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/triangularis/131107pglmn.jpg" alt="Punggol, Nov 13 Photo shared by Marcus Ng on flickr ." class="gallery-image" />
         <div class="caption">
         Punggol, Nov 13 Photo shared by Marcus Ng on flickr .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/triangularis/080603prpd4695m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/triangularis/080603prpd4695m3.jpg" alt="Pasir Ris Park, Jun 08" class="gallery-image" />
         <div class="caption">
         Pasir Ris Park, Jun 08
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/triangularis/040618chgd0527m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/triangularis/040618chgd0527m3.jpg" alt="Changi, Jun 04" class="gallery-image" />
         <div class="caption">
         Changi, Jun 04
         </div>
@@ -362,6 +414,59 @@ This fish is sometimes seen sharing a burrow with a
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p>**Species are difficult to positively identify without close examination.</p>
 
 <p>On this website, they are grouped by external features for convenience of display.*</p>
@@ -388,7 +493,7 @@ for free download</li>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/triangularis/090512tmjk2m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/triangularis/090512tmjk2m3.jpg" alt="Tanah Merah, May 09 Photo shared by James Koh on flickr ." class="gallery-image" />
         <div class="caption">
         Tanah Merah, May 09 Photo shared by James Koh on flickr .
         </div>
@@ -396,6 +501,60 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 

@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -301,21 +299,21 @@
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/haemulidae/chaetodonoides/111030skdd3323m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/haemulidae/chaetodonoides/111030skdd3323m3.jpg" alt="Pulau Sekudu, Nov 11" class="gallery-image" />
         <div class="caption">
         Pulau Sekudu, Nov 11
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/haemulidae/chaetodonoides/111030skdd3326m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/haemulidae/chaetodonoides/111030skdd3326m3.jpg" alt="Pulau Sekudu, Nov 11" class="gallery-image" />
         <div class="caption">
         Pulau Sekudu, Nov 11
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/haemulidae/chaetodonoides/071224cjd8146.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/haemulidae/chaetodonoides/071224cjd8146.jpg" alt="Seen hiding in an empty shell. Chek Jawa, Dec 07" class="gallery-image" />
         <div class="caption">
         Seen hiding in an empty shell. Chek Jawa, Dec 07
         </div>
@@ -323,6 +321,60 @@
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p><strong>Wiggly swimmer:</strong>
 Like some other young sweetlips species, the juvenile Harlequin sweetlips typically swims in a twisting motion.
 It usually swims head down in a typical ‘drunken’ dance, flip flopping all its large fins and tail rapidly from side to side. Small ones are said to mimick poisonous flatworms.
@@ -355,14 +407,14 @@ for free download</li>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/haemulidae/chaetodonoides/150618tmftlks16m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/haemulidae/chaetodonoides/150618tmftlks16m3.jpg" alt="Tanah Merah Ferry Terminal, Jun 15 Photro shared by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         Tanah Merah Ferry Terminal, Jun 15 Photro shared by Loh Kok Sheng on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/haemulidae/chaetodonoides/210628ecpBlks6.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/haemulidae/chaetodonoides/210628ecpBlks6.jpg" alt="East Coast Park (B), Jun 21 Photro shared by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         East Coast Park (B), Jun 21 Photro shared by Loh Kok Sheng on facebook .
         </div>
@@ -370,26 +422,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/haemulidae/chaetodonoides/201117labpn1.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/haemulidae/chaetodonoides/201117labpn1.jpg" alt="Labrador, Nov 20 Photro shared by Parizad Nasheer on facebook ." class="gallery-image" />
         <div class="caption">
         Labrador, Nov 20 Photro shared by Parizad Nasheer on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/haemulidae/chaetodonoides/251207hntlks2.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/haemulidae/chaetodonoides/251207hntlks2.jpg" alt="Pulau Hantu, Dec 25 Photro shared by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         Pulau Hantu, Dec 25 Photro shared by Loh Kok Sheng on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/haemulidae/chaetodonoides/111029smkmn.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/haemulidae/chaetodonoides/111029smkmn.jpg" alt="Pulau Semakau, Oct 11 Photro shared by Marcus Ng on flickr ." class="gallery-image" />
         <div class="caption">
         Pulau Semakau, Oct 11 Photro shared by Marcus Ng on flickr .
         </div>
@@ -397,6 +503,60 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 

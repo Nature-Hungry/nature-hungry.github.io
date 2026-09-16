@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -302,21 +300,21 @@ stonefish and scorpionfish. Unlike those fishes, the frogfish is harmless. Here�
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/antennariidae/trisignatus/080619chgd5686m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/antennariidae/trisignatus/080619chgd5686m3.jpg" alt="Changi, Jun 08" class="gallery-image" />
         <div class="caption">
         Changi, Jun 08
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/antennariidae/trisignatus/080619chgd5686m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/antennariidae/trisignatus/080619chgd5686m3b.jpg" alt="A lure that draws prey closer to the mouth" class="gallery-image" />
         <div class="caption">
         A lure that draws prey closer to the mouth
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/antennariidae/black/070812sisg1958m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/antennariidae/black/070812sisg1958m3a.jpg" alt="Lure and bright markings in the mouth. Sisters Island, Aug 07" class="gallery-image" />
         <div class="caption">
         Lure and bright markings in the mouth. Sisters Island, Aug 07
         </div>
@@ -324,6 +322,59 @@ stonefish and scorpionfish. Unlike those fishes, the frogfish is harmless. Here�
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p><strong>Fishing with a lure:</strong>
 The frogfish literally lures prey to come closer. The lure is at the top of its head, just above its very large, upward facing mouth.The lure is made up of the first spine of the dorsal fin. The spine is modified into a rod or stalk (called the illicium) tipped with a fleshy, fluffy or otherwise attractive bit (called the esca). This bit is wriggled, jerked and waved about so it appears to be a helpless and tasty little morsel. While the fish itself remains motionless, looking like just another lump of rock or other harmless thing. Unsuspecting creatures that attempt to eat the lure are instead eaten by the frogfish! Each frogfish species usually targets a specific prey and each species has a lure that resembles something the targeted prey would find tasty. When not in use, the lure is safely flattened against the head.</p>
 
@@ -335,21 +386,21 @@ Frogfishes generally eat other fishes although some temperate species eat crusta
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/antennariidae/trisignatus/110409smks09390m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/antennariidae/trisignatus/110409smks09390m3.jpg" alt="&#39;Climbing&#39; on long seagrass with its &#39;paws&#39;. Pulau Semakau, Apr 11" class="gallery-image" />
         <div class="caption">
         'Climbing' on long seagrass with its 'paws'. Pulau Semakau, Apr 11
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/antennariidae/trisignatus/040803tusd4069m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/antennariidae/trisignatus/040803tusd4069m3.jpg" alt="Tuas, Aug 04" class="gallery-image" />
         <div class="caption">
         Tuas, Aug 04
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/antennariidae/black/050917smkg2501m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/antennariidae/black/050917smkg2501m3.jpg" alt="Pulau Semakau, Sep 05" class="gallery-image" />
         <div class="caption">
         Pulau Semakau, Sep 05
         </div>
@@ -357,6 +408,59 @@ Frogfishes generally eat other fishes although some temperate species eat crusta
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p><strong>Fish with arms?!</strong>
 The frogfish has another unusual feature: limb-like pectoral fins with an elbow-like joint. These look almost like ‘paws’. It uses these fins almost like arms and hands, to grip the surface and ‘walk’ slowly about (more of a waddle actually). It also has clasping pectoral fins under its body.
 <strong>Frogfish babies:</strong>
@@ -383,14 +487,14 @@ sp.) floats among sargassum seaweed. Another species, the Brackishwater frogfish
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/antennariidae/black/070812sisg1958m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/antennariidae/black/070812sisg1958m3.jpg" alt="Black frogfish" class="gallery-image" />
         <div class="caption">
         Black frogfish
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/antennariidae/trisignatus/050725labg0247m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/antennariidae/trisignatus/050725labg0247m3.jpg" alt="Spotted-tail frogfish" class="gallery-image" />
         <div class="caption">
         Spotted-tail frogfish
         </div>
@@ -398,6 +502,60 @@ sp.) floats among sargassum seaweed. Another species, the Brackishwater frogfish
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong>Family Antennariidae recorded for Singapore</strong>

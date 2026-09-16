@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -282,21 +280,21 @@
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/insecta/dysdercus/081206smkd2477m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/insecta/dysdercus/081206smkd2477m3.jpg" alt="An adult Bug. Pulau Semakau, Dec 08" class="gallery-image" />
         <div class="caption">
         An adult Bug. Pulau Semakau, Dec 08
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/insecta/dysdercus/110109ubnd4899m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/insecta/dysdercus/110109ubnd4899m3.jpg" alt="Some adults have a black head. Pulau Ubin, Jan 11" class="gallery-image" />
         <div class="caption">
         Some adults have a black head. Pulau Ubin, Jan 11
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/insecta/dysdercus/090425prpd0345m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/insecta/dysdercus/090425prpd0345m3.jpg" alt="Adult Bugs are often found in large numbers under Sea hibiscus leaves. Pasir Ris, Apr 09" class="gallery-image" />
         <div class="caption">
         Adult Bugs are often found in large numbers under Sea hibiscus leaves. Pasir Ris, Apr 09
         </div>
@@ -304,6 +302,60 @@
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p>The bugs tend to form groups, which help them find mates. The small, pale eggs are laid singly on the food plant or dropped on the ground near the food plant. They hatch in 5-8 days into wingless nymphs which lack the cross-markings on their backs (they do not have a larval stage). Hatchlings gather near their egg shells, then continue to feed in groups. They moult 5 times (instars) before reaching the mature stage whereupon they get their wings and characteristic cross-markings.</p>
 
 <p>They got their name because many <em>Dysdercus</em> species transfer microorganisms that stain the cotton bolls that they prefer to feed on. Bugs that feed on cotton grow larger and faster. Feeding on the cotton bolls not only stains them an indelible yellow as plant sap seeps out of the puncture wound, and microorganisms and fungus grows at the site. The feeding habit also damages the fibres by cutting them, and affects the growth of the cotton boll. Some species also damage other agricultural crops such as peaches.</p>
@@ -311,21 +363,21 @@
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/insecta/dysdercus/081206smkd2478m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/insecta/dysdercus/081206smkd2478m3.jpg" alt="Juvenile feeding on Sea hibiscus seeds. Pulau Semakau, Dec 08" class="gallery-image" />
         <div class="caption">
         Juvenile feeding on Sea hibiscus seeds. Pulau Semakau, Dec 08
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/insecta/dysdercus/080609ubnod5558m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/insecta/dysdercus/080609ubnod5558m3a.jpg" alt="Juveniles on a Portia tree . Pulau Ubin, Jun 08" class="gallery-image" />
         <div class="caption">
         Juveniles on a Portia tree . Pulau Ubin, Jun 08
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/insecta/dysdercus/151010blymn.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/insecta/dysdercus/151010blymn.jpg" alt="Berlayar Creek, Oct 15 Photo shared by Marcus Ng on flickr." class="gallery-image" />
         <div class="caption">
         Berlayar Creek, Oct 15 Photo shared by Marcus Ng on flickr.
         </div>
@@ -333,6 +385,60 @@
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong>Cotton stainer bugs on Singapore shores</strong></p>
@@ -353,14 +459,14 @@
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/insecta/dysdercus/151117labmn.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/insecta/dysdercus/151117labmn.jpg" alt="Labrador, Nov 15 Photo shared by Marcus Ng on flickr." class="gallery-image" />
         <div class="caption">
         Labrador, Nov 15 Photo shared by Marcus Ng on flickr.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/insecta/dysdercus/191127lazmn3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/insecta/dysdercus/191127lazmn3.jpg" alt="A mating pair. Seringat-Kias, Nov 2019 Photo shared by Marcus Ng on facebook." class="gallery-image" />
         <div class="caption">
         A mating pair. Seringat-Kias, Nov 2019 Photo shared by Marcus Ng on facebook.
         </div>
@@ -368,6 +474,60 @@
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 

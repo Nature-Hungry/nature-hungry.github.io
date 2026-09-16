@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -282,21 +280,21 @@ and
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/red/120704chgd6983m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/red/120704chgd6983m3.jpg" alt="Closely resembles the sea fan that it eats. Changi, Jul 12" class="gallery-image" />
         <div class="caption">
         Closely resembles the sea fan that it eats. Changi, Jul 12
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/softcoral/110518bbd1755m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/softcoral/110518bbd1755m3.jpg" alt="Closely resembles the soft coral that it eats. Beting Bronok, May 11" class="gallery-image" />
         <div class="caption">
         Closely resembles the soft coral that it eats. Beting Bronok, May 11
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/red/050822cjg2211m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/red/050822cjg2211m3.jpg" alt="The shell opening lacks &#39;teeth&#39;, unlike in a real cowrie. Chek Jawa, Aug 05" class="gallery-image" />
         <div class="caption">
         The shell opening lacks 'teeth', unlike in a real cowrie. Chek Jawa, Aug 05
         </div>
@@ -304,6 +302,60 @@ and
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p><strong>What do they eat?</strong>
 Ovulids are carnivorous and prey on sea fans, sea whips and soft corals, actually biting off the polyps and chewing up their common tissues. Each species specialises in a particular prey and they usually mimic their prey perfectly.</p>
 
@@ -313,14 +365,14 @@ Ovulids lay their eggs on the base of the host or hanging from the limbs of bran
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/130626ecplks2.JPG" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/130626ecplks2.JPG" alt="Laying eggs? East Coast Park, Jun 13 Photo shared by Loh Kok Sheng on flickr ." class="gallery-image" />
         <div class="caption">
         Laying eggs? East Coast Park, Jun 13 Photo shared by Loh Kok Sheng on flickr .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/softcoral/110518bbd1754.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/softcoral/110518bbd1754.jpg" alt="Chomped areas and eggs (?) nearby Beting Bronok, May 11" class="gallery-image" />
         <div class="caption">
         Chomped areas and eggs (?) nearby Beting Bronok, May 11
         </div>
@@ -328,27 +380,80 @@ Ovulids lay their eggs on the base of the host or hanging from the limbs of bran
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p><strong>Hanging in there:</strong>
 Several of these snails were seen ‘hanging’ from a string of mucus on sea fans exposed out of water during low tide.</p>
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/210528lyg1a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/210528lyg1a.jpg" alt="Changi, May 21" class="gallery-image" />
         <div class="caption">
         Changi, May 21
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/210528lyg1b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/210528lyg1b.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/210528lyg2b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/210528lyg2b.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
@@ -356,6 +461,60 @@ Several of these snails were seen ‘hanging’ from a string of mucus on sea fa
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <h2 id="status-and-threats">Status and threats</h2>
 
 <p>None of our ovulids are listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also have an impact on local populations.</p>
@@ -369,21 +528,21 @@ Several of these snails were seen ‘hanging’ from a string of mucus on sea fa
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/red/060626ecpd3582m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/red/060626ecpd3582m3.jpg" alt="Red spindle cowrie" class="gallery-image" />
         <div class="caption">
         Red spindle cowrie
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/050724bbg0117m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/050724bbg0117m3.jpg" alt="Nectar spindle cowrie" class="gallery-image" />
         <div class="caption">
         Nectar spindle cowrie
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/pellasimnia/060323ulrd0409m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/pellasimnia/060323ulrd0409m3.jpg" alt="Rose spindle cowrie" class="gallery-image" />
         <div class="caption">
         Rose spindle cowrie
         </div>
@@ -391,19 +550,73 @@ Several of these snails were seen ‘hanging’ from a string of mucus on sea fa
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/barbieri/030521bbd0202m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/barbieri/030521bbd0202m3.jpg" alt="Dalmation spindle cowrie" class="gallery-image" />
         <div class="caption">
         Dalmation spindle cowrie
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/softcoral/120508skdd2250m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/softcoral/120508skdd2250m3.jpg" alt="Soft coral false cowrie" class="gallery-image" />
         <div class="caption">
         Soft coral false cowrie
         </div>
@@ -411,6 +624,60 @@ Several of these snails were seen ‘hanging’ from a string of mucus on sea fa
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong>Family Ovulidae recorded in Singapore</strong>

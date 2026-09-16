@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -297,21 +295,21 @@ is identified by the purple bands on its long oral tentacles. It has a pair of s
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/050821bbg1953m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/050821bbg1953m3.jpg" alt="Beting Bronok, Aug 05" class="gallery-image" />
         <div class="caption">
         Beting Bronok, Aug 05
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/050821bbg1953m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/050821bbg1953m3a.jpg" alt="Purple bands on oral tentacles." class="gallery-image" />
         <div class="caption">
         Purple bands on oral tentacles.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/050821bbg1953m3e.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/050821bbg1953m3e.jpg" alt="Feathery rhinophores." class="gallery-image" />
         <div class="caption">
         Feathery rhinophores.
         </div>
@@ -320,17 +318,70 @@ is identified by the purple bands on its long oral tentacles. It has a pair of s
 
 </div>
 
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/120508skdd2006m6l.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/120508skdd2006m6l.jpg" alt="Pulau Sekudu, May 12" class="gallery-image" />
         <div class="caption">
         Pulau Sekudu, May 12
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/120508skdd2006m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/120508skdd2006m3.jpg" alt="Cerata in hand-like clusters" class="gallery-image" />
         <div class="caption">
         Cerata in hand-like clusters
         </div>
@@ -339,17 +390,70 @@ is identified by the purple bands on its long oral tentacles. It has a pair of s
 
 </div>
 
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/221127lazjk1.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/221127lazjk1.jpg" alt="Laying egg string on seagrass. Lazarus (Eagle Bay), Nov 22 Photo shared by James Koh on facebook" class="gallery-image" />
         <div class="caption">
         Laying egg string on seagrass. Lazarus (Eagle Bay), Nov 22 Photo shared by James Koh on facebook
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/221127lazjk1a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/221127lazjk1a.jpg" alt="Laying egg string on seagrass. Lazarus (Eagle Bay), Nov 22 Photo shared by James Koh on facebook" class="gallery-image" />
         <div class="caption">
         Laying egg string on seagrass. Lazarus (Eagle Bay), Nov 22 Photo shared by James Koh on facebook
         </div>
@@ -357,6 +461,60 @@ is identified by the purple bands on its long oral tentacles. It has a pair of s
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p><strong>What does it eat?</strong>
 It eats
 <a href="../../../../cnidaria/others/hydrozoa/hydrozoa">hydroids</a>
@@ -390,14 +548,14 @@ for free download</li>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/120508skdjk.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/120508skdjk.jpg" alt="Pulau Sekudu, May 12 Photo shared by James Koh on flickr ." class="gallery-image" />
         <div class="caption">
         Pulau Sekudu, May 12 Photo shared by James Koh on flickr .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/150705skdrom3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/150705skdrom3.jpg" alt="Pulau Sekudu, Jul 15 Photo shared by Rene Ong on facebook ." class="gallery-image" />
         <div class="caption">
         Pulau Sekudu, Jul 15 Photo shared by Rene Ong on facebook .
         </div>
@@ -405,19 +563,73 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/100614bblks1m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/100614bblks1m3.jpg" alt="Beting Bronok, Jun 10 Photo shared by Loh Kok Sheng on his blog ." class="gallery-image" />
         <div class="caption">
         Beting Bronok, Jun 10 Photo shared by Loh Kok Sheng on his blog .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/210628ecpBlks9.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/210628ecpBlks9.jpg" alt="East Coast Park (B), Jun 21 Photo shared by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         East Coast Park (B), Jun 21 Photo shared by Loh Kok Sheng on facebook .
         </div>
@@ -425,12 +637,66 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/201215bsrpvc5.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/201215bsrpvc5.jpg" alt="Sentosa Serapong, Dec 20 Photo shared by Vincent Choo on facebook ." class="gallery-image" />
         <div class="caption">
         Sentosa Serapong, Dec 20 Photo shared by Vincent Choo on facebook .
         </div>
@@ -438,19 +704,73 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/180519ssisay1.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/180519ssisay1.jpg" alt="Small Sisters Island, May 18 Photo shared by Abel Yeo on facebook ." class="gallery-image" />
         <div class="caption">
         Small Sisters Island, May 18 Photo shared by Abel Yeo on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/200822jnglks4.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/200822jnglks4.jpg" alt="Pulau Jong, Aug 20 Photo shared by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         Pulau Jong, Aug 20 Photo shared by Loh Kok Sheng on facebook .
         </div>
@@ -458,19 +778,73 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/081114cyrmn.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/081114cyrmn.jpg" alt="Cyrene Reef, Nov 08 Photo shared by Marcus Ng on flickr ." class="gallery-image" />
         <div class="caption">
         Cyrene Reef, Nov 08 Photo shared by Marcus Ng on flickr .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/170528cyrtch1.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/170528cyrtch1.jpg" alt="Cyrene Reef, Jun 17 Photo shared by Toh Chay Hoon on facebook ." class="gallery-image" />
         <div class="caption">
         Cyrene Reef, Jun 17 Photo shared by Toh Chay Hoon on facebook .
         </div>
@@ -478,19 +852,73 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/260629smkeal1.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/260629smkeal1.jpg" alt="Pulau Semakau East, Jun 25 Photo shared by Adriane Lee on facebook ." class="gallery-image" />
         <div class="caption">
         Pulau Semakau East, Jun 25 Photo shared by Adriane Lee on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/080410cyrtch1.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/080410cyrtch1.jpg" alt="Cyrene Reef, Apr 08 Photo shared by Toh Chay Hoon on flickr ." class="gallery-image" />
         <div class="caption">
         Cyrene Reef, Apr 08 Photo shared by Toh Chay Hoon on flickr .
         </div>
@@ -498,19 +926,73 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/160124smkelks6.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/160124smkelks6.jpg" alt="Pulau Semakau East, Jan 16 Photo shared by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         Pulau Semakau East, Jan 16 Photo shared by Loh Kok Sheng on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/080620smklks2m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/080620smklks2m3.jpg" alt="Pulau Semakau, Jun 08 Photo shared by Loh Kok Sheng on his flickr ." class="gallery-image" />
         <div class="caption">
         Pulau Semakau, Jun 08 Photo shared by Loh Kok Sheng on his flickr .
         </div>
@@ -518,26 +1000,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/100502trytch2m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/100502trytch2m3.jpg" alt="Terumbu Raya, May 10 Photo shared by Toh Chay Hoon on her blog ." class="gallery-image" />
         <div class="caption">
         Terumbu Raya, May 10 Photo shared by Toh Chay Hoon on her blog .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/120609tmskrl3m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/120609tmskrl3m3.jpg" alt="Terumbu Semakau, Jun 12 Photo shared by Russel Low on facebook ." class="gallery-image" />
         <div class="caption">
         Terumbu Semakau, Jun 12 Photo shared by Russel Low on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/210428slujll1.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/210428slujll1.jpg" alt="Pulau Salu, Apr 21 Photo shared by Jianlin Liu on facebook ." class="gallery-image" />
         <div class="caption">
         Pulau Salu, Apr 21 Photo shared by Jianlin Liu on facebook .
         </div>
@@ -545,6 +1081,60 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 

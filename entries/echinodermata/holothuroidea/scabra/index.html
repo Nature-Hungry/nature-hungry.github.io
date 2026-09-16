@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -317,21 +315,21 @@ has found that this sea cucumber plays an important role in the health of seagra
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/080720cjd8038m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/080720cjd8038m3.jpg" alt="Upperside Chek Jawa, Jul 08" class="gallery-image" />
         <div class="caption">
         Upperside Chek Jawa, Jul 08
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/080720cjd8037m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/080720cjd8037m3.jpg" alt="Underside flat and pale." class="gallery-image" />
         <div class="caption">
         Underside flat and pale.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/080720cjd8038m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/080720cjd8038m3a.jpg" alt="Short tube feet" class="gallery-image" />
         <div class="caption">
         Short tube feet
         </div>
@@ -340,24 +338,77 @@ has found that this sea cucumber plays an important role in the health of seagra
 
 </div>
 
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/120618tmnbd5434.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/120618tmnbd5434.jpg" alt="&#39;Breathing&#39; through its backside. Tanah Merah, Jun 12" class="gallery-image" />
         <div class="caption">
         'Breathing' through its backside. Tanah Merah, Jun 12
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/090625bsrd5206m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/090625bsrd5206m3.jpg" alt="Often buried or half buried. Beting Bemban Besar, Jun 09" class="gallery-image" />
         <div class="caption">
         Often buried or half buried. Beting Bemban Besar, Jun 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/070816cjd5855m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/070816cjd5855m3a.jpg" alt="Mouth with short feeding tentacles. Chek Jawa, Aug 07" class="gallery-image" />
         <div class="caption">
         Mouth with short feeding tentacles. Chek Jawa, Aug 07
         </div>
@@ -365,6 +416,60 @@ has found that this sea cucumber plays an important role in the health of seagra
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <h2 id="human-uses">Human uses</h2>
 
 <p>This harmless sea cucumber is among those collected as a Chinese delicacy. They are gutted and dried for sale as ‘trepang’ or ‘beche-de-mer’. It is called sandfish in the trade. Growing up to 40cm and weighing up to 1.5kg, it is considered the most widely collected and among the more valuable sources of beche-de-mer. Tests indicate these sea cucumbers contain toxins. They must be properly prepared before they are safe to eat.</p>
@@ -399,21 +504,21 @@ for free download</li>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/210531chg6jt4.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/210531chg6jt4.jpg" alt="Changi Carpark 6, May 21 Photo shared by Jonathan Tan on facebook ." class="gallery-image" />
         <div class="caption">
         Changi Carpark 6, May 21 Photo shared by Jonathan Tan on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/220616chgelks3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/220616chgelks3.jpg" alt="Changi Lost Coast, Jun 22 Photo shared by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         Changi Lost Coast, Jun 22 Photo shared by Loh Kok Sheng on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/240706ubnky3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/240706ubnky3.jpg" alt="Pulau Ubin, Jul 24 Photo shared by Kelvin Yong on facebook ." class="gallery-image" />
         <div class="caption">
         Pulau Ubin, Jul 24 Photo shared by Kelvin Yong on facebook .
         </div>
@@ -421,26 +526,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/200627cnyrk3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/200627cnyrk3.jpg" alt="Coney Island, Jun 20 Photo shared by Richard Kuah on facebook ." class="gallery-image" />
         <div class="caption">
         Coney Island, Jun 20 Photo shared by Richard Kuah on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/151031ecpmblks.JPG" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/151031ecpmblks.JPG" alt="East Coast Park, Marina Bay, Oct 15 Photo shared by Loh Kok Sheng on flickr ." class="gallery-image" />
         <div class="caption">
         East Coast Park, Marina Bay, Oct 15 Photo shared by Loh Kok Sheng on flickr .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/251208melks3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/251208melks3.jpg" alt="Marina East, Dec 2025 Photo shared by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         Marina East, Dec 2025 Photo shared by Loh Kok Sheng on facebook .
         </div>
@@ -448,12 +607,66 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/151001blyjt12m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/151001blyjt12m3.jpg" alt="Berlayar Creek, Oct 15 Photo shared byJonathan Tan on facebook ." class="gallery-image" />
         <div class="caption">
         Berlayar Creek, Oct 15 Photo shared byJonathan Tan on facebook .
         </div>
@@ -461,12 +674,66 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/110220lazlks2m6.JPG" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/110220lazlks2m6.JPG" alt="Lazarus Island, Feb 11 Photo shared by Loh Kok Sheng on his flickr ." class="gallery-image" />
         <div class="caption">
         Lazarus Island, Feb 11 Photo shared by Loh Kok Sheng on his flickr .
         </div>
@@ -474,26 +741,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/150829lazis1m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/150829lazis1m3.jpg" alt="Seringat-Kias, Aug 15 Photo shared by Ian Siah on facebook ." class="gallery-image" />
         <div class="caption">
         Seringat-Kias, Aug 15 Photo shared by Ian Siah on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/241019lazlks10.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/241019lazlks10.jpg" alt="Seringat-Kias, Oct 24 Photo shared by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         Seringat-Kias, Oct 24 Photo shared by Loh Kok Sheng on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/250909lazlks10.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/250909lazlks10.jpg" alt="Seringat-Kias mangrove lagoon, Sep 25 Photo shared by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         Seringat-Kias mangrove lagoon, Sep 25 Photo shared by Loh Kok Sheng on facebook .
         </div>
@@ -501,19 +822,73 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/250530kusrk4.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/250530kusrk4.jpg" alt="Kusu Island, May 25 Photo shared by Richard Kuah on facebook ." class="gallery-image" />
         <div class="caption">
         Kusu Island, May 25 Photo shared by Richard Kuah on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/120408sjilks9m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/120408sjilks9m3.jpg" alt="St. John&#39;s Island , Apr 12 Photo shared by Loh Kok Sheng on his blog ." class="gallery-image" />
         <div class="caption">
         St. John's Island , Apr 12 Photo shared by Loh Kok Sheng on his blog .
         </div>
@@ -521,26 +896,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/240211bigsisvc5.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/240211bigsisvc5.jpg" alt="Big Sisters Island, Feb 24 Photo shared by Vincent Choo on facebook ." class="gallery-image" />
         <div class="caption">
         Big Sisters Island, Feb 24 Photo shared by Vincent Choo on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/240623hntky1.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/240623hntky1.jpg" alt="Pulau Hantu, Jun 24 Photo shared by Kelvin Yong on facebook ." class="gallery-image" />
         <div class="caption">
         Pulau Hantu, Jun 24 Photo shared by Kelvin Yong on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/160208smkshpy6.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/160208smkshpy6.jpg" alt="Pulau Semakau South, Feb 16 Photo shared by Heng Pei Yan on facebook ." class="gallery-image" />
         <div class="caption">
         Pulau Semakau South, Feb 16 Photo shared by Heng Pei Yan on facebook .
         </div>
@@ -548,6 +977,60 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 

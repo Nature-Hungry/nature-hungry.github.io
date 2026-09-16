@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -266,21 +264,21 @@ sp.) which are found higher up where it is drier.</p>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/balanus/050510tusg6179m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/balanus/050510tusg6179m3.jpg" alt="Tuas, May 05 Acorn barnacles on a seawall." class="gallery-image" />
         <div class="caption">
         Tuas, May 05 Acorn barnacles on a seawall.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/balanus/050108cjd9209m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/balanus/050108cjd9209m3.jpg" alt="Chek Jawa, Jan 05 On a rock" class="gallery-image" />
         <div class="caption">
         Chek Jawa, Jan 05 On a rock
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/balanus/160110cjo1100049m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/balanus/160110cjo1100049m3a.jpg" alt="Chek Jawa, Jan 16 On mangrove roots." class="gallery-image" />
         <div class="caption">
         Chek Jawa, Jan 16 On mangrove roots.
         </div>
@@ -288,6 +286,60 @@ sp.) which are found higher up where it is drier.</p>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p>Many settle on walls and hard surfaces. Some species of acorn barnacles settle on living roots of mangrove trees. Others on living animals such as crabs.</p>
 
 <p>Some may also settle on living snails such as the
@@ -297,21 +349,21 @@ sp.) which are found higher up where it is drier.</p>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/balanus/090622chgd4692m3c.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/balanus/090622chgd4692m3c.jpg" alt="Changi, Jul 09 On a living flower crab ." class="gallery-image" />
         <div class="caption">
         Changi, Jul 09 On a living flower crab .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crab/grapsidae/metopograpsus/090820ecpd9482m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crab/grapsidae/metopograpsus/090820ecpd9482m3.jpg" alt="East Coast, Aug 09 On a living Purple climber crab ." class="gallery-image" />
         <div class="caption">
         East Coast, Aug 09 On a living Purple climber crab .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/050823chgg2303m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/050823chgg2303m3.jpg" alt="Changi, Aug 05 Acorn barnacles on a living snail." class="gallery-image" />
         <div class="caption">
         Changi, Aug 05 Acorn barnacles on a living snail.
         </div>
@@ -319,6 +371,59 @@ sp.) which are found higher up where it is drier.</p>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 
 <hr />
 <p>*Species are difficult to positively identify without examination of internal parts.</p>
@@ -347,14 +452,14 @@ for free download</li>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/balanus/150619sntmn.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/balanus/150619sntmn.jpg" alt="Sentosa, Jun 15 Photo shared by Marcus Ng on flickr ." class="gallery-image" />
         <div class="caption">
         Sentosa, Jun 15 Photo shared by Marcus Ng on flickr .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/balanus/160705ecplks4a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/balanus/160705ecplks4a.jpg" alt="East Coast Park, Jul 16 on a sea fan. Photo shared by Loh Kok Sheng on his blog ." class="gallery-image" />
         <div class="caption">
         East Coast Park, Jul 16 on a sea fan. Photo shared by Loh Kok Sheng on his blog .
         </div>
@@ -362,6 +467,60 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 

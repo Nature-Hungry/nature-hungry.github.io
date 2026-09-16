@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -318,21 +316,21 @@ like crabs and prawns; but are very happy out of water.</p>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/isopoda/ligia/060627krjd3707m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/isopoda/ligia/060627krjd3707m3a.jpg" alt="Mating? Kranji, Jun 06" class="gallery-image" />
         <div class="caption">
         Mating? Kranji, Jun 06
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/isopoda/ligia/200706skd.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/isopoda/ligia/200706skd.jpg" alt="Just moulted. Empty skin on the left. Pulau Sekudu, Jul 20" class="gallery-image" />
         <div class="caption">
         Just moulted. Empty skin on the left. Pulau Sekudu, Jul 20
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/isopoda/ligia/090513labd1684m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/isopoda/ligia/090513labd1684m3a.jpg" alt="Body very flat. Labrador, May 09" class="gallery-image" />
         <div class="caption">
         Body very flat. Labrador, May 09
         </div>
@@ -340,6 +338,60 @@ like crabs and prawns; but are very happy out of water.</p>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p><strong>What do they eat?</strong>
 Sea slaters may scavenge, nibbling on whatever recently died on the rocky shore. They may also eat tiny creatures and seaweeds. At low tide, they swarm over the rocks in large numbers.</p>
 
@@ -349,21 +401,21 @@ Sea slaters brood their young in special pouches. The young are released as mini
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/isopoda/ligia/041018sntd7584m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/isopoda/ligia/041018sntd7584m3.jpg" alt="Sentosa, Oct 04" class="gallery-image" />
         <div class="caption">
         Sentosa, Oct 04
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/isopoda/ligia/050126cjd9795m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/isopoda/ligia/050126cjd9795m3.jpg" alt="Chek Jawa, Jan 05" class="gallery-image" />
         <div class="caption">
         Chek Jawa, Jan 05
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/isopoda/ligia/090820ecpd9480m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/isopoda/ligia/090820ecpd9480m3.jpg" alt="Feeding on recently destroyed barnacles?" class="gallery-image" />
         <div class="caption">
         Feeding on recently destroyed barnacles?
         </div>
@@ -371,6 +423,60 @@ Sea slaters brood their young in special pouches. The young are released as mini
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong>Sea slaters on Singapore shores</strong></p>
@@ -393,7 +499,7 @@ for free download</li>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/isopoda/ligia/160125obsmn12.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/isopoda/ligia/160125obsmn12.jpg" alt="Pulau Ubin OBS, Jan 16 Photo shared by Marcus Ng on facebook ." class="gallery-image" />
         <div class="caption">
         Pulau Ubin OBS, Jan 16 Photo shared by Marcus Ng on facebook .
         </div>
@@ -401,26 +507,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/isopoda/ligia/210822ssisvc3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/isopoda/ligia/210822ssisvc3.jpg" alt="Small Sisters Island, Aug 21 Photo shared by Vincent Choo on facebook ." class="gallery-image" />
         <div class="caption">
         Small Sisters Island, Aug 21 Photo shared by Vincent Choo on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/isopoda/ligia/090510hntmn.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/isopoda/ligia/090510hntmn.jpg" alt="Captured by a Purple climbing crab . Pulau Hantu May 09 Photo shared by Marcus Ng on flickr ." class="gallery-image" />
         <div class="caption">
         Captured by a Purple climbing crab . Pulau Hantu May 09 Photo shared by Marcus Ng on flickr .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/isopoda/ligia/200822jngjc4.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/isopoda/ligia/200822jngjc4.jpg" alt="Pulau Jong, Aug 20 Photo shared by Joleen Chan on facebook ." class="gallery-image" />
         <div class="caption">
         Pulau Jong, Aug 20 Photo shared by Joleen Chan on facebook .
         </div>
@@ -428,12 +588,120 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 
 
         

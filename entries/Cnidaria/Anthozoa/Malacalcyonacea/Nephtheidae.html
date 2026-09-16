@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -318,21 +316,21 @@ Although there are some exceptions, many soft corals don’t produce a hard skel
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/neppink/080705bbd6921m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/neppink/080705bbd6921m3.jpg" alt="Beting Bronok, Jul 08 Polyps of a flowery soft coral" class="gallery-image" />
         <div class="caption">
         Beting Bronok, Jul 08 Polyps of a flowery soft coral
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/others/gorgonacea/candelabra/060528bbd2416m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/others/gorgonacea/candelabra/060528bbd2416m3.jpg" alt="Beting Bronok, May 06 Polyps of a sea fan ." class="gallery-image" />
         <div class="caption">
         Beting Bronok, May 06 Polyps of a sea fan .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letomelette/050807sjig0617m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letomelette/050807sjig0617m3.jpg" alt="St. John&#39;s Island, Aug 05 Polyps of a leathery coral" class="gallery-image" />
         <div class="caption">
         St. John's Island, Aug 05 Polyps of a leathery coral
         </div>
@@ -340,6 +338,60 @@ Although there are some exceptions, many soft corals don’t produce a hard skel
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p><strong>What do they eat?</strong>
 Most soft corals feed on plankton, some also feed on finer particles. Like other cnidarians, soft coral polyps have tentacles with stingers to capture food.</p>
 
@@ -351,21 +403,21 @@ Most soft corals feed on plankton, some also feed on finer particles. Like other
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/ophiuroidea/tinycolourful/080507skdd2477m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/ophiuroidea/tinycolourful/080507skdd2477m3.jpg" alt="Tiny colourful brittle stars are sometimes seen in soft corals. Tuas, Nov 03" class="gallery-image" />
         <div class="caption">
         Tiny colourful brittle stars are sometimes seen in soft corals. Tuas, Nov 03
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/softcoral/120508skdd2250m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/softcoral/120508skdd2250m3.jpg" alt="Often seen in a pair. Pulau Sekudu, May 12" class="gallery-image" />
         <div class="caption">
         Often seen in a pair. Pulau Sekudu, May 12
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/nepspiky/031126tusad0068m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/nepspiky/031126tusad0068m3.jpg" alt="Tiny red nose shrimp are sometimes seen in numbers in flowery soft coral. Tuas, Nov 03" class="gallery-image" />
         <div class="caption">
         Tiny red nose shrimp are sometimes seen in numbers in flowery soft coral. Tuas, Nov 03
         </div>
@@ -373,6 +425,59 @@ Most soft corals feed on plankton, some also feed on finer particles. Like other
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p><strong>Soft coral babies:</strong>
 Soft corals can reproduce asexually: budding of new polyps enlarges the colony. However, they also reproduce sexually. The polyps may produce sperm or eggs. The eggs develop into free-swimming larvae that drift with the plankton before settling down to start a new colonies.</p>
 
@@ -394,21 +499,21 @@ Trampling by careless visitors, and over-collection also have an impact on local
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letomelette/050807sjig0617m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letomelette/050807sjig0617m3.jpg" alt="Leathery soft corals" class="gallery-image" />
         <div class="caption">
         Leathery soft corals
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/nepasparagus/040411hntd0107m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/nepasparagus/040411hntd0107m3.jpg" alt="Flowery soft corals" class="gallery-image" />
         <div class="caption">
         Flowery soft corals
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/others/gorgonacea/others/040604bbad0081m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/others/gorgonacea/others/040604bbad0081m3.jpg" alt="Sea fans" class="gallery-image" />
         <div class="caption">
         Sea fans
         </div>
@@ -416,26 +521,80 @@ Trampling by careless visitors, and over-collection also have an impact on local
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/knobbly/060430skdg5827m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/knobbly/060430skdg5827m3.jpg" alt="Knobbly soft corals" class="gallery-image" />
         <div class="caption">
         Knobbly soft corals
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/others/heliopora/heliopora/060402ulrd1105m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/others/heliopora/heliopora/060402ulrd1105m3.jpg" alt="Blue corals" class="gallery-image" />
         <div class="caption">
         Blue corals
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/xenia/110802smkd8256m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/xenia/110802smkd8256m3.jpg" alt="Xenia soft coral" class="gallery-image" />
         <div class="caption">
         Xenia soft coral
         </div>
@@ -443,26 +602,80 @@ Trampling by careless visitors, and over-collection also have an impact on local
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/feafine/120124sisd5837m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/feafine/120124sisd5837m3.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/feabroad/050807sjig0759m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/feabroad/050807sjig0759m3.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/feabrown/050329sntg3905m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/feabrown/050329sntg3905m3.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
@@ -471,24 +684,77 @@ Trampling by careless visitors, and over-collection also have an impact on local
 
 </div>
 
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/feafine/120124sisd5837m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/feafine/120124sisd5837m3b.jpg" alt="Fine feathery soft coral" class="gallery-image" />
         <div class="caption">
         Fine feathery soft coral
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/feabroad/050807sjig0760m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/feabroad/050807sjig0760m3.jpg" alt="Broad feathery soft coral" class="gallery-image" />
         <div class="caption">
         Broad feathery soft coral
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/feabrown/050329sntg3905m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/feabrown/050329sntg3905m3b.jpg" alt="Brown feathery soft coral" class="gallery-image" />
         <div class="caption">
         Brown feathery soft coral
         </div>
@@ -496,6 +762,59 @@ Trampling by careless visitors, and over-collection also have an impact on local
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 
 <hr />
 
@@ -565,6 +884,60 @@ are included in this group</p>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 
 
         

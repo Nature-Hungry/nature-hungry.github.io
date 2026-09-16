@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -149,27 +147,256 @@
     <!-- Page content -->
     <main class="page-content" id="main-content">
       
+        <div class="coverimg">
+            <img src="https://images.naturehungry.sg/photos/posts/EIA/PC190091-Pano.JPG" alt="">
+        </div>
+      
       
       <h1 class="page-title">Environmental Impact Assessments</h1>
       
-      <p>Environmental Impact Assessments (EIAs) are large documents, typically spanning more than a few hundred pages, and they can inform you about the development’s location, size, environmental receptors, and</p>
+      <p>If you only learn 3 things about EIAs…</p>
+<ul>
+  <li>EIAs study what is in a habitat before construction begins.</li>
+  <li>EIAs lay the groundwork for mitigation measures so construction does not affect nearby nature areas, or the remaining retained nature areas.</li>
+  <li>EIAs have weak backing from legislature, and contractors exploit this gap at the cost of the well-being of our wildlife.</li>
+</ul>
+
+<p>Environmental Impact Assessments (EIAs) are large documents, typically spanning more than a few hundred pages. They can inform you about the development’s location, size, and biotic and abiotic receptors of impacts.</p>
+
+<p>The latest EIAs can be found <a href="https://www.ura.gov.sg/land-planning/planning-strategies/greenery-and-heritage/environmental-impact-assessment/">here</a>.</p>
+
+<p>Impacts are categorised into two phases. Construction Phase, and Post-Construction Phase.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="https://images.naturehungry.sg/photos/posts/EIA/ConstructionPhase.jpg" alt="Construction Phase of a Build-To-Order (BTO) development." class="gallery-image" />
+        <div class="caption">
+        Construction Phase of a Build-To-Order (BTO) development.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="https://images.naturehungry.sg/photos/posts/EIA/PostConstructionPhase.JPG" alt="Post-construction phase of a HDB." class="gallery-image" />
+        <div class="caption">
+        Post-construction phase of a HDB.
+        </div>
+    </div>
+    
+
+</div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 
 <h2 id="development-size-and-location">Development Size and Location</h2>
+
+<p>The EIA usually begins with a map of the construction site’s footprint. This footprint would be surrounded by an even larger boundary, usually rounder in nature. That would be the buffer of the construction site, usually 150m or 200m wide. The buffer is studied in the EIA in an attempt to discover any receptors that would be affected by far-reaching pollutants like light, noise, dust, or leakage of site effluents.</p>
 
 <h2 id="abiotic-environmental-receptors">Abiotic Environmental Receptors</h2>
 
 <h3 id="hydrology">Hydrology</h3>
 
+<p>This section of the EIA includes the mapping of all water bodies and streams within the site. Sometimes, they even map out the catchment areas.</p>
+
+<p>This allows the environmental consultants to understand the downstream impacts of the construction site. Site effluent could leak out of the site and downstream into other nature areas, or places with high human traffic like the Singapore River.</p>
+
 <h3 id="topography">Topography</h3>
+
+<p>Topographical maps are sometimes included in the EIA, showing where the hills and valleys are in the site. This is not crucial to the EIA, so it is sometimes excluded. But it helps build context, so it is still useful to have!</p>
 
 <h2 id="biotic-environmental-receptors">Biotic Environmental Receptors</h2>
 
+<h3 id="what-does-cs-mean">What does CS mean?</h3>
+
+<p>“CS fauna” or “CS species” is a term thrown around constantly when discussing EIAs or about the impacts of a development.</p>
+
+<p>CS is short for “Conservation Significant”. So “CS species” refers to “Species of high conservation significance”, and “CS flora” refers to “Plant species of high conservation significance”.</p>
+
+<p>CS species includes all flora and fauna that are classified as:</p>
+<ul>
+  <li><strong>Near Threatened (NE)</strong></li>
+  <li><strong>Endangered (EN)</strong></li>
+  <li><strong>Critically Endangered (CR)</strong></li>
+</ul>
+
 <h3 id="plants-flora">Plants (Flora)</h3>
 
-<p>The plants provide the physical structure to the site’s ecosystem. So the type of plant and their growth forms affect what animals can live there. In an EIA, you will see a habitat map showing the site being cut up into different colours, each colour representing a classification of vegetation type. Examples include Grassland, Shrubland, Exotic-dominated Secondary Forest, Native-dominated Secondary Forest, Abandoned Land Forest, and many more. You will see</p>
+<p>The plants provide the physical structure to the site’s ecosystem. So the type of plant and their growth forms affect what animals can live there. In an EIA, you will see a habitat map showing the site being cut up into different colours, each colour representing a classification of vegetation type. Examples include Grassland, Shrubland, Exotic-dominated Secondary Forest, Native-dominated Secondary Forest, Abandoned Land Forest, and many more.</p>
+
+<p>The heirarchy of conservation significance, in descending order:</p>
+<ol>
+  <li>Native-dominated Secondary Forest
+    <ul>
+      <li>Abandoned-Land Forest</li>
+    </ul>
+  </li>
+  <li>Exotic-dominated Secondary Forest</li>
+  <li>Scrubland / Grassland</li>
+</ol>
+
+<p>Secondary forest plants usually provide small berries that attract most birds, and the attracted birds import seeds of other species. The seeds eventually grow up to fill in the canopy, and over time, the forest would fill itself with a large variety of native trees. A good forest has high species richness of flora.</p>
 
 <h3 id="animals-fauna">Animals (Fauna)</h3>
 
+<p>Animals require ecological connectivity to kickstart forest succession in a site. To import seeds, the wildlife must see the site and travel to it. And along the way, the wildlife must also utilise other nature spaces to get from the Nature Reserves to the site.</p>
+
+<p>Sometimes, the EIA site is the stepping stone for ecological connectivity. A stepping stone needs to have a minimum amount of floristic structure to accommodate wildlife.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="https://images.naturehungry.sg/photos/posts/EIA/P4103597-HDR.jpg" alt="Rail Corridor has an understorey and canopy." class="gallery-image" />
+        <div class="caption">
+        Rail Corridor has an understorey and canopy.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="https://images.naturehungry.sg/photos/posts/EIA/APC_2023-hdr.jpg" alt="Standard Singaporean streetscape, with Rain Trees (Samanea saman) lining the road." class="gallery-image" />
+        <div class="caption">
+        Standard Singaporean streetscape, with Rain Trees (Samanea saman) lining the road.
+        </div>
+    </div>
+    
+
+</div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
+<p>Different wildlife has different thresholds for how much shade or how tall the canopy needs to be. Pangolins just need shade, as they can be seen wandering around nature areas without an understorey. But both birds like the Pin-striped Tit Babbler and the Greater Racket-tailed Drongo require greater floristic structure, with a full canopy and a strong ecosystem to back it up. This is largely due to their hunting habits and diet. They feed on medium to large insects, from crickets to scorpions, the Pin-striped Tit Babbler stays on the bottom half of the forest, while the Greater Racket-tailed Drongo forages in the top half. A habitat too short simply cannot accommodate these two species.</p>
+
+<h3 id="large-seeds-and-dispersers">Large Seeds and Dispersers</h3>
+
+<p>Presence of large-seeded CS flora indicates ecological connectivity of Large-tailed Macaques, as only these Macaques can disperse large seeds within Singapore.</p>
+
+<p>The Oriental Pied Hornbill was reintroduced into Singapore to fulfil this large seed disperser role better than the macaques, but the Hornbills largely remain in urban areas as of today.</p>
+
+<h2 id="environmental-monitoring-and-management-plan">Environmental Monitoring and Management Plan</h2>
+
+<p>After the EIA is completed, there would be a massive annex at the end of the document showcasing the Environmental Monitoring and Management Plan (EMMP) which outlines all the possible impacts where the source is the development. These impacts are accompanied by their corresponding monitoring method and mitigation measure.</p>
+
+<h3 id="what-does-this-emmp-mean">What Does This EMMP Mean?</h3>
+
+<p>The document clarifies how the authorities and developers intend to monitor the work site, to detect lapses or failure to uphold the mitigation measures.</p>
+
+<p>An example of this would be Light Pollution in the work site.</p>
+<ul>
+  <li>The source of light pollution is the work site</li>
+  <li>The mitigation measure is to not carry out works at night, where lights are required for safety reasons.</li>
+  <li>The monitoring method would be to install light sensors at the perimeter of the work site, between the work site and the adjacent nature area.</li>
+</ul>
+
+<p>If the light sensors pick up high levels of light at night, that means failure to uphold the mitigation measure has occurred. The authorities are then supposed to enforce or act upon lapses in mitigation measures.</p>
+
+<h2 id="gaps-in-the-eia-framework">Gaps in the EIA Framework</h2>
+
+<p>Up till today, the EIA framework is formed from a collective of loose legislation. There is no ‘EIA’ law. Thus contractors can prioritise what mitigation measures to spend money to maintain, and what mitigation measures to lapse on purpose to save time and cost.</p>
+
+<p>Examples include keeping Earth Control Measures (ECM) ponds well-maintained and to keep pollutants (like oil from leaky equipment) within the site, as PUB is very stringent on water quality monitoring around the site. Punishment for leaking pollutants into nearby waterways is very high, as the Environmental Pollution Control Act is very strong.</p>
+
+<p>An example of a low-priority mitigation measure includes wildlife shepherding, where trees are cleared in cells and in a certain direction to shepherd wildlife out into a nearby forest. Wildlife shepherding has a timeline, which usually spans a month, and the contractor is ‘delayed’ by a month due to this. Sometimes, a contractor would just ‘save time’ by clearing the forest recklessly, leaving wildlife to fend for itself and creating the opportunity to harm workers on site. A loose wild pig on site can be VERY dangerous. But all the contractor gets in punishment for reckless deforestation is a slap on the wrist, and a verbal chiding. Nothing more.</p>
 
     </main>
 

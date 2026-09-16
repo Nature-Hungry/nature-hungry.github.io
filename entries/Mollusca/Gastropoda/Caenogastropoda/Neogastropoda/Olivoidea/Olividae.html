@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -303,14 +301,14 @@ and
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/olividae/mustelina/060612cftd2912m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/olividae/mustelina/060612cftd2912m3.jpg" alt="Changi, Jun 06" class="gallery-image" />
         <div class="caption">
         Changi, Jun 06
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/olividae/mustelina/110829ecpd0062m6l.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/olividae/mustelina/110829ecpd0062m6l.jpg" alt="Button snails leaping away from a burrowing Olive snail. East Coast Park, Aug 11" class="gallery-image" />
         <div class="caption">
         Button snails leaping away from a burrowing Olive snail. East Coast Park, Aug 11
         </div>
@@ -318,6 +316,60 @@ and
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p><strong>What do they eat?</strong>
 Olive snails are predators. They feed on other snails, small crustaceans and also scavenge on dead animals. An Olive snail remains in the sand while it sticks its siphon above the surface. When it ‘smells’ suitable prey, it emerges to engulf the prey with its large foot, smothering it with slime and then dragging it beneath the sand to be eaten at leisure.</p>
 <h2 id="human-uses">Human uses</h2>
@@ -339,21 +391,21 @@ is listed as ‘Vulnerable’ on the Red List of threatened animals of Singapore
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/olividae/miniacea/090625cyrd5437m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/olividae/miniacea/090625cyrd5437m3.jpg" alt="Orange-mouth olive snail" class="gallery-image" />
         <div class="caption">
         Orange-mouth olive snail
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/olividae/miniacea/110830cyrd0490m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/olividae/miniacea/110830cyrd0490m3.jpg" alt="White lip ends at about half the shell opening length. Shell opening orange or orangey." class="gallery-image" />
         <div class="caption">
         White lip ends at about half the shell opening length. Shell opening orange or orangey.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/olividae/miniacea/090625cyrd5434m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/olividae/miniacea/090625cyrd5434m3b.jpg" alt="Spire flattened with short pointed tip." class="gallery-image" />
         <div class="caption">
         Spire flattened with short pointed tip.
         </div>
@@ -361,26 +413,80 @@ is listed as ‘Vulnerable’ on the Red List of threatened animals of Singapore
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/olividae/tigridella/130401chgd5120m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/olividae/tigridella/130401chgd5120m3.jpg" alt="Tigerish olive snail" class="gallery-image" />
         <div class="caption">
         Tigerish olive snail
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/olividae/tigridella/130401chgd5121m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/olividae/tigridella/130401chgd5121m3.jpg" alt="White lip ends at about half the shell opening length. Shell opening purplish brown." class="gallery-image" />
         <div class="caption">
         White lip ends at about half the shell opening length. Shell opening purplish brown.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/olividae/tigridella/130401chgd5121m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/olividae/tigridella/130401chgd5121m3b.jpg" alt="Spire conical." class="gallery-image" />
         <div class="caption">
         Spire conical.
         </div>
@@ -388,26 +494,80 @@ is listed as ‘Vulnerable’ on the Red List of threatened animals of Singapore
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/olividae/mustelina/060612cftd2912m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/olividae/mustelina/060612cftd2912m3.jpg" alt="Weasel olive snail" class="gallery-image" />
         <div class="caption">
         Weasel olive snail
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/olividae/mustelina/090820ecpd9455m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/olividae/mustelina/090820ecpd9455m3.jpg" alt="White lip ends at about half the shell opening length. Shell opening violet." class="gallery-image" />
         <div class="caption">
         White lip ends at about half the shell opening length. Shell opening violet.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/olividae/mustelina/090820ecpd9455m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/olividae/mustelina/090820ecpd9455m3b.jpg" alt="Short conical spire." class="gallery-image" />
         <div class="caption">
         Short conical spire.
         </div>
@@ -415,26 +575,80 @@ is listed as ‘Vulnerable’ on the Red List of threatened animals of Singapore
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/olividae/oliva/110814smkd9100m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/olividae/oliva/110814smkd9100m3.jpg" alt="Common olive snail" class="gallery-image" />
         <div class="caption">
         Common olive snail
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/olividae/oliva/110814smkd9097m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/olividae/oliva/110814smkd9097m3.jpg" alt="White lip ends at less than half the shell opening length. Shell opening violet." class="gallery-image" />
         <div class="caption">
         White lip ends at less than half the shell opening length. Shell opening violet.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/olividae/oliva/110814smkd9097m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/olividae/oliva/110814smkd9097m3b.jpg" alt="Short conical spire." class="gallery-image" />
         <div class="caption">
         Short conical spire.
         </div>
@@ -442,6 +656,60 @@ is listed as ‘Vulnerable’ on the Red List of threatened animals of Singapore
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p>shared by Neo Mei Lin on

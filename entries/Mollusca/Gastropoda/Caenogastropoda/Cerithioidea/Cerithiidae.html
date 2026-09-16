@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -302,21 +300,21 @@
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1464m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1464m3.jpg" alt="Sentosa, Oct 08" class="gallery-image" />
         <div class="caption">
         Sentosa, Oct 08
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3.jpg" alt="Shell opening." class="gallery-image" />
         <div class="caption">
         Shell opening.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3b.jpg" alt="Operculum with only a few whorls." class="gallery-image" />
         <div class="caption">
         Operculum with only a few whorls.
         </div>
@@ -324,6 +322,60 @@
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p><strong>What do they eat?</strong>
 Creeper snails are often found in groups of many individuals packed close to one another. They feed on algae and detritus on the sea bottom, often near reefs.</p>
 
@@ -335,14 +387,14 @@ Creeper snails are often found in groups of many individuals packed close to one
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/plain/130823prp.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/plain/130823prp.jpg" alt="Plain creeper snails sometimes seen in large numbers. Pasir Ris Park, Aug 13" class="gallery-image" />
         <div class="caption">
         Plain creeper snails sometimes seen in large numbers. Pasir Ris Park, Aug 13
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/huddling/060131sjig4376m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/huddling/060131sjig4376m3b.jpg" alt="Empty shells may be taken over by tiny huddling hermit crabs . St John&#39;s Island, Jan 06" class="gallery-image" />
         <div class="caption">
         Empty shells may be taken over by tiny huddling hermit crabs . St John's Island, Jan 06
         </div>
@@ -350,6 +402,59 @@ Creeper snails are often found in groups of many individuals packed close to one
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <h2 id="human-uses">Human uses</h2>
 
 <p>Some of the prettier species are collected for the shell trade.</p>
@@ -367,21 +472,21 @@ Creeper snails are often found in groups of many individuals packed close to one
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/plain/050723labg0078m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/plain/050723labg0078m3.jpg" alt="Plain creeper snails" class="gallery-image" />
         <div class="caption">
         Plain creeper snails
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/obelisk/080509cyrd2908m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/obelisk/080509cyrd2908m3.jpg" alt="Obelisk creeper snail" class="gallery-image" />
         <div class="caption">
         Obelisk creeper snail
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/variegated/060212sisg4837m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/variegated/060212sisg4837m3.jpg" alt="Variegated creeper snail" class="gallery-image" />
         <div class="caption">
         Variegated creeper snail
         </div>
@@ -389,12 +494,66 @@ Creeper snails are often found in groups of many individuals packed close to one
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/pellucida/050917smkg2563m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/pellucida/050917smkg2563m3.jpg" alt="Mangrove creeper snail" class="gallery-image" />
         <div class="caption">
         Mangrove creeper snail
         </div>
@@ -402,6 +561,60 @@ Creeper snails are often found in groups of many individuals packed close to one
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong>Family Cerithiidae recorded for Singapore</strong>

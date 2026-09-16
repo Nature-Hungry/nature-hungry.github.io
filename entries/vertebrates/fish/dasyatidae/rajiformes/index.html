@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -298,14 +296,14 @@ Called skates, rays and stingrays, these fishes belong to the Order Rajiformes w
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg" alt="Swimming with undulations of the enlarged pectoral fins. Pulau Sekudu, May 04" class="gallery-image" />
         <div class="caption">
         Swimming with undulations of the enlarged pectoral fins. Pulau Sekudu, May 04
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/dasyatidae/walga/040509skddd0030m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/dasyatidae/walga/040509skddd0030m3.jpg" alt="Underside. Pulau Sekudu, May 04" class="gallery-image" />
         <div class="caption">
         Underside. Pulau Sekudu, May 04
         </div>
@@ -313,6 +311,60 @@ Called skates, rays and stingrays, these fishes belong to the Order Rajiformes w
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p>Most rays have a long tail, with a sting - usually near where the tail joins the body, and not at the tip of the tail. Rays are closely related to sharks. Like sharks, the skeleton of rays are made of flexible cartilage. If you want to know how cartilage feels like, your nose and ears are made of cartilage!</p>
 
 <p><strong>Sometimes confused with</strong>
@@ -322,14 +374,14 @@ Called skates, rays and stingrays, these fishes belong to the Order Rajiformes w
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/narcinidae/narcine/090622cftd4655m6l.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/narcinidae/narcine/090622cftd4655m6l.jpg" alt="Cute but shocking: the Electric ray. Changi, Jun 05" class="gallery-image" />
         <div class="caption">
         Cute but shocking: the Electric ray. Changi, Jun 05
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/narcinidae/narcine/090622cftd4655m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/narcinidae/narcine/090622cftd4655m3a.jpg" alt="Gill openings behind the eyes." class="gallery-image" />
         <div class="caption">
         Gill openings behind the eyes.
         </div>
@@ -337,6 +389,59 @@ Called skates, rays and stingrays, these fishes belong to the Order Rajiformes w
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p><strong>Stinging encounter!</strong>
 Stingrays are not aggressive animals and prefer to flee from danger. Most stingray injuries are the result of carelessness, generally when someone accidentally steps on a stingray that is lying harmlessly on the bottom. Stingray spines can penetrate through booties!</p>
 
@@ -350,14 +455,14 @@ Don’t touch rays. Wear covered shoes. Watch your step and walk slowly. Stingra
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/dasyatidae/lymma/080802sjid8875.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/dasyatidae/lymma/080802sjid8875.jpg" alt="A commonly encountered stingray. St. John&#39;s Island, Aug 08" class="gallery-image" />
         <div class="caption">
         A commonly encountered stingray. St. John's Island, Aug 08
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/dasyatidae/lymma/080802sjid8875m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/dasyatidae/lymma/080802sjid8875m3.jpg" alt="Spine near the end of the tail." class="gallery-image" />
         <div class="caption">
         Spine near the end of the tail.
         </div>
@@ -365,6 +470,59 @@ Don’t touch rays. Wear covered shoes. Watch your step and walk slowly. Stingra
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p><strong>Baby rays:</strong>
 Rays practice internal fertilisation. Most rays give birth to live fully developed young, although some may lay eggs enclosed in a capsule.</p>
 
@@ -389,21 +547,21 @@ is under pressure from over collection for the aquarium trade and destruction of
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/dasyatidae/lymma/080802sjid8804m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/dasyatidae/lymma/080802sjid8804m3.jpg" alt="Blue-spotted fantail ray" class="gallery-image" />
         <div class="caption">
         Blue-spotted fantail ray
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/dasyatidae/walga/110520chgd2528.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/dasyatidae/walga/110520chgd2528.jpg" alt="Mangrove whipray" class="gallery-image" />
         <div class="caption">
         Mangrove whipray
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/dasyatidae/kuhlii/071226chgd8385m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/dasyatidae/kuhlii/071226chgd8385m3.jpg" alt="Blue-spotted stingray" class="gallery-image" />
         <div class="caption">
         Blue-spotted stingray
         </div>
@@ -411,19 +569,73 @@ is under pressure from over collection for the aquarium trade and destruction of
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m3.jpg" alt="Honeycomb whipray" class="gallery-image" />
         <div class="caption">
         Honeycomb whipray
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/narcinidae/narcine/090622cftd4655m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/narcinidae/narcine/090622cftd4655m3.jpg" alt="Numbfish" class="gallery-image" />
         <div class="caption">
         Numbfish
         </div>
@@ -431,12 +643,66 @@ is under pressure from over collection for the aquarium trade and destruction of
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/myliobatidae/narinari/110506tmftd0849m6l.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/myliobatidae/narinari/110506tmftd0849m6l.jpg" alt="Spotted eagle ray" class="gallery-image" />
         <div class="caption">
         Spotted eagle ray
         </div>
@@ -444,6 +710,60 @@ is under pressure from over collection for the aquarium trade and destruction of
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong>Order Rajiformes recorded for Singapore</strong>

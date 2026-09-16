@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -284,21 +282,21 @@ A bloom of Feathery green seaweed.
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/lentillifera/080510smkd3052m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/lentillifera/080510smkd3052m3.jpg" alt="Round sea grapes Caulerpa lentillifera" class="gallery-image" />
         <div class="caption">
         Round sea grapes Caulerpa lentillifera
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/racemosa/050625labd4351m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/racemosa/050625labd4351m3.jpg" alt="Oval sea grapes Caulerpa racemosa" class="gallery-image" />
         <div class="caption">
         Oval sea grapes Caulerpa racemosa
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/bell/080605hntd4974m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/bell/080605hntd4974m3.jpg" alt="Bell sea grapes seaweed Caulerpa racemosa var. turbinata" class="gallery-image" />
         <div class="caption">
         Bell sea grapes seaweed Caulerpa racemosa var. turbinata
         </div>
@@ -306,19 +304,73 @@ A bloom of Feathery green seaweed.
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/peltata/050624tusg8530m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/peltata/050624tusg8530m3.jpg" alt="Big parasol green seaweed Caulerpa peltata" class="gallery-image" />
         <div class="caption">
         Big parasol green seaweed Caulerpa peltata
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/peltatasmall/060713rlhd4358m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/peltatasmall/060713rlhd4358m3.jpg" alt="Small parasol green seaweed Caulerpa racemosa var. peltata" class="gallery-image" />
         <div class="caption">
         Small parasol green seaweed Caulerpa racemosa var. peltata
         </div>
@@ -326,26 +378,80 @@ A bloom of Feathery green seaweed.
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/taxifolia/040703sisd1564m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/taxifolia/040703sisd1564m3.jpg" alt="Taxifolia feathery green seaweed Caulerpa taxifolia" class="gallery-image" />
         <div class="caption">
         Taxifolia feathery green seaweed Caulerpa taxifolia
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/mexicana/040901sjid6072m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/mexicana/040901sjid6072m3.jpg" alt="Mexican green seaweed Caulerpa mexicana" class="gallery-image" />
         <div class="caption">
         Mexican green seaweed Caulerpa mexicana
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/sertularioides/050621skdg7890m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/sertularioides/050621skdg7890m3.jpg" alt="Broad feathery green seaweed Caulerpa sertularioides" class="gallery-image" />
         <div class="caption">
         Broad feathery green seaweed Caulerpa sertularioides
         </div>
@@ -353,26 +459,80 @@ A bloom of Feathery green seaweed.
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/cupressoides/050621skdg7924m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/cupressoides/050621skdg7924m3.jpg" alt="Zipper green seaweed Caulerpa cupressoides" class="gallery-image" />
         <div class="caption">
         Zipper green seaweed Caulerpa cupressoides
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/serrulata/040619sntd0600m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/serrulata/040619sntd0600m3.jpg" alt="Serrated green seaweed Caulerpa serrulata" class="gallery-image" />
         <div class="caption">
         Serrated green seaweed Caulerpa serrulata
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/scalpelliformis/050428cftg5309m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/scalpelliformis/050428cftg5309m3.jpg" alt="Scalpel green seaweed Caulerpa scalpelliformis" class="gallery-image" />
         <div class="caption">
         Scalpel green seaweed Caulerpa scalpelliformis
         </div>
@@ -380,19 +540,73 @@ A bloom of Feathery green seaweed.
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/peltata/050624tusg8530m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/peltata/050624tusg8530m3.jpg" alt="Big parasol green seaweed Caulerpa peltata" class="gallery-image" />
         <div class="caption">
         Big parasol green seaweed Caulerpa peltata
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/peltatasmall/060713rlhd4358m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/peltatasmall/060713rlhd4358m3.jpg" alt="Small parasol green seaweed Caulerpa racemosa var. peltata" class="gallery-image" />
         <div class="caption">
         Small parasol green seaweed Caulerpa racemosa var. peltata
         </div>
@@ -401,19 +615,72 @@ A bloom of Feathery green seaweed.
 
 </div>
 
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/bottlebrush/080425cyrd1800m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/bottlebrush/080425cyrd1800m3a.jpg" alt="Bottlebrush green seaweed Caulerpa webbiana" class="gallery-image" />
         <div class="caption">
         Bottlebrush green seaweed Caulerpa webbiana
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/fluffy/090513labd1635m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/fluffy/090513labd1635m3.jpg" alt="Fluffy green seaweed Caulerpa verticillata" class="gallery-image" />
         <div class="caption">
         Fluffy green seaweed Caulerpa verticillata
         </div>
@@ -421,6 +688,60 @@ A bloom of Feathery green seaweed.
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong><em>Caulerpa</em>

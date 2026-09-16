@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -309,21 +307,21 @@
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/050726chgg0358m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/050726chgg0358m3.jpg" alt="Using its tail to flip over to the right side Changi, Jun 05" class="gallery-image" />
         <div class="caption">
         Using its tail to flip over to the right side Changi, Jun 05
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/050726chgg0358m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/050726chgg0358m3a.jpg" alt="Spines on the side of the body shorter." class="gallery-image" />
         <div class="caption">
         Spines on the side of the body shorter.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/050726chgg0361m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/050726chgg0361m3a.jpg" alt="Tail near the body is circular in cross-section and smooth on the upperside." class="gallery-image" />
         <div class="caption">
         Tail near the body is circular in cross-section and smooth on the upperside.
         </div>
@@ -332,24 +330,77 @@
 
 </div>
 
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/050726chgg0358m3d.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/050726chgg0358m3d.jpg" alt="Male&#39;s special legs for holding onto the female has two &#39;fingers&#39;." class="gallery-image" />
         <div class="caption">
         Male's special legs for holding onto the female has two 'fingers'.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/050726chgg0358m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/050726chgg0358m3b.jpg" alt="Tail without a groove on the underside." class="gallery-image" />
         <div class="caption">
         Tail without a groove on the underside.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/060627krjd3660m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/060627krjd3660m3.jpg" alt="Juvenile horseshoe crab. Kranji, Jun 08" class="gallery-image" />
         <div class="caption">
         Juvenile horseshoe crab. Kranji, Jun 08
         </div>
@@ -357,6 +408,59 @@
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 
 <hr />
 
@@ -378,7 +482,7 @@
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/200917sbwmn3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/200917sbwmn3.jpg" alt="Sembawang Beach, Sep 20 Photo shared by Marcus Ng on facebook." class="gallery-image" />
         <div class="caption">
         Sembawang Beach, Sep 20 Photo shared by Marcus Ng on facebook.
         </div>
@@ -386,12 +490,66 @@
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/081217prplks1.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/081217prplks1.jpg" alt="Pasir Ris Park, Dec 08 Photo shared by Loh Kok Sheng on facebook." class="gallery-image" />
         <div class="caption">
         Pasir Ris Park, Dec 08 Photo shared by Loh Kok Sheng on facebook.
         </div>
@@ -400,17 +558,70 @@
 
 </div>
 
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/091205sudikw3m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/091205sudikw3m3.jpg" alt="Pulau Sudong, Dec 09 Photo shared by Ivan Kwan on his flickr." class="gallery-image" />
         <div class="caption">
         Pulau Sudong, Dec 09 Photo shared by Ivan Kwan on his flickr.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/251221pndrqo4.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/251221pndrqo4.jpg" alt="Pandan Mangroves, Dec 25 Photo shared by Rui Quan Oh on facebook." class="gallery-image" />
         <div class="caption">
         Pandan Mangroves, Dec 25 Photo shared by Rui Quan Oh on facebook.
         </div>
@@ -418,6 +629,59 @@
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 
 <hr />
 

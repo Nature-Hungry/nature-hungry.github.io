@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -312,21 +310,21 @@
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/090410ubnd9430m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/090410ubnd9430m3b.jpg" alt="Changi, Apr 09" class="gallery-image" />
         <div class="caption">
         Changi, Apr 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/090410ubnd9423m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/090410ubnd9423m3b.jpg" alt="Changi, Apr 09" class="gallery-image" />
         <div class="caption">
         Changi, Apr 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/090410ubnd9421m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/090410ubnd9421m3.jpg" alt="Changi, Apr 09" class="gallery-image" />
         <div class="caption">
         Changi, Apr 09
         </div>
@@ -334,25 +332,78 @@
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/090410ubnd9423m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/090410ubnd9423m3.jpg" alt="Changi, Apr 09" class="gallery-image" />
         <div class="caption">
         Changi, Apr 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/090410ubnd9426m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/090410ubnd9426m3.jpg" alt="Changi, Apr 09" class="gallery-image" />
         <div class="caption">
         Changi, Apr 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/090410ubnd9417m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/090410ubnd9417m3.jpg" alt="Changi, Apr 09" class="gallery-image" />
         <div class="caption">
         Changi, Apr 09
         </div>
@@ -360,27 +411,80 @@
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/090511chgd1450m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/090511chgd1450m3.jpg" alt="Changi, May 09" class="gallery-image" />
         <div class="caption">
         Changi, May 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/090511chgf1242m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/090511chgf1242m3.jpg" alt="Changi, May 09" class="gallery-image" />
         <div class="caption">
         Changi, May 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/090511chgf1242m6l.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/090511chgf1242m6l.jpg" alt="Wild tree on coastal cliff. Changi, May 09" class="gallery-image" />
         <div class="caption">
         Wild tree on coastal cliff. Changi, May 09
         </div>
@@ -388,26 +492,80 @@
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/090823cjd9879m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/090823cjd9879m3.jpg" alt="Chek Jawa, Aug 09" class="gallery-image" />
         <div class="caption">
         Chek Jawa, Aug 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/090823cjd9878m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/090823cjd9878m3.jpg" alt="Chek Jawa, Aug 09" class="gallery-image" />
         <div class="caption">
         Chek Jawa, Aug 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/090823cjd9876m6l.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/090823cjd9876m6l.jpg" alt="Possibly planted, not sure. Chek Jawa, Aug 09" class="gallery-image" />
         <div class="caption">
         Possibly planted, not sure. Chek Jawa, Aug 09
         </div>
@@ -415,26 +573,80 @@
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/100701tmd7991m6l.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/100701tmd7991m6l.jpg" alt="Planted tree. East Coast Park, Jul 10" class="gallery-image" />
         <div class="caption">
         Planted tree. East Coast Park, Jul 10
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/100701tmd7987m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/100701tmd7987m3.jpg" alt="Flowers." class="gallery-image" />
         <div class="caption">
         Flowers.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/100701tmd7990m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/100701tmd7990m3.jpg" alt="Flowers." class="gallery-image" />
         <div class="caption">
         Flowers.
         </div>
@@ -442,6 +654,60 @@
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong>Mempari on Singapore shores</strong></p>

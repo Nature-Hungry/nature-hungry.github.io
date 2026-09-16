@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -293,35 +291,35 @@
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/babyloniidae/babylonia/130624chg7d8060m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/babyloniidae/babylonia/130624chg7d8060m3.jpg" alt="Changi, Jun 13" class="gallery-image" />
         <div class="caption">
         Changi, Jun 13
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/babyloniidae/babylonia/130624chg7d8043m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/babyloniidae/babylonia/130624chg7d8043m3.jpg" alt="Muscular foot with operculum." class="gallery-image" />
         <div class="caption">
         Muscular foot with operculum.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/babyloniidae/babylonia/230704chg1rk3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/babyloniidae/babylonia/230704chg1rk3.jpg" alt="Scavenging on something dead? Changi Carpark 1, Jul 23 Photo shared by Richard Kuah on facebook ." class="gallery-image" />
         <div class="caption">
         Scavenging on something dead? Changi Carpark 1, Jul 23 Photo shared by Richard Kuah on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/babyloniidae/babylonia/160125obsmn5.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/babyloniidae/babylonia/160125obsmn5.jpg" alt="Pulau Ubin OBS, Jan 16 Photo shared by Marcus Ng on facebook ." class="gallery-image" />
         <div class="caption">
         Pulau Ubin OBS, Jan 16 Photo shared by Marcus Ng on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/babyloniidae/babylonia/130624chg7d8058m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/babyloniidae/babylonia/130624chg7d8058m3.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
@@ -329,6 +327,59 @@
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 
 <hr />
 
@@ -352,7 +403,7 @@ for free download</li>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/babyloniidae/babylonia/200917sbwmn2.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/babyloniidae/babylonia/200917sbwmn2.jpg" alt="Sembawang Beach, Sep 20 Photo shared by Marcus Ng on facebook ." class="gallery-image" />
         <div class="caption">
         Sembawang Beach, Sep 20 Photo shared by Marcus Ng on facebook .
         </div>
@@ -360,19 +411,73 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/babyloniidae/babylonia/201020prpalks5.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/babyloniidae/babylonia/201020prpalks5.jpg" alt="Pasir Ris-Loyang, Oct 20 Photo shared by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         Pasir Ris-Loyang, Oct 20 Photo shared by Loh Kok Sheng on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/babyloniidae/babylonia/200917prplks2.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/babyloniidae/babylonia/200917prplks2.jpg" alt="Pasir Ris Park, Sep 20 Photo shared by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         Pasir Ris Park, Sep 20 Photo shared by Loh Kok Sheng on facebook .
         </div>
@@ -380,26 +485,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/babyloniidae/babylonia/200705chg1mn1.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/babyloniidae/babylonia/200705chg1mn1.jpg" alt="Changi, Jul 20 Photo shared by Marcus Ng on facebook ." class="gallery-image" />
         <div class="caption">
         Changi, Jul 20 Photo shared by Marcus Ng on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/babyloniidae/babylonia/171206ubnlks1.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/babyloniidae/babylonia/171206ubnlks1.jpg" alt="Pulau Ubin, Dec 17 Photo shared by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         Pulau Ubin, Dec 17 Photo shared by Loh Kok Sheng on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/babyloniidae/babylonia/220616chgerk1.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/babyloniidae/babylonia/220616chgerk1.jpg" alt="Changi Lost Coast, Jun 22 Photo shared by Richard Kuah on facebook ." class="gallery-image" />
         <div class="caption">
         Changi Lost Coast, Jun 22 Photo shared by Richard Kuah on facebook .
         </div>
@@ -407,6 +566,60 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <h3 id="references">References</h3>

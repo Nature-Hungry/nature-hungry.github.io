@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -325,21 +323,21 @@ the
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3.jpg" alt="Raffles Lighthouse, Jul 06" class="gallery-image" />
         <div class="caption">
         Raffles Lighthouse, Jul 06
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3a.jpg" alt="Single slit-like mouth often with banded &#39;lips&#39;." class="gallery-image" />
         <div class="caption">
         Single slit-like mouth often with banded 'lips'.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3d.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3d.jpg" alt="Fat short tentacles." class="gallery-image" />
         <div class="caption">
         Fat short tentacles.
         </div>
@@ -348,24 +346,77 @@ the
 
 </div>
 
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/060713rlhd4229m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/060713rlhd4229m3.jpg" alt="Underside somewhat concave." class="gallery-image" />
         <div class="caption">
         Underside somewhat concave.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/060713rlhd4229m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/060713rlhd4229m3a.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/100502tryd2366m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/100502tryd2366m3.jpg" alt="Often found in clusters. Terumbu Raya, May 10" class="gallery-image" />
         <div class="caption">
         Often found in clusters. Terumbu Raya, May 10
         </div>
@@ -374,26 +425,79 @@ the
 
 </div>
 
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/070102sisg7135m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/070102sisg7135m3.jpg" alt="Young corals still stuck to a rock. Sisters Island, Jan 07" class="gallery-image" />
         <div class="caption">
         Young corals still stuck to a rock. Sisters Island, Jan 07
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/110730tmftd7666m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/110730tmftd7666m3.jpg" alt="Young corals on stalks. Tanah Merah, Jul 11" class="gallery-image" />
         <div class="caption">
         Young corals on stalks. Tanah Merah, Jul 11
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/110423tpld9895m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/110423tpld9895m3.jpg" alt="Dead coral with stalk on the underside. Terumbu Pempang Laut, Apr 11" class="gallery-image" />
         <div class="caption">
         Dead coral with stalk on the underside. Terumbu Pempang Laut, Apr 11
         </div>
@@ -401,26 +505,80 @@ the
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/051204sisg3297m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/051204sisg3297m3.jpg" alt="Sisters Island, Dec 05 Splitting up into two?" class="gallery-image" />
         <div class="caption">
         Sisters Island, Dec 05 Splitting up into two?
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/090625bsrd5318m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/090625bsrd5318m3.jpg" alt="Beting Bemban Besar, Jun 09" class="gallery-image" />
         <div class="caption">
         Beting Bemban Besar, Jun 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/060212sisg4742m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/060212sisg4742m3.jpg" alt="Sisters Island, Feb 06" class="gallery-image" />
         <div class="caption">
         Sisters Island, Feb 06
         </div>
@@ -428,6 +586,59 @@ the
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p>**Species are difficult to positively identify without close examination.</p>
 
 <p>On this website, they are grouped by external features for convenience of display.*</p>
@@ -454,21 +665,21 @@ for free download</li>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/090706tmtch1m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/090706tmtch1m3.jpg" alt="Tanah Merah, Jul 09 Photo shared by Toh Chay Hoon on her blog ." class="gallery-image" />
         <div class="caption">
         Tanah Merah, Jul 09 Photo shared by Toh Chay Hoon on her blog .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/090726tmlks5m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/090726tmlks5m3.jpg" alt="Tanah Merah, Jul 09 Photo shared by Loh Kok Sheng on his blog ." class="gallery-image" />
         <div class="caption">
         Tanah Merah, Jul 09 Photo shared by Loh Kok Sheng on his blog .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/100615tmlks1m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/100615tmlks1m3.jpg" alt="Tanah Merah, Jun 10 Photo shared by Loh Kok Sheng on his flickr ." class="gallery-image" />
         <div class="caption">
         Tanah Merah, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
         </div>
@@ -476,19 +687,73 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/220618tmftlks15.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/220618tmftlks15.jpg" alt="Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/230608tmftlks5.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/230608tmftlks5.jpg" alt="Tanah Merah Ferry Terminal, Jun 23 Photo shared by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         Tanah Merah Ferry Terminal, Jun 23 Photo shared by Loh Kok Sheng on facebook .
         </div>
@@ -496,19 +761,73 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/2007024pcnlks12.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/2007024pcnlks12.jpg" alt="East Coast PCN, Jul 20 Photo shared by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         East Coast PCN, Jul 20 Photo shared by Loh Kok Sheng on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/170822lablks3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/170822lablks3.jpg" alt="Labrador, Aug 17 Photo shared by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         Labrador, Aug 17 Photo shared by Loh Kok Sheng on facebook .
         </div>
@@ -516,19 +835,73 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/250714srpal9.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/250714srpal9.jpg" alt="Sentosa Serapong, Jul 25 Photo shared of Adriane Lee on facebook ." class="gallery-image" />
         <div class="caption">
         Sentosa Serapong, Jul 25 Photo shared of Adriane Lee on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/241019lazlks5.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/241019lazlks5.jpg" alt="Lazarus Island, Oct 24 Photo shared by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         Lazarus Island, Oct 24 Photo shared by Loh Kok Sheng on facebook .
         </div>
@@ -536,26 +909,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/250629smkelk15.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/250629smkelk15.jpg" alt="Pulau Semakau East, Jun 25 Photo shared by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         Pulau Semakau East, Jun 25 Photo shared by Loh Kok Sheng on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/250727smkwlks8.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/250727smkwlks8.jpg" alt="Pulau Semakau West, Jul 25 Photo shared by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         Pulau Semakau West, Jul 25 Photo shared by Loh Kok Sheng on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/100617tsmklks1m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/100617tsmklks1m3.jpg" alt="Terumbu Semakau, Jun 10 Photo shared by Loh Kok Sheng on his blog ." class="gallery-image" />
         <div class="caption">
         Terumbu Semakau, Jun 10 Photo shared by Loh Kok Sheng on his blog .
         </div>
@@ -563,19 +990,73 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/110422tpljk3m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/110422tpljk3m3.jpg" alt="Terumbu Pempang Laut, Apr 11 Photo shared by James Koh on his blog ." class="gallery-image" />
         <div class="caption">
         Terumbu Pempang Laut, Apr 11 Photo shared by James Koh on his blog .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/120521tptlks.JPG" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/120521tptlks.JPG" alt="Terumbu Pempang Tengah, Jul 12 Photo shared by Loh Kok Sheng on flickr ." class="gallery-image" />
         <div class="caption">
         Terumbu Pempang Tengah, Jul 12 Photo shared by Loh Kok Sheng on flickr .
         </div>
@@ -583,26 +1064,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/080223smklks12m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/080223smklks12m3.jpg" alt="Pulau Semakau, Feb 08 Photo shared by Loh Kok Sheng on his flickr ." class="gallery-image" />
         <div class="caption">
         Pulau Semakau, Feb 08 Photo shared by Loh Kok Sheng on his flickr .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/080509smklks9m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/080509smklks9m3.jpg" alt="Pulau Semakau, May 08 Photo shared by Loh Kok Sheng on his flickr ." class="gallery-image" />
         <div class="caption">
         Pulau Semakau, May 08 Photo shared by Loh Kok Sheng on his flickr .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/100613snglks1m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/100613snglks1m3.jpg" alt="Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr ." class="gallery-image" />
         <div class="caption">
         Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
         </div>
@@ -610,6 +1145,60 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 
 
         

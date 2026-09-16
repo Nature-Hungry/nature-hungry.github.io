@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -321,14 +319,14 @@
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg" alt="Swimming. Pulau Sekudu, May 04" class="gallery-image" />
         <div class="caption">
         Swimming. Pulau Sekudu, May 04
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/dasyatidae/walga/040509skddd0030m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/dasyatidae/walga/040509skddd0030m3.jpg" alt="Underside. Pulau Sekudu, May 04" class="gallery-image" />
         <div class="caption">
         Underside. Pulau Sekudu, May 04
         </div>
@@ -336,6 +334,60 @@
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p>Living close to the silty or sandy bottom, stingrays have a different way of taking in water to breathe. To avoid sucking in mud and sand, water is taken in from the upperside of the body through holes called spiracles. These holes are found just beside their eyes. The water is then expelled through five pairs of gill slits on the underside of the body.</p>
 
 <p><strong>Sometimes mistaken for</strong>
@@ -348,14 +400,14 @@ and visa versa. In murky waters, these two different animals do have a similar p
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/dasyatidae/lymma/080802sjid8875.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/dasyatidae/lymma/080802sjid8875.jpg" alt="St. John&#39;s Island, Aug 08" class="gallery-image" />
         <div class="caption">
         St. John's Island, Aug 08
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/dasyatidae/lymma/080802sjid8875m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/dasyatidae/lymma/080802sjid8875m3.jpg" alt="Spine near the end of the tail." class="gallery-image" />
         <div class="caption">
         Spine near the end of the tail.
         </div>
@@ -363,6 +415,59 @@ and visa versa. In murky waters, these two different animals do have a similar p
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p>Most stingrays have one spine (some may have up to four spines), often near the base of the tail (where the tail joins the body). Stingrays don’t sting with the tip of the tail. These spines are serrated and can cut deeply and introduce venom into the wound that can cause excruciating pain. These spines are used to protect themselves and not to hunt prey. They can replace lost spines.</p>
 
 <p><strong>Stinging encounter!</strong>
@@ -376,14 +481,14 @@ Wear covered shoes. Watch your step and walk slowly. Stingrays can be hard to sp
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/dasyatidae/lymma/100502tryd2314m6l.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/dasyatidae/lymma/100502tryd2314m6l.jpg" alt="Hard to spot under rippling water. Terumbu Raya, May 10" class="gallery-image" />
         <div class="caption">
         Hard to spot under rippling water. Terumbu Raya, May 10
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/dasyatidae/lymma/070728sisd4474m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/dasyatidae/lymma/070728sisd4474m3a.jpg" alt="May be half buried in sand. Sisters Island, Jul 07" class="gallery-image" />
         <div class="caption">
         May be half buried in sand. Sisters Island, Jul 07
         </div>
@@ -391,6 +496,59 @@ Wear covered shoes. Watch your step and walk slowly. Stingrays can be hard to sp
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p><strong>What do they eat?</strong>
 Most rays are well adapted for bottom-dwelling. Their flattened body allows them to hover close over the bottom like a vacuum cleaner. The mouth is on the underside to forage for buried bivalves, crabs and worms. These are crushed and ground up with blunt teeth.</p>
 
@@ -400,21 +558,21 @@ The snout may function as an electroreceptive organ, sensitive to electric charg
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/dasyatidae/walga/020501cjd8899m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/dasyatidae/walga/020501cjd8899m3.jpg" alt="&#39;Craters&#39; left behind by feeding stingrays? Chek Jawa, May 02" class="gallery-image" />
         <div class="caption">
         'Craters' left behind by feeding stingrays? Chek Jawa, May 02
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/selachii/selachii/080524sntd4108m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/selachii/selachii/080524sntd4108m3.jpg" alt="An egg case laid by a shark or a ray. Sentosa, Jun 08" class="gallery-image" />
         <div class="caption">
         An egg case laid by a shark or a ray. Sentosa, Jun 08
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/dasyatidae/walga/110705chgL1060451.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/dasyatidae/walga/110705chgL1060451.jpg" alt="Often seen trapped in fishing nets. Changi, Jul 11" class="gallery-image" />
         <div class="caption">
         Often seen trapped in fishing nets. Changi, Jul 11
         </div>
@@ -422,6 +580,59 @@ The snout may function as an electroreceptive organ, sensitive to electric charg
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p><strong>Baby rays:</strong>
 <em>**</em>
 Stingrays practice internal fertilisation. Males have a pair of claspers near the pelvic fins with grooves to introduce the sperm into the female. Stingrays give birth to live, fully developed young.</p>
@@ -442,21 +653,21 @@ Stingrays practice internal fertilisation. Males have a pair of claspers near th
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/dasyatidae/lymma/080802sjid8804m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/dasyatidae/lymma/080802sjid8804m3.jpg" alt="Blue-spotted fantail ray" class="gallery-image" />
         <div class="caption">
         Blue-spotted fantail ray
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/dasyatidae/walga/110520chgd2528.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/dasyatidae/walga/110520chgd2528.jpg" alt="Mangrove whipray" class="gallery-image" />
         <div class="caption">
         Mangrove whipray
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/dasyatidae/kuhlii/071226chgd8385m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/dasyatidae/kuhlii/071226chgd8385m3.jpg" alt="Blue-spotted stingray" class="gallery-image" />
         <div class="caption">
         Blue-spotted stingray
         </div>
@@ -464,12 +675,66 @@ Stingrays practice internal fertilisation. Males have a pair of claspers near th
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m3.jpg" alt="Honeycomb whipray" class="gallery-image" />
         <div class="caption">
         Honeycomb whipray
         </div>
@@ -477,12 +742,66 @@ Stingrays practice internal fertilisation. Males have a pair of claspers near th
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/dasyatidae/220618tmftlks2.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/dasyatidae/220618tmftlks2.jpg" alt="Whitespotted whipray ( Himantura gerrardi ) Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         Whitespotted whipray ( Himantura gerrardi ) Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on facebook .
         </div>
@@ -490,6 +809,60 @@ Stingrays practice internal fertilisation. Males have a pair of claspers near th
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong>Family Dasyatidae recorded for Singapore</strong>

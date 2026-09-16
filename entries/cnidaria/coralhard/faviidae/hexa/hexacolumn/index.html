@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -285,21 +283,21 @@ It’s hard to distinguish them without close examination of small features and 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/040901sjid6076m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/040901sjid6076m3.jpg" alt="St. John&#39;s Island, Sep 04" class="gallery-image" />
         <div class="caption">
         St. John's Island, Sep 04
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/040901sjid6076m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/040901sjid6076m3a.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/040901sjid6076m3d.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/040901sjid6076m3d.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
@@ -308,26 +306,79 @@ It’s hard to distinguish them without close examination of small features and 
 
 </div>
 
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/060102sisg3673m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/060102sisg3673m3.jpg" alt="Sisters Island, Jan 06" class="gallery-image" />
         <div class="caption">
         Sisters Island, Jan 06
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/030802hntd0143m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/030802hntd0143m3.jpg" alt="Pulau Hantu, Aug 08" class="gallery-image" />
         <div class="caption">
         Pulau Hantu, Aug 08
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/040703sisd1779m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/040703sisd1779m3.jpg" alt="Sisters Island, Jul 04" class="gallery-image" />
         <div class="caption">
         Sisters Island, Jul 04
         </div>
@@ -335,26 +386,80 @@ It’s hard to distinguish them without close examination of small features and 
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/051105sisg2988m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/051105sisg2988m3.jpg" alt="Sisters Island, Nov 05" class="gallery-image" />
         <div class="caption">
         Sisters Island, Nov 05
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/051105sisg2989m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/051105sisg2989m3a.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/051105sisg2988m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/051105sisg2988m3b.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
@@ -362,26 +467,80 @@ It’s hard to distinguish them without close examination of small features and 
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/070618rlhg0512m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/070618rlhg0512m3.jpg" alt="Raffles Lighthouse, Jun 07" class="gallery-image" />
         <div class="caption">
         Raffles Lighthouse, Jun 07
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/110323tsmkd7699m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/110323tsmkd7699m3.jpg" alt="Terumbu Semakau, Mar 11" class="gallery-image" />
         <div class="caption">
         Terumbu Semakau, Mar 11
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/070704jngg1165m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/070704jngg1165m3.jpg" alt="Pulau Jong, Jul 07" class="gallery-image" />
         <div class="caption">
         Pulau Jong, Jul 07
         </div>
@@ -389,6 +548,59 @@ It’s hard to distinguish them without close examination of small features and 
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p>**Species are difficult to positively identify without close examination.</p>
 
 <p>On this website, they are grouped by external features for convenience of display.*</p>
@@ -415,14 +627,14 @@ for free download</li>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/090512tmlks9m3.JPG" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/090512tmlks9m3.JPG" alt="Tanah Merah, May 09 Photo shared by Loh Kok Sheng on his blog ." class="gallery-image" />
         <div class="caption">
         Tanah Merah, May 09 Photo shared by Loh Kok Sheng on his blog .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/100615tmlks2m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/100615tmlks2m3.jpg" alt="Tanah Merah, Jun 10 Photo shared by Loh Kok Sheng on his flickr ." class="gallery-image" />
         <div class="caption">
         Tanah Merah, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
         </div>
@@ -430,26 +642,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/091231biod6986m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/091231biod6986m3.jpg" alt="Pulau Biola, Dec 09" class="gallery-image" />
         <div class="caption">
         Pulau Biola, Dec 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/091231biod7119m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/091231biod7119m3.jpg" alt="Pulau Pawai, Dec 09" class="gallery-image" />
         <div class="caption">
         Pulau Pawai, Dec 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/091204pawd5235m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/091204pawd5235m3.jpg" alt="Pulau Pawai, Dec 09" class="gallery-image" />
         <div class="caption">
         Pulau Pawai, Dec 09
         </div>
@@ -457,26 +723,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/091205sudd5512m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/091205sudd5512m3.jpg" alt="Pulau Sudong, Dec 09" class="gallery-image" />
         <div class="caption">
         Pulau Sudong, Dec 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/100613sngd5592m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/100613sngd5592m3.jpg" alt="Pulau Senang, Jun 10" class="gallery-image" />
         <div class="caption">
         Pulau Senang, Jun 10
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/100131slud8818m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/100131slud8818m3.jpg" alt="Terumbu Salu, Jan 10" class="gallery-image" />
         <div class="caption">
         Terumbu Salu, Jan 10
         </div>
@@ -484,26 +804,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/100130brkd8527m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/100130brkd8527m3.jpg" alt="Terumbu Berkas, Jan 10" class="gallery-image" />
         <div class="caption">
         Terumbu Berkas, Jan 10
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/100130brkd8466m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/100130brkd8466m3.jpg" alt="Terumbu Berkas, Jan 10" class="gallery-image" />
         <div class="caption">
         Terumbu Berkas, Jan 10
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/100531biod4485m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/100531biod4485m3a.jpg" alt="Pulau Biola, May 10" class="gallery-image" />
         <div class="caption">
         Pulau Biola, May 10
         </div>
@@ -511,19 +885,73 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/100530tbkd4246m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/100530tbkd4246m3.jpg" alt="Pulau Berkas, May 10" class="gallery-image" />
         <div class="caption">
         Pulau Berkas, May 10
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/100530tbkd4330m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/100530tbkd4330m3.jpg" alt="Bleaching. Pulau Berkas, May 10" class="gallery-image" />
         <div class="caption">
         Bleaching. Pulau Berkas, May 10
         </div>
@@ -531,6 +959,60 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 
 
         

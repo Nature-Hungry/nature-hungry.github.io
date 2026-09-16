@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -315,14 +313,14 @@ Like other bivalves, fan clams are filter feeders. At high tide, they open their
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/050511cftg6307m6l.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/050511cftg6307m6l.jpg" alt="Byssus threads on the narrow end of the shell anchor the animal in the ground. Changi, May 05" class="gallery-image" />
         <div class="caption">
         Byssus threads on the narrow end of the shell anchor the animal in the ground. Changi, May 05
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/011021cjd0933m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/011021cjd0933m3.jpg" alt="The razor-sharp edge can cut barefoot visitors . Chek Jawa, Oct 01" class="gallery-image" />
         <div class="caption">
         The razor-sharp edge can cut barefoot visitors . Chek Jawa, Oct 01
         </div>
@@ -330,6 +328,60 @@ Like other bivalves, fan clams are filter feeders. At high tide, they open their
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p><strong>Role in the ecosystem:</strong>
 All manner of seaweeds and encrusting animals often settle on the portions of the fan clam that sticks out above the sand, even when the clam is still alive. These provide food and shelter for small animals. The tiny Pea crab (<em>Pinnotheres</em>
 sp.) and small snapping shrimps are sometimes found living inside these clams. The crab not only gains shelter but also eats some of the food gathered by the fan shell host. The space between the valves of a dead fan clam is a safe space for animals to shelter or lay their eggs.</p>
@@ -337,21 +389,21 @@ sp.) and small snapping shrimps are sometimes found living inside these clams. T
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/060625bbd3447m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/060625bbd3447m3.jpg" alt="When submerged, the valves of a living clam open slightly and the animal filter feeds Beting Bronok, Jun 06" class="gallery-image" />
         <div class="caption">
         When submerged, the valves of a living clam open slightly and the animal filter feeds Beting Bronok, Jun 06
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/120510chgd2921m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/120510chgd2921m3.jpg" alt="All kinds of animals stuck on a Fan shell. Changi, May 12" class="gallery-image" />
         <div class="caption">
         All kinds of animals stuck on a Fan shell. Changi, May 12
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/060624skdd3239m3d.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/060624skdd3239m3d.jpg" alt="Keelworms on the portion of the shell above the ground. Pulau Sekudu, Jun 06" class="gallery-image" />
         <div class="caption">
         Keelworms on the portion of the shell above the ground. Pulau Sekudu, Jun 06
         </div>
@@ -360,17 +412,70 @@ sp.) and small snapping shrimps are sometimes found living inside these clams. T
 
 </div>
 
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/2007024chgtch2.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/2007024chgtch2.jpg" alt="Snapping shrimp found inside a living Fan shell. Changi, Jul 20 Photo shared by Toh Chay Hoon on facebook ." class="gallery-image" />
         <div class="caption">
         Snapping shrimp found inside a living Fan shell. Changi, Jul 20 Photo shared by Toh Chay Hoon on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/2007024chgtch1.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/2007024chgtch1.jpg" alt="Snapping shrimp found inside a living Fan shell. Changi, Jul 20 Photo shared by Toh Chay Hoon on facebook ." class="gallery-image" />
         <div class="caption">
         Snapping shrimp found inside a living Fan shell. Changi, Jul 20 Photo shared by Toh Chay Hoon on facebook .
         </div>
@@ -379,24 +484,77 @@ sp.) and small snapping shrimps are sometimes found living inside these clams. T
 
 </div>
 
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/blenniidae/variabilis/090918tmd0989m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/blenniidae/variabilis/090918tmd0989m3a.jpg" alt="A fang-blenny guarding eggs laid inside a dead Fan shell. Tanah Merah, Sep 09" class="gallery-image" />
         <div class="caption">
         A fang-blenny guarding eggs laid inside a dead Fan shell. Tanah Merah, Sep 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/120510chgd2790m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/120510chgd2790m3.jpg" alt="Crab and Drills hiding in a dead Fan shell. Changi, May 12" class="gallery-image" />
         <div class="caption">
         Crab and Drills hiding in a dead Fan shell. Changi, May 12
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/120510chgs07181m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/120510chgs07181m3.jpg" alt="Eggs laid on the inside of a dead Fan shell. Changi, May 12" class="gallery-image" />
         <div class="caption">
         Eggs laid on the inside of a dead Fan shell. Changi, May 12
         </div>
@@ -404,6 +562,60 @@ sp.) and small snapping shrimps are sometimes found living inside these clams. T
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <h2 id="human-uses">Human uses</h2>
 
 <p>Fan clams are edible and were once plentiful in Singapore and collected as food. Like other filter-feeding clams, however, fan clams may be affected by
@@ -440,7 +652,7 @@ for free download</li>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/190218cnyrk1.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/190218cnyrk1.jpg" alt="Coney Island, Feb 19 Photo shared by Richard Kuah on facebook ." class="gallery-image" />
         <div class="caption">
         Coney Island, Feb 19 Photo shared by Richard Kuah on facebook .
         </div>
@@ -448,26 +660,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/250909lazlks8.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/250909lazlks8.jpg" alt="Seringat-Kias mangrove lagoon, Sep 25 Photo shared by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         Seringat-Kias mangrove lagoon, Sep 25 Photo shared by Loh Kok Sheng on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/160508kusjt13.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/160508kusjt13.jpg" alt="Kusu Island, May 16 Photo shared by Jonathan Tan on facebook ." class="gallery-image" />
         <div class="caption">
         Kusu Island, May 16 Photo shared by Jonathan Tan on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/111001sjiro4m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/111001sjiro4m3.jpg" alt="St. John&#39;s Island, Oct 11 Photo shared by Rene Ong on facebook ." class="gallery-image" />
         <div class="caption">
         St. John's Island, Oct 11 Photo shared by Rene Ong on facebook .
         </div>
@@ -475,26 +741,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/160208smkshpy2.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/160208smkshpy2.jpg" alt="Pulau Semakau South, Feb 16 Photo shared by Heng Pei Yan on facebook ." class="gallery-image" />
         <div class="caption">
         Pulau Semakau South, Feb 16 Photo shared by Heng Pei Yan on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/100617tblks4m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/100617tblks4m3.jpg" alt="Terumbu Bemban, Jun 10 Photo shared by Loh Kok Sheng on his flickr ." class="gallery-image" />
         <div class="caption">
         Terumbu Bemban, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/250812tbal4.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/250812tbal4.jpg" alt="Terumbu Bemban, Aug 25 Photo shared by Adriane Lee on facebook ." class="gallery-image" />
         <div class="caption">
         Terumbu Bemban, Aug 25 Photo shared by Adriane Lee on facebook .
         </div>
@@ -502,19 +822,73 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/100130brklks8m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/100130brklks8m3.jpg" alt="Terumbu Berkas, Jan 10 Photo shared by Loh Kok Sheng on his flickr ." class="gallery-image" />
         <div class="caption">
         Terumbu Berkas, Jan 10 Photo shared by Loh Kok Sheng on his flickr .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/pinnidae/pinnidae/100601slud4790m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/pinnidae/pinnidae/100601slud4790m3.jpg" alt="Pulau Salu, Jun 10" class="gallery-image" />
         <div class="caption">
         Pulau Salu, Jun 10
         </div>
@@ -522,12 +896,66 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://live.staticflickr.com/7906/32210599507_87b4528e75_z.jpg" alt="" />
+        <img src="https://live.staticflickr.com/7906/32210599507_87b4528e75_z.jpg" alt="Sudden explosion of Fan clams at Changi, Feb 2019 from the wild shores of singapore blog." class="gallery-image" />
         <div class="caption">
         Sudden explosion of Fan clams at Changi, Feb 2019 from the wild shores of singapore blog.
         </div>
@@ -535,6 +963,60 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong>Family Pinnidae recorded for Singapore</strong></p>

@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -289,21 +287,21 @@ Bryozoans belong to Phylum Bryozoa. ‘Bryozoa’ means ‘moss animals’ in Gr
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/bryozoa/bryozoannoid/ig901l.gif" alt="" />
+        <img src="https://images.naturehungry.sg/bryozoa/bryozoannoid/ig901l.gif" alt="Bryozoans are complex animals with tiny tentacles and live inside a hard case that they can retract into." class="gallery-image" />
         <div class="caption">
         Bryozoans are complex animals with tiny tentacles and live inside a hard case that they can retract into.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/bryozoa/bryozoannoid/080817chgd9745m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/bryozoa/bryozoannoid/080817chgd9745m3a.jpg" alt="Encrusting a living seagrasses Changi, Aug 08" class="gallery-image" />
         <div class="caption">
         Encrusting a living seagrasses Changi, Aug 08
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/bryozoa/bryozoannoid/050823chgg2279m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/bryozoa/bryozoannoid/050823chgg2279m3.jpg" alt="Encrusting a living seaweed! Changi, Aug 05" class="gallery-image" />
         <div class="caption">
         Encrusting a living seaweed! Changi, Aug 05
         </div>
@@ -311,6 +309,60 @@ Bryozoans belong to Phylum Bryozoa. ‘Bryozoa’ means ‘moss animals’ in Gr
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p><strong>Bryozoan Food:</strong>
 Bryozoans are believed to feed on bacteria and plankton. Their tentacles are covered with cilia (tiny beating hairs) that generate a current through the lophophore and thus filter out edible titbits.</p>
 
@@ -329,21 +381,21 @@ A bryozoan colony grows by budding, but bryozoans also reproduce sexually. Most 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/bryozoa/glass/111030skdd3345m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/bryozoa/glass/111030skdd3345m3.jpg" alt="Glassy branching bryozoans Pulau Sekudu, Oct 11" class="gallery-image" />
         <div class="caption">
         Glassy branching bryozoans Pulau Sekudu, Oct 11
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/bryozoa/bryozoannoid/130822cjd1835m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/bryozoa/bryozoannoid/130822cjd1835m3.jpg" alt="Chek Jawa, Aug 13" class="gallery-image" />
         <div class="caption">
         Chek Jawa, Aug 13
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/bryozoa/bryozoannoid/130822cjd1835m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/bryozoa/bryozoannoid/130822cjd1835m3a.jpg" alt="Growing on a living horseshoe crab." class="gallery-image" />
         <div class="caption">
         Growing on a living horseshoe crab.
         </div>
@@ -351,6 +403,60 @@ A bryozoan colony grows by budding, but bryozoans also reproduce sexually. Most 
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong>Bryozoans on Singapore shores</strong></p>
@@ -373,14 +479,14 @@ for free download</li>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/bryozoa/bryozoannoid/101223pgllsk1.JPG" alt="" />
+        <img src="https://images.naturehungry.sg/bryozoa/bryozoannoid/101223pgllsk1.JPG" alt="Punggol, Dec 10 Photo shared by Loh Kok Sheng on flickr." class="gallery-image" />
         <div class="caption">
         Punggol, Dec 10 Photo shared by Loh Kok Sheng on flickr.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/bryozoa/bryozoannoid/091203ubnd4954m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/bryozoa/bryozoannoid/091203ubnd4954m3b.jpg" alt="Pulau Ubin, Dec 09" class="gallery-image" />
         <div class="caption">
         Pulau Ubin, Dec 09
         </div>
@@ -388,26 +494,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/bryozoa/bryozoannoid/091203ubnd4946m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/bryozoa/bryozoannoid/091203ubnd4946m3.jpg" alt="Pulau Ubin, Dec 09" class="gallery-image" />
         <div class="caption">
         Pulau Ubin, Dec 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/bryozoa/bryozoannoid/031012cjad0005m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/bryozoa/bryozoannoid/031012cjad0005m3.jpg" alt="Chek Jawa, Oct 03" class="gallery-image" />
         <div class="caption">
         Chek Jawa, Oct 03
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/bryozoa/bryozoannoid/040604bbg0196m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/bryozoa/bryozoannoid/040604bbg0196m3.jpg" alt="Beting Bronok, Jun 04" class="gallery-image" />
         <div class="caption">
         Beting Bronok, Jun 04
         </div>
@@ -415,12 +575,66 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/bryozoa/bryozoannoid/210529ecpblks15.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/bryozoa/bryozoannoid/210529ecpblks15.jpg" alt="East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook." class="gallery-image" />
         <div class="caption">
         East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook.
         </div>
@@ -428,6 +642,60 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 

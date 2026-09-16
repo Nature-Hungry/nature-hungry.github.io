@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -306,21 +304,21 @@ It seems to prefer the upper reaches of monsoon drains leading to the sea or slo
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/neritidae/oualaniensis/090512tmftd1473m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/neritidae/oualaniensis/090512tmftd1473m3b.jpg" alt="Thin greyish operculum. Tanah Merah, May 09" class="gallery-image" />
         <div class="caption">
         Thin greyish operculum. Tanah Merah, May 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/neritidae/oualaniensis/101013tmftd2360m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/neritidae/oualaniensis/101013tmftd2360m3.jpg" alt="Striped body with long tentacles. Tanah Merah, Oct 10" class="gallery-image" />
         <div class="caption">
         Striped body with long tentacles. Tanah Merah, Oct 10
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/neritidae/oualaniensis/111226tmftd4962m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/neritidae/oualaniensis/111226tmftd4962m3a.jpg" alt="Striped body with long tentacles. Tanah Merah, Dec 11" class="gallery-image" />
         <div class="caption">
         Striped body with long tentacles. Tanah Merah, Dec 11
         </div>
@@ -328,27 +326,81 @@ It seems to prefer the upper reaches of monsoon drains leading to the sea or slo
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p><strong>Dubious babies:</strong>
 The Dubious nerite lays white circular egg capsules that are miniature versions of other Nerite egg capsules. Each egg capsule contains many eggs. These hatch into free-swimming larvae that only later settle down to develop into snails.</p>
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/neritidae/oualaniensis/101013tmftd2358m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/neritidae/oualaniensis/101013tmftd2358m3.jpg" alt="Egg cases laid on seagrass. Tanah Merah, Oct 10 Egg cases laid on seagrass, already hatched. East Coast, Dec 08" class="gallery-image" />
         <div class="caption">
         Egg cases laid on seagrass. Tanah Merah, Oct 10 Egg cases laid on seagrass, already hatched. East Coast, Dec 08
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/neritidae/oualaniensis/251208melks1.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/neritidae/oualaniensis/251208melks1.jpg" alt="Marina East, De 25 Photo shared by Loh Kok Sheng on facebook . Egg cases laid on one another! Sentosa, Apr 09" class="gallery-image" />
         <div class="caption">
         Marina East, De 25 Photo shared by Loh Kok Sheng on facebook . Egg cases laid on one another! Sentosa, Apr 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/neritidae/oualaniensis/251208melks1a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/neritidae/oualaniensis/251208melks1a.jpg" alt="Countless snails on Needle seagrass. Marina East, De 25 Photo shared by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         Countless snails on Needle seagrass. Marina East, De 25 Photo shared by Loh Kok Sheng on facebook .
         </div>
@@ -356,6 +408,59 @@ The Dubious nerite lays white circular egg capsules that are miniature versions 
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p><strong>What does it eat?</strong>
 This tiny snail grazes on algae.</p>
 
@@ -385,21 +490,21 @@ for free download</li>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/neritidae/oualaniensis/251107tmftlks4.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/neritidae/oualaniensis/251107tmftlks4.jpg" alt="Tanah Merah Ferry Terminal, Nov 25 Photo shared by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         Tanah Merah Ferry Terminal, Nov 25 Photo shared by Loh Kok Sheng on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/neritidae/oualaniensis/200710mevc5.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/neritidae/oualaniensis/200710mevc5.jpg" alt="East Coast-Marina East, Jul 20 Photo shared by Vincent Choo on facebook ." class="gallery-image" />
         <div class="caption">
         East Coast-Marina East, Jul 20 Photo shared by Vincent Choo on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/neritidae/oualaniensis/061106tusd6519m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/neritidae/oualaniensis/061106tusd6519m3.jpg" alt="Tuas, Nov 06" class="gallery-image" />
         <div class="caption">
         Tuas, Nov 06
         </div>
@@ -407,19 +512,73 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/neritidae/oualaniensis/081229lazlks01m3.JPG" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/neritidae/oualaniensis/081229lazlks01m3.JPG" alt="Lazarus, Dec 08 Photo shared by Loh Kok Sheng on his blog ." class="gallery-image" />
         <div class="caption">
         Lazarus, Dec 08 Photo shared by Loh Kok Sheng on his blog .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/neritidae/oualaniensis/201116lazmn1.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/neritidae/oualaniensis/201116lazmn1.jpg" alt="Seringat-Kias, Nov 20 Photo shared by Marcus Ng on facebook ." class="gallery-image" />
         <div class="caption">
         Seringat-Kias, Nov 20 Photo shared by Marcus Ng on facebook .
         </div>
@@ -427,19 +586,73 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/neritidae/oualaniensis/250430sjilll1.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/neritidae/oualaniensis/250430sjilll1.jpg" alt="St John&#39;s Island, Apr 25 Photo shared by Low Liong Leong on facebook ." class="gallery-image" />
         <div class="caption">
         St John's Island, Apr 25 Photo shared by Low Liong Leong on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/neritidae/oualaniensis/091205sudd5427m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/neritidae/oualaniensis/091205sudd5427m3.jpg" alt="Pulau Sudong, Dec 09" class="gallery-image" />
         <div class="caption">
         Pulau Sudong, Dec 09
         </div>
@@ -447,6 +660,60 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 

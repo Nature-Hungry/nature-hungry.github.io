@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -289,21 +287,21 @@ This brittle star can reproduce sexually as well as asexually by division of the
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/ophiuroidea/tinysponge/060611cjd2782m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/ophiuroidea/tinysponge/060611cjd2782m3.jpg" alt="In a Chocolate sponge . Chek Jawa, Jun 06" class="gallery-image" />
         <div class="caption">
         In a Chocolate sponge . Chek Jawa, Jun 06
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/ophiuroidea/tinysponge/060611cjd2782m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/ophiuroidea/tinysponge/060611cjd2782m3a.jpg" alt="The arms of countless brittle stars can make a sponge appear &#39;hairy&#39;." class="gallery-image" />
         <div class="caption">
         The arms of countless brittle stars can make a sponge appear 'hairy'.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/ophiuroidea/tinysponge/080919sntd0619m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/ophiuroidea/tinysponge/080919sntd0619m3.jpg" alt="Outside the sponge?" class="gallery-image" />
         <div class="caption">
         Outside the sponge?
         </div>
@@ -312,24 +310,77 @@ This brittle star can reproduce sexually as well as asexually by division of the
 
 </div>
 
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/ophiuroidea/tinysponge/050621skdg8017m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/ophiuroidea/tinysponge/050621skdg8017m3.jpg" alt="Pulau Sekudu, Jun 05" class="gallery-image" />
         <div class="caption">
         Pulau Sekudu, Jun 05
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/ophiuroidea/tinysponge/050621skdg8017m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/ophiuroidea/tinysponge/050621skdg8017m3a.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/ophiuroidea/tinysponge/040730skdd3214m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/ophiuroidea/tinysponge/040730skdd3214m3a.jpg" alt="Larger white brittle stars among the tiny banded ones. Pulau Sekudu, Jul 04" class="gallery-image" />
         <div class="caption">
         Larger white brittle stars among the tiny banded ones. Pulau Sekudu, Jul 04
         </div>
@@ -338,24 +389,77 @@ This brittle star can reproduce sexually as well as asexually by division of the
 
 </div>
 
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/porifera/smoothblue/100911sisd1174m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/porifera/smoothblue/100911sisd1174m3a.jpg" alt="In a blue icing sponge . Sisters Island, Sep 10" class="gallery-image" />
         <div class="caption">
         In a blue icing sponge . Sisters Island, Sep 10
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/porifera/smoothbrown/100911sisd1245m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/porifera/smoothbrown/100911sisd1245m3a.jpg" alt="In a smooth brown sponge . Sisters Island, Sep 10" class="gallery-image" />
         <div class="caption">
         In a smooth brown sponge . Sisters Island, Sep 10
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/ophiuroidea/tinysponge/050621skdg7908m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/ophiuroidea/tinysponge/050621skdg7908m3.jpg" alt="In a Orange blob sponge . Pulau Sekudu, Jun 06" class="gallery-image" />
         <div class="caption">
         In a Orange blob sponge . Pulau Sekudu, Jun 06
         </div>
@@ -363,6 +467,60 @@ This brittle star can reproduce sexually as well as asexually by division of the
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p><em>*Species are difficult to positively identify without close examination.</em>
 <em>On this website, they are grouped by external features for convenience of display</em></p>
 
@@ -388,7 +546,7 @@ for free download</li>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/ophiuroidea/tinysponge/150524tplmn1m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/ophiuroidea/tinysponge/150524tplmn1m3.jpg" alt="Terumbu Pempang Laut, May 15 Photo shared by Marcus Ng on facebook ." class="gallery-image" />
         <div class="caption">
         Terumbu Pempang Laut, May 15 Photo shared by Marcus Ng on facebook .
         </div>
@@ -396,6 +554,60 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p>Filmed on Pulau Hantu on 12 Apr 09</p>

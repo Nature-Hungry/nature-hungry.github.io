@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -276,21 +274,21 @@
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/070505kusg9020m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/070505kusg9020m3.jpg" alt="Kusu Island, May 07" class="gallery-image" />
         <div class="caption">
         Kusu Island, May 07
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/070505kusg9020m3c.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/070505kusg9020m3c.jpg" alt="Five black-ringed orange spots on the tail." class="gallery-image" />
         <div class="caption">
         Five black-ringed orange spots on the tail.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/070505kusg9020m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/070505kusg9020m3b.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
@@ -299,24 +297,77 @@
 
 </div>
 
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/080706chg7333m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/080706chg7333m3.jpg" alt="The male often smaller and more transparent." class="gallery-image" />
         <div class="caption">
         The male often smaller and more transparent.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/080706chg7333m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/080706chg7333m3a.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/080706chg7333m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/080706chg7333m3b.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
@@ -324,6 +375,60 @@
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p><strong>Home Sweet Home:</strong>
 We have seen these shrimps with these large sea anemones:
 <a href="../../../../cnidaria/actiniaria/gigantea">Giant carpet anemones</a>
@@ -358,21 +463,21 @@ Anemone shrimps do not appear to eat the host anemone or off the anemone’s flu
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/040508skdbd0073m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/040508skdbd0073m3.jpg" alt="This filefish appeared to be presenting itself to the shrimp Pulau Sekudu, May 05" class="gallery-image" />
         <div class="caption">
         This filefish appeared to be presenting itself to the shrimp Pulau Sekudu, May 05
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3618m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3618m3.jpg" alt="&#39;Locked out&#39; of its sea anemone at low tide! Kusu Island, Jul 04" class="gallery-image" />
         <div class="caption">
         'Locked out' of its sea anemone at low tide! Kusu Island, Jul 04
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/070701hntg0823m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/070701hntg0823m3.jpg" alt="Sometimes, both anemone shrimps and anemonefishes share the same anemone. Pulau Hantu, Jul 07" class="gallery-image" />
         <div class="caption">
         Sometimes, both anemone shrimps and anemonefishes share the same anemone. Pulau Hantu, Jul 07
         </div>
@@ -381,24 +486,77 @@ Anemone shrimps do not appear to eat the host anemone or off the anemone’s flu
 
 </div>
 
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg" alt="In a Haddon&#39;s carpet anemone Kusu Island, Jul 04" class="gallery-image" />
         <div class="caption">
         In a Haddon's carpet anemone Kusu Island, Jul 04
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/040411hntd0083m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/040411hntd0083m3.jpg" alt="In a Magnificent anemone Pulau Hantu, Apr 04" class="gallery-image" />
         <div class="caption">
         In a Magnificent anemone Pulau Hantu, Apr 04
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/070603sntrg9937m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/070603sntrg9937m3.jpg" alt="In a Giant carpet anemone Sentosa, Jun 07" class="gallery-image" />
         <div class="caption">
         In a Giant carpet anemone Sentosa, Jun 07
         </div>
@@ -407,24 +565,77 @@ Anemone shrimps do not appear to eat the host anemone or off the anemone’s flu
 
 </div>
 
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/100529kuslks6m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/100529kuslks6m3a.jpg" alt="On a pizza anemone . Kusu Island, Jun 10 Photo shared by Loh Kok Sheng on his blog ." class="gallery-image" />
         <div class="caption">
         On a pizza anemone . Kusu Island, Jun 10 Photo shared by Loh Kok Sheng on his blog .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/crispa/100528kusmn1m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/crispa/100528kusmn1m3.jpg" alt="On a leathery anemone . Kusu Island, May 10 Photo shared by Marcus Ng on his flickr ." class="gallery-image" />
         <div class="caption">
         On a leathery anemone . Kusu Island, May 10 Photo shared by Marcus Ng on his flickr .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/110507cyrd0994m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/110507cyrd0994m3.jpg" alt="On a snaky anemone . Cyrene Reef, May 11" class="gallery-image" />
         <div class="caption">
         On a snaky anemone . Cyrene Reef, May 11
         </div>
@@ -433,24 +644,77 @@ Anemone shrimps do not appear to eat the host anemone or off the anemone’s flu
 
 </div>
 
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/121215sislks1.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/121215sislks1.jpg" alt="On a bubble-tip anemone Sisters Island, Dec 12 Photo shared by Loh Kok Sheng on flickr ." class="gallery-image" />
         <div class="caption">
         On a bubble-tip anemone Sisters Island, Dec 12 Photo shared by Loh Kok Sheng on flickr .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/130527tmlks.JPG" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/130527tmlks.JPG" alt="On a Frilly anemone Tanah Merah, May 13 Photo shared by Loh Kok Sheng on flickr ." class="gallery-image" />
         <div class="caption">
         On a Frilly anemone Tanah Merah, May 13 Photo shared by Loh Kok Sheng on flickr .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/230804pcn1.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/230804pcn1.jpg" alt="On a Fire anemone East Coast PCN, Aug 2023" class="gallery-image" />
         <div class="caption">
         On a Fire anemone East Coast PCN, Aug 2023
         </div>
@@ -458,6 +722,59 @@ Anemone shrimps do not appear to eat the host anemone or off the anemone’s flu
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 
 <hr />
 
@@ -481,14 +798,14 @@ for free download</li>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/171009blylks2.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/171009blylks2.jpg" alt="Berlayar Creek, Oct 17 Photo shared by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         Berlayar Creek, Oct 17 Photo shared by Loh Kok Sheng on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/201019sjijll6.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/201019sjijll6.jpg" alt="St John&#39;s Island, Oct 20 Photo shared by Jianlin Liu on facebook ." class="gallery-image" />
         <div class="caption">
         St John's Island, Oct 20 Photo shared by Jianlin Liu on facebook .
         </div>
@@ -496,19 +813,73 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/250726cyrjt6.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/250726cyrjt6.jpg" alt="Cyrene, Jul 25 Photo shared by Jonathan Tan on facebook ." class="gallery-image" />
         <div class="caption">
         Cyrene, Jul 25 Photo shared by Jonathan Tan on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/250531thntrk2.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/250531thntrk2.jpg" alt="Terumbu Hantu, May 25 Photo shared by Richard Kuah on facebook ." class="gallery-image" />
         <div class="caption">
         Terumbu Hantu, May 25 Photo shared by Richard Kuah on facebook .
         </div>
@@ -516,26 +887,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/100519tsmjk4m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/100519tsmjk4m3.jpg" alt="Terumbu Semakau, May 10 Photo shared by James Koh on his blog ." class="gallery-image" />
         <div class="caption">
         Terumbu Semakau, May 10 Photo shared by James Koh on his blog .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/100502trygl2m3.JPG" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/100502trygl2m3.JPG" alt="Terumbu Raya, May 10 Photo shared byGeraldine Lee on her blog ." class="gallery-image" />
         <div class="caption">
         Terumbu Raya, May 10 Photo shared byGeraldine Lee on her blog .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/crispa/110422tbmrl2m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/crispa/110422tbmrl2m3.jpg" alt="Terumbu Bemban, Apr 11 Photo shared by Russel Low on facebook ." class="gallery-image" />
         <div class="caption">
         Terumbu Bemban, Apr 11 Photo shared by Russel Low on facebook .
         </div>
@@ -543,12 +968,66 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/251008bbbmn3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/251008bbbmn3.jpg" alt="Beting Bemban Besar, Oct 25 Photo shared by Marcus Ng on facebook ." class="gallery-image" />
         <div class="caption">
         Beting Bemban Besar, Oct 25 Photo shared by Marcus Ng on facebook .
         </div>
@@ -556,26 +1035,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/100811slud0041m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/100811slud0041m3.jpg" alt="Pulau Salu, Aug 10" class="gallery-image" />
         <div class="caption">
         Pulau Salu, Aug 10
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/100811slud0119m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/100811slud0119m3.jpg" alt="Pulau Salu, Aug 10" class="gallery-image" />
         <div class="caption">
         Pulau Salu, Aug 10
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/100811slud0119m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/100811slud0119m3a.jpg" alt="Pulau Salu, Aug 10" class="gallery-image" />
         <div class="caption">
         Pulau Salu, Aug 10
         </div>
@@ -583,26 +1116,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/091204pawd5203m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/091204pawd5203m3.jpg" alt="Pulau Pawai, Dec 09" class="gallery-image" />
         <div class="caption">
         Pulau Pawai, Dec 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/100613snglks5m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/100613snglks5m3.jpg" alt="Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr ." class="gallery-image" />
         <div class="caption">
         Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/mertensii/100613snglks3m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/mertensii/100613snglks3m3a.jpg" alt="Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr ." class="gallery-image" />
         <div class="caption">
         Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
         </div>
@@ -610,12 +1197,66 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/091204pawjk13m3d.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/091204pawjk13m3d.jpg" alt="On a pizza anemone . Pulau Pawai, Dec 09 Shared by James Koh on his flickr ." class="gallery-image" />
         <div class="caption">
         On a pizza anemone . Pulau Pawai, Dec 09 Shared by James Koh on his flickr .
         </div>
@@ -623,12 +1264,66 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://live.staticflickr.com/1495/24292062483_93f0593c4a_z.jpg" alt="" />
+        <img src="https://live.staticflickr.com/1495/24292062483_93f0593c4a_z.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
@@ -636,6 +1331,60 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p>Filmed on Cyrene Reefs, Jul 08</p>

@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -286,14 +284,14 @@ Unlike the immobile barnacles, limpets can move around. Like most other snails, 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/limpets/keyhole/130426tkkd5691m6l.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/limpets/keyhole/130426tkkd5691m6l.jpg" alt="A limpet is a snail with an umbrella shaped shell. Pulau Tekukor, Apr 13" class="gallery-image" />
         <div class="caption">
         A limpet is a snail with an umbrella shaped shell. Pulau Tekukor, Apr 13
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/limpets/guamensis/120817nsrccd9861.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/limpets/guamensis/120817nsrccd9861.jpg" alt="East Coast Park, Aug 12" class="gallery-image" />
         <div class="caption">
         East Coast Park, Aug 12
         </div>
@@ -301,6 +299,60 @@ Unlike the immobile barnacles, limpets can move around. Like most other snails, 
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p><strong>What do they eat?</strong>
 Most limpets graze the thin layer of tiny plants and animals that coat a rock. In fact, to find limpets, look out for a ‘bare’ patch of rock!
 <strong>**
@@ -319,21 +371,21 @@ Some species of limpets have a strong homing instinct and move back to the same 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/limpets/limpets/040502cjd0134m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/limpets/limpets/040502cjd0134m3.jpg" alt="Limpets in the middle of a well-grazed portion of a boulder. Chek Jawa, May 04" class="gallery-image" />
         <div class="caption">
         Limpets in the middle of a well-grazed portion of a boulder. Chek Jawa, May 04
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/limpets/limpets/050412tusd2391m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/limpets/limpets/050412tusd2391m3.jpg" alt="Home scar of recently demised limpet. Tuas, Apr 05" class="gallery-image" />
         <div class="caption">
         Home scar of recently demised limpet. Tuas, Apr 05
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/limpets/javanica/070901sjimn.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/limpets/javanica/070901sjimn.jpg" alt="Drill snail drilled a hole in the limpet shell. St. John&#39;s Island, Sep 07 Photo shared by Marcus Ng on flickr ." class="gallery-image" />
         <div class="caption">
         Drill snail drilled a hole in the limpet shell. St. John's Island, Sep 07 Photo shared by Marcus Ng on flickr .
         </div>
@@ -341,6 +393,59 @@ Some species of limpets have a strong homing instinct and move back to the same 
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p><strong>What are limpets?</strong>
 Two major groups of snails have umbrella-shaped shells. They come from quite separate groups and are not closely related.</p>
 
@@ -372,21 +477,21 @@ sp.). Their bodies are a lot larger than their shell. In fact, the shell might b
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/limpets/cellana/050108cjd9188m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/limpets/cellana/050108cjd9188m3.jpg" alt="A True limpet, this Smooth limpet breathes through gills. Chek Jawa, Jan 05" class="gallery-image" />
         <div class="caption">
         A True limpet, this Smooth limpet breathes through gills. Chek Jawa, Jan 05
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/limpets/guamensis/041212kusd8718m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/limpets/guamensis/041212kusd8718m3.jpg" alt="A False limpet, this Guam false limpet , breathes through lungs. Sisters Island, Nov 05" class="gallery-image" />
         <div class="caption">
         A False limpet, this Guam false limpet , breathes through lungs. Sisters Island, Nov 05
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/limpets/scutus/020716cjd3562m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/limpets/scutus/020716cjd3562m3.jpg" alt="Often mistaken for a slug, the Hoof-shield limpet has a body much bigger than its shell! Chek Jawa, Jul 02" class="gallery-image" />
         <div class="caption">
         Often mistaken for a slug, the Hoof-shield limpet has a body much bigger than its shell! Chek Jawa, Jul 02
         </div>
@@ -394,6 +499,59 @@ sp.). Their bodies are a lot larger than their shell. In fact, the shell might b
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p><strong>Limpet Babies:</strong>
 <em>Siphonaria</em>
 limpets lay eggs in circular or coiling jelly-like masses that contain thousands of eggs suspended in a gelatinous matrix, attached to a hard surface. The free-swimming limpet larvae have a little spiral shell like other ‘normal’ snails. As they develop, the shell flattens and becomes umbrella-shaped.</p>
@@ -401,14 +559,14 @@ limpets lay eggs in circular or coiling jelly-like masses that contain thousands
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/limpets/javanica/110829ecpd0205m6l.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/limpets/javanica/110829ecpd0205m6l.jpg" alt="With egg masses? East Coast Park, Aug 11" class="gallery-image" />
         <div class="caption">
         With egg masses? East Coast Park, Aug 11
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/limpets/javanica/110829ecpd0209m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/limpets/javanica/110829ecpd0209m3a.jpg" alt="East Coast Park, Aug 11" class="gallery-image" />
         <div class="caption">
         East Coast Park, Aug 11
         </div>
@@ -416,6 +574,59 @@ limpets lay eggs in circular or coiling jelly-like masses that contain thousands
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <h2 id="human-uses">Human uses</h2>
 
 <p>Large limpets are often harvested as food by coastal dwellers.</p>
@@ -433,21 +644,21 @@ limpets lay eggs in circular or coiling jelly-like masses that contain thousands
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/limpets/cellana/050502cjg5601m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/limpets/cellana/050502cjg5601m3.jpg" alt="Smooth limpet" class="gallery-image" />
         <div class="caption">
         Smooth limpet
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/limpets/keyhole/070602sjig9881m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/limpets/keyhole/070602sjig9881m3.jpg" alt="Key-hole limpet" class="gallery-image" />
         <div class="caption">
         Key-hole limpet
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/limpets/patelloida/050108cjd9238m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/limpets/patelloida/050108cjd9238m3.jpg" alt="Star limpets" class="gallery-image" />
         <div class="caption">
         Star limpets
         </div>
@@ -455,26 +666,80 @@ limpets lay eggs in circular or coiling jelly-like masses that contain thousands
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/limpets/guamensis/040901sjid6172m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/limpets/guamensis/040901sjid6172m3.jpg" alt="Guam false limpet" class="gallery-image" />
         <div class="caption">
         Guam false limpet
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/limpets/javanica/040901sjid6160m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/limpets/javanica/040901sjid6160m3.jpg" alt="Javan false limpet" class="gallery-image" />
         <div class="caption">
         Javan false limpet
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/limpets/atra/050509hntd3208m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/limpets/atra/050509hntd3208m3.jpg" alt="Flat false limpet" class="gallery-image" />
         <div class="caption">
         Flat false limpet
         </div>
@@ -482,26 +747,80 @@ limpets lay eggs in circular or coiling jelly-like masses that contain thousands
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/limpets/scutus/020716cjd3562m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/limpets/scutus/020716cjd3562m3.jpg" alt="Hoof-shied limpet" class="gallery-image" />
         <div class="caption">
         Hoof-shied limpet
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/limpets/scutus/030412cjd0030m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/limpets/scutus/030412cjd0030m3.jpg" alt="Hoof-shied limpet" class="gallery-image" />
         <div class="caption">
         Hoof-shied limpet
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/limpets/scutus/060326tusd0676m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/limpets/scutus/060326tusd0676m3.jpg" alt="Hoof-shied limpet" class="gallery-image" />
         <div class="caption">
         Hoof-shied limpet
         </div>
@@ -509,6 +828,60 @@ limpets lay eggs in circular or coiling jelly-like masses that contain thousands
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong>Limpets recorded for Singapore</strong></p>

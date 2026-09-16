@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -278,21 +276,21 @@ is used as animal feed.</p>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/080422smkd1482m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/080422smkd1482m3.jpg" alt="Pulau Semakau, Apr 08" class="gallery-image" />
         <div class="caption">
         Pulau Semakau, Apr 08
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/050311labg3243m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/050311labg3243m3.jpg" alt="Labrador, Mar 05" class="gallery-image" />
         <div class="caption">
         Labrador, Mar 05
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/080510smkd3022m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/080510smkd3022m3.jpg" alt="Pulau Semakau, May 08" class="gallery-image" />
         <div class="caption">
         Pulau Semakau, May 08
         </div>
@@ -300,19 +298,73 @@ is used as animal feed.</p>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/rhodophyta/maculata/070415sisg8603m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/rhodophyta/maculata/070415sisg8603m3.jpg" alt="Frilly halymenia" class="gallery-image" />
         <div class="caption">
         Frilly halymenia
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/rhodophyta/dilatata/070506sjig9197m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/rhodophyta/dilatata/070506sjig9197m3.jpg" alt="Ruffled halymenia" class="gallery-image" />
         <div class="caption">
         Ruffled halymenia
         </div>
@@ -320,6 +372,59 @@ is used as animal feed.</p>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 
 <p>**Seaweed species are difficult to positively identify without microscopic examination.</p>
 
@@ -346,7 +451,7 @@ for free download from
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/210502tptvc14.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/210502tptvc14.jpg" alt="Terumbu Pempang Tengah, May 21 Photo shared by Vincent Choo on facebook ." class="gallery-image" />
         <div class="caption">
         Terumbu Pempang Tengah, May 21 Photo shared by Vincent Choo on facebook .
         </div>
@@ -354,26 +459,80 @@ for free download from
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/091231biod7087m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/091231biod7087m3.jpg" alt="Pulau Biola, Dec 09" class="gallery-image" />
         <div class="caption">
         Pulau Biola, Dec 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/091231biod7081m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/091231biod7081m3.jpg" alt="Pulau Biola, Dec 09" class="gallery-image" />
         <div class="caption">
         Pulau Biola, Dec 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/100601slud4713m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/100601slud4713m3.jpg" alt="Pulau Salu, Jun 10" class="gallery-image" />
         <div class="caption">
         Pulau Salu, Jun 10
         </div>
@@ -381,26 +540,80 @@ for free download from
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/091204pawd0057m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/091204pawd0057m3.jpg" alt="Pulau Pawai, Dec 09" class="gallery-image" />
         <div class="caption">
         Pulau Pawai, Dec 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/091204pawd5261m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/091204pawd5261m3.jpg" alt="Pulau Pawai, Dec 09" class="gallery-image" />
         <div class="caption">
         Pulau Pawai, Dec 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/091231biod7031m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/091231biod7031m3.jpg" alt="Pulau Biola, Dec 09" class="gallery-image" />
         <div class="caption">
         Pulau Biola, Dec 09
         </div>
@@ -408,26 +621,80 @@ for free download from
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/100130brkd8616m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/100130brkd8616m3.jpg" alt="Terumbu Berkas, Jan 10" class="gallery-image" />
         <div class="caption">
         Terumbu Berkas, Jan 10
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/100130brkd8646m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/100130brkd8646m3.jpg" alt="Terumbu Berkas, Jan 10" class="gallery-image" />
         <div class="caption">
         Terumbu Berkas, Jan 10
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/100530tbkd4275m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/100530tbkd4275m3.jpg" alt="Pulau Berkas, May 10" class="gallery-image" />
         <div class="caption">
         Pulau Berkas, May 10
         </div>
@@ -435,12 +702,66 @@ for free download from
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/100131slud8871m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/100131slud8871m3.jpg" alt="Terumbu Salu, Jan 10" class="gallery-image" />
         <div class="caption">
         Terumbu Salu, Jan 10
         </div>
@@ -448,6 +769,60 @@ for free download from
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong><em>Halymenia</em>

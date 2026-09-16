@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -322,21 +320,21 @@ which have translucent tentacles with tiny spots.</p>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/060624skdg6189m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/060624skdg6189m3.jpg" alt="Sometimes with white band next to the mouth and two paler tentacles. Pulau Sekudu, Jun 06" class="gallery-image" />
         <div class="caption">
         Sometimes with white band next to the mouth and two paler tentacles. Pulau Sekudu, Jun 06
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/060624skdg6189m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/060624skdg6189m3b.jpg" alt="Mouth is on a cone in the centre." class="gallery-image" />
         <div class="caption">
         Mouth is on a cone in the centre.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/100430chgd1988m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/100430chgd1988m3.jpg" alt="Short body column and small pedal disk . Changi, Apr 10" class="gallery-image" />
         <div class="caption">
         Short body column and small pedal disk . Changi, Apr 10
         </div>
@@ -344,6 +342,59 @@ which have translucent tentacles with tiny spots.</p>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p><strong>Does it really swim?</strong>
 Yes it can swim slowly by undulating its many tentacles in a coordinated manner. At low tide, these anemones are often seen loosely attached to seaweeds, or just lying freely on the ground. They are rarely seen swimming about. Possibly they are more active at high tide. Please don’t pick up the anemone to force it to swim. Its sticky tentacles will come off in your hand and you may hurt the anemone.</p>
 
@@ -435,21 +486,21 @@ harbours symbiotic single-celled algae (called zooxanthellae). The algae undergo
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/110830cyrd0341m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/110830cyrd0341m3.jpg" alt="Reddish with spots. Cyrene Reef, Aug 11" class="gallery-image" />
         <div class="caption">
         Reddish with spots. Cyrene Reef, Aug 11
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/120525cyrs07979m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/120525cyrs07979m3.jpg" alt="Reddish with bands. Cyrene Reef, May 12" class="gallery-image" />
         <div class="caption">
         Reddish with bands. Cyrene Reef, May 12
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/120525cyrs07987m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/120525cyrs07987m3.jpg" alt="Brown with white stripes. Cyrene Reef, May 12" class="gallery-image" />
         <div class="caption">
         Brown with white stripes. Cyrene Reef, May 12
         </div>
@@ -457,6 +508,60 @@ harbours symbiotic single-celled algae (called zooxanthellae). The algae undergo
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong>Swimming sea anemones on Singapore shores</strong></p>
@@ -479,21 +584,21 @@ for free download</li>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/201020swgvc9.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/201020swgvc9.jpg" alt="Sembawang, Oct 20 Photo shared by Vincent Choo on facebook ." class="gallery-image" />
         <div class="caption">
         Sembawang, Oct 20 Photo shared by Vincent Choo on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/201019cnyrk2.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/201019cnyrk2.jpg" alt="Coney Island, Oct 20 Photo shared by Richard Kuah on facebook ." class="gallery-image" />
         <div class="caption">
         Coney Island, Oct 20 Photo shared by Richard Kuah on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/180603pglrk3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/180603pglrk3.jpg" alt="Punggol, Jun 18 Photo shared by Richard Kuah on facebook ." class="gallery-image" />
         <div class="caption">
         Punggol, Jun 18 Photo shared by Richard Kuah on facebook .
         </div>
@@ -501,26 +606,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/250528chgsafal3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/250528chgsafal3b.jpg" alt="Explosion of tiny ones. Changi SAF Chalets, May 25 Photo shared by Adriane Lee on facebook" class="gallery-image" />
         <div class="caption">
         Explosion of tiny ones. Changi SAF Chalets, May 25 Photo shared by Adriane Lee on facebook
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/250528chgsafal3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/250528chgsafal3.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/250528chgsafal3c.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/250528chgsafal3c.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
@@ -528,26 +687,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/091203ubnjk3m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/091203ubnjk3m3.jpg" alt="Pulau Ubin, Dec 09 Photo shared by James Koh on his blog ." class="gallery-image" />
         <div class="caption">
         Pulau Ubin, Dec 09 Photo shared by James Koh on his blog .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/111030skdlks.JPG" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/111030skdlks.JPG" alt="Pulau Sekudu, Oct 11 Photo shared by Loh Kok Sheng on flickr ." class="gallery-image" />
         <div class="caption">
         Pulau Sekudu, Oct 11 Photo shared by Loh Kok Sheng on flickr .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/210530ecpglks6.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/210530ecpglks6.jpg" alt="East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook .
         </div>
@@ -555,26 +768,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/110904sntlks4m3.JPG" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/110904sntlks4m3.JPG" alt="Sentosa, Sep 11 Photo shared by Loh Kok Sheng on his blog ." class="gallery-image" />
         <div class="caption">
         Sentosa, Sep 11 Photo shared by Loh Kok Sheng on his blog .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/151001blyll1m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/151001blyll1m3.jpg" alt="Berlayar Creek, Oct 15 Photo shared by Lisa Lim on facebook ." class="gallery-image" />
         <div class="caption">
         Berlayar Creek, Oct 15 Photo shared by Lisa Lim on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/250909lazal1.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/250909lazal1.jpg" alt="Many tiny ones with few arms seen Seringat Kias mangrove lagoon, Sep 25 Photo shared by Adriane Lee on facebook ." class="gallery-image" />
         <div class="caption">
         Many tiny ones with few arms seen Seringat Kias mangrove lagoon, Sep 25 Photo shared by Adriane Lee on facebook .
         </div>
@@ -582,26 +849,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/201115tkkjll6.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/201115tkkjll6.jpg" alt="Pulau Tekukor, Nov 20 Photo shared by Jianlin Liu on facebook ." class="gallery-image" />
         <div class="caption">
         Pulau Tekukor, Nov 20 Photo shared by Jianlin Liu on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/201019sjijk.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/201019sjijk.jpg" alt="St John&#39;s Island, Oct 20 Photo shared by James Koh on flickr ." class="gallery-image" />
         <div class="caption">
         St John's Island, Oct 20 Photo shared by James Koh on flickr .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/190123lazmn1.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/190123lazmn1.jpg" alt="Lazarus, Jan 19 Photo shared by Marcus Ng on facebook ." class="gallery-image" />
         <div class="caption">
         Lazarus, Jan 19 Photo shared by Marcus Ng on facebook .
         </div>
@@ -609,19 +930,73 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/101224sislks1m3.JPG" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/101224sislks1m3.JPG" alt="Sisters Island, Dec 10 Photo shared by Loh Kok Sheng on his blog ." class="gallery-image" />
         <div class="caption">
         Sisters Island, Dec 10 Photo shared by Loh Kok Sheng on his blog .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/200822jnglks3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/200822jnglks3.jpg" alt="Pulau Jong, Aug 20 Photo shared by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         Pulau Jong, Aug 20 Photo shared by Loh Kok Sheng on facebook .
         </div>
@@ -629,26 +1004,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/241116smksky1a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/241116smksky1a.jpg" alt="Pulau Semakau (South), Nov 24 Photo shared by Kelvin Yong on facebook ." class="gallery-image" />
         <div class="caption">
         Pulau Semakau (South), Nov 24 Photo shared by Kelvin Yong on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/090723tmrmn1m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/090723tmrmn1m3.jpg" alt="Terumbu Raya, Jul 07 Photo shared by Marcus Ng on his blog ." class="gallery-image" />
         <div class="caption">
         Terumbu Raya, Jul 07 Photo shared by Marcus Ng on his blog .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/251008bbbky1.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/251008bbbky1.jpg" alt="Beting Bemban Besar, Oct 25 Photo shared by Kelvin Yong on facebook ." class="gallery-image" />
         <div class="caption">
         Beting Bemban Besar, Oct 25 Photo shared by Kelvin Yong on facebook .
         </div>
@@ -656,19 +1085,73 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/110423tpllks2m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/110423tpllks2m3.jpg" alt="Terumbu Pempang Laut, Apr 11 Photo shared by Loh Kok Sheng on his blog ." class="gallery-image" />
         <div class="caption">
         Terumbu Pempang Laut, Apr 11 Photo shared by Loh Kok Sheng on his blog .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/091204pawjk14m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/091204pawjk14m3.jpg" alt="Pulau Pawai, Dec 09 Shared by James Koh on his flickr ." class="gallery-image" />
         <div class="caption">
         Pulau Pawai, Dec 09 Shared by James Koh on his flickr .
         </div>
@@ -676,6 +1159,60 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p>Filmed on Cyrene Reef, Dec 10.</p>

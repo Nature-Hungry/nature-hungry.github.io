@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -314,21 +312,21 @@ which has fewer fine spines sometimes with bulbous tips and anchored to the surf
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/porifera/golfball/090412hntd9690m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/porifera/golfball/090412hntd9690m3.jpg" alt="Regular circular indentations makes it resemble a golf ball. Pulau Hantu, Apr 09" class="gallery-image" />
         <div class="caption">
         Regular circular indentations makes it resemble a golf ball. Pulau Hantu, Apr 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/porifera/golfball/070101cjd7268m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/porifera/golfball/070101cjd7268m3.jpg" alt="Possibly a dead golfball sponge? Chek Jawa, Jan 07" class="gallery-image" />
         <div class="caption">
         Possibly a dead golfball sponge? Chek Jawa, Jan 07
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/porifera/golfball/120123hntd5473m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/porifera/golfball/120123hntd5473m3b.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
@@ -336,26 +334,80 @@ which has fewer fine spines sometimes with bulbous tips and anchored to the surf
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/porifera/golfball/070804smkg1884m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/porifera/golfball/070804smkg1884m3.jpg" alt="Pulau Semakau, Aug 07 Broken ones reveal the yellow radiating internal skeleton." class="gallery-image" />
         <div class="caption">
         Pulau Semakau, Aug 07 Broken ones reveal the yellow radiating internal skeleton.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/porifera/golfball/100908chgd0646m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/porifera/golfball/100908chgd0646m3.jpg" alt="Changi, Sep 10" class="gallery-image" />
         <div class="caption">
         Changi, Sep 10
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/porifera/golfball/121216ubnd2603m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/porifera/golfball/121216ubnd2603m3.jpg" alt="Pulau Ubin, Dec 12 Tiny blobs at the filament tips: buds that fall off to become new sponges?" class="gallery-image" />
         <div class="caption">
         Pulau Ubin, Dec 12 Tiny blobs at the filament tips: buds that fall off to become new sponges?
         </div>
@@ -363,6 +415,59 @@ which has fewer fine spines sometimes with bulbous tips and anchored to the surf
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 
 <p>**Sponge species are difficult to positively identify without close examination.</p>
 
@@ -389,14 +494,14 @@ for free download from
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/porifera/golfball/201117labrk1.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/porifera/golfball/201117labrk1.jpg" alt="Labrador, Nov 20 Photo shared by Richard Kuah on facebook ." class="gallery-image" />
         <div class="caption">
         Labrador, Nov 20 Photo shared by Richard Kuah on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/porifera/golfball/210822ssisvc6.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/porifera/golfball/210822ssisvc6.jpg" alt="Small Sisters Island, Aug 21 Photo shared by Vincent Choo on facebook ." class="gallery-image" />
         <div class="caption">
         Small Sisters Island, Aug 21 Photo shared by Vincent Choo on facebook .
         </div>
@@ -404,26 +509,80 @@ for free download from
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/porifera/golfball/100130brkd8709m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/porifera/golfball/100130brkd8709m3.jpg" alt="Terumbu Berkas, Jan 10" class="gallery-image" />
         <div class="caption">
         Terumbu Berkas, Jan 10
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/porifera/golfball/100130brkd8709m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/porifera/golfball/100130brkd8709m3a.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/porifera/golfball/100130brkd8709m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/porifera/golfball/100130brkd8709m3b.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
@@ -431,26 +590,80 @@ for free download from
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/porifera/golfball/091231biod6937m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/porifera/golfball/091231biod6937m3.jpg" alt="Pulau Biola, Dec 09" class="gallery-image" />
         <div class="caption">
         Pulau Biola, Dec 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/porifera/golfball/091205pawlks9m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/porifera/golfball/091205pawlks9m3.jpg" alt="Pulau Pawai, Dec 09 Photo shared by Loh Kok Sheng on his flickr ." class="gallery-image" />
         <div class="caption">
         Pulau Pawai, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/porifera/golfball/100130brkd8647m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/porifera/golfball/100130brkd8647m3.jpg" alt="Terumbu Berkas, Jan 10" class="gallery-image" />
         <div class="caption">
         Terumbu Berkas, Jan 10
         </div>
@@ -458,19 +671,73 @@ for free download from
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/porifera/golfball/100131slud8786m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/porifera/golfball/100131slud8786m3.jpg" alt="Terumbu Salu, Jan 10" class="gallery-image" />
         <div class="caption">
         Terumbu Salu, Jan 10
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/porifera/golfball/100131slud8863m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/porifera/golfball/100131slud8863m3.jpg" alt="Terumbu Salu, Jan 10" class="gallery-image" />
         <div class="caption">
         Terumbu Salu, Jan 10
         </div>
@@ -478,26 +745,80 @@ for free download from
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/porifera/golfball/100601slud4815m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/porifera/golfball/100601slud4815m3b.jpg" alt="Pulau Salu, Jun 10" class="gallery-image" />
         <div class="caption">
         Pulau Salu, Jun 10
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/porifera/golfball/100530tbkd4301m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/porifera/golfball/100530tbkd4301m3.jpg" alt="Pulau Berkas, May 10" class="gallery-image" />
         <div class="caption">
         Pulau Berkas, May 10
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/porifera/golfball/100601slud4704m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/porifera/golfball/100601slud4704m3.jpg" alt="Pulau Salu, Jun 10" class="gallery-image" />
         <div class="caption">
         Pulau Salu, Jun 10
         </div>
@@ -505,6 +826,60 @@ for free download from
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 

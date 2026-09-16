@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -330,21 +328,21 @@
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/140713tsmkd7155m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/140713tsmkd7155m3.jpg" alt="Terumbu Semakau , Jul 14" class="gallery-image" />
         <div class="caption">
         Terumbu Semakau , Jul 14
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/140713tsmkd7155m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/140713tsmkd7155m3a.jpg" alt="Rows of colourful verrucae on upper portion of the underside." class="gallery-image" />
         <div class="caption">
         Rows of colourful verrucae on upper portion of the underside.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/140713tsmkd7155m3c.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/140713tsmkd7155m3c.jpg" alt="Tentacles not tightly packed." class="gallery-image" />
         <div class="caption">
         Tentacles not tightly packed.
         </div>
@@ -352,6 +350,60 @@
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p><strong>Sometimes confused with</strong>
 other large anemones and similar large cnidarians. Here’s more on how to tell apart
 <a href="stichodactyla">the different kinds of carpet anemones</a>
@@ -367,21 +419,21 @@ Carpet anemones harbour symbiotic single-celled algae (called zooxanthellae). Th
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/121115tsmkd1073m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/121115tsmkd1073m3.jpg" alt="Tentacles may stick to finger and break off. Terumbu Semakau, Nov 12" class="gallery-image" />
         <div class="caption">
         Tentacles may stick to finger and break off. Terumbu Semakau, Nov 12
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/070701hntg0823m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/070701hntg0823m3.jpg" alt="The Peacock-tail anemone shrimp and small False clown anemonefish in a Giant carpet anemone. Pulau Hantu, Jul 07" class="gallery-image" />
         <div class="caption">
         The Peacock-tail anemone shrimp and small False clown anemonefish in a Giant carpet anemone. Pulau Hantu, Jul 07
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/090822sisd9681m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/090822sisd9681m3.jpg" alt="Clown anemonefish in a Giant carpet anemone. Sisters Island, Aug 09" class="gallery-image" />
         <div class="caption">
         Clown anemonefish in a Giant carpet anemone. Sisters Island, Aug 09
         </div>
@@ -389,6 +441,59 @@ Carpet anemones harbour symbiotic single-celled algae (called zooxanthellae). Th
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p><strong>Giant friends:</strong>
 Besides the symbiotic algae that lives inside the their tentacles several kinds of animals have been associated with giant carpet anemones. These include anemone shrimps (<em>Periclimenes</em>
 sp.), and fishes such as
@@ -443,7 +548,7 @@ for free download</li>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/250501skddc2.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/250501skddc2.jpg" alt="Pulau Sekudu, May 25 Photo shared by Dayna Cheah on facebook ." class="gallery-image" />
         <div class="caption">
         Pulau Sekudu, May 25 Photo shared by Dayna Cheah on facebook .
         </div>
@@ -451,26 +556,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/140518tmlks4m3.JPG" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/140518tmlks4m3.JPG" alt="Tanah Merah, May 14 Photo shared by Loh Kok Sheng on his blog ." class="gallery-image" />
         <div class="caption">
         Tanah Merah, May 14 Photo shared by Loh Kok Sheng on his blog .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/151001blylks10m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/151001blylks10m3.jpg" alt="Berlayar Creek, Oct 15 Photo shared by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         Berlayar Creek, Oct 15 Photo shared by Loh Kok Sheng on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/170822labjt1.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/170822labjt1.jpg" alt="Labrador, Aug 17 Photo shared by Jonathan Tan on facebook ." class="gallery-image" />
         <div class="caption">
         Labrador, Aug 17 Photo shared by Jonathan Tan on facebook .
         </div>
@@ -478,19 +637,73 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/260104trmrqo11.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/260104trmrqo11.jpg" alt="Sentosa Tg Rimau, Jan 26 Photo shared by Rui Quan Oh on facebook ." class="gallery-image" />
         <div class="caption">
         Sentosa Tg Rimau, Jan 26 Photo shared by Rui Quan Oh on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/241019lazccn1.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/241019lazccn1.jpg" alt="Lazarus Island, Oct 24 Photo shared by Che Cheng Neo on facebook ." class="gallery-image" />
         <div class="caption">
         Lazarus Island, Oct 24 Photo shared by Che Cheng Neo on facebook .
         </div>
@@ -498,26 +711,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/101106burlks4m3.JPG" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/101106burlks4m3.JPG" alt="Terumbu Buran, Nov 10 Photo shared by Loh Kok Sheng on his blog ." class="gallery-image" />
         <div class="caption">
         Terumbu Buran, Nov 10 Photo shared by Loh Kok Sheng on his blog .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/101108bkoms00610m4.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/101108bkoms00610m4.jpg" alt="Terumbu Bukom, Nov 10" class="gallery-image" />
         <div class="caption">
         Terumbu Bukom, Nov 10
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/091204pawd0076m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/091204pawd0076m3.jpg" alt="Pulau Pawai, Dec 09" class="gallery-image" />
         <div class="caption">
         Pulau Pawai, Dec 09
         </div>
@@ -525,26 +792,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/100530tbkd4269m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/100530tbkd4269m3.jpg" alt="Pulau Berkas, May 10 Bleaching." class="gallery-image" />
         <div class="caption">
         Pulau Berkas, May 10 Bleaching.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/100613sngd5664m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/100613sngd5664m3.jpg" alt="Pulau Senang, Jun 10 Bleaching." class="gallery-image" />
         <div class="caption">
         Pulau Senang, Jun 10 Bleaching.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/100613sngd5632m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/100613sngd5632m3.jpg" alt="Pulau Senang, Jun 10 Bleaching." class="gallery-image" />
         <div class="caption">
         Pulau Senang, Jun 10 Bleaching.
         </div>
@@ -552,26 +873,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/100130brkd8696m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/100130brkd8696m3.jpg" alt="Terumbu Berkas, Jan 10" class="gallery-image" />
         <div class="caption">
         Terumbu Berkas, Jan 10
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/100131slud8882m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/100131slud8882m3a.jpg" alt="Terumbu Salu, Jan 10" class="gallery-image" />
         <div class="caption">
         Terumbu Salu, Jan 10
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/091205sudjk7m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/091205sudjk7m3.jpg" alt="Pulau Sudong, Dec 09 Photo shared by James Koh on his flickr ." class="gallery-image" />
         <div class="caption">
         Pulau Sudong, Dec 09 Photo shared by James Koh on his flickr .
         </div>
@@ -579,26 +954,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/100531biod4500m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/100531biod4500m3.jpg" alt="Pulau Biola, May 10" class="gallery-image" />
         <div class="caption">
         Pulau Biola, May 10
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/091231biod6992m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/091231biod6992m3.jpg" alt="Pulau Biola, Dec 09" class="gallery-image" />
         <div class="caption">
         Pulau Biola, Dec 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/100530tbkd4312m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/100530tbkd4312m3.jpg" alt="Pulau Berkas, May 10" class="gallery-image" />
         <div class="caption">
         Pulau Berkas, May 10
         </div>
@@ -606,6 +1035,60 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong>Other references</strong></p>

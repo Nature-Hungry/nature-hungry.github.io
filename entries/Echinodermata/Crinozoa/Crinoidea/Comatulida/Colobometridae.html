@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -284,21 +282,21 @@ Feather stars belong to Phylum
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/crinoidea/red/150706srpd7354.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/crinoidea/red/150706srpd7354.jpg" alt="Many gathered on a hard coral. Sentosa Serapong, Jul 15" class="gallery-image" />
         <div class="caption">
         Many gathered on a hard coral. Sentosa Serapong, Jul 15
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/crinoidea/blue/080607chgd5324m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/crinoidea/blue/080607chgd5324m3.jpg" alt="Beautiful shades and colours. Changi, Jun 08" class="gallery-image" />
         <div class="caption">
         Beautiful shades and colours. Changi, Jun 08
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/crinoidea/pale/091008tmd2430m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/crinoidea/pale/091008tmd2430m3.jpg" alt="Some can be tiny. Tanah Merah, Oct 09" class="gallery-image" />
         <div class="caption">
         Some can be tiny. Tanah Merah, Oct 09
         </div>
@@ -306,6 +304,60 @@ Feather stars belong to Phylum
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <h2 id="features">Features</h2>
 
 <p>Like other echinoderms, feather stars are symmetrical along five axes, have spiny skin and tube feet. Like brittle stars, feather stars have thin, long and highly flexible arms. But crinoids are much more spectacular than brittle stars, with an explosion of long feathery arms.</p>
@@ -317,21 +369,21 @@ Feather stars belong to Phylum
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/crinoidea/blue/060528bbd2369m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/crinoidea/blue/060528bbd2369m3.jpg" alt="Clinging on with the cirri. Beting Bronok, May 06" class="gallery-image" />
         <div class="caption">
         Clinging on with the cirri. Beting Bronok, May 06
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/crinoidea/red/120123hntd5777m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/crinoidea/red/120123hntd5777m3a.jpg" alt="Tiny tube feet on the pinnules. Pulau Hantu, Jan 12" class="gallery-image" />
         <div class="caption">
         Tiny tube feet on the pinnules. Pulau Hantu, Jan 12
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/crinoidea/crinoid/120820sisd0810m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/crinoidea/crinoid/120820sisd0810m3a.jpg" alt="Channels along the pinnules and arm. Sisters Island, Aug 12" class="gallery-image" />
         <div class="caption">
         Channels along the pinnules and arm. Sisters Island, Aug 12
         </div>
@@ -339,6 +391,59 @@ Feather stars belong to Phylum
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p><strong>Sometimes confused with</strong>
 <a href="../../ophiuroidea/ophiuroidea">brittle stars</a>
 which also have bristley arms. But brittle stars usually only have 5 or 6 arms. More on how to tell apart
@@ -358,21 +463,21 @@ Feather stars feed on tiny drifting organisms and particles, gathering these pas
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/crinoidea/pale/060713rlhd4327m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/crinoidea/pale/060713rlhd4327m3a.jpg" alt="Regenerating arm tips. Chek Jawa, May 05" class="gallery-image" />
         <div class="caption">
         Regenerating arm tips. Chek Jawa, May 05
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/crinoidea/crinoid/120820sisd0875m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/crinoidea/crinoid/120820sisd0875m3.jpg" alt="Pink eggs in the pinnules? Sisters Island, Aug 12" class="gallery-image" />
         <div class="caption">
         Pink eggs in the pinnules? Sisters Island, Aug 12
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/crinoidea/pale/091008tmd2430m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/crinoidea/pale/091008tmd2430m3.jpg" alt="Some can be tiny. Tanah Merah, Oct 09" class="gallery-image" />
         <div class="caption">
         Some can be tiny. Tanah Merah, Oct 09
         </div>
@@ -380,6 +485,59 @@ Feather stars feed on tiny drifting organisms and particles, gathering these pas
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p><strong>Swimming stars:</strong>
 Feather stars can move about by moving their arms. They crawl over soft sediments, using their arms to drag themselves over the surface, lifting up the central portion of their bodies. Their arms and pinnules have tiny hooks that catch on the surface. They can also swim by thrashing their arms in the water in co-ordinated strokes. However, feather stars usually only crawl or swim to get away from predators. They usually don’t move around very much once they find a good spot to settle on. Feather stars are usually perched on top of tall living or dead hard corals, sponges and other sturdy anchors. Here, they extend their arms into the currents and gather food.</p>
 
@@ -392,21 +550,21 @@ Feather stars have separate genders and are usually either male or female. The e
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/pilumnidae/featherstar/150220lsislks2.JPG" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/pilumnidae/featherstar/150220lsislks2.JPG" alt="Crab Sisters Island, Feb 15 Photo shared by James Koh on flickr" class="gallery-image" />
         <div class="caption">
         Crab Sisters Island, Feb 15 Photo shared by James Koh on flickr
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/crinoid/120408hntmn3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/crinoid/120408hntmn3.jpg" alt="Shrimp St John&#39;s Island, Apr 12 Photo shared by Marcus Ng on flickr ." class="gallery-image" />
         <div class="caption">
         Shrimp St John's Island, Apr 12 Photo shared by Marcus Ng on flickr .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/worm/polychaeta/myzostomidae/120820sisd0906m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/worm/polychaeta/myzostomidae/120820sisd0906m3.jpg" alt="Worm Sisters Island, Aug 12" class="gallery-image" />
         <div class="caption">
         Worm Sisters Island, Aug 12
         </div>
@@ -414,6 +572,59 @@ Feather stars have separate genders and are usually either male or female. The e
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p><strong>Living off a star:</strong>
 Various small
 <a href="/wildfacts/guides/crustacea/crustacea/crab/pilumnidae/featherstar">crabs</a>
@@ -428,21 +639,21 @@ and other tiny animals may live on a feather star. Some are found no where else.
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/crinoidea/pale/060713rlhd4317m3d.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/crinoidea/pale/060713rlhd4317m3d.jpg" alt="Brittle star Raffles Lighthouse, Jul 06" class="gallery-image" />
         <div class="caption">
         Brittle star Raffles Lighthouse, Jul 06
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/ophiuroidea/featherstar/130626ecplks.JPG" alt="" />
+        <img src="https://images.naturehungry.sg/ophiuroidea/featherstar/130626ecplks.JPG" alt="Brittle star East Coast Park, Jun 13" class="gallery-image" />
         <div class="caption">
         Brittle star East Coast Park, Jun 13
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/ophiuroidea/featherstar/130625ecpd8222.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/ophiuroidea/featherstar/130625ecpd8222.jpg" alt="Brittle star East Coast Park, Jun 13" class="gallery-image" />
         <div class="caption">
         Brittle star East Coast Park, Jun 13
         </div>
@@ -450,6 +661,59 @@ and other tiny animals may live on a feather star. Some are found no where else.
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p><strong>Old stars:</strong>
 Feather stars are the most ancient and considered the most primitive of echinoderms. In the fossil records, there were 10 times more feather stars and sea lilies than there are today.</p>
 
@@ -479,21 +743,21 @@ were considered common in the late 1990’s but were rarely encountered in a sur
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/crinoidea/blue/091203ubnd5078m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/crinoidea/blue/091203ubnd5078m3.jpg" alt="Blue feather star" class="gallery-image" />
         <div class="caption">
         Blue feather star
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/crinoidea/red/090822sisd9753m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/crinoidea/red/090822sisd9753m3.jpg" alt="Red feather star" class="gallery-image" />
         <div class="caption">
         Red feather star
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/crinoidea/brown/080209htnlks01m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/crinoidea/brown/080209htnlks01m3.jpg" alt="Brown feather star" class="gallery-image" />
         <div class="caption">
         Brown feather star
         </div>
@@ -501,26 +765,80 @@ were considered common in the late 1990’s but were rarely encountered in a sur
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/crinoidea/black/040604bbg0240m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/crinoidea/black/040604bbg0240m3.jpg" alt="Black-and-white feather star" class="gallery-image" />
         <div class="caption">
         Black-and-white feather star
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/crinoidea/pale/080605hntlks02m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/crinoidea/pale/080605hntlks02m3.jpg" alt="Pale feather star" class="gallery-image" />
         <div class="caption">
         Pale feather star
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/crinoidea/purpurea/050623cjg8337m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/crinoidea/purpurea/050623cjg8337m3.jpg" alt="Purple feather star" class="gallery-image" />
         <div class="caption">
         Purple feather star
         </div>
@@ -528,6 +846,59 @@ were considered common in the late 1990’s but were rarely encountered in a sur
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 
 <hr />
 
@@ -659,6 +1030,60 @@ sp.
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 
 
         

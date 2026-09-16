@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -288,21 +286,21 @@ Arms long and tapered. There are particularly long stout flat spines along the s
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/080702prpd6358m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/080702prpd6358m3.jpg" alt="Pasir Ris Park, Jul 08" class="gallery-image" />
         <div class="caption">
         Pasir Ris Park, Jul 08
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/050426chgg5064m3c.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/050426chgg5064m3c.jpg" alt="Large flat spines along the side of the arms. Changi, Apr 05" class="gallery-image" />
         <div class="caption">
         Large flat spines along the side of the arms. Changi, Apr 05
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/050402cjg4016m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/050402cjg4016m3b.jpg" alt="Pointed tube feet. Chek Jawa, Apr 05" class="gallery-image" />
         <div class="caption">
         Pointed tube feet. Chek Jawa, Apr 05
         </div>
@@ -310,6 +308,60 @@ Arms long and tapered. There are particularly long stout flat spines along the s
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p>Sand stars can move fast, often ‘racing’ across the sandy bottom of a pool. Their tube feet are modified for a more powerful downward thrust and end in points instead of suckers. These probably allow them to get a grip on soft sediments and burrow more quickly. They can also rapidly burrow into the sand as Mei Lin’s video clip below shows.</p>
 
 <p><em>Astropecten</em>
@@ -318,21 +370,21 @@ species are identified by the arrangement of the spines along their arms.</p>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/080702prpd6356m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/080702prpd6356m3.jpg" alt="Three arms regenerating. Pasir Ris Park, Jul 08" class="gallery-image" />
         <div class="caption">
         Three arms regenerating. Pasir Ris Park, Jul 08
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/080702prpd6348m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/080702prpd6348m3.jpg" alt="Recently dead sand star disintegrating. Pasir Ris Park, Jul 08" class="gallery-image" />
         <div class="caption">
         Recently dead sand star disintegrating. Pasir Ris Park, Jul 08
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/050608chgg7360m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/050608chgg7360m3a.jpg" alt="Tiny white snails sometimes seen on the sea star. Changi, Jun 05" class="gallery-image" />
         <div class="caption">
         Tiny white snails sometimes seen on the sea star. Changi, Jun 05
         </div>
@@ -340,6 +392,59 @@ species are identified by the arrangement of the spines along their arms.</p>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p><strong>What do they eat?</strong>
 These small sea stars are carnivores! They hunt clams and snails, but also eat any small creatures that are buried in the sand. They find buried prey by the substances they release. These sea stars don’t push their stomachs out of their mouths. Instead, they swallow their prey whole. It may take several days to digest their prey. They spit out any indigestible bits such as the shells.</p>
 
@@ -356,21 +461,21 @@ These small sea stars are carnivores! They hunt clams and snails, but also eat a
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/asteroidea/sandpainted/050622chgg8118m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/asteroidea/sandpainted/050622chgg8118m3.jpg" alt="Painted sand star 6-8cm in diameter" class="gallery-image" />
         <div class="caption">
         Painted sand star 6-8cm in diameter
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/asteroidea/sandpainted/050622chgg8118m3d.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/asteroidea/sandpainted/050622chgg8118m3d.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/asteroidea/sandpainted/050622chgg8118m3c.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/asteroidea/sandpainted/050622chgg8118m3c.jpg" alt="Arms flatter with larger marginal plates." class="gallery-image" />
         <div class="caption">
         Arms flatter with larger marginal plates.
         </div>
@@ -378,26 +483,80 @@ These small sea stars are carnivores! They hunt clams and snails, but also eat a
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/050426chgg5064m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/050426chgg5064m3.jpg" alt="Plain sand star 4-6cm in diameter" class="gallery-image" />
         <div class="caption">
         Plain sand star 4-6cm in diameter
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/050426chgg5064m3d.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/050426chgg5064m3d.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/050426chgg5064m3c.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/050426chgg5064m3c.jpg" alt="Arms not so flat with smaller marginal plates" class="gallery-image" />
         <div class="caption">
         Arms not so flat with smaller marginal plates
         </div>
@@ -405,26 +564,80 @@ These small sea stars are carnivores! They hunt clams and snails, but also eat a
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/asteroidea/sandorange/130809smkd1086m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/asteroidea/sandorange/130809smkd1086m3.jpg" alt="Orange sand star 10-15cm in diameter" class="gallery-image" />
         <div class="caption">
         Orange sand star 10-15cm in diameter
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/asteroidea/sandorange/130809smkd1087m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/asteroidea/sandorange/130809smkd1087m3a.jpg" alt="Bright orange underside." class="gallery-image" />
         <div class="caption">
         Bright orange underside.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/asteroidea/sandorange/130809smkd1086m3c.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/asteroidea/sandorange/130809smkd1086m3c.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
@@ -432,6 +645,60 @@ These small sea stars are carnivores! They hunt clams and snails, but also eat a
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p>shared by Neo Mei Lin on
@@ -467,6 +734,60 @@ from Ng, P. K. L. &amp; Y. C. Wee, 1994.
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 
 
         

@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -293,21 +291,21 @@ Instead of the ferocious, long spines of their spherical sea urchin cousins, san
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/090628lazd6113m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/090628lazd6113m3.jpg" alt="A sand dollar can move quite far under wet sand. Lazarus Island, Jun 09" class="gallery-image" />
         <div class="caption">
         A sand dollar can move quite far under wet sand. Lazarus Island, Jun 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/090628lazd6115m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/090628lazd6115m3.jpg" alt="Living sand dollars, not moving under sand. Lazarus Island, Jun 09" class="gallery-image" />
         <div class="caption">
         Living sand dollars, not moving under sand. Lazarus Island, Jun 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/080720cjd8021m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/080720cjd8021m3.jpg" alt="Cake sand dollars are often found in huge numbers. Chek Jawa, Jan 09" class="gallery-image" />
         <div class="caption">
         Cake sand dollars are often found in huge numbers. Chek Jawa, Jan 09
         </div>
@@ -315,6 +313,60 @@ Instead of the ferocious, long spines of their spherical sea urchin cousins, san
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p><strong>Flat skeleton:</strong>
 Sand dollars have an internal skeleton (called the test) formed out of large ossicles (pieces made of calcium carbonate) fused together into plates in multiples of five. The test is a rigid, hollow, flattened disk. To grow larger, each ossicle is enlarged, and new ossicles added near the anus. In some sand dollars, there is internal buttressing to support the test. Nevertheless, sand dollars are still quite fragile so please handle live ones with care.</p>
 
@@ -326,42 +378,42 @@ The petal design on the upperside of a sand dollar is called a petaloid. The pet
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/depressum/081117ecpmd2310m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/depressum/081117ecpmd2310m3.jpg" alt="A living sand dollar is covered with spines! East Coast, Nov 08" class="gallery-image" />
         <div class="caption">
         A living sand dollar is covered with spines! East Coast, Nov 08
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2851m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2851m3.jpg" alt="Upperside of test of Ceke sand dollar" class="gallery-image" />
         <div class="caption">
         Upperside of test of Ceke sand dollar
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2852m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2852m3.jpg" alt="Underside of test" class="gallery-image" />
         <div class="caption">
         Underside of test
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/depressum/090628lazd5991m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/depressum/090628lazd5991m3.jpg" alt="Shape and features of a sand dollar is often more obvious in a dead one. Seringat-Kias, Jun 09" class="gallery-image" />
         <div class="caption">
         Shape and features of a sand dollar is often more obvious in a dead one. Seringat-Kias, Jun 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2851m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2851m3a.jpg" alt="The petalloid is made up of holes where tube feet emerge. This is more obvious in the skeleton of a dead sand dollar. Changi, Jun 06" class="gallery-image" />
         <div class="caption">
         The petalloid is made up of holes where tube feet emerge. This is more obvious in the skeleton of a dead sand dollar. Changi, Jun 06
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2852m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2852m3b.jpg" alt="The central mouth is on the underside. Changi, Jun 06" class="gallery-image" />
         <div class="caption">
         The central mouth is on the underside. Changi, Jun 06
         </div>
@@ -369,6 +421,59 @@ The petal design on the upperside of a sand dollar is called a petaloid. The pet
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 
 <p><strong>Picky eaters:</strong>
 Most sand dollars are deposit feeders and process sand to feed on detritus in the sediments. They don’t just process any sand. The dense layer of tiny spines keep out larger particles and only let in fine ones. Tiny tube feet and cilia (minute beating hairs) move these fine particles to the food grooves and along these grooves to the mouth in the center.</p>
@@ -379,21 +484,21 @@ Sand dollars may appear dead, but they are very much alive. A living sand dollar
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3.jpg" alt="Upperside of living sand dollar Chek Jawa, Jul 08" class="gallery-image" />
         <div class="caption">
         Upperside of living sand dollar Chek Jawa, Jul 08
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3c.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3c.jpg" alt="Slot in a Keyhole sand dollar." class="gallery-image" />
         <div class="caption">
         Slot in a Keyhole sand dollar.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/echinodiscus/031122cjd0023m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/echinodiscus/031122cjd0023m3.jpg" alt="A dead sand dollar has no spines. Chek Jawa, Nov 02" class="gallery-image" />
         <div class="caption">
         A dead sand dollar has no spines. Chek Jawa, Nov 02
         </div>
@@ -401,6 +506,59 @@ Sand dollars may appear dead, but they are very much alive. A living sand dollar
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 
 <p><strong>Why do some sand dollars have holes in them?</strong>
 The
@@ -419,21 +577,21 @@ was also seen in the process of engulfing one.</p>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/110508cyrmng5m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/110508cyrmng5m3.jpg" alt="Being eaten by a Knobbly sea star ? Cyrene Reef, May 11 Photo shared by Marcus Ng on flickr ." class="gallery-image" />
         <div class="caption">
         Being eaten by a Knobbly sea star ? Cyrene Reef, May 11 Photo shared by Marcus Ng on flickr .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/haddonieat/040218cjd0004m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/actiniaria/haddonieat/040218cjd0004m3.jpg" alt="Cake sand dollar being swallowed by a Haddon&#39;s carpet anemone . Chek Jawa Feb 04" class="gallery-image" />
         <div class="caption">
         Cake sand dollar being swallowed by a Haddon's carpet anemone . Chek Jawa Feb 04
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cassidae/glaucum/110830cyrd0374m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cassidae/glaucum/110830cyrd0374m3.jpg" alt="Grey bonnet snail eating a Cake sand dollar. Cyrene, Aug 11" class="gallery-image" />
         <div class="caption">
         Grey bonnet snail eating a Cake sand dollar. Cyrene, Aug 11
         </div>
@@ -441,6 +599,59 @@ was also seen in the process of engulfing one.</p>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 
 <h3 id="damaged-dollars">Damaged dollars:</h3>
 <p>Like other echinoderms, sand dollars can repair minor damage. If you come across an ‘‘uneven’’ sand dollar with a part of its body obviously chewed off, look closely and you might see spines growing on the chewed edge. But if a large part of the sand dollar is broken, it will probably die.</p>
@@ -475,14 +686,14 @@ an impact on local populations.</p>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/030927cjd0033m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/030927cjd0033m3.jpg" alt="Cake sand dollar" class="gallery-image" />
         <div class="caption">
         Cake sand dollar
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3.jpg" alt="Keyhole sand dollar" class="gallery-image" />
         <div class="caption">
         Keyhole sand dollar
         </div>
@@ -490,19 +701,73 @@ an impact on local populations.</p>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/peronella/080704sekd6788m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/peronella/080704sekd6788m3.jpg" alt="Pink sand dollar" class="gallery-image" />
         <div class="caption">
         Pink sand dollar
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/depressum/070420sntrd0301m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/depressum/070420sntrd0301m3.jpg" alt="Thick-edged sand dollar" class="gallery-image" />
         <div class="caption">
         Thick-edged sand dollar
         </div>
@@ -510,6 +775,60 @@ an impact on local populations.</p>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong>Sand dollars recorded for Singapore</strong></p>
@@ -567,6 +886,60 @@ sp.</a>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 
 
         

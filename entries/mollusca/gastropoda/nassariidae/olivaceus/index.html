@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -303,21 +301,21 @@
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/050818cftg1447m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/050818cftg1447m3.jpg" alt="Changi, Aug 05" class="gallery-image" />
         <div class="caption">
         Changi, Aug 05
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/050429cftg5485m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/050429cftg5485m3.jpg" alt="Changi, Apr 05" class="gallery-image" />
         <div class="caption">
         Changi, Apr 05
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/050818cftg1443m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/050818cftg1443m3.jpg" alt="Burrowing just beneath the sand with siphon sticking out. Changi, Aug 05" class="gallery-image" />
         <div class="caption">
         Burrowing just beneath the sand with siphon sticking out. Changi, Aug 05
         </div>
@@ -325,6 +323,60 @@
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p><strong>Hitching on a whelk:</strong>
 This whelk is sometimes seen with a large barnacle or two on the shell. Sometime also a tiny
 <a href="../../../../cnidaria/actiniaria/snail">sea anemone.</a></p>
@@ -332,21 +384,21 @@ This whelk is sometimes seen with a large barnacle or two on the shell. Sometime
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/100202chgd9259m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/100202chgd9259m3.jpg" alt="Eating a bristleworm. Changi, Feb 10" class="gallery-image" />
         <div class="caption">
         Eating a bristleworm. Changi, Feb 10
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/080209kusd9628m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/080209kusd9628m3.jpg" alt="With a tiny sea anemone on the shell. Kusu Island, Feb 08" class="gallery-image" />
         <div class="caption">
         With a tiny sea anemone on the shell. Kusu Island, Feb 08
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/050609cftg7531m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/050609cftg7531m3.jpg" alt="Sometimes with large barnacles on the shell. Changi, Jun 05" class="gallery-image" />
         <div class="caption">
         Sometimes with large barnacles on the shell. Changi, Jun 05
         </div>
@@ -354,6 +406,60 @@ This whelk is sometimes seen with a large barnacle or two on the shell. Sometime
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong>Olive whelks on Singapore shores</strong></p>
@@ -376,7 +482,7 @@ for free download</li>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/180911pgldc5.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/180911pgldc5.jpg" alt="Punggol, Sep 18 Photo shared by Dayna Cheah on facebook ." class="gallery-image" />
         <div class="caption">
         Punggol, Sep 18 Photo shared by Dayna Cheah on facebook .
         </div>
@@ -384,19 +490,73 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/260103prpyls7.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/260103prpyls7.jpg" alt="Pasir Ris Park, Dec 25 Photo shared by Yan Le Su on facebook ." class="gallery-image" />
         <div class="caption">
         Pasir Ris Park, Dec 25 Photo shared by Yan Le Su on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/201020prpark2.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/201020prpark2.jpg" alt="Pasir Ris-Loyang, Oct 20 Photo shared by Richard Kuah on facebook ." class="gallery-image" />
         <div class="caption">
         Pasir Ris-Loyang, Oct 20 Photo shared by Richard Kuah on facebook .
         </div>
@@ -404,19 +564,73 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/200722chgvc1.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/200722chgvc1.jpg" alt="Mating? Changi, Jul 20 Photo shared by Vincent Choo on facebook ." class="gallery-image" />
         <div class="caption">
         Mating? Changi, Jul 20 Photo shared by Vincent Choo on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/090124ubntch.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/090124ubntch.jpg" alt="Pulau Ubin, Dec 09 Photo shared by Toh Chay Hoon on flickr ." class="gallery-image" />
         <div class="caption">
         Pulau Ubin, Dec 09 Photo shared by Toh Chay Hoon on flickr .
         </div>
@@ -424,26 +638,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/141224tusmn1m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/141224tusmn1m3.jpg" alt="Tuas, Dec 14 Photo shared by Marcus Ng on facebook ." class="gallery-image" />
         <div class="caption">
         Tuas, Dec 14 Photo shared by Marcus Ng on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/080507ecplks06m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/080507ecplks06m3.jpg" alt="East Coast Park, May 08 Photo shared by Loh Kok Sheng on his blog ." class="gallery-image" />
         <div class="caption">
         East Coast Park, May 08 Photo shared by Loh Kok Sheng on his blog .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/251208melks8.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/251208melks8.jpg" alt="Marina East, Dec 2025 Photo shared by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         Marina East, Dec 2025 Photo shared by Loh Kok Sheng on facebook .
         </div>
@@ -451,6 +719,60 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <hr />
@@ -458,21 +780,21 @@ for free download</li>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/151001blymn8m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/151001blymn8m3.jpg" alt="Berlayar Creek, Oct 15 Photo shared by Marcus Ng on facebook ." class="gallery-image" />
         <div class="caption">
         Berlayar Creek, Oct 15 Photo shared by Marcus Ng on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/190321sjifl1.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/190321sjifl1.jpg" alt="St John&#39;s Island, Mar 19 Photo shared by Frances Loke on facebook ." class="gallery-image" />
         <div class="caption">
         St John's Island, Mar 19 Photo shared by Frances Loke on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/241020hnttl1a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/241020hnttl1a.jpg" alt="Pulau Hantu, Oct 24 Photo shared by Tammy Lim on facebook ." class="gallery-image" />
         <div class="caption">
         Pulau Hantu, Oct 24 Photo shared by Tammy Lim on facebook .
         </div>
@@ -480,6 +802,60 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 

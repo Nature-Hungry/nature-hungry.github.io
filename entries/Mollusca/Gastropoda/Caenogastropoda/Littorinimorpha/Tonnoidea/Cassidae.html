@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -265,21 +263,21 @@
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cassidae/glaucum/110830cyrd0374m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cassidae/glaucum/110830cyrd0374m3.jpg" alt="On top of a Cake sand dollar. Cyrene Reef, Aug 11" class="gallery-image" />
         <div class="caption">
         On top of a Cake sand dollar. Cyrene Reef, Aug 11
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cassidae/glaucum/110830cyrd0365m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cassidae/glaucum/110830cyrd0365m3.jpg" alt="Cyrene Reef, Aug 11" class="gallery-image" />
         <div class="caption">
         Cyrene Reef, Aug 11
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cassidae/glaucum/110830cyrd0370m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cassidae/glaucum/110830cyrd0370m3.jpg" alt="Thick strong foot. Cyrene Reef, Aug 11" class="gallery-image" />
         <div class="caption">
         Thick strong foot. Cyrene Reef, Aug 11
         </div>
@@ -287,6 +285,60 @@
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p><strong>What do they eat?</strong>
 They feed almost exclusively on echinoderms, sea urchins or sea stars, mainly at night and often while both predator and prey are buried in the sand. Snails with heavy helmet-shaped shells eat sea urchins. The smaller
 <em>Phalium</em>
@@ -309,21 +361,21 @@ has been seen on top of a
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cassidae/glaucum/150731nsrccd8371.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cassidae/glaucum/150731nsrccd8371.jpg" alt="Half buried next to a Cake sand dollar. East Coast Park, Jul 15" class="gallery-image" />
         <div class="caption">
         Half buried next to a Cake sand dollar. East Coast Park, Jul 15
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3.jpg" alt="The &#39;burn&#39; marks on the test of this recently dead sea urchin might have been made by a Helmet snail!" class="gallery-image" />
         <div class="caption">
         The 'burn' marks on the test of this recently dead sea urchin might have been made by a Helmet snail!
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3b.jpg" alt="Changi, May 08" class="gallery-image" />
         <div class="caption">
         Changi, May 08
         </div>
@@ -331,6 +383,59 @@ has been seen on top of a
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p><strong>Baby helmets:</strong>
 The snails have separate genders and practice internal fertilisation. The shell of the female is often larger. Eggs laid in large masses of numerous, small horny capsules, forming irregular or cylindrical, tower-like structures. Each capsule contains several hundred eggs, most of which often serve as food for the developing embryos. The eggs hatch into planktonic larvae or crawling juveniles, depending upon the species.</p>
 <h2 id="human-uses">Human uses</h2>
@@ -352,21 +457,21 @@ is listed as Endangered in the Red List of threatened animals of Singapore.</p>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cassidae/bisulcata/090208chglks03m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cassidae/bisulcata/090208chglks03m3.jpg" alt="Japanese bonnet snail" class="gallery-image" />
         <div class="caption">
         Japanese bonnet snail
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cassidae/glaucum/111028chged2772m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cassidae/glaucum/111028chged2772m3.jpg" alt="Grey bonnet snail" class="gallery-image" />
         <div class="caption">
         Grey bonnet snail
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3b.jpg" alt="Changi, May 08" class="gallery-image" />
         <div class="caption">
         Changi, May 08
         </div>
@@ -374,6 +479,60 @@ is listed as Endangered in the Red List of threatened animals of Singapore.</p>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong>Family Cassidae recorded for Singapore</strong>

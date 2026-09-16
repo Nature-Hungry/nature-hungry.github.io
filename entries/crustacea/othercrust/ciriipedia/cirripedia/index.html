@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -293,21 +291,21 @@ which are snails. Here’s more on how to tell apart
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/050510tusg6173m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/050510tusg6173m3.jpg" alt="A variety of barnacles. Tuas, May 05" class="gallery-image" />
         <div class="caption">
         A variety of barnacles. Tuas, May 05
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/tetraclita/020425cjd8321m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/tetraclita/020425cjd8321m3.jpg" alt="The large Volcano barnacle has a honey-combed internal structure Chek Jawa, Apr 02" class="gallery-image" />
         <div class="caption">
         The large Volcano barnacle has a honey-combed internal structure Chek Jawa, Apr 02
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/tetraclita/050510tusg6179m3d.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/tetraclita/050510tusg6179m3d.jpg" alt="A pair of plates form the operculum that seals the shell opening. Tuas, May 05" class="gallery-image" />
         <div class="caption">
         A pair of plates form the operculum that seals the shell opening. Tuas, May 05
         </div>
@@ -315,27 +313,80 @@ which are snails. Here’s more on how to tell apart
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p><strong>What do they eat?</strong>
 When the tide comes in, barnacles open up their plates and extend their feathery, segmented legs to gather plankton from the water. The legs form a basket that scoops inwards where mouthparts scrape the edible particles off the legs and transfer these particles to the mouth. ‘Cirripedia’ means ‘hairy foot’</p>
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/balanus/080718wdld7698m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/balanus/080718wdld7698m3.jpg" alt="Feathery feet of a barnacle. Woodlands, Jul 08" class="gallery-image" />
         <div class="caption">
         Feathery feet of a barnacle. Woodlands, Jul 08
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/sponge/050509hntg5946m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/sponge/050509hntg5946m3b.jpg" alt="Feathery feet of barnacles in a living sponge. Pulau Hantu, May 05" class="gallery-image" />
         <div class="caption">
         Feathery feet of barnacles in a living sponge. Pulau Hantu, May 05
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/balanus/090622chgd4692m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/balanus/090622chgd4692m3a.jpg" alt="Feathery feet of a barnacle on a living crab. Changi, Jul 09" class="gallery-image" />
         <div class="caption">
         Feathery feet of a barnacle on a living crab. Changi, Jul 09
         </div>
@@ -343,6 +394,59 @@ When the tide comes in, barnacles open up their plates and extend their feathery
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p><strong>Barnacle babies:</strong>
 Barnacles are usually hermaphrodites, each barnacle having both male and female reproductive organs. However, they don’t self-fertilise. They also don’t release eggs and sperm into the water at the same time, like many other marine creatures. Instead, they practice internal fertilisation. As these animals cannot move, this is achieved by having tremendously long male organs! Some have an organ that can reach another barnacle 7 shells away! A study, however, has found that
 <a href="http://wildshores.blogspot.com/2009/04/barnacle-penis-longer-isnt-always.html">longer isn’t always better</a>
@@ -367,14 +471,14 @@ on a rock.</p>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/others/120223sltd7372m6la.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/others/120223sltd7372m6la.jpg" alt="Like other crustaceans, barnacles also moult! Is the long structure its penis?! Seletar, Feb 12" class="gallery-image" />
         <div class="caption">
         Like other crustaceans, barnacles also moult! Is the long structure its penis?! Seletar, Feb 12
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/others/120223sltd7366m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/others/120223sltd7366m3.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
@@ -382,6 +486,59 @@ on a rock.</p>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p><strong>Strange barnacles:</strong>
 Stalked or Goose barnacles are sometimes seen on our shores. These barnacles have a distinct stalk that connects the body to the hard surface.
 <a href="lepas"><em>Lepas</em>
@@ -407,21 +564,21 @@ and other predators. Dead barnacle shells provide hiding places for many small c
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/others/050512tmg6400.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/others/050512tmg6400.jpg" alt="Periwinkles sheltering next to barnacles, with a small one inside shell of a dead barnacle. Changi, Jun 05" class="gallery-image" />
         <div class="caption">
         Periwinkles sheltering next to barnacles, with a small one inside shell of a dead barnacle. Changi, Jun 05
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/050609cftg7531m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/050609cftg7531m3b.jpg" alt="Barnacles on a living snail. Changi, Jun 05" class="gallery-image" />
         <div class="caption">
         Barnacles on a living snail. Changi, Jun 05
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/parasitic/050428cftg5303m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/parasitic/050428cftg5303m3a.jpg" alt="Tiny egg sacs of a parasitic barnacle emerging through the joints of the crab that it infested. Changi, Apr 05" class="gallery-image" />
         <div class="caption">
         Tiny egg sacs of a parasitic barnacle emerging through the joints of the crab that it infested. Changi, Apr 05
         </div>
@@ -429,6 +586,59 @@ and other predators. Dead barnacle shells provide hiding places for many small c
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <h2 id="human-uses">Human uses</h2>
 
 <p>Barnacles are considered a menace to the shipping industry. An encrustation of barnacles soon develops over every ship hull. This reduces the speed of the ship and increases fuel consumption. Efforts to deter barnacle infestation include coating ship hulls with a toxic paint. However, this does not last and the toxic paint poisons the surroundings.</p>
@@ -453,21 +663,21 @@ However, like other creatures of the intertidal zone, they are affected by human
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/balanus/050510tusg6179m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/balanus/050510tusg6179m3a.jpg" alt="Acorn barnacle" class="gallery-image" />
         <div class="caption">
         Acorn barnacle
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/euraphia/040502cjd0146m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/euraphia/040502cjd0146m3.jpg" alt="Star barnacle" class="gallery-image" />
         <div class="caption">
         Star barnacle
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/tetraclita/050510tusg6179m3c.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/tetraclita/050510tusg6179m3c.jpg" alt="Volcano barnacle" class="gallery-image" />
         <div class="caption">
         Volcano barnacle
         </div>
@@ -476,24 +686,77 @@ However, like other creatures of the intertidal zone, they are affected by human
 
 </div>
 
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/lepas/040703sisd1824m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/lepas/040703sisd1824m3.jpg" alt="Goose barnacle" class="gallery-image" />
         <div class="caption">
         Goose barnacle
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/parasitic/050622cftg8139m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/parasitic/050622cftg8139m3b.jpg" alt="Acorn barnacles on a living crab" class="gallery-image" />
         <div class="caption">
         Acorn barnacles on a living crab
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/parasitic/050206cjd0034m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/parasitic/050206cjd0034m3.jpg" alt="Some barnacles are internal parasites !" class="gallery-image" />
         <div class="caption">
         Some barnacles are internal parasites !
         </div>
@@ -502,17 +765,70 @@ However, like other creatures of the intertidal zone, they are affected by human
 
 </div>
 
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/coral/070618rlhg0562m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/coral/070618rlhg0562m3a.jpg" alt="Coral barnacles" class="gallery-image" />
         <div class="caption">
         Coral barnacles
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/sponge/080519sisd3438m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/sponge/080519sisd3438m3b.jpg" alt="Barnacles in a sponge" class="gallery-image" />
         <div class="caption">
         Barnacles in a sponge
         </div>
@@ -520,6 +836,59 @@ However, like other creatures of the intertidal zone, they are affected by human
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 
 <hr />
 

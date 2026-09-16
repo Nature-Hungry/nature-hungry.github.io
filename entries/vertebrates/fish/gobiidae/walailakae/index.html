@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -305,14 +303,14 @@ The first dorsal fin has a rounded margin, is brownish red with a broad black ba
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/walailakae/071021cjd7025m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/walailakae/071021cjd7025m3.jpg" alt="A quarreling pair Chek Jawa, Oct 07" class="gallery-image" />
         <div class="caption">
         A quarreling pair Chek Jawa, Oct 07
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/walailakae/091121cjd4533m6l.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/walailakae/091121cjd4533m6l.jpg" alt="Chek Jawa, Nov 09" class="gallery-image" />
         <div class="caption">
         Chek Jawa, Nov 09
         </div>
@@ -320,6 +318,60 @@ The first dorsal fin has a rounded margin, is brownish red with a broad black ba
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p><strong>Sometimes mistaken for</strong>
 as juveniles of the
 <a href="schlosseri">Giant mudskipper</a>
@@ -331,21 +383,21 @@ commonly found on our shores.</p>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/walailakae/091019prpd2908m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/walailakae/091019prpd2908m3.jpg" alt="Juveniles often mistaken for other mudskippers. Pasir Ris, Oct 09" class="gallery-image" />
         <div class="caption">
         Juveniles often mistaken for other mudskippers. Pasir Ris, Oct 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/walailakae/140322cjd4070m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/walailakae/140322cjd4070m3.jpg" alt="Burrow doesn&#39;t have a &#39;swimming pool&#39; like the Giant mudskipper. Chek Jawa, Mar 14" class="gallery-image" />
         <div class="caption">
         Burrow doesn't have a 'swimming pool' like the Giant mudskipper. Chek Jawa, Mar 14
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/walailakae/030822sbwrad0056m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/walailakae/030822sbwrad0056m3.jpg" alt="A pair at their burrow. Sungei Buloh Wetland Reserve, Aug 03" class="gallery-image" />
         <div class="caption">
         A pair at their burrow. Sungei Buloh Wetland Reserve, Aug 03
         </div>
@@ -353,6 +405,59 @@ commonly found on our shores.</p>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p><strong>Burrow behaviour:</strong>
 Like the Giant mudskipper, this fish is also seen to dig out deep burrows. Unlike the Giant mudskipper, it doesn’t seem to create a ‘swimming pool’ at the mouth of the burrow. The Yellow-spotted mudskipper is said to be nocturnal, leaving its burrow at night to forage and returning to the burrow in the morning. But they are sometimes seen on Chek Jawa, frolicking out in the mid-day sun with the incoming tide, among other kinds of mudskippers. During low tide, even during the day, they can sometimes be seen at the entrance of the burrow. Sometimes, two fishes at one burrow.</p>
 
@@ -382,14 +487,14 @@ for free download</li>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/walailakae/130811sbwrmn.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/walailakae/130811sbwrmn.jpg" alt="Clinging on with its pelvic fins, its pectoral fins on the side. Sungei Buloh Wetland Reserves, Aug 13 Photo by Marcus Ng on flickr ." class="gallery-image" />
         <div class="caption">
         Clinging on with its pelvic fins, its pectoral fins on the side. Sungei Buloh Wetland Reserves, Aug 13 Photo by Marcus Ng on flickr .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/walailakae/250430sjiml3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/walailakae/250430sjiml3.jpg" alt="St John&#39;s Island, Apr 25 Photo shared by Mathias Luk on facebook ." class="gallery-image" />
         <div class="caption">
         St John's Island, Apr 25 Photo shared by Mathias Luk on facebook .
         </div>
@@ -397,6 +502,60 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><a href="https://vimeo.com/32521417">a mudskipper’s short story</a>

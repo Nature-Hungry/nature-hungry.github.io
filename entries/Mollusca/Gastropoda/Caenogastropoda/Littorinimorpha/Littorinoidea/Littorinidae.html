@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -313,21 +311,21 @@ Among the hardiest of these must be the tiny
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/others/050822cjg2240m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/others/050822cjg2240m3.jpg" alt="Several kinds of periwinkles may be found together. Chek Jawa, Aug 05" class="gallery-image" />
         <div class="caption">
         Several kinds of periwinkles may be found together. Chek Jawa, Aug 05
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/nodilittorina/050502cjg5584m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/nodilittorina/050502cjg5584m3.jpg" alt="Like other snails, they have a broad foot and tentacles . Chek Jawa, May 05" class="gallery-image" />
         <div class="caption">
         Like other snails, they have a broad foot and tentacles . Chek Jawa, May 05
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/rock/050513labg6424m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/rock/050513labg6424m3.jpg" alt="A thin operculum. Labrador, May 05" class="gallery-image" />
         <div class="caption">
         A thin operculum. Labrador, May 05
         </div>
@@ -335,6 +333,60 @@ Among the hardiest of these must be the tiny
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p><strong>Surviving the low tide:</strong>
 At low tide, periwinkles attach the lip of the shell to the surface with mucus then seal the shell opening tightly with a thin, horny operculum. Don’t pick periwinkles off a rock or a mangrove tree! Left unattached, they may wash away when the tide comes in and they will die.</p>
 
@@ -347,14 +399,14 @@ In periwinkles, the genders are separate and they practice internal fertilisatio
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/melanostoma/130317krjd4625m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/melanostoma/130317krjd4625m3.jpg" alt="Kranji, Mar 13" class="gallery-image" />
         <div class="caption">
         Kranji, Mar 13
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/melanostoma/130317krjd4625m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/melanostoma/130317krjd4625m3a.jpg" alt="Mucus strands used to stick onto a tree." class="gallery-image" />
         <div class="caption">
         Mucus strands used to stick onto a tree.
         </div>
@@ -362,6 +414,59 @@ In periwinkles, the genders are separate and they practice internal fertilisatio
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <h2 id="human-uses">Human uses</h2>
 
 <p>In our region, they are collected for subsistence food by coastal dwellers and for shellcraft. Large periwinkles are eaten in temperate countries such as England. In fact, the name ‘periwinkle’ comes from the Old English for ‘penny winkle’ as they were then sold for a penny per handful. They were also used as jewellery.</p>
@@ -379,21 +484,21 @@ In periwinkles, the genders are separate and they practice internal fertilisatio
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/nodilittorina/040706lzrd2452m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/nodilittorina/040706lzrd2452m3.jpg" alt="Knobbly periwinkle" class="gallery-image" />
         <div class="caption">
         Knobbly periwinkle
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/rock/041031cjd7944m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/rock/041031cjd7944m3.jpg" alt="Rock periwinkle" class="gallery-image" />
         <div class="caption">
         Rock periwinkle
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/round/031028sntad0048m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/round/031028sntad0048m3a.jpg" alt="Round periwinkle" class="gallery-image" />
         <div class="caption">
         Round periwinkle
         </div>
@@ -401,19 +506,73 @@ In periwinkles, the genders are separate and they practice internal fertilisatio
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/mangrove/070304hntg7887m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/mangrove/070304hntg7887m3.jpg" alt="Mangrove periwinkle" class="gallery-image" />
         <div class="caption">
         Mangrove periwinkle
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/melanostoma/050327sbwrg3810m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/melanostoma/050327sbwrg3810m3.jpg" alt="Black-mouth mangrove periwinkle" class="gallery-image" />
         <div class="caption">
         Black-mouth mangrove periwinkle
         </div>
@@ -421,6 +580,60 @@ In periwinkles, the genders are separate and they practice internal fertilisatio
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong>Family Littorinidae recorded for Singapore</strong>

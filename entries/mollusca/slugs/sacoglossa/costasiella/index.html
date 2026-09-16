@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -283,21 +281,21 @@ cerata have thin silvery lines along the length.</p>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/091108hntjk3m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/091108hntjk3m3.jpg" alt="Pulau Hantu, Nov 09 Photo shared by James Koh on flickr ." class="gallery-image" />
         <div class="caption">
         Pulau Hantu, Nov 09 Photo shared by James Koh on flickr .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/091206tmd5751m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/091206tmd5751m3.jpg" alt="Tanah Merah, Dec 09" class="gallery-image" />
         <div class="caption">
         Tanah Merah, Dec 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/091206tmd5751m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/091206tmd5751m3a.jpg" alt="Their eyes are close together in between the rhinophores. Tanah Merah, Dec 09" class="gallery-image" />
         <div class="caption">
         Their eyes are close together in between the rhinophores. Tanah Merah, Dec 09
         </div>
@@ -305,6 +303,60 @@ cerata have thin silvery lines along the length.</p>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p>**Species are difficult to positively identify without close examination.</p>
 
 <p>On this website, they are grouped by external features for convenience of display.*</p>
@@ -331,21 +383,21 @@ for free download</li>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/180520chgtch1.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/180520chgtch1.jpg" alt="Changi, May 18 Photo shared by Toh Chay Hoon on facebook ." class="gallery-image" />
         <div class="caption">
         Changi, May 18 Photo shared by Toh Chay Hoon on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/180520chgtch2.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/180520chgtch2.jpg" alt="Changi, May 18 Photo shared by Toh Chay Hoon on facebook ." class="gallery-image" />
         <div class="caption">
         Changi, May 18 Photo shared by Toh Chay Hoon on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/180714cjtch2.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/180714cjtch2.jpg" alt="Chek Jawa, Jun 18 Photo shared by Toh Chay Hoon on facebook ." class="gallery-image" />
         <div class="caption">
         Chek Jawa, Jun 18 Photo shared by Toh Chay Hoon on facebook .
         </div>
@@ -353,26 +405,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/160704cjtch1.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/160704cjtch1.jpg" alt="Chek Jawa, Jul 16 Photo shared by Toh Chay Hoon on facebook ." class="gallery-image" />
         <div class="caption">
         Chek Jawa, Jul 16 Photo shared by Toh Chay Hoon on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/160704cjtch1b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/160704cjtch1b.jpg" alt="Chek Jawa, Jul 16 Photo shared by Toh Chay Hoon on facebook ." class="gallery-image" />
         <div class="caption">
         Chek Jawa, Jul 16 Photo shared by Toh Chay Hoon on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/170624cjtch3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/170624cjtch3.jpg" alt="Chek Jawa, Jun 17 Photo shared by Toh Chay Hoon on facebook ." class="gallery-image" />
         <div class="caption">
         Chek Jawa, Jun 17 Photo shared by Toh Chay Hoon on facebook .
         </div>
@@ -380,19 +486,73 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/111030skdro3m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/111030skdro3m3.jpg" alt="Pulau Sekudu, Oct 11 Photo shared by Rene Ong on facebook ." class="gallery-image" />
         <div class="caption">
         Pulau Sekudu, Oct 11 Photo shared by Rene Ong on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/200723bblks1.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/200723bblks1.jpg" alt="Beting Bronok, Jul 20 Photo shared by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         Beting Bronok, Jul 20 Photo shared by Loh Kok Sheng on facebook .
         </div>
@@ -400,26 +560,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/141224tusmn2m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/141224tusmn2m3.jpg" alt="Tuas, Dec 14 Photo shared by Loh Kok Sheng on hig blog ." class="gallery-image" />
         <div class="caption">
         Tuas, Dec 14 Photo shared by Loh Kok Sheng on hig blog .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/091010tmjk6m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/091010tmjk6m3.jpg" alt="Tanah Merah, Oct 09 Photo shared by James Koh on his blog ." class="gallery-image" />
         <div class="caption">
         Tanah Merah, Oct 09 Photo shared by James Koh on his blog .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/100302ecplks.JPG" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/100302ecplks.JPG" alt="East Coast Park, Mar 10 Photo shared by Loh Kok Sheng on flickr ." class="gallery-image" />
         <div class="caption">
         East Coast Park, Mar 10 Photo shared by Loh Kok Sheng on flickr .
         </div>
@@ -427,26 +641,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/200805sntjll4.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/200805sntjll4.jpg" alt="Sentosa Tg Rimau, Aug 20 Photo shared by Jianlin Liu on facebook ." class="gallery-image" />
         <div class="caption">
         Sentosa Tg Rimau, Aug 20 Photo shared by Jianlin Liu on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/171008lazjll.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/171008lazjll.jpg" alt="Lazarus Island, Oct 17 Photo shared by Jianlin Liu on facebook ." class="gallery-image" />
         <div class="caption">
         Lazarus Island, Oct 17 Photo shared by Jianlin Liu on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/100103tkkjk4m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/100103tkkjk4m3.jpg" alt="Pulau Tekukor, Photo shared by James Koh on flickr ." class="gallery-image" />
         <div class="caption">
         Pulau Tekukor, Photo shared by James Koh on flickr .
         </div>
@@ -455,19 +723,72 @@ for free download</li>
 
 </div>
 
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/200705kusdc7.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/200705kusdc7.jpg" alt="Kusu Island, Jul 20 Photo shared by Dayna Cheah on facebook ." class="gallery-image" />
         <div class="caption">
         Kusu Island, Jul 20 Photo shared by Dayna Cheah on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/150605kustch2m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/150605kustch2m3.jpg" alt="Kusu Island, Jun 15 Photo shared by Toh Chay Hoon on facebook ." class="gallery-image" />
         <div class="caption">
         Kusu Island, Jun 15 Photo shared by Toh Chay Hoon on facebook .
         </div>
@@ -475,26 +796,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/110203sjilks.JPG" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/110203sjilks.JPG" alt="St John&#39;s Island, Feb 11 Photo shared by Loh Kok Sheng on flickr ." class="gallery-image" />
         <div class="caption">
         St John's Island, Feb 11 Photo shared by Loh Kok Sheng on flickr .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/110203sjijk2m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/110203sjijk2m3.jpg" alt="St. John&#39;s Island, Feb 11 Photo shared by James Koh on his blog ." class="gallery-image" />
         <div class="caption">
         St. John's Island, Feb 11 Photo shared by James Koh on his blog .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/250810bsisjll2.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/250810bsisjll2.jpg" alt="Big Sisters Island, Aug 25 Photo shared by Jianlin Liu on facebook ." class="gallery-image" />
         <div class="caption">
         Big Sisters Island, Aug 25 Photo shared by Jianlin Liu on facebook .
         </div>
@@ -502,26 +877,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/170212bsismn.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/170212bsismn.jpg" alt="Big Sisters&#39; Island, Feb 17 Photo shared by Marcus Ng on facebook ." class="gallery-image" />
         <div class="caption">
         Big Sisters' Island, Feb 17 Photo shared by Marcus Ng on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/110124bsisjk.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/110124bsisjk.jpg" alt="Big Sisters&#39; Island, Jan 11 Photo shared by James Koh on flickr ." class="gallery-image" />
         <div class="caption">
         Big Sisters' Island, Jan 11 Photo shared by James Koh on flickr .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/210822ssisjll3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/210822ssisjll3.jpg" alt="Small Sisters, Aug 21 Photo shared by Jianlin LIu on facebook ." class="gallery-image" />
         <div class="caption">
         Small Sisters, Aug 21 Photo shared by Jianlin LIu on facebook .
         </div>
@@ -529,26 +958,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/210812jngvc2.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/210812jngvc2.jpg" alt="Pulau Jong, Aug 21 Photo shared by Vincent Choo on facebook ." class="gallery-image" />
         <div class="caption">
         Pulau Jong, Aug 21 Photo shared by Vincent Choo on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/091107hntmn.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/091107hntmn.jpg" alt="Pulau Hantu, Nov 09 Photo shared by Marcus Ng on flickr ." class="gallery-image" />
         <div class="caption">
         Pulau Hantu, Nov 09 Photo shared by Marcus Ng on flickr .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/140809hntmn.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/140809hntmn.jpg" alt="Pulau Hantu, Aug 14 Photo shared by Marcus Ng on flickr ." class="gallery-image" />
         <div class="caption">
         Pulau Hantu, Aug 14 Photo shared by Marcus Ng on flickr .
         </div>
@@ -556,19 +1039,73 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/100402cyrtch1m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/100402cyrtch1m3.jpg" alt="Cyrene Reef, Apr 10 Photo shared by Toh Chay Hoon on her blog" class="gallery-image" />
         <div class="caption">
         Cyrene Reef, Apr 10 Photo shared by Toh Chay Hoon on her blog
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/100713cyrtch5m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/100713cyrtch5m3.jpg" alt=". Cyrene Reef, Jul 10 Photo shared by Toh Chay Hoon on her blog ." class="gallery-image" />
         <div class="caption">
         . Cyrene Reef, Jul 10 Photo shared by Toh Chay Hoon on her blog .
         </div>
@@ -576,26 +1113,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/160208smkstch3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/160208smkstch3.jpg" alt="Pulau Semakau South, Feb 16 Photo shared by Toh Chay Hoon on facebook ." class="gallery-image" />
         <div class="caption">
         Pulau Semakau South, Feb 16 Photo shared by Toh Chay Hoon on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/110814smkjk5m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/110814smkjk5m3.jpg" alt="Pulau Semakau, Aug 11 Photo shared by James Koh on flickr ." class="gallery-image" />
         <div class="caption">
         Pulau Semakau, Aug 11 Photo shared by James Koh on flickr .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/210501tbjk2.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/210501tbjk2.jpg" alt="Terumbu Bemban, May 21 Photo shared by James Koh on flickr ." class="gallery-image" />
         <div class="caption">
         Terumbu Bemban, May 21 Photo shared by James Koh on flickr .
         </div>
@@ -603,19 +1194,73 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/180615trytch2.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/180615trytch2.jpg" alt="Terumbu Raya, Jun 18 Photo shared by Toh Chay Hoon on facebook ." class="gallery-image" />
         <div class="caption">
         Terumbu Raya, Jun 18 Photo shared by Toh Chay Hoon on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/170501tsmktch1.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/170501tsmktch1.jpg" alt="Terumbu Semakau, May 17 Photo shared by Toh Chay Hoon on facebook ." class="gallery-image" />
         <div class="caption">
         Terumbu Semakau, May 17 Photo shared by Toh Chay Hoon on facebook .
         </div>
@@ -623,19 +1268,73 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/251008bbbtl2.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/251008bbbtl2.jpg" alt="Beting Bemban Besar, Oct 25 Photo shared by Tammy Lim on facebook ." class="gallery-image" />
         <div class="caption">
         Beting Bemban Besar, Oct 25 Photo shared by Tammy Lim on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/170514bbbtch1.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/170514bbbtch1.jpg" alt="Beting Bemban Besar, May 17 Photo shared by Toh Chay Hoon on facebook ." class="gallery-image" />
         <div class="caption">
         Beting Bemban Besar, May 17 Photo shared by Toh Chay Hoon on facebook .
         </div>
@@ -643,26 +1342,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/110517tbtro5m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/110517tbtro5m3.jpg" alt="Terumbu Pempang Tengah, May 11 Photo shared by Rene Ong on facebook ." class="gallery-image" />
         <div class="caption">
         Terumbu Pempang Tengah, May 11 Photo shared by Rene Ong on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/110422tpljk2m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/110422tpljk2m3.jpg" alt="Terumbu Pempang Laut, Apr 11 Photo shared by James Koh on his blog ." class="gallery-image" />
         <div class="caption">
         Terumbu Pempang Laut, Apr 11 Photo shared by James Koh on his blog .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/210810tpltch2.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/210810tpltch2.jpg" alt="Terumbu Pempang Laut, Aug 21 Photo shared by Toh Chay Hoon on facebook ." class="gallery-image" />
         <div class="caption">
         Terumbu Pempang Laut, Aug 21 Photo shared by Toh Chay Hoon on facebook .
         </div>
@@ -670,26 +1423,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/091204pawjk9m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/091204pawjk9m3.jpg" alt="Pulau Pawai, Dec 09 Photo shared by James Koh on his flickr ." class="gallery-image" />
         <div class="caption">
         Pulau Pawai, Dec 09 Photo shared by James Koh on his flickr .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/091205sudjk3m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/091205sudjk3m3.jpg" alt="Pulau Sudong, Dec 09 Photo shared by James Koh on his flickr ." class="gallery-image" />
         <div class="caption">
         Pulau Sudong, Dec 09 Photo shared by James Koh on his flickr .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/091205sudtch8m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/091205sudtch8m3.jpg" alt="Pulau Sudong, Dec 09 Photo shared by Toh Chay Hoon on her flickr ." class="gallery-image" />
         <div class="caption">
         Pulau Sudong, Dec 09 Photo shared by Toh Chay Hoon on her flickr .
         </div>
@@ -697,6 +1504,60 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p>shared by Neo Mei Lin on
@@ -731,7 +1592,7 @@ from
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&amp;l=as2&amp;o=1&amp;a=3939767255" alt="" />
+        <img src="http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&amp;l=as2&amp;o=1&amp;a=3939767255" alt="Links Costasiella sp. 3 and Avrainvillea sp. on The Sea Slug Forum by Dr Bill Rudman: photos and fact sheets. References K. R. Jensen. Sacoglossa (Mollusca: Gastropoda: Heterobranchia) from northern coasts of Singapore . 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 226-249. Kathe R. Jensen, Patrick J. Krug, Anne Dupont, Masayoshi Nishina. 21 October 2014. A review of taxonomy and phylogenetic relationships in the genus Costasiella (Heterobranchia: Sacoglossa), with a description of a new species . Journal of Molluscan Studies (2014) 80 (5): 562-574. Kathe R. Jensen. 30 Dec 2009. Sacoglossa (Mollusca: Gastropoda: Opisthobranchia) from Singapore . The Raffles Bulletin of Zoology, Supplement 22: 207-223. Tan Siong Kiat and Henrietta P. M. Woo, 2010 Preliminary Checklist of The Molluscs of Singapore (pdf), Raffles Museum of Biodiversity Research, National University of Singapore. Humann, Paul and Ned Deloach. 2010. Reef Creature Identification: Tropical Pacific New World Publications. 497pp. Kuiter, Rudie H and Helmut Debelius. 2009. World Atlas of Marine Fauna . IKAN-Unterwasserachiv. 723pp." class="gallery-image" />
         <div class="caption">
         Links Costasiella sp. 3 and Avrainvillea sp. on The Sea Slug Forum by Dr Bill Rudman: photos and fact sheets. References K. R. Jensen. Sacoglossa (Mollusca: Gastropoda: Heterobranchia) from northern coasts of Singapore . 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 226-249. Kathe R. Jensen, Patrick J. Krug, Anne Dupont, Masayoshi Nishina. 21 October 2014. A review of taxonomy and phylogenetic relationships in the genus Costasiella (Heterobranchia: Sacoglossa), with a description of a new species . Journal of Molluscan Studies (2014) 80 (5): 562-574. Kathe R. Jensen. 30 Dec 2009. Sacoglossa (Mollusca: Gastropoda: Opisthobranchia) from Singapore . The Raffles Bulletin of Zoology, Supplement 22: 207-223. Tan Siong Kiat and Henrietta P. M. Woo, 2010 Preliminary Checklist of The Molluscs of Singapore (pdf), Raffles Museum of Biodiversity Research, National University of Singapore. Humann, Paul and Ned Deloach. 2010. Reef Creature Identification: Tropical Pacific New World Publications. 497pp. Kuiter, Rudie H and Helmut Debelius. 2009. World Atlas of Marine Fauna . IKAN-Unterwasserachiv. 723pp.
         </div>
@@ -739,6 +1600,60 @@ from
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 
 
         

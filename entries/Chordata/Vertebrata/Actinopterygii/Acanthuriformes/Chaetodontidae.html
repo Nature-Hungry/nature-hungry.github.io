@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -341,21 +339,21 @@ The butterflyfish and its relatives nibble on small creatures. They have a point
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/chaetodontidae/ocellatus/050721cjg9723m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/chaetodontidae/ocellatus/050721cjg9723m3.jpg" alt="Sometimes many are seen together. Chek Jawa, Jul 05" class="gallery-image" />
         <div class="caption">
         Sometimes many are seen together. Chek Jawa, Jul 05
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/chaetodontidae/rostratus/031029sntbd0064m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/chaetodontidae/rostratus/031029sntbd0064m3b.jpg" alt="Pointed snout to nibble on small things. Sentosa, Oct 03" class="gallery-image" />
         <div class="caption">
         Pointed snout to nibble on small things. Sentosa, Oct 03
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/chaetodontidae/rostratus/050526cjg6792m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/chaetodontidae/rostratus/050526cjg6792m3.jpg" alt="Flattened sideways it&#39;s hard to spot from above or head on. Sentosa, Oct 03" class="gallery-image" />
         <div class="caption">
         Flattened sideways it's hard to spot from above or head on. Sentosa, Oct 03
         </div>
@@ -363,27 +361,81 @@ The butterflyfish and its relatives nibble on small creatures. They have a point
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p><strong>Butterflyfish Babies:</strong>
 The male and female of these fishes generally look similar. Many are found in monogamous mated pairs. In many species, the pairs are stable for at least three years and some may pair for life. A mating pair will rise to the water surface together, simultaneously releasing eggs and sperm. A unique feature of this family is a prolonged larval stage in which the free-swimming larvae may remain drifting with plankton for 2-3 months before changing into juvenile butterflyfishes. As a result, butterflyfishes are quite widely distributed. They are unique among fishes in that the larvae pass through a stage when a bony sheath encases the head.</p>
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/chaetodontidae/octofasciatus/100615tmlks2m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/chaetodontidae/octofasciatus/100615tmlks2m3.jpg" alt="Some are seen among living corals. Tanah Merah, Jun 10" class="gallery-image" />
         <div class="caption">
         Some are seen among living corals. Tanah Merah, Jun 10
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/chaetodontidae/ocellatus/050822cjd5868m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/chaetodontidae/ocellatus/050822cjd5868m3.jpg" alt="Sometimes seen near carpet anemones . Chek Jawa, Jul 05" class="gallery-image" />
         <div class="caption">
         Sometimes seen near carpet anemones . Chek Jawa, Jul 05
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/chaetodontidae/ocellatus/020627chgcpd0638m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/chaetodontidae/ocellatus/020627chgcpd0638m3.jpg" alt="Seen near a cerianthid . Changi, Jun 02" class="gallery-image" />
         <div class="caption">
         Seen near a cerianthid . Changi, Jun 02
         </div>
@@ -391,6 +443,59 @@ The male and female of these fishes generally look similar. Many are found in mo
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <h2 id="human-uses">Human uses</h2>
 
 <p>Butterflyfishes of various kinds are popular in the live aquarium trade. The family is the third most frequently exported and second highest in total value in the aquarium trade. However, most species are difficult to maintain in captivity. Those that eat only specialised prey are doomed to die of starvation in an aquarium.</p>
@@ -406,21 +511,21 @@ The male and female of these fishes generally look similar. Many are found in mo
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/chaetodontidae/rostratus/100810sngd0004m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/chaetodontidae/rostratus/100810sngd0004m3.jpg" alt="Copperband butterflyfish" class="gallery-image" />
         <div class="caption">
         Copperband butterflyfish
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/chaetodontidae/ocellatus/080830kusd9981m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/chaetodontidae/ocellatus/080830kusd9981m3.jpg" alt="Kite butterflyfish" class="gallery-image" />
         <div class="caption">
         Kite butterflyfish
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/chaetodontidae/octofasciatus/101224sisd4066m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/chaetodontidae/octofasciatus/101224sisd4066m3.jpg" alt="Eightband butterflyfish" class="gallery-image" />
         <div class="caption">
         Eightband butterflyfish
         </div>
@@ -428,6 +533,60 @@ The male and female of these fishes generally look similar. Many are found in mo
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong>Family Chaetodontidae recorded for Singapore</strong>

@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -300,21 +298,21 @@ The octopus is a hunter with many tricks. Among its formidable weapons is its br
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/cephalopoda/reefoctopus/060501labd1608m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/cephalopoda/reefoctopus/060501labd1608m3a.jpg" alt="Web spreading out along the sides of the tentacle. Labrador, May 06" class="gallery-image" />
         <div class="caption">
         Web spreading out along the sides of the tentacle. Labrador, May 06
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/cephalopoda/bigseagrass/130624chg7d7811.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/cephalopoda/bigseagrass/130624chg7d7811.jpg" alt="Hiding in a dead Noble volute shell. Changi, Jun 13" class="gallery-image" />
         <div class="caption">
         Hiding in a dead Noble volute shell. Changi, Jun 13
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/cephalopoda/bigseagrass/090525chgd2387m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/cephalopoda/bigseagrass/090525chgd2387m3.jpg" alt="&#39;Walking&#39; with its head above the ground. Changi, May 09" class="gallery-image" />
         <div class="caption">
         'Walking' with its head above the ground. Changi, May 09
         </div>
@@ -322,6 +320,60 @@ The octopus is a hunter with many tricks. Among its formidable weapons is its br
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p><strong>Armed and Dangerous:</strong>
 An octopus searches for prey mostly at night, spreading out its eight long arms to feel into crevices for crabs, prawns, snails, clams and other such morsels. The highly flexible arms have strong suckers to grip objects so that the octopus can slowly ‘creep’ over the surface as it stealthily investigates all hiding places (octopuses use jet propulsion when they are in a bigger hurry, see below). The arms also have numerous receptors sensitive to taste and touch.</p>
 
@@ -330,21 +382,21 @@ An octopus searches for prey mostly at night, spreading out its eight long arms 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/cephalopoda/reefoctopus/040801hntd3776m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/cephalopoda/reefoctopus/040801hntd3776m3.jpg" alt="Using web as a net to trap prey. Pulau Hantu, Aug 04" class="gallery-image" />
         <div class="caption">
         Using web as a net to trap prey. Pulau Hantu, Aug 04
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/cephalopoda/reefoctopus/070531sisd1525m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/cephalopoda/reefoctopus/070531sisd1525m3a.jpg" alt="Underside is full of suckers. Sisters Island, May 07" class="gallery-image" />
         <div class="caption">
         Underside is full of suckers. Sisters Island, May 07
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/cephalopoda/reefoctopus/081016cyrd0036m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/cephalopoda/reefoctopus/081016cyrd0036m3.jpg" alt="Using jet propulsion to move. Cyrene Reef, Oct 08" class="gallery-image" />
         <div class="caption">
         Using jet propulsion to move. Cyrene Reef, Oct 08
         </div>
@@ -352,6 +404,59 @@ An octopus searches for prey mostly at night, spreading out its eight long arms 
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p><strong>Octopuses bite!</strong>
 Although octopuses have a hard beak and a radula (ribbon of teeth), they don’t chew their food. Digestive juices are injected into the prey which soften the tissues. Some octopuses can drill a hole through a snail’s shell to get at it. Others crush shells and crack crabs with their hard beaks.</p>
 
@@ -367,21 +472,21 @@ Wear covered footwear. Don’t touch octopuses.</p>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/cephalopoda/reefoctopus/040718sntd2768m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/cephalopoda/reefoctopus/040718sntd2768m3.jpg" alt="These three photos are of the same animal .. Sentosa, Jul 04" class="gallery-image" />
         <div class="caption">
         These three photos are of the same animal .. Sentosa, Jul 04
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/cephalopoda/reefoctopus/040718sntd2771m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/cephalopoda/reefoctopus/040718sntd2771m3.jpg" alt="... taken minutes apart." class="gallery-image" />
         <div class="caption">
         ... taken minutes apart.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/cephalopoda/reefoctopus/040718sntd2773m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/cephalopoda/reefoctopus/040718sntd2773m3.jpg" alt="...with rapid colour and texture changes!" class="gallery-image" />
         <div class="caption">
         ...with rapid colour and texture changes!
         </div>
@@ -389,6 +494,59 @@ Wear covered footwear. Don’t touch octopuses.</p>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p><strong>Shell-less but not helpless:</strong>
 Unlike most other molluscs, the octopus does not have a shell at all. This is actually an advantage as the octopus can then squeeze into all kinds of impossibly tight hiding places. The octopus, however, has many other ways to deal with danger.</p>
 
@@ -399,14 +557,14 @@ Unlike most other molluscs, the octopus does not have a shell at all. This is ac
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/cephalopoda/reefoctopus/120330cyrd4840m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/cephalopoda/reefoctopus/120330cyrd4840m3.jpg" alt="Inking - octopus is perfectly camouflaged with the sand. Cyrene, Mar 12" class="gallery-image" />
         <div class="caption">
         Inking - octopus is perfectly camouflaged with the sand. Cyrene, Mar 12
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/cephalopoda/reefoctopus/120330cyrd4840.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/cephalopoda/reefoctopus/120330cyrd4840.jpg" alt="The ink coagulated a distance away, distracting from the octopus. Cyrene, Mar 12" class="gallery-image" />
         <div class="caption">
         The ink coagulated a distance away, distracting from the octopus. Cyrene, Mar 12
         </div>
@@ -414,6 +572,59 @@ Unlike most other molluscs, the octopus does not have a shell at all. This is ac
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p><strong>Octopus babies:</strong>
 Octopuses have separate genders. To mate, the male uses a special arm called a hectocotylus to insert a sperm packet into the female’s body. While doing so, he usually keeps as far away from the female as possible, and he is usually pale, a sign of stress. The female uses the sperm to fertilise her eggs as she lays them. In most octopus species, the eggs are laid in capsules attached to hard surfaces. Here are some photos of
 <a href="cepeggs">cephalopod egg capsules</a>
@@ -422,14 +633,14 @@ Octopuses have separate genders. To mate, the male uses a special arm called a h
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/cephalopoda/reefoctopus/050720sntd5063m6la.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/cephalopoda/reefoctopus/050720sntd5063m6la.jpg" alt="A pair of mating octopuses, one pale and the other dark. Sentosa, Jul 05" class="gallery-image" />
         <div class="caption">
         A pair of mating octopuses, one pale and the other dark. Sentosa, Jul 05
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/cephalopoda/octopusnoid/120506sisd1212m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/cephalopoda/octopusnoid/120506sisd1212m3.jpg" alt="Tiny octopus among seaweeds. Sisters Island, May 12" class="gallery-image" />
         <div class="caption">
         Tiny octopus among seaweeds. Sisters Island, May 12
         </div>
@@ -438,24 +649,77 @@ Octopuses have separate genders. To mate, the male uses a special arm called a h
 
 </div>
 
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/cephalopoda/bigseagrass/080801chgd8632m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/cephalopoda/bigseagrass/080801chgd8632m3.jpg" alt="Changi, Jul 09" class="gallery-image" />
         <div class="caption">
         Changi, Jul 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/cephalopoda/bigseagrass/080801chgd8632m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/cephalopoda/bigseagrass/080801chgd8632m3a.jpg" alt="Carrying eggs?" class="gallery-image" />
         <div class="caption">
         Carrying eggs?
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/cephalopoda/bigseagrass/080801chgd8632m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/cephalopoda/bigseagrass/080801chgd8632m3b.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
@@ -463,6 +727,60 @@ Octopuses have separate genders. To mate, the male uses a special arm called a h
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p><strong>Good mama:</strong>
 In bottom-dwelling octopuses, the female looks after her eggs; keeping them oxygenated, free of algae and bacteria, and defending them from predators. Some even carry their eggs with them. The female does not feed during this time and usually dies after the eggs hatch. Most octopuses breed only once in their life, and many die after doing so.</p>
 
@@ -485,21 +803,21 @@ In bottom-dwelling octopuses, the female looks after her eggs; keeping them oxyg
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/cephalopoda/reefoctopus/040703sisd1656m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/cephalopoda/reefoctopus/040703sisd1656m3.jpg" alt="Reef octopus" class="gallery-image" />
         <div class="caption">
         Reef octopus
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/cephalopoda/bigseagrass/050428cftg5299m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/cephalopoda/bigseagrass/050428cftg5299m3.jpg" alt="Big-head seagrass octopus" class="gallery-image" />
         <div class="caption">
         Big-head seagrass octopus
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/cephalopoda/slenderseagrass/060726chgd4943m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/cephalopoda/slenderseagrass/060726chgd4943m3.jpg" alt="Slender seagrass octopus" class="gallery-image" />
         <div class="caption">
         Slender seagrass octopus
         </div>
@@ -507,6 +825,60 @@ In bottom-dwelling octopuses, the female looks after her eggs; keeping them oxyg
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong>Unidentified octopuses</strong></p>
@@ -516,14 +888,14 @@ In bottom-dwelling octopuses, the female looks after her eggs; keeping them oxyg
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/cephalopoda/octopusnoid/201115tkklks2b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/cephalopoda/octopusnoid/201115tkklks2b.jpg" alt="Pulau Tekukor, Nov 20 Photo shares by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         Pulau Tekukor, Nov 20 Photo shares by Loh Kok Sheng on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/cephalopoda/octopusnoid/201115tkklks2.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/cephalopoda/octopusnoid/201115tkklks2.jpg" alt="Pulau Tekukor, Nov 20 Photo shares by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         Pulau Tekukor, Nov 20 Photo shares by Loh Kok Sheng on facebook .
         </div>
@@ -531,6 +903,59 @@ In bottom-dwelling octopuses, the female looks after her eggs; keeping them oxyg
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 
 <hr />
 

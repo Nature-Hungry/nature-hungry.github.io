@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -288,21 +286,21 @@ The feathery fan that we see is stuck on the top of the worm’s head! The circu
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/worm/polychaeta/sabellidae/banded/070406hntg8511m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/worm/polychaeta/sabellidae/banded/070406hntg8511m3.jpg" alt="Growing in living hard coral. Pulau Hantu, Apr 07" class="gallery-image" />
         <div class="caption">
         Growing in living hard coral. Pulau Hantu, Apr 07
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/worm/polychaeta/sabellidae/spotted/090529prpd2885m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/worm/polychaeta/sabellidae/spotted/090529prpd2885m3.jpg" alt="This fanworm is out of water. Its fan is collapsed, and its body segments clearly visible. Pasir Ris Park, May 09" class="gallery-image" />
         <div class="caption">
         This fanworm is out of water. Its fan is collapsed, and its body segments clearly visible. Pasir Ris Park, May 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/worm/polychaeta/sabellidae/spotted/050726chgg0412m3c.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/worm/polychaeta/sabellidae/spotted/050726chgg0412m3c.jpg" alt="Tiny bristles on the segmented body. Changi, Jul 05" class="gallery-image" />
         <div class="caption">
         Tiny bristles on the segmented body. Changi, Jul 05
         </div>
@@ -310,6 +308,60 @@ The feathery fan that we see is stuck on the top of the worm’s head! The circu
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p>Each pinnule is covered with cilia (tiny beating hairs). The cilia generate a current, sucking water from below the fan, through the pinnules and out through the centre of the fan (indicated by the blue arrows). Cilia on the pinnules gather tiny food particles from the current and send these to a groove along the length of each radiole. Cilia in the groove sort out food particles by size as they bring these particles to the central mouth.</p>
 
 <p>A pair of palps near the mouth removes particles which are too large: cilia on the palps carry these particles to the centre of the fan and toss them into the outgoing current. Only suitably small particles are eaten.</p>
@@ -320,21 +372,21 @@ fanworms live in a flexible, leathery tube. The tube is often much longer than t
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/worm/polychaeta/sabellidae/white/050806skdg0543m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/worm/polychaeta/sabellidae/white/050806skdg0543m3a.jpg" alt="Collar on a fanworm that is used to create the tube." class="gallery-image" />
         <div class="caption">
         Collar on a fanworm that is used to create the tube.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/worm/polychaeta/sabellidae/banded/040830hntd5883m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/worm/polychaeta/sabellidae/banded/040830hntd5883m3a.jpg" alt="Pulau Hantu, Aug 04" class="gallery-image" />
         <div class="caption">
         Pulau Hantu, Aug 04
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/worm/polychaeta/sabellidae/fanworm.gif" alt="" />
+        <img src="https://images.naturehungry.sg/worm/polychaeta/sabellidae/fanworm.gif" alt="Current generated by the worm is in the direction of the blue arrows Pulau Sekudu, Aug 05" class="gallery-image" />
         <div class="caption">
         Current generated by the worm is in the direction of the blue arrows Pulau Sekudu, Aug 05
         </div>
@@ -342,6 +394,59 @@ fanworms live in a flexible, leathery tube. The tube is often much longer than t
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p><strong>How does a fanworm make its tube?</strong>
 Sand grains of suitable size are collected and stored in a sac. The sand is mixed with mucus and extruded as a string of tube material. The worm rotates its body to apply this string to the tube, to lengthen or repair it.</p>
 
@@ -371,21 +476,21 @@ Like other creatures of the intertidal zone, they are affected by human activiti
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/worm/polychaeta/sabellidae/banded/060611cjd2781m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/worm/polychaeta/sabellidae/banded/060611cjd2781m3.jpg" alt="Banded fanworm" class="gallery-image" />
         <div class="caption">
         Banded fanworm
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/worm/polychaeta/sabellidae/orange/060809skdd5505m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/worm/polychaeta/sabellidae/orange/060809skdd5505m3.jpg" alt="Orange fanworm" class="gallery-image" />
         <div class="caption">
         Orange fanworm
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/worm/polychaeta/sabellidae/blue/050623cjg8275m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/worm/polychaeta/sabellidae/blue/050623cjg8275m3.jpg" alt="Blue fanworm" class="gallery-image" />
         <div class="caption">
         Blue fanworm
         </div>
@@ -393,19 +498,73 @@ Like other creatures of the intertidal zone, they are affected by human activiti
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/worm/polychaeta/sabellidae/olive/091009tmd2683m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/worm/polychaeta/sabellidae/olive/091009tmd2683m3.jpg" alt="Olive fanworm" class="gallery-image" />
         <div class="caption">
         Olive fanworm
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/worm/polychaeta/sabellidae/spotted/040702chgd1528m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/worm/polychaeta/sabellidae/spotted/040702chgd1528m3.jpg" alt="Spotted fanworm" class="gallery-image" />
         <div class="caption">
         Spotted fanworm
         </div>
@@ -413,26 +572,80 @@ Like other creatures of the intertidal zone, they are affected by human activiti
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/worm/polychaeta/sabellidae/tinysand/070505kusg9102m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/worm/polychaeta/sabellidae/tinysand/070505kusg9102m3.jpg" alt="Tiny sand fanworm" class="gallery-image" />
         <div class="caption">
         Tiny sand fanworm
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/worm/polychaeta/sabellidae/tinysand/080920hntd0777m3d.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/worm/polychaeta/sabellidae/tinysand/080920hntd0777m3d.jpg" alt="Tiny sand fanworm" class="gallery-image" />
         <div class="caption">
         Tiny sand fanworm
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/worm/polychaeta/sabellidae/white/050526cjg6820m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/worm/polychaeta/sabellidae/white/050526cjg6820m3.jpg" alt="White spiral fanworm" class="gallery-image" />
         <div class="caption">
         White spiral fanworm
         </div>
@@ -440,6 +653,60 @@ Like other creatures of the intertidal zone, they are affected by human activiti
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong>Family Sabellidae recorded for Singapore</strong></p>

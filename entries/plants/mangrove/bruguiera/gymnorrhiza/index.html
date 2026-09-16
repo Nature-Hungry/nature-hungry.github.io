@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -321,21 +319,21 @@ and is sometimes spelt
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/gymnorrhiza/090118smkd5888m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/gymnorrhiza/090118smkd5888m3.jpg" alt="Pulau Semakau, Jan 09" class="gallery-image" />
         <div class="caption">
         Pulau Semakau, Jan 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/gymnorrhiza/090118smkd5888m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/gymnorrhiza/090118smkd5888m3a.jpg" alt="Opened &#39;pouch&#39; petals." class="gallery-image" />
         <div class="caption">
         Opened 'pouch' petals.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/gymnorrhiza/110301sbwrd6661m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/gymnorrhiza/110301sbwrd6661m3a.jpg" alt="&#39;Pouched&#39; petals not yet open. Sungei Buloh Wetland Reserve, Mar 11" class="gallery-image" />
         <div class="caption">
         'Pouched' petals not yet open. Sungei Buloh Wetland Reserve, Mar 11
         </div>
@@ -343,26 +341,80 @@ and is sometimes spelt
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/gymnorrhiza/090411lckd9537m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/gymnorrhiza/090411lckd9537m3.jpg" alt="Calyx may be yellow. Lim Chu Kang, Apr 09" class="gallery-image" />
         <div class="caption">
         Calyx may be yellow. Lim Chu Kang, Apr 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/gymnorrhiza/090502cjf0890m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/gymnorrhiza/090502cjf0890m3a.jpg" alt="Tassels on petal tips. Chek Jawa, May 09" class="gallery-image" />
         <div class="caption">
         Tassels on petal tips. Chek Jawa, May 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/gymnorrhiza/090801prpd8001m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/gymnorrhiza/090801prpd8001m3a.jpg" alt="Sepals bend towards the propagule. Pasir Ris Park, Aug 09" class="gallery-image" />
         <div class="caption">
         Sepals bend towards the propagule. Pasir Ris Park, Aug 09
         </div>
@@ -370,6 +422,60 @@ and is sometimes spelt
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong>Tumu on Singapore shores</strong></p>

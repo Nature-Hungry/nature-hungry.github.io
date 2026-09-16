@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -274,21 +272,21 @@
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/080802sjid8757m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/080802sjid8757m3.jpg" alt="St. John&#39;s Island, Aug 08" class="gallery-image" />
         <div class="caption">
         St. John's Island, Aug 08
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/080802sjid8755m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/080802sjid8755m3b.jpg" alt="Tiny hexagonal corallites." class="gallery-image" />
         <div class="caption">
         Tiny hexagonal corallites.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/080802sjid8755m3c.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/080802sjid8755m3c.jpg" alt="Tiny polyps." class="gallery-image" />
         <div class="caption">
         Tiny polyps.
         </div>
@@ -296,6 +294,60 @@
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p><strong>Coral feast:</strong>
 The nudibranch
 <em>Phestilla lugubris</em>
@@ -304,21 +356,21 @@ feeds on the coral.</p>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/210501tbtch1.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/210501tbtch1.jpg" alt="Phestilla lugubris with egg mass. Terumbu Bemban, May 21 Photo shared by Toh Chay Hoon on facebook ." class="gallery-image" />
         <div class="caption">
         Phestilla lugubris with egg mass. Terumbu Bemban, May 21 Photo shared by Toh Chay Hoon on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/220105rlhvc2.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/220105rlhvc2.jpg" alt="Phestilla lugubris with egg mass. Raffles Lighthouse, Jan 22 Photo shared by Vincent Choo on facebook ." class="gallery-image" />
         <div class="caption">
         Phestilla lugubris with egg mass. Raffles Lighthouse, Jan 22 Photo shared by Vincent Choo on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/220105rlhvc2b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/220105rlhvc2b.jpg" alt="Phestilla lugubris . Raffles Lighthouse, Jan 22 Photo shared by Vincent Choo on facebook ." class="gallery-image" />
         <div class="caption">
         Phestilla lugubris . Raffles Lighthouse, Jan 22 Photo shared by Vincent Choo on facebook .
         </div>
@@ -326,19 +378,73 @@ feeds on the coral.</p>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/260217bsisjll2.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/260217bsisjll2.jpg" alt="Phestilla sp. Big Sisters Island, Feb 26 Photo shared by Jianlin Liu on facebook ." class="gallery-image" />
         <div class="caption">
         Phestilla sp. Big Sisters Island, Feb 26 Photo shared by Jianlin Liu on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/260217bsislks2.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/260217bsislks2.jpg" alt="Phestilla sp. with egg mass. Big Sisters Island, Feb 26 Photo shared by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         Phestilla sp. with egg mass. Big Sisters Island, Feb 26 Photo shared by Loh Kok Sheng on facebook .
         </div>
@@ -346,19 +452,72 @@ feeds on the coral.</p>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p>Small animals may also burrow into the living coral, the coral turning pink at the ‘wound’. Sometimes, the colony may have many ‘bite marks’ that might have been made by fishes.</p>
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/080802sjid8755m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/080802sjid8755m3a.jpg" alt="A burrowing animal? St. John&#39;s Island, Aug 08" class="gallery-image" />
         <div class="caption">
         A burrowing animal? St. John's Island, Aug 08
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/170114tkko1130187.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/170114tkko1130187.jpg" alt="Bite marks - made by fishes? Pulau Tekukor, Jan 17" class="gallery-image" />
         <div class="caption">
         Bite marks - made by fishes? Pulau Tekukor, Jan 17
         </div>
@@ -366,27 +525,80 @@ feeds on the coral.</p>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p><strong>Corals in distress:</strong>
 Sometimes, the coral may be seen with a layer of slime, peeling off. This might be a sign of distress, e.g., an effort by polyps to rid themselves of pollutants. During mass coral bleaching, recently dead portions of the colony turn grey and smell bad (like rotting fish).</p>
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/100528tkkd3682m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/100528tkkd3682m3.jpg" alt="Pulau Tekukor, May 10 Layer of slime peeling off." class="gallery-image" />
         <div class="caption">
         Pulau Tekukor, May 10 Layer of slime peeling off.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/100909tmd0869m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/100909tmd0869m3.jpg" alt="Tanah Merah, Sep 10 Layer of slime peeling off." class="gallery-image" />
         <div class="caption">
         Tanah Merah, Sep 10 Layer of slime peeling off.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/100710sisd8003m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/100710sisd8003m3.jpg" alt="Sisters Island, Jul 10 Diseased coral after coral bleaching." class="gallery-image" />
         <div class="caption">
         Sisters Island, Jul 10 Diseased coral after coral bleaching.
         </div>
@@ -394,6 +606,59 @@ Sometimes, the coral may be seen with a layer of slime, peeling off. This might 
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p>It’s hard to distinguish the different species of pore corals without close examination. On this website, they are grouped into
 <a href="porbranch">branching pore corals</a>
 and
@@ -406,21 +671,21 @@ While a few species are listed as Vulnerable and Near Threatened, for most there
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porbranch/070221kusd8248m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porbranch/070221kusd8248m3.jpg" alt="Branching pore coral" class="gallery-image" />
         <div class="caption">
         Branching pore coral
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porbranch/050113sntd9742m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porbranch/050113sntd9742m3.jpg" alt="Branching pore coral" class="gallery-image" />
         <div class="caption">
         Branching pore coral
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/060102sisg3684m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/060102sisg3684m3.jpg" alt="Boulder pore coral" class="gallery-image" />
         <div class="caption">
         Boulder pore coral
         </div>
@@ -428,6 +693,60 @@ While a few species are listed as Vulnerable and Near Threatened, for most there
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong><em>Porites</em>

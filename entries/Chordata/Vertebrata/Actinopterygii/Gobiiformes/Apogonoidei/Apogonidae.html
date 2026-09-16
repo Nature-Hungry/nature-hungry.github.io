@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -315,21 +313,21 @@ Cardinalfishes belong to Family Apogonidae. According to
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/apogonidae/margaritophorus/031125hntad0022m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/apogonidae/margaritophorus/031125hntad0022m3.jpg" alt="Sometimes found in groups. Pulau Hantu, Nov 03" class="gallery-image" />
         <div class="caption">
         Sometimes found in groups. Pulau Hantu, Nov 03
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/apogonidae/margaritophorus/111029smkd3106m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/apogonidae/margaritophorus/111029smkd3106m3b.jpg" alt="Brooding eggs in the mouth. Pulau Semakau, Oct 11" class="gallery-image" />
         <div class="caption">
         Brooding eggs in the mouth. Pulau Semakau, Oct 11
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/apogonidae/margaritophorus/111029smkd3110m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/apogonidae/margaritophorus/111029smkd3110m3.jpg" alt="Brooding young in the mouth. Pulau Semakau, Oct 11" class="gallery-image" />
         <div class="caption">
         Brooding young in the mouth. Pulau Semakau, Oct 11
         </div>
@@ -337,6 +335,60 @@ Cardinalfishes belong to Family Apogonidae. According to
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p><strong>Cardinalfish babies:</strong>
 Cardinalfishes are mouth brooders. The fertilised egg mass is kept in the mouth until they hatch in several days’ time. Usually it is the male that undertakes this task, but in some species both the male and female do this.
 <strong>What do they eat?</strong>
@@ -357,21 +409,21 @@ As a group they eat a wide variety from small fishes, crabs, prawns and other ti
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/apogonidae/margaritophorus/060130hntg4314m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/apogonidae/margaritophorus/060130hntg4314m3.jpg" alt="Chequered cardinalfish" class="gallery-image" />
         <div class="caption">
         Chequered cardinalfish
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/apogonidae/candystripe/110506tmftd0831.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/apogonidae/candystripe/110506tmftd0831.jpg" alt="Candystripe cardinalfish" class="gallery-image" />
         <div class="caption">
         Candystripe cardinalfish
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/apogonidae/candystripe/100528tkkd3753m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/apogonidae/candystripe/100528tkkd3753m3.jpg" alt="Candystripe cardinalfish" class="gallery-image" />
         <div class="caption">
         Candystripe cardinalfish
         </div>
@@ -379,19 +431,73 @@ As a group they eat a wide variety from small fishes, crabs, prawns and other ti
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/apogonidae/orbicularis/040830hntd5831m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/apogonidae/orbicularis/040830hntd5831m3.jpg" alt="Orbicular cardinalfish" class="gallery-image" />
         <div class="caption">
         Orbicular cardinalfish
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/apogonidae/melas/100810sngd9986m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/apogonidae/melas/100810sngd9986m3.jpg" alt="Black cardinalfish" class="gallery-image" />
         <div class="caption">
         Black cardinalfish
         </div>
@@ -399,6 +505,60 @@ As a group they eat a wide variety from small fishes, crabs, prawns and other ti
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong>Family Apogonidae recorded for Singapore</strong>

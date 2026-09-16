@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -317,21 +315,21 @@ The mud lobster plays a key role in sustaining life in a mangrove. It is believe
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/lobster/thalassina/011114cjd689m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/lobster/thalassina/011114cjd689m3.jpg" alt="Chek Jawa, Nov 01" class="gallery-image" />
         <div class="caption">
         Chek Jawa, Nov 01
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/lobster/thalassina/120314cjd7720m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/lobster/thalassina/120314cjd7720m3.jpg" alt="Fresh mud from a mound suggests an active mud lobster deep underground. Chek Jawa, Mar 12" class="gallery-image" />
         <div class="caption">
         Fresh mud from a mound suggests an active mud lobster deep underground. Chek Jawa, Mar 12
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/lobster/thalassina/m321c.gif" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/lobster/thalassina/m321c.gif" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
@@ -339,6 +337,60 @@ The mud lobster plays a key role in sustaining life in a mangrove. It is believe
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p><strong>Mud lobster ‘Condo’:</strong>
 A mud lobster mound can be as tall as 2m above the ground! The mud lobster mound is drier than its surroundings so it makes a perfect home for other animals. Many animals can be found in living in these ‘high-rise’ mounds, creating their own burrows in the mound, sometimes complete with chimneys. ‘Condo’ dwellers include
 <a href="../../../../vertebrates/snakes/granulatus">snakes</a>
@@ -353,21 +405,21 @@ also appear to grow better on these mounds. The condominium comes complete with 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/lobster/thalassina/081109cjtch01m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/lobster/thalassina/081109cjtch01m3.jpg" alt="Shared by Toh Chay Hoon on her flickr . Chek Jawa, Nov 08" class="gallery-image" />
         <div class="caption">
         Shared by Toh Chay Hoon on her flickr . Chek Jawa, Nov 08
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/lobster/thalassina/071008cjd6944m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/lobster/thalassina/071008cjd6944m3.jpg" alt="Mudlobster in its burrow. Chek Jawa, Oct 07" class="gallery-image" />
         <div class="caption">
         Mudlobster in its burrow. Chek Jawa, Oct 07
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/lobster/thalassina/090816sbwrd9070m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/lobster/thalassina/090816sbwrd9070m3.jpg" alt="Mangrove ferns growing on a mound. Sungei Buloh Wetland Reserve, Aug 09" class="gallery-image" />
         <div class="caption">
         Mangrove ferns growing on a mound. Sungei Buloh Wetland Reserve, Aug 09
         </div>
@@ -375,6 +427,59 @@ also appear to grow better on these mounds. The condominium comes complete with 
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <h2 id="human-uses">Human uses</h2>
 
 <p>Mud lobsters are eaten in some Pacific Islands such as Fiji. In our part of the world, they are considered a nuinsance by fish and prawn farmers as their digging activities undermine the bunds (raised edges of mud) that surround fish and prawn ponds.</p>
@@ -387,14 +492,14 @@ ike other creatures of the intertidal zone, they are affected by human activitie
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/lobster/thalassina/090612pndd4034m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/lobster/thalassina/090612pndd4034m3.jpg" alt="Mudlobster mounds Sungei Pandan, Jun 09" class="gallery-image" />
         <div class="caption">
         Mudlobster mounds Sungei Pandan, Jun 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/lobster/thalassina/091005cjd2220m6l.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/lobster/thalassina/091005cjd2220m6l.jpg" alt="Mudlobster mounds Chek Jawa, Oct 09" class="gallery-image" />
         <div class="caption">
         Mudlobster mounds Chek Jawa, Oct 09
         </div>
@@ -402,6 +507,60 @@ ike other creatures of the intertidal zone, they are affected by human activitie
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong>Mud lobsters on Singapore shores</strong></p>
@@ -424,14 +583,14 @@ for free download</li>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/lobster/thalassina/090829cjmn.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/lobster/thalassina/090829cjmn.jpg" alt="Chek Jawa, Aug 09 Shared by Marcus Ng on flickr ." class="gallery-image" />
         <div class="caption">
         Chek Jawa, Aug 09 Shared by Marcus Ng on flickr .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/lobster/thalassina/251213prprqo1.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/lobster/thalassina/251213prprqo1.jpg" alt="Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook ." class="gallery-image" />
         <div class="caption">
         Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
         </div>
@@ -439,12 +598,66 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://farm4.staticflickr.com/3491/3869824396_53c75a7ba7_z.jpg?zz=1" alt="" />
+        <img src="https://farm4.staticflickr.com/3491/3869824396_53c75a7ba7_z.jpg?zz=1" alt="Seen at Chek Jawa from the mangrove boardwalk on 29 Aug 09. Video clip shared by November on her flickr." class="gallery-image" />
         <div class="caption">
         Seen at Chek Jawa from the mangrove boardwalk on 29 Aug 09. Video clip shared by November on her flickr.
         </div>
@@ -452,6 +665,60 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 

@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -300,21 +298,21 @@ Operculum dark.</p>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/muricidae/capucinus/091019prpd2893m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/muricidae/capucinus/091019prpd2893m3.jpg" alt="Pasir Ris Park, Oct 09" class="gallery-image" />
         <div class="caption">
         Pasir Ris Park, Oct 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/muricidae/capucinus/091019prpd2895m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/muricidae/capucinus/091019prpd2895m3.jpg" alt="Pasir Ris Park, Oct 09" class="gallery-image" />
         <div class="caption">
         Pasir Ris Park, Oct 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/muricidae/capucinus/050327sbwrg3818m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/muricidae/capucinus/050327sbwrg3818m3.jpg" alt="Sungei Buloh, Mar 05" class="gallery-image" />
         <div class="caption">
         Sungei Buloh, Mar 05
         </div>
@@ -322,6 +320,60 @@ Operculum dark.</p>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p><strong>What does it eat?</strong>
 It eats a wide variety of prey from
 <a href="../..//wildfacts/guides/crustacea/crustacea/othercrust/ciriipedia/cirripedia">barnacles</a>
@@ -333,21 +385,21 @@ They are such voracious predators, that they exert a considerable influence over
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/muricidae/capucinus/110207krjd6090m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/muricidae/capucinus/110207krjd6090m3.jpg" alt="Kranji Nature Trail, Feb 11" class="gallery-image" />
         <div class="caption">
         Kranji Nature Trail, Feb 11
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/muricidae/capucinus/110207krjd6090m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/muricidae/capucinus/110207krjd6090m3a.jpg" alt="Egg capsules?" class="gallery-image" />
         <div class="caption">
         Egg capsules?
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/muricidae/capucinus/050809lckg1034.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/muricidae/capucinus/050809lckg1034.jpg" alt="Feeding on Little black mussels ? Lim Chu Kang, Aug 05" class="gallery-image" />
         <div class="caption">
         Feeding on Little black mussels ? Lim Chu Kang, Aug 05
         </div>
@@ -355,6 +407,60 @@ They are such voracious predators, that they exert a considerable influence over
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong>Mangrove murex on Singapore shores</strong></p>

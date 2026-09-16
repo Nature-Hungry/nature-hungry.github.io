@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -303,21 +301,21 @@ branching
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrowide/070618rlhg0608m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrowide/070618rlhg0608m3.jpg" alt="Some acropora coral form table-like colonies. Raffles Lighthouse, Jun 07" class="gallery-image" />
         <div class="caption">
         Some acropora coral form table-like colonies. Raffles Lighthouse, Jun 07
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrstumpy/051204sisg3229m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrstumpy/051204sisg3229m3.jpg" alt="Corallites with tentacles contracted. Sisters Island, Dec 05" class="gallery-image" />
         <div class="caption">
         Corallites with tentacles contracted. Sisters Island, Dec 05
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrelegant/080422smkd1440m3c.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrelegant/080422smkd1440m3c.jpg" alt="With the tentacles extended, the colony can appear &#39;furry&#39;. Pulau Semakau, Apr 08" class="gallery-image" />
         <div class="caption">
         With the tentacles extended, the colony can appear 'furry'. Pulau Semakau, Apr 08
         </div>
@@ -325,6 +323,60 @@ branching
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <h2 id="role-in-habitat">Role in habitat</h2>
 <p>Acropora corals are among the important building blocks of a reef. Together with
 <em>Montipora</em>
@@ -333,21 +385,21 @@ species, also members of the Family Acroporidae, acropora corals account for one
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acropora/050309smkd1518m3c.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acropora/050309smkd1518m3c.jpg" alt="Producing mucus to protect themselves. Pulau Semakau, Mar 05" class="gallery-image" />
         <div class="caption">
         Producing mucus to protect themselves. Pulau Semakau, Mar 05
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acropora/190220smkm3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acropora/190220smkm3.jpg" alt="The coral turns pink when stressed. Pulau Semakau, Feb 19" class="gallery-image" />
         <div class="caption">
         The coral turns pink when stressed. Pulau Semakau, Feb 19
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrstumpy/080519sisd3399m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrstumpy/080519sisd3399m3a.jpg" alt="Coral scallop Sisters Island, May 08" class="gallery-image" />
         <div class="caption">
         Coral scallop Sisters Island, May 08
         </div>
@@ -356,24 +408,77 @@ species, also members of the Family Acroporidae, acropora corals account for one
 
 </div>
 
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/coralliocaris/100529kuslks1m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/shrimp/coralliocaris/100529kuslks1m3.jpg" alt="Machine gun shrimp Kusu Island, Jun 10 Photo shared by Loh Kok Sheng on his blog ." class="gallery-image" />
         <div class="caption">
         Machine gun shrimp Kusu Island, Jun 10 Photo shared by Loh Kok Sheng on his blog .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acropora/060305sisd0062m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acropora/060305sisd0062m3.jpg" alt="Bandit coral crab Sisters Islands, Mar 06" class="gallery-image" />
         <div class="caption">
         Bandit coral crab Sisters Islands, Mar 06
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/histrio/051204sisg3318m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/gobiidae/histrio/051204sisg3318m3a.jpg" alt="Acropora goby Sisters Islands, Dec 05" class="gallery-image" />
         <div class="caption">
         Acropora goby Sisters Islands, Dec 05
         </div>
@@ -381,6 +486,60 @@ species, also members of the Family Acroporidae, acropora corals account for one
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <h2 id="human-uses">Human uses</h2>
 
 <p>Acropora corals are popular in the live aquarium trade and wild colonies are often taken from the natural reefs to supply this demand. Efforts to breed and raise acropora corals have been successful and it is hoped this supply will reduce collection from the wild. Although captive bred acropora corals are healthier and easier to care for than wild collected specimens, captive bred corals are more expensive.</p>
@@ -397,21 +556,21 @@ While a few species are listed as Endangered and Vulnerable, for most there is i
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrelegant/070704jngg1275m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrelegant/070704jngg1275m3.jpg" alt="Elegant acropora coral" class="gallery-image" />
         <div class="caption">
         Elegant acropora coral
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrtubular/110323tsmkd7657m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrtubular/110323tsmkd7657m3.jpg" alt="Tubular acropora coral" class="gallery-image" />
         <div class="caption">
         Tubular acropora coral
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrstaghorn/070618rlhg0582m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrstaghorn/070618rlhg0582m3.jpg" alt="Staghorn acropora coral" class="gallery-image" />
         <div class="caption">
         Staghorn acropora coral
         </div>
@@ -419,26 +578,80 @@ While a few species are listed as Endangered and Vulnerable, for most there is i
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrpinecone/060713rlhd4272m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrpinecone/060713rlhd4272m3.jpg" alt="Pinecone acropora coral" class="gallery-image" />
         <div class="caption">
         Pinecone acropora coral
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrstumpy/070406hntg8468m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrstumpy/070406hntg8468m3.jpg" alt="Stumpy acropora coral" class="gallery-image" />
         <div class="caption">
         Stumpy acropora coral
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrstumpy/051204sisg3320m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrstumpy/051204sisg3320m3.jpg" alt="Stumpy acropora coral" class="gallery-image" />
         <div class="caption">
         Stumpy acropora coral
         </div>
@@ -446,6 +659,60 @@ While a few species are listed as Endangered and Vulnerable, for most there is i
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><a href="https://vimeo.com/11080686">Acropora coral @ Pulau Hantu 17Apr2010</a>
@@ -460,7 +727,7 @@ on
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://farm1.staticflickr.com/507/19455986182_c73bb99065_z.jpg" alt="" />
+        <img src="https://farm1.staticflickr.com/507/19455986182_c73bb99065_z.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
@@ -468,6 +735,60 @@ on
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong><em>Acropora</em>

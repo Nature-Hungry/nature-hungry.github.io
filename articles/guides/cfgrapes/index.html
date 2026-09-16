@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -247,63 +245,63 @@
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/lentillifera/090513labd1640m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/lentillifera/090513labd1640m3a.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/racemosa/110715cyrd6601m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/racemosa/110715cyrd6601m3.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/bell/080510smkd3075m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/bell/080510smkd3075m3.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/lentillifera/100403tbbd0650m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/lentillifera/100403tbbd0650m3.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/racemosa/110715cyrd6602m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/racemosa/110715cyrd6602m3a.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/bell/080605hntd4974m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/bell/080605hntd4974m3b.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/lentillifera/100519tsmc4126m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/lentillifera/100519tsmc4126m3a.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/racemosa/050625labd4351m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/racemosa/050625labd4351m3a.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/bell/080605hntd4974m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/bell/080605hntd4974m3.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
@@ -311,6 +309,60 @@
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong>More comparisons</strong></p>
@@ -320,21 +372,21 @@
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/lentillifera/120819cyrd0463m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/lentillifera/120819cyrd0463m3.jpg" alt="Oval green seaweed (left) and Round sea grapes (right)" class="gallery-image" />
         <div class="caption">
         Oval green seaweed (left) and Round sea grapes (right)
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/peltata/100627hntd7284m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/peltata/100627hntd7284m3a.jpg" alt="Parasol green seaweed Caulerpa peltata" class="gallery-image" />
         <div class="caption">
         Parasol green seaweed Caulerpa peltata
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/peltatasmall/070615sntrg0283m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/peltatasmall/070615sntrg0283m3a.jpg" alt="Small parasol green seaweed Caulerpa racemosa var peltata" class="gallery-image" />
         <div class="caption">
         Small parasol green seaweed Caulerpa racemosa var peltata
         </div>
@@ -342,26 +394,80 @@
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/boergesenia/041019labd7671m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/boergesenia/041019labd7671m3.jpg" alt="Bubble green seaweed Boergesenia forbesii" class="gallery-image" />
         <div class="caption">
         Bubble green seaweed Boergesenia forbesii
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/valonia/070615sntrg0285m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/valonia/070615sntrg0285m3b.jpg" alt="Beaded cushion green seaweed Valonia sp." class="gallery-image" />
         <div class="caption">
         Beaded cushion green seaweed Valonia sp.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/bornetella/050509hntg6001m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seaweed/chlorophyta/bornetella/050509hntg6001m3.jpg" alt="Green sea sausage seaweed Bornetella sp." class="gallery-image" />
         <div class="caption">
         Green sea sausage seaweed Bornetella sp.
         </div>
@@ -369,6 +475,60 @@
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 
 
         

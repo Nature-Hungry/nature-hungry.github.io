@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -297,21 +295,21 @@ as sea anemones. But while true sea anemones belong to
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/others/zoanthid/various/050312hntg3349m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/others/zoanthid/various/050312hntg3349m3a.jpg" alt="Two kinds of zoanthids Pulau Hantu, Mar 05" class="gallery-image" />
         <div class="caption">
         Two kinds of zoanthids Pulau Hantu, Mar 05
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/others/zoanthid/various/070518tkrg9365m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/others/zoanthid/various/070518tkrg9365m3.jpg" alt="Two kinds of zoanthids Pulau Tekukor, May 07" class="gallery-image" />
         <div class="caption">
         Two kinds of zoanthids Pulau Tekukor, May 07
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/others/zoanthid/mutuki/100711cyrd8239m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/others/zoanthid/mutuki/100711cyrd8239m3a.jpg" alt="Body column with oral disk edged with short tentacles. Cyrene Reef, Jul 10" class="gallery-image" />
         <div class="caption">
         Body column with oral disk edged with short tentacles. Cyrene Reef, Jul 10
         </div>
@@ -319,6 +317,60 @@ as sea anemones. But while true sea anemones belong to
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p>Zoanthids may have three different living arrangements. Each zoanthid polyp may be solitary but located near one another. These polyps are large with thick, fleshy polyps on tall columns. Or the zoanthid polyps are joined to one another by stolons (tube-like structures that spread across the ground like a root or runner). Or the zoanthid polyps may be embedded in a common mat of tissue. The tissue may be strengthened by incorporating sand. The colony may form mats on the sand or encrust rocky areas.</p>
 
 <p>The shape of the same zoanthid species may vary depending on where they are found. Those inhabiting areas with strong waves tend to be short and hug the surface. Others found in deeper, calmer waters are taller, with longer tentacles.</p>
@@ -338,21 +390,21 @@ and other blob-like animals. Here’s more on
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/others/zoanthid/zoanthus/050526cj6886m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/others/zoanthid/zoanthus/050526cj6886m3.jpg" alt="Sometimes packed so tightly that they are mistaken for hard corals . Chek Jawa, May 05" class="gallery-image" />
         <div class="caption">
         Sometimes packed so tightly that they are mistaken for hard corals . Chek Jawa, May 05
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/others/zoanthid/mutuki/050822cjd5877m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/others/zoanthid/mutuki/050822cjd5877m3.jpg" alt="At low tide with their tentacles retracted they look like a clump of sausages. Chek Jawa, Aug 05" class="gallery-image" />
         <div class="caption">
         At low tide with their tentacles retracted they look like a clump of sausages. Chek Jawa, Aug 05
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/others/zoanthid/tuberculosa/100613sngd5448m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/others/zoanthid/tuberculosa/100613sngd5448m3.jpg" alt="Sea mat zoanthids have polyps too, embedded in a shared tissue. Kusu Island, Oct 04" class="gallery-image" />
         <div class="caption">
         Sea mat zoanthids have polyps too, embedded in a shared tissue. Kusu Island, Oct 04
         </div>
@@ -360,6 +412,59 @@ and other blob-like animals. Here’s more on
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p><strong>Pretty Toxic :</strong>
 Although they look harmlessly pretty, some zoanthids contain powerful toxins to protect themselves against predators. The most toxic marine poison, palytoxin, was discovered in a zoanthid. Minute quantities of palytoxin can paralyse and even kill. So don’t handle zoanthids with open wounds on your hand or touch your mouth or eyes after handling them. It is believed that the toxins are not produced by the animal but by bacteria that live in symbiosis with the polyps.</p>
 
@@ -397,14 +502,14 @@ Zoanthids generally reproduce asexually: new polyps bud to enlarge the colony. H
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/others/zoanthid/tuberculosa/091204pawd5265m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/others/zoanthid/tuberculosa/091204pawd5265m3a.jpg" alt="Sea mat zoanthids ( Palythoa tuberculosa ) Polyps embedded in a shared mat of tissue." class="gallery-image" />
         <div class="caption">
         Sea mat zoanthids ( Palythoa tuberculosa ) Polyps embedded in a shared mat of tissue.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/others/zoanthid/mutuki/050708labg9179m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/others/zoanthid/mutuki/050708labg9179m3.jpg" alt="Broad zoanthids ( Palythoa mutuki ) Polyps with broad oral disk and long body column." class="gallery-image" />
         <div class="caption">
         Broad zoanthids ( Palythoa mutuki ) Polyps with broad oral disk and long body column.
         </div>
@@ -412,19 +517,73 @@ Zoanthids generally reproduce asexually: new polyps bud to enlarge the colony. H
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/others/zoanthid/zoanthus/040804skdd4111m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/others/zoanthid/zoanthus/040804skdd4111m3b.jpg" alt="Button zoanthids ( Zoanthus sp.) Polyps with small oral disk and long body column." class="gallery-image" />
         <div class="caption">
         Button zoanthids ( Zoanthus sp.) Polyps with small oral disk and long body column.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/others/zoanthid/pink/100130brkd8486m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/others/zoanthid/pink/100130brkd8486m3a.jpg" alt="Pink button zoanthids ( Zoanthus vietnamensis ) Polyps with pink edges at the top of the body column, more obvious in retracted polyp." class="gallery-image" />
         <div class="caption">
         Pink button zoanthids ( Zoanthus vietnamensis ) Polyps with pink edges at the top of the body column, more obvious in retracted polyp.
         </div>
@@ -432,6 +591,60 @@ Zoanthids generally reproduce asexually: new polyps bud to enlarge the colony. H
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong>Order Zoanthidea recorded for Singapore</strong></p>

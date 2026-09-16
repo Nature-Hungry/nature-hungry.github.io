@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -323,21 +321,21 @@ trees blooming at the same time.</p>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/mangrove/avicennia/officinalis/090413blyd9961m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/mangrove/avicennia/officinalis/090413blyd9961m3.jpg" alt="Seedling starting to grow. Berlayar Creek, Apr 09" class="gallery-image" />
         <div class="caption">
         Seedling starting to grow. Berlayar Creek, Apr 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/mangrove/avicennia/officinalis/090517ubnd1980m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/mangrove/avicennia/officinalis/090517ubnd1980m3a.jpg" alt="Large flowers, crowded together. Pulau Ubin, May 09" class="gallery-image" />
         <div class="caption">
         Large flowers, crowded together. Pulau Ubin, May 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/mangrove/avicennia/officinalis/030817cjd0005m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/mangrove/avicennia/officinalis/030817cjd0005m3.jpg" alt="Fruits rounded with pointed tip. Chek Jawa, Aug 03" class="gallery-image" />
         <div class="caption">
         Fruits rounded with pointed tip. Chek Jawa, Aug 03
         </div>
@@ -345,26 +343,80 @@ trees blooming at the same time.</p>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/mangrove/avicennia/officinalis/090214sbwrd7157m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/mangrove/avicennia/officinalis/090214sbwrd7157m3.jpg" alt="Salt crystals on upper surface in hot weather. Sungei Buloh Wetland Reserve, Feb 09" class="gallery-image" />
         <div class="caption">
         Salt crystals on upper surface in hot weather. Sungei Buloh Wetland Reserve, Feb 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/mangrove/avicennia/officinalis/030817cjd0012m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/mangrove/avicennia/officinalis/030817cjd0012m3.jpg" alt="Pollinated by flies? Chek Jawa, Aug 03" class="gallery-image" />
         <div class="caption">
         Pollinated by flies? Chek Jawa, Aug 03
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/mangrove/avicennia/officinalis/090614ubnd4319m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/mangrove/avicennia/officinalis/090614ubnd4319m3a.jpg" alt="Pulau Ubin, Jun 09" class="gallery-image" />
         <div class="caption">
         Pulau Ubin, Jun 09
         </div>
@@ -372,6 +424,60 @@ trees blooming at the same time.</p>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong>Api-api ludat on Singapore shores</strong></p>

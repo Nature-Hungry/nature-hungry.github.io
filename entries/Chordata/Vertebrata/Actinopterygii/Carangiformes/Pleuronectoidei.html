@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -271,21 +269,21 @@ The adult flatfish is an ambush predator. It usually lies just beneath the sedim
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/soleidae/commersonnii/040120cjd0035m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/soleidae/commersonnii/040120cjd0035m3.jpg" alt="All that can be seen of the huge buried fish are its eyes! Chek Jawa, Jan 04" class="gallery-image" />
         <div class="caption">
         All that can be seen of the huge buried fish are its eyes! Chek Jawa, Jan 04
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/pleuronectiformes/pleuronectiformes/050218sbwrd0715m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/pleuronectiformes/pleuronectiformes/050218sbwrd0715m3.jpg" alt="The underside is usually pale and unmarked." class="gallery-image" />
         <div class="caption">
         The underside is usually pale and unmarked.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/pleuronectiformes/pleuronectiformes/050218sbwrd0715m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/pleuronectiformes/pleuronectiformes/050218sbwrd0715m3a.jpg" alt="The pectoral fin on the underside is usually reduced. The mouth on the underside may bristle with tentacles and teeth!" class="gallery-image" />
         <div class="caption">
         The pectoral fin on the underside is usually reduced. The mouth on the underside may bristle with tentacles and teeth!
         </div>
@@ -293,20 +291,74 @@ The adult flatfish is an ambush predator. It usually lies just beneath the sedim
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p><strong>Single-sided Fish:</strong>
 Flatfishes undergo an amazing change as they grow up. When it first hatches, a flatfish larva looks like the larva of other ‘normal’ fish. As the larva matures, it starts to swim on one side of its body. One eye moves to what becomes the upperside, also called the eyed side. The mouth and one pectoral fin also becomes asymmetrically distorted. There are also changes in the skeleton and digestive system. The change may be completed within five days.</p>
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/pleuronectiformes/pleuronectiformes/201019sjivc4.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/pleuronectiformes/pleuronectiformes/201019sjivc4.jpg" alt="Juvenile flatfish. St John&#39;s Island, Oct 20 Photo shared by Vincent Choo on facebook ." class="gallery-image" />
         <div class="caption">
         Juvenile flatfish. St John's Island, Oct 20 Photo shared by Vincent Choo on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/soleidae/110505tmnbd0602.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/soleidae/110505tmnbd0602.jpg" alt="Unidentified juvenile Sole? Tanah Merah, May 11" class="gallery-image" />
         <div class="caption">
         Unidentified juvenile Sole? Tanah Merah, May 11
         </div>
@@ -314,6 +366,59 @@ Flatfishes undergo an amazing change as they grow up. When it first hatches, a f
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p><strong>Roving eye:</strong>
 If the right eye migrates to the left side, the flatfish is left-eyed (sinistral). If the left eye migrates to the right side, the fish is right-eyed (dextral). Left-eyed flatfish include the Family Paralichthyidae (lefteye flounders). Right-eyed flatfish include the Family Pleuronectidae (righteye flounders); Family Soleidae (true soles) and Family Cynoglossidae (tongue-soles). Here’s more on
 <a href="pleuronectiformes1">how to tell apart flatfish families</a>
@@ -332,21 +437,21 @@ commonly seen on our shores.</p>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/soleidae/commersonnii/050818cftg1401m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/soleidae/commersonnii/050818cftg1401m3.jpg" alt="Commerson&#39;s sole" class="gallery-image" />
         <div class="caption">
         Commerson's sole
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cynoglossidae/cynoglossidae/050429cftg5340m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cynoglossidae/cynoglossidae/050429cftg5340m3.jpg" alt="Tongue-sole" class="gallery-image" />
         <div class="caption">
         Tongue-sole
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/soleidae/pavoninus/050722cjg9806m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/soleidae/pavoninus/050722cjg9806m3.jpg" alt="Peacock sole" class="gallery-image" />
         <div class="caption">
         Peacock sole
         </div>
@@ -354,26 +459,80 @@ commonly seen on our shores.</p>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/paralichthyidae/paralichthyidae/050917smkg2477m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/paralichthyidae/paralichthyidae/050917smkg2477m3.jpg" alt="Large-tooth flounder" class="gallery-image" />
         <div class="caption">
         Large-tooth flounder
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/bothidae/polyophthalmus/080509cyrd2745m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/bothidae/polyophthalmus/080509cyrd2745m3.jpg" alt="Three-spot flounder" class="gallery-image" />
         <div class="caption">
         Three-spot flounder
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/soleidae/orientalis/090623ecpd4978m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/soleidae/orientalis/090623ecpd4978m3.jpg" alt="Oriental sole" class="gallery-image" />
         <div class="caption">
         Oriental sole
         </div>
@@ -381,26 +540,80 @@ commonly seen on our shores.</p>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/soleidae/ovata/050511cftg6220m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/soleidae/ovata/050511cftg6220m3.jpg" alt="Ovate sole" class="gallery-image" />
         <div class="caption">
         Ovate sole
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/psettodidae/erumei/090622chgd4715m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/psettodidae/erumei/090622chgd4715m3.jpg" alt="Indian halibut" class="gallery-image" />
         <div class="caption">
         Indian halibut
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/soleidae/zebra/100612chgd5283m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/soleidae/zebra/100612chgd5283m3.jpg" alt="Zebra sole" class="gallery-image" />
         <div class="caption">
         Zebra sole
         </div>
@@ -408,6 +621,60 @@ commonly seen on our shores.</p>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong>Order Pleuronectiformes recorded for Singapore</strong>

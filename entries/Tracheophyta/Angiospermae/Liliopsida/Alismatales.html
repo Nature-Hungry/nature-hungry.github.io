@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -313,7 +311,9 @@ to apart seagrasses and green seaweeds</a>.</p>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seagrass/ovalis/020714cjd3111m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seagrass/ovalis/020714cjd3111m3a.jpg" alt="Seagrass leaves have veins.
+Chek Jawa, Jul 02
+" class="gallery-image" />
         <div class="caption">
         <p>Seagrass leaves have veins.</p>
 <p>Chek Jawa, Jul 02</p>
@@ -322,7 +322,8 @@ to apart seagrasses and green seaweeds</a>.</p>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seagrass/halodule/050822cjg2120m3c.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seagrass/halodule/050822cjg2120m3c.jpg" alt="Seagrass have underground stems with rootsChek Jawa, Aug 05
+" class="gallery-image" />
         <div class="caption">
         <p>Seagrass have underground stems with roots</p><p>Chek Jawa, Aug 05</p>
 
@@ -330,7 +331,8 @@ to apart seagrasses and green seaweeds</a>.</p>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seagrass/spinulosa/050623cjd4106m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seagrass/spinulosa/050623cjd4106m3.jpg" alt="Fern seagrass has a leaf made up of little leaflets Chek Jawa, Jun 05
+" class="gallery-image" />
         <div class="caption">
         <p><a href="spinulosa">Fern seagrass</a> has a leaf made up of little leaflets</p><p> Chek Jawa, Jun 05</p>
 
@@ -339,6 +341,59 @@ to apart seagrasses and green seaweeds</a>.</p>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 
 <p><strong>Seagrass flowers:</strong> Seagrass flowers are usually small and inconspicuous.
 Water plays a big role in pollination.
@@ -363,7 +418,9 @@ on the seagrasses.</p>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seagrass/ovalis/050428cftg5289m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seagrass/ovalis/050428cftg5289m3.jpg" alt="Flowering Spoon seagrass?
+Changi, Apr 05
+" class="gallery-image" />
         <div class="caption">
         <p>Flowering <a href="ovalis">Spoon seagrass</a>?</p>
 <p>Changi, Apr 05</p>
@@ -372,7 +429,9 @@ on the seagrasses.</p>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seagrass/enhalus/050310smkg3174m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seagrass/enhalus/050310smkg3174m3.jpg" alt="Female flower of Tape seagrass with tiny male flowers in the centre.
+Pulau Semakau, Mar 05
+" class="gallery-image" />
         <div class="caption">
         <p>Female flower of <a href="enhalus">Tape seagrass</a> with tiny male flowers in the centre.</p>
 <p>Pulau Semakau, Mar 05</p>
@@ -381,7 +440,8 @@ on the seagrasses.</p>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seagrass/thalassia/060228labg5266m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seagrass/thalassia/060228labg5266m3.jpg" alt="Flowers of the Sickle seagrass Labrador, Mar 06
+" class="gallery-image" />
         <div class="caption">
         <p>Flowers of the <a href="thalassia">Sickle seagrass</a> Labrador, Mar 06</p>
 
@@ -390,6 +450,59 @@ on the seagrasses.</p>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 
 <h2 id="role-of-seagrasses">Role of seagrasses</h2>
 <p>Seagrass meadows are a vital habitat that is often overlooked and loses out in media coverage to the more glamorous reefs.</p>
@@ -407,7 +520,9 @@ down</a>.</p>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/slugs/anaspidae/seagrass/100711cyrd8201m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/slugs/anaspidae/seagrass/100711cyrd8201m3.jpg" alt="The tiny seagrass sea hare is sometimes seen on Tape seagrass.
+Cyrene Reef, Jul 10
+" class="gallery-image" />
         <div class="caption">
         <p>The tiny <a href="../../mollusca/slugs/anaspidae/seagrass">seagrass sea hare</a> is sometimes seen on <a href="enhalus">Tape seagrass</a>.</p>
 <p>Cyrene Reef, Jul 10</p>
@@ -416,7 +531,9 @@ down</a>.</p>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seagrass/enhalus/080208hntd9427m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seagrass/enhalus/080208hntd9427m3a.jpg" alt="Small animals settle on Tape seagrass.
+Pulau Hantu, Feb 08
+" class="gallery-image" />
         <div class="caption">
         <p>Small animals settle on <a href="enhalus">Tape seagrass</a>.</p>
 <p>Pulau Hantu, Feb 08</p>
@@ -425,7 +542,9 @@ down</a>.</p>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/eggs/eggs/080722cyrd8262m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/eggs/eggs/080722cyrd8262m3.jpg" alt="Eggs laid on Tape seagrass.
+Cyrene Reef, Jul 08
+" class="gallery-image" />
         <div class="caption">
         <p>Eggs laid on <a href="enhalus">Tape seagrass</a>.</p>
 <p>Cyrene Reef, Jul 08</p>
@@ -435,6 +554,59 @@ down</a>.</p>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 
 <p>The <a href="http://startrackers.blogspot.com/2008/05/cyrene-reef-important-habitat-forl">Star
 Trackers</a> have noted that the seagrass meadows on Cyrene Reef are
@@ -456,7 +628,9 @@ are the <a href="../../../vertebrates/reptilia/seaturtle">sea turtles</a> such a
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seagrass/others/070120cjd7618m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seagrass/others/070120cjd7618m3.jpg" alt="A fresh dugong feeding trail!
+Chek Jawa, Jan 07
+" class="gallery-image" />
         <div class="caption">
         <p>A fresh dugong feeding trail!</p>
 <p>Chek Jawa, Jan 07</p>
@@ -465,7 +639,8 @@ are the <a href="../../../vertebrates/reptilia/seaturtle">sea turtles</a> such a
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seagrass/others/190523cyrm6l.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seagrass/others/190523cyrm6l.jpg" alt="Dugong feeding trails Cyrene Reef, May 19 
+" class="gallery-image" />
         <div class="caption">
         <p>Dugong feeding trails Cyrene Reef, May 19 </p>
 
@@ -474,6 +649,59 @@ are the <a href="../../../vertebrates/reptilia/seaturtle">sea turtles</a> such a
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 
 <p>However, seagrasses do provide food indirectly.
 Microscopic algae grow on their leaves and larger seaweeds get entangled among the seagrasses.
@@ -516,7 +744,9 @@ and thus the growth of seagrasses.</p>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seagrass/ovalis/1000619cjd6799m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seagrass/ovalis/1000619cjd6799m3.jpg" alt="Bleaching following oil spill in May 10.
+Chek Jawa, Jun 10
+" class="gallery-image" />
         <div class="caption">
         <p>Bleaching following oil spill in May 10.</p>
 <p>Chek Jawa, Jun 10</p>
@@ -525,7 +755,9 @@ and thus the growth of seagrasses.</p>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seagrass/ovalis/110509sntd1329m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seagrass/ovalis/110509sntd1329m3.jpg" alt="Bleaching, cause unknown.
+Sentosa, Apr 11
+" class="gallery-image" />
         <div class="caption">
         <p>Bleaching, cause unknown.</p>
 <p>Sentosa, Apr 11</p>
@@ -534,7 +766,9 @@ and thus the growth of seagrasses.</p>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/seagrass/ovalis/110509sntd1334m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/seagrass/ovalis/110509sntd1334m3.jpg" alt="Burnt, cause unknown.
+Sentosa, Apr 11
+" class="gallery-image" />
         <div class="caption">
         <p>Burnt, cause unknown.</p>
 <p>Sentosa, Apr 11</p>
@@ -544,6 +778,59 @@ and thus the growth of seagrasses.</p>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 
 <p>However, the most damaging impact to seagrasses is habitat loss due
 to land reclamation and development of our shores. Seagrasses grow

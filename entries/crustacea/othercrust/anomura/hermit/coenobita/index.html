@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -297,21 +295,21 @@
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/080222sntd0091m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/080222sntd0091m3.jpg" alt="Sentosa, Feb 08" class="gallery-image" />
         <div class="caption">
         Sentosa, Feb 08
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/080222sntd0091m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/080222sntd0091m3a.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/080222sntd0098m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/080222sntd0098m3a.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
@@ -319,6 +317,60 @@
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p><strong>What does it eat?</strong>
 The hermit crab is a scavenger and also eats plants. It may go far inland to forage. Sometimes, many are seen at night near the visitors’ huts on our offshore islands. Possibly looking for scraps left behind by visitors?</p>
 
@@ -328,21 +380,21 @@ Often, those seen are found in shells that are too small for the animal. The poo
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/080802sjid8711m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/080802sjid8711m3.jpg" alt="Some are very purple. St. John&#39;s Island, Aug 08" class="gallery-image" />
         <div class="caption">
         Some are very purple. St. John's Island, Aug 08
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/060102sisd6530m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/060102sisd6530m3.jpg" alt="Some have a dark patch on the outside of the left pincer. Sisters Islands, Jan 05" class="gallery-image" />
         <div class="caption">
         Some have a dark patch on the outside of the left pincer. Sisters Islands, Jan 05
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/060102sisd6545m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/060102sisd6545m3.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
@@ -350,6 +402,60 @@ Often, those seen are found in shells that are too small for the animal. The poo
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <h2 id="status-and-threats">Status and threats</h2>
 
 <p>Our land hermit crabs are listed as ‘Vulnerable’ on the Red List of threatened animals of Singapore. Singapore’s more accessible beaches are regularly cleaned of any debris that washes up on the high tide mark. But this is where land hermit crabs find shelter, food and new shells. Deprived of their habitat, these endearing animals are no longer commonly encountered on our beaches.</p>
@@ -359,7 +465,7 @@ Often, those seen are found in shells that are too small for the animal. The poo
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://live.staticflickr.com/1882/42821197550_e5e95d8ac1_z.jpg" alt="" />
+        <img src="https://live.staticflickr.com/1882/42821197550_e5e95d8ac1_z.jpg" alt="Pulau Tekukor, Sep 2018" class="gallery-image" />
         <div class="caption">
         Pulau Tekukor, Sep 2018
         </div>
@@ -367,6 +473,60 @@ Often, those seen are found in shells that are too small for the animal. The poo
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong>Land hermit crabs on Singapore shores</strong></p>
@@ -389,21 +549,21 @@ for free download</li>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/211207chgerk1.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/211207chgerk1.jpg" alt="Changi East (Lost Coast), Dec 21 Photo shared by Richard Kuah on facebook ." class="gallery-image" />
         <div class="caption">
         Changi East (Lost Coast), Dec 21 Photo shared by Richard Kuah on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/171008srglks2.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/171008srglks2.jpg" alt="Seringat-Kias, Oct 17 Photo shared by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         Seringat-Kias, Oct 17 Photo shared by Loh Kok Sheng on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/250430sjiml4.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/250430sjiml4.jpg" alt="St John&#39;s Island, Apr 25 Photo shared by Mathias Luk on facebook ." class="gallery-image" />
         <div class="caption">
         St John's Island, Apr 25 Photo shared by Mathias Luk on facebook .
         </div>
@@ -411,26 +571,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/250201bsisky4.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/250201bsisky4.jpg" alt="Big Sisters Island, Feb 25 Photo shared by Kelvin Yong on facebook ." class="gallery-image" />
         <div class="caption">
         Big Sisters Island, Feb 25 Photo shared by Kelvin Yong on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/250201bsisky5.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/250201bsisky5.jpg" alt="Big Sisters Island, Feb 25 Photo shared by Kelvin Yong on facebook ." class="gallery-image" />
         <div class="caption">
         Big Sisters Island, Feb 25 Photo shared by Kelvin Yong on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/251011ssistl5.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/251011ssistl5.jpg" alt="Small Sisters Island, Oct 25 Photo shared by Tammy Lim on facebook ." class="gallery-image" />
         <div class="caption">
         Small Sisters Island, Oct 25 Photo shared by Tammy Lim on facebook .
         </div>
@@ -438,26 +652,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/241019lazmn4.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/241019lazmn4.jpg" alt="Lazarus Island, Oct 24 Photo shared by Marcus Ng on facebook ." class="gallery-image" />
         <div class="caption">
         Lazarus Island, Oct 24 Photo shared by Marcus Ng on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/241019lazmn4a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/241019lazmn4a.jpg" alt="Lazarus Island, Oct 24 Photo shared by Marcus Ng on facebook ." class="gallery-image" />
         <div class="caption">
         Lazarus Island, Oct 24 Photo shared by Marcus Ng on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/110220lazro2m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/110220lazro2m3.jpg" alt="Lazarus Island, Feb 11 Photo shared by Rene Ong on facebook ." class="gallery-image" />
         <div class="caption">
         Lazarus Island, Feb 11 Photo shared by Rene Ong on facebook .
         </div>
@@ -465,26 +733,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/110421jngrl1m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/110421jngrl1m3.jpg" alt="Pulau Jong, Apr 11 Photo shared by Russel Low on facebook ." class="gallery-image" />
         <div class="caption">
         Pulau Jong, Apr 11 Photo shared by Russel Low on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/150422jngnml2m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/150422jngnml2m3.jpg" alt="Pulau Jong, Apr 15 Photo shared by Marcus Ng on facebook ." class="gallery-image" />
         <div class="caption">
         Pulau Jong, Apr 15 Photo shared by Marcus Ng on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/091204pawd5419m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/091204pawd5419m3.jpg" alt="Pulau Pawai, Dec 09" class="gallery-image" />
         <div class="caption">
         Pulau Pawai, Dec 09
         </div>
@@ -492,6 +814,60 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong>Family Coenobitidae recorded for Singapore</strong>

@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -280,21 +278,21 @@
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/labridae/pteragogus/080409tusd0842m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/labridae/pteragogus/080409tusd0842m3.jpg" alt="Well camouflaged! Tuas, Apr 08" class="gallery-image" />
         <div class="caption">
         Well camouflaged! Tuas, Apr 08
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/labridae/dussumieri/091206tmd5769m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/labridae/dussumieri/091206tmd5769m3.jpg" alt="Often half buried in the sand. Pulau Sekudu, Apr 06" class="gallery-image" />
         <div class="caption">
         Often half buried in the sand. Pulau Sekudu, Apr 06
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/labridae/dussumieri/060429skdd1373m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/labridae/dussumieri/060429skdd1373m3.jpg" alt="Seen from above. Pulau Sekudu, Apr 06" class="gallery-image" />
         <div class="caption">
         Seen from above. Pulau Sekudu, Apr 06
         </div>
@@ -302,6 +300,60 @@
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p><strong>Wrasse food:</strong>
 Most wrasses are carnivorous predators and eat small crustaceans, snails and worms. Most wrasses have thick lips and sharp canine teeth that stick out. Mostly solitary hunters, they can be aggressive towards others of their own kind. Some wrasses may also scavange. Some eat plankton, and a few eat parasites off larger fish (see below). Many are sand burrowers.</p>
 
@@ -313,14 +365,14 @@ Wrasses can change their gender! Most wrasses grow to become females first. A fe
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/labridae/dussumieri/160608cyrlks6a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/labridae/dussumieri/160608cyrlks6a.jpg" alt="Caught by a Carpet eel-blenny . Cyrene Reef, Jun 16 Photo shared by Loh Kok Sheng on his blog ." class="gallery-image" />
         <div class="caption">
         Caught by a Carpet eel-blenny . Cyrene Reef, Jun 16 Photo shared by Loh Kok Sheng on his blog .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/labridae/anchorago/170128smkso1280222m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/labridae/anchorago/170128smkso1280222m3.jpg" alt="Often seen in abandoned nets and traps. Pulau Semakau, Jan 17" class="gallery-image" />
         <div class="caption">
         Often seen in abandoned nets and traps. Pulau Semakau, Jan 17
         </div>
@@ -328,6 +380,59 @@ Wrasses can change their gender! Most wrasses grow to become females first. A fe
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <h2 id="human-uses">Human uses</h2>
 
 <p>Being colourful and lively, wrasses of various kinds are extensively harvested from the wild for the live aquarium trade. Some large ones are harvested as food. The Napolean wrasse (<em>Cheilinus undulatus</em>) is a large fish that is being over-collected as a luxury food item for the Chinese market. These gentle, intelligent fishes can live for 50 years and reach up to 180kgs. Unsustainable harvesting of these fishes may doom them to extinction.</p>
@@ -347,21 +452,21 @@ Wrasses can change their gender! Most wrasses grow to become females first. A fe
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/labridae/bicolor/140811tryd8448m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/labridae/bicolor/140811tryd8448m3.jpg" alt="Brown-striped wrasse" class="gallery-image" />
         <div class="caption">
         Brown-striped wrasse
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/labridae/dussumieri/050819cjg1629m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/labridae/dussumieri/050819cjg1629m3.jpg" alt="Diamond wrasse" class="gallery-image" />
         <div class="caption">
         Diamond wrasse
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/labridae/pteragogus/070421cyrg8905m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/labridae/pteragogus/070421cyrg8905m3.jpg" alt="Weedy wrasse" class="gallery-image" />
         <div class="caption">
         Weedy wrasse
         </div>
@@ -369,26 +474,80 @@ Wrasses can change their gender! Most wrasses grow to become females first. A fe
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/labridae/schoenleinii/050720sntg9598m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/labridae/schoenleinii/050720sntg9598m3.jpg" alt="Black-spot tuskfish" class="gallery-image" />
         <div class="caption">
         Black-spot tuskfish
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/labridae/anchorago/110418tmftd9074m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/labridae/anchorago/110418tmftd9074m3.jpg" alt="Anchor tuskfish" class="gallery-image" />
         <div class="caption">
         Anchor tuskfish
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/labridae/oligacanthus/170812cyrmna.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/labridae/oligacanthus/170812cyrmna.jpg" alt="Singapore tuskfish" class="gallery-image" />
         <div class="caption">
         Singapore tuskfish
         </div>
@@ -396,6 +555,60 @@ Wrasses can change their gender! Most wrasses grow to become females first. A fe
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong>Family Labridae recorded for Singapore</strong>

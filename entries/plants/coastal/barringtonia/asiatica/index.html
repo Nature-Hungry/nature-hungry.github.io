@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -311,35 +309,35 @@
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/coastal/barringtonia/asiatica/090410ubnd9434m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/coastal/barringtonia/asiatica/090410ubnd9434m3.jpg" alt="Bark pinkish grey." class="gallery-image" />
         <div class="caption">
         Bark pinkish grey.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/coastal/barringtonia/asiatica/070803cjd5053m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/coastal/barringtonia/asiatica/070803cjd5053m3b.jpg" alt="Young leaves pinkish." class="gallery-image" />
         <div class="caption">
         Young leaves pinkish.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/coastal/barringtonia/asiatica/020120sbwrcp5221m6.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/coastal/barringtonia/asiatica/020120sbwrcp5221m6.jpg" alt="Sungei Buloh Wetland Reserve, Jan 02" class="gallery-image" />
         <div class="caption">
         Sungei Buloh Wetland Reserve, Jan 02
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/coastal/barringtonia/asiatica/030910sbwrad0078m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/coastal/barringtonia/asiatica/030910sbwrad0078m3.jpg" alt="Showy pom-pom shaped flower." class="gallery-image" />
         <div class="caption">
         Showy pom-pom shaped flower.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/coastal/barringtonia/asiatica/090410ubnd9435m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/coastal/barringtonia/asiatica/090410ubnd9435m3.jpg" alt="Squarish fruits that resemble lanterns." class="gallery-image" />
         <div class="caption">
         Squarish fruits that resemble lanterns.
         </div>
@@ -347,6 +345,60 @@
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p>Flowers very showy with four white petals and lots of fine, pink-tipped stamens forming a pom-pom shape (10-15cm). According to Corners “the buds beging to swell at noon, but the petals and stamens do not unfold until nearly sunset when the heavy perfume becomes noticeable”. By sunrise the next day, the entire circle of stamens and petals fall off the tree. Corners says, “The ring of stamens floating downstream and the stale perfume of the night used to be a morning feature of Malayan rivers”.</p>
 
 <p>According to Tomlinson, the night-blooming flowers are pollinated by night-flying animals. According to Hugh Tan, they are pollinated by bats. According to Corners, the flowers are “evidently pollinated by moths, attracted by the scent and hovering in front of the flowers and probing into them with long tongues, they dust the pollen on their bodies”.</p>

@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -297,21 +295,21 @@ When alive and moving around, the cowrie usually encloses its shell with its man
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/milliaris/040730skdd3368m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/milliaris/040730skdd3368m3.jpg" alt="When covered with the &#39;hairy&#39; mantle they are often mistaken for slugs Pulau Sekudu, Jul 04" class="gallery-image" />
         <div class="caption">
         When covered with the 'hairy' mantle they are often mistaken for slugs Pulau Sekudu, Jul 04
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/arabica/050625labg8705m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/arabica/050625labg8705m3.jpg" alt="The animal with tentacles and broad foot. Labrador, Jun 05" class="gallery-image" />
         <div class="caption">
         The animal with tentacles and broad foot. Labrador, Jun 05
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/errones/110123sisd5313m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/errones/110123sisd5313m3.jpg" alt="The &#39;toothed&#39; shell opening is only seen when the animal is completelyretracted. Changi, Jul 02" class="gallery-image" />
         <div class="caption">
         The 'toothed' shell opening is only seen when the animal is completelyretracted. Changi, Jul 02
         </div>
@@ -320,17 +318,70 @@ When alive and moving around, the cowrie usually encloses its shell with its man
 
 </div>
 
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/noid/090210tmd6904m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/noid/090210tmd6904m3.jpg" alt="A broken shell shows the internal structure of a typical cowrie." class="gallery-image" />
         <div class="caption">
         A broken shell shows the internal structure of a typical cowrie.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/noid/240212sjivc6.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/noid/240212sjivc6.jpg" alt="Young cowrie, has not developed &#39;teeth&#39; at the shell opening yet. St John&#39;s Island, Feb 24 Photo shared by Vincent Choo on facebook ." class="gallery-image" />
         <div class="caption">
         Young cowrie, has not developed 'teeth' at the shell opening yet. St John's Island, Feb 24 Photo shared by Vincent Choo on facebook .
         </div>
@@ -338,6 +389,60 @@ When alive and moving around, the cowrie usually encloses its shell with its man
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p><strong>What do they eat?</strong>
 As a group, cowries eat a wide variety of things from algae,
 <a href="../../../../porifera/porifera">sponges</a>
@@ -349,14 +454,14 @@ The mother cowrie lays her eggs in a horny capsule attached to a hard surface by
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/ovum/031011cjd0069m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/ovum/031011cjd0069m3.jpg" alt="Eggs turn dark grey as they mature. Chek Jawa, Oct 03" class="gallery-image" />
         <div class="caption">
         Eggs turn dark grey as they mature. Chek Jawa, Oct 03
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/errones/100420sntd1507m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/errones/100420sntd1507m3.jpg" alt="Mama cowrie under a rock, protecting her egg mass with her foot. Sentosa, Apr 10" class="gallery-image" />
         <div class="caption">
         Mama cowrie under a rock, protecting her egg mass with her foot. Sentosa, Apr 10
         </div>
@@ -364,6 +469,59 @@ The mother cowrie lays her eggs in a horny capsule attached to a hard surface by
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <h2 id="human-uses">Human uses</h2>
 
 <p>Some cowries are popular in the live aquarium trade. Cowries are among the most harvested snails for the shell trade. In the past, they were traditionally collected for food. Some islanders use cowries to bait traps for octopus.</p>
@@ -387,21 +545,21 @@ The mother cowrie lays her eggs in a horny capsule attached to a hard surface by
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/errones/080604kusd4832m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/errones/080604kusd4832m3.jpg" alt="Wandering cowrie" class="gallery-image" />
         <div class="caption">
         Wandering cowrie
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/ovum/070602sjig9814m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/ovum/070602sjig9814m3.jpg" alt="Ovum cowrie" class="gallery-image" />
         <div class="caption">
         Ovum cowrie
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9817m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9817m3.jpg" alt="Four-spot cowrie" class="gallery-image" />
         <div class="caption">
         Four-spot cowrie
         </div>
@@ -409,26 +567,80 @@ The mother cowrie lays her eggs in a horny capsule attached to a hard surface by
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/milliaris/090818tmd9300m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/milliaris/090818tmd9300m3.jpg" alt="Miliaris cowrie" class="gallery-image" />
         <div class="caption">
         Miliaris cowrie
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/onyx/080604kusd4848m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/onyx/080604kusd4848m3.jpg" alt="Onyx cowrie" class="gallery-image" />
         <div class="caption">
         Onyx cowrie
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/walkeri/080722cyrd8279m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/walkeri/080722cyrd8279m3.jpg" alt="Walker&#39;s cowrie" class="gallery-image" />
         <div class="caption">
         Walker's cowrie
         </div>
@@ -436,26 +648,80 @@ The mother cowrie lays her eggs in a horny capsule attached to a hard surface by
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/pyriformis/060625bbd3472m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/pyriformis/060625bbd3472m3.jpg" alt="Pear-shaped cowrie" class="gallery-image" />
         <div class="caption">
         Pear-shaped cowrie
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/gracilis/130722skdd9913m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/gracilis/130722skdd9913m3.jpg" alt="Graceful cowrie" class="gallery-image" />
         <div class="caption">
         Graceful cowrie
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/saulae/130722skdd9948m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/saulae/130722skdd9948m3a.jpg" alt="Saul&#39;s cowrie" class="gallery-image" />
         <div class="caption">
         Saul's cowrie
         </div>
@@ -463,12 +729,66 @@ The mother cowrie lays her eggs in a horny capsule attached to a hard surface by
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/arabica/050625labg8698m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/arabica/050625labg8698m3.jpg" alt="Arabian cowrie" class="gallery-image" />
         <div class="caption">
         Arabian cowrie
         </div>
@@ -476,26 +796,80 @@ The mother cowrie lays her eggs in a horny capsule attached to a hard surface by
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/moneta/190621cyrvt1.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/moneta/190621cyrvt1.jpg" alt="Money cowrie" class="gallery-image" />
         <div class="caption">
         Money cowrie
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/tigris/130824smklks3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/tigris/130824smklks3.jpg" alt="Tiger cowrie" class="gallery-image" />
         <div class="caption">
         Tiger cowrie
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/vitellus/040829ssd5648m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/vitellus/040829ssd5648m3.jpg" alt="Milk-spotted cowrie" class="gallery-image" />
         <div class="caption">
         Milk-spotted cowrie
         </div>
@@ -503,6 +877,60 @@ The mother cowrie lays her eggs in a horny capsule attached to a hard surface by
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong>Family Cypraeidae recorded for Singapore</strong>

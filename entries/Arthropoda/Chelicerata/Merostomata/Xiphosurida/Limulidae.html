@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -335,21 +333,21 @@ The sharp tail of the horseshoe crab is is connected to the body in a ball-and-s
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/110320cjs07483m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/110320cjs07483m3.jpg" alt="Males have modified front legs to hold on to the female. Chek Jawa, Mar 11" class="gallery-image" />
         <div class="caption">
         Males have modified front legs to hold on to the female. Chek Jawa, Mar 11
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/110320cjs07484m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/110320cjs07484m3.jpg" alt="Females don&#39;t have modified front legs. Chek Jawa, Mar 11" class="gallery-image" />
         <div class="caption">
         Females don't have modified front legs. Chek Jawa, Mar 11
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/060627krjd3660m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/060627krjd3660m3.jpg" alt="Juvenile horseshoe crab. Kranji, Jun 08 Horseshoe crab eggs seen in sand. Mandai, Apr 11" class="gallery-image" />
         <div class="caption">
         Juvenile horseshoe crab. Kranji, Jun 08 Horseshoe crab eggs seen in sand. Mandai, Apr 11
         </div>
@@ -357,76 +355,130 @@ The sharp tail of the horseshoe crab is is connected to the body in a ball-and-s
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p><strong>Horsing around:</strong>
 Horseshoes mate during high spring tides when they can reach the highest part of the beach. The males are smaller and usually hitch a ride on the females using their specially adapted hooked first legs. Sometimes several males latch onto each other forming a chain on a female. The female digs a pit near the high water mark and lays about 200-300 eggs. The males release sperm over the eggs and the nest is covered. They may come back again at the next high tide and a female may lay a total of 2,000-30,000 eggs. In the US, migrating birds time their arrival to feed on this bonanza of horseshoe crab eggs. Eggs hatch at the next full moon when the tide is at its highest again. The hatchlings (called trilobite larvae) look like miniature adults but without tails, and are bright green! The larvae burrow into the sand and after a few moults begins to develop tails.</p>
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/050726chgg0358m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/050726chgg0358m3.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/arthropoda/limulidae/tachypleus/090428chgd0767m3e.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/arthropoda/limulidae/tachypleus/090428chgd0767m3e.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/050726chgg0358m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/050726chgg0358m3a.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/arthropoda/limulidae/tachypleus/090428chgd0767m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/arthropoda/limulidae/tachypleus/090428chgd0767m3b.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/050726chgg0361m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/050726chgg0361m3a.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/arthropoda/limulidae/tachypleus/071002chgd6898m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/arthropoda/limulidae/tachypleus/071002chgd6898m3b.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/050726chgg0358m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/050726chgg0358m3b.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/arthropoda/limulidae/tachypleus/090428chgd0767m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/arthropoda/limulidae/tachypleus/090428chgd0767m3a.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/050726chgg0358m3d.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/050726chgg0358m3d.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/arthropoda/limulidae/tachypleus/090428chgd0767m3d.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/arthropoda/limulidae/tachypleus/090428chgd0767m3d.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
@@ -434,6 +486,59 @@ Horseshoes mate during high spring tides when they can reach the highest part of
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <h2 id="role-in-habitat">Role in habitat</h2>
 <p>Like other scavengers, horseshoe crabs help keep the place clear of dead animals. Although the adults have few natural predators (apparently, only sharks and turtles will eat adults), their eggs and hatchlings are eaten by many creatures. Various creatures may settle on a horseshoe crab including <a href="../../../mollusca/gastropoda/calyptraeidae/calyptraeidae">slipper snails</a>, <a href="/wildfacts/guides/crustacea/crustacea/othercrust/ciriipedia/cirripedia">barnacles</a>, <a href="../../../worm/polychaeta/serpulidae">keelworms</a> and other encrusting plants and animals.</p>
 
@@ -466,6 +571,59 @@ You might come across what appears to be dead horseshoe crabs strewn on the shor
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 
 <p>These distinguishing features from <a href="https://singapore.biodiversity.online/taxo4254/mainSpace/Carcinoscorpius%20rotundicauda.html">taxo4254</a></p>
 

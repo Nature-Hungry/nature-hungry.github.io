@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -319,21 +317,21 @@ as sea anemones. There are about 50 species of known corallimorphs. They are fou
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/others/corallimorphs/beaded/060527sjig6070m3d.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/others/corallimorphs/beaded/060527sjig6070m3d.jpg" alt="Upturned mouth. St. John&#39;s Island, May 05" class="gallery-image" />
         <div class="caption">
         Upturned mouth. St. John's Island, May 05
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/others/corallimorphs/carpet/031224sisd0126m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/others/corallimorphs/carpet/031224sisd0126m3.jpg" alt="Underside is usually smooth. Pulau Hantu, Aug 04" class="gallery-image" />
         <div class="caption">
         Underside is usually smooth. Pulau Hantu, Aug 04
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/others/corallimorphs/frilled/070901sjid6484m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/others/corallimorphs/frilled/070901sjid6484m3b.jpg" alt="Oral disk tucked into the body column. St. John&#39;s Island, Aug 07" class="gallery-image" />
         <div class="caption">
         Oral disk tucked into the body column. St. John's Island, Aug 07
         </div>
@@ -341,6 +339,60 @@ as sea anemones. There are about 50 species of known corallimorphs. They are fou
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p><strong>What do they eat?</strong>
 Most corallimorphs harbour zooxanthellae (symbiotic algae) inside their bodies. The symbiotic algae carry out photosynthesis and may contribute nutrients to the host. Corallimorphs also filter feed, trapping edible bits in mucus that coats their bodies.</p>
 
@@ -358,21 +410,21 @@ and tiny shrimps are sometimes seen on corallimorphs.</p>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/others/corallimorphs/carpet/031224sisd0121m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/others/corallimorphs/carpet/031224sisd0121m3.jpg" alt="Many usually found together, often forming a living carpet. Sisters Islands, Dec 03" class="gallery-image" />
         <div class="caption">
         Many usually found together, often forming a living carpet. Sisters Islands, Dec 03
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/others/corallimorphs/frilled/080608cyrd5465m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/others/corallimorphs/frilled/080608cyrd5465m3a.jpg" alt="Dense clusters of corallimorphs may resemble hard corals. Cyrene Reef, Jun 08" class="gallery-image" />
         <div class="caption">
         Dense clusters of corallimorphs may resemble hard corals. Cyrene Reef, Jun 08
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/others/corallimorphs/carpet/060131sjig4490m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/others/corallimorphs/carpet/060131sjig4490m3b.jpg" alt="Covered with tiny brown acoel flatworms . St. John&#39;s Island, Jan 06" class="gallery-image" />
         <div class="caption">
         Covered with tiny brown acoel flatworms . St. John's Island, Jan 06
         </div>
@@ -380,6 +432,59 @@ and tiny shrimps are sometimes seen on corallimorphs.</p>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p><strong>Corallimorph babies:</strong>
 Corallimorphs can reproduce by budding or by fission, in which the parent divides to produce a new polyp.</p>
 
@@ -402,21 +507,21 @@ here is inadequate information as at 2024 to make an informed assesment of their
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/others/corallimorphs/frilled/070901sjid6484m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/others/corallimorphs/frilled/070901sjid6484m3a.jpg" alt="Frilled corallimorphs" class="gallery-image" />
         <div class="caption">
         Frilled corallimorphs
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/others/corallimorphs/stubby/040801hntd3735m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/others/corallimorphs/stubby/040801hntd3735m3a.jpg" alt="Stubby corallimorphs" class="gallery-image" />
         <div class="caption">
         Stubby corallimorphs
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/others/corallimorphs/carpet/031224sisd0121m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/others/corallimorphs/carpet/031224sisd0121m3a.jpg" alt="Carpet corallimorphs" class="gallery-image" />
         <div class="caption">
         Carpet corallimorphs
         </div>
@@ -424,26 +529,80 @@ here is inadequate information as at 2024 to make an informed assesment of their
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/others/corallimorphs/beaded/060527sjig6070m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/others/corallimorphs/beaded/060527sjig6070m3a.jpg" alt="Beaded corallimorphs" class="gallery-image" />
         <div class="caption">
         Beaded corallimorphs
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/others/corallimorphs/ridged/050807sjid5570m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/others/corallimorphs/ridged/050807sjid5570m3.jpg" alt="Ridged corallimorphs" class="gallery-image" />
         <div class="caption">
         Ridged corallimorphs
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/others/corallimorphs/striped/110717tbd7305m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/others/corallimorphs/striped/110717tbd7305m3.jpg" alt="Striped corallimorphs" class="gallery-image" />
         <div class="caption">
         Striped corallimorphs
         </div>
@@ -451,19 +610,73 @@ here is inadequate information as at 2024 to make an informed assesment of their
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/others/corallimorphs/whitetip/120721tptd7883m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/others/corallimorphs/whitetip/120721tptd7883m3.jpg" alt="White-tip corallimorphs" class="gallery-image" />
         <div class="caption">
         White-tip corallimorphs
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/others/corallimorphs/balltip/110703cjd5306m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/others/corallimorphs/balltip/110703cjd5306m3.jpg" alt="Ball-tip corallimorphs" class="gallery-image" />
         <div class="caption">
         Ball-tip corallimorphs
         </div>
@@ -471,6 +684,60 @@ here is inadequate information as at 2024 to make an informed assesment of their
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong>**Order Corallimorpharia seen on Singapore Shores</strong>**

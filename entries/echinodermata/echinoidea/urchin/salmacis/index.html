@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -304,14 +302,14 @@ is found curled around the mouth.</p>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/070421cyrd0440m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/070421cyrd0440m3.jpg" alt="Sometimes gathered in large numbers. Cyrene Reef, Apr 07" class="gallery-image" />
         <div class="caption">
         Sometimes gathered in large numbers. Cyrene Reef, Apr 07
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/060528bbd2322m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/060528bbd2322m3.jpg" alt="Carrying stuff. Beting Bronok, May 06" class="gallery-image" />
         <div class="caption">
         Carrying stuff. Beting Bronok, May 06
         </div>
@@ -320,24 +318,77 @@ is found curled around the mouth.</p>
 
 </div>
 
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3.jpg" alt="Hole with &#39;burn&#39; mark suggests the urchin was attacked by a Helmet snail . Changi, May 08" class="gallery-image" />
         <div class="caption">
         Hole with 'burn' mark suggests the urchin was attacked by a Helmet snail . Changi, May 08
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/101011chgd2159m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/101011chgd2159m3.jpg" alt="Worm-like thing seen on the underside. Changi, Oct 10" class="gallery-image" />
         <div class="caption">
         Worm-like thing seen on the underside. Changi, Oct 10
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/170527cyrsbr.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/170527cyrsbr.jpg" alt="Parasitic snails seen on the urchin Cyrene, May 17 Photo shared on Singapore Biodiversity Records." class="gallery-image" />
         <div class="caption">
         Parasitic snails seen on the urchin Cyrene, May 17 Photo shared on Singapore Biodiversity Records.
         </div>
@@ -346,17 +397,70 @@ is found curled around the mouth.</p>
 
 </div>
 
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/170625chgsbr.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/170625chgsbr.jpg" alt="Zebra crab ( Zebrida adamsii ) seen on the urchin. Changi, Jun 17 Photo shared on Singpaore Biodiversity Records." class="gallery-image" />
         <div class="caption">
         Zebra crab ( Zebrida adamsii ) seen on the urchin. Changi, Jun 17 Photo shared on Singpaore Biodiversity Records.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/210530ecpglks3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/210530ecpglks3a.jpg" alt="Zebra crab ( Zebrida adamsii ) seen on the urchin. East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         Zebra crab ( Zebrida adamsii ) seen on the urchin. East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook .
         </div>
@@ -364,6 +468,59 @@ is found curled around the mouth.</p>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 
 <hr />
 
@@ -374,21 +531,21 @@ is found curled around the mouth.</p>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/080506chgd2260m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/080506chgd2260m3.jpg" alt="White salmacis urchin ( Salmacis sphaeroides )" class="gallery-image" />
         <div class="caption">
         White salmacis urchin ( Salmacis sphaeroides )
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/080506chgd2263m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/080506chgd2263m3b.jpg" alt="Spines shorter, mostly white, banded with green or maroon." class="gallery-image" />
         <div class="caption">
         Spines shorter, mostly white, banded with green or maroon.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/050524chgg6575m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/050524chgg6575m3a.jpg" alt="Underside" class="gallery-image" />
         <div class="caption">
         Underside
         </div>
@@ -396,26 +553,80 @@ is found curled around the mouth.</p>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/urchin/virgulata/060529chgd2487m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/urchin/virgulata/060529chgd2487m3.jpg" alt="Passion salmacis urchin ( Salmacis virgulata )" class="gallery-image" />
         <div class="caption">
         Passion salmacis urchin ( Salmacis virgulata )
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/urchin/virgulata/060529chgd2487m3d.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/urchin/virgulata/060529chgd2487m3d.jpg" alt="Spines shorter, all maroon, not banded ." class="gallery-image" />
         <div class="caption">
         Spines shorter, all maroon, not banded .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/urchin/virgulata/060529chgd2490m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/urchin/virgulata/060529chgd2490m3a.jpg" alt="Underside" class="gallery-image" />
         <div class="caption">
         Underside
         </div>
@@ -423,26 +634,80 @@ is found curled around the mouth.</p>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/urchin/bicolor/090528mecpd2807m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/urchin/bicolor/090528mecpd2807m3.jpg" alt="Two-toned salmacis urchin ( Salmacis bicolor )" class="gallery-image" />
         <div class="caption">
         Two-toned salmacis urchin ( Salmacis bicolor )
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/urchin/bicolor/090528mecpd2807m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/urchin/bicolor/090528mecpd2807m3b.jpg" alt="Spines longer, banded white and maroon" class="gallery-image" />
         <div class="caption">
         Spines longer, banded white and maroon
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/urchin/bicolor/090528mecpd2814m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/echinodermata/echinoidea/urchin/bicolor/090528mecpd2814m3a.jpg" alt="Underside" class="gallery-image" />
         <div class="caption">
         Underside
         </div>
@@ -450,6 +715,59 @@ is found curled around the mouth.</p>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 
 <hr />
 

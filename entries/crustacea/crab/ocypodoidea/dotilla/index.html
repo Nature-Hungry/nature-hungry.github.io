@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -308,21 +306,21 @@ is larger (body width up to 1.5cm) and is found in muddier areas often moving ar
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/041127cjd8656m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/041127cjd8656m3.jpg" alt="Chek Jawa, Nov 04" class="gallery-image" />
         <div class="caption">
         Chek Jawa, Nov 04
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/060225cjg4975m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/060225cjg4975m3a.jpg" alt="Typical burrow with small and big sand balls around the opening. Chek Jawa, Feb 06" class="gallery-image" />
         <div class="caption">
         Typical burrow with small and big sand balls around the opening. Chek Jawa, Feb 06
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/111129tmftd4218m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/111129tmftd4218m3.jpg" alt="&#39;Igloo&#39; built just before the incoming tide. Tanah Merah, Nov 11" class="gallery-image" />
         <div class="caption">
         'Igloo' built just before the incoming tide. Tanah Merah, Nov 11
         </div>
@@ -330,6 +328,60 @@ is larger (body width up to 1.5cm) and is found in muddier areas often moving ar
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p><strong>Burrowing in a bubble of air:</strong>
 <a href="http://www.sciencedirect.com/science/article/pii/002209819600007X">A study found</a>
 that
@@ -343,21 +395,21 @@ The shifted sand is then discarded in a little ball. The bigger untidy balls are
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/070616cjg0403m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/070616cjg0403m3.jpg" alt="Chek Jawa, Jun 07" class="gallery-image" />
         <div class="caption">
         Chek Jawa, Jun 07
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/070616cjg0404m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/070616cjg0404m3.jpg" alt="Creating an &#39;igloo&#39; in wet sand with the incoming tide." class="gallery-image" />
         <div class="caption">
         Creating an 'igloo' in wet sand with the incoming tide.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/070616cjg0405m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/070616cjg0405m3.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
@@ -365,6 +417,60 @@ The shifted sand is then discarded in a little ball. The bigger untidy balls are
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <h2 id="status-and-threats">Status and threats</h2>
 
 <p>One of our soldier crab species (<em>Dotilla myctiroides</em>) is listed among the threatened animals of Singapore due to loss of our natural beaches. While somewhat common on Chek Jawa, they are not commonly seen elsewhere in Singapore.
@@ -392,21 +498,21 @@ for free download</li>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/171105cjay1.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/171105cjay1.jpg" alt="Chek Jawa, Nov 17 Shared by Abel Yeo on facebook ." class="gallery-image" />
         <div class="caption">
         Chek Jawa, Nov 17 Shared by Abel Yeo on facebook .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/151001blylks2.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/151001blylks2.jpg" alt="Berlayar Creek, Oct 15 Shared by Loh Kok Sheng on flickr ." class="gallery-image" />
         <div class="caption">
         Berlayar Creek, Oct 15 Shared by Loh Kok Sheng on flickr .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/090109sjilks01m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/090109sjilks01m3.jpg" alt="St. John&#39;s Island, Jan 09 Shared by Loh Kok Sheng on his blog ." class="gallery-image" />
         <div class="caption">
         St. John's Island, Jan 09 Shared by Loh Kok Sheng on his blog .
         </div>
@@ -414,19 +520,73 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/090224lazlks04m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/090224lazlks04m3.jpg" alt="Lazarus Island, Feb 09 Shared by Loh Kok Sheng on his blog ." class="gallery-image" />
         <div class="caption">
         Lazarus Island, Feb 09 Shared by Loh Kok Sheng on his blog .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/160208smkshpy4.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/160208smkshpy4.jpg" alt="Pulau Semakau South, Feb 16 Photo shared by Heng Pei Yan on facebook ." class="gallery-image" />
         <div class="caption">
         Pulau Semakau South, Feb 16 Photo shared by Heng Pei Yan on facebook .
         </div>
@@ -434,26 +594,80 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/091204pawd5191m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/091204pawd5191m3.jpg" alt="Pulau Pawai, Dec 09" class="gallery-image" />
         <div class="caption">
         Pulau Pawai, Dec 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/091205sudd5475m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/091205sudd5475m3.jpg" alt="Pulau Sudong, Dec 09" class="gallery-image" />
         <div class="caption">
         Pulau Sudong, Dec 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/100810snglks1m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/100810snglks1m3.jpg" alt="Pulau Senang, Aug 10 Photo shared by Loh Kok Sheng on his flickr ." class="gallery-image" />
         <div class="caption">
         Pulau Senang, Aug 10 Photo shared by Loh Kok Sheng on his flickr .
         </div>
@@ -461,6 +675,60 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 

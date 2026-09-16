@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -285,21 +283,21 @@ The smaller members tend to feed on edible bits, sifting the sand or mud for the
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/090818tmd9312m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/090818tmd9312m3a.jpg" alt="The eye stalks of a ghost crab &#39;fold&#39; away into grooves at the side of its body. Tanah Merah, Aug 09" class="gallery-image" />
         <div class="caption">
         The eye stalks of a ghost crab 'fold' away into grooves at the side of its body. Tanah Merah, Aug 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/macrophthalmus/050525hntg6712m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/macrophthalmus/050525hntg6712m3a.jpg" alt="The Sentinel crab has super long eye stalks. Pulau Hantu, May 05" class="gallery-image" />
         <div class="caption">
         The Sentinel crab has super long eye stalks. Pulau Hantu, May 05
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/tinycolourful/090329cjd8659m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/tinycolourful/090329cjd8659m3.jpg" alt="Some fiddler crabs have brightly coloured eye stalks. Chek Jawa, Mar 09" class="gallery-image" />
         <div class="caption">
         Some fiddler crabs have brightly coloured eye stalks. Chek Jawa, Mar 09
         </div>
@@ -307,6 +305,59 @@ The smaller members tend to feed on edible bits, sifting the sand or mud for the
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 
 <hr />
 
@@ -317,21 +368,21 @@ The smaller members tend to feed on edible bits, sifting the sand or mud for the
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/060713rlhd4149m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/060713rlhd4149m3.jpg" alt="Horn-eyed ghost crab" class="gallery-image" />
         <div class="caption">
         Horn-eyed ghost crab
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/cordimanus/110903sntd1078m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/cordimanus/110903sntd1078m3.jpg" alt="Smooth-eyed ghost crab" class="gallery-image" />
         <div class="caption">
         Smooth-eyed ghost crab
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/macrophthalmus/050525hntg6712m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/macrophthalmus/050525hntg6712m3.jpg" alt="Sentinel crab" class="gallery-image" />
         <div class="caption">
         Sentinel crab
         </div>
@@ -339,26 +390,80 @@ The smaller members tend to feed on edible bits, sifting the sand or mud for the
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/scopimera/050326cjg3733m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/scopimera/050326cjg3733m3a.jpg" alt="Sand bubbler crab" class="gallery-image" />
         <div class="caption">
         Sand bubbler crab
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/041127cjd8656m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/041127cjd8656m3.jpg" alt="Soldier crab" class="gallery-image" />
         <div class="caption">
         Soldier crab
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ilyoplax/040101lckd0135m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ilyoplax/040101lckd0135m3.jpg" alt="Semaphore crab" class="gallery-image" />
         <div class="caption">
         Semaphore crab
         </div>
@@ -366,26 +471,80 @@ The smaller members tend to feed on edible bits, sifting the sand or mud for the
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0059m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0059m3a.jpg" alt="Porcelain fiddler crab" class="gallery-image" />
         <div class="caption">
         Porcelain fiddler crab
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/vocans/090510hntd1140m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/vocans/090510hntd1140m3.jpg" alt="Orange fiddler crab" class="gallery-image" />
         <div class="caption">
         Orange fiddler crab
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/rosea/021008cjd6155m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/rosea/021008cjd6155m3.jpg" alt="Rosy fiddler crab" class="gallery-image" />
         <div class="caption">
         Rosy fiddler crab
         </div>
@@ -393,26 +552,80 @@ The smaller members tend to feed on edible bits, sifting the sand or mud for the
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/stoutpincer/090816sbwrd9021m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/stoutpincer/090816sbwrd9021m3.jpg" alt="Stout pincered fiddler crab" class="gallery-image" />
         <div class="caption">
         Stout pincered fiddler crab
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/tinycolourful/110327cjd7979m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/tinycolourful/110327cjd7979m3.jpg" alt="Tiny colourful fiddler crab" class="gallery-image" />
         <div class="caption">
         Tiny colourful fiddler crab
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/noid/110327cjd7977m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/noid/110327cjd7977m3.jpg" alt="Other unidentified fiddler crabs" class="gallery-image" />
         <div class="caption">
         Other unidentified fiddler crabs
         </div>
@@ -420,6 +633,60 @@ The smaller members tend to feed on edible bits, sifting the sand or mud for the
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong>Superfamily Ocypodoidea recorded for Singapore</strong>

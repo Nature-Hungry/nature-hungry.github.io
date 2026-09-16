@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -257,21 +255,21 @@
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg" alt="Clown anemonfish in a Magnificent anemone . Terumbu Semakau, Jul 14" class="gallery-image" />
         <div class="caption">
         Clown anemonfish in a Magnificent anemone . Terumbu Semakau, Jul 14
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/pomacentridae/tripunctatus/070531sisg9763m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/pomacentridae/tripunctatus/070531sisg9763m3.jpg" alt="Juvenile damselfishes can look very different from the adults. Tanah Merah, Nov 10" class="gallery-image" />
         <div class="caption">
         Juvenile damselfishes can look very different from the adults. Tanah Merah, Nov 10
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/pomacentridae/fasciatus/060714rlhg6577m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/pomacentridae/fasciatus/060714rlhg6577m3.jpg" alt="Damselfishes can be abundant on some of our shores! Raffles Lighthouse, Jul 06" class="gallery-image" />
         <div class="caption">
         Damselfishes can be abundant on some of our shores! Raffles Lighthouse, Jul 06
         </div>
@@ -279,6 +277,60 @@
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p><strong>What do they eat?</strong>
 As a family, they eat a wide variety of things. Plankton-feeding damselfishes are believed to play an important role in reefs as they occur in such huge numbers that they effectively filter the currents. Damselfishes that feed on algae are often aggressively territorial, defending their feeding area from all intruders. These tiny damselfishes will vigorously harass larger fishes and even divers.</p>
 
@@ -310,21 +362,21 @@ of the Family Pomacentridae are listed among the threatened animals of Singapore
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg" alt="False clown anemonefish" class="gallery-image" />
         <div class="caption">
         False clown anemonefish
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/pomacentridae/frenatus/040829kusg1741m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/pomacentridae/frenatus/040829kusg1741m3.jpg" alt="Tomato anemonefish" class="gallery-image" />
         <div class="caption">
         Tomato anemonefish
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/pomacentridae/trimaculatus/110619tslgd4444m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/pomacentridae/trimaculatus/110619tslgd4444m3.jpg" alt="Three-spot dascyllus" class="gallery-image" />
         <div class="caption">
         Three-spot dascyllus
         </div>
@@ -332,26 +384,80 @@ of the Family Pomacentridae are listed among the threatened animals of Singapore
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/pomacentridae/bengalensis/110601tmnbd3146m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/pomacentridae/bengalensis/110601tmnbd3146m3.jpg" alt="Bengal sergeant" class="gallery-image" />
         <div class="caption">
         Bengal sergeant
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/pomacentridae/sexfasciatus/110602tmftd3507m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/pomacentridae/sexfasciatus/110602tmftd3507m3.jpg" alt="Scissortail sergeant" class="gallery-image" />
         <div class="caption">
         Scissortail sergeant
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/pomacentridae/sordidus/080816sisd9504m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/pomacentridae/sordidus/080816sisd9504m3.jpg" alt="Black-spot sergeant" class="gallery-image" />
         <div class="caption">
         Black-spot sergeant
         </div>
@@ -359,40 +465,94 @@ of the Family Pomacentridae are listed among the threatened animals of Singapore
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/pomacentridae/fasciatus/060714rlhg6577m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/pomacentridae/fasciatus/060714rlhg6577m3a.jpg" alt="Juvenile" class="gallery-image" />
         <div class="caption">
         Juvenile
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/pomacentridae/fasciatus/120818lazd0172m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/pomacentridae/fasciatus/120818lazd0172m3.jpg" alt="Juvenile." class="gallery-image" />
         <div class="caption">
         Juvenile.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/pomacentridae/fasciatus/070728sisd4510m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/pomacentridae/fasciatus/070728sisd4510m3.jpg" alt="Juvenile." class="gallery-image" />
         <div class="caption">
         Juvenile.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/pomacentridae/fasciatus/110601tmnbd3185m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/pomacentridae/fasciatus/110601tmnbd3185m3a.jpg" alt="Adult" class="gallery-image" />
         <div class="caption">
         Adult
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/pomacentridae/fasciatus/120804bbbd9432m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/pomacentridae/fasciatus/120804bbbd9432m3.jpg" alt="Adult" class="gallery-image" />
         <div class="caption">
         Adult
         </div>
@@ -400,12 +560,66 @@ of the Family Pomacentridae are listed among the threatened animals of Singapore
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/pomacentridae/prosopotaenia/100715tptd8836m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/pomacentridae/prosopotaenia/100715tptd8836m3.jpg" alt="Juvenile" class="gallery-image" />
         <div class="caption">
         Juvenile
         </div>
@@ -413,26 +627,80 @@ of the Family Pomacentridae are listed among the threatened animals of Singapore
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/pomacentridae/tripunctatus/080410cyrd0050m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/pomacentridae/tripunctatus/080410cyrd0050m3.jpg" alt="Juvenile" class="gallery-image" />
         <div class="caption">
         Juvenile
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/pomacentridae/tripunctatus/110602tmftd3572m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/pomacentridae/tripunctatus/110602tmftd3572m3.jpg" alt="Juvenile" class="gallery-image" />
         <div class="caption">
         Juvenile
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/vertebrates/fish/pomacentridae/tripunctatus/050411tusg4489m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/vertebrates/fish/pomacentridae/tripunctatus/050411tusg4489m3.jpg" alt="Adult" class="gallery-image" />
         <div class="caption">
         Adult
         </div>
@@ -440,6 +708,60 @@ of the Family Pomacentridae are listed among the threatened animals of Singapore
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong>Family Pomacentridae recorded for Singapore</strong>

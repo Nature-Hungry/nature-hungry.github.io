@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -285,14 +283,14 @@
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/volutidae/melo/100619cjtch1m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/volutidae/melo/100619cjtch1m3.jpg" alt="Baler snail eating a Noble volute ! Chek Jawa, Jun 10 Photo shared by Toh Chay Hoon on her blog." class="gallery-image" />
         <div class="caption">
         Baler snail eating a Noble volute ! Chek Jawa, Jun 10 Photo shared by Toh Chay Hoon on her blog.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/bivalvia/mactridae/bigbrown/120510chgd2887m6l.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/bivalvia/mactridae/bigbrown/120510chgd2887m6l.jpg" alt="Noble volute hunting down a Big brown mactra clam that eventually escaped. Pulau Semakau, Mar 08" class="gallery-image" />
         <div class="caption">
         Noble volute hunting down a Big brown mactra clam that eventually escaped. Pulau Semakau, Mar 08
         </div>
@@ -300,6 +298,59 @@
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 
 <p>Although some are highly prized for their large, glossy, patterned shells, living volutes are even more beautiful. Their bodies are boldly marked with colourful stripes or spots.</p>
 
@@ -318,21 +369,21 @@ All members of the Family Volutidae are carnivorous. Their prey include molluscs
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/volutidae/melo/100614bbd5995m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/volutidae/melo/100614bbd5995m3.jpg" alt="A smaller Baler volute riding on the back of a bigger one. Prelude to mating? Beting Bronok, Jun 10" class="gallery-image" />
         <div class="caption">
         A smaller Baler volute riding on the back of a bigger one. Prelude to mating? Beting Bronok, Jun 10
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/volutidae/nobilis/070325smkd9603m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/volutidae/nobilis/070325smkd9603m3.jpg" alt="Noble volute laying egg capsules Pulau Semakau, Mar 07" class="gallery-image" />
         <div class="caption">
         Noble volute laying egg capsules Pulau Semakau, Mar 07
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/volutidae/nobilis/080310smktch01m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/volutidae/nobilis/080310smktch01m3.jpg" alt="Baby Noble volute! Pulau Semakau, Mar 08 Photo shared by Toh Chay Hoon on her flickr." class="gallery-image" />
         <div class="caption">
         Baby Noble volute! Pulau Semakau, Mar 08 Photo shared by Toh Chay Hoon on her flickr.
         </div>
@@ -341,20 +392,73 @@ All members of the Family Volutidae are carnivorous. Their prey include molluscs
 
 </div>
 
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p><strong>Volute babies:</strong>
 In members of the Famliy Volutidae, the male fertilises the female internally. There is no free-swimming larval stage and crawling juvenile snails emerge from the egg. As a result, volutes have a restricted range and local populations can be wiped out by over-collection. Noble volutes lay translucent egg capsules that contain many eggs. But only one or a few develop, the survivor having eaten the others. The eggs hatch and undergo metamorphosis within the egg capsules, emerging as tiny crawling snails.</p>
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cephalopoda/bigseagrass/130624chg7d7811.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cephalopoda/bigseagrass/130624chg7d7811.jpg" alt="Octopus hiding inside an empty Noble volute shell. Changi, Jun 13" class="gallery-image" />
         <div class="caption">
         Octopus hiding inside an empty Noble volute shell. Changi, Jun 13
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/volutidae/melo/090514prpd1730.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/volutidae/melo/090514prpd1730.jpg" alt="Hermit crab and Slipper snails living in an empty Baler volute shell. Pasir Ris, May 09" class="gallery-image" />
         <div class="caption">
         Hermit crab and Slipper snails living in an empty Baler volute shell. Pasir Ris, May 09
         </div>
@@ -363,27 +467,80 @@ In members of the Famliy Volutidae, the male fertilises the female internally. T
 
 </div>
 
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p><strong>Role in the habitat:</strong>
 Even after it dies, the snails shell continues to provide shelter! Many of the Noble volute shells contain a <a href="../../../../crustacea/othercrust/anomura/hermit/hermit">hermit crab</a> instead of the living snail. The hermit crabs need the shell more than we do so we should not collect these shells even if they are empty. Sometimes, <a href="../../../cephalopoda/bigseagrass">octopuses</a> are seen sheltering in the empty shells too.</p>
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/volutidae/nobilis/060612cftd2873m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/volutidae/nobilis/060612cftd2873m3.jpg" alt="Noble volute" class="gallery-image" />
         <div class="caption">
         Noble volute
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/volutidae/nobilis/011114cjd841m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/volutidae/nobilis/011114cjd841m3.jpg" alt="Noble volute" class="gallery-image" />
         <div class="caption">
         Noble volute
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/volutidae/melo/050820bbg1813m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/volutidae/melo/050820bbg1813m3.jpg" alt="Baler volute" class="gallery-image" />
         <div class="caption">
         Baler volute
         </div>
@@ -391,6 +548,59 @@ Even after it dies, the snails shell continues to provide shelter! Many of the N
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p><strong>Human uses:</strong></p>
 
 <p>Called ‘kilah’ in Malay, the Noble volute is edible. It is also ‘often collected for its attractive shell. The Baler shell was also eaten and its empty shell used by fishermen to scoop water out of their boats, as well as to scoop sugar, salt and flour in markets.</p>
@@ -409,6 +619,60 @@ Even after it dies, the snails shell continues to provide shelter! Many of the N
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong>Family Volutidae recorded for Singapore</strong></p>

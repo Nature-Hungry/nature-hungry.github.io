@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -313,14 +311,14 @@ have thin shells and very large bodies which cannot be retracted fully into the 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/didyma/110520chgd2415m6l.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/didyma/110520chgd2415m6l.jpg" alt="The Ball moon snail, like most moon snails, can deflate the huge body and retract completely into the shell. Changi, May 11" class="gallery-image" />
         <div class="caption">
         The Ball moon snail, like most moon snails, can deflate the huge body and retract completely into the shell. Changi, May 11
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/didyma/110520chgd2415m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/didyma/110520chgd2415m3a.jpg" alt="Siphon (upper left) and tentcles" class="gallery-image" />
         <div class="caption">
         Siphon (upper left) and tentcles
         </div>
@@ -328,6 +326,60 @@ have thin shells and very large bodies which cannot be retracted fully into the 
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p><strong>Bulldozing for prey:</strong>
 The body forms a wedge shape that helps the snail move under the sand. The front of the foot is used like a plough. A part of the foot covers the head as a protective shield. The tentacles and siphon stick out of this shield. The mantle (a part of its body) extends in two flaps over the shell on either side. A moon snail’s shell often remains shiny and lustrous because the mantle envelopes its shell, and the snail spends most of its time under the sand. Encrusting animals have little chance of establishing on the shell of a living moon snail.</p>
 
@@ -343,21 +395,21 @@ and
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/didyma/060614ecpd3194m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/didyma/060614ecpd3194m3.jpg" alt="Tiny button snails leaping away from a hunting moon snail. East Coast, Jun 06" class="gallery-image" />
         <div class="caption">
         Tiny button snails leaping away from a hunting moon snail. East Coast, Jun 06
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/pink/120802chgd9178.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/pink/120802chgd9178.jpg" alt="A moon snail with a bivalve enveloped in its foot. Changi, Aug 12" class="gallery-image" />
         <div class="caption">
         A moon snail with a bivalve enveloped in its foot. Changi, Aug 12
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/noid/101011chgd2129m3c.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/noid/101011chgd2129m3c.jpg" alt="Clam shell with hole neatly drilled, possibly by a moon snail? Changi, Oct 10" class="gallery-image" />
         <div class="caption">
         Clam shell with hole neatly drilled, possibly by a moon snail? Changi, Oct 10
         </div>
@@ -365,20 +417,73 @@ and
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p><strong>What do they eat?</strong>
 Moon snails are fierce predators. They feed on bivalves and snails. A moon snail wraps its huge foot around the hapless prey to suffocate it. If this fails, it has a gland at the tip of its proboscis that secretes an acid to soften the victim’s shell. With its radula, a hole is slowly drilled through the shell. The hole created by a moon snail is usually neat and bevelled.</p>
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/noid/110705chgd5864m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/noid/110705chgd5864m3.jpg" alt="Bivalve escaping a moon snail! Changi, Jul 11" class="gallery-image" />
         <div class="caption">
         Bivalve escaping a moon snail! Changi, Jul 11
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/noid/110705chgd5869m6l.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/noid/110705chgd5869m6l.jpg" alt="Using its long foot, the bivalve &#39;leaps&#39; away to safety." class="gallery-image" />
         <div class="caption">
         Using its long foot, the bivalve 'leaps' away to safety.
         </div>
@@ -386,6 +491,59 @@ Moon snails are fierce predators. They feed on bivalves and snails. A moon snail
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p>Moon snail attempting to eat a bivalve as big as itself!</p>
 
 <p>Filmed on Cyrene Reef Aug 2013</p>
@@ -400,14 +558,14 @@ Some moon snails have been seen ‘dragging’ a small snail shell behind them a
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/onca/110830cyrd0383m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/onca/110830cyrd0383m3.jpg" alt="China moon snail dragging a small shell. Cyrene Reef, Aug 11" class="gallery-image" />
         <div class="caption">
         China moon snail dragging a small shell. Cyrene Reef, Aug 11
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/zebra/080519sisd3457m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/zebra/080519sisd3457m3.jpg" alt="Zebra moon snail dragging a small shell. Sisters Island, May 08" class="gallery-image" />
         <div class="caption">
         Zebra moon snail dragging a small shell. Sisters Island, May 08
         </div>
@@ -415,6 +573,59 @@ Some moon snails have been seen ‘dragging’ a small snail shell behind them a
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p><strong>Moon babies:</strong>
 The sand collar is the moon snail’s egg mass. When the eggs hatch, the collar disintegrates. Thus, an intact collar has living snails in it! Please don’t damage the sand collars. More
 <a href="sandcollar">about sand collars</a>
@@ -423,21 +634,21 @@ The sand collar is the moon snail’s egg mass. When the eggs hatch, the collar 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/tigrina/080916tusd0464.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/tigrina/080916tusd0464.jpg" alt="Two snails, mating? or trying to eat the same thing? Tuas, Sep 08" class="gallery-image" />
         <div class="caption">
         Two snails, mating? or trying to eat the same thing? Tuas, Sep 08
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/sandcollar/030703skdd0250m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/sandcollar/030703skdd0250m3.jpg" alt="Sand collar: egg mass of a moon snail. more photos of sand collars. Pulau Sekudu, Jul 03" class="gallery-image" />
         <div class="caption">
         Sand collar: egg mass of a moon snail. more photos of sand collars. Pulau Sekudu, Jul 03
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/sandcollar/041127cjd8603m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/sandcollar/041127cjd8603m3.jpg" alt="Sand collar: egg mass of a moon snail. more photos of sand collars. Chek Jawa, Nov 04" class="gallery-image" />
         <div class="caption">
         Sand collar: egg mass of a moon snail. more photos of sand collars. Chek Jawa, Nov 04
         </div>
@@ -445,6 +656,59 @@ The sand collar is the moon snail’s egg mass. When the eggs hatch, the collar 
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <h2 id="role-in-habitat">Role in habitat</h2>
 <p>When a moon snail dies, its shell is usually quickly taken over by a hermit crab. Many of the moon snail shells you see on the surface will probably be so occupied. Living moon snails are rarely seen above ground during the day.</p>
 
@@ -465,42 +729,42 @@ The sand collar is the moon snail’s egg mass. When the eggs hatch, the collar 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/didyma/050511cftg6255m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/didyma/050511cftg6255m3.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/mammilla/090806tmd8343m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/mammilla/090806tmd8343m3.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/albumen/120512cyrd3342m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/albumen/120512cyrd3342m3.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/didyma/050524cftg6597m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/didyma/050524cftg6597m3.jpg" alt="Ball moon snail" class="gallery-image" />
         <div class="caption">
         Ball moon snail
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/mammilla/090609sntd3548m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/mammilla/090609sntd3548m3.jpg" alt="Oval moon snail" class="gallery-image" />
         <div class="caption">
         Oval moon snail
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/albumen/120512cyrd3341m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/albumen/120512cyrd3341m3.jpg" alt="Eggwhite moon snail" class="gallery-image" />
         <div class="caption">
         Eggwhite moon snail
         </div>
@@ -508,47 +772,101 @@ The sand collar is the moon snail’s egg mass. When the eggs hatch, the collar 
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/onca/110830cyrd0332m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/onca/110830cyrd0332m3.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/pink/080704sekd6844m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/pink/080704sekd6844m3.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/zebra/050807sjig0646m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/zebra/050807sjig0646m3.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/onca/111127sisd3940m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/onca/111127sisd3940m3.jpg" alt="China moon snail" class="gallery-image" />
         <div class="caption">
         China moon snail
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/pink/060711chgg6281m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/pink/060711chgg6281m3.jpg" alt="Pink moon snail" class="gallery-image" />
         <div class="caption">
         Pink moon snail
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/zebra/050807sjig0641m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/zebra/050807sjig0641m3.jpg" alt="Zebra moon snail" class="gallery-image" />
         <div class="caption">
         Zebra moon snail
         </div>
@@ -556,33 +874,87 @@ The sand collar is the moon snail’s egg mass. When the eggs hatch, the collar 
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/tigrina/050412tusg4564m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/tigrina/050412tusg4564m3.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/lineata/081116chgd2193m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/lineata/081116chgd2193m3.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/tigrina/050412tusg4560m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/tigrina/050412tusg4560m3b.jpg" alt="Tiger moon snail" class="gallery-image" />
         <div class="caption">
         Tiger moon snail
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/lineata/081116chgd2180.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/lineata/081116chgd2180.jpg" alt="Lined moon snail" class="gallery-image" />
         <div class="caption">
         Lined moon snail
         </div>
@@ -590,47 +962,101 @@ The sand collar is the moon snail’s egg mass. When the eggs hatch, the collar 
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/spotted/100711cyrd8184m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/spotted/100711cyrd8184m3.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/vitellus/110714chgd6457m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/vitellus/110714chgd6457m3.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/albumen/120621cyrd6210m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/albumen/120621cyrd6210m3.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/spotted/100711cyrd8186m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/spotted/100711cyrd8186m3.jpg" alt="Spotted moon snail" class="gallery-image" />
         <div class="caption">
         Spotted moon snail
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/vitellus/110518bbd1899m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/vitellus/110518bbd1899m3.jpg" alt="Calf moon snail" class="gallery-image" />
         <div class="caption">
         Calf moon snail
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/albumen/120621cyrd6171m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/albumen/120621cyrd6171m3.jpg" alt="Eggwhite moon snail" class="gallery-image" />
         <div class="caption">
         Eggwhite moon snail
         </div>
@@ -638,33 +1064,87 @@ The sand collar is the moon snail’s egg mass. When the eggs hatch, the collar 
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/mammatus/130401chg.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/mammatus/130401chg.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/sinum/111028chged2720m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/sinum/111028chged2720m3.jpg" alt="" class="gallery-image" />
         <div class="caption">
         
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/mammatus/110705chgd5817m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/mammatus/110705chgd5817m3.jpg" alt="Shell of a dead snail Bosom moon snail" class="gallery-image" />
         <div class="caption">
         Shell of a dead snail Bosom moon snail
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/sinum/050402cjg3999m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/mollusca/gastropoda/naticidae/sinum/050402cjg3999m3a.jpg" alt="Naked moon snail" class="gallery-image" />
         <div class="caption">
         Naked moon snail
         </div>
@@ -672,6 +1152,60 @@ The sand collar is the moon snail’s egg mass. When the eggs hatch, the collar 
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p><strong>Family Naticidae recorded for Singapore</strong>

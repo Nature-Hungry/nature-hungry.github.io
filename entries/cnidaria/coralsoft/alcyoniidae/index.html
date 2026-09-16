@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -281,21 +279,21 @@ and
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letpinwheel/050312hntg3315m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letpinwheel/050312hntg3315m3.jpg" alt="Leathery soft corals can be quite large! Pulau Hantu, Mar 05" class="gallery-image" />
         <div class="caption">
         Leathery soft corals can be quite large! Pulau Hantu, Mar 05
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letblackwhite/070518tkrg9329m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letblackwhite/070518tkrg9329m3.jpg" alt="Some colonies are mushroom-shaped with a stem beneath a broad top. Pulau Tekukor, May 07" class="gallery-image" />
         <div class="caption">
         Some colonies are mushroom-shaped with a stem beneath a broad top. Pulau Tekukor, May 07
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letpimply/090412hntd9624m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letpimply/090412hntd9624m3.jpg" alt="Different kinds of polyps: Smaller siphonozooids with larger, taller autozooids. Pulau Hantu, Apr 09" class="gallery-image" />
         <div class="caption">
         Different kinds of polyps: Smaller siphonozooids with larger, taller autozooids. Pulau Hantu, Apr 09
         </div>
@@ -303,6 +301,60 @@ and
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p>When the colony is out of water, the autozooid polyps are usually retracted completely into the common tissue so that the entire colony appears smooth and leathery. The common tissue might also contract, but the entire colony cannot disappear into a crevice like some large anemones do.</p>
 
 <p>The entire colony is quite stiff and hard, and is not soft and flexible. Do not bend leathery corals or handle them roughly. Some may tear, while others contain dangerous toxins. Like most other soft corals, tiny spikes of calcium carbonate, called sclerites, are embedded in the common tissue. These sclerites are used to identify these leathery soft coral species.</p>
@@ -316,21 +368,21 @@ and
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letomelette/050807sjig0631m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letomelette/050807sjig0631m3.jpg" alt="Colony can contract when out of water. St. John&#39;s Island, Aug 05" class="gallery-image" />
         <div class="caption">
         Colony can contract when out of water. St. John's Island, Aug 05
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letpinwheel/070304hntd8771m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letpinwheel/070304hntd8771m3a.jpg" alt="Shedding a layer of mucus. Pulau Hantu, Mar 07" class="gallery-image" />
         <div class="caption">
         Shedding a layer of mucus. Pulau Hantu, Mar 07
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letomelette/111128sntd4108m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letomelette/111128sntd4108m3a.jpg" alt="Stinging tentacles produced by ctenophores living on the leathery soft coral. Sentosa, Nov 11" class="gallery-image" />
         <div class="caption">
         Stinging tentacles produced by ctenophores living on the leathery soft coral. Sentosa, Nov 11
         </div>
@@ -338,6 +390,59 @@ and
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p><strong><em>Sinularia</em></strong>
 <strong>sp.</strong>
 have only autozooids and do not have siphonozooids. A colony can take on a wide variety of shapes and even the same species may have different forms. The centre part of the colony can be tough and hard due to a dense mass of large sclerites.</p>
@@ -379,21 +484,21 @@ Leathery corals harbour microscopic, single-celled symbiotic algae (zooxanthella
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letomelette/050807sjig0617m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letomelette/050807sjig0617m3.jpg" alt="Omelette leathery soft coral" class="gallery-image" />
         <div class="caption">
         Omelette leathery soft coral
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letomelette/110802smkd8149m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letomelette/110802smkd8149m3a.jpg" alt="Autozooids on long body column." class="gallery-image" />
         <div class="caption">
         Autozooids on long body column.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letomelette/110423tpld9944m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letomelette/110423tpld9944m3.jpg" alt="Has siphonozooids." class="gallery-image" />
         <div class="caption">
         Has siphonozooids.
         </div>
@@ -401,26 +506,80 @@ Leathery corals harbour microscopic, single-celled symbiotic algae (zooxanthella
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letpimply/070204hntd7874m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letpimply/070204hntd7874m3a.jpg" alt="Pimply leathery soft coral" class="gallery-image" />
         <div class="caption">
         Pimply leathery soft coral
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letpimply/110423tpld9947m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letpimply/110423tpld9947m3a.jpg" alt="Autozooids on short body column." class="gallery-image" />
         <div class="caption">
         Autozooids on short body column.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letpimply/100812tpld0310m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letpimply/100812tpld0310m3a.jpg" alt="Has siphonozooids." class="gallery-image" />
         <div class="caption">
         Has siphonozooids.
         </div>
@@ -428,26 +587,80 @@ Leathery corals harbour microscopic, single-celled symbiotic algae (zooxanthella
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letpinwheel/050808sntg0864m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letpinwheel/050808sntg0864m3.jpg" alt="Pinwheel leathery soft coral" class="gallery-image" />
         <div class="caption">
         Pinwheel leathery soft coral
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letpinwheel/050808sntg0866m3e.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letpinwheel/050808sntg0866m3e.jpg" alt="Autozooids on short body column." class="gallery-image" />
         <div class="caption">
         Autozooids on short body column.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letpinwheel/100528tkkd3835m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letpinwheel/100528tkkd3835m3.jpg" alt="Has siphonozooids." class="gallery-image" />
         <div class="caption">
         Has siphonozooids.
         </div>
@@ -455,26 +668,80 @@ Leathery corals harbour microscopic, single-celled symbiotic algae (zooxanthella
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letsmooth/050808sntg0876m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letsmooth/050808sntg0876m3.jpg" alt="Smooth leathery soft coral" class="gallery-image" />
         <div class="caption">
         Smooth leathery soft coral
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letsmooth/080920hntd0749m3c.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letsmooth/080920hntd0749m3c.jpg" alt="Autozooids on short body column." class="gallery-image" />
         <div class="caption">
         Autozooids on short body column.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letsmooth/110802smkd8309m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letsmooth/110802smkd8309m3a.jpg" alt="No siphonozooids." class="gallery-image" />
         <div class="caption">
         No siphonozooids.
         </div>
@@ -482,26 +749,80 @@ Leathery corals harbour microscopic, single-celled symbiotic algae (zooxanthella
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letblackwhite/060402ulrd0976m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letblackwhite/060402ulrd0976m3.jpg" alt="Black-and-white leathery soft coral" class="gallery-image" />
         <div class="caption">
         Black-and-white leathery soft coral
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letblackwhite/111127sisd3862m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letblackwhite/111127sisd3862m3a.jpg" alt="Autozooids on short body column." class="gallery-image" />
         <div class="caption">
         Autozooids on short body column.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letblackwhite/100130brkd8673m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letblackwhite/100130brkd8673m3b.jpg" alt="No siphonozooids." class="gallery-image" />
         <div class="caption">
         No siphonozooids.
         </div>
@@ -509,47 +830,101 @@ Leathery corals harbour microscopic, single-celled symbiotic algae (zooxanthella
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letstar/110717tbd7097m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letstar/110717tbd7097m3.jpg" alt="Starry leathery soft coral" class="gallery-image" />
         <div class="caption">
         Starry leathery soft coral
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letstar/110717tbd7099m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letstar/110717tbd7099m3.jpg" alt="Autozooids very short body column, star-like." class="gallery-image" />
         <div class="caption">
         Autozooids very short body column, star-like.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letstar/100130brkd8625m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letstar/100130brkd8625m3.jpg" alt="No siphonozooids. Spindle-shaped structures in common tissue." class="gallery-image" />
         <div class="caption">
         No siphonozooids. Spindle-shaped structures in common tissue.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letstar/031223tused0033m3g.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letstar/031223tused0033m3g.jpg" alt="Starry leathery soft coral" class="gallery-image" />
         <div class="caption">
         Starry leathery soft coral
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letstar/031223tused0034m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letstar/031223tused0034m3.jpg" alt="Autozooids very short body column, star-like." class="gallery-image" />
         <div class="caption">
         Autozooids very short body column, star-like.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letstar/031223tused0034m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/cnidaria/coralsoft/letstar/031223tused0034m3b.jpg" alt="No siphonozooids. Prickly surface due to tiny spicules." class="gallery-image" />
         <div class="caption">
         No siphonozooids. Prickly surface due to tiny spicules.
         </div>
@@ -557,6 +932,59 @@ Leathery corals harbour microscopic, single-celled symbiotic algae (zooxanthella
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 
 <p><em>*Species are difficult to positively identify without close examination.</em>
 <em>On this website, they are grouped by external features for convenience of display</em>

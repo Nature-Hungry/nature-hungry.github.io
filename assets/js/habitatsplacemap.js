@@ -158,7 +158,7 @@ let places = {
     
     "bukit-timah-nature-reserve" : {
         "label":"Bukit Timah Nature Reserve",
-        "img":"",
+        "img":"https://images.naturehungry.sg/photos/posts/CoverImages/JungleFallTrail.jpg",
         "link":"/articles/locations/bukit-timah-nature-reserve/",
         "description": ""
     },

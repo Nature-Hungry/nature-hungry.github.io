@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -305,21 +303,21 @@ found that juveniles can change their body colour and pattern to match the surro
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/060713rlhd4149m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/060713rlhd4149m3.jpg" alt="Raffles Lighthouse, Jul 06" class="gallery-image" />
         <div class="caption">
         Raffles Lighthouse, Jul 06
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/090818tmd9312m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/090818tmd9312m3a.jpg" alt="A slot on the body for the eye stalk to &#39;fold&#39; away. Tanah Merah, Aug 09" class="gallery-image" />
         <div class="caption">
         A slot on the body for the eye stalk to 'fold' away. Tanah Merah, Aug 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/110506tmftd0803m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/110506tmftd0803m3.jpg" alt="Vertical ridge and tiny bumps on the inside of the &#39;palm&#39;. Tanah Merah, May 11" class="gallery-image" />
         <div class="caption">
         Vertical ridge and tiny bumps on the inside of the 'palm'. Tanah Merah, May 11
         </div>
@@ -327,6 +325,60 @@ found that juveniles can change their body colour and pattern to match the surro
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <p>Ghost crabs are well adapted for life out of water and are among the few marine creatures that roam the beaches at low tide, particularly at night. They run rapidly on the sand and can burrow quickly into wet sand. They can stay for a long time away from the sea because they can absorb water from the wet sand through special hairs on the base of their legs by capillary action.</p>
 
 <p><strong>Similar to</strong>
@@ -342,21 +394,21 @@ Ghost crabs can really run fast! As suggested by their scientific name (â€œOcyâ€
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/060102sisg3708m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/060102sisg3708m3.jpg" alt="Some have white pincers, one much bigger than the other. Sisters Islands, Jan 06" class="gallery-image" />
         <div class="caption">
         Some have white pincers, one much bigger than the other. Sisters Islands, Jan 06
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/060613ecpd2934m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/060613ecpd2934m3.jpg" alt="No &#39;horns&#39; on the eyes: young one? East Coast, Jun 06" class="gallery-image" />
         <div class="caption">
         No 'horns' on the eyes: young one? East Coast, Jun 06
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/050426cftd2816m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/050426cftd2816m3.jpg" alt="Typical burrow near the high water mark. Changi, Apr 05" class="gallery-image" />
         <div class="caption">
         Typical burrow near the high water mark. Changi, Apr 05
         </div>
@@ -364,27 +416,80 @@ Ghost crabs can really run fast! As suggested by their scientific name (â€œOcyâ€
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 <p><strong>What does it eat?</strong>
 At low tide, this scavenger is very active at night, scurrying everywhere on the shore. It has been seen eating all manner of recently dead animals on the shore from fireworms to fish, shrimps and even other crabs. It may also hunt small animals and clams and snails near the waterâ€™s edge. Near the flotsam left on the high water line, we can also sometimes see little scratch marks probably made by ghost crabs checking the line for edible titbits.</p>
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/090807tmd8440m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/090807tmd8440m3.jpg" alt="Eating a shrimp. Tanah Merah, Aug 09" class="gallery-image" />
         <div class="caption">
         Eating a shrimp. Tanah Merah, Aug 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/130426tkks02845.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/130426tkks02845.jpg" alt="Eating a Moon crab. Pulau Tekukor, Apr 13" class="gallery-image" />
         <div class="caption">
         Eating a Moon crab. Pulau Tekukor, Apr 13
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/031125hntbd0041m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/031125hntbd0041m3.jpg" alt="Eating crab. Pulau Hantu, Nov 03" class="gallery-image" />
         <div class="caption">
         Eating crab. Pulau Hantu, Nov 03
         </div>
@@ -393,17 +498,70 @@ At low tide, this scavenger is very active at night, scurrying everywhere on the
 
 </div>
 
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/090428chgd0692m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/090428chgd0692m3.jpg" alt="Eating a fireworm . Changi, Apr 09" class="gallery-image" />
         <div class="caption">
         Eating a fireworm . Changi, Apr 09
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/100909tmd0817m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/100909tmd0817m3a.jpg" alt="Eating a fish, probably a goby. Tanah Merah, Sep 10" class="gallery-image" />
         <div class="caption">
         Eating a fish, probably a goby. Tanah Merah, Sep 10
         </div>
@@ -411,6 +569,59 @@ At low tide, this scavenger is very active at night, scurrying everywhere on the
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
 
 <h2 id="status-and-threats">Status and threats</h2>
 
@@ -438,21 +649,21 @@ for free download</li>
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/090527skdlks.JPG" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/090527skdlks.JPG" alt="Pulau Sekudu, May 09 Photo shared by Loh Kok Sheng on his blog." class="gallery-image" />
         <div class="caption">
         Pulau Sekudu, May 09 Photo shared by Loh Kok Sheng on his blog.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/090628lazlt5m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/090628lazlt5m3.jpg" alt="Seringat-Kias, Jun 09 Photo shared by Liana Tang on her blog" class="gallery-image" />
         <div class="caption">
         Seringat-Kias, Jun 09 Photo shared by Liana Tang on her blog
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/091205sudjk5m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/091205sudjk5m3.jpg" alt="Pulau Sudong, Dec 09 Photo shared by James Koh on his flickr ." class="gallery-image" />
         <div class="caption">
         Pulau Sudong, Dec 09 Photo shared by James Koh on his flickr .
         </div>
@@ -460,12 +671,66 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/200311blylks9.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/200311blylks9.jpg" alt="Berlayar Creek, Mar 20 Photo shared by Loh Kok Sheng on facebook ." class="gallery-image" />
         <div class="caption">
         Berlayar Creek, Mar 20 Photo shared by Loh Kok Sheng on facebook .
         </div>
@@ -473,12 +738,66 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/210822ssisjll2.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/210822ssisjll2.jpg" alt="Small SIsters, Aug 21 Photo shared by Jianlin Liu on facebook ." class="gallery-image" />
         <div class="caption">
         Small SIsters, Aug 21 Photo shared by Jianlin Liu on facebook .
         </div>
@@ -486,6 +805,60 @@ for free download</li>
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <p>Filmed on Changi, Jan 10</p>

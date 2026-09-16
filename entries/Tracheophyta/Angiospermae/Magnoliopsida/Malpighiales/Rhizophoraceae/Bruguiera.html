@@ -61,11 +61,9 @@
     <nav>
         <div class="nav-content">
           
-          <a class="nav-logo" href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          <a class="nav-logo" href="/" aria-label="Nature Hungry home">
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image">
           </a>
-        
-         
           
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -107,7 +105,7 @@
 
         <div class="side-menu">
           <div class="side-menu-head">
-            <h3>Nature.Hungry</h3>
+            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="nav-logo-image nav-logo-image--mobile">
             <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
               x
             </label>
@@ -285,21 +283,21 @@
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/cylindrica/090405smkd8985m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/cylindrica/090405smkd8985m3.jpg" alt="Typical pouched petals of Bruguiera ." class="gallery-image" />
         <div class="caption">
         Typical pouched petals of Bruguiera .
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/cylindrica/090405smkd8985m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/cylindrica/090405smkd8985m3a.jpg" alt="Open and closed pouched petals." class="gallery-image" />
         <div class="caption">
         Open and closed pouched petals.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/hainesii/090614ubnd4270m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/hainesii/090614ubnd4270m3a.jpg" alt="Fallen petals." class="gallery-image" />
         <div class="caption">
         Fallen petals.
         </div>
@@ -307,26 +305,80 @@
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/cylindrica/091203ubnd4906m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/cylindrica/091203ubnd4906m3.jpg" alt="Small flowers several on one stalk. Calyx usually pale." class="gallery-image" />
         <div class="caption">
         Small flowers several on one stalk. Calyx usually pale.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/cylindrica/110406sbbd8726m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/cylindrica/110406sbbd8726m3a.jpg" alt="Tassels on petal tips." class="gallery-image" />
         <div class="caption">
         Tassels on petal tips.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/cylindrica/020418sbwrcpd8227m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/cylindrica/020418sbwrcpd8227m3a.jpg" alt="Sepals on propagules bend towards stalk." class="gallery-image" />
         <div class="caption">
         Sepals on propagules bend towards stalk.
         </div>
@@ -334,26 +386,80 @@
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/hainesii/090614ubnd4258m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/hainesii/090614ubnd4258m3.jpg" alt="Medim-sized flowers, each on one stalk. Calyx usually pinkish or yellowish." class="gallery-image" />
         <div class="caption">
         Medim-sized flowers, each on one stalk. Calyx usually pinkish or yellowish.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/hainesii/110608krjL1000225m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/hainesii/110608krjL1000225m3.jpg" alt="Tassels on petal tips." class="gallery-image" />
         <div class="caption">
         Tassels on petal tips.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/hainesii/090614ubnd4261m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/hainesii/090614ubnd4261m3.jpg" alt="Sepals held away from the propagule." class="gallery-image" />
         <div class="caption">
         Sepals held away from the propagule.
         </div>
@@ -361,26 +467,80 @@
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/gymnorrhiza/090118smkd5887m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/gymnorrhiza/090118smkd5887m3.jpg" alt="Large flowers, each on one stalk. Calyx usually red, sometimes pale." class="gallery-image" />
         <div class="caption">
         Large flowers, each on one stalk. Calyx usually red, sometimes pale.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/gymnorrhiza/090502cjf0890m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/gymnorrhiza/090502cjf0890m3a.jpg" alt="Tassels on petal tips." class="gallery-image" />
         <div class="caption">
         Tassels on petal tips.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/gymnorrhiza/090801prpd8001m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/gymnorrhiza/090801prpd8001m3a.jpg" alt="Sepals bend towards the propagule." class="gallery-image" />
         <div class="caption">
         Sepals bend towards the propagule.
         </div>
@@ -388,26 +548,80 @@
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/sexangula/091213ubnd5854m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/sexangula/091213ubnd5854m3.jpg" alt="Large flowers, each on one stalk. Calyx usually yellow." class="gallery-image" />
         <div class="caption">
         Large flowers, each on one stalk. Calyx usually yellow.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/sexangula/091230prpd6500m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/sexangula/091230prpd6500m3.jpg" alt="No tassels on petal tips." class="gallery-image" />
         <div class="caption">
         No tassels on petal tips.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/sexangula/100411prpd0923m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/sexangula/100411prpd0923m3a.jpg" alt="Sepals extend away from the propagule." class="gallery-image" />
         <div class="caption">
         Sepals extend away from the propagule.
         </div>
@@ -415,26 +629,80 @@
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 <div class="img-wrap-group">
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/parviflora/100411prpd1040m3.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/parviflora/100411prpd1040m3.jpg" alt="Long narrow flowers, several on one stalk. Calyx very long and narrow, pale." class="gallery-image" />
         <div class="caption">
         Long narrow flowers, several on one stalk. Calyx very long and narrow, pale.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/parviflora/110502prpd0442m3a.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/parviflora/110502prpd0442m3a.jpg" alt="Tassels on petal tips." class="gallery-image" />
         <div class="caption">
         Tassels on petal tips.
         </div>
     </div>
     
     <div class="img-container">
-        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/parviflora/090801prpd8079m3b.jpg" alt="" />
+        <img src="https://images.naturehungry.sg/plants/mangrove/bruguiera/parviflora/090801prpd8079m3b.jpg" alt="Sepals clasp the propagule." class="gallery-image" />
         <div class="caption">
         Sepals clasp the propagule.
         </div>
@@ -442,6 +710,60 @@
     
 
 </div>
+
+<script>
+    (() => {
+        const createLightbox = () => {
+            if (document.querySelector('.gallery-lightbox')) return;
+
+            const lightbox = document.createElement('div');
+            lightbox.className = 'gallery-lightbox';
+            lightbox.setAttribute('aria-hidden', 'true');
+            lightbox.innerHTML = `
+                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+                <img class="gallery-lightbox-image" alt="">
+            `;
+            document.body.appendChild(lightbox);
+
+            const closeLightbox = () => {
+                lightbox.classList.remove('is-open');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.classList.remove('gallery-lightbox-open');
+            };
+
+            lightbox.addEventListener('click', (event) => {
+                if (event.target === lightbox) closeLightbox();
+            });
+
+            document.addEventListener('click', (event) => {
+                const galleryImage = event.target.closest('.gallery-image');
+                if (galleryImage) {
+                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
+                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
+                    lightbox.classList.add('is-open');
+                    lightbox.setAttribute('aria-hidden', 'false');
+                    document.body.classList.add('gallery-lightbox-open');
+                    return;
+                }
+
+                if (event.target.closest('.gallery-lightbox-close')) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+            });
+        };
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+        } else {
+            createLightbox();
+        }
+    })();
+</script>
+
 <hr />
 
 
