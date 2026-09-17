@@ -68,7 +68,7 @@
         <div class="nav-links">
             <a href="/explore">Explore</a>
             <a href="/reclamation/index/">Reclamation</a>
-            <a href="/articles/concepts">Concepts</a>
+            <a href="/articles/">Articles</a>
             <a href="/about">About</a>
             <a href="/makeadiff/">Make a Difference</a>
             <a href="/links">Useful Links</a>
@@ -112,9 +112,9 @@
           </div>
           <a href="/explore">Explore</a>
           <a href="/reclamation/index/">Reclamation</a>
-          <a href="/wildfacts/concepts">Concepts</a>
+          <a href="/articles/">Articles</a>
           <a href="/about">About</a>
-          <a href="/wildfacts/makeadiff/">Make a Difference</a>
+          <a href="/makeadiff/">Make a Difference</a>
           <a href="/links">Useful Links</a>
           <hr>
           
@@ -358,59 +358,6 @@ The enlarged pincer can produce a very loud sound. The blast stuns prey like tin
 
 </div>
 
-<script>
-    (() => {
-        const createLightbox = () => {
-            if (document.querySelector('.gallery-lightbox')) return;
-
-            const lightbox = document.createElement('div');
-            lightbox.className = 'gallery-lightbox';
-            lightbox.setAttribute('aria-hidden', 'true');
-            lightbox.innerHTML = `
-                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
-                <img class="gallery-lightbox-image" alt="">
-            `;
-            document.body.appendChild(lightbox);
-
-            const closeLightbox = () => {
-                lightbox.classList.remove('is-open');
-                lightbox.setAttribute('aria-hidden', 'true');
-                document.body.classList.remove('gallery-lightbox-open');
-            };
-
-            lightbox.addEventListener('click', (event) => {
-                if (event.target === lightbox) closeLightbox();
-            });
-
-            document.addEventListener('click', (event) => {
-                const galleryImage = event.target.closest('.gallery-image');
-                if (galleryImage) {
-                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
-                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
-                    lightbox.classList.add('is-open');
-                    lightbox.setAttribute('aria-hidden', 'false');
-                    document.body.classList.add('gallery-lightbox-open');
-                    return;
-                }
-
-                if (event.target.closest('.gallery-lightbox-close')) {
-                    closeLightbox();
-                }
-            });
-
-            document.addEventListener('keydown', (event) => {
-                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
-            });
-        };
-
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
-        } else {
-            createLightbox();
-        }
-    })();
-</script>
-
 <p><strong>The science of The Sound:</strong>
 A study of one species of snapping shrimp shows the pincer has a moveable ‘finger’ held at right angles to a matching ‘socket’ on the opposite side.
 When the ‘finger’ is released, it plunges rapidly into the socket, and an explosive sound results.
@@ -441,59 +388,6 @@ The snapping sound is not the result of the finger hitting the socket, i.e., not
     
 
 </div>
-
-<script>
-    (() => {
-        const createLightbox = () => {
-            if (document.querySelector('.gallery-lightbox')) return;
-
-            const lightbox = document.createElement('div');
-            lightbox.className = 'gallery-lightbox';
-            lightbox.setAttribute('aria-hidden', 'true');
-            lightbox.innerHTML = `
-                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
-                <img class="gallery-lightbox-image" alt="">
-            `;
-            document.body.appendChild(lightbox);
-
-            const closeLightbox = () => {
-                lightbox.classList.remove('is-open');
-                lightbox.setAttribute('aria-hidden', 'true');
-                document.body.classList.remove('gallery-lightbox-open');
-            };
-
-            lightbox.addEventListener('click', (event) => {
-                if (event.target === lightbox) closeLightbox();
-            });
-
-            document.addEventListener('click', (event) => {
-                const galleryImage = event.target.closest('.gallery-image');
-                if (galleryImage) {
-                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
-                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
-                    lightbox.classList.add('is-open');
-                    lightbox.setAttribute('aria-hidden', 'false');
-                    document.body.classList.add('gallery-lightbox-open');
-                    return;
-                }
-
-                if (event.target.closest('.gallery-lightbox-close')) {
-                    closeLightbox();
-                }
-            });
-
-            document.addEventListener('keydown', (event) => {
-                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
-            });
-        };
-
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
-        } else {
-            createLightbox();
-        }
-    })();
-</script>
 <p><strong>Shrimpy friends:</strong>
 Some species live in symbiosis with corals, sponges, sea fans and other animals. The most amazing must be
 <a href="../../../../vertebrates/fish/gobiidae/shrimpgoby">the relationship between the snapping shrimp and goby</a>
@@ -541,59 +435,6 @@ This tiny shrimp (about 1cm) lives in pairs on
 
 </div>
 
-<script>
-    (() => {
-        const createLightbox = () => {
-            if (document.querySelector('.gallery-lightbox')) return;
-
-            const lightbox = document.createElement('div');
-            lightbox.className = 'gallery-lightbox';
-            lightbox.setAttribute('aria-hidden', 'true');
-            lightbox.innerHTML = `
-                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
-                <img class="gallery-lightbox-image" alt="">
-            `;
-            document.body.appendChild(lightbox);
-
-            const closeLightbox = () => {
-                lightbox.classList.remove('is-open');
-                lightbox.setAttribute('aria-hidden', 'true');
-                document.body.classList.remove('gallery-lightbox-open');
-            };
-
-            lightbox.addEventListener('click', (event) => {
-                if (event.target === lightbox) closeLightbox();
-            });
-
-            document.addEventListener('click', (event) => {
-                const galleryImage = event.target.closest('.gallery-image');
-                if (galleryImage) {
-                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
-                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
-                    lightbox.classList.add('is-open');
-                    lightbox.setAttribute('aria-hidden', 'false');
-                    document.body.classList.add('gallery-lightbox-open');
-                    return;
-                }
-
-                if (event.target.closest('.gallery-lightbox-close')) {
-                    closeLightbox();
-                }
-            });
-
-            document.addEventListener('keydown', (event) => {
-                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
-            });
-        };
-
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
-        } else {
-            createLightbox();
-        }
-    })();
-</script>
-
 <hr />
 
 <div class="img-wrap-group">
@@ -614,59 +455,6 @@ This tiny shrimp (about 1cm) lives in pairs on
     
 
 </div>
-
-<script>
-    (() => {
-        const createLightbox = () => {
-            if (document.querySelector('.gallery-lightbox')) return;
-
-            const lightbox = document.createElement('div');
-            lightbox.className = 'gallery-lightbox';
-            lightbox.setAttribute('aria-hidden', 'true');
-            lightbox.innerHTML = `
-                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
-                <img class="gallery-lightbox-image" alt="">
-            `;
-            document.body.appendChild(lightbox);
-
-            const closeLightbox = () => {
-                lightbox.classList.remove('is-open');
-                lightbox.setAttribute('aria-hidden', 'true');
-                document.body.classList.remove('gallery-lightbox-open');
-            };
-
-            lightbox.addEventListener('click', (event) => {
-                if (event.target === lightbox) closeLightbox();
-            });
-
-            document.addEventListener('click', (event) => {
-                const galleryImage = event.target.closest('.gallery-image');
-                if (galleryImage) {
-                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
-                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
-                    lightbox.classList.add('is-open');
-                    lightbox.setAttribute('aria-hidden', 'false');
-                    document.body.classList.add('gallery-lightbox-open');
-                    return;
-                }
-
-                if (event.target.closest('.gallery-lightbox-close')) {
-                    closeLightbox();
-                }
-            });
-
-            document.addEventListener('keydown', (event) => {
-                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
-            });
-        };
-
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
-        } else {
-            createLightbox();
-        }
-    })();
-</script>
 
 <hr />
 

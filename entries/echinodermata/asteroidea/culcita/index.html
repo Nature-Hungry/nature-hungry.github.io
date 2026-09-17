@@ -68,7 +68,7 @@
         <div class="nav-links">
             <a href="/explore">Explore</a>
             <a href="/reclamation/index/">Reclamation</a>
-            <a href="/articles/concepts">Concepts</a>
+            <a href="/articles/">Articles</a>
             <a href="/about">About</a>
             <a href="/makeadiff/">Make a Difference</a>
             <a href="/links">Useful Links</a>
@@ -112,9 +112,9 @@
           </div>
           <a href="/explore">Explore</a>
           <a href="/reclamation/index/">Reclamation</a>
-          <a href="/wildfacts/concepts">Concepts</a>
+          <a href="/articles/">Articles</a>
           <a href="/about">About</a>
-          <a href="/wildfacts/makeadiff/">Make a Difference</a>
+          <a href="/makeadiff/">Make a Difference</a>
           <a href="/links">Useful Links</a>
           <hr>
           
@@ -327,59 +327,6 @@ seen on our shores.</p>
 
 </div>
 
-<script>
-    (() => {
-        const createLightbox = () => {
-            if (document.querySelector('.gallery-lightbox')) return;
-
-            const lightbox = document.createElement('div');
-            lightbox.className = 'gallery-lightbox';
-            lightbox.setAttribute('aria-hidden', 'true');
-            lightbox.innerHTML = `
-                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
-                <img class="gallery-lightbox-image" alt="">
-            `;
-            document.body.appendChild(lightbox);
-
-            const closeLightbox = () => {
-                lightbox.classList.remove('is-open');
-                lightbox.setAttribute('aria-hidden', 'true');
-                document.body.classList.remove('gallery-lightbox-open');
-            };
-
-            lightbox.addEventListener('click', (event) => {
-                if (event.target === lightbox) closeLightbox();
-            });
-
-            document.addEventListener('click', (event) => {
-                const galleryImage = event.target.closest('.gallery-image');
-                if (galleryImage) {
-                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
-                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
-                    lightbox.classList.add('is-open');
-                    lightbox.setAttribute('aria-hidden', 'false');
-                    document.body.classList.add('gallery-lightbox-open');
-                    return;
-                }
-
-                if (event.target.closest('.gallery-lightbox-close')) {
-                    closeLightbox();
-                }
-            });
-
-            document.addEventListener('keydown', (event) => {
-                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
-            });
-        };
-
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
-        } else {
-            createLightbox();
-        }
-    })();
-</script>
-
 <div class="img-wrap-group">
     
     <div class="img-container">
@@ -398,59 +345,6 @@ seen on our shores.</p>
     
 
 </div>
-
-<script>
-    (() => {
-        const createLightbox = () => {
-            if (document.querySelector('.gallery-lightbox')) return;
-
-            const lightbox = document.createElement('div');
-            lightbox.className = 'gallery-lightbox';
-            lightbox.setAttribute('aria-hidden', 'true');
-            lightbox.innerHTML = `
-                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
-                <img class="gallery-lightbox-image" alt="">
-            `;
-            document.body.appendChild(lightbox);
-
-            const closeLightbox = () => {
-                lightbox.classList.remove('is-open');
-                lightbox.setAttribute('aria-hidden', 'true');
-                document.body.classList.remove('gallery-lightbox-open');
-            };
-
-            lightbox.addEventListener('click', (event) => {
-                if (event.target === lightbox) closeLightbox();
-            });
-
-            document.addEventListener('click', (event) => {
-                const galleryImage = event.target.closest('.gallery-image');
-                if (galleryImage) {
-                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
-                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
-                    lightbox.classList.add('is-open');
-                    lightbox.setAttribute('aria-hidden', 'false');
-                    document.body.classList.add('gallery-lightbox-open');
-                    return;
-                }
-
-                if (event.target.closest('.gallery-lightbox-close')) {
-                    closeLightbox();
-                }
-            });
-
-            document.addEventListener('keydown', (event) => {
-                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
-            });
-        };
-
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
-        } else {
-            createLightbox();
-        }
-    })();
-</script>
 
 <hr />
 
@@ -472,59 +366,6 @@ seen on our shores.</p>
     
 
 </div>
-
-<script>
-    (() => {
-        const createLightbox = () => {
-            if (document.querySelector('.gallery-lightbox')) return;
-
-            const lightbox = document.createElement('div');
-            lightbox.className = 'gallery-lightbox';
-            lightbox.setAttribute('aria-hidden', 'true');
-            lightbox.innerHTML = `
-                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
-                <img class="gallery-lightbox-image" alt="">
-            `;
-            document.body.appendChild(lightbox);
-
-            const closeLightbox = () => {
-                lightbox.classList.remove('is-open');
-                lightbox.setAttribute('aria-hidden', 'true');
-                document.body.classList.remove('gallery-lightbox-open');
-            };
-
-            lightbox.addEventListener('click', (event) => {
-                if (event.target === lightbox) closeLightbox();
-            });
-
-            document.addEventListener('click', (event) => {
-                const galleryImage = event.target.closest('.gallery-image');
-                if (galleryImage) {
-                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
-                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
-                    lightbox.classList.add('is-open');
-                    lightbox.setAttribute('aria-hidden', 'false');
-                    document.body.classList.add('gallery-lightbox-open');
-                    return;
-                }
-
-                if (event.target.closest('.gallery-lightbox-close')) {
-                    closeLightbox();
-                }
-            });
-
-            document.addEventListener('keydown', (event) => {
-                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
-            });
-        };
-
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
-        } else {
-            createLightbox();
-        }
-    })();
-</script>
 <p><strong>What does it eat?</strong>
 It is reported that they eat live corals similar to the feeding habits of the dreaded Crown-of-thorns sea star (<em>Acanthaster planci</em>). According to Chow, it has been found to eat some species of hard corals. But according to Lane, those in Singapore evert their stomachs over immobile animals or even on sediments to eat the organic particles found there. According to Gosliner,
 <em>Culcita</em>
@@ -591,59 +432,6 @@ for free download</li>
 
 </div>
 
-<script>
-    (() => {
-        const createLightbox = () => {
-            if (document.querySelector('.gallery-lightbox')) return;
-
-            const lightbox = document.createElement('div');
-            lightbox.className = 'gallery-lightbox';
-            lightbox.setAttribute('aria-hidden', 'true');
-            lightbox.innerHTML = `
-                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
-                <img class="gallery-lightbox-image" alt="">
-            `;
-            document.body.appendChild(lightbox);
-
-            const closeLightbox = () => {
-                lightbox.classList.remove('is-open');
-                lightbox.setAttribute('aria-hidden', 'true');
-                document.body.classList.remove('gallery-lightbox-open');
-            };
-
-            lightbox.addEventListener('click', (event) => {
-                if (event.target === lightbox) closeLightbox();
-            });
-
-            document.addEventListener('click', (event) => {
-                const galleryImage = event.target.closest('.gallery-image');
-                if (galleryImage) {
-                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
-                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
-                    lightbox.classList.add('is-open');
-                    lightbox.setAttribute('aria-hidden', 'false');
-                    document.body.classList.add('gallery-lightbox-open');
-                    return;
-                }
-
-                if (event.target.closest('.gallery-lightbox-close')) {
-                    closeLightbox();
-                }
-            });
-
-            document.addEventListener('keydown', (event) => {
-                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
-            });
-        };
-
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
-        } else {
-            createLightbox();
-        }
-    })();
-</script>
-
 <hr />
 
 <div class="img-wrap-group">
@@ -672,59 +460,6 @@ for free download</li>
 
 </div>
 
-<script>
-    (() => {
-        const createLightbox = () => {
-            if (document.querySelector('.gallery-lightbox')) return;
-
-            const lightbox = document.createElement('div');
-            lightbox.className = 'gallery-lightbox';
-            lightbox.setAttribute('aria-hidden', 'true');
-            lightbox.innerHTML = `
-                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
-                <img class="gallery-lightbox-image" alt="">
-            `;
-            document.body.appendChild(lightbox);
-
-            const closeLightbox = () => {
-                lightbox.classList.remove('is-open');
-                lightbox.setAttribute('aria-hidden', 'true');
-                document.body.classList.remove('gallery-lightbox-open');
-            };
-
-            lightbox.addEventListener('click', (event) => {
-                if (event.target === lightbox) closeLightbox();
-            });
-
-            document.addEventListener('click', (event) => {
-                const galleryImage = event.target.closest('.gallery-image');
-                if (galleryImage) {
-                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
-                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
-                    lightbox.classList.add('is-open');
-                    lightbox.setAttribute('aria-hidden', 'false');
-                    document.body.classList.add('gallery-lightbox-open');
-                    return;
-                }
-
-                if (event.target.closest('.gallery-lightbox-close')) {
-                    closeLightbox();
-                }
-            });
-
-            document.addEventListener('keydown', (event) => {
-                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
-            });
-        };
-
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
-        } else {
-            createLightbox();
-        }
-    })();
-</script>
-
 <hr />
 
 <div class="img-wrap-group">
@@ -738,59 +473,6 @@ for free download</li>
     
 
 </div>
-
-<script>
-    (() => {
-        const createLightbox = () => {
-            if (document.querySelector('.gallery-lightbox')) return;
-
-            const lightbox = document.createElement('div');
-            lightbox.className = 'gallery-lightbox';
-            lightbox.setAttribute('aria-hidden', 'true');
-            lightbox.innerHTML = `
-                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
-                <img class="gallery-lightbox-image" alt="">
-            `;
-            document.body.appendChild(lightbox);
-
-            const closeLightbox = () => {
-                lightbox.classList.remove('is-open');
-                lightbox.setAttribute('aria-hidden', 'true');
-                document.body.classList.remove('gallery-lightbox-open');
-            };
-
-            lightbox.addEventListener('click', (event) => {
-                if (event.target === lightbox) closeLightbox();
-            });
-
-            document.addEventListener('click', (event) => {
-                const galleryImage = event.target.closest('.gallery-image');
-                if (galleryImage) {
-                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
-                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
-                    lightbox.classList.add('is-open');
-                    lightbox.setAttribute('aria-hidden', 'false');
-                    document.body.classList.add('gallery-lightbox-open');
-                    return;
-                }
-
-                if (event.target.closest('.gallery-lightbox-close')) {
-                    closeLightbox();
-                }
-            });
-
-            document.addEventListener('keydown', (event) => {
-                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
-            });
-        };
-
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
-        } else {
-            createLightbox();
-        }
-    })();
-</script>
 
 <hr />
 
@@ -820,59 +502,6 @@ for free download</li>
 
 </div>
 
-<script>
-    (() => {
-        const createLightbox = () => {
-            if (document.querySelector('.gallery-lightbox')) return;
-
-            const lightbox = document.createElement('div');
-            lightbox.className = 'gallery-lightbox';
-            lightbox.setAttribute('aria-hidden', 'true');
-            lightbox.innerHTML = `
-                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
-                <img class="gallery-lightbox-image" alt="">
-            `;
-            document.body.appendChild(lightbox);
-
-            const closeLightbox = () => {
-                lightbox.classList.remove('is-open');
-                lightbox.setAttribute('aria-hidden', 'true');
-                document.body.classList.remove('gallery-lightbox-open');
-            };
-
-            lightbox.addEventListener('click', (event) => {
-                if (event.target === lightbox) closeLightbox();
-            });
-
-            document.addEventListener('click', (event) => {
-                const galleryImage = event.target.closest('.gallery-image');
-                if (galleryImage) {
-                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
-                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
-                    lightbox.classList.add('is-open');
-                    lightbox.setAttribute('aria-hidden', 'false');
-                    document.body.classList.add('gallery-lightbox-open');
-                    return;
-                }
-
-                if (event.target.closest('.gallery-lightbox-close')) {
-                    closeLightbox();
-                }
-            });
-
-            document.addEventListener('keydown', (event) => {
-                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
-            });
-        };
-
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
-        } else {
-            createLightbox();
-        }
-    })();
-</script>
-
 <hr />
 
 <div class="img-wrap-group">
@@ -893,59 +522,6 @@ for free download</li>
     
 
 </div>
-
-<script>
-    (() => {
-        const createLightbox = () => {
-            if (document.querySelector('.gallery-lightbox')) return;
-
-            const lightbox = document.createElement('div');
-            lightbox.className = 'gallery-lightbox';
-            lightbox.setAttribute('aria-hidden', 'true');
-            lightbox.innerHTML = `
-                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
-                <img class="gallery-lightbox-image" alt="">
-            `;
-            document.body.appendChild(lightbox);
-
-            const closeLightbox = () => {
-                lightbox.classList.remove('is-open');
-                lightbox.setAttribute('aria-hidden', 'true');
-                document.body.classList.remove('gallery-lightbox-open');
-            };
-
-            lightbox.addEventListener('click', (event) => {
-                if (event.target === lightbox) closeLightbox();
-            });
-
-            document.addEventListener('click', (event) => {
-                const galleryImage = event.target.closest('.gallery-image');
-                if (galleryImage) {
-                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
-                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
-                    lightbox.classList.add('is-open');
-                    lightbox.setAttribute('aria-hidden', 'false');
-                    document.body.classList.add('gallery-lightbox-open');
-                    return;
-                }
-
-                if (event.target.closest('.gallery-lightbox-close')) {
-                    closeLightbox();
-                }
-            });
-
-            document.addEventListener('keydown', (event) => {
-                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
-            });
-        };
-
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
-        } else {
-            createLightbox();
-        }
-    })();
-</script>
 
 <hr />
 
@@ -975,59 +551,6 @@ for free download</li>
 
 </div>
 
-<script>
-    (() => {
-        const createLightbox = () => {
-            if (document.querySelector('.gallery-lightbox')) return;
-
-            const lightbox = document.createElement('div');
-            lightbox.className = 'gallery-lightbox';
-            lightbox.setAttribute('aria-hidden', 'true');
-            lightbox.innerHTML = `
-                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
-                <img class="gallery-lightbox-image" alt="">
-            `;
-            document.body.appendChild(lightbox);
-
-            const closeLightbox = () => {
-                lightbox.classList.remove('is-open');
-                lightbox.setAttribute('aria-hidden', 'true');
-                document.body.classList.remove('gallery-lightbox-open');
-            };
-
-            lightbox.addEventListener('click', (event) => {
-                if (event.target === lightbox) closeLightbox();
-            });
-
-            document.addEventListener('click', (event) => {
-                const galleryImage = event.target.closest('.gallery-image');
-                if (galleryImage) {
-                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
-                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
-                    lightbox.classList.add('is-open');
-                    lightbox.setAttribute('aria-hidden', 'false');
-                    document.body.classList.add('gallery-lightbox-open');
-                    return;
-                }
-
-                if (event.target.closest('.gallery-lightbox-close')) {
-                    closeLightbox();
-                }
-            });
-
-            document.addEventListener('keydown', (event) => {
-                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
-            });
-        };
-
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
-        } else {
-            createLightbox();
-        }
-    })();
-</script>
-
 <hr />
 
 <div class="img-wrap-group">
@@ -1055,59 +578,6 @@ for free download</li>
     
 
 </div>
-
-<script>
-    (() => {
-        const createLightbox = () => {
-            if (document.querySelector('.gallery-lightbox')) return;
-
-            const lightbox = document.createElement('div');
-            lightbox.className = 'gallery-lightbox';
-            lightbox.setAttribute('aria-hidden', 'true');
-            lightbox.innerHTML = `
-                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
-                <img class="gallery-lightbox-image" alt="">
-            `;
-            document.body.appendChild(lightbox);
-
-            const closeLightbox = () => {
-                lightbox.classList.remove('is-open');
-                lightbox.setAttribute('aria-hidden', 'true');
-                document.body.classList.remove('gallery-lightbox-open');
-            };
-
-            lightbox.addEventListener('click', (event) => {
-                if (event.target === lightbox) closeLightbox();
-            });
-
-            document.addEventListener('click', (event) => {
-                const galleryImage = event.target.closest('.gallery-image');
-                if (galleryImage) {
-                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
-                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
-                    lightbox.classList.add('is-open');
-                    lightbox.setAttribute('aria-hidden', 'false');
-                    document.body.classList.add('gallery-lightbox-open');
-                    return;
-                }
-
-                if (event.target.closest('.gallery-lightbox-close')) {
-                    closeLightbox();
-                }
-            });
-
-            document.addEventListener('keydown', (event) => {
-                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
-            });
-        };
-
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
-        } else {
-            createLightbox();
-        }
-    })();
-</script>
 
 <hr />
 
@@ -1137,59 +607,6 @@ for free download</li>
 
 </div>
 
-<script>
-    (() => {
-        const createLightbox = () => {
-            if (document.querySelector('.gallery-lightbox')) return;
-
-            const lightbox = document.createElement('div');
-            lightbox.className = 'gallery-lightbox';
-            lightbox.setAttribute('aria-hidden', 'true');
-            lightbox.innerHTML = `
-                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
-                <img class="gallery-lightbox-image" alt="">
-            `;
-            document.body.appendChild(lightbox);
-
-            const closeLightbox = () => {
-                lightbox.classList.remove('is-open');
-                lightbox.setAttribute('aria-hidden', 'true');
-                document.body.classList.remove('gallery-lightbox-open');
-            };
-
-            lightbox.addEventListener('click', (event) => {
-                if (event.target === lightbox) closeLightbox();
-            });
-
-            document.addEventListener('click', (event) => {
-                const galleryImage = event.target.closest('.gallery-image');
-                if (galleryImage) {
-                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
-                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
-                    lightbox.classList.add('is-open');
-                    lightbox.setAttribute('aria-hidden', 'false');
-                    document.body.classList.add('gallery-lightbox-open');
-                    return;
-                }
-
-                if (event.target.closest('.gallery-lightbox-close')) {
-                    closeLightbox();
-                }
-            });
-
-            document.addEventListener('keydown', (event) => {
-                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
-            });
-        };
-
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
-        } else {
-            createLightbox();
-        }
-    })();
-</script>
-
 <hr />
 
 <div class="img-wrap-group">
@@ -1218,59 +635,6 @@ for free download</li>
 
 </div>
 
-<script>
-    (() => {
-        const createLightbox = () => {
-            if (document.querySelector('.gallery-lightbox')) return;
-
-            const lightbox = document.createElement('div');
-            lightbox.className = 'gallery-lightbox';
-            lightbox.setAttribute('aria-hidden', 'true');
-            lightbox.innerHTML = `
-                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
-                <img class="gallery-lightbox-image" alt="">
-            `;
-            document.body.appendChild(lightbox);
-
-            const closeLightbox = () => {
-                lightbox.classList.remove('is-open');
-                lightbox.setAttribute('aria-hidden', 'true');
-                document.body.classList.remove('gallery-lightbox-open');
-            };
-
-            lightbox.addEventListener('click', (event) => {
-                if (event.target === lightbox) closeLightbox();
-            });
-
-            document.addEventListener('click', (event) => {
-                const galleryImage = event.target.closest('.gallery-image');
-                if (galleryImage) {
-                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
-                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
-                    lightbox.classList.add('is-open');
-                    lightbox.setAttribute('aria-hidden', 'false');
-                    document.body.classList.add('gallery-lightbox-open');
-                    return;
-                }
-
-                if (event.target.closest('.gallery-lightbox-close')) {
-                    closeLightbox();
-                }
-            });
-
-            document.addEventListener('keydown', (event) => {
-                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
-            });
-        };
-
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
-        } else {
-            createLightbox();
-        }
-    })();
-</script>
-
 <hr />
 
 <div class="img-wrap-group">
@@ -1292,59 +656,6 @@ for free download</li>
 
 </div>
 
-<script>
-    (() => {
-        const createLightbox = () => {
-            if (document.querySelector('.gallery-lightbox')) return;
-
-            const lightbox = document.createElement('div');
-            lightbox.className = 'gallery-lightbox';
-            lightbox.setAttribute('aria-hidden', 'true');
-            lightbox.innerHTML = `
-                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
-                <img class="gallery-lightbox-image" alt="">
-            `;
-            document.body.appendChild(lightbox);
-
-            const closeLightbox = () => {
-                lightbox.classList.remove('is-open');
-                lightbox.setAttribute('aria-hidden', 'true');
-                document.body.classList.remove('gallery-lightbox-open');
-            };
-
-            lightbox.addEventListener('click', (event) => {
-                if (event.target === lightbox) closeLightbox();
-            });
-
-            document.addEventListener('click', (event) => {
-                const galleryImage = event.target.closest('.gallery-image');
-                if (galleryImage) {
-                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
-                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
-                    lightbox.classList.add('is-open');
-                    lightbox.setAttribute('aria-hidden', 'false');
-                    document.body.classList.add('gallery-lightbox-open');
-                    return;
-                }
-
-                if (event.target.closest('.gallery-lightbox-close')) {
-                    closeLightbox();
-                }
-            });
-
-            document.addEventListener('keydown', (event) => {
-                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
-            });
-        };
-
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
-        } else {
-            createLightbox();
-        }
-    })();
-</script>
-
 <hr />
 
 <div class="img-wrap-group">
@@ -1365,59 +676,6 @@ for free download</li>
     
 
 </div>
-
-<script>
-    (() => {
-        const createLightbox = () => {
-            if (document.querySelector('.gallery-lightbox')) return;
-
-            const lightbox = document.createElement('div');
-            lightbox.className = 'gallery-lightbox';
-            lightbox.setAttribute('aria-hidden', 'true');
-            lightbox.innerHTML = `
-                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
-                <img class="gallery-lightbox-image" alt="">
-            `;
-            document.body.appendChild(lightbox);
-
-            const closeLightbox = () => {
-                lightbox.classList.remove('is-open');
-                lightbox.setAttribute('aria-hidden', 'true');
-                document.body.classList.remove('gallery-lightbox-open');
-            };
-
-            lightbox.addEventListener('click', (event) => {
-                if (event.target === lightbox) closeLightbox();
-            });
-
-            document.addEventListener('click', (event) => {
-                const galleryImage = event.target.closest('.gallery-image');
-                if (galleryImage) {
-                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
-                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
-                    lightbox.classList.add('is-open');
-                    lightbox.setAttribute('aria-hidden', 'false');
-                    document.body.classList.add('gallery-lightbox-open');
-                    return;
-                }
-
-                if (event.target.closest('.gallery-lightbox-close')) {
-                    closeLightbox();
-                }
-            });
-
-            document.addEventListener('keydown', (event) => {
-                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
-            });
-        };
-
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
-        } else {
-            createLightbox();
-        }
-    })();
-</script>
 
 <hr />
 
@@ -1447,59 +705,6 @@ for free download</li>
 
 </div>
 
-<script>
-    (() => {
-        const createLightbox = () => {
-            if (document.querySelector('.gallery-lightbox')) return;
-
-            const lightbox = document.createElement('div');
-            lightbox.className = 'gallery-lightbox';
-            lightbox.setAttribute('aria-hidden', 'true');
-            lightbox.innerHTML = `
-                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
-                <img class="gallery-lightbox-image" alt="">
-            `;
-            document.body.appendChild(lightbox);
-
-            const closeLightbox = () => {
-                lightbox.classList.remove('is-open');
-                lightbox.setAttribute('aria-hidden', 'true');
-                document.body.classList.remove('gallery-lightbox-open');
-            };
-
-            lightbox.addEventListener('click', (event) => {
-                if (event.target === lightbox) closeLightbox();
-            });
-
-            document.addEventListener('click', (event) => {
-                const galleryImage = event.target.closest('.gallery-image');
-                if (galleryImage) {
-                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
-                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
-                    lightbox.classList.add('is-open');
-                    lightbox.setAttribute('aria-hidden', 'false');
-                    document.body.classList.add('gallery-lightbox-open');
-                    return;
-                }
-
-                if (event.target.closest('.gallery-lightbox-close')) {
-                    closeLightbox();
-                }
-            });
-
-            document.addEventListener('keydown', (event) => {
-                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
-            });
-        };
-
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
-        } else {
-            createLightbox();
-        }
-    })();
-</script>
-
 <hr />
 
 <div class="img-wrap-group">
@@ -1528,118 +733,12 @@ for free download</li>
 
 </div>
 
-<script>
-    (() => {
-        const createLightbox = () => {
-            if (document.querySelector('.gallery-lightbox')) return;
-
-            const lightbox = document.createElement('div');
-            lightbox.className = 'gallery-lightbox';
-            lightbox.setAttribute('aria-hidden', 'true');
-            lightbox.innerHTML = `
-                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
-                <img class="gallery-lightbox-image" alt="">
-            `;
-            document.body.appendChild(lightbox);
-
-            const closeLightbox = () => {
-                lightbox.classList.remove('is-open');
-                lightbox.setAttribute('aria-hidden', 'true');
-                document.body.classList.remove('gallery-lightbox-open');
-            };
-
-            lightbox.addEventListener('click', (event) => {
-                if (event.target === lightbox) closeLightbox();
-            });
-
-            document.addEventListener('click', (event) => {
-                const galleryImage = event.target.closest('.gallery-image');
-                if (galleryImage) {
-                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
-                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
-                    lightbox.classList.add('is-open');
-                    lightbox.setAttribute('aria-hidden', 'false');
-                    document.body.classList.add('gallery-lightbox-open');
-                    return;
-                }
-
-                if (event.target.closest('.gallery-lightbox-close')) {
-                    closeLightbox();
-                }
-            });
-
-            document.addEventListener('keydown', (event) => {
-                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
-            });
-        };
-
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
-        } else {
-            createLightbox();
-        }
-    })();
-</script>
-
 <hr />
 
 <div class="img-wrap-group">
     
 
 </div>
-
-<script>
-    (() => {
-        const createLightbox = () => {
-            if (document.querySelector('.gallery-lightbox')) return;
-
-            const lightbox = document.createElement('div');
-            lightbox.className = 'gallery-lightbox';
-            lightbox.setAttribute('aria-hidden', 'true');
-            lightbox.innerHTML = `
-                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
-                <img class="gallery-lightbox-image" alt="">
-            `;
-            document.body.appendChild(lightbox);
-
-            const closeLightbox = () => {
-                lightbox.classList.remove('is-open');
-                lightbox.setAttribute('aria-hidden', 'true');
-                document.body.classList.remove('gallery-lightbox-open');
-            };
-
-            lightbox.addEventListener('click', (event) => {
-                if (event.target === lightbox) closeLightbox();
-            });
-
-            document.addEventListener('click', (event) => {
-                const galleryImage = event.target.closest('.gallery-image');
-                if (galleryImage) {
-                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
-                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
-                    lightbox.classList.add('is-open');
-                    lightbox.setAttribute('aria-hidden', 'false');
-                    document.body.classList.add('gallery-lightbox-open');
-                    return;
-                }
-
-                if (event.target.closest('.gallery-lightbox-close')) {
-                    closeLightbox();
-                }
-            });
-
-            document.addEventListener('keydown', (event) => {
-                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
-            });
-        };
-
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
-        } else {
-            createLightbox();
-        }
-    })();
-</script>
 
 
 

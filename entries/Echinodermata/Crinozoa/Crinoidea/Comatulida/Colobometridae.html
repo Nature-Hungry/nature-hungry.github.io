@@ -68,7 +68,7 @@
         <div class="nav-links">
             <a href="/explore">Explore</a>
             <a href="/reclamation/index/">Reclamation</a>
-            <a href="/articles/concepts">Concepts</a>
+            <a href="/articles/">Articles</a>
             <a href="/about">About</a>
             <a href="/makeadiff/">Make a Difference</a>
             <a href="/links">Useful Links</a>
@@ -112,9 +112,9 @@
           </div>
           <a href="/explore">Explore</a>
           <a href="/reclamation/index/">Reclamation</a>
-          <a href="/wildfacts/concepts">Concepts</a>
+          <a href="/articles/">Articles</a>
           <a href="/about">About</a>
-          <a href="/wildfacts/makeadiff/">Make a Difference</a>
+          <a href="/makeadiff/">Make a Difference</a>
           <a href="/links">Useful Links</a>
           <hr>
           
@@ -305,59 +305,6 @@ Feather stars belong to Phylum
 
 </div>
 
-<script>
-    (() => {
-        const createLightbox = () => {
-            if (document.querySelector('.gallery-lightbox')) return;
-
-            const lightbox = document.createElement('div');
-            lightbox.className = 'gallery-lightbox';
-            lightbox.setAttribute('aria-hidden', 'true');
-            lightbox.innerHTML = `
-                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
-                <img class="gallery-lightbox-image" alt="">
-            `;
-            document.body.appendChild(lightbox);
-
-            const closeLightbox = () => {
-                lightbox.classList.remove('is-open');
-                lightbox.setAttribute('aria-hidden', 'true');
-                document.body.classList.remove('gallery-lightbox-open');
-            };
-
-            lightbox.addEventListener('click', (event) => {
-                if (event.target === lightbox) closeLightbox();
-            });
-
-            document.addEventListener('click', (event) => {
-                const galleryImage = event.target.closest('.gallery-image');
-                if (galleryImage) {
-                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
-                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
-                    lightbox.classList.add('is-open');
-                    lightbox.setAttribute('aria-hidden', 'false');
-                    document.body.classList.add('gallery-lightbox-open');
-                    return;
-                }
-
-                if (event.target.closest('.gallery-lightbox-close')) {
-                    closeLightbox();
-                }
-            });
-
-            document.addEventListener('keydown', (event) => {
-                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
-            });
-        };
-
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
-        } else {
-            createLightbox();
-        }
-    })();
-</script>
-
 <h2 id="features">Features</h2>
 
 <p>Like other echinoderms, feather stars are symmetrical along five axes, have spiny skin and tube feet. Like brittle stars, feather stars have thin, long and highly flexible arms. But crinoids are much more spectacular than brittle stars, with an explosion of long feathery arms.</p>
@@ -391,59 +338,6 @@ Feather stars belong to Phylum
     
 
 </div>
-
-<script>
-    (() => {
-        const createLightbox = () => {
-            if (document.querySelector('.gallery-lightbox')) return;
-
-            const lightbox = document.createElement('div');
-            lightbox.className = 'gallery-lightbox';
-            lightbox.setAttribute('aria-hidden', 'true');
-            lightbox.innerHTML = `
-                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
-                <img class="gallery-lightbox-image" alt="">
-            `;
-            document.body.appendChild(lightbox);
-
-            const closeLightbox = () => {
-                lightbox.classList.remove('is-open');
-                lightbox.setAttribute('aria-hidden', 'true');
-                document.body.classList.remove('gallery-lightbox-open');
-            };
-
-            lightbox.addEventListener('click', (event) => {
-                if (event.target === lightbox) closeLightbox();
-            });
-
-            document.addEventListener('click', (event) => {
-                const galleryImage = event.target.closest('.gallery-image');
-                if (galleryImage) {
-                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
-                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
-                    lightbox.classList.add('is-open');
-                    lightbox.setAttribute('aria-hidden', 'false');
-                    document.body.classList.add('gallery-lightbox-open');
-                    return;
-                }
-
-                if (event.target.closest('.gallery-lightbox-close')) {
-                    closeLightbox();
-                }
-            });
-
-            document.addEventListener('keydown', (event) => {
-                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
-            });
-        };
-
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
-        } else {
-            createLightbox();
-        }
-    })();
-</script>
 <p><strong>Sometimes confused with</strong>
 <a href="../../ophiuroidea/ophiuroidea">brittle stars</a>
 which also have bristley arms. But brittle stars usually only have 5 or 6 arms. More on how to tell apart
@@ -485,59 +379,6 @@ Feather stars feed on tiny drifting organisms and particles, gathering these pas
     
 
 </div>
-
-<script>
-    (() => {
-        const createLightbox = () => {
-            if (document.querySelector('.gallery-lightbox')) return;
-
-            const lightbox = document.createElement('div');
-            lightbox.className = 'gallery-lightbox';
-            lightbox.setAttribute('aria-hidden', 'true');
-            lightbox.innerHTML = `
-                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
-                <img class="gallery-lightbox-image" alt="">
-            `;
-            document.body.appendChild(lightbox);
-
-            const closeLightbox = () => {
-                lightbox.classList.remove('is-open');
-                lightbox.setAttribute('aria-hidden', 'true');
-                document.body.classList.remove('gallery-lightbox-open');
-            };
-
-            lightbox.addEventListener('click', (event) => {
-                if (event.target === lightbox) closeLightbox();
-            });
-
-            document.addEventListener('click', (event) => {
-                const galleryImage = event.target.closest('.gallery-image');
-                if (galleryImage) {
-                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
-                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
-                    lightbox.classList.add('is-open');
-                    lightbox.setAttribute('aria-hidden', 'false');
-                    document.body.classList.add('gallery-lightbox-open');
-                    return;
-                }
-
-                if (event.target.closest('.gallery-lightbox-close')) {
-                    closeLightbox();
-                }
-            });
-
-            document.addEventListener('keydown', (event) => {
-                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
-            });
-        };
-
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
-        } else {
-            createLightbox();
-        }
-    })();
-</script>
 <p><strong>Swimming stars:</strong>
 Feather stars can move about by moving their arms. They crawl over soft sediments, using their arms to drag themselves over the surface, lifting up the central portion of their bodies. Their arms and pinnules have tiny hooks that catch on the surface. They can also swim by thrashing their arms in the water in co-ordinated strokes. However, feather stars usually only crawl or swim to get away from predators. They usually don’t move around very much once they find a good spot to settle on. Feather stars are usually perched on top of tall living or dead hard corals, sponges and other sturdy anchors. Here, they extend their arms into the currents and gather food.</p>
 
@@ -572,59 +413,6 @@ Feather stars have separate genders and are usually either male or female. The e
     
 
 </div>
-
-<script>
-    (() => {
-        const createLightbox = () => {
-            if (document.querySelector('.gallery-lightbox')) return;
-
-            const lightbox = document.createElement('div');
-            lightbox.className = 'gallery-lightbox';
-            lightbox.setAttribute('aria-hidden', 'true');
-            lightbox.innerHTML = `
-                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
-                <img class="gallery-lightbox-image" alt="">
-            `;
-            document.body.appendChild(lightbox);
-
-            const closeLightbox = () => {
-                lightbox.classList.remove('is-open');
-                lightbox.setAttribute('aria-hidden', 'true');
-                document.body.classList.remove('gallery-lightbox-open');
-            };
-
-            lightbox.addEventListener('click', (event) => {
-                if (event.target === lightbox) closeLightbox();
-            });
-
-            document.addEventListener('click', (event) => {
-                const galleryImage = event.target.closest('.gallery-image');
-                if (galleryImage) {
-                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
-                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
-                    lightbox.classList.add('is-open');
-                    lightbox.setAttribute('aria-hidden', 'false');
-                    document.body.classList.add('gallery-lightbox-open');
-                    return;
-                }
-
-                if (event.target.closest('.gallery-lightbox-close')) {
-                    closeLightbox();
-                }
-            });
-
-            document.addEventListener('keydown', (event) => {
-                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
-            });
-        };
-
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
-        } else {
-            createLightbox();
-        }
-    })();
-</script>
 <p><strong>Living off a star:</strong>
 Various small
 <a href="/wildfacts/guides/crustacea/crustacea/crab/pilumnidae/featherstar">crabs</a>
@@ -661,59 +449,6 @@ and other tiny animals may live on a feather star. Some are found no where else.
     
 
 </div>
-
-<script>
-    (() => {
-        const createLightbox = () => {
-            if (document.querySelector('.gallery-lightbox')) return;
-
-            const lightbox = document.createElement('div');
-            lightbox.className = 'gallery-lightbox';
-            lightbox.setAttribute('aria-hidden', 'true');
-            lightbox.innerHTML = `
-                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
-                <img class="gallery-lightbox-image" alt="">
-            `;
-            document.body.appendChild(lightbox);
-
-            const closeLightbox = () => {
-                lightbox.classList.remove('is-open');
-                lightbox.setAttribute('aria-hidden', 'true');
-                document.body.classList.remove('gallery-lightbox-open');
-            };
-
-            lightbox.addEventListener('click', (event) => {
-                if (event.target === lightbox) closeLightbox();
-            });
-
-            document.addEventListener('click', (event) => {
-                const galleryImage = event.target.closest('.gallery-image');
-                if (galleryImage) {
-                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
-                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
-                    lightbox.classList.add('is-open');
-                    lightbox.setAttribute('aria-hidden', 'false');
-                    document.body.classList.add('gallery-lightbox-open');
-                    return;
-                }
-
-                if (event.target.closest('.gallery-lightbox-close')) {
-                    closeLightbox();
-                }
-            });
-
-            document.addEventListener('keydown', (event) => {
-                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
-            });
-        };
-
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
-        } else {
-            createLightbox();
-        }
-    })();
-</script>
 <p><strong>Old stars:</strong>
 Feather stars are the most ancient and considered the most primitive of echinoderms. In the fossil records, there were 10 times more feather stars and sea lilies than there are today.</p>
 
@@ -766,59 +501,6 @@ were considered common in the late 1990’s but were rarely encountered in a sur
 
 </div>
 
-<script>
-    (() => {
-        const createLightbox = () => {
-            if (document.querySelector('.gallery-lightbox')) return;
-
-            const lightbox = document.createElement('div');
-            lightbox.className = 'gallery-lightbox';
-            lightbox.setAttribute('aria-hidden', 'true');
-            lightbox.innerHTML = `
-                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
-                <img class="gallery-lightbox-image" alt="">
-            `;
-            document.body.appendChild(lightbox);
-
-            const closeLightbox = () => {
-                lightbox.classList.remove('is-open');
-                lightbox.setAttribute('aria-hidden', 'true');
-                document.body.classList.remove('gallery-lightbox-open');
-            };
-
-            lightbox.addEventListener('click', (event) => {
-                if (event.target === lightbox) closeLightbox();
-            });
-
-            document.addEventListener('click', (event) => {
-                const galleryImage = event.target.closest('.gallery-image');
-                if (galleryImage) {
-                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
-                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
-                    lightbox.classList.add('is-open');
-                    lightbox.setAttribute('aria-hidden', 'false');
-                    document.body.classList.add('gallery-lightbox-open');
-                    return;
-                }
-
-                if (event.target.closest('.gallery-lightbox-close')) {
-                    closeLightbox();
-                }
-            });
-
-            document.addEventListener('keydown', (event) => {
-                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
-            });
-        };
-
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
-        } else {
-            createLightbox();
-        }
-    })();
-</script>
-
 <hr />
 
 <div class="img-wrap-group">
@@ -846,59 +528,6 @@ were considered common in the late 1990’s but were rarely encountered in a sur
     
 
 </div>
-
-<script>
-    (() => {
-        const createLightbox = () => {
-            if (document.querySelector('.gallery-lightbox')) return;
-
-            const lightbox = document.createElement('div');
-            lightbox.className = 'gallery-lightbox';
-            lightbox.setAttribute('aria-hidden', 'true');
-            lightbox.innerHTML = `
-                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
-                <img class="gallery-lightbox-image" alt="">
-            `;
-            document.body.appendChild(lightbox);
-
-            const closeLightbox = () => {
-                lightbox.classList.remove('is-open');
-                lightbox.setAttribute('aria-hidden', 'true');
-                document.body.classList.remove('gallery-lightbox-open');
-            };
-
-            lightbox.addEventListener('click', (event) => {
-                if (event.target === lightbox) closeLightbox();
-            });
-
-            document.addEventListener('click', (event) => {
-                const galleryImage = event.target.closest('.gallery-image');
-                if (galleryImage) {
-                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
-                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
-                    lightbox.classList.add('is-open');
-                    lightbox.setAttribute('aria-hidden', 'false');
-                    document.body.classList.add('gallery-lightbox-open');
-                    return;
-                }
-
-                if (event.target.closest('.gallery-lightbox-close')) {
-                    closeLightbox();
-                }
-            });
-
-            document.addEventListener('keydown', (event) => {
-                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
-            });
-        };
-
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
-        } else {
-            createLightbox();
-        }
-    })();
-</script>
 
 <hr />
 
@@ -1030,59 +659,6 @@ sp.
     
 
 </div>
-
-<script>
-    (() => {
-        const createLightbox = () => {
-            if (document.querySelector('.gallery-lightbox')) return;
-
-            const lightbox = document.createElement('div');
-            lightbox.className = 'gallery-lightbox';
-            lightbox.setAttribute('aria-hidden', 'true');
-            lightbox.innerHTML = `
-                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
-                <img class="gallery-lightbox-image" alt="">
-            `;
-            document.body.appendChild(lightbox);
-
-            const closeLightbox = () => {
-                lightbox.classList.remove('is-open');
-                lightbox.setAttribute('aria-hidden', 'true');
-                document.body.classList.remove('gallery-lightbox-open');
-            };
-
-            lightbox.addEventListener('click', (event) => {
-                if (event.target === lightbox) closeLightbox();
-            });
-
-            document.addEventListener('click', (event) => {
-                const galleryImage = event.target.closest('.gallery-image');
-                if (galleryImage) {
-                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
-                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
-                    lightbox.classList.add('is-open');
-                    lightbox.setAttribute('aria-hidden', 'false');
-                    document.body.classList.add('gallery-lightbox-open');
-                    return;
-                }
-
-                if (event.target.closest('.gallery-lightbox-close')) {
-                    closeLightbox();
-                }
-            });
-
-            document.addEventListener('keydown', (event) => {
-                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
-            });
-        };
-
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
-        } else {
-            createLightbox();
-        }
-    })();
-</script>
 
 
 

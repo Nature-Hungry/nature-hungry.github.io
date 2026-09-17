@@ -68,7 +68,7 @@
         <div class="nav-links">
             <a href="/explore">Explore</a>
             <a href="/reclamation/index/">Reclamation</a>
-            <a href="/articles/concepts">Concepts</a>
+            <a href="/articles/">Articles</a>
             <a href="/about">About</a>
             <a href="/makeadiff/">Make a Difference</a>
             <a href="/links">Useful Links</a>
@@ -112,9 +112,9 @@
           </div>
           <a href="/explore">Explore</a>
           <a href="/reclamation/index/">Reclamation</a>
-          <a href="/wildfacts/concepts">Concepts</a>
+          <a href="/articles/">Articles</a>
           <a href="/about">About</a>
-          <a href="/wildfacts/makeadiff/">Make a Difference</a>
+          <a href="/makeadiff/">Make a Difference</a>
           <a href="/links">Useful Links</a>
           <hr>
           
@@ -335,59 +335,6 @@
 
 </div>
 
-<script>
-    (() => {
-        const createLightbox = () => {
-            if (document.querySelector('.gallery-lightbox')) return;
-
-            const lightbox = document.createElement('div');
-            lightbox.className = 'gallery-lightbox';
-            lightbox.setAttribute('aria-hidden', 'true');
-            lightbox.innerHTML = `
-                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
-                <img class="gallery-lightbox-image" alt="">
-            `;
-            document.body.appendChild(lightbox);
-
-            const closeLightbox = () => {
-                lightbox.classList.remove('is-open');
-                lightbox.setAttribute('aria-hidden', 'true');
-                document.body.classList.remove('gallery-lightbox-open');
-            };
-
-            lightbox.addEventListener('click', (event) => {
-                if (event.target === lightbox) closeLightbox();
-            });
-
-            document.addEventListener('click', (event) => {
-                const galleryImage = event.target.closest('.gallery-image');
-                if (galleryImage) {
-                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
-                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
-                    lightbox.classList.add('is-open');
-                    lightbox.setAttribute('aria-hidden', 'false');
-                    document.body.classList.add('gallery-lightbox-open');
-                    return;
-                }
-
-                if (event.target.closest('.gallery-lightbox-close')) {
-                    closeLightbox();
-                }
-            });
-
-            document.addEventListener('keydown', (event) => {
-                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
-            });
-        };
-
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
-        } else {
-            createLightbox();
-        }
-    })();
-</script>
-
 <p>Living close to the silty or sandy bottom, stingrays have a different way of taking in water to breathe. To avoid sucking in mud and sand, water is taken in from the upperside of the body through holes called spiracles. These holes are found just beside their eyes. The water is then expelled through five pairs of gill slits on the underside of the body.</p>
 
 <p><strong>Sometimes mistaken for</strong>
@@ -415,59 +362,6 @@ and visa versa. In murky waters, these two different animals do have a similar p
     
 
 </div>
-
-<script>
-    (() => {
-        const createLightbox = () => {
-            if (document.querySelector('.gallery-lightbox')) return;
-
-            const lightbox = document.createElement('div');
-            lightbox.className = 'gallery-lightbox';
-            lightbox.setAttribute('aria-hidden', 'true');
-            lightbox.innerHTML = `
-                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
-                <img class="gallery-lightbox-image" alt="">
-            `;
-            document.body.appendChild(lightbox);
-
-            const closeLightbox = () => {
-                lightbox.classList.remove('is-open');
-                lightbox.setAttribute('aria-hidden', 'true');
-                document.body.classList.remove('gallery-lightbox-open');
-            };
-
-            lightbox.addEventListener('click', (event) => {
-                if (event.target === lightbox) closeLightbox();
-            });
-
-            document.addEventListener('click', (event) => {
-                const galleryImage = event.target.closest('.gallery-image');
-                if (galleryImage) {
-                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
-                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
-                    lightbox.classList.add('is-open');
-                    lightbox.setAttribute('aria-hidden', 'false');
-                    document.body.classList.add('gallery-lightbox-open');
-                    return;
-                }
-
-                if (event.target.closest('.gallery-lightbox-close')) {
-                    closeLightbox();
-                }
-            });
-
-            document.addEventListener('keydown', (event) => {
-                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
-            });
-        };
-
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
-        } else {
-            createLightbox();
-        }
-    })();
-</script>
 <p>Most stingrays have one spine (some may have up to four spines), often near the base of the tail (where the tail joins the body). Stingrays don’t sting with the tip of the tail. These spines are serrated and can cut deeply and introduce venom into the wound that can cause excruciating pain. These spines are used to protect themselves and not to hunt prey. They can replace lost spines.</p>
 
 <p><strong>Stinging encounter!</strong>
@@ -496,59 +390,6 @@ Wear covered shoes. Watch your step and walk slowly. Stingrays can be hard to sp
     
 
 </div>
-
-<script>
-    (() => {
-        const createLightbox = () => {
-            if (document.querySelector('.gallery-lightbox')) return;
-
-            const lightbox = document.createElement('div');
-            lightbox.className = 'gallery-lightbox';
-            lightbox.setAttribute('aria-hidden', 'true');
-            lightbox.innerHTML = `
-                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
-                <img class="gallery-lightbox-image" alt="">
-            `;
-            document.body.appendChild(lightbox);
-
-            const closeLightbox = () => {
-                lightbox.classList.remove('is-open');
-                lightbox.setAttribute('aria-hidden', 'true');
-                document.body.classList.remove('gallery-lightbox-open');
-            };
-
-            lightbox.addEventListener('click', (event) => {
-                if (event.target === lightbox) closeLightbox();
-            });
-
-            document.addEventListener('click', (event) => {
-                const galleryImage = event.target.closest('.gallery-image');
-                if (galleryImage) {
-                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
-                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
-                    lightbox.classList.add('is-open');
-                    lightbox.setAttribute('aria-hidden', 'false');
-                    document.body.classList.add('gallery-lightbox-open');
-                    return;
-                }
-
-                if (event.target.closest('.gallery-lightbox-close')) {
-                    closeLightbox();
-                }
-            });
-
-            document.addEventListener('keydown', (event) => {
-                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
-            });
-        };
-
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
-        } else {
-            createLightbox();
-        }
-    })();
-</script>
 <p><strong>What do they eat?</strong>
 Most rays are well adapted for bottom-dwelling. Their flattened body allows them to hover close over the bottom like a vacuum cleaner. The mouth is on the underside to forage for buried bivalves, crabs and worms. These are crushed and ground up with blunt teeth.</p>
 
@@ -580,59 +421,6 @@ The snout may function as an electroreceptive organ, sensitive to electric charg
     
 
 </div>
-
-<script>
-    (() => {
-        const createLightbox = () => {
-            if (document.querySelector('.gallery-lightbox')) return;
-
-            const lightbox = document.createElement('div');
-            lightbox.className = 'gallery-lightbox';
-            lightbox.setAttribute('aria-hidden', 'true');
-            lightbox.innerHTML = `
-                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
-                <img class="gallery-lightbox-image" alt="">
-            `;
-            document.body.appendChild(lightbox);
-
-            const closeLightbox = () => {
-                lightbox.classList.remove('is-open');
-                lightbox.setAttribute('aria-hidden', 'true');
-                document.body.classList.remove('gallery-lightbox-open');
-            };
-
-            lightbox.addEventListener('click', (event) => {
-                if (event.target === lightbox) closeLightbox();
-            });
-
-            document.addEventListener('click', (event) => {
-                const galleryImage = event.target.closest('.gallery-image');
-                if (galleryImage) {
-                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
-                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
-                    lightbox.classList.add('is-open');
-                    lightbox.setAttribute('aria-hidden', 'false');
-                    document.body.classList.add('gallery-lightbox-open');
-                    return;
-                }
-
-                if (event.target.closest('.gallery-lightbox-close')) {
-                    closeLightbox();
-                }
-            });
-
-            document.addEventListener('keydown', (event) => {
-                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
-            });
-        };
-
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
-        } else {
-            createLightbox();
-        }
-    })();
-</script>
 <p><strong>Baby rays:</strong>
 <em>**</em>
 Stingrays practice internal fertilisation. Males have a pair of claspers near the pelvic fins with grooves to introduce the sperm into the female. Stingrays give birth to live, fully developed young.</p>
@@ -676,59 +464,6 @@ Stingrays practice internal fertilisation. Males have a pair of claspers near th
 
 </div>
 
-<script>
-    (() => {
-        const createLightbox = () => {
-            if (document.querySelector('.gallery-lightbox')) return;
-
-            const lightbox = document.createElement('div');
-            lightbox.className = 'gallery-lightbox';
-            lightbox.setAttribute('aria-hidden', 'true');
-            lightbox.innerHTML = `
-                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
-                <img class="gallery-lightbox-image" alt="">
-            `;
-            document.body.appendChild(lightbox);
-
-            const closeLightbox = () => {
-                lightbox.classList.remove('is-open');
-                lightbox.setAttribute('aria-hidden', 'true');
-                document.body.classList.remove('gallery-lightbox-open');
-            };
-
-            lightbox.addEventListener('click', (event) => {
-                if (event.target === lightbox) closeLightbox();
-            });
-
-            document.addEventListener('click', (event) => {
-                const galleryImage = event.target.closest('.gallery-image');
-                if (galleryImage) {
-                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
-                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
-                    lightbox.classList.add('is-open');
-                    lightbox.setAttribute('aria-hidden', 'false');
-                    document.body.classList.add('gallery-lightbox-open');
-                    return;
-                }
-
-                if (event.target.closest('.gallery-lightbox-close')) {
-                    closeLightbox();
-                }
-            });
-
-            document.addEventListener('keydown', (event) => {
-                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
-            });
-        };
-
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
-        } else {
-            createLightbox();
-        }
-    })();
-</script>
-
 <hr />
 
 <div class="img-wrap-group">
@@ -743,59 +478,6 @@ Stingrays practice internal fertilisation. Males have a pair of claspers near th
 
 </div>
 
-<script>
-    (() => {
-        const createLightbox = () => {
-            if (document.querySelector('.gallery-lightbox')) return;
-
-            const lightbox = document.createElement('div');
-            lightbox.className = 'gallery-lightbox';
-            lightbox.setAttribute('aria-hidden', 'true');
-            lightbox.innerHTML = `
-                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
-                <img class="gallery-lightbox-image" alt="">
-            `;
-            document.body.appendChild(lightbox);
-
-            const closeLightbox = () => {
-                lightbox.classList.remove('is-open');
-                lightbox.setAttribute('aria-hidden', 'true');
-                document.body.classList.remove('gallery-lightbox-open');
-            };
-
-            lightbox.addEventListener('click', (event) => {
-                if (event.target === lightbox) closeLightbox();
-            });
-
-            document.addEventListener('click', (event) => {
-                const galleryImage = event.target.closest('.gallery-image');
-                if (galleryImage) {
-                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
-                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
-                    lightbox.classList.add('is-open');
-                    lightbox.setAttribute('aria-hidden', 'false');
-                    document.body.classList.add('gallery-lightbox-open');
-                    return;
-                }
-
-                if (event.target.closest('.gallery-lightbox-close')) {
-                    closeLightbox();
-                }
-            });
-
-            document.addEventListener('keydown', (event) => {
-                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
-            });
-        };
-
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
-        } else {
-            createLightbox();
-        }
-    })();
-</script>
-
 <hr />
 
 <div class="img-wrap-group">
@@ -809,59 +491,6 @@ Stingrays practice internal fertilisation. Males have a pair of claspers near th
     
 
 </div>
-
-<script>
-    (() => {
-        const createLightbox = () => {
-            if (document.querySelector('.gallery-lightbox')) return;
-
-            const lightbox = document.createElement('div');
-            lightbox.className = 'gallery-lightbox';
-            lightbox.setAttribute('aria-hidden', 'true');
-            lightbox.innerHTML = `
-                <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
-                <img class="gallery-lightbox-image" alt="">
-            `;
-            document.body.appendChild(lightbox);
-
-            const closeLightbox = () => {
-                lightbox.classList.remove('is-open');
-                lightbox.setAttribute('aria-hidden', 'true');
-                document.body.classList.remove('gallery-lightbox-open');
-            };
-
-            lightbox.addEventListener('click', (event) => {
-                if (event.target === lightbox) closeLightbox();
-            });
-
-            document.addEventListener('click', (event) => {
-                const galleryImage = event.target.closest('.gallery-image');
-                if (galleryImage) {
-                    lightbox.querySelector('.gallery-lightbox-image').src = galleryImage.src;
-                    lightbox.querySelector('.gallery-lightbox-image').alt = galleryImage.alt;
-                    lightbox.classList.add('is-open');
-                    lightbox.setAttribute('aria-hidden', 'false');
-                    document.body.classList.add('gallery-lightbox-open');
-                    return;
-                }
-
-                if (event.target.closest('.gallery-lightbox-close')) {
-                    closeLightbox();
-                }
-            });
-
-            document.addEventListener('keydown', (event) => {
-                if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
-            });
-        };
-
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
-        } else {
-            createLightbox();
-        }
-    })();
-</script>
 
 <hr />
 
