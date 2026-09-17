@@ -159,7 +159,127 @@ let places = {
     "bukit-timah-nature-reserve" : {
         "label":"Bukit Timah Nature Reserve",
         "img":"https://images.naturehungry.sg/photos/posts/CoverImages/JungleFallTrail.jpg",
-        "link":"/articles/locations/bukit-timah-nature-reserve/",
+        "link":"/articles/locations/forest/mature-secondary-forest/bukit-timah-nature-reserve/",
+        "description": ""
+    },
+      
+    
+    
+    
+    "tagore" : {
+        "label":"Tagore Forest",
+        "img":"",
+        "link":"/articles/locations/forest/mature-secondary-forest/tagore/",
+        "description": ""
+    },
+      
+    
+    
+    
+    "aw" : {
+        "label":"Alexandra Woodland",
+        "img":"",
+        "link":"/articles/locations/forest/young-secondary-forest/aw/",
+        "description": ""
+    },
+      
+    
+    
+    
+    "bahar" : {
+        "label":"Bahar Forest",
+        "img":"",
+        "link":"/articles/locations/forest/young-secondary-forest/bahar/",
+        "description": ""
+    },
+      
+    
+    
+    
+    "bukitbatok" : {
+        "label":"Bukit Batok Nature Corridor",
+        "img":"",
+        "link":"/articles/locations/forest/young-secondary-forest/bukitbatok/",
+        "description": ""
+    },
+      
+    
+    
+    
+    "bukitbrown" : {
+        "label":"Bukit Brown Cemetery",
+        "img":"",
+        "link":"/articles/locations/forest/young-secondary-forest/bukitbrown/",
+        "description": ""
+    },
+      
+    
+    
+    
+    "clemmaju" : {
+        "label":"Clementi-Maju",
+        "img":"",
+        "link":"/articles/locations/forest/young-secondary-forest/clemmaju/",
+        "description": ""
+    },
+      
+    
+    
+    
+    "tengah" : {
+        "label":"Tengah Forest",
+        "img":"",
+        "link":"/articles/locations/forest/young-secondary-forest/tengah/",
+        "description": ""
+    },
+      
+    
+    
+    
+    "tnp" : {
+        "label":"Thomson Nature Park",
+        "img":"",
+        "link":"/articles/locations/forest/young-secondary-forest/tnp/",
+        "description": ""
+    },
+      
+    
+    
+    
+    "bamk" : {
+        "label":"Bishan-Ang Mo Kio Park",
+        "img":"",
+        "link":"/articles/locations/gardensandparks/bamk/",
+        "description": ""
+    },
+      
+    
+    
+    
+    "sbg" : {
+        "label":"Singapore Botanic Gardens",
+        "img":"",
+        "link":"/articles/locations/gardensandparks/sbg/",
+        "description": ""
+    },
+      
+    
+    
+    
+    "jlg-lonetree" : {
+        "label":"Jurong Lake Gardens Lone Tree Grassland",
+        "img":"",
+        "link":"/articles/locations/grassland/jlg-lonetree/",
+        "description": ""
+    },
+      
+    
+    
+    
+    "lorongladahitam" : {
+        "label":"Lorong Lada Hitam Grassland",
+        "img":"",
+        "link":"/articles/locations/grassland/lorongladahitam/",
         "description": ""
     },
       
@@ -390,6 +510,26 @@ let places = {
         "label":"Pulau Ubin",
         "img":"",
         "link":"/articles/locations/ubin/",
+        "description": ""
+    },
+      
+    
+    
+    
+    "jlg-floatingwetland" : {
+        "label":"Jurong Lake Gardens Floating Wetlands",
+        "img":"",
+        "link":"/articles/locations/wetland/jlg-floatingwetland/",
+        "description": ""
+    },
+      
+    
+    
+    
+    "sbwr" : {
+        "label":"Sungei Buloh Wetland Reserve",
+        "img":"",
+        "link":"/articles/locations/wetland/sbwr/",
         "description": ""
     },
       
