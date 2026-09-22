@@ -156,10 +156,42 @@ let places = {
     
     
     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    "labrador-nature-reserve" : {
+        "label":"Labrador Nature Reserve",
+        "img":"",
+        "link":"/articles/locations/forest/coastalforest/labrador-nature-reserve/",
+        "description": ""
+    },
+      
+    
+    
+    
     "bukit-timah-nature-reserve" : {
         "label":"Bukit Timah Nature Reserve",
         "img":"https://images.naturehungry.sg/photos/posts/CoverImages/JungleFallTrail.jpg",
-        "link":"/articles/locations/forest/mature-secondary-forest/bukit-timah-nature-reserve/",
+        "link":"/articles/locations/forest/lowlandforest/bukit-timah-nature-reserve/",
+        "description": ""
+    },
+      
+    
+    
+    
+    "central-catchment-nature-reserve" : {
+        "label":"Central Catchment Nature Reserve",
+        "img":"https://images.naturehungry.sg/photos/posts/CoverImages/JungleFallTrail.jpg",
+        "link":"/articles/locations/forest/lowlandforest/central-catchment-nature-reserve/",
         "description": ""
     },
       
@@ -169,7 +201,7 @@ let places = {
     "tagore" : {
         "label":"Tagore Forest",
         "img":"",
-        "link":"/articles/locations/forest/mature-secondary-forest/tagore/",
+        "link":"/articles/locations/forest/lowlandforest/tagore/",
         "description": ""
     },
       
@@ -256,6 +288,16 @@ let places = {
     
     
     
+    "ecp" : {
+        "label":"East Coast Park",
+        "img":"https://images.naturehungry.sg/photos/LandReclamation/EastCoastPark.jpg",
+        "link":"/articles/locations/gardensandparks/ecp/",
+        "description": ""
+    },
+      
+    
+    
+    
     "sbg" : {
         "label":"Singapore Botanic Gardens",
         "img":"",
@@ -327,8 +369,8 @@ let places = {
     
     
     "cyrenereef" : {
-        "label":"Cyrene ",
-        "img":"",
+        "label":"Cyrene (Terumbu Pandan)",
+        "img":"https://images.naturehungry.sg/photos/LandReclamation/CyreneReef.jpg",
         "link":"/articles/locations/intertidal/southernislands/cyrenereef/",
         "description": "Cyrene Reef is a rich marine habitat with coral reefs, seagrass meadows and other intertidal life along Singapore's southern shores."
     },
