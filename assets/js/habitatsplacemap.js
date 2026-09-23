@@ -168,6 +168,8 @@ let places = {
     
     
     
+    
+    
     "labrador-nature-reserve" : {
         "label":"Labrador Nature Reserve",
         "img":"",
